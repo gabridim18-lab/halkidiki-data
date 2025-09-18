@@ -1,0 +1,23 @@
+[
+  {
+    "id": "zak_bistrot",
+    "beachSlug": "nea_krini_beach",
+    "titleEn": "Zak Contemporary Bistrot",
+    "titleRo": "Zak Contemporary Bistrot",
+    "address": "Nik. Plastira 35, Kalamaria 551 32, Greece",
+    "hoursEn": "Mon–Thu 09:00–02:00, Fri–Sat 09:00–03:00, Sun 09:00–02:00",
+    "hoursRo": "Lun–Joi 09:00–02:00, Vin–Sâm 09:00–03:00, Dum 09:00–02:00",
+    "website": "http://zak-bistrot.gr/",
+    "facebook": null,
+    "instagram": null,
+    "phone": "+30 2310 438 921",
+    "email": null,
+    "price": "$$",
+    "rating": 4.5,
+    "descriptionEn": "Zak Contemporary Bistrot in Kalamaria blends modern Mediterranean cuisine with artistic flair...",
+    "descriptionRo": "Zak Contemporary Bistrot din Kalamaria îmbină bucătăria mediteraneană modernă cu un aer artistic...",
+    "images": [
+      "https://raw.githubusercontent.com/<username>/halkidiki-data/main/images/res_zak.webp"
+    ]
+  }
+]
