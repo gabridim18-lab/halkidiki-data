@@ -1,0 +1,24 @@
+[
+  {
+    "id": "avra_luxury_apartment",
+    "beachSlug": "perea_beach",
+    "titleEn": "Avra Luxury Apartment",
+    "titleRo": "Avra Luxury Apartment",
+    "address": "Aristofani 18, Perea 570 19, Greece",
+    "phone": "+306988322230",
+    "email": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null,
+    "rating": 9.5,
+    "ratingScale": 10,
+    "lat": null,
+    "lon": null,
+    "distanceMetersOverride": 595,
+    "descriptionEn": "Modern one-bedroom apartment in Perea with terrace and quick access to the seafront...",
+    "descriptionRo": "Apartament modern cu un dormitor în Perea, cu terasă și acces rapid la faleză...",
+    "images": [
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/images/acc_avra.webp"
+    ]
+  }
+]
