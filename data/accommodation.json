@@ -8,6 +8,7 @@
     "phone": "+306988322230",
     "rating": 9.5,
     "ratingScale": 10,
+    "featured": true,
     "lat": null,
     "lon": null,
     "distanceMetersOverride": 595,
@@ -52,7 +53,7 @@
   "email": "halkidiki@xeniuszeus.com",
   "rating": 10,
   "ratingScale": 10,
-  "featured": true
+  "featured": true,
   "lat": 40.15335666328301,  
   "lon": 23.354677025936237,
   "distanceMetersOverride": 185,
