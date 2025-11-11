@@ -52,6 +52,7 @@
   "email": "halkidiki@xeniuszeus.com",
   "rating": 10,
   "ratingScale": 10,
+  "featured": true
   "lat": 40.15335666328301,  
   "lon": 23.354677025936237,
   "distanceMetersOverride": 185,
