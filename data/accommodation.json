@@ -1,7 +1,7 @@
 [
   {
     "id": "avra_luxury_apartment",
-    "beachSlug": "perea_beach",
+    "beachSlug": "Perea Beach",
     "titleEn": "Avra Luxury Apartment",
     "titleRo": "Avra Luxury Apartment",
     "address": "Aristofani 18, Perea 570 19, Greece",
@@ -19,7 +19,7 @@
   },
   {
   "id": "kleo_house_kalyves",
-  "beachSlug": "kalyves_beach",
+  "beachSlug": "Kalyves Beach",
   "titleEn": "Kleo House — Kalyves (Polygyros), Halkidiki",
   "titleRo": "Kleo House — Kalyves (Polygyros), Halkidiki",
   "address": "Kalyves, Polygyrou 631 00, Greece",
@@ -44,7 +44,7 @@
 },
    {
   "id": "villa_traditional_estate_nea_potidea_beach",
-  "beachSlug": "nea_potidea_beach",
+  "beachSlug": "Nea Potidea Beach",
   "titleEn": "Villa Traditional Estate — Nea Potidea, Halkidiki",
   "titleRo": "Vila Traditional Estate — Nea Potidea, Halkidiki",
   "address": "Traditional Estate, Moudania 632 00, Greece",
