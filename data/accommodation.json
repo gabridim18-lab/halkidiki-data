@@ -16,7 +16,8 @@
     "descriptionRo": "Apartament modern cu un dormitor în Perea, cu terasă și acces rapid la faleză...",
     "images": [
   "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_avra.webp"
-]
+],
+    "category": "family_friendly"
   },
   {
   "id": "kleo_house_kalyves",
