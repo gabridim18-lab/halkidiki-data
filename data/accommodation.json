@@ -9,7 +9,6 @@
     "category": "family_friendly",
     "rating": 9.5,
     "ratingScale": 10,
-    "featured": true,
     "lat": null,
     "lon": null,
     "distanceMetersOverride": 595,
