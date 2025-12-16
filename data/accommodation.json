@@ -207,34 +207,6 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_villa_verde16.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_villa_verde17.webp"
   ]
-},
-  {
-  "id": "little_paradise_siviri",
-  "beachSlug": "Siviri Beach",
-  "titleEn": "Little Paradise in Siviri",
-  "titleRo": "Little Paradise in Siviri",
-  "address": "Unnamed Road, Siviri 630 77, Grecia",
-  "phone": "+40772158578",
-  "email": "contact@tomcruisesgreece.com",
-  "website": "https://tinyurl.com/c38j8epb",
-  "category": "escape_and_relax",
-  "rating": 9.8,
-  "ratingScale": 10,
-  "lat": 40.038187404037195,  
-  "lon": 23.36598450414698,
-  "distanceMetersOverride": 605,
-  "descriptionEn": "Little Paradise in Siviri is a serene vacation home offering 3 bedrooms, a modern kitchen, and 2 bathrooms, with beautiful mountain and garden views from the cozy living room. Guests can enjoy a private terrace with barbecue facilities, a picnic area, and outdoor seating. Located just an 8-minute walk from Siviri Beach and 1.5 miles from Elani Beach, it provides easy access to the coastline. With outstanding cleanliness and excellent value for money scores, this property is ideal for travelers seeking a peaceful retreat in Halkidiki. Thessaloniki Airport is 51 miles away.",
-  "descriptionRo": "Little Paradise din Siviri este o casă de vacanță liniștită, cu 3 dormitoare, o bucătărie modernă și 2 băi, oferind vedere frumoasă spre munți și grădină din livingul primitor. Oaspeții beneficiază de terasă privată cu facilități pentru grătar, zonă de picnic și spațiu de relaxare în aer liber. Situată la doar 8 minute de mers pe jos de Plaja Siviri și la 1.5 mile de Plaja Elani, proprietatea oferă acces rapid la coastă. Cu scoruri excelente la curățenie și raport calitate-preț, este ideală pentru turiști care caută un refugiu liniștit în Halkidiki. Aeroportul Salonic se află la 51 de mile.",
-  "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri2.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri3.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri4.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri5.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri6.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri7.webp"
-  ]
 }
    
 ]
