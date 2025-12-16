@@ -235,34 +235,6 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri6.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_paradise_siviri7.webp"
   ]
-},
-  {
-  "id": "ergo_house_siviri",
-  "beachSlug": "Siviri Beach",
-  "titleEn": "Ergo House Nephele",
-  "titleRo": "Ergo House Nephele",
-  "address": "29P7+52 Siviri, Greece",
-  "phone": "+306977256271",
-  "email": "booking@ergo-house.gr",
-  "website": "https://ergo-house.gr/",
-  "category": "escape_and_relax",
-  "rating": 10,
-  "ratingScale": 10,
-  "lat": 40.035416478058124,  
-  "lon": 23.362545246154173,
-  "distanceMetersOverride": 240,
-  "descriptionEn": "Nestled in the heart of Siviri, just 100 meters from the beautiful sandy beach, Nephele Apartment is a modern and stylish 60 m² accommodation designed for a comfortable and relaxing stay. The apartment features one bedroom with a queen-size bed, a cozy living room, a fully equipped modern kitchen, a bathroom, and a charming balcony with seaside views. Recently renovated and furnished with brand new furniture and state-of-the-art appliances, every detail reflects attention to comfort and design. Guests can enjoy high-speed Wi-Fi, heating, free parking, bathroom essentials, bedroom comforts, a hair dryer, and a spacious terrace. Ideal for up to two adults and two children, Nephele Apartment offers an exclusive, elegant, and welcoming atmosphere, making it the perfect choice for travelers seeking both luxury and a true feeling of home by the sea.",
-  "descriptionRo": "Situat în inima localității Siviri, la doar 100 de metri de plaja cu nisip fin, Nephele Apartment este un apartament modern și elegant de 60 m², creat pentru un sejur confortabil și relaxant. Apartamentul dispune de un dormitor cu pat queen size, un living primitor, o bucătărie modernă complet utilată, o baie și un balcon cochet cu vedere spre mare. Recent renovat și mobilat cu piese noi și electrocasnice de ultimă generație, fiecare detaliu reflectă atenția pentru confort și design. Oaspeții beneficiază de Wi-Fi de mare viteză, încălzire, parcare gratuită, articole esențiale pentru baie, facilități pentru dormitor, uscător de păr și o terasă spațioasă. Ideal pentru până la doi adulți și doi copii, Nephele Apartment oferă o atmosferă exclusivă, rafinată și primitoare, fiind alegerea perfectă pentru cei care caută lux și senzația de „acasă” chiar lângă mare.",
-  "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele2.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele3.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele4.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele5.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele6.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele7.webp"
-  ]
 }
    
 ]
