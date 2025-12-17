@@ -236,6 +236,36 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele7.webp"
   ]
 },
+{
+  "id": "ergo_house_siviri",
+  "beachSlug": "Siviri Beach",
+  "titleEn": "Ergo House Harmony",
+  "titleRo": "Ergo House Harmony",
+  "address": "29Q7+XF Siviri, Greece",
+  "phone": "+306977256271",
+  "email": "booking@ergo-house.gr",
+  "website": "https://ergo-house.gr/",
+  "category": "escape_and_relax",
+  "rating": 10,
+  "ratingScale": 10,
+  "lat": 40.04004532264249,    
+  "lon": 23.363772599087635,
+  "distanceMetersOverride": 485,
+  "descriptionEn": "Harmony Apartment is located in the picturesque village of Siviri, a destination that promises the relaxation you are looking for. Situated just 300 meters from the nearest beach and the center of Siviri, the apartment offers a unique setting with views of the pine forest of Kassandra at the front and a peaceful garden at the back, featuring a communal BBQ area and kiosk. Designed to accommodate up to four guests, the apartment includes two comfortable bedrooms, one bathroom, a spacious living room, and a fully equipped kitchen. With a total surface of 80 mp, Harmony Apartment provides all essential amenities such as high-speed Wi-Fi, heating, free parking, bathroom essentials, bedroom comforts, a hair dryer, and a private terrace. Combining space, comfort, and a serene natural environment, Harmony Apartment is the ideal choice for travelers seeking a luxurious yet tranquil stay close to both nature and the sea.",
+  "descriptionRo": "Harmony Apartment este situat în pitorescul sat Siviri, o destinație care îți oferă exact relaxarea pe care o cauți. Aflat la doar 300 de metri de cea mai apropiată plajă și de centrul localității Siviri, apartamentul beneficiază de o amplasare specială, cu vedere spre pădurea de pini din Kassandra în față și o grădină liniștită în spate, dotată cu zonă comună de BBQ și chioșc. Conceput pentru a găzdui până la patru oaspeți, apartamentul dispune de două dormitoare confortabile, o baie, un living spațios și o bucătărie complet utilată. Cu o suprafață totală de 80 mp, Harmony Apartment oferă toate facilitățile esențiale, precum Wi-Fi de mare viteză, încălzire, parcare gratuită, articole esențiale pentru baie, facilități pentru dormitor, uscător de păr și o terasă privată. Îmbinând spațiul generos, confortul și liniștea naturii, Harmony Apartment este alegerea ideală pentru cei care își doresc un sejur rafinat, aproape de mare și în mijlocul naturii.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony7.webp"
+  ]
+},
+
+  
   {
   "id": "little_paradise_siviri",
   "beachSlug": "Siviri Beach",
