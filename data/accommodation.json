@@ -248,6 +248,7 @@
   "category": "escape_and_relax",
   "rating": 10,
   "ratingScale": 10,
+    "featured": true,
   "lat": 40.035416478058124,  
   "lon": 23.362545246154173,
   "distanceMetersOverride": 485,
