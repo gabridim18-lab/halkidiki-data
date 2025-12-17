@@ -236,8 +236,34 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele7.webp"
   ]
 },
-
-  
+  {
+  "id": "ergo_house_harmony",
+  "beachSlug": "Siviri Beach",
+  "titleEn": "Ergo House Harmony",
+  "titleRo": "Ergo House Harmony",
+  "address": "29Q7+XF Siviri, Greece",
+  "phone": "+306977256271",
+  "email": "booking@ergo-house.gr",
+  "website": "https://ergo-house.gr/",
+  "category": "escape_and_relax",
+  "rating": 10,
+  "ratingScale": 10,
+  "lat": 40.035416478058124,  
+  "lon": 23.362545246154173,
+  "distanceMetersOverride": 485,
+  "descriptionEn": "",
+  "descriptionRo": "",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/nephele7.webp"
+  ]
+},
   {
   "id": "little_paradise_siviri",
   "beachSlug": "Siviri Beach",
