@@ -265,6 +265,31 @@
   ]
 },
   {
+  "id": "ergo_house_aphrodite",
+  "beachSlug": "Siviri Beach",
+  "titleEn": "Ergo House Aphrodite",
+  "titleRo": "Ergo House Aphrodite",
+  "address": "29Q5+JW Siviri, Greece",
+  "phone": "+306977256271",
+  "email": "booking@ergo-house.gr",
+  "website": "https://ergo-house.gr/",
+  "category": "escape_and_relax",
+  "rating": 10,
+  "ratingScale": 10,
+  "lat": 40.03927270865929,   
+  "lon": 23.35973681072374,
+  "distanceMetersOverride": 148,
+  "descriptionEn": "",
+  "descriptionRo": "",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/ergoharmony4.webp"
+  ]
+},
+  {
   "id": "little_paradise_siviri",
   "beachSlug": "Siviri Beach",
   "titleEn": "Little Paradise in Siviri",
