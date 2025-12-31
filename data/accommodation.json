@@ -366,6 +366,7 @@
     "guests": 10,
 "sizeSqm": 110,
 "view": "Seaside view",
+    "featured": true,
   "lat": 39.98504921473634,   
   "lon": 23.62132729385788,
   "distanceMetersOverride": 365,
