@@ -389,6 +389,49 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_detached13.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_detached14.webp"
   ]
+},
+  {
+  "id": "amazing_view_by_the_pool",
+  "beachSlug": "Trani Ammouda",
+  "titleEn": "Amazing View by the Pool",
+  "titleRo": "Amazing View by the Pool",
+  "address": "Amazing View by the Pool in Agios Nikolaos, Οδός Σταυρού, Ag. Nikolaos 630 78, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com ",
+  "website": "https://xeniuszeus.com/",
+  "category": "perfect_for_groups",
+  "rating": 10,
+  "ratingScale": 10,
+    "featured": true,
+    "guests": 10,
+"sizeSqm": 140,
+"view": "Sea view",
+  "lat": 39.98504921473634,   
+  "lon": 23.62132729385788,
+  "distanceMetersOverride": 2110,
+  "descriptionEn": "Welcome to Amazing View by the Pool in Agios Nikolaos II, a spacious and elegant villa located in the charming village of Agios Nikolaos on the Sithonia peninsula in Halkidiki, Greece, a region celebrated for its Mediterranean landscapes, clear waters, and tranquil atmosphere. This property features four comfortable bedrooms and three modern bathrooms, accommodating up to 10 guests — perfect for large groups or family holidays. The villa is set in a peaceful area with spectacular panoramic views and includes a private outdoor pool and well-furnished outdoor spaces where guests can enjoy alfresco dining, relaxing moments, and beautiful vistas. Inside, you’ll find a fully equipped modern kitchen, a cozy living room, air conditioning in the bedrooms, and all the amenities needed for a comfortable stay. Nearby, you can explore the traditional village of Agios Nikolaos with its authentic Greek tavernas, bars, and local shops, and the sandy beaches with crystal-clear waters of the Toroneos Gulf are just a short drive away. This location perfectly blends serenity, nature, and easy access to the attractions and conveniences of Sithonia.",
+  "descriptionRo": "Bine ați venit la Amazing View by the Pool in Agios Nikolaos II, o vilă spațioasă și elegantă situată în satul Agios Nikolaos din peninsula Sithonia, Halkidiki, o zonă renumită pentru peisajele sale mediteraneene, plajele cu apă cristaline și atmosfera relaxată. Proprietatea oferă patru dormitoare confortabile și trei băi moderne, fiind ideală pentru grupuri mari sau familii de până la 10 persoane. Vila este amplasată într-o locație liniștită, cu panorame spectaculoase asupra împrejurimilor, și dispune de o piscină privată în aer liber și zone exterioare mobilate unde vă puteți bucura de mese în aer liber, momente de relaxare și priveliști frumoase. Interiorul este complet echipat, cu bucătărie modernă, living confortabil, aer condiționat în camere și toate facilitățile necesare pentru un sejur plăcut. În apropiere puteți explora tradiționalul sat Agios Nikolaos cu taverne grecești autentice, baruri și magazine locale, iar plajele cu nisip fin și apele limpezi ale Golfului Toroneos sunt accesibile cu mașina în câteva minute. Locația oferă combinația perfectă între liniște, natură și acces la atracțiile și facilitățile din Sithonia.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view11.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view12.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view13.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view14.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view15.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view16.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view17.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_amazing_view18.webp"
+  ]
 }
    
 ]
