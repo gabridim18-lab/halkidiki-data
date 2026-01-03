@@ -25,6 +25,7 @@
   {
   "id": "kleo_house_kalyves",
   "beachSlug": "Kalyves Beach",
+    "zone": "Kassandra",
   "titleEn": "Kleo House — Kalyves (Polygyros), Halkidiki",
   "titleRo": "Kleo House — Kalyves (Polygyros), Halkidiki",
   "address": "KLEO HOUSE, Kalives Poligirou 631 00, Greece",
@@ -54,6 +55,7 @@
    {
   "id": "villa_traditional_estate_nea_potidea_beach",
   "beachSlug": "Nea Potidea Beach",
+     "zone": "Kassandra",
   "titleEn": "Villa Traditional Estate — Nea Potidea, Halkidiki",
   "titleRo": "Vila Traditional Estate — Nea Potidea, Halkidiki",
   "address": "Traditional Estate, Moudania 632 00, Greece",
@@ -92,6 +94,7 @@
   {
   "id": "amira_house_sykia",
   "beachSlug": "Sykias Beach",
+    "zone": "Sithonia",
   "titleEn": "Amira House — Sykia (Sithonia), Halkidiki",
   "titleRo": "Amira House — Sykia (Sithonia), Halkidiki",
   "address": "Amira House - Sithonia Chalkidiki, Συκιά, Sikia 630 72, Greece",
@@ -125,6 +128,7 @@
   {
   "id": "villa_veneti_suite",
   "beachSlug": "Nea Moudania Beach",
+    "zone": "Kassandra",
   "titleEn": "Villa Veneti Suite - Nea Moudania - 80m2",
   "titleRo": "Villa Veneti Suite - Nea Moudania - 80m2",
   "address": "Moschonision Kidonion 3-1,Nea Moudania 632 00, Grecia",
@@ -157,6 +161,7 @@
   {
   "id": "villa_veneti_probio_140m",
   "beachSlug": "Paralia Nea Moudania",
+    "zone": "Kassandra",
   "titleEn": "Villa Veneti Probio - Nea Moudania - 140m2",
   "titleRo": "Villa Veneti Probio - Nea Moudania - 140m2",
   "address": "Moschonision Kidonion 3-1,Nea Moudania 632 00, Grecia",
@@ -191,6 +196,7 @@
   {
   "id": "villa_verde_paliouri",
   "beachSlug": "Paliouri Beach",
+    "zone": "Kassandra",
   "titleEn": "Villa Verde Paliouri",
   "titleRo": "Villa Verde Paliouri",
   "address": "Unnamed Road, Kassandra 630 85, Grecia",
@@ -233,6 +239,7 @@
   {
   "id": "ergo_house_siviri",
   "beachSlug": "Siviri Beach",
+    "zone": "Kassandra",
   "titleEn": "Ergo House Nephele",
   "titleRo": "Ergo House Nephele",
   "address": "29P7+52 Siviri, Greece",
@@ -264,6 +271,7 @@
   {
   "id": "ergo_house_harmony",
   "beachSlug": "Siviri Beach",
+    "zone": "Kassandra",
   "titleEn": "Ergo House Harmony",
   "titleRo": "Ergo House Harmony",
   "address": "29Q7+XF Siviri, Greece",
@@ -296,6 +304,7 @@
   {
   "id": "ergo_house_aphrodite",
   "beachSlug": "Siviri Beach",
+    "zone": "Kassandra",
   "titleEn": "Ergo House Aphrodite",
   "titleRo": "Ergo House Aphrodite",
   "address": "29Q5+JW Siviri, Greece",
@@ -324,6 +333,7 @@
   {
   "id": "little_paradise_siviri",
   "beachSlug": "Siviri Beach",
+    "zone": "Kassandra",
   "titleEn": "Little Paradise in Siviri",
   "titleRo": "Little Paradise in Siviri",
   "address": "Unnamed Road, Siviri 630 77, Grecia",
@@ -355,6 +365,7 @@
   {
   "id": "detached_house_pefkochori",
   "beachSlug": "Paralia Pefkochori",
+    "zone": "Kassandra",
   "titleEn": "Detached House in Pefkochori",
   "titleRo": "Detached House in Pefkochori",
   "address": "XJMC+XG, Pallini 630 85, Greece",
@@ -394,6 +405,7 @@
   {
   "id": "amazing_view_by_the_pool",
   "beachSlug": "Trani Ammouda",
+    "zone": "Sithonia",
   "titleEn": "Amazing View by the Pool",
   "titleRo": "Amazing View by the Pool",
   "address": "Amazing View by the Pool in Agios Nikolaos, Οδός Σταυρού, Ag. Nikolaos 630 78, Greece",
