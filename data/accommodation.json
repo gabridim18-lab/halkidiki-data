@@ -633,7 +633,7 @@
   "rating": 10,
   "ratingScale": 10,
     "featured": true,
-    "guests": 8-10,
+    "guests": 10,
 "sizeSqm": 70,
 "view": "Sea view",
     "bedrooms": 2,
@@ -650,7 +650,7 @@
   "lon": 23.74519101534556,
   "distanceMetersOverride": 150,
   "descriptionEn": "Welcome to our beautiful house in Lagonisi, Vourvourou, a peaceful retreat surrounded by nature, ideal for families or groups seeking a relaxing holiday in Halkidiki. The house offers privacy, comfort, and flexibility for every guest. Inside, you will find a bright living room with a sofa that converts into a double bed and a fully equipped kitchen, perfect for family meals. The property features three air-conditioned bedrooms, two with double beds and one with two single beds, along with a modern bathroom with shower and an additional outdoor shower bathroom. Outside, the house is surrounded by a lush green garden and offers open views to the crystal-clear sea, an outdoor lounge area, BBQ corner, outdoor shower, WC, and a spacious veranda ideal for relaxing mornings or sunset evenings. Fresh linens and towels are provided, the house is fully equipped, and a washing machine is available. Private parking is provided on site. The nearest beach is just a 3-minute drive away, with restaurants, shops, and local attractions nearby, while still offering peace and privacy. This property is perfect for families with children or groups of friends looking for comfort, relaxation, and a true feeling of home in Vourvourou, Lagonisi.",
-  "descriptionRo": "",
+  "descriptionRo": "Bine ați venit în casa noastră din Lagonisi, Vourvourou, un refugiu liniștit, înconjurat de natură, ideal pentru familii sau grupuri care își doresc o vacanță relaxantă în Halkidiki. Casa oferă intimitate, confort și flexibilitate pentru toți oaspeții. În interior se află un living luminos cu o canapea extensibilă în pat dublu și o bucătărie complet utilată, perfectă pentru mesele în familie. Proprietatea dispune de trei dormitoare cu aer condiționat, două cu pat dublu și unul cu două paturi single, precum și o baie modernă cu duș și un duș exterior suplimentar. În exterior, casa este înconjurată de o grădină verde și oferă vedere către marea limpede, zonă de lounge, colț BBQ complet utilat, duș exterior, WC și o verandă spațioasă ideală pentru dimineți relaxante sau seri la apus. Sunt oferite lenjerii și prosoape curate, casa este complet echipată, iar mașina de spălat este disponibilă. Parcarea privată este asigurată în incintă. Cea mai apropiată plajă se află la doar 3 minute de mers cu mașina, iar restaurantele, magazinele și atracțiile locale sunt în apropiere, păstrând în același timp liniștea și intimitatea. Proprietatea este perfectă pentru familii cu copii sau grupuri de prieteni care caută confort, relaxare și senzația de acasă în Vourvourou, Lagonisi.",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/holiday_home_lagonisi.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/holiday_home_lagonisi1.webp",
