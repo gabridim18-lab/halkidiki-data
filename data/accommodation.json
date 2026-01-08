@@ -664,6 +664,51 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/holiday_home_lagonisi9.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/holiday_home_lagonisi10.webp"
   ]
+},
+  {
+  "id": "electra_beach_appartment_skioni",
+  "beachSlug": "Nea Skioni Beach",
+    "zone": "Kassandra",
+  "titleEn": "Electra’s Beach Apartment in Nea Skioni",
+  "titleRo": "Electra’s Beach Apartment in Nea Skioni",
+  "address": "WGXH+4G, Nea Skioni 630 85, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com ",
+  "website": "https://xeniuszeus.com/",
+  "category": "family_friendly",
+  "rating": 9.6,
+  "ratingScale": 10,
+    "featured": true,
+    "guests": 4,
+"sizeSqm": 55,
+"view": "Sea view",
+    "bedrooms": 1,
+"petFriendly": false,
+"pool": false,
+"wifi": true,
+"parking": true,
+"airConditioning": true,
+"kitchen": true,
+"washer": true,
+"balcony": true,
+"bbq": false,
+  "lat": 39.94783119895701,     
+  "lon": 23.5277559412635,
+  "distanceMetersOverride": 25,
+  "descriptionEn": "Welcome to our spacious and sunny apartment, a quiet retreat in Nea Skioni, ideal for relaxing and unforgettable summer holidays in Halkidiki. The apartment is located on the first floor, just a few steps from the sea, and features one bedroom with a double bed, a modern bathroom with shower, and a spacious living room with a fully equipped kitchen. The living room includes a couch that can be converted into a double bed, offering flexibility for additional guests. Outside, the apartment offers a large sunny balcony with open sea views, perfect for relaxing moments, morning coffee, refreshing dips in the nearby crystal-clear waters, or sunset drinks with family and friends. Fresh linens and towels are provided, and the apartment is fully equipped with all essentials, including air conditioning in every room and a washing machine. There is no private parking, but free street parking is available where permitted. The nearest beach is just 20 steps away, while restaurants, shops, and local points of interest are within walking distance, combining peace, privacy, and convenience. This apartment is ideal for families with children or groups of friends seeking comfort, relaxation, and a true feeling of home in Nea Skioni.",
+  "descriptionRo": "Bine ați venit în apartamentul nostru spațios și luminos, un refugiu liniștit în Nea Skioni, ideal pentru vacanțe de vară relaxante și memorabile în Halkidiki. Apartamentul este situat la etajul întâi, la doar câțiva pași de mare, și dispune de un dormitor cu pat dublu, o baie modernă cu duș și un living generos cu bucătărie complet utilată. Livingul include o canapea extensibilă în pat dublu, oferind flexibilitate pentru oaspeți suplimentari. În exterior, apartamentul beneficiază de un balcon mare și însorit, cu vedere deschisă către mare, perfect pentru momente de relaxare, cafeaua de dimineață, băi răcoritoare în apele limpezi din apropiere sau seri la apus alături de familie și prieteni. Sunt oferite lenjerii și prosoape curate, iar apartamentul este complet echipat, inclusiv cu aer condiționat în fiecare cameră și mașină de spălat. Nu există parcare privată, însă parcarea gratuită pe stradă este disponibilă acolo unde este permisă. Cea mai apropiată plajă se află la doar 20 de pași, iar restaurantele, magazinele și punctele de interes sunt la distanță de mers pe jos, oferind liniște, intimitate și acces facil. Proprietatea este ideală pentru familii cu copii sau grupuri de prieteni care caută confort, relaxare și senzația de acasă în Nea Skioni.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni6.webp",
+     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni9.webp"
+  ]
 }
    
 ]
