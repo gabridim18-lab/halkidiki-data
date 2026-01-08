@@ -708,6 +708,53 @@
      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni7.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/electra_app_skioni8.webp"
   ]
+},
+  {
+  "id": "elena_maisonette_nea_plagia",
+  "beachSlug": "Nea Plagia Beach",
+    "zone": "Thessaloniki",
+  "titleEn": "Elena’s Maisonette in Nea Plagia",
+  "titleRo": "Elena’s Maisonette in Nea Plagia",
+  "address": "https://maps.app.goo.gl/FUBSY7hvBeHGH9N97",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com ",
+  "website": "https://xeniuszeus.com/",
+  "category": "family_friendly",
+  "rating": 9.6,
+  "ratingScale": 10,
+    "featured": true,
+    "guests": 10,
+"sizeSqm": 120,
+"view": "Garden view",
+    "bedrooms": 3,
+"petFriendly": false,
+"pool": true,
+"wifi": true,
+"parking": true,
+"airConditioning": true,
+"kitchen": true,
+"washer": true,
+"balcony": true,
+"bbq": true,
+  "lat": 40.26230195484463,      
+  "lon": 23.209078651617055,
+  "distanceMetersOverride": 25,
+  "descriptionEn": "",
+  "descriptionRo": "",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia6.webp",
+     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia7.webp",
+     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia9.webp",
+     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/elena_maisonette_nea_plagia11.webp"
+  ]
 }
    
 ]
