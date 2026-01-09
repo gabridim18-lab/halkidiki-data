@@ -1066,50 +1066,7 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/private_vila_sani11.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/private_vila_sani12.webp"
   ]
-},
-  {
-  "id": "beach_app_polycrono",
-  "beachSlug": "Polychrono Beach",
-    "zone": "Kassandra",
-  "titleEn": "Angelika Beach Front Apartment in Polychrono",
-  "titleRo": "Angelika Beach Front Apartment in Polychrono",
-  "address": "2G9F+M5 Polychrono, Greece",
-  "phone": "+306973738862",
-  "email": "halkidiki@xeniuszeus.com ",
-  "website": "https://xeniuszeus.com/",
-  "category": "perfect_for_groups",
-  "rating": 9,0,
-  "ratingScale": 10,
-    "featured": true,
-    "guests": 4,
-"sizeSqm": 45,
-"view": "Beach view",
-    "bedrooms": 1,
-"petFriendly": false,
-"pool": false,
-"wifi": true,
-"parking": true,
-"airConditioning": true,
-"kitchen": true,
-"washer": true,
-"balcony": true,
-"bbq": false,
-  "lat": 40.01896081035115,            
-  "lon": 23.52284793412092,
-  "distanceMetersOverride": 150,
-  "descriptionEn": "rer",
-  "descriptionRo": "rer",
-  "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono2.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono3.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono4.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono5.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono6.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono7.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono8.webp"
-  ]
 }
+  
    
 ]
