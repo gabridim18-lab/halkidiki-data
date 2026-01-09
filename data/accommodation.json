@@ -1,38 +1,5 @@
 [
   {
-    "id": "avra_luxury_apartment",
-    "beachSlug": "Perea Beach",
-    "zone": "Thessaloniki",
-    "titleEn": "Avra Luxury Apartment",
-    "titleRo": "Avra Luxury Apartment",
-    "address": "Aristofani 18, Perea 570 19, Greece",
-    "phone": "+306988322230",
-    "category": "family_friendly",
-    "rating": 9.5,
-    "ratingScale": 10,
-    "guests": 4,
-"sizeSqm": 52,
-"view": "Sea view",
-    "bedrooms": 2,
-"petFriendly": false,
-"pool": false,
-"wifi": true,
-"parking": true,
-"airConditioning": true,
-"kitchen": true,
-"washer": false,
-"balcony": true,
-"bbq": false,
-    "lat": null,
-    "lon": null,
-    "distanceMetersOverride": 595,
-    "descriptionEn": "Modern one-bedroom apartment in Perea with terrace and quick access to the seafront...",
-    "descriptionRo": "Apartament modern cu un dormitor în Perea, cu terasă și acces rapid la faleză...",
-    "images": [
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/acc_avra.webp"
-]
-  },
-  {
   "id": "kleo_house_kalyves",
   "beachSlug": "Kalyves Beach",
     "zone": "Kassandra",
