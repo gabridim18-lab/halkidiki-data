@@ -1097,8 +1097,8 @@
   "lat": 40.01896081035115,            
   "lon": 23.52284793412092,
   "distanceMetersOverride": 150,
-  "descriptionEn": "",
-  "descriptionRo": "",
+  "descriptionEn": "rer",
+  "descriptionRo": "rer",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/angelika_app_polychrono1.webp",
