@@ -929,6 +929,52 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/aya_app_kallithea6.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/aya_app_kallithea7.webp"
   ]
+},
+  {
+  "id": "app_mola_kaliva",
+  "beachSlug": "Mola Kaliva Beach",
+    "zone": "Kassandra",
+  "titleEn": "Breathtaking Sea View Apartment in Mola Kaliva",
+  "titleRo": "Breathtaking Sea View Apartment in Mola Kaliva",
+  "address": "XCCR+99, Paliouri 630 85, Grecia",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com ",
+  "website": "https://xeniuszeus.com/",
+  "category": "family_friendly",
+  "rating": 10,
+  "ratingScale": 10,
+    "featured": true,
+    "guests": 7,
+"sizeSqm": 100,
+"view": "Sea view",
+    "bedrooms": 3,
+"petFriendly": false,
+"pool": false,
+"wifi": true,
+"parking": true,
+"airConditioning": true,
+"kitchen": true,
+"washer": true,
+"balcony": true,
+"bbq": false,
+  "lat": 40.07556408436433,          
+  "lon": 23.443653048656873,
+  "distanceMetersOverride": 20,
+  "descriptionEn": "Welcome to our spacious and sunny apartment in Mola Kalyva, a peaceful retreat ideal for relaxing and unforgettable summer holidays in Halkidiki. The apartment is located on the second floor, just 10 steps from the sea, and features three bedrooms, two with double beds and one with three single beds, a modern bathroom with shower, and a spacious living room with a fully equipped kitchen. The living room also includes a fireplace, creating a warm and cozy atmosphere during cooler days. Outside, the property is surrounded by a large green garden and offers a balcony with open views of the garden and the deep blue sea, perfect for morning coffee, sunset drinks, or relaxing evenings with family and friends. Fresh linens and towels are provided, and the apartment is fully equipped with air conditioning, a washing machine, and all essential amenities. There is no private parking, but free street parking is available where permitted. The beach is literally steps away, while restaurants, shops, and local points of interest are within easy reach, combining comfort, privacy, and direct seaside access. This apartment is ideal for families with children or groups of friends seeking space, relaxation, and a true feeling of home in Mola Kalyva.",
+  "descriptionRo": "Bine ați venit în apartamentul nostru spațios și luminos din Mola Kalyva, un refugiu liniștit ideal pentru vacanțe de vară relaxante și memorabile în Halkidiki. Apartamentul este situat la etajul al doilea, la doar 10 pași de mare, și dispune de trei dormitoare, două cu paturi duble și unul cu trei paturi single, o baie modernă cu duș și un living generos cu bucătărie complet utilată. Livingul include și un șemineu, care creează o atmosferă caldă și confortabilă în zilele mai răcoroase. În exterior, proprietatea este înconjurată de o grădină verde spațioasă și oferă un balcon cu vedere către grădină și marea albastră, perfect pentru cafeaua de dimineață, băuturi la apus sau seri relaxante alături de familie și prieteni. Sunt oferite lenjerii și prosoape curate, iar apartamentul este complet echipat cu aer condiționat, mașină de spălat și toate facilitățile necesare. Nu există parcare privată, însă parcarea gratuită pe stradă este disponibilă acolo unde este permisă. Plaja se află chiar la câțiva pași, iar restaurantele, magazinele și punctele de interes sunt ușor accesibile, oferind confort, intimitate și acces direct la mare. Această proprietate este ideală pentru familii cu copii sau grupuri de prieteni care caută spațiu, relaxare și senzația de acasă în Mola Kalyva.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/app_in_mola_kalyva10.webp"
+  ]
 }
    
 ]
