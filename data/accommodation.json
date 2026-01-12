@@ -1214,6 +1214,49 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/alelia_lagonisi_beach9.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/alelia_lagonisi_beach10.webp"
   ]
+},
+   {
+  "id": "blue_breeze_sykia",
+  "beachSlug": "Sykias Beach",
+    "zone": "Sithonia",
+  "titleEn": "The Blue Breeze Villa",
+  "titleRo": "The Blue Breeze Villa",
+  "address": "2XPM+JV Sykia Chalkidikis, Greece",
+  "phone": "+306983904455",
+  "website": "https://amirahouse.gr",
+  "category": "explorers_choice",
+  "rating": 9.8,
+  "ratingScale": 10,
+      "featured": true,
+    "guests": 10,
+"sizeSqm": 85,
+"view": "Garden view",
+    "bedrooms": 3,
+"petFriendly": true,
+"pool": false,
+"wifi": true,
+"parking": true,
+"airConditioning": true,
+"kitchen": true,
+"washer": true,
+"balcony": true,
+"bbq": true,
+  "lat": 40.036806647132366,   
+  "lon": 23.98470922029049,
+  "distanceMetersOverride": 280,
+  "descriptionEn": "Escape to The Blue Breeze 💙, a charming 3-bedroom summer villa located just 300 meters from Sykia Beach, Halkidiki. The property features an Athos-inspired stone exterior and bright, white Santorini-style interiors. It offers a spacious living area, a separate fully equipped kitchen, and a large covered terrace and veranda ideal for outdoor dining and relaxation. The villa includes three themed bedrooms (Blue 💙, Purple 💜, Green 💚), a large private garden suitable for families, one indoor bathroom, and an additional private outdoor bathroom with an open-air shower and toilet. Close to multiple beaches, supermarkets, and only 10 minutes by car from Sarti, The Blue Breeze is perfect for an authentic Mediterranean getaway.",
+  "descriptionRo": "Evadare la The Blue Breeze 💙, o vilă de vară cu 3 dormitoare, situată la doar 300 m de plaja Sykia, Halkidiki. Proprietatea combină exteriorul din piatră atonită, inspirat de zona Muntelui Athos, cu interioare luminoase, albe, în stil Santorini. Vila dispune de living spațios, bucătărie separată cu acces facil, terasă și verandă acoperită ideale pentru relaxare și mese în aer liber. Cele trei dormitoare tematice (Blue 💙, Purple 💜, Green 💚) oferă confort și intimitate. Curtea mare este perfectă pentru familii cu copii. Proprietatea include o baie completă interioară și o baie exterioară cu duș în aer liber și toaletă, cu intimitate totală. Aproape de plaje multiple, supermarketuri și la doar 10 minute de Sarti, este alegerea ideală pentru o vacanță autentică pe coasta mediteraneană.",
+  "images": [
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia1.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia2.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia3.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia4.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia5.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia6.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia7.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia8.webp"
+    ]
 }
   
    
