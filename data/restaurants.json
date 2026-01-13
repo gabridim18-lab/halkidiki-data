@@ -19,5 +19,28 @@
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak1.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak2.webp"
 ]
+  },
+  {
+    "id": "zak_bistrot",
+    "beachSlug": "Perea Beach",
+    "type": "beach_bar",
+    "titleEn": "Mike's Place Nea Perea Beach",
+    "titleRo": "Mike's Place Nea Perea Beach",
+    "address": "GW5C+43 Peraia, Greece",
+    "hoursEn": "Mon–Thu 09:00–02:00, Fri–Sat 09:00–03:00, Sun 09:00–02:00",
+    "hoursRo": "Lun–Joi 09:00–02:00, Vin–Sâm 09:00–03:00, Dum 09:00–02:00",
+    "website": "https://shorturl.at/Q2Vq4",
+    "phone": "+40 755 687 296",
+    "price": "$$",
+    "rating": 4.5,
+    "descriptionEn": "Mike's Place is a cozy beach bar in Nea Perea, Halkidiki 🌊☀️, perfect for relaxing by the sea with sunbeds, refreshing cocktails 🍹, good coffee ☕ and a friendly atmosphere, ideal for couples, families and sunset lovers 🌅.",
+    "descriptionRo": "Mike's Place este un beach bar primitor din Nea Perea, Halkidiki 🌊☀️, ideal pentru relaxare la malul mării, cu șezlonguri confortabile, cocktailuri răcoritoare 🍹, cafea bună ☕ și o atmosferă prietenoasă, perfect pentru cupluri, familii și iubitorii de apusuri 🌅.",
+    "images": [
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea1.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea2.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea3.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea4.webp"
+]
   }
 ]
