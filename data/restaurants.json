@@ -19,6 +19,10 @@
   "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak1.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak2.webp"
+],
+    "menuImages": [
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike_1.webp",
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike_2.webp"
 ]
   },
   {
