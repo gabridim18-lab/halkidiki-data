@@ -48,6 +48,11 @@
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea2.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea3.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea4.webp"
+],
+    "menuImages": [
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike1.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike2.webp",
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike3.webp"
 ]
   }
 ]
