@@ -27,6 +27,30 @@
 ]
   },
   {
+  "id": "en_plo",
+  "beachSlug": "nea_krini_beach",
+  "type": "restaurant",
+  "titleEn": "En Plo",
+  "titleRo": "En Plo",
+  "address": "Nik. Plastira 14B, Kalamaria 551 32, Greece",
+  "displayAddress": "Kalamaria (Nik. Plastira 14B)",
+  "hoursEn": "Mon–Thu 12:30–19:00, Wed-Thu Closed, Fri–Sat 07:00–01:00, Sun 07:00–00:00",
+  "hoursRo": "Lun–Joi 12:30–19:00, Mie-Joi Inchis, Vin–Sâm 07:00–01:00, Dum 07:00–00:00",
+  "website": "https://enplw.gr/",
+  "phone": "+40 755 687 296",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "En Plo (Εν Πλώ) is a fisherman’s café-style spot in Kalamaria, offering a relaxed seaside vibe and simple, fresh flavors.",
+  "descriptionRo": "En Plo (Εν Πλώ) este un local tip „cafenea a pescarului” în Kalamaria, cu atmosferă relaxată și preparate simple, inspirate de mare.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo1.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo2.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo3.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo4.webp"
+  ],
+  "menuImages": []
+},
+  {
     "id": "mike_place",
     "beachSlug": "perea_beach",
     "type": "beach_bar",
@@ -34,7 +58,7 @@
     "titleRo": "Mike's Place Nea Perea Beach",
     "address": "GW5C+43 Peraia, Greece",
     "displayAddress": "Nea Perea, Peraia",
-    "hoursEn": "Mon–Thu 09:00–02:00, Fri–Sat 09:00–03:00, Sun 09:00–02:00",
+    "hoursEn": "Mon–Tue 09:00–02:00, Fri–Sat 09:00–03:00, Sun 09:00–02:00",
     "hoursRo": "Lun–Joi 09:00–02:00, Vin–Sâm 09:00–03:00, Dum 09:00–02:00",
     "website": "https://shorturl.at/Q2Vq4",
     "phone": "+40 755 687 296",
