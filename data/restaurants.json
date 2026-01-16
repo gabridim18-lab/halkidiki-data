@@ -127,5 +127,81 @@
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike2.webp",
   "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike3.webp"
 ]
-  }
+  },
+  {
+  "id": "aigialos_perea",
+  "beachSlug": "perea_beach",
+  "type": "restaurant",
+  "titleEn": "Aigialos",
+  "titleRo": "Aigialos",
+  "address": "P. Kountouriotou 43, Perea 570 19, Greece",
+  "displayAddress": "Perea, Thessaloniki",
+  "hoursEn": "Fri–Sat 11:30–23:00, Sun 11:30–22:00, Thu 11:30–22:00, Mon–Wed Closed",
+  "hoursRo": "Vin–Sâm 11:30–23:00, Dum 11:30–22:00, Joi 11:30–22:00, Lun–Mie Închis",
+  "website": "",
+  "phone": "+302392307021",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Aigialos is a seaside fish tavern in Perea, known for fresh seafood, traditional Greek recipes, and a calm atmosphere right by the sea. Perfect for relaxed lunches and sunset dinners with authentic flavors.",
+  "descriptionRo": "Aigialos este o tavernă pescărească situată pe malul mării în Perea, cunoscută pentru peștele proaspăt, rețetele tradiționale grecești și atmosfera liniștită, chiar lângă apă. Ideală pentru prânzuri relaxante și cine la apus.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_aigialos.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_aigialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_aigialos2.webp"
+  ],
+  "menuImages": []
+},
+  {
+  "id": "thalassopoulia_perea",
+  "beachSlug": "perea_beach",
+  "type": "restaurant",
+  "titleEn": "Taverna Thalassopoulia",
+  "titleRo": "Taverna Thalassopoulia",
+  "address": "P. Kountouriotou 51, Perea 570 19, Greece",
+  "displayAddress": "Perea, Thessaloniki",
+  "hoursEn": "Fri–Mon 11:30–01:00, Wed–Thu 11:30–01:00, Tue Closed",
+  "hoursRo": "Vin–Lun 11:30–01:00, Mie–Joi 11:30–01:00, Marți Închis",
+  "website": "https://www.facebook.com/thalassopoulia",
+  "phone": "+302392075510",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Taverna Thalassopoulia is a classic seaside Greek tavern in Perea, loved for fresh seafood, generous portions, and an authentic local atmosphere. A great choice for long evenings by the sea, with traditional flavors and a relaxed vibe.",
+  "descriptionRo": "Taverna Thalassopoulia este o tavernă grecească clasică, situată pe malul mării în Perea, apreciată pentru peștele proaspăt, porțiile generoase și atmosfera autentică locală. O alegere excelentă pentru seri lungi la malul mării, cu gusturi tradiționale.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_thalassopoulia.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_thalassopoulia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_thalassopoulia2.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_thalassopoulia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_thalassopoulia2.webp"
+  ]
+},
+  {
+  "id": "wet_red_rose",
+  "beachSlug": "nei_epivates_beach",
+  "type": "beach_bar",
+  "titleEn": "Wet Red Rose Beach Bar",
+  "titleRo": "Wet Red Rose Beach Bar",
+  "address": "P. Kountouriotou 117, Nei Epivates 570 19, Greece",
+  "displayAddress": "Nei Epivates, Thessaloniki",
+  "hoursEn": "Daily 09:00–04:00",
+  "hoursRo": "Zilnic 09:00–04:00",
+  "website": "http://www.redrosebar.gr/",
+  "phone": "+302392028401",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Wet Red Rose is a lively beach bar in Nei Epivates 🌊🔥, known for its all-day beach vibes, sunbeds by the sea, refreshing cocktails 🍹, great music 🎶 and energetic nights that last until early morning. Perfect for those who enjoy beach life by day and party atmosphere by night.",
+  "descriptionRo": "Wet Red Rose este un beach bar vibrant din Nei Epivates 🌊🔥, cunoscut pentru vibe-ul de plajă pe tot parcursul zilei, șezlonguri la malul mării, cocktailuri răcoritoare 🍹, muzică bună 🎶 și seri animate până dimineața. Ideal pentru cei care vor distracție ziua și petrecere noaptea.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose4.webp"
+  ],
+  "menuImages": []
+}
+
+
 ]
