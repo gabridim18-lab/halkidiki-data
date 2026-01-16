@@ -13,8 +13,8 @@
     "phone": "+40 755 687 296",
     "price": "$$",
     "rating": 4.5,
-    "descriptionEn": "Zak Contemporary Bistrot in Kalamaria blends modern Mediterranean cuisine with artistic flair...",
-    "descriptionRo": "Zak Contemporary Bistrot din Kalamaria îmbină bucătăria mediteraneană modernă cu un aer artistic...",
+    "descriptionEn": "🍽️ Zak Contemporary Bistrot in Nea Krini blends modern Mediterranean cuisine with artistic flair. ✨ Enjoy carefully crafted dishes, creative plating, and a relaxed yet stylish atmosphere. 🌊 Located close to the sea, it’s the perfect spot for brunch, lunch, or an elegant dinner with friends. 🍷",
+    "descriptionRo": "🍽️ Zak Contemporary Bistrot din Nea Krini îmbină bucătăria mediteraneană modernă cu un stil artistic aparte. ✨ Preparatele atent gândite, platingul creativ și atmosfera relaxată, dar elegantă, creează o experiență specială. 🌊 Situat aproape de mare, este locul ideal pentru brunch, prânz sau o cină rafinată alături de prieteni. 🍷",
     "images": [
   "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak1.webp",
@@ -40,13 +40,62 @@
   "phone": "+40 755 687 296",
   "price": "$$",
   "rating": 4.2,
-  "descriptionEn": "En Plo (Εν Πλώ) is a fisherman’s café-style spot in Kalamaria, offering a relaxed seaside vibe and simple, fresh flavors.",
-  "descriptionRo": "En Plo (Εν Πλώ) este un local tip „cafenea a pescarului” în Kalamaria, cu atmosferă relaxată și preparate simple, inspirate de mare.",
+  "descriptionEn": "⚓ En Plo (Εν Πλώ) is a cozy fisherman-style café in Kalamaria, known for its relaxed seaside atmosphere. 🌊 Enjoy simple, fresh flavors inspired by the sea, perfect for a casual coffee, light meal, or a quiet moment by the water. ☕🐟",
+  "descriptionRo": "⚓ En Plo (Εν Πλώ) este un local tip cafenea pescărească din Kalamaria, apreciat pentru atmosfera sa relaxată, chiar lângă mare. 🌊 Preparatele simple, proaspete și aromele inspirate din mare îl fac locul ideal pentru o cafea liniștită, o masă ușoară sau un moment de relaxare pe malul apei. ☕🐟",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo1.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo2.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo3.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo4.webp"
+  ],
+  "menuImages": []
+},
+  {
+  "id": "gialos_fish_tavern",
+  "beachSlug": "nea_krini_beach",
+  "type": "restaurant",
+  "titleEn": "Gialos Fish & Seafood Tavern",
+  "titleRo": "Gialos Fish & Seafood Tavern",
+  "address": "Ν. Πλαστήρα - Μ. Έμβολο - Ν.Α.Ο.Κ, Thessaloniki 551 31, Greece",
+  "displayAddress": "Nea Krini, Thessaloniki",
+  "hoursEn": "Mon Closed, Tue-Thu 12:00–00:30, Fri-Sun 12:30-00:00",
+  "hoursRo": "Luni Inchis, Ma-Joi 12:00–00:30, Vin-Dum 12:30-00:00",
+  "website": "http://gialosrestaurant.gr/#katalogos",
+  "phone": "+40755687296",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "🐟 Gialos Fish & Seafood Tavern is a traditional seaside taverna in Nea Krini, famous for fresh fish and seafood specialties. 🌊 Enjoy authentic Greek flavors in a relaxed atmosphere by the sea, ideal for long lunches or romantic dinners with beautiful sunset views. 🌅🍷",
+  "descriptionRo": "🐟 Gialos Fish & Seafood Tavern este o tavernă tradițională cu specific pescăresc din Nea Krini, renumită pentru peștele proaspăt și specialitățile din fructe de mare. 🌊 Atmosfera grecească autentică, chiar pe malul mării, o face ideală pentru prânzuri relaxate sau cine romantice la apus. 🌅🍷",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_gialos.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_gialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_gialos2.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_gialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_gialos2.webp"
+  ]
+},
+  {
+  "id": "tessera_kalamaria",
+  "beachSlug": "nea_krini_beach",
+  "type": "restaurant",
+  "titleEn": "Téssera",
+  "titleRo": "Téssera",
+  "address": "Nik. Plastira 53, Kalamaria 551 32, Greece",
+  "displayAddress": "Kalamaria, Thessaloniki",
+  "hoursEn": "Daily 09:00-02:00",
+  "hoursRo": "Zilnic 09:00-02:00",
+  "website": "http://www.tesseracafe.gr/",
+  "phone": "+302310433681",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Téssera in Kalamaria is a modern Greek spot with a cozy atmosphere and a focus on quality ingredients, ideal for relaxed lunches and late dinners with friends. A great choice if you want authentic flavors with a contemporary touch.",
+  "descriptionRo": "Téssera din Kalamaria este un loc modern cu specific grecesc, atmosferă cozy și accent pe ingrediente de calitate, ideal pentru prânzuri relaxate și cine târzii cu prietenii. O alegere foarte bună dacă vrei gust autentic cu un vibe contemporan.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_tessera.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_tessera1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_tessera2.webp"
   ],
   "menuImages": []
 },
