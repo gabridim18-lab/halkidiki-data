@@ -181,6 +181,8 @@
   "id": "wet_red_rose",
   "beachSlug": "perea_beach",
   "type": "beach_bar",
+    "featured": true,
+  "beachBarPriceInfo": "5–10€ — consumatie inclusă / +consumatie (depinde de sezon)",
   "titleEn": "Wet Red Rose Beach Bar",
   "titleRo": "Wet Red Rose Beach Bar",
   "address": "P. Kountouriotou 117, Nei Epivates 570 19, Greece",
