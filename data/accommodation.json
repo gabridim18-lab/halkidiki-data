@@ -11,6 +11,7 @@
   "category": "couples_retreat",
   "rating": 9.5,
   "ratingScale": 10,
+"featured": true,
     "guests": 5,
 "sizeSqm": 65,
 "view": "Garden view",
