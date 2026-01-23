@@ -1,4 +1,4 @@
-[
+87[
   {
   "id": "kleo_house_kalyves",
   "beachSlug": "Kalyves Beach",
@@ -707,7 +707,7 @@
 "bbq": true,
   "lat": 40.26230195484463,      
   "lon": 23.209078651617055,
-  "distanceMetersOverride": 25,
+  "distanceMetersOverride": 425,
   "descriptionEn": "",
   "descriptionRo": "",
   "images": [
