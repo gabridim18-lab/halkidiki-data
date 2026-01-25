@@ -25,6 +25,9 @@
 "washer": true,
 "balcony": false,
 "bbq": true,
+    "ownerId": "stamoulis",
+"ownerCode": "8010",
+
   "lat": 40.28235615783561, 
   "lon": 23.402900696893038,
   "distanceMetersOverride": 190,
