@@ -1262,6 +1262,54 @@
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia7.webp",
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/blue_breeze_sykia8.webp"
     ]
+},
+  {
+  "id": "villa_platskos_vol2",
+  "beachSlug": "Kryopigi Beach",
+  "zone": "Kassandra",
+  "titleEn": "Villa Platskos Vol 2 — Kriopigi, Halkidiki",
+  "titleRo": "Villa Platskos Vol 2 — Kriopigi, Halkidiki",
+  "address": "Villa Platskos Vol 2, 2FJR+M5 Kassandra, Greece",
+  "phone": "+30 697 865 6522",
+  "email": "teopla89@gmail.com",
+  "category": "family_friendly",
+  "rating": 9.4,
+  "ratingScale": 10,
+  "featured": false,
+  "guests": 4,
+  "sizeSqm": 31,
+  "view": "Garden view",
+  "bedrooms": 1,
+  "petFriendly": true,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": false,
+  "balcony": true,
+  "bbq": false,
+  "fitnessCenter": true,
+  "smokeFree": true,
+  "accessible": true,
+  "ownerId": "platskost",
+  "ownerCode": 8030,
+  "lat": 40.03177937149743, 
+  "lon": 23.49044667960567,
+  "distanceMetersOverride": 365,
+  "descriptionEn": "1 bedroom • Living room\n\n🛏️ 1 bedroom\n🛋️ Separate living room\n🍽️ Fully equipped kitchenette\n🌿 Sun terrace & garden\n\n🏡 Villa Platskos Vol 2 is a modern apartment located in Kriopigi, Kassandra, offering a peaceful stay surrounded by nature.\n\n✨ Guests can relax on the sun terrace or in the lush garden while enjoying beautiful sea and mountain views.\n\n📶 The property features free Wi-Fi, air conditioning, and a fully equipped kitchenette, along with a balcony, patio, and outdoor dining area.\n\n🚗 Free private on-site parking is available, and the apartment is entirely smoke-free and accessible.\n\n🏖️ Kassandra Pallas Beach is just a 14-minute walk away, while boating opportunities and local attractions enrich the surrounding area.\n\n👨‍👩‍👧‍👦 Ideal for couples or families looking for comfort, tranquility, and easy access to the beach.",
+  "descriptionRo": "1 dormitor • Living\n\n🛏️ 1 dormitor\n🛋️ Living separat\n🍽️ Chicinetă complet utilată\n🌿 Terasă însorită & grădină\n\n🏡 Villa Platskos Vol 2 este un apartament modern situat în Kriopigi, Kassandra, ideal pentru un sejur relaxant în mijlocul naturii.\n\n✨ Oaspeții se pot bucura de terasa însorită sau de grădina verde, cu priveliști frumoase către mare și munte.\n\n📶 Proprietatea oferă Wi-Fi gratuit, aer condiționat și chicinetă complet echipată, precum și balcon, patio și zonă de luat masa în aer liber.\n\n🚗 Parcarea privată este gratuită, apartamentul este accesibil și complet pentru nefumători.\n\n🏖️ Plaja Kassandra Pallas se află la aproximativ 14 minute de mers pe jos, iar zona oferă posibilități de plimbări cu barca și explorare.\n\n👨‍👩‍👧‍👦 Ideal pentru cupluri sau familii care caută confort, liniște și apropiere de plajă.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi7.webp"
+  ]
 }
+
    
 ]
