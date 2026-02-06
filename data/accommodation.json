@@ -1360,6 +1360,52 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi11.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/villa_platskos_kriopigi12.webp"
   ]
+},
+ {
+  "id": "maisonete_glarokamvos",
+  "beachSlug": "Glarokavos Beach",
+    "zone": "Kassandra",
+  "titleEn": "Sea View Maisonette in Glarokamvos",
+  "titleRo": "Sea View Maisonette in Glarokamvos",
+  "address": "XMF8+7V Pallini, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com ",
+  "website": "https://xeniuszeus.com/",
+  "category": "family_friendly",
+  "rating": 9.4,
+  "ratingScale": 10,
+    "featured": false,
+    "guests": 5,
+"sizeSqm": 70,
+"view": "Garden view",
+    "bedrooms": 2,
+"petFriendly": false,
+"pool": false,
+"wifi": true,
+"parking": true,
+"airConditioning": true,
+"kitchen": true,
+"washer": true,
+"balcony": true,
+"bbq": true,
+      "ownerId": "Chrisa",
+"ownerCode": "8020",
+  "lat": 39.97333547205649,   
+  "lon": 23.667137304651263,
+  "distanceMetersOverride": 350,
+  "descriptionEn": "Welcome to our beautiful home in Glarokamvos – a peaceful retreat surrounded by nature, ideal for families or groups looking to enjoy unforgettable holidays in Halkidiki. The property is designed to offer privacy, comfort, and flexibility for every type of guest.\n\n🏡 Main house\n\n🛋️ Ground floor:\n• Spacious and bright living room with two comfortable sofas\n• Fully equipped kitchen with everything needed for family meals\n\n🛏️ Upper floor:\n• Two double bedrooms\n• Air conditioning in both bedrooms for maximum comfort\n\n🚿 Bathrooms:\n• Bathrooms with shower available on both levels\n\n🌿 Outdoor area:\n• Green private garden, perfect for relaxation and play\n• Comfortable outdoor lounge area\n• 2 large balconies, ideal for evenings with family and friends\n• Spacious veranda with garden and open-view sunset scenery\n\n📶 Amenities:\n• Air conditioning in every room\n• Washing machine (located in the building’s storage area)\n• Fresh bed linen and towels provided\n• Fully equipped with all basic essentials for your stay\n\n🚗 Parking:\n• Street parking available directly in front of the house\n\n📍 Location:\n• Nearest beach: approx. 5-minute drive\n• Close to restaurants, shops, and local attractions\n• Quiet area offering privacy away from crowds\n\n👨‍👩‍👧‍👦 Perfect for families with children or groups of friends seeking space, comfort, and a true \"home away from home\" feeling.\n\n➕ For larger groups, an additional maisonette next door can be rented together.",
+"descriptionRo": "Bine ați venit în frumoasa noastră casă din Glarokamvos – un refugiu liniștit, înconjurat de natură, ideal pentru familii sau grupuri care doresc să se bucure de vacanțe de neuitat în Halkidiki. Proprietatea este concepută pentru a oferi intimitate, confort și flexibilitate fiecărui tip de oaspeți.\n\n🏡 Casa principală\n\n🛋️ Parter:\n• Living spațios și luminos, cu două canapele confortabile\n• Bucătărie complet utilată, perfectă pentru mesele în familie\n\n🛏️ Etaj:\n• Două dormitoare duble\n• Aer condiționat în ambele dormitoare pentru confort sporit\n\n🚿 Băi:\n• Băi cu duș disponibile la ambele niveluri\n\n🌿 Zonă exterioară:\n• Grădină verde și liniștită, ideală pentru relaxare și joacă\n• Zonă confortabilă de lounge în aer liber\n• 2 balcoane mari, perfecte pentru seri petrecute cu familia și prietenii\n• Verandă spațioasă cu vedere spre grădină și apusuri spectaculoase\n\n📶 Dotări:\n• Aer condiționat în fiecare cameră\n• Mașină de spălat (în spațiul de depozitare al clădirii)\n• Lenjerie de pat și prosoape proaspete incluse\n• Complet utilată cu toate facilitățile de bază\n\n🚗 Parcare:\n• Parcare stradală disponibilă chiar în fața casei\n\n📍 Locație:\n• Cea mai apropiată plajă: aproximativ 5 minute cu mașina\n• Restaurante, magazine și atracții locale în apropiere\n• Zonă liniștită, departe de aglomerație\n\n👨‍👩‍👧‍👦 Ideală pentru familii cu copii sau grupuri de prieteni care caută spațiu, confort și senzația de „acasă”.\n\n➕ Pentru grupuri mai mari, există o altă maisonette alăturată, care poate fi închiriată împreună.",
+   "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/maisonete_glarokamvos.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/maisonete_glarokamvos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/maisonete_glarokamvos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/maisonete_glarokamvos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/maisonete_glarokamvos4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/maisonete_glarokamvos5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/maisonete_glarokamvos6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/maisonete_glarokamvos7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/maisonete_glarokamvos8.webp"
+  ]
 }
    
 ]
