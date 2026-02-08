@@ -1452,6 +1452,57 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/sea_view_nea_potidea7.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/sea_view_nea_potidea8.webp"
   ]
-} 
+},
+  {
+  "id": "lagonisi hause private beach",
+  "beachSlug": "Private Beach",
+    "zone": "Sithonia",
+  "titleEn": "Lagonisi Hause with Private Beach",
+  "titleRo": "Casa in Lagonisi cu Plaja Privata",
+  "address": "40.22843404985721, 23.746551588796873",
+  "phone": "+3069444596067",
+  "category": "family_friendly",
+  "rating": 10,
+  "ratingScale": 10,
+    "featured": true,
+    "guests": 4,
+"sizeSqm": 65,
+"view": "Sea view",
+    "bedrooms": 2,
+"petFriendly": false,
+"pool": false,
+"wifi": true,
+"parking": true,
+"airConditioning": true,
+"kitchen": true,
+"washer": true,
+"balcony": true,
+"bbq": true,
+      "ownerId": "Nikos",
+"ownerCode": "8090",
+  "lat": 40.22843404985721,    
+  "lon": 23.746551588796873,
+  "distanceMetersOverride": 30,
+ "descriptionEn": "Private seaside home with white sand beach • absolute privacy • ideal for families & couples\n\n🏡 Located in the exclusive Lagonisi area of Vourvourou, this charming private home offers a rare beachfront experience, just a few steps away from crystal-clear waters and fine white sand. Set on a generous 3,200 sqm private plot, the property provides total privacy, tranquility, and direct access to the sea.\n\n🛋️ Interior information:\n• 65 sqm private house accommodating comfortably up to 4 guests\n• Cozy living area with a relaxed holiday atmosphere\n• Fully functional kitchen suitable for daily meals\n\n🛏️ Bedrooms:\n• 2 bedrooms in total\n• Comfortable sleeping arrangements ideal for families or couples\n\n🚿 Bathroom:\n• 1 bathroom with shower\n\n🌿 Outdoor areas:\n• Fully fenced private garden offering complete privacy\n• Direct access to a sandy beach just 30 meters away\n• Outdoor dining area perfect for seaside meals\n• Hammock and sun loungers for ultimate relaxation\n• Private BBQ area equipped with grill, charcoal, and cooking utensils\n\n🏖️ Beach & location features:\n• Waterfront property – right by the sea\n• Access to a nearby sandy beach\n• Private entrance from a separate street\n• Quiet, natural surroundings with minimal disturbance\n\n📶 Amenities:\n• Outdoor furniture and shaded areas\n• Beach equipment provided (towels, umbrella, sunbeds, snorkeling gear)\n• Dining area suitable for family and group gatherings\n\n🚗 Parking:\n• Private parking available within the property\n\n📍 Location:\n• Beach: 30 m (private & sandy)\n• Located in Lagonisi, Vourvourou\n• Surrounded by nature, ideal for relaxation and disconnecting\n\n👨‍👩‍👧‍👦 Ideal for families with children, couples seeking a romantic escape, or travelers looking for privacy, nature, and direct sea access in one of Halkidiki’s most beautiful coastal areas.",
+"descriptionRo": "Casă privată la malul mării cu plajă cu nisip alb • intimitate totală • ideală pentru familii și cupluri\n\n🏡 Situată în exclusivista zonă Lagonisi din Vourvourou, această casă privată oferă o experiență rară de vacanță chiar la malul mării, la doar câțiva pași de ape cristaline și nisip fin alb. Proprietatea este amplasată pe un teren privat generos de 3.200 mp, oferind liniște, intimitate și acces direct la plajă.\n\n🛋️ Informații despre interior:\n• Casă privată de 65 mp, potrivită pentru până la 4 oaspeți\n• Zonă de living primitoare, cu atmosferă relaxantă\n• Bucătărie funcțională, ideală pentru mesele zilnice\n\n🛏️ Dormitoare:\n• 2 dormitoare în total\n• Configurație confortabilă, potrivită pentru familii sau cupluri\n\n🚿 Baie:\n• 1 baie cu duș\n\n🌿 Zone exterioare:\n• Curte privată complet împrejmuită, oferind intimitate deplină\n• Acces direct la o plajă cu nisip, situată la doar 30 m\n• Zonă de luat masa în aer liber, perfectă pentru cine lângă mare\n• Hamac și șezlonguri pentru relaxare maximă\n• Zonă privată de grătar, complet echipată cu ustensile, cărbune și accesorii\n\n🏖️ Caracteristici plajă & locație:\n• Proprietate situată chiar pe malul apei\n• Acces rapid la plajă cu nisip fin\n• Intrare privată, separată de alte proprietăți\n• Zonă naturală, liniștită, fără aglomerație\n\n📶 Dotări:\n• Mobilier de exterior și zone umbrite\n• Echipamente de plajă incluse (prosoape, umbrelă, șezlonguri, echipament de snorkeling)\n• Spațiu ideal pentru mese și relaxare în aer liber\n\n🚗 Parcare:\n• Parcare privată disponibilă în cadrul proprietății\n\n📍 Locație:\n• Plajă: 30 m (privată, cu nisip alb)\n• Situată în Lagonisi, Vourvourou\n• Cadru natural perfect pentru relaxare și deconectare\n\n👨‍👩‍👧‍👦 Ideală pentru familii cu copii, cupluri în căutarea unei escapade romantice sau pentru cei care doresc intimitate, natură și acces direct la mare într-una dintre cele mai frumoase zone din Halkidiki.",
+    "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach7.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach11.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach12.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach13.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach14.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach15.webp"
+  ]
+}
    
 ]
