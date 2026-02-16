@@ -1504,6 +1504,51 @@
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach15.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/house_on_private_beach16.webp"
   ]
+},
+  {
+  "id": "grand appartament in nea moudania",
+  "beachSlug": "Nea Moudania Beach",
+    "zone": "Kassandra",
+  "titleEn": "Grand Apartament Markopoulos in Nea Moudania",
+  "titleRo": "Grand Apartament Markopoulos in Nea Moudania",
+  "address": "67QP+MW Nea Moudania, Greece",
+  "phone": "+306936615683",
+  "category": "family_friendly",
+  "rating": 9.5,
+  "ratingScale": 10,
+    "featured": true,
+    "guests": 6,
+"sizeSqm": 80,
+"view": "City view",
+    "bedrooms": 2,
+"petFriendly": false,
+"pool": false,
+"wifi": true,
+"parking": true,
+"airConditioning": true,
+"kitchen": true,
+"washer": true,
+"balcony": true,
+"bbq": false,
+      "ownerId": "Markopoulos",
+"ownerCode": "8100",
+  "lat": 40.23933000649562,     
+  "lon": 23.28727399169718,
+  "distanceMetersOverride": 350,
+"descriptionEn": "Fully renovated city center apartment • spacious & comfortable • ideal for families & small groups\n\n🏡 Located in the heart of Nea Moudania, Markopoulos Apartment Grand is a fully renovated and airy apartment offering comfort, cleanliness, and attentive hospitality. Just 2 minutes walking distance from the city center and directly opposite the impressive Church of Saint George, the property is set in a quiet yet central neighborhood.\n\n🛋️ Interior information:\n• Spacious apartment accommodating comfortably up to 6 guests\n• Bright living room with sofa bed\n• Open-plan kitchen and dining area\n• Balcony and terrace with garden view\n\n🛏️ Bedrooms:\n• 2 bedrooms in total\n• Comfortable sleeping arrangements for families or groups\n\n🚿 Bathroom:\n• 1 bathroom / WC\n\n🌿 Outdoor areas:\n• Private terrace ideal for relaxing moments\n• Balcony with garden and city views\n\n🏖️ Beach & location features:\n• 13 minutes walking distance to Nea Moudania Beach\n• Located directly opposite Saint George Church\n• Quiet yet central location\n• Easy access to shops, cafes, and restaurants\n\n📶 Amenities:\n• Air conditioning\n• Free WiFi\n• Washing machine\n• Fully equipped kitchen with refrigerator\n• TV\n• Free toiletries\n• Dining area suitable for family meals\n\n🔐 Services:\n• Self check-in\n• Secure lockbox\n\n🚗 Parking:\n• Public street parking available nearby\n\n📍 Location:\n• Nea Moudania city center – 2 minutes walk\n• Nea Moudania Beach – 13 minutes walk\n• Thessaloniki Airport – 48 km\n• Petralona Cave & Anthropological Museum – 20 km\n\n👨‍👩‍👧‍👦 Ideal for families, groups of friends, or travelers looking for a comfortable, fully renovated apartment in a prime central location close to both the beach and local attractions.",
+"descriptionRo": "Apartament complet renovat în centrul orașului • spațios și confortabil • ideal pentru familii și grupuri mici\n\n🏡 Situat în inima orașului Nea Moudania, Markopoulos Apartment Grand este un apartament complet renovat și aerisit, care oferă confort, curățenie și ospitalitate atentă. La doar 2 minute de mers pe jos de centrul orașului și chiar vizavi de impunătoarea Biserică Sfântul Gheorghe, proprietatea se află într-un cartier central și liniștit.\n\n🛋️ Informații despre interior:\n• Apartament spațios, potrivit pentru până la 6 oaspeți\n• Living luminos cu canapea extensibilă\n• Bucătărie open-space cu zonă de luat masa\n• Balcon și terasă cu vedere la grădină\n\n🛏️ Dormitoare:\n• 2 dormitoare în total\n• Configurație confortabilă pentru familii sau grupuri\n\n🚿 Baie:\n• 1 baie / WC\n\n🌿 Zone exterioare:\n• Terasă privată ideală pentru momente de relaxare\n• Balcon cu vedere la grădină și oraș\n\n🏖️ Caracteristici plajă & locație:\n• 13 minute de mers pe jos până la plaja Nea Moudania\n• Situat chiar vizavi de Biserica Sf. Gheorghe\n• Zonă centrală, dar liniștită\n• Acces facil la magazine, cafenele și restaurante\n\n📶 Dotări:\n• Aer condiționat\n• WiFi gratuit\n• Mașină de spălat\n• Bucătărie complet utilată cu frigider\n• TV\n• Articole de toaletă gratuite\n• Zonă de luat masa potrivită pentru mese în familie\n\n🔐 Servicii:\n• Check-in independent\n• Cutie securizată pentru chei\n\n🚗 Parcare:\n• Parcare publică disponibilă în apropiere\n\n📍 Locație:\n• Centrul Nea Moudania – 2 minute de mers pe jos\n• Plaja Nea Moudania – 13 minute de mers pe jos\n• Aeroportul Salonic – 48 km\n• Peștera și Muzeul Antropologic Petralona – 20 km\n\n👨‍👩‍👧‍👦 Ideal pentru familii, grupuri de prieteni sau călători care caută un apartament modern, complet renovat, într-o locație centrală excelentă, aproape de plajă și de principalele atracții.",
+    "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos7.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos9.webp"
+  ]
 }
    
 ]
