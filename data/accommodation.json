@@ -165,7 +165,7 @@
 "bbq": false,
     "ownerId": "Toma",
 "ownerCode": "8030",
-    "featured": true,
+    "featured": false,
   "lat": 40.241748041018454, 
   "lon": 23.2842450221974,
   "distanceMetersOverride": 395,
