@@ -1549,6 +1549,49 @@
       "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos8.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/grand_apartament_markopoulos9.webp"
   ]
+},
+  {
+  "id": "kastamoniti suite in nikiti",
+  "beachSlug": "Nikiti Beach",
+    "zone": "Sithonia",
+  "titleEn": "Pine&Sea Kastamoniti beach in Nikiti",
+  "titleRo": "Pine&Sea Kastamoniti beach in Nikiti",
+  "address": "6JGW+6P Sithonia, Greece",
+  "phone": "+306937578833",
+  "category": "family_friendly",
+  "rating": 10,
+  "ratingScale": 10,
+    "featured": true,
+    "guests": 4,
+"sizeSqm": 15,
+"view": "Sea view",
+    "bedrooms": 1,
+"petFriendly": false,
+"pool": false,
+"wifi": true,
+"parking": true,
+"airConditioning": true,
+"kitchen": true,
+"washer": false,
+"balcony": true,
+"bbq": false,
+      "ownerId": "Kastamoniti",
+"ownerCode": "8110",
+  "lat": 40.22562666266493,      
+  "lon": 23.646807089756305,
+  "distanceMetersOverride": 50,
+"descriptionEn": "Beachfront suites in Nikiti • private beach access • yacht experience available • ideal for couples & families\n\n🏡 Located in Nikiti, Pine&Sea offers direct beachfront access and a private beach area just 50 meters from the sandy shore. Situated in a peaceful yet central location, the suites combine sea views, tranquility, and easy access to the town center.\n\n🛋️ Interior information:\n• Spacious seaside suites designed for comfort\n• 2 rooms in each suite\n• Dining area and functional kitchenette\n• Balcony with relaxing outdoor space\n\n🛏️ Bedrooms:\n• 2 rooms per suite\n• Comfortable sleeping arrangements suitable for couples or families\n• Bright and airy layout\n\n🚿 Bathroom:\n• Private bathroom in each suite\n\n🌿 Outdoor areas:\n• Private balcony with seating area\n• Terrace and garden spaces\n• Direct access to a sandy beach only 50 m away\n\n🛥️ Exclusive Experience:\n• Optional yacht cruise combo available\n• Private sea excursions and open-water trips\n• Ideal for romantic escapes or special occasions\n• Unique opportunity to combine accommodation with a luxury yacht experience\n\n🏖️ Beach & location features:\n• Beachfront property with private beach area\n• 50 m from sandy beach\n• Located in the center of Nikiti\n• Nikiti Beach – 1.7 km\n• Quiet seaside setting with beautiful sea views\n\n📶 Amenities:\n• Air conditioning\n• Free WiFi\n• Smart TV\n• Kitchenette with coffeemaker\n• Water heater\n• Hot plate and cooking facilities\n• Dining area\n\n🔐 Services:\n• Family rooms available\n• Free private on-site parking\n\n🚗 Parking:\n• Free private parking within the property\n\n📍 Location:\n• Sandy beach – 50 m\n• Nikiti center – walking distance\n• Nikiti Beach – 1.7 km\n• Thessaloniki Airport – 85 km\n\n👨‍👩‍👧‍👦 Ideal for couples and families seeking beachfront relaxation, comfort, and the option to enhance their stay with a private yacht experience.",
+    "descriptionRo": "Suites la malul mării în Nikiti • acces direct la plajă • experiență cu iaht disponibilă • ideale pentru cupluri și familii\n\n🏡 Situat în Nikiti, Pine&Sea oferă acces direct la plajă și zonă privată pe malul mării, la doar 50 m de plaja cu nisip. Amplasate într-o locație liniștită, dar centrală, suitele combină priveliștea la mare cu acces facil la centrul orașului.\n\n🛋️ Informații despre interior:\n• Suite spațioase, concepute pentru confort\n• 2 camere în fiecare suită\n• Zonă de luat masa și chicinetă funcțională\n• Balcon cu spațiu pentru relaxare\n\n🛏️ Dormitoare:\n• 2 camere per suită\n• Configurație confortabilă pentru cupluri sau familii\n• Spații luminoase și aerisite\n\n🚿 Baie:\n• Baie privată în fiecare suită\n\n🌿 Zone exterioare:\n• Balcon privat cu zonă de relaxare\n• Terasă și grădină\n• Acces direct la plaja cu nisip situată la doar 50 m\n\n🛥️ Experiență exclusivă:\n• Posibilitate de pachet combo cu ieșiri în larg cu iahtul\n• Excursii private pe mare și plimbări în larg\n• Ideal pentru escapade romantice sau ocazii speciale\n• Oportunitate unică de a combina cazarea cu o experiență de lux pe iaht\n\n🏖️ Caracteristici plajă & locație:\n• Proprietate situată la malul mării\n• 50 m până la plaja cu nisip\n• Situată în centrul stațiunii Nikiti\n• Plaja Nikiti – 1.7 km\n• Cadru liniștit cu vedere la mare\n\n📶 Dotări:\n• Aer condiționat\n• WiFi gratuit\n• Smart TV\n• Chicinetă cu cafetieră\n• Fierbător apă\n• Plită și facilități pentru gătit\n• Zonă de luat masa\n\n🔐 Servicii:\n• Camere de familie disponibile\n• Parcare privată gratuită în incintă\n\n🚗 Parcare:\n• Parcare privată gratuită în cadrul proprietății\n\n📍 Locație:\n• Plajă cu nisip – 50 m\n• Centru Nikiti – la distanță de mers pe jos\n• Plaja Nikiti – 1.7 km\n• Aeroportul Salonic – 85 km\n\n👨‍👩‍👧‍👦 Ideal pentru cupluri și familii care caută relaxare la malul mării, confort și posibilitatea de a completa sejurul cu o experiență exclusivă pe iaht.",
+    "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/kastamoniti_nikiti.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/kastamoniti_nikiti1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/kastamoniti_nikiti2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/kastamoniti_nikiti3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/kastamoniti_nikiti4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/kastamoniti_nikiti5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/kastamoniti_nikiti6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/kastamoniti_nikiti7.webp"
+  ]
 }
    
 ]
