@@ -1,1 +1,62 @@
+{
+  "id": "villa_traditional_estate_nea_potidea_beach",
+  "beachSlug": "Nea Potidea Beach",
+  "zone": "Kassandra",
+
+  "titleEn": "Villa Traditional Estate — Nea Potidea, Halkidiki",
+  "titleRo": "Vila Traditional Estate — Nea Potidea, Halkidiki",
+
+  "address": "Traditional Estate, Moudania 632 00, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+
+  "category": "perfect_for_groups",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 14,
+  "sizeSqm": 140,
+  "view": "Garden view",
+  "bedrooms": 5,
+
+  "petFriendly": false,
+  "pool": true,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.15335666328301,
+  "lon": 23.354677025936237,
+  "distanceMetersOverride": 185,
+
+  "descriptionEn": "5 bedrooms • 2 bathrooms • WC • up to 14 guests\n\n🛏️ 5 bedrooms\n🚿 2 shower bathrooms + WC\n🛋️ 2 living rooms\n🍽️ 2 fully equipped kitchens\n👥 Occupancy: 10–14 persons\n\n📐 Villa size: 140 sqm\n🌿 Plot size: 2,000 sqm\n🏖️ Distance to beach: approx. 500 m\n\n🏡 This beautiful traditional villa of 140 sqm is built on a spacious 2,000 sqm plot, offering privacy, comfort, and plenty of outdoor space, just a short walk from the beach.\n\n📍 Located in Kassandra, Halkidiki, the property is 65 km from Thessaloniki Macedonia Airport and only 3 km from the nearest village.\n\n🏠 The house is divided into two independent levels, making it ideal for large families or groups of friends, accommodating up to 14 guests.\n\n🔹 First level:\n• Large living room with A/C and traditional fireplace\n• Dining area and double sofa bed\n• Fully equipped kitchen\n• 3 bedrooms with double beds (A/C in each)\n• Shower bathroom + WC\n\n🔹 Second level:\n• Living room with A/C and double sofa bed\n• Small kitchen\n• 2 bedrooms\n• Shower bathroom\n\n🏊 The outdoor area features a large swimming pool (12 m × 4.5 m) with a shallow section for children, a 30 sqm veranda, a built-in BBQ, and extensive garden areas perfect for both kids and adults.\n\n🌞 The traditional estate is available year-round, offering an ideal setting for relaxing holidays in every season.\n\n🚐 Optional services at low additional cost include car rental, airport transfers with luxury van, and daily excursions to destinations of your choice. Feel free to request an offer and compare.",
+
+  "descriptionRo": "5 dormitoare • 2 băi • WC • până la 14 persoane\n\n🛏️ 5 dormitoare\n🚿 2 băi cu duș + WC\n🛋️ 2 livinguri\n🍽️ 2 bucătării complet utilate\n👥 Capacitate: 10–14 persoane\n\n📐 Suprafață casă: 140 mp\n🌿 Suprafață teren: 2.000 mp\n🏖️ Distanță față de plajă: aprox. 500 m\n\n🏡 Această vilă tradițională superbă, cu o suprafață de 140 mp, este construită pe un teren generos de 2.000 mp, oferind intimitate, confort și spațiu amplu pentru relaxare, la doar câteva minute de plajă.\n\n📍 Proprietatea este situată în Kassandra, Halkidiki, la 65 km de Aeroportul Macedonia din Salonic și la doar 3 km de cel mai apropiat sat.\n\n🏠 Casa este împărțită în două niveluri independente, fiind ideală pentru familii numeroase sau grupuri mari de prieteni, putând găzdui până la 14 persoane.\n\n🔹 Primul nivel:\n• Living spațios cu aer condiționat și șemineu tradițional\n• Zonă de dining și canapea extensibilă dublă\n• Bucătărie complet echipată\n• 3 dormitoare cu pat dublu (aer condiționat în fiecare)\n• Baie cu duș + WC\n\n🔹 Al doilea nivel:\n• Living cu aer condiționat și canapea extensibilă dublă\n• Bucătărie mică\n• 2 dormitoare\n• Baie cu duș\n\n🏊 Zona exterioară dispune de o piscină mare (12 m × 4,5 m), cu zonă puțin adâncă pentru copii, o verandă de 30 mp, un grătar mare construit și o grădină generoasă, ideală pentru activități în aer liber ale părinților și copiilor.\n\n🌞 Proprietatea este disponibilă pe tot parcursul anului, fiind potrivită atât pentru vacanțe de vară, cât și pentru sejururi relaxante în extrasezon.\n\n🚐 Contra unui cost suplimentar redus, se pot oferi servicii de închiriere auto, transfer de la/spre aeroport cu Van de lux, precum și excursii zilnice către destinațiile alese de dumneavoastră. Puteți solicita oricând o ofertă pentru comparație.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea11.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea20.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea13.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_traditional_estate_nea_potidea_beach/images/acc_traditional_potidea14.webp"
+  ]
+}
 
