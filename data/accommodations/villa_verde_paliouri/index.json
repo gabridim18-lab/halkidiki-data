@@ -1,1 +1,66 @@
+{
+  "id": "villa_verde_paliouri",
+  "beachSlug": "Paliouri Beach",
+  "zone": "Kassandra",
+
+  "titleEn": "Villa Verde Paliouri",
+  "titleRo": "Villa Verde Paliouri",
+
+  "address": "Unnamed Road, Kassandra 630 85, Grecia",
+  "phone": "+40772158578",
+  "email": "contact@tomcruisesgreece.com",
+  "website": "https://www.philoxenia-hotel.gr/villas-villa-place-des-dieux",
+
+  "category": "perfect_for_groups",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 34,
+  "sizeSqm": 140,
+  "view": "Garden view",
+  "bedrooms": 12,
+
+  "petFriendly": true,
+  "pool": true,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Toma",
+  "ownerCode": "8030",
+
+  "lat": 39.944380475353206,
+  "lon": 23.67652347240509,
+  "distanceMetersOverride": 2200,
+
+  "descriptionEn": "🏡 Private estate • up to 34 guests • exclusive use\n\n🛏️ 12 bedrooms\n🛋️ Multiple living areas + sofa beds\n🚿 6 bathrooms\n👥 Capacity: up to 34 guests (approx. 24 adults + children & infants)\n\n🏠 This impressive private estate is rented as an exclusive residence and can host up to 34 guests, making it ideal for large families, groups of friends, retreats, or special events.\n\n🏘️ The property consists of:\n• Villa 1 with 5 bedrooms\n• Villa 2 with 4 bedrooms\n• 2 guest apartments, each with 1 bedroom and living room\n• 1 studio with a double bed and sofa\n\n🏊 Guests can enjoy two swimming pools, spacious terraces, barbecue areas, and relaxing outdoor lounges, offering the perfect balance between privacy and shared social spaces.\n\n🌿 Generous outdoor areas create an ideal environment for relaxation, gatherings, and memorable moments in complete privacy.\n\n🧹 Daily cleaning service and towel changes are included, while breakfast can be arranged upon request.\n\n🚗 Ample on-site parking is available, including covered parking spaces.\n\n✨ This exceptional estate combines comfort, space, privacy, and premium services in a unique setting designed for unforgettable stays.",
+
+  "descriptionRo": "🏡 Domeniu privat • până la 34 de oaspeți • utilizare exclusivă\n\n🛏️ 12 dormitoare\n🛋️ Mai multe zone de living + canapele extensibile\n🚿 6 băi\n👥 Capacitate: până la 34 de persoane (aprox. 24 adulți + copii și bebeluși)\n\n🏠 Acest domeniu privat impresionant este închiriat integral, oferind exclusivitate totală și poate găzdui până la 34 de oaspeți, fiind ideal pentru familii numeroase, grupuri de prieteni, retreat-uri sau evenimente speciale.\n\n🏘️ Proprietatea este compusă din:\n• Vila 1 cu 5 dormitoare\n• Vila 2 cu 4 dormitoare\n• 2 apartamente de oaspeți, fiecare cu 1 dormitor și living\n• 1 studio cu pat dublu și canapea\n\n🏊 Oaspeții se pot bucura de două piscine, terase spațioase, zone de grătar și lounge-uri exterioare, oferind un echilibru perfect între intimitate și socializare.\n\n🌿 Spațiile exterioare generoase creează cadrul ideal pentru relaxare, întâlniri și momente memorabile în deplină intimitate.\n\n🧹 Curățenia zilnică și schimbarea prosoapelor sunt incluse, iar micul dejun poate fi oferit la cerere.\n\n🚗 Proprietatea dispune de parcare generoasă în incintă, inclusiv locuri de parcare acoperite.\n\n✨ Această reședință deosebită îmbină confortul, spațiul, intimitatea și serviciile premium într-un cadru unic, creat pentru sejururi de neuitat.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde11.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde12.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde13.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde14.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde15.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde16.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_verde_paliouri/images/acc_villa_verde17.webp"
+  ]
+}
 
