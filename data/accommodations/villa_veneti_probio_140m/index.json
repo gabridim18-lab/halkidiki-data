@@ -1,1 +1,58 @@
+{
+  "id": "villa_veneti_probio_140m",
+  "beachSlug": "Paralia Nea Moudania",
+  "zone": "Kassandra",
+
+  "titleEn": "Villa Veneti Probio - Nea Moudania - 140m2",
+  "titleRo": "Villa Veneti Probio - Nea Moudania - 140m2",
+
+  "address": "Moschonision Kidonion 3-1,Nea Moudania 632 00, Grecia",
+  "phone": "+40772158578",
+  "email": "contact@tomcruisesgreece.com",
+
+  "category": "perfect_for_groups",
+  "rating": 9.3,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 8,
+  "sizeSqm": 140,
+  "view": "City view",
+  "bedrooms": 3,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "ownerId": "Toma",
+  "ownerCode": "8030",
+
+  "lat": 40.241748041018454,
+  "lon": 23.2842450221974,
+  "distanceMetersOverride": 395,
+
+  "descriptionEn": "🏠 Fully renovated house • central location • ideal for families and groups\n\n📍 Located on a quiet street, the house is just a 2-minute walk from the town center and the main shopping street.\n\n🏖️ A beautiful, child-friendly beach is only a 10–12 minute walk away.\n\n🌆 Nea Moudania is the largest town in Halkidiki, offering shops, restaurants, banks, and all essential amenities, and is conveniently located just 30 minutes from the airport.\n\n🎯 The area offers a wide variety of activities, including excursions, diving, horseback riding, fishing lessons, and more. A tennis court near the beach is also available for both beginners and experienced players.\n\n✨ The house is professionally designed to provide comfort and relaxation in a modern, welcoming environment.\n\n🧼 Cleaning is carried out using PROBIOTIKON probiotic products, ensuring a hygienic, anti-allergic environment for both children and adults.\n\n🏡 The home is built across three levels, offering generous space and the perfect balance between social areas and privacy, making it ideal for large families or groups of friends.",
+
+  "descriptionRo": "🏠 Casă renovată complet • locație centrală • ideală pentru familii și grupuri\n\n📍 Situată pe o stradă liniștită, casa se află la doar 2 minute de mers pe jos de centrul orașului și principala zonă comercială.\n\n🏖️ O plajă spectaculoasă, prietenoasă cu copiii, se află la aproximativ 10–12 minute de mers pe jos.\n\n🌆 Nea Moudania este cel mai mare oraș din Halkidiki, oferind magazine, restaurante, bănci și toate facilitățile necesare, fiind situat la doar 30 de minute de aeroport.\n\n🎯 Zona oferă numeroase activități pentru toate vârstele, precum excursii organizate, scufundări, echitație, lecții de pescuit și multe altele. De asemenea, în apropierea plajei există un teren de tenis, potrivit atât pentru începători, cât și pentru pasionați.\n\n✨ Casa este amenajată profesional pentru confort și relaxare, oferind un ambient modern și primitor.\n\n🧼 Curățenia este realizată cu produse probiotice PROBIOTIKON, asigurând un mediu igienic și antialergic, sigur pentru copii și adulți.\n\n🏡 Locuința este dispusă pe trei niveluri, oferind spațiu generos și un echilibru perfect între zonele comune și intimitate, fiind ideală pentru familii numeroase sau grupuri de prieteni.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig10.webp"
+  ]
+}
 
