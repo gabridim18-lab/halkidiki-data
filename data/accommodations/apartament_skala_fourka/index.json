@@ -1,1 +1,55 @@
+{
+  "id": "apartament_skala_fourka",
+  "beachSlug": "Skala Fourkas Beach",
+  "zone": "Kassandra",
+
+  "titleEn": "Apartment in Skala Fourkas",
+  "titleRo": "Apartment in Skala Fourkas",
+
+  "address": "292M+XR Skala Fourkas, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "family_friendly",
+  "rating": 9.6,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 4,
+  "sizeSqm": 40,
+  "view": "Garden view",
+  "bedrooms": 2,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.002497260557355,
+  "lon": 23.38452474605135,
+  "distanceMetersOverride": 120,
+
+  "descriptionEn": "Ground-floor apartment • close to the sea • family friendly\n\n🏖️ Only 100 m from the sea\n🌊 Easy access to clear blue waters and sandy beaches\n\n🛏️ 2 bedrooms\n• 1 bedroom with double bed\n• 1 bedroom with two single beds\n\n🚿 1 modern bathroom with shower\n🍽️ Fully equipped kitchen\n\n🏢 Ground-floor accommodation\n\n🌿 Outdoor area:\n• Outdoor furniture with shaded area\n• Ideal for morning coffee, sunset drinks, or family evenings\n\n📶 Amenities:\n• Air conditioning\n• Washing machine\n• Fresh bed linen & towels\n• Fully equipped with all essentials\n\n🚗 Private parking available for 1 car\n\n🍽️ Restaurants, shops, and local points of interest nearby\n\n👨‍👩‍👧‍👦 Ideal for families with children or groups of friends seeking comfort, relaxation, and a touch of luxury in Skala Fourkas.",
+
+  "descriptionRo": "Apartament la parter • aproape de mare • ideal pentru familii\n\n🏖️ La doar 100 m de mare\n🌊 Acces facil la ape albastre limpezi și plaje cu nisip fin\n\n🛏️ 2 dormitoare\n• 1 dormitor cu pat dublu\n• 1 dormitor cu două paturi de o persoană\n\n🚿 1 baie modernă cu duș\n🍽️ Bucătărie complet utilată\n\n🏢 Apartament situat la parter\n\n🌿 Zonă exterioară:\n• Mobilier de exterior cu zonă umbrită\n• Ideală pentru cafeaua de dimineață, băuturi la apus sau seri petrecute în familie\n\n📶 Dotări:\n• Aer condiționat\n• Mașină de spălat\n• Lenjerie și prosoape curate\n• Apartament complet echipat\n\n🚗 Parcare privată disponibilă pentru 1 mașină\n\n🍽️ Restaurante, magazine și puncte de interes în apropiere\n\n👨‍👩‍👧‍👦 Ideal pentru familii cu copii sau grupuri de prieteni care caută confort, relaxare și un strop de lux în Skala Fourkas.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/apartament_skala_fourka/images/appartment_skala_fourka.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/apartament_skala_fourka/images/appartment_skala_fourka1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/apartament_skala_fourka/images/appartment_skala_fourka2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/apartament_skala_fourka/images/appartment_skala_fourka3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/apartament_skala_fourka/images/appartment_skala_fourka4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/apartament_skala_fourka/images/appartment_skala_fourka5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/apartament_skala_fourka/images/appartment_skala_fourka6.webp"
+  ]
+}
 
