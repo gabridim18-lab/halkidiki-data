@@ -1,1 +1,59 @@
+{
+  "id": "app_mola_kaliva",
+  "beachSlug": "Mola Kaliva Beach",
+  "zone": "Kassandra",
+
+  "titleEn": "Breathtaking Sea View Apartment in Mola Kaliva",
+  "titleRo": "Breathtaking Sea View Apartment in Mola Kaliva",
+
+  "address": "39.97078752486393, 23.441080984815297",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "family_friendly",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 7,
+  "sizeSqm": 100,
+  "view": "Sea view",
+  "bedrooms": 3,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.07556408436433,
+  "lon": 23.443653048656873,
+  "distanceMetersOverride": 20,
+
+  "descriptionEn": "Seafront apartment • spacious • steps from the beach\n\n🏖️ Just 10 steps from the sea\n🌊 Direct access to deep blue waters\n\n🏢 Second-floor apartment\n\n🛏️ 3 bedrooms\n• 2 bedrooms with double beds\n• 1 bedroom with three single beds\n\n🚿 1 modern bathroom with shower\n🛋️ Spacious living room\n• Fireplace for cozy moments on cooler days\n🍽️ Fully equipped kitchen\n\n🌿 Outdoor space:\n• Large green garden surrounding the property\n• Balcony with open views of the garden and the sea\n• Perfect for morning coffee or sunset drinks\n\n📶 Amenities:\n• Air conditioning\n• Washing machine\n• Fresh bed linen & towels\n• Fully equipped with all essentials\n\n🚗 No private parking\n🅿️ Free street parking available where permitted\n\n🍽️ Restaurants, shops, and local points of interest within easy reach\n\n👨‍👩‍👧‍👦 Ideal for families with children or groups of friends seeking space, comfort, and a true home-like seaside stay in Mola Kalyva.",
+
+  "descriptionRo": "Apartament la malul mării • spațios • la câțiva pași de plajă\n\n🏖️ La doar 10 pași de mare\n🌊 Acces direct la apele albastre\n\n🏢 Apartament situat la etajul 2\n\n🛏️ 3 dormitoare\n• 2 dormitoare cu paturi duble\n• 1 dormitor cu trei paturi de o persoană\n\n🚿 1 baie modernă cu duș\n🛋️ Living spațios\n• Șemineu, ideal pentru zilele mai răcoroase\n🍽️ Bucătărie complet utilată\n\n🌿 Spațiu exterior:\n• Grădină verde generoasă în jurul proprietății\n• Balcon cu vedere deschisă spre grădină și mare\n• Perfect pentru cafeaua de dimineață sau seri la apus\n\n📶 Dotări:\n• Aer condiționat\n• Mașină de spălat\n• Lenjerie și prosoape curate\n• Apartament complet echipat\n\n🚗 Fără parcare privată\n🅿️ Parcare stradală gratuită, acolo unde este permis\n\n🍽️ Restaurante, magazine și puncte de interes în apropiere\n\n👨‍👩‍👧‍👦 Ideal pentru familii cu copii sau grupuri de prieteni care caută spațiu, relaxare și un adevărat sentiment de „acasă” în Mola Kalyva.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/app_mola_kaliva/images/app_in_mola_kalyva10.webp"
+  ]
+}
 
