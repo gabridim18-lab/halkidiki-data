@@ -1,1 +1,53 @@
+{
+  "id": "amira_house_sykia",
+  "beachSlug": "Sykias Beach",
+  "zone": "Sithonia",
+
+  "titleEn": "Amira House — Sykia (Sithonia), Halkidiki",
+  "titleRo": "Amira House — Sykia (Sithonia), Halkidiki",
+
+  "address": "Amira House - Sithonia Chalkidiki, Συκιά, Sikia 630 72, Greece",
+  "phone": "+306983904455",
+  "website": "https://amirahouse.gr",
+
+  "category": "explorers_choice",
+  "rating": 9.5,
+  "ratingScale": 10,
+
+  "guests": 4,
+  "sizeSqm": 41,
+  "view": "Garden view",
+  "bedrooms": 1,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "lat": 40.04016041239685,
+  "lon": 23.942692666620264,
+  "distanceMetersOverride": 3600,
+
+  "descriptionEn": "1 bedroom • 1 bathroom • balcony • terrace\n\n🛏️ 1 bedroom\n🚿 1 bathroom with shower\n🛋️ Living room\n🍽️ Fully equipped kitchen with refrigerator\n❄️ Air conditioning\n📶 Free Wi-Fi\n🚗 Free private parking\n\n🏡 Amira House Sithonia is a comfortable, air-conditioned accommodation located in Sykia, offering a peaceful stay with balcony and terrace access.\n\n✨ The house includes a cozy bedroom, a modern bathroom with free toiletries, shower, hairdryer, towels, and bed linen, as well as a welcoming living room and a fully equipped kitchen.\n\n🌿 Guests can relax on the private terrace or enjoy quiet moments in the garden, perfect for unwinding after a day at the beach.\n\n📍 Ideal for couples or solo travelers looking for comfort, privacy, and easy access to the highlights of Sithonia.\n\n💶 Prices per night:\n• April – May: 75€\n• June: 100€\n• July – August: 120€\n• September: 100€",
+
+  "descriptionRo": "1 dormitor • 1 baie • balcon • terasă\n\n🛏️ 1 dormitor\n🚿 1 baie cu duș\n🛋️ Living\n🍽️ Bucătărie complet utilată cu frigider\n❄️ Aer condiționat\n📶 Wi-Fi gratuit\n🚗 Parcare privată gratuită\n\n🏡 Amira House Sithonia este o cazare confortabilă, climatizată, situată în Sykia, oferind un sejur liniștit, cu acces la balcon și terasă.\n\n✨ Proprietatea include un dormitor primitor, o baie modernă cu produse de toaletă gratuite, duș, uscător de păr și prosoape, precum și un living luminos și o bucătărie complet echipată.\n\n🌿 Oaspeții se pot relaxa pe terasa privată sau în grădina proprietății, ideală pentru momente de liniște după o zi petrecută la plajă.\n\n📍 Ideală pentru cupluri sau călători solo care caută confort, intimitate și acces facil la atracțiile din Sithonia.\n\n💶 Prețuri pe noapte:\n• Aprilie – Mai: 75€\n• Iunie: 100€\n• Iulie – August: 120€\n• Septembrie: 100€",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amira_house_sykia/images/acc_amira9.webp"
+  ]
+}
 
