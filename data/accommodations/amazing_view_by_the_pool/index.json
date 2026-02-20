@@ -1,1 +1,67 @@
+{
+  "id": "amazing_view_by_the_pool",
+  "beachSlug": "Trani Ammouda",
+  "zone": "Sithonia",
+
+  "titleEn": "Amazing View by the Pool",
+  "titleRo": "Amazing View by the Pool",
+
+  "address": "Amazing View by the Pool in Agios Nikolaos, Οδός Σταυρού, Ag. Nikolaos 630 78, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "perfect_for_groups",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 10,
+  "sizeSqm": 140,
+  "view": "Sea view",
+  "bedrooms": 4,
+
+  "petFriendly": false,
+  "pool": true,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 39.98504921473634,
+  "lon": 23.62132729385788,
+  "distanceMetersOverride": 2110,
+
+  "descriptionEn": "Luxury villas • panoramic views • unforgettable holidays\n\n✨ Modern holidays defined by idyllic surroundings, comfort, simple luxury, and cozy accommodation.\n\n📍 Located in Agios Nikolaos, Halkidiki, this residence brings together all the essential elements for a truly unforgettable vacation.\n\n🌊 Breathtaking, unobstructed views of Ormos Panagias, Diaporos Island, and the majestic Mount Athos\n🌿 Aromas of local herbs such as thyme and oregano enhance the sensory experience\n\n🏡 Set on a 1,500 m² plot, the property consists of 3 detached villas, simply and elegantly designed to meet the needs of every guest.\n\n🛏️ One spacious residence of 160 m²\n👨‍👩‍👧‍👦 Comfortably accommodates up to 10 guests\n\n🏠 Interior layout:\n• First floor: large living room with modern furniture, dining area, fully equipped kitchen, one double bedroom, and a shower bathroom\n• Large terrace with pool views and spectacular Mount Athos scenery\n\n• Ground floor: double bedroom with ensuite bathroom, secondary kitchen with dining table, and a small living area with double sofa bed\n\n• Second floor: two double bedrooms and one shower bathroom\n\n❄️ The residence is bright, cool, and comfortable, with air conditioning in all bedrooms\n🔐 Secure property with armored door and reinforced frames\n\n🏊 Outdoor swimming pool with wooden sun loungers and unobstructed sea & mountain views\n🔥 Covered BBQ area under a wooden pergola\n🍽️ Outdoor dining space for up to 12 guests, surrounded by flowers and greenery\n\n🏖️ Sandy organized beaches with crystal-clear waters: just a 5-minute drive\n🛍️ Agios Nikolaos village nearby for shopping and traditional fish taverns\n🌃 Nikiti village (6 km away) offers nightlife options for every taste",
+
+  "descriptionRo": "Vile de lux • panorame spectaculoase • vacanțe memorabile\n\n✨ Vacanțe moderne definite de un cadru idilic, confort, lux simplu și cazare primitoare.\n\n📍 Situată în Agios Nikolaos, Halkidiki, această proprietate reunește toate elementele necesare pentru o vacanță cu adevărat de neuitat.\n\n🌊 Priveliști impresionante și neobstrucționate către Ormos Panagias, insula Diaporos și impunătorul Munte Athos\n🌿 Aromele ierburilor locale precum cimbrul și oregano completează experiența senzorială\n\n🏡 Proprietatea este amplasată pe un teren de 1.500 m² și include 3 vile independente, decorate simplu și elegant pentru a satisface gusturile tuturor oaspeților.\n\n🛏️ Reședință spațioasă de 160 m²\n👨‍👩‍👧‍👦 Capacitate de cazare: până la 10 persoane\n\n🏠 Compartimentare interioară:\n• Etaj: living mare cu mobilier modern, zonă de dining, bucătărie complet utilată, un dormitor dublu și baie cu duș\n• Terasă generoasă cu vedere la piscină și panorama spectaculoasă a Muntelui Athos\n\n• Parter: dormitor dublu cu baie proprie, bucătărie secundară cu masă de dining și zonă de living cu canapea extensibilă\n\n• Etaj superior: două dormitoare duble și o baie cu duș\n\n❄️ Casa este luminoasă, răcoroasă și confortabilă, cu aer condiționat în toate dormitoarele\n🔐 Proprietate sigură, dotată cu ușă blindată și tâmplărie rezistentă\n\n🏊 Piscină exterioară cu șezlonguri din lemn și vedere neobstrucționată\n🔥 Zonă de grătar acoperită sub pergolă din lemn\n🍽️ Zonă de luat masa în aer liber pentru până la 12 persoane, înconjurată de flori și vegetație\n\n🏖️ Plaje cu nisip fin și ape cristaline, la doar 5 minute cu mașina\n🛍️ Satul Agios Nikolaos este aproape, ideal pentru cumpărături și taverne tradiționale cu pește\n🌃 Satul Nikiti, aflat la 6 km, oferă opțiuni de viață de noapte pentru toate preferințele",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view11.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view12.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view13.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view14.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view15.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view16.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view17.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/amazing_view_by_the_pool/images/acc_amazing_view18.webp"
+  ]
+}
 
