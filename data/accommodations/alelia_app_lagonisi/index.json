@@ -1,1 +1,59 @@
+{
+  "id": "alelia_app_lagonisi",
+  "beachSlug": "Lagonisi Beach",
+  "zone": "Sithonia",
+
+  "titleEn": "Casa Alelia Lagonisi",
+  "titleRo": "Casa Alelia Lagonisi",
+
+  "address": "6PHR+9H, Sithonia 630 78, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "family_friendly",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 6,
+  "sizeSqm": 70,
+  "view": "Garden view",
+  "bedrooms": 2,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.228576310756814,
+  "lon": 23.74144015767278,
+  "distanceMetersOverride": 400,
+
+  "descriptionEn": "Nature retreat • garden & pool views • ideal for families & groups\n\n🏡 Located in Lagonisi, Vourvourou, this beautiful house offers a peaceful retreat surrounded by nature, perfect for relaxing summer holidays in Halkidiki.\n\n🛋️ Interior:\n• Bright living room with sofa bed (double)\n• Fully equipped kitchen\n\n🛏️ Bedrooms:\n• 2 air-conditioned bedrooms\n• 1 bedroom with double bed\n• 1 bedroom with two single beds\n\n🚿 1 modern bathroom with shower\n\n🌿 Outdoor areas:\n• Lush green garden\n• Comfortable outdoor lounge area\n• Outdoor shower\n• Spacious veranda with views over the garden and swimming pool\n• Ideal for morning coffee or sunset drinks\n\n📶 Amenities:\n• Air conditioning in all rooms\n• Fresh bed linen & towels\n• Fully equipped with all essential household items\n\n🚗 Private parking available\n\n🏖️ Nearest beach: approx. 3-minute drive\n🍽️ Restaurants, shops, and local attractions nearby\n\n👨‍👩‍👧‍👦 Ideal for families or groups of friends seeking comfort, relaxation, and a true home-like stay in Lagonisi, Vourvourou.",
+
+  "descriptionRo": "Refugiu în natură • vedere spre grădină & piscină • ideal pentru familii & grupuri\n\n🏡 Situată în Lagonisi, Vourvourou, această casă frumoasă oferă un refugiu liniștit, înconjurat de natură, perfect pentru vacanțe de vară relaxante în Halkidiki.\n\n🛋️ Interior:\n• Living luminos cu canapea extensibilă dublă\n• Bucătărie complet utilată\n\n🛏️ Dormitoare:\n• 2 dormitoare cu aer condiționat\n• 1 dormitor cu pat dublu\n• 1 dormitor cu două paturi de o persoană\n\n🚿 1 baie modernă cu duș\n\n🌿 Zone exterioare:\n• Grădină verde și îngrijită\n• Zonă de lounge în aer liber\n• Duș exterior\n• Verandă spațioasă cu vedere spre grădină și piscină\n• Ideală pentru cafeaua de dimineață sau seri la apus\n\n📶 Dotări:\n• Aer condiționat în toate camerele\n• Lenjerie și prosoape curate\n• Casă complet echipată cu toate facilitățile necesare\n\n🚗 Parcare privată disponibilă\n\n🏖️ Cea mai apropiată plajă: aprox. 3 minute cu mașina\n🍽️ Restaurante, magazine și atracții locale în apropiere\n\n👨‍👩‍👧‍👦 Ideală pentru familii sau grupuri de prieteni care caută confort, relaxare și un sentiment de „acasă” în Lagonisi, Vourvourou.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/alelia_app_lagonisi/images/alelia_lagonisi_beach10.webp"
+  ]
+}
 
