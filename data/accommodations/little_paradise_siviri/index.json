@@ -1,1 +1,55 @@
+{
+  "id": "little_paradise_siviri",
+  "beachSlug": "Siviri Beach",
+  "zone": "Kassandra",
+
+  "titleEn": "Little Paradise in Siviri",
+  "titleRo": "Little Paradise in Siviri",
+
+  "address": "Unnamed Road, Siviri 630 77, Grecia",
+  "phone": "+40772158578",
+  "email": "contact@tomcruisesgreece.com",
+  "website": "https://tinyurl.com/c38j8epb",
+
+  "category": "escape_and_relax",
+  "rating": 9.8,
+  "ratingScale": 10,
+
+  "guests": 9,
+  "sizeSqm": 75,
+  "view": "Garden view",
+  "bedrooms": 3,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Toma",
+  "ownerCode": "8030",
+
+  "lat": 40.038187404037195,
+  "lon": 23.36598450414698,
+  "distanceMetersOverride": 605,
+
+  "descriptionEn": "Peaceful retreat • mountain & garden views • family friendly\n\n🛏️ 3 comfortable bedrooms\n🚿 2 modern bathrooms\n🍽️ Modern, fully equipped kitchen\n🛋️ Cozy living room with mountain & garden views\n\n🌿 Private terrace with BBQ facilities\n🧺 Picnic area & outdoor seating\n\n🏖️ Siviri Beach: approx. 8-minute walk\n🌊 Elani Beach: approx. 1.5 miles\n\n✨ Little Paradise in Siviri is a serene vacation home designed for relaxation, comfort, and privacy.\n\n🌄 Enjoy beautiful mountain and garden views, peaceful surroundings, and inviting outdoor spaces ideal for long summer evenings.\n\n⭐ Known for outstanding cleanliness and excellent value for money, this property is perfect for travelers seeking a calm and authentic Halkidiki experience.\n\n✈️ Thessaloniki Airport: approx. 51 miles away",
+
+  "descriptionRo": "Refugiu liniștit • vedere spre munte & grădină • ideal pentru familii\n\n🛏️ 3 dormitoare confortabile\n🚿 2 băi moderne\n🍽️ Bucătărie modernă, complet utilată\n🛋️ Living primitor cu vedere spre munți și grădină\n\n🌿 Terasă privată cu zonă de grătar\n🧺 Zonă de picnic & spațiu de relaxare în aer liber\n\n🏖️ Plaja Siviri: aprox. 8 minute de mers pe jos\n🌊 Plaja Elani: aprox. 2,4 km\n\n✨ Little Paradise din Siviri este o casă de vacanță liniștită, creată pentru relaxare, confort și intimitate.\n\n🌄 Oferă priveliști frumoase spre munți și grădină, un cadru natural plăcut și spații exterioare ideale pentru seri relaxante de vară.\n\n⭐ Remarcată pentru curățenia excelentă și raportul foarte bun calitate–preț, proprietatea este perfectă pentru turiștii care caută liniște și autenticitate în Halkidiki.\n\n✈️ Aeroportul Salonic: aprox. 82 km",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/little_paradise_siviri/images/acc_paradise_siviri.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/little_paradise_siviri/images/acc_paradise_siviri1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/little_paradise_siviri/images/acc_paradise_siviri2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/little_paradise_siviri/images/acc_paradise_siviri3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/little_paradise_siviri/images/acc_paradise_siviri4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/little_paradise_siviri/images/acc_paradise_siviri5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/little_paradise_siviri/images/acc_paradise_siviri6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/little_paradise_siviri/images/acc_paradise_siviri7.webp"
+  ]
+}
 
