@@ -1,1 +1,58 @@
+{
+  "id": "ines_beach_app_chanioti",
+  "beachSlug": "Hanioti Beach",
+  "zone": "Kassandra",
+
+  "titleEn": "Inesa’s Beach Front Apartment",
+  "titleRo": "Inesa’s Beach Front Apartment",
+
+  "address": "40.00086651838672, 23.576981256320828",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "family_friendly",
+  "rating": 9.6,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 6,
+  "sizeSqm": 60,
+  "view": "Sea view",
+  "bedrooms": 1,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.00101789441035,
+  "lon": 23.57708700889541,
+  "distanceMetersOverride": 40,
+
+  "descriptionEn": "...",
+  "descriptionRo": "...",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ines_beach_app_chanioti/images/inesa_app_chanioti10.webp"
+  ]
+}
 
