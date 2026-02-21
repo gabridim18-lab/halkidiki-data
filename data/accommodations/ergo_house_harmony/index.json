@@ -1,1 +1,53 @@
+{
+  "id": "ergo_house_harmony",
+  "beachSlug": "Siviri Beach",
+  "zone": "Kassandra",
+
+  "titleEn": "Ergo House Harmony",
+  "titleRo": "Ergo House Harmony",
+
+  "address": "29Q7+XF Siviri, Greece",
+  "phone": "+306977256271",
+  "email": "booking@ergo-house.gr",
+  "website": "https://ergo-house.gr/",
+
+  "category": "escape_and_relax",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 4,
+  "sizeSqm": 80,
+  "view": "Garden view",
+  "bedrooms": 2,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "lat": 40.035416478058124,
+  "lon": 23.362545246154173,
+  "distanceMetersOverride": 485,
+
+  "descriptionEn": "2 bedrooms • garden views • near the beach\n\n🛏️ 2 comfortable bedrooms\n🚿 1 bathroom\n🛋️ Spacious living room\n🍽️ Fully equipped kitchen\n🌿 Private terrace\n\n📐 Apartment size: 80 m²\n🏖️ Distance to beach & Siviri center: approx. 300 m\n\n🏡 Harmony Apartment is located in the picturesque village of Siviri, offering the perfect balance between relaxation, nature, and seaside living.\n\n🌲 The apartment enjoys a unique setting with views of the pine forest of Kassandra at the front and a peaceful garden at the back, featuring a communal BBQ area and kiosk.\n\n📶 Guests benefit from high-speed Wi-Fi, heating, free parking, bathroom essentials, bedroom comforts, a hair dryer, and a private terrace.\n\n👨‍👩‍👧‍👦 Designed to accommodate up to 4 guests, the apartment offers generous space, comfort, and a serene natural atmosphere.\n\n🌊 Harmony Apartment is an ideal choice for travelers seeking a tranquil yet luxurious stay, close to both nature and the sea.",
+
+  "descriptionRo": "2 dormitoare • vedere spre natură • aproape de plajă\n\n🛏️ 2 dormitoare confortabile\n🚿 1 baie\n🛋️ Living spațios\n🍽️ Bucătărie complet utilată\n🌿 Terasă privată\n\n📐 Suprafață apartament: 80 m²\n🏖️ Distanță față de plajă și centrul Siviri: aprox. 300 m\n\n🏡 Harmony Apartment este situat în pitorescul sat Siviri, oferind un echilibru perfect între relaxare, natură și viața la malul mării.\n\n🌲 Apartamentul beneficiază de o poziționare unică, cu vedere spre pădurea de pini din Kassandra în față și o grădină liniștită în spate, dotată cu zonă comună de grătar și chioșc.\n\n📶 Oaspeții au la dispoziție Wi-Fi de mare viteză, încălzire, parcare gratuită, articole esențiale pentru baie, confort sporit în dormitoare, uscător de păr și terasă privată.\n\n👨‍👩‍👧‍👦 Proiectat pentru a găzdui până la 4 persoane, apartamentul oferă spațiu generos, confort și o atmosferă naturală, relaxantă.\n\n🌊 Harmony Apartment este alegerea ideală pentru cei care caută un sejur liniștit, dar elegant, aproape de natură și mare.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_harmony/images/ergoharmony.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_harmony/images/ergoharmony1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_harmony/images/ergoharmony2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_harmony/images/ergoharmony3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_harmony/images/ergoharmony4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_harmony/images/ergoharmony5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_harmony/images/ergoharmony6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_harmony/images/ergoharmony7.webp"
+  ]
+}
 
