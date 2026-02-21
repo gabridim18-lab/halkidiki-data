@@ -16,14 +16,14 @@
     "descriptionEn": "🍽️ Zak Contemporary Bistrot in Nea Krini blends modern Mediterranean cuisine with artistic flair. ✨ Enjoy carefully crafted dishes, creative plating, and a relaxed yet stylish atmosphere. 🌊 Located close to the sea, it’s the perfect spot for brunch, lunch, or an elegant dinner with friends. 🍷",
     "descriptionRo": "🍽️ Zak Contemporary Bistrot din Nea Krini îmbină bucătăria mediteraneană modernă cu un stil artistic aparte. ✨ Preparatele atent gândite, platingul creativ și atmosfera relaxată, dar elegantă, creează o experiență specială. 🌊 Situat aproape de mare, este locul ideal pentru brunch, prânz sau o cină rafinată alături de prieteni. 🍷",
     "images": [
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak1.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_zak2.webp"
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_zak.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_zak1.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_zak2.webp"
 ],
     "menuImages": [
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_zak1.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_zak2.webp",
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_zak3.webp"
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_zak1.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_zak2.webp",
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_zak3.webp"
 ]
   },
   {
@@ -43,10 +43,10 @@
   "descriptionEn": "⚓ En Plo (Εν Πλώ) is a cozy fisherman-style café in Kalamaria, known for its relaxed seaside atmosphere. 🌊 Enjoy simple, fresh flavors inspired by the sea, perfect for a casual coffee, light meal, or a quiet moment by the water. ☕🐟",
   "descriptionRo": "⚓ En Plo (Εν Πλώ) este un local tip cafenea pescărească din Kalamaria, apreciat pentru atmosfera sa relaxată, chiar lângă mare. 🌊 Preparatele simple, proaspete și aromele inspirate din mare îl fac locul ideal pentru o cafea liniștită, o masă ușoară sau un moment de relaxare pe malul apei. ☕🐟",
   "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo1.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo2.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo3.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_en_plo4.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_en_plo1.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_en_plo2.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_en_plo3.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_en_plo4.webp"
   ],
   "menuImages": []
 },
@@ -67,13 +67,13 @@
   "descriptionEn": "🐟 Gialos Fish & Seafood Tavern is a traditional seaside taverna in Nea Krini, famous for fresh fish and seafood specialties. 🌊 Enjoy authentic Greek flavors in a relaxed atmosphere by the sea, ideal for long lunches or romantic dinners with beautiful sunset views. 🌅🍷",
   "descriptionRo": "🐟 Gialos Fish & Seafood Tavern este o tavernă tradițională cu specific pescăresc din Nea Krini, renumită pentru peștele proaspăt și specialitățile din fructe de mare. 🌊 Atmosfera grecească autentică, chiar pe malul mării, o face ideală pentru prânzuri relaxate sau cine romantice la apus. 🌅🍷",
   "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_gialos.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_gialos1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_gialos2.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_gialos.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_gialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_gialos2.webp"
   ],
   "menuImages": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_gialos1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_gialos2.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_gialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_gialos2.webp"
   ]
 },
   {
@@ -93,9 +93,9 @@
   "descriptionEn": "Téssera in Kalamaria is a modern Greek spot with a cozy atmosphere and a focus on quality ingredients, ideal for relaxed lunches and late dinners with friends. A great choice if you want authentic flavors with a contemporary touch.",
   "descriptionRo": "Téssera din Kalamaria este un loc modern cu specific grecesc, atmosferă cozy și accent pe ingrediente de calitate, ideal pentru prânzuri relaxate și cine târzii cu prietenii. O alegere foarte bună dacă vrei gust autentic cu un vibe contemporan.",
   "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_tessera.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_tessera1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_tessera2.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_tessera.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_tessera1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_tessera2.webp"
   ],
   "menuImages": []
 },
@@ -117,15 +117,15 @@
     "descriptionRo": "Mike's Place este un beach bar primitor din Nea Perea, Halkidiki 🌊☀️, ideal pentru relaxare la malul mării, cu șezlonguri confortabile, cocktailuri răcoritoare 🍹, cafea bună ☕ și o atmosferă prietenoasă, perfect pentru cupluri, familii și iubitorii de apusuri 🌅.",
     "images": [
   "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea1.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea2.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea3.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_mike_perea4.webp"
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_mike_perea1.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_mike_perea2.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_mike_perea3.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_mike_perea4.webp"
 ],
     "menuImages": [
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike1.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike2.webp",
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_mike3.webp"
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_mike1.webp",
+      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_mike2.webp",
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_mike3.webp"
 ]
   },
   {
@@ -145,9 +145,9 @@
   "descriptionEn": "Aigialos is a seaside fish tavern in Perea, known for fresh seafood, traditional Greek recipes, and a calm atmosphere right by the sea. Perfect for relaxed lunches and sunset dinners with authentic flavors.",
   "descriptionRo": "Aigialos este o tavernă pescărească situată pe malul mării în Perea, cunoscută pentru peștele proaspăt, rețetele tradiționale grecești și atmosfera liniștită, chiar lângă apă. Ideală pentru prânzuri relaxante și cine la apus.",
   "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_aigialos.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_aigialos1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_aigialos2.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_aigialos.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_aigialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_aigialos2.webp"
   ],
   "menuImages": []
 },
@@ -168,13 +168,13 @@
   "descriptionEn": "Taverna Thalassopoulia is a classic seaside Greek tavern in Perea, loved for fresh seafood, generous portions, and an authentic local atmosphere. A great choice for long evenings by the sea, with traditional flavors and a relaxed vibe.",
   "descriptionRo": "Taverna Thalassopoulia este o tavernă grecească clasică, situată pe malul mării în Perea, apreciată pentru peștele proaspăt, porțiile generoase și atmosfera autentică locală. O alegere excelentă pentru seri lungi la malul mării, cu gusturi tradiționale.",
   "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_thalassopoulia.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_thalassopoulia1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/res_thalassopoulia2.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_thalassopoulia.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_thalassopoulia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_thalassopoulia2.webp"
   ],
   "menuImages": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_thalassopoulia1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/menu_thalassopoulia2.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_thalassopoulia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_thalassopoulia2.webp"
   ]
 },
   {
@@ -196,11 +196,11 @@
   "descriptionEn": "Wet Red Rose is a lively beach bar in Nei Epivates 🌊🔥, known for its all-day beach vibes, sunbeds by the sea, refreshing cocktails 🍹, great music 🎶 and energetic nights that last until early morning. Perfect for those who enjoy beach life by day and party atmosphere by night.",
   "descriptionRo": "Wet Red Rose este un beach bar vibrant din Nei Epivates 🌊🔥, cunoscut pentru vibe-ul de plajă pe tot parcursul zilei, șezlonguri la malul mării, cocktailuri răcoritoare 🍹, muzică bună 🎶 și seri animate până dimineața. Ideal pentru cei care vor distracție ziua și petrecere noaptea.",
   "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose2.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose3.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/bar_wet_red_rose4.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose4.webp"
   ],
   "menuImages": []
 }
