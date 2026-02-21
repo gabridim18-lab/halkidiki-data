@@ -1,1 +1,62 @@
+{
+  "id": "lagonisi_hause_private_beach",
+  "beachSlug": "Private Beach",
+  "zone": "Sithonia",
+
+  "titleEn": "Lagonisi Hause with Private Beach",
+  "titleRo": "Casa in Lagonisi cu Plaja Privata",
+
+  "address": "40.22843404985721, 23.746551588796873",
+  "phone": "+306944596067",
+
+  "category": "family_friendly",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 4,
+  "sizeSqm": 65,
+  "view": "Sea view",
+  "bedrooms": 2,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Nikos",
+  "ownerCode": "8090",
+
+  "lat": 40.22843404985721,
+  "lon": 23.746551588796873,
+  "distanceMetersOverride": 30,
+
+  "descriptionEn": "...",
+  "descriptionRo": "...",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach11.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach12.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach13.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach14.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach15.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/lagonisi_hause_private_beach/images/house_on_private_beach16.webp"
+  ]
+}
 
