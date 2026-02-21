@@ -1,1 +1,60 @@
+{
+  "id": "big_app_trikorfo",
+  "beachSlug": "Trikorfo Beach",
+  "zone": "Sithonia",
+
+  "titleEn": "3 Bedroom House in Trikorfo Beach",
+  "titleRo": "3 Bedroom House in Trikorfo Beach",
+
+  "address": "7F79+V7, Gerakini 631 00, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "perfect_for_groups",
+  "rating": 9.8,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 11,
+  "sizeSqm": 125,
+  "view": "Garden view",
+  "bedrooms": 3,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.26372633451554,
+  "lon": 23.469332010913245,
+  "distanceMetersOverride": 200,
+
+  "descriptionEn": "Two independent apartments • close to the beach • ideal for families & groups\n\n🏖️ Approx. 250 m from the sea\n🌊 Easy access to beaches and seaside attractions\n\n🏠 Property layout:\n• Two autonomous apartments within the same complex\n• Separate entrances for each unit\n\n🏢 First-floor apartment:\n🛏️ 2 bedrooms\n🚿 1 bathroom with shower\n🛋️ Living room with sofa bed\n🍽️ Fully equipped kitchen\n\n🏢 Ground-floor apartment:\n🛏️ 1 bedroom\n🛋️ Living room with sofa bed\n🛁 1 bathroom with bathtub\n\n🌿 Outdoor space:\n• Shared garden\n• 2 sunny balconies\n• Outdoor furniture, perfect for morning coffee or relaxing evenings\n\n📶 Amenities:\n• Air conditioning\n• Washing machine\n• Fresh bed linen & towels\n• Fully equipped with all essential amenities\n\n🚗 No private parking\n🅿️ Free street parking available where permitted\n\n🍽️ Beach, restaurants, shops, and local points of interest within walking distance\n\n👨‍👩‍👧‍👦 Ideal for families or groups of friends seeking tranquility, comfort, and convenience in Trikorfo.\n\n➕ Can also be rented together with a nearby property for larger groups.",
+
+  "descriptionRo": "Două apartamente independente • aproape de plajă • ideale pentru familii & grupuri\n\n🏖️ La aprox. 250 m de mare\n🌊 Acces facil la plaje și atracții de litoral\n\n🏠 Structura proprietății:\n• Două apartamente autonome în același complex\n• Intrări separate pentru fiecare unitate\n\n🏢 Apartament la etaj:\n🛏️ 2 dormitoare\n🚿 1 baie cu duș\n🛋️ Living cu canapea extensibilă\n🍽️ Bucătărie complet utilată\n\n🏢 Apartament la parter:\n🛏️ 1 dormitor\n🛋️ Living cu canapea extensibilă\n🛁 1 baie cu cadă\n\n🌿 Spațiu exterior:\n• Grădină comună\n• 2 balcoane însorite\n• Mobilier de exterior, ideal pentru cafeaua de dimineață sau seri relaxante\n\n📶 Dotări:\n• Aer condiționat\n• Mașină de spălat\n• Lenjerie și prosoape curate\n• Complet echipat cu toate facilitățile esențiale\n\n🚗 Fără parcare privată\n🅿️ Parcare stradală gratuită, acolo unde este permis\n\n🍽️ Plaja, restaurantele, magazinele și punctele de interes sunt la distanță de mers pe jos\n\n👨‍👩‍👧‍👦 Ideală pentru familii sau grupuri de prieteni care caută liniște, confort și acces rapid în Trikorfo.\n\n➕ Se poate închiria și împreună cu o proprietate din apropiere pentru grupuri mai mari.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/big_app_trikorfo/images/hause_trikorfo_beach11.webp"
+  ]
+}
 
