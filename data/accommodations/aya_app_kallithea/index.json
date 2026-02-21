@@ -1,1 +1,56 @@
+{
+  "id": "aya_app_kallithea",
+  "beachSlug": "Kalithea Beach",
+  "zone": "Kassandra",
+
+  "titleEn": "Aya Pool Apartment in Kallithea",
+  "titleRo": "Aya Pool Apartment in Kallithea",
+
+  "address": "3CGV+6F Kallithea, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "family_friendly",
+  "rating": 9.8,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 4,
+  "sizeSqm": 55,
+  "view": "Garden view",
+  "bedrooms": 1,
+
+  "petFriendly": false,
+  "pool": true,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.07556408436433,
+  "lon": 23.443653048656873,
+  "distanceMetersOverride": 480,
+
+  "descriptionEn": "Sunny apartment • pool access • ideal for families & groups\n\n🏖️ Approx. 10-minute walk from the sea\n🌊 Easy access to beaches and local attractions\n\n🏢 First-floor apartment\n\n🛏️ 1 bedroom with double bed\n🚿 1 modern bathroom with shower\n🛋️ Living room with sofa bed (double)\n🍽️ Fully equipped kitchen\n\n🌿 Outdoor space:\n• Garden with blue swimming pool\n• Balcony overlooking the garden and pool\n• Perfect for morning coffee or sunset relaxation\n\n📶 Amenities:\n• Air conditioning\n• Washing machine\n• Fresh bed linen & towels\n• Fully equipped with all essentials\n\n🚗 No private parking\n🅿️ Free street parking available where permitted\n\n🍽️ Beach, restaurants, shops, and points of interest within walking distance\n\n👨‍👩‍👧‍👦 Ideal for families or groups of friends seeking comfort, relaxation, and a home-like stay in Kallithea.\n\n➕ Can also be rented together with a nearby apartment for larger groups.",
+
+  "descriptionRo": "Apartament însorit • piscină • ideal pentru familii & grupuri\n\n🏖️ La aprox. 10 minute de mers pe jos de mare\n🌊 Acces facil la plaje și atracții locale\n\n🏢 Apartament situat la etajul 1\n\n🛏️ 1 dormitor cu pat dublu\n🚿 1 baie modernă cu duș\n🛋️ Living cu canapea extensibilă dublă\n🍽️ Bucătărie complet utilată\n\n🌿 Spațiu exterior:\n• Grădină cu piscină albastră\n• Balcon cu vedere spre grădină și piscină\n• Ideal pentru cafeaua de dimineață sau seri relaxante\n\n📶 Dotări:\n• Aer condiționat\n• Mașină de spălat\n• Lenjerie și prosoape curate\n• Apartament complet echipat\n\n🚗 Fără parcare privată\n🅿️ Parcare stradală gratuită, acolo unde este permis\n\n🍽️ Plaja, restaurantele, magazinele și punctele de interes sunt la distanță de mers pe jos\n\n👨‍👩‍👧‍👦 Ideal pentru familii sau grupuri de prieteni care caută confort, relaxare și un sentiment de „acasă” în Kallithea.\n\n➕ Se poate închiria împreună cu un apartament din apropiere pentru grupuri mai mari.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/aya_app_kallithea/images/aya_app_kallithea.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/aya_app_kallithea/images/aya_app_kallithea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/aya_app_kallithea/images/aya_app_kallithea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/aya_app_kallithea/images/aya_app_kallithea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/aya_app_kallithea/images/aya_app_kallithea4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/aya_app_kallithea/images/aya_app_kallithea5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/aya_app_kallithea/images/aya_app_kallithea6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/aya_app_kallithea/images/aya_app_kallithea7.webp"
+  ]
+}
 
