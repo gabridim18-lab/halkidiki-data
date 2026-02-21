@@ -1,1 +1,53 @@
+{
+  "id": "kastamoniti_suite_in_nikiti",
+  "beachSlug": "Nikiti Beach",
+  "zone": "Sithonia",
+
+  "titleEn": "Pine&Sea Kastamoniti beach in Nikiti",
+  "titleRo": "Pine&Sea Kastamoniti beach in Nikiti",
+
+  "address": "6JGW+6P Sithonia, Greece",
+  "phone": "+306937578833",
+
+  "category": "family_friendly",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 4,
+  "sizeSqm": 15,
+  "view": "Sea view",
+  "bedrooms": 1,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": false,
+  "balcony": true,
+  "bbq": false,
+
+  "ownerId": "Kastamoniti",
+  "ownerCode": "8110",
+
+  "lat": 40.22562666266493,
+  "lon": 23.646807089756305,
+  "distanceMetersOverride": 50,
+
+  "descriptionEn": "...",
+  "descriptionRo": "...",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kastamoniti_suite_in_nikiti/images/kastamoniti_nikiti.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kastamoniti_suite_in_nikiti/images/kastamoniti_nikiti1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kastamoniti_suite_in_nikiti/images/kastamoniti_nikiti2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kastamoniti_suite_in_nikiti/images/kastamoniti_nikiti3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kastamoniti_suite_in_nikiti/images/kastamoniti_nikiti4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kastamoniti_suite_in_nikiti/images/kastamoniti_nikiti5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kastamoniti_suite_in_nikiti/images/kastamoniti_nikiti6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kastamoniti_suite_in_nikiti/images/kastamoniti_nikiti7.webp"
+  ]
+}
 
