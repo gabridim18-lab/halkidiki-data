@@ -1,1 +1,59 @@
+{
+  "id": "holiday_home_lagonisi",
+  "beachSlug": "Lagonisi Beach",
+  "zone": "Sithonia",
+
+  "titleEn": "Holiday Home with sea view in Lagonisi",
+  "titleRo": "Holiday Home with sea view in Lagonisi",
+
+  "address": "6PPW+83, Sithonia 630 78, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "perfect_for_groups",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 10,
+  "sizeSqm": 70,
+  "view": "Sea view",
+  "bedrooms": 2,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.23598769148493,
+  "lon": 23.74519101534556,
+  "distanceMetersOverride": 150,
+
+  "descriptionEn": "Nature retreat • sea views • ideal for families & groups\n\n🏡 Located in Lagonisi, Vourvourou, this beautiful house offers privacy, comfort, and flexibility, surrounded by nature and close to crystal-clear waters.\n\n🛋️ Interior:\n• Bright living room with sofa bed (double)\n• Fully equipped kitchen, perfect for family meals\n\n🛏️ Bedrooms:\n• 3 air-conditioned bedrooms\n• 2 bedrooms with double beds\n• 1 bedroom with two single beds\n\n🚿 Bathrooms:\n• 1 modern bathroom with shower\n• 1 additional outdoor shower bathroom\n🚻 Outdoor WC\n\n🌿 Outdoor areas:\n• Lush green garden\n• Open views to the crystal-clear sea\n• Outdoor lounge area\n• BBQ corner\n• Spacious veranda, ideal for mornings and sunset evenings\n\n📶 Amenities:\n• Air conditioning in all rooms\n• Washing machine\n• Fresh bed linen & towels\n• Fully equipped household essentials\n\n🚗 Private on-site parking\n\n🏖️ Nearest beach: approx. 3-minute drive\n🍽️ Restaurants, shops, and local attractions nearby\n\n👨‍👩‍👧‍👦 Perfect for families with children or groups of friends seeking comfort, relaxation, and a true home-like stay in Vourvourou, Lagonisi.",
+
+  "descriptionRo": "Refugiu în natură • vedere la mare • ideal pentru familii & grupuri\n\n🏡 Situată în Lagonisi, Vourvourou, această casă frumoasă oferă intimitate, confort și flexibilitate, fiind înconjurată de natură și aproape de ape cristaline.\n\n🛋️ Interior:\n• Living luminos cu canapea extensibilă dublă\n• Bucătărie complet utilată, ideală pentru mesele în familie\n\n🛏️ Dormitoare:\n• 3 dormitoare cu aer condiționat\n• 2 dormitoare cu paturi duble\n• 1 dormitor cu două paturi de o persoană\n\n🚿 Băi:\n• 1 baie modernă cu duș\n• 1 baie exterioară suplimentară cu duș\n🚻 WC exterior\n\n🌿 Zone exterioare:\n• Grădină verde și luxuriantă\n• Vedere deschisă către mare\n• Zonă de lounge în aer liber\n• Colț BBQ\n• Verandă spațioasă, perfectă pentru dimineți liniștite sau seri la apus\n\n📶 Dotări:\n• Aer condiționat în toate camerele\n• Mașină de spălat\n• Lenjerie și prosoape curate\n• Casă complet echipată\n\n🚗 Parcare privată în incintă\n\n🏖️ Cea mai apropiată plajă: aprox. 3 minute cu mașina\n🍽️ Restaurante, magazine și atracții locale în apropiere\n\n👨‍👩‍👧‍👦 Ideală pentru familii cu copii sau grupuri de prieteni care caută confort, relaxare și un adevărat sentiment de „acasă” în Vourvourou, Lagonisi.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/holiday_home_lagonisi/images/holiday_home_lagonisi10.webp"
+  ]
+}
 
