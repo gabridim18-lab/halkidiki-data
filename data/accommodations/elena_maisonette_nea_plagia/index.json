@@ -1,1 +1,60 @@
+{
+  "id": "elena_maisonette_nea_plagia",
+  "beachSlug": "Nea Plagia Beach",
+  "zone": "Thessaloniki",
+
+  "titleEn": "Elena’s Maisonette in Nea Plagia",
+  "titleRo": "Elena’s Maisonette in Nea Plagia",
+
+  "address": "40.26230195484463, 23.209069365416195",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "family_friendly",
+  "rating": 9.6,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 10,
+  "sizeSqm": 120,
+  "view": "Garden view",
+  "bedrooms": 3,
+
+  "petFriendly": false,
+  "pool": true,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.26230195484463,
+  "lon": 23.209078651617055,
+  "distanceMetersOverride": 425,
+
+  "descriptionEn": "Sunny maisonette • steps from the sea • perfect for families & groups\n\n🏖️ Only 5 meters from the sea and crystal-clear waters\n🌊 Easy access to sandy beaches\n\n🏡 Main house (2 levels):\n\n🛏️ Ground floor:\n• 1 bedroom with double bed\n• Spacious living room with large corner sofa\n• Fully equipped kitchen\n• Guest WC\n\n🛏️ First floor:\n• 2 bedrooms\n  – 1 with double bed\n  – 1 with four single beds (can be joined into 2 double beds if needed)\n• 1 bathroom with bathtub\n\n🌿 Outdoor areas:\n• 2 spacious balconies\n• Outdoor furniture with curtains for privacy\n• Private yard\n• INTEX inflatable pool\n• BBQ area, ideal for family dinners\n\n📶 Included amenities:\n• Fresh bed linen and towels for all guests\n• All basic essentials to start your holiday\n• Air conditioning for hot summer days\n• Washing machine\n\n🚗 Private parking space available\n\n📍 The location perfectly combines peace and privacy with direct access to restaurants, shops, and local points of interest in Nea Plagia.\n\n👨‍👩‍👧‍👦 Ideal for families with children seeking space and safety, or groups of friends looking for relaxation, fun, and a true home-like seaside stay.",
+
+  "descriptionRo": "Maisonette însorit • la câțiva pași de mare • ideal pentru familii & grupuri\n\n🏖️ La doar 5 metri de mare și apele sale cristaline\n🌊 Acces rapid la plaje cu nisip fin\n\n🏡 Casa principală (pe 2 niveluri):\n\n🛏️ Parter:\n• 1 dormitor cu pat dublu\n• Living spațios cu canapea mare de colț\n• Bucătărie complet utilată\n• Toaletă\n\n🛏️ Etaj:\n• 2 dormitoare\n  – 1 cu pat dublu\n  – 1 cu 4 paturi de o persoană (pot fi unite în 2 paturi duble)\n• 1 baie cu cadă\n\n🌿 Zonă exterioară:\n• 2 balcoane spațioase\n• Mobilier de exterior și perdele pentru intimitate\n• Curte privată\n• Piscină gonflabilă INTEX\n• Zonă BBQ, ideală pentru cine în familie\n\n📶 Facilități incluse:\n• Lenjerie de pat și prosoape proaspete pentru toți oaspeții\n• Toate lucrurile de bază pentru începutul vacanței\n• Aer condiționat pentru zilele călduroase\n• Mașină de spălat\n\n🚗 Parcare privată inclusă\n\n📍 Locația îmbină perfect liniștea și intimitatea cu acces direct la restaurante, magazine și puncte de interes din Nea Plagia.\n\n👨‍👩‍👧‍👦 Ideală pentru familii cu copii care caută spațiu și siguranță sau pentru grupuri de prieteni care doresc relaxare, distracție și sentimentul de „acasă” la malul mării.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/elena_maisonette_nea_plagia/images/elena_maisonette_nea_plagia11.webp"
+  ]
+}
 
