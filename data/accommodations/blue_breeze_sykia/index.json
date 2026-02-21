@@ -1,1 +1,56 @@
+{
+  "id": "blue_breeze_sykia",
+  "beachSlug": "Sykias Beach",
+  "zone": "Sithonia",
+
+  "titleEn": "The Blue Breeze Villa",
+  "titleRo": "The Blue Breeze Villa",
+
+  "address": "2XPM+JV Sykia Chalkidikis, Greece",
+  "phone": "+306973946311",
+  "website": "http://airbnb.com/h/sykia",
+
+  "category": "family_friendly",
+  "rating": 9.8,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 10,
+  "sizeSqm": 85,
+  "view": "Beach view",
+  "bedrooms": 3,
+
+  "petFriendly": true,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Stylianos",
+  "ownerCode": "8050",
+
+  "lat": 40.036806647132366,
+  "lon": 23.98470922029049,
+  "distanceMetersOverride": 280,
+
+  "descriptionEn": "Charming summer villa • close to the beach • Mediterranean escape\n\n🏖️ Approx. 300 m from Sykia Beach\n🌊 Easy access to multiple beautiful beaches\n\n🏡 The Blue Breeze 💙 is a charming 3-bedroom summer villa, combining an Athos-inspired stone exterior with bright, white Santorini-style interiors.\n\n🛋️ Interior spaces:\n• Spacious living area\n• Separate fully equipped kitchen\n• Bright, airy rooms designed for comfort\n\n🛏️ Bedrooms:\n• 3 themed bedrooms\n  – Blue 💙 Bedroom\n  – Purple 💜 Bedroom\n  – Green 💚 Bedroom\n\n🚿 Bathrooms:\n• 1 indoor bathroom\n• 1 private outdoor bathroom with open-air shower & toilet\n\n🌿 Outdoor areas:\n• Large covered terrace & veranda\n• Ideal for outdoor dining and relaxation\n• Spacious private garden, perfect for families\n\n📍 Location highlights:\n• Supermarkets and amenities nearby\n• Only 10 minutes by car from Sarti\n\n👨‍👩‍👧‍👦 Perfect for families or groups seeking an authentic Mediterranean getaway in Halkidiki, blending comfort, style, and proximity to the sea.",
+
+  "descriptionRo": "Vilă de vară fermecătoare • aproape de plajă • escapadă mediteraneană\n\n🏖️ La aprox. 300 m de plaja Sykia\n🌊 Acces facil la mai multe plaje spectaculoase\n\n🏡 The Blue Breeze 💙 este o vilă de vară cu 3 dormitoare, ce îmbină un exterior din piatră inspirat de Muntele Athos cu interioare luminoase, albe, în stil Santorini.\n\n🛋️ Spații interioare:\n• Living spațios și primitor\n• Bucătărie separată, complet utilată\n• Camere luminoase, aerisite\n\n🛏️ Dormitoare:\n• 3 dormitoare tematice\n  – Dormitor Blue 💙\n  – Dormitor Purple 💜\n  – Dormitor Green 💚\n\n🚿 Băi:\n• 1 baie interioară\n• 1 baie exterioară privată cu duș în aer liber și toaletă\n\n🌿 Zone exterioare:\n• Terasă mare acoperită & verandă\n• Ideală pentru mese în aer liber și relaxare\n• Grădină privată generoasă, potrivită pentru familii\n\n📍 Puncte de interes:\n• Supermarketuri și facilități în apropiere\n• La doar 10 minute cu mașina de Sarti\n\n👨‍👩‍👧‍👦 Ideală pentru familii sau grupuri care caută o experiență mediteraneană autentică în Halkidiki, cu stil, confort și apropiere de mare.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/blue_breeze_sykia/images/blue_breeze_sykia.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/blue_breeze_sykia/images/blue_breeze_sykia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/blue_breeze_sykia/images/blue_breeze_sykia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/blue_breeze_sykia/images/blue_breeze_sykia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/blue_breeze_sykia/images/blue_breeze_sykia4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/blue_breeze_sykia/images/blue_breeze_sykia5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/blue_breeze_sykia/images/blue_breeze_sykia6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/blue_breeze_sykia/images/blue_breeze_sykia7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/blue_breeze_sykia/images/blue_breeze_sykia8.webp"
+  ]
+}
 
