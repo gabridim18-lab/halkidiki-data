@@ -1,1 +1,49 @@
+{
+  "id": "ergo_house_aphrodite",
+  "beachSlug": "Siviri Beach",
+  "zone": "Kassandra",
+
+  "titleEn": "Ergo House Aphrodite",
+  "titleRo": "Ergo House Aphrodite",
+
+  "address": "29Q5+JW Siviri, Greece",
+  "phone": "+306977256271",
+  "email": "booking@ergo-house.gr",
+  "website": "https://ergo-house.gr/",
+
+  "category": "couples_retreat",
+  "rating": 10,
+  "ratingScale": 10,
+
+  "guests": 4,
+  "sizeSqm": 60,
+  "view": "Beach view",
+  "bedrooms": 1,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "lat": 40.03927270865929,
+  "lon": 23.35973681072374,
+  "distanceMetersOverride": 148,
+
+  "descriptionEn": "Seaside escape • prime location • crystal-clear waters\n\n🏖️ Only 50 m from the beach & Siviri center\n🌊 Beautiful seaside views\n\n🛏️ 1 bedroom with queen-size bed\n🚿 1 modern bathroom\n🛋️ Cozy living room\n🍽️ Fully equipped kitchen\n🌿 Private terrace\n\n📐 Apartment size: 60 m²\n👨‍👩‍👧‍👦 Ideal for up to 4 guests\n\n🏡 Nestled in the charming village of Siviri, Aphrodite Apartment offers a peaceful retreat away from everyday hustle, while staying perfectly connected to the vibrant local life.\n\n🌞 Its exceptional location — just steps from crystal-clear waters and the lively center — creates a relaxing seaside atmosphere, enhanced by beautiful sea views.\n\n📶 Guests enjoy high-speed Wi-Fi, heating, free parking, bathroom essentials, bedroom comforts, a hair dryer, and a pleasant private terrace.\n\n✨ Combining comfort, elegance, and an unbeatable location, Aphrodite Apartment is the ideal choice for travelers seeking a refined seaside escape with all the conveniences of home.",
+
+  "descriptionRo": "Escapadă la mare • locație premium • ape cristaline\n\n🏖️ La doar 50 m de plajă și centrul Siviri\n🌊 Vedere frumoasă spre mare\n\n🛏️ 1 dormitor cu pat queen size\n🚿 1 baie modernă\n🛋️ Living primitor\n🍽️ Bucătărie complet utilată\n🌿 Terasă plăcută\n\n📐 Suprafață apartament: 60 m²\n👨‍👩‍👧‍👦 Potrivit pentru până la 4 persoane\n\n🏡 Situat în pitorescul sat Siviri, Aphrodite Apartment oferă un refugiu liniștit, departe de agitația zilnică, dar perfect conectat la viața animată a zonei.\n\n🌞 Locația excepțională — la doar câțiva pași de apele cristaline și centrul vibrant — creează o atmosferă relaxantă, completată de priveliști plăcute către mare.\n\n📶 Oaspeții beneficiază de Wi-Fi de mare viteză, încălzire, parcare gratuită, articole esențiale pentru baie, confort sporit în dormitoare, uscător de păr și terasă privată.\n\n✨ Îmbinând eleganța, confortul și poziționarea excelentă, Aphrodite Apartment este alegerea ideală pentru cei care caută o escapadă rafinată la malul mării, cu toate facilitățile de acasă.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_aphrodite/images/ergoaphrodite.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_aphrodite/images/ergoaphrodite1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_aphrodite/images/ergoaphrodite2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_aphrodite/images/ergoaphrodite3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_aphrodite/images/ergoaphrodite4.webp"
+  ]
+}
 
