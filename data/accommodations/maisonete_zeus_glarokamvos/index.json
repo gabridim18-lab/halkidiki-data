@@ -1,1 +1,56 @@
+{
+  "id": "maisonete_zeus_glarokamvos",
+  "beachSlug": "Glarokavos Beach",
+  "zone": "Kassandra",
 
+  "titleEn": "Sea View Maisonette in Glarokamvos II",
+  "titleRo": "Sea View Maisonette in Glarokamvos II",
+
+  "address": "XMF8+7V Pallini, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com ",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "family_friendly",
+  "rating": 9.3,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 5,
+  "sizeSqm": 70,
+  "view": "Sea view",
+  "bedrooms": 2,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 39.97333547205649,
+  "lon": 23.667137304651263,
+  "distanceMetersOverride": 350,
+
+  "descriptionEn": "Peaceful retreat • family & group friendly • close to nature\n\n🏡 Located in Glarokamvos, surrounded by greenery and offering privacy, comfort, and flexibility for a relaxing holiday in Halkidiki.\n\n🛋️ Ground floor:\n• Bright living room with two comfortable sofas\n• Fully equipped kitchen, ideal for home-cooked meals\n\n🛏️ Upper floor:\n• 2 air-conditioned bedrooms\n• 1 bedroom with double bed\n• 1 bedroom with two single beds (can be combined into a double)\n\n🚿 1 modern bathroom with shower\n🚻 Additional WC\n\n🌿 Outdoor areas:\n• Green private garden\n• Comfortable outdoor lounge area\n• 2 large balconies\n• Spacious veranda, perfect for morning coffee or relaxing evenings\n\n📶 Amenities:\n• Air conditioning in all rooms\n• Washing machine (located in the storage area)\n• Fresh bed linen & towels\n• All basic household essentials\n\n🚗 Street parking available directly in front of the house\n\n🏖️ Nearest beach: approx. 5-minute drive\n🍽️ Restaurants, shops, and local attractions nearby\n\n👨‍👩‍👧‍👦 Ideal for families or groups seeking tranquility with easy access to local highlights.\n\n➕ For larger groups, an additional maisonette next door can be rented together.",
+
+  "descriptionRo": "Refugiu liniștit • ideal pentru familii & grupuri • în mijlocul naturii\n\n🏡 Situată în Glarokamvos, casa oferă intimitate, confort și flexibilitate, fiind ideală pentru o vacanță relaxantă în Halkidiki.\n\n🛋️ Parter:\n• Living luminos cu două canapele confortabile\n• Bucătărie complet utilată, perfectă pentru mese pregătite acasă\n\n🛏️ Etaj:\n• 2 dormitoare cu aer condiționat\n• 1 dormitor cu pat dublu\n• 1 dormitor cu două paturi de o persoană (pot fi unite într-un pat dublu)\n\n🚿 1 baie modernă cu duș\n🚻 WC suplimentar\n\n🌿 Zone exterioare:\n• Grădină verde și liniștită\n• Zonă de lounge în aer liber\n• 2 balcoane mari\n• Verandă spațioasă, ideală pentru cafeaua de dimineață sau seri relaxante\n\n📶 Dotări:\n• Aer condiționat în toate camerele\n• Mașină de spălat (în spațiul de depozitare)\n• Lenjerie și prosoape curate\n• Toate facilitățile de bază incluse\n\n🚗 Parcare stradală disponibilă chiar în fața casei\n\n🏖️ Cea mai apropiată plajă: aprox. 5 minute cu mașina\n🍽️ Restaurante, magazine și atracții locale în apropiere\n\n👨‍👩‍👧‍👦 Ideală pentru familii sau grupuri care caută liniște, dar și acces rapid la punctele de interes.\n\n➕ Pentru grupuri mai mari, se poate închiria și maisoneta alăturată.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/maisonete_zeus_glarokamvos/images/maisonette_zeus_glaro.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/maisonete_zeus_glarokamvos/images/maisonette_zeus_glaro1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/maisonete_zeus_glarokamvos/images/maisonette_zeus_glaro2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/maisonete_zeus_glarokamvos/images/maisonette_zeus_glaro3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/maisonete_zeus_glarokamvos/images/maisonette_zeus_glaro4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/maisonete_zeus_glarokamvos/images/maisonette_zeus_glaro5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/maisonete_zeus_glarokamvos/images/maisonette_zeus_glaro6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/maisonete_zeus_glarokamvos/images/maisonette_zeus_glaro7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/maisonete_zeus_glarokamvos/images/maisonette_zeus_glaro8.webp"
+  ]
+}
