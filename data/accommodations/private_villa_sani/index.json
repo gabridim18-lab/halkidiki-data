@@ -1,1 +1,59 @@
+{
+  "id": "private_villa_sani",
+  "beachSlug": "Sani Beach",
+  "zone": "Kassandra",
 
+  "titleEn": "Private Villa in Sani Beach",
+  "titleRo": "Private Villa in Sani Beach",
+
+  "address": "40.10110470153748, 23.33714523027666",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+
+  "category": "perfect_for_groups",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 10,
+  "sizeSqm": 80,
+  "view": "Garden view",
+  "bedrooms": 4,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": true,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.101111521236135,
+  "lon": 23.337148374221076,
+  "distanceMetersOverride": 2400,
+
+  "descriptionEn": "Private villa • garden & pool views • ideal for families & groups\n\n🏡 Located in Sani, this beautiful villa offers a peaceful retreat surrounded by nature, perfect for relaxing and unforgettable holidays in Halkidiki.\n\n🏠 Layout:\n• Villa spread over 3 levels\n• Spacious living room\n• Fully equipped kitchen\n• Multiple sleeping areas\n• 3 modern bathrooms with shower\n\n📶 Amenities:\n• Air conditioning in all rooms\n• Washing machine\n• Dishwasher\n• Fully equipped with all essential household items\n\n🌿 Outdoor areas:\n• Lush green private garden\n• Comfortable outdoor lounge area\n• Spacious veranda with views over the garden and swimming pool\n• Ideal for morning coffee or sunset drinks\n\n🛏️ Fresh bed linen & towels provided\n🚗 Private parking available\n📹 Outdoor security camera installed for safety reasons\n\n🏖️ Nearest beach: approx. 5-minute drive\n🍽️ Restaurants, shops, and local attractions nearby\n\n👨‍👩‍👧‍👦 Ideal for families or groups seeking comfort, privacy, and flexibility for a perfect stay in Sani.",
+  "descriptionRo": "Vilă privată • vedere spre grădină & piscină • ideală pentru familii & grupuri\n\n🏡 Situată în Sani, această vilă frumoasă oferă un refugiu liniștit, înconjurat de natură, perfect pentru vacanțe relaxante și de neuitat în Halkidiki.\n\n🏠 Compartimentare:\n• Vilă dispusă pe 3 niveluri\n• Living spațios\n• Bucătărie complet utilată\n• Mai multe zone de dormit\n• 3 băi moderne cu duș\n\n📶 Dotări:\n• Aer condiționat în toate camerele\n• Mașină de spălat\n• Mașină de spălat vase\n• Complet echipată cu toate facilitățile necesare\n\n🌿 Zone exterioare:\n• Grădină verde și îngrijită\n• Zonă de lounge în aer liber\n• Verandă spațioasă cu vedere spre grădină și piscină\n• Ideală pentru cafeaua de dimineață sau seri la apus\n\n🛏️ Lenjerie și prosoape curate incluse\n🚗 Parcare privată disponibilă\n📹 Cameră de supraveghere exterioară instalată pentru siguranță\n\n🏖️ Cea mai apropiată plajă: aprox. 5 minute cu mașina\n🍽️ Restaurante, magazine și atracții locale în apropiere\n\n👨‍👩‍👧‍👦 Ideală pentru familii sau grupuri de prieteni care caută confort, intimitate și flexibilitate pentru un sejur perfect în Sani.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani11.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/private_villa_sani/images/private_vila_sani12.webp"
+  ]
+}
