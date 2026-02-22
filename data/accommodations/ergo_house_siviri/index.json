@@ -1,1 +1,51 @@
+{
+  "id": "ergo_house_siviri",
+  "beachSlug": "Siviri Beach",
+  "zone": "Kassandra",
 
+  "titleEn": "Ergo House Nephele",
+  "titleRo": "Ergo House Nephele",
+
+  "address": "29P7+52 Siviri, Greece",
+  "phone": "+306977256271",
+  "email": "booking@ergo-house.gr",
+  "website": "https://ergo-house.gr/",
+
+  "category": "family_friendly",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": false,
+
+  "guests": 4,
+  "sizeSqm": 60,
+  "view": "Beach view",
+  "bedrooms": 1,
+
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "lat": 40.035416478058124,
+  "lon": 23.362545246154173,
+  "distanceMetersOverride": 240,
+
+  "descriptionEn": "1 bedroom • balcony • near the beach\n\n🛏️ 1 bedroom with queen-size bed\n🚿 1 bathroom\n🛋️ Cozy living room\n🍽️ Fully equipped modern kitchen\n🌅 Balcony with seaside views\n\n📐 Apartment size: 60 m²\n🏖️ Distance to beach: approx. 100 m\n\n🏡 Nephele Apartment is a modern and stylish 60 m² accommodation located in the heart of Siviri, just a short walk from a beautiful sandy beach.\n\n✨ Recently renovated and furnished with brand new furniture and state-of-the-art appliances, the apartment is designed with great attention to comfort, quality, and contemporary design.\n\n📶 Guests can enjoy high-speed Wi-Fi, heating, free parking, bathroom essentials, bedroom comforts, a hair dryer, and a spacious terrace.\n\n👨‍👩‍👧‍👦 Ideal for up to 2 adults and 2 children, offering an elegant, welcoming, and home-like atmosphere.\n\n🌊 Nephele Apartment is the perfect choice for travelers seeking comfort, style, and a true feeling of home by the sea.",
+  "descriptionRo": "1 dormitor • balcon • aproape de plajă\n\n🛏️ 1 dormitor cu pat queen-size\n🚿 1 baie\n🛋️ Living confortabil\n🍽️ Bucătărie modernă, complet utilată\n🌅 Balcon cu vedere spre mare\n\n📐 Suprafață apartament: 60 m²\n🏖️ Distanță față de plajă: aprox. 100 m\n\n🏡 Nephele Apartment este o cazare modernă și elegantă, cu o suprafață de 60 m², situată în inima localității Siviri, la doar câțiva pași de o plajă frumoasă cu nisip.\n\n✨ Recent renovat și mobilat cu mobilier nou și electrocasnice de ultimă generație, apartamentul este amenajat cu atenție la detalii, oferind confort și un design contemporan.\n\n📶 Oaspeții beneficiază de Wi-Fi de mare viteză, încălzire, parcare gratuită, articole esențiale pentru baie, lenjerie confortabilă, uscător de păr și o terasă spațioasă.\n\n👨‍👩‍👧‍👦 Ideal pentru până la 2 adulți și 2 copii, oferind o atmosferă elegantă, primitoare și un adevărat sentiment de „acasă” la malul mării.\n\n🌊 Nephele Apartment este alegerea perfectă pentru cei care caută confort, stil și relaxare aproape de mare.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_siviri/images/nephele.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_siviri/images/nephele1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_siviri/images/nephele2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_siviri/images/nephele3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_siviri/images/nephele4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_siviri/images/nephele5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_siviri/images/nephele6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ergo_house_siviri/images/nephele7.webp"
+  ]
+}
