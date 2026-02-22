@@ -1,1 +1,62 @@
+{
+  "id": "villa_platskos_vol2",
+  "beachSlug": "Kryopigi Beach",
+  "zone": "Kassandra",
 
+  "titleEn": "Villa Platskos Vol 2 — Kriopigi, Halkidiki",
+  "titleRo": "Villa Platskos Vol 2 — Kriopigi, Halkidiki",
+
+  "address": "Villa Platskos Vol 2, 2FJR+M5 Kassandra, Greece",
+  "phone": "+30 697 865 6522",
+  "email": "teopla89@gmail.com",
+
+  "category": "family_friendly",
+  "rating": 9.4,
+  "ratingScale": 10,
+  "featured": false,
+
+  "guests": 4,
+  "sizeSqm": 31,
+  "view": "Garden view",
+  "bedrooms": 1,
+
+  "petFriendly": true,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": false,
+  "balcony": true,
+  "bbq": false,
+
+  "fitnessCenter": true,
+  "smokeFree": true,
+  "accessible": true,
+
+  "ownerId": "Platskos T",
+  "ownerCode": "8060",
+
+  "lat": 40.03177937149743,
+  "lon": 23.49044667960567,
+  "distanceMetersOverride": 365,
+
+  "descriptionEn": "Villa Platskos Vol 2 – Just a few steps from Agora Beach 🌊 Two villas, one location – ideal for families or friends! 👨‍👩‍👧‍👦 Need extra space for family or friends? Villa Platskos Vol 3 is located right next door – ideal for larger groups traveling together, where up to 11 people can be accommodated! Bright, clean rooms, a spacious living room, and a balcony with garden views. Just a few steps from the beach, local tavernas, and beach bars. Relax, play, and enjoy the sun! ☀️ Top Amenities / Facilities: 🌊 Just a few minutes from Agora Beach 👨‍👩‍👧‍👦 Suitable for families and children 🛋️ Spacious living room and comfortable bedrooms 🌿 Balcony and garden view 🍹 Nearby beach bars and tavernas 👨‍👩‍👧‍👦 Another villa on the same property for larger groups Our beautiful apartments are located just outside Kriopigi, only 1 kilometer from the village center and close to Kassandra Palace Hotel and Spa! (500 meters)! The location combines the magical beauty of the sea with that of the mountains! Near the house there is a stunning beach (next to Agora Beach, as well as another organized and free-access beach on the parallel road between Kriopigi and Polychrono), where the beauty exceeds every expectation! The accommodation is 30 square meters and offers the necessary spaces for the stay of up to 4 adults, as it includes for sleeping one double bed (bedroom) and a sofa that converts into a double bed!",
+  "descriptionRo": "Vila Platskos vol. 2 – La doar câțiva pași de plaja Agora 🌊\n\nDouă vile, o singură locație – ideală pentru familii sau prieteni! 👨‍👩‍👧‍👦\n\nAveți nevoie de spațiu suplimentar pentru familie sau prieteni? Vila Platskos vol. 3 este chiar alături – perfectă pentru grupuri mai mari care călătoresc împreună, putând găzdui până la 11 persoane!\n Camere luminoase și curate, living spațios și balcon cu vedere la grădină. La doar câțiva pași de plajă, taverne locale și baruri pe plajă. Relaxați-vă, jucați-vă și bucurați-vă de soare! ☀️\nFacilități / Beneficii de top:\n🌊La doar câteva minute de plaja Agora\n👨‍👩‍👧‍👦Potrivit pentru familii și copii\n🛋️Living spațios și dormitoare confortabile\n🌿Balcon și vedere la grădină\n🍹Baruri și taverne de pe plajă în apropiere\n👨‍👩‍👧‍👦 O altă vilă pe aceeași proprietate pentru grupuri mai mari\n\nApartamentele noastre frumoase sunt situate puțin în afara localității Kriopigi, la doar 1 kilometru de centrul satului și aproape de Kassandra Palace Hotel and Spa! (500 de metri)! Locația combină frumusețea magică a mării cu cea a muntelui! În apropierea casei se află o plajă spectaculoasă (lângă Agora Beach, dar și încă una, organizată și cu acces liber, pe drumul paralel dintre Kriopigi și Polychrono), unde frumusețea depășește orice așteptare!\nCazarea are o suprafață de 30 de metri pătrați și dispune de spațiile necesare pentru șederea a până la 4 adulți, deoarece pentru dormit include un pat dublu (dormitor) și o canapea care se transformă într-un pat dublu!",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi9.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi10.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi11.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_platskos_vol2/images/villa_platskos_kriopigi12.webp"
+  ]
+}
