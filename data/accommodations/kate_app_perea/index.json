@@ -1,1 +1,50 @@
+{
+  "id": "kate_app_perea",
+  "beachSlug": "Perea Beach",
+  "zone": "Thessaloniki",
+  "titleEn": "Kate’s Apartment in Peraia",
+  "titleRo": "Kate’s Apartment in Peraia",
+  "address": "GW4C+9P Peraia, Greece",
+  "phone": "+306973738862",
+  "email": "halkidiki@xeniuszeus.com",
+  "website": "https://xeniuszeus.com/",
+  "category": "family_friendly",
+  "rating": 9.8,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 6,
+  "sizeSqm": 55,
+  "view": "Garden view",
+  "bedrooms": 2,
+  "petFriendly": false,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "ownerId": "Chrisa",
+  "ownerCode": "8020",
+
+  "lat": 40.505993667651616,
+  "lon": 22.92172165104457,
+  "distanceMetersOverride": 250,
+
+  "descriptionEn": "Sunny apartment • near the sea • ideal for families & groups\n\n🏖️ Approx. 300 m from the sea\n🌊 Beach within easy walking distance\n\n🏢 First-floor apartment\n\n🛏️ 2 bedrooms\n• 1 bedroom with double bed\n• 1 bedroom with two single beds\n\n🚿 1 modern bathroom with shower\n🛋️ Living room with sofa bed (double)\n🍽️ Fully equipped kitchen\n\n🌿 Outdoor space:\n• 2 spacious balconies\n• Outdoor furniture with shaded areas\n• Perfect for morning coffee or sunset drinks\n\n📶 Amenities:\n• Air conditioning\n• Washing machine\n• Dishwasher\n• Fresh bed linen & towels\n• Fully equipped with all essentials\n\n🚗 Private parking available\n\n🍽️ Restaurants, shops, and local points of interest nearby\n\n👨‍👩‍👧‍👦 Ideal for families with children or groups of friends seeking comfort, relaxation, and a touch of luxury in Peraia, Thessaloniki.",
+  "descriptionRo": "Apartament însorit • aproape de mare • ideal pentru familii & grupuri\n\n🏖️ La aprox. 300 m de mare\n🌊 Plaja la distanță de mers pe jos\n\n🏢 Apartament situat la etajul 1\n\n🛏️ 2 dormitoare\n• 1 dormitor cu pat dublu\n• 1 dormitor cu două paturi de o persoană\n\n🚿 1 baie modernă cu duș\n🛋️ Living cu canapea extensibilă dublă\n🍽️ Bucătărie complet utilată\n\n🌿 Spațiu exterior:\n• 2 balcoane spațioase\n• Mobilier de exterior cu zone umbrite\n• Ideal pentru cafeaua de dimineață sau seri la apus\n\n📶 Dotări:\n• Aer condiționat\n• Mașină de spălat\n• Mașină de spălat vase\n• Lenjerie și prosoape curate\n• Apartament complet echipat\n\n🚗 Parcare privată disponibilă\n\n🍽️ Restaurante, magazine și puncte de interes în apropiere\n\n👨‍👩‍👧‍👦 Ideal pentru familii cu copii sau grupuri de prieteni care caută confort, relaxare și un strop de lux în Peraia, Salonic.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kate_app_perea/images/kate_app_perea.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kate_app_perea/images/kate_app_perea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kate_app_perea/images/kate_app_perea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kate_app_perea/images/kate_app_perea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kate_app_perea/images/kate_app_perea4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kate_app_perea/images/kate_app_perea5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kate_app_perea/images/kate_app_perea6.webp"
+  ]
+}
 
