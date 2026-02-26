@@ -1,1 +1,57 @@
+{
+  "id": "villa_christina_vourvourou",
+  "beachSlug": "Fava Beach",
+  "zone": "Sithonia",
 
+  "titleEn": "Villa Christina Vourvourou",
+  "titleRo": "Villa Christina Vourvourou",
+
+  "address": "5RJ9+75 Vourvourou, Greece",
+  "phone": "+6944863867",
+  "email": "",
+  "website": "",
+
+  "category": "perfect_for_groups",
+  "rating": 10,
+  "ratingScale": 10,
+  "featured": true,
+
+  "guests": 8,
+  "sizeSqm": 75,
+  "view": "Partial sea view",
+  "bedrooms": 3,
+
+  "petFriendly": true,
+  "pool": false,
+  "wifi": true,
+  "parking": true,
+  "airConditioning": true,
+  "kitchen": true,
+  "washer": true,
+  "balcony": true,
+  "bbq": false,
+
+  "ownerId": "Lefteris",
+  "ownerCode": "8120",
+
+  "lat": 40.180835237848946,
+  "lon": 23.8179346,
+  "distanceMetersOverride": 360,
+
+  "descriptionEn": "Beachside stay • garden & terrace • steps from Fava Beach (about 4 min walk)\n\n🏡 Villa Christina is a two-storey villa in Vourvourou, located in a quiet area very close to Fava Beach — ideal for families or groups who want comfort, privacy, and quick access to the sea.\n\n🌊 View note:\n• The sea is visible from a bedroom window (partial sea view). Most of the villa feels more garden/quiet-street oriented.\n\n🛋️ Lower floor:\n• Spacious living room with corner sofa (converts into a double bed)\n• Fully equipped kitchen\n• Bathroom\n\n🛏️ Upper floor:\n• 3 bedrooms with double beds\n• Air conditioning in rooms\n• Balcony / terrace access\n\n🚿 Bathrooms:\n• 2 bathrooms in total\n\n🌿 Outdoor areas:\n• Garden with relaxing space\n• Sun terrace\n• Outdoor seating area\n\n📶 Amenities:\n• Free WiFi\n• Family-friendly rooms\n• Private on-site parking\n\n🎣 Activities nearby:\n• Beach time & swimming\n• Fishing\n\n✈️ Travel:\n• Thessaloniki Airport is about 102 km away",
+
+  "descriptionRo": "Cazare aproape de plajă • grădină & terasă • la câteva minute de Fava Beach (aprox. 4 min pe jos)\n\n🏡 Villa Christina este o vilă pe două niveluri în Vourvourou, într-o zonă liniștită, foarte aproape de Fava Beach — ideală pentru familii sau grupuri care vor confort, intimitate și acces rapid la mare.\n\n🌊 Notă despre vedere:\n• Marea se vede parțial dintr-un geam al unui dormitor (vedere parțială). În rest, atmosfera este mai mult spre grădină/stradă liniștită.\n\n🛋️ Parter:\n• Living spațios cu colțar (se transformă în pat dublu)\n• Bucătărie complet utilată\n• Baie\n\n🛏️ Etaj:\n• 3 dormitoare cu paturi duble\n• Aer condiționat în camere\n• Acces la balcon / terasă\n\n🚿 Băi:\n• 2 băi în total\n\n🌿 Exterior:\n• Grădină cu zonă de relaxare\n• Terasă pentru stat la soare\n• Zonă de luat masa / stat afară\n\n📶 Dotări:\n• WiFi gratuit\n• Camere potrivite pentru familii\n• Parcare privată la proprietate\n\n🎣 Activități în apropiere:\n• Plajă & înot\n• Pescuit\n\n✈️ Acces:\n• Aeroportul din Salonic este la aprox. 102 km",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou7.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou8.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_christina_vourvourou/images/villa_christina_vourvourou9.webp"
+  ]
+}
