@@ -24,7 +24,7 @@
   "kitchen": true,
   "washer": true,
   "balcony": true,
-  "bbq": false,
+  "bbq": true,
   "ownerId": "Chrisa",
   "ownerCode": "8020",
   "lat": 40.04447536857508,
