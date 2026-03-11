@@ -38,5 +38,6 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/double_room_in_loutra_beach/images/double_room_in_loutra_beach3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/double_room_in_loutra_beach/images/double_room_in_loutra_beach4.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/double_room_in_loutra_beach/images/double_room_in_loutra_beach5.webp"
-  ]
+  ],
+  "distanceMetersOverride": 150
 }
