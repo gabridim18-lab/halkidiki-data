@@ -11,7 +11,7 @@
   "category": "escape_relax",
   "rating": 10.0,
   "ratingScale": 10.0,
-  "featured": false,
+  "featured": true,
   "guests": 3,
   "sizeSqm": 60,
   "view": "Sea view",
