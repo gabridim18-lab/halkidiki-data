@@ -14,7 +14,7 @@
   "category": "escape_and_relax",
   "rating": 10,
   "ratingScale": 10,
-  "featured": true,
+  "featured": false,
 
   "guests": 4,
   "sizeSqm": 80,
