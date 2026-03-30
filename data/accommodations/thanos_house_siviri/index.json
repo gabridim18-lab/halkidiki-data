@@ -11,7 +11,7 @@
   "category": "family_friendly",
   "rating": 9.8,
   "ratingScale": 10.0,
-  "featured": false,
+  "featured": true,
   "guests": 6,
   "sizeSqm": 55,
   "view": "Garden view",
