@@ -20,7 +20,7 @@
   "sizeSqm": 125,
   "view": "Garden view",
   "bedrooms": 3,
-
+"bathrooms": 2,
   "petFriendly": false,
   "pool": false,
   "wifi": true,
