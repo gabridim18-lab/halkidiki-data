@@ -16,6 +16,7 @@
   "sizeSqm": 98,
   "view": "Sea view",
   "bedrooms": 4,
+  "bathrooms": 4,
   "petFriendly": false,
   "pool": false,
   "wifi": true,
