@@ -20,7 +20,7 @@
   "sizeSqm": 55,
   "view": "Garden view",
   "bedrooms": 1,
-
+"bathrooms": 1,
   "petFriendly": false,
   "pool": true,
   "wifi": true,
