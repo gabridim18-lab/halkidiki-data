@@ -16,6 +16,7 @@
   "sizeSqm": 75,
   "view": "Sea view",
   "bedrooms": 3,
+  "bathrooms": 1,
   "petFriendly": false,
   "pool": false,
   "wifi": true,
