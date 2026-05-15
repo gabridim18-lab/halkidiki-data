@@ -21,7 +21,7 @@
   "view": "Garden view",
   "bedrooms": 1,
 "bathrooms": 1,
-  "petFriendly": false,
+  "petFriendly": true,
   "pool": true,
   "wifi": true,
   "parking": true,
