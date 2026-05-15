@@ -16,6 +16,7 @@
   "sizeSqm": 60,
   "view": "Garden view",
   "bedrooms": 2,
+  "bathrooms": 2,
   "petFriendly": false,
   "pool": false,
   "wifi": true,
