@@ -19,11 +19,7 @@
     "id": "wet_red_rose",
     "type": "beach_bar"
   },
-  {
-    "id": "Thessaloniki",
-    "type": "beach_bar"
-  },
-  {
+    {
     "id": "sunset_bay",
     "type": "beach_bar",
     "beachSlug": "thessaloniki"
