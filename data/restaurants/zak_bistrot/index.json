@@ -1,1 +1,43 @@
+{
+  "id": "zak_bistrot",
 
+  "beachSlug": "nea_krini_beach",
+
+  "type": "restaurant",
+
+  "titleEn": "Zak Contemporary Bistrot",
+
+  "titleRo": "Zak Contemporary Bistrot",
+
+  "address": "GW5C+43 Peraia, Greece",
+
+  "displayAddress": "Nea Perea, Peraia",
+
+  "hoursEn": "Mon–Thu 09:00–02:00, Fri–Sat 09:00–03:00, Sun 09:00–02:00",
+
+  "hoursRo": "Lun–Joi 09:00–02:00, Vin–Sâm 09:00–03:00, Dum 09:00–02:00",
+
+  "website": "http://zak-bistrot.gr/",
+
+  "phone": "+40 755 687 296",
+
+  "price": "$$",
+
+  "rating": 4.5,
+
+  "descriptionEn": "🍽️ Zak Contemporary Bistrot in Nea Krini blends modern Mediterranean cuisine with artistic flair. ✨ Enjoy carefully crafted dishes, creative plating, and a relaxed yet stylish atmosphere. 🌊 Located close to the sea, it’s the perfect spot for brunch, lunch, or an elegant dinner with friends. 🍷",
+
+  "descriptionRo": "🍽️ Zak Contemporary Bistrot din Nea Krini îmbină bucătăria mediteraneană modernă cu un stil artistic aparte. ✨ Preparatele atent gândite, platingul creativ și atmosfera relaxată, dar elegantă, creează o experiență specială. 🌊 Situat aproape de mare, este locul ideal pentru brunch, prânz sau o cină rafinată alături de prieteni. 🍷",
+
+  "images": [
+    "zak_bistrot1.webp",
+    "zak_bistrot2.webp",
+    "zak_bistrot3.webp"
+  ],
+
+  "menuImages": [
+    "menu1.webp",
+    "menu2.webp",
+    "menu3.webp"
+  ]
+}
