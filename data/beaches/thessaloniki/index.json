@@ -1,6 +1,6 @@
 {
   "id": "thessaloniki",
-
+"slug": "thessaloniki",
   "name": {
     "en": "Thessaloniki",
     "ro": "Thessaloniki"
@@ -12,7 +12,7 @@
     "lat": 40.626374,
     "lon": 22.948489
   },
-
+"editorChoice": true,
   "length": 1200,
 
   "images": [
@@ -41,7 +41,44 @@
   },
 
   "suitableForChildren": true,
+"highlights": {
+  "en": [
+    "Amazing sunsets",
+    "Perfect for cycling",
+    "Waterfront cafés",
+    "Vibrant city atmosphere"
+  ],
 
+  "ro": [
+    "Apusuri spectaculoase",
+    "Perfect pentru ciclism",
+    "Cafenele pe faleză",
+    "Atmosferă vibrantă"
+  ]
+},
+"bestTimeToVisit": {
+  "en": "May to September",
+  "ro": "Mai - Septembrie"
+},
+  "sunsetView": true,
+"idealFor": {
+  "en": [
+    "Families",
+    "Couples",
+    "City explorers"
+  ],
+
+  "ro": [
+    "Familii",
+    "Cupluri",
+    "Exploratori urbani"
+  ]
+},
+  
+
+
+  
+  
   "activities": {
     "en": [
       "Walking",
@@ -80,5 +117,5 @@
   "en": "Thessaloniki’s waterfront near the White Tower is one of the most iconic seaside promenades in Greece. Although it is primarily an urban coastal area rather than a traditional beach, it offers stunning views of the Thermaic Gulf, lively cafés, and beautiful sunset walks. The long promenade is perfect for cycling, strolling, and enjoying the vibrant atmosphere of the city by the sea.",
 
   "ro": "Zona de faleză din Thessaloniki, în jurul Turnului Alb, este una dintre cele mai emblematice promenade de pe litoralul Greciei. Deși este mai degrabă o zonă urbană de coastă decât o plajă clasică, oferă priveliști spectaculoase asupra Golfului Thermaic, cafenele animate și apusuri superbe. Promenada lungă este perfectă pentru plimbări, ciclism și pentru a te bucura de atmosfera vibrantă a orașului."
-},
+}
 }
