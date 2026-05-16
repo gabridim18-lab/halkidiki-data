@@ -335,7 +335,7 @@ class App(tk.Tk):
 
             slug_frame,
 
-            text="Auto",
+            text="Create Slug",
 
             command=self.auto_slug
 
@@ -351,7 +351,7 @@ class App(tk.Tk):
         )
 
         row(
-            "Beach Slug",
+            "Related Beach",
             ttk.Entry(
                 form,
                 textvariable=self.var_beach_slug
@@ -901,6 +901,15 @@ class App(tk.Tk):
 
             return
 
+        if slug == self.var_beach_slug.get():
+
+            messagebox.showerror(
+                "Error",
+                "Business slug cannot be identical to beach slug"
+            )
+
+            return
+
         folder = (
             self.rest_root
             / slug
@@ -916,9 +925,10 @@ class App(tk.Tk):
             exist_ok=True
         )
 
-        # =========================================
-        # BUSINESS IMAGES
-        # =========================================
+      
+    # =========================================
+    # BUSINESS IMAGES
+    # =========================================
 
         business_urls = []
 
