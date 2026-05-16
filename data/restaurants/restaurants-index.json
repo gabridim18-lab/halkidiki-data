@@ -1,26 +1,22 @@
 [
   {
-    "id": "zak_bistrot"
+    "id": "zak_bistrot",
+    "type": "restaurant"
   },
   {
-    "id": "en_plo"
+    "id": "en_plo",
+    "type": "restaurant"
   },
   {
-    "id": "gialos_fish_tavern"
+    "id": "gialos_fish_tavern",
+    "type": "restaurant"
   },
   {
-    "id": "tessera_kalamaria"
+    "id": "tessera_kalamaria",
+    "type": "restaurant"
   },
   {
-    "id": "mike_place"
-  },
-  {
-    "id": "aigialos_perea"
-  },
-  {
-    "id": "thalassopoulia_perea"
-  },
-  {
-    "id": "wet_red_rose"
+    "id": "wet_red_rose",
+    "type": "beach_bar"
   }
 ]
