@@ -1,6 +1,5 @@
 [
   {
-
     "id": "zak_bistrot",
     "type": "restaurant"
   },
@@ -19,7 +18,9 @@
   {
     "id": "wet_red_rose",
     "type": "beach_bar"
+  },
+  {
+    "id": "Thessaloniki",
+    "type": "beach_bar"
   }
-
 ]
-
