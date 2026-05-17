@@ -26,6 +26,25 @@
   "ro": "Du-mă acolo"
 },
 
+"quickFacts": {
+
+  "walkingDistance": {
+    "en": "Long waterfront promenade",
+    "ro": "Promenadă lungă pe faleză"
+  },
+
+  "parkingDifficulty": {
+    "en": "Moderate during summer",
+    "ro": "Moderat vara"
+  },
+
+  "noiseLevel": {
+    "en": "Lively",
+    "ro": "Animată"
+  }
+
+},
+  
   "beachInfo": {
 
   "vibe": {
