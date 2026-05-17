@@ -26,8 +26,8 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay6.webp"
   ],
   "menuImages": [],
-  "sunbedPrice": "",
-  "sunbedConsumationIncluded": false,
+  "sunbedPrice": "15",
+  "sunbedConsumationIncluded": true,
   "musicStyles": [
     "party"
   ],
