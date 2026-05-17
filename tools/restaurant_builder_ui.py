@@ -1120,14 +1120,17 @@ class App(tk.Tk):
 
         if not found:
 
-            index_data.append({
+          index_data.append({
 
-                "id": slug,
+    "id": slug,
 
-                "type":
-                    self.var_type.get()
+    "type":
+        self.var_type.get(),
 
-            })
+    "beachSlug":
+        self.var_beach_slug.get().strip().lower()
+
+})
 
         save_json(
             self.index_path,

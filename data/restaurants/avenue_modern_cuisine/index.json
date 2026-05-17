@@ -1,0 +1,38 @@
+{
+  "id": "avenue_modern_cuisine",
+  "beachSlug": "Thessaloniki",
+  "type": "restaurant",
+  "featured": false,
+  "titleEn": "AVENUE - Modern Cuisine",
+  "titleRo": "AVENUE - Modern Cuisine",
+  "address": "JX82+6R Thessaloniki, Greece",
+  "displayAddress": "",
+  "hoursEn": "Daily 10:00-01:30",
+  "hoursRo": "Zilnic 10:00-01:30",
+  "website": "http://avenuethess.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302310841921",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Located on the beautiful waterfront of Thessaloniki, AVENUE – Modern Cuisine offers a stylish all-day dining experience where modern gastronomy meets the relaxing atmosphere of the sea. With its elegant design, spacious indoor and outdoor areas, and breathtaking views of the Thermaic Gulf, AVENUE has quickly become one of the city’s most popular lifestyle destinations.\n\nThe restaurant combines Mediterranean and modern Greek cuisine with creative presentation, quality ingredients and carefully balanced flavors. From rich brunch options and premium coffee to sophisticated dinner plates, sushi selections, signature cocktails and fine wines, every detail is designed to create a memorable experience.\n\nWhether you are looking for a relaxed brunch by the sea, a romantic dinner at sunset, cocktails with friends, or a modern business meeting spot, AVENUE offers the perfect atmosphere throughout the entire day.\n\nIts prime location on Thessaloniki’s famous seafront promenade makes it ideal both for locals and visitors exploring the city.\n\n✨ Modern Mediterranean cuisine\n🍸 Signature cocktails & wine selection\n🌊 Stunning sea view atmosphere\n🍽 Brunch • Lunch • Dinner • Sushi • Bar\n📍 Leof. Meg. Alexandrou 6, Thessaloniki",
+  "descriptionRo": "Situat chiar pe spectaculoasa faleză a Salonicului, AVENUE – Modern Cuisine oferă o experiență premium de tip all-day dining, unde gastronomia modernă se îmbină perfect cu atmosfera relaxantă a mării. Cu un design elegant, spații generoase indoor și outdoor și o priveliște superbă către Golful Thermaic, AVENUE a devenit rapid unul dintre cele mai apreciate locații lifestyle din oraș.\n\nRestaurantul combină bucătăria mediteraneană și preparatele grecești reinterpretate modern, folosind ingrediente de calitate, plating elegant și combinații rafinate de gusturi. De la brunch-uri consistente și cafea premium până la preparate sofisticate pentru cină, sushi, cocktailuri signature și vinuri atent selecționate, fiecare detaliu este gândit pentru o experiență completă.\n\nFie că îți dorești un brunch relaxant lângă mare, o cină romantică la apus, cocktailuri cu prietenii sau un loc modern pentru întâlniri business, AVENUE oferă atmosfera perfectă în orice moment al zilei.\n\nPoziționarea excelentă pe celebra faleză a Salonicului îl transformă într-o alegere ideală atât pentru localnici, cât și pentru turiști.\n\n✨ Bucătărie mediteraneană modernă\n🍸 Cocktailuri signature & selecție premium de vinuri\n🌊 Atmosferă elegantă cu vedere la mare\n🍽 Brunch • Prânz • Cină • Sushi • Bar\n📍 Leof. Meg. Alexandrou 6, Salonic",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/menu1.webp"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "sea_view",
+    "family_friendly"
+  ]
+}

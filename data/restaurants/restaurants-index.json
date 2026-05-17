@@ -21,7 +21,12 @@
   },
     {
     "id": "sunset_bay",
-    "type": "beach_bar",
+    "type": "beach_bar"
+
+  },
+  {
+    "id": "avenue_modern_cuisine",
+    "type": "restaurant",
     "beachSlug": "thessaloniki"
   }
 ]
