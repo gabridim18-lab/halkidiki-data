@@ -21,6 +21,30 @@
     "thessaloniki3.webp"
   ],
 
+  "googleMapsLabel": {
+  "en": "Take me there",
+  "ro": "Du-mă acolo"
+},
+
+  "beachInfo": {
+
+  "vibe": {
+    "en": "Relaxed urban beach",
+    "ro": "Plajă urbană relaxantă"
+  },
+
+  "waterEntry": {
+    "en": "Smooth gradual entry",
+    "ro": "Intrare lină în apă"
+  },
+
+  "waveLevel": {
+    "en": "Usually calm",
+    "ro": "De obicei calmă"
+  }
+
+},
+  
   "sand": {
     "en": "Urban waterfront with stone and small sandy sections",
     "ro": "Faleză urbană cu zone de piatră și porțiuni mici de nisip"
