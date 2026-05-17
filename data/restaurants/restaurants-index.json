@@ -21,7 +21,8 @@
   },
     {
     "id": "sunset_bay",
-    "type": "beach_bar"
+    "type": "beach_bar",
+      "beachSlug": "thessaloniki"
 
   },
   {
