@@ -1,23 +1,37 @@
 [
+  [
   {
     "id": "thessaloniki",
-
     "zone": "Thessaloniki",
-
     "name": {
       "en": "Thessaloniki",
       "ro": "Thessaloniki"
     },
-
     "previewImage": "thessaloniki1.webp",
-"coordinates": {
-    "lat": 40.626374,
-    "lon": 22.948489
-  },
+    "coordinates": {
+      "lat": 40.626374,
+      "lon": 22.948489
+    },
     "rating": 4.7,
-
     "waterTemperature": 24,
+    "suitableForChildren": true
+  },
 
+  {
+    "id": "nea-krini-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Nea Krini Beach",
+      "ro": "Plaja Nea Krini"
+    },
+    "previewImage": "nea_krini_beach.webp",
+    "coordinates": {
+      "lat": 40.565553,
+      "lon": 22.95906
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
     "suitableForChildren": true
   }
+]
 ]
