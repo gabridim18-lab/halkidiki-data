@@ -45,12 +45,9 @@
     "Servicii premium de transfer în Halkidiki și Sithonia, oferind călătorii confortabile, sigure și de încredere alături de șoferi locali profesioniști.",
 
   "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/local-businesses/sithonia_transfer/images/sithonia_transfer1.webp",
-
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/local-businesses/sithonia_transfer/images/sithonia_transfer2.webp",
-
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/local-businesses/sithonia_transfer/images/sithonia_transfer3.webp",
-
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/local-businesses/sithonia_transfer/images/sithonia_transfer4.webp"
-  ]
+  "sithonia_transfer1.webp",
+  "sithonia_transfer2.webp",
+  "sithonia_transfer3.webp",
+  "sithonia_transfer4.webp"
+]
 }
