@@ -1,0 +1,29 @@
+{
+  "id": "magic_park",
+  "type": "what_to_do",
+  "beaches": [
+    "thessaloniki,_nea_krini"
+  ],
+  "titleEn": "Magic Park",
+  "titleRo": "Magic Park",
+  "categoryEn": "Entertainment",
+  "categoryRo": "Entertainment",
+  "address": "Agias Anastasias 15, Thessaloniki 555 35, Greece",
+  "hoursEn": "Mon–Sun 18:00–00:00",
+  "hoursRo": "Lun–Dum 18:00–00:00",
+  "website": "http://www.magicpark.gr",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.5533235622134,
+    "lon": 22.988077149072634
+  },
+  "phone": "+30 2310 476 771",
+  "price": "13",
+  "descriptionEn": "Magic Park is one of the most popular amusement parks in Northern Greece, offering fun, adrenaline and entertainment for all ages in a vibrant atmosphere full of energy and lights.\n\n🎢 Visitors can enjoy exciting roller coasters, spinning rides, free-fall towers and classic attractions, while families and children have access to carousels, mini trains, playgrounds and interactive themed areas.\n\n🎮 The park also features a modern arcade area with dozens of games and prize challenges, alongside food spots serving Greek street food, snacks, sweets and refreshing drinks.\n\n✨ During summer evenings, Magic Park becomes even more impressive with colorful lights, music events and a lively atmosphere perfect for families, couples and groups of friends.\n\n🅿️ Free parking, family ticket options and wheelchair-friendly access make the experience comfortable and accessible for everyone.\n\n💡 Tip: Weekday visits are usually less crowded and more relaxing!",
+  "descriptionRo": "Magic Park este unul dintre cele mai populare parcuri de distracții din nordul Greciei, oferind distracție, adrenalină și divertisment pentru toate vârstele într-o atmosferă plină de energie și lumini.\n\n🎢 Vizitatorii se pot bucura de montagne russe spectaculoase, carusele rapide, turnuri de cădere liberă și atracții clasice, iar familiile și copiii au la dispoziție trenulețe, carusele, locuri de joacă și zone tematice interactive.\n\n🎮 Parcul include și o zonă modernă de arcade cu numeroase jocuri și premii, alături de restaurante și snack baruri cu preparate grecești, dulciuri și băuturi răcoritoare.\n\n✨ În serile de vară, Magic Park devine și mai spectaculos datorită luminilor colorate, muzicii și atmosferei vibrante, fiind locul perfect pentru familii, cupluri și grupuri de prieteni.\n\n🅿️ Parcarea gratuită, pachetele pentru familii și accesul facil pentru persoanele cu dizabilități fac experiența confortabilă și accesibilă pentru toată lumea.\n\n💡 Sfat: Vizitele în timpul săptămânii sunt de obicei mai relaxante și mai puțin aglomerate!",
+  "images": [
+    "magic_park1.webp",
+    "magic_park2.webp",
+    "magic_park3.webp"
+  ]
+}
