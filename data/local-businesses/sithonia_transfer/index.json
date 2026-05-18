@@ -1,20 +1,18 @@
 {
   "id": "sithonia_transfer",
-<<<<<<< HEAD
+
 
   "type": "local_business",
 
   "booking": true,
 
-=======
+
   "type": "local_business",
   "booking": 1,
->>>>>>> 1aa3b85 (Add local businesses system)
   "beaches": [
     "nikiti_beach",
     "metamorfossi_beach",
     "nea_krini_beach",
-<<<<<<< HEAD
     "perea_beach"
   ],
 
