@@ -1,3 +1,17 @@
 [
+
   
+
+  {
+    "id": "sithonia_transfer",
+    "type": "local_business",
+    "beaches": [
+      "nikiti_beach",
+      "metamorfossi_beach",
+      "nea_krini_beach",
+      "perea_beach",
+      "thessaloniki"
+    ]
+  }
 ]
+

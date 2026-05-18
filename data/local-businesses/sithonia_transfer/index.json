@@ -1,14 +1,20 @@
 {
   "id": "sithonia_transfer",
+<<<<<<< HEAD
 
   "type": "local_business",
 
   "booking": true,
 
+=======
+  "type": "local_business",
+  "booking": 1,
+>>>>>>> 1aa3b85 (Add local businesses system)
   "beaches": [
     "nikiti_beach",
     "metamorfossi_beach",
     "nea_krini_beach",
+<<<<<<< HEAD
     "perea_beach"
   ],
 
@@ -51,3 +57,34 @@
   "sithonia_transfer4.webp"
 ]
 }
+=======
+    "perea_beach",
+    "thessaloniki"
+  ],
+  "titleEn": "Sithonia Transfer",
+  "titleRo": "Sithonia Transfer",
+  "categoryEn": "Transfer Services",
+  "categoryRo": "Transfer Services",
+  "phone": "+306970647311",
+  "whatsapp": "+306970647311",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "hours": {
+    "en": "Mon-Sat 08:00-21:00",
+    "ro": "Luni-Sâmbătă 08:00-21:00"
+  },
+  "descriptionEn": "Premium transfer services in Halkidiki and Sithonia, offering comfortable, safe, and reliable rides. Travel in luxury vehicles with professional local drivers who know the region well, ensuring punctual and smooth journeys to beaches, resorts, and hidden destinations.",
+  "descriptionRo": "Servicii premium de transfer în Halkidiki și Sithonia, oferind călătorii confortabile, sigure și de încredere. Călătorește cu vehicule de lux și șoferi locali profesioniști care cunosc foarte bine zona, asigurând transferuri punctuale și fără griji către plaje, resorturi și destinații ascunse.",
+  "images": [
+    "sithonia_transfer1.webp",
+    "sithonia_transfer2.webp",
+    "sithonia_transfer3.webp",
+    "sithonia_transfer4.webp"
+  ]
+}
+>>>>>>> 1aa3b85 (Add local businesses system)
