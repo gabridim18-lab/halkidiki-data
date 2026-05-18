@@ -1,1 +1,56 @@
+{
+  "id": "sithonia_transfer",
 
+  "type": "local_business",
+
+  "booking": true,
+
+  "beaches": [
+    "nikiti_beach",
+    "metamorfossi_beach",
+    "nea_krini_beach",
+    "perea_beach"
+  ],
+
+  "titleEn": "Sithonia Transfer",
+  "titleRo": "Sithonia Transfer",
+
+  "categoryEn": "Transfer Services",
+  "categoryRo": "Servicii Transfer",
+
+  "phone": "+306970647311",
+
+  "whatsapp": "+306970647311",
+
+  "website": "",
+
+  "instagram": "",
+
+  "facebook": "",
+
+  "coordinates": {
+    "lat": 40.465077990938426,
+    "lng": 22.860933478490434
+  },
+
+  "hours": {
+    "en": "Daily 08:00-21:00",
+    "ro": "Zilnic 08:00-21:00"
+  },
+
+  "descriptionEn":
+    "Premium transfer services in Halkidiki and Sithonia, offering comfortable, safe and reliable rides with professional local drivers.",
+
+  "descriptionRo":
+    "Servicii premium de transfer în Halkidiki și Sithonia, oferind călătorii confortabile, sigure și de încredere alături de șoferi locali profesioniști.",
+
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/local-businesses/sithonia_transfer/images/sithonia_transfer1.webp",
+
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/local-businesses/sithonia_transfer/images/sithonia_transfer2.webp",
+
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/local-businesses/sithonia_transfer/images/sithonia_transfer3.webp",
+
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/local-businesses/sithonia_transfer/images/sithonia_transfer4.webp"
+  ]
+}
