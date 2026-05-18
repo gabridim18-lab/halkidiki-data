@@ -1,0 +1,34 @@
+{
+  "id": "black_sheep_barber_shop",
+  "type": "local_business",
+  "booking": 0,
+  "beaches": [
+    "nea_moudania_beach",
+    "dionisiou_beach"
+  ],
+  "titleEn": "Black Sheep Barber Shop",
+  "titleRo": "Black Sheep Barber Shop",
+  "categoryEn": "Barber Shop",
+  "categoryRo": "Barber Shop",
+  "phone": "+306939823420",
+  "whatsapp": "+306939823420",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "coordinates": {
+    "lat": 0,
+    "lng": 0
+  },
+  "hours": {
+    "en": "Wed-Fri: 9:00–14:00/16:30–21:00, Sat: 9:00–14:00",
+    "ro": "Mie-Vin: 9:00–14:00/16:30–21:00, Sam: 9:00–14:00"
+  },
+  "descriptionEn": "A modern barbershop in Nea Moudania for clean fades, classic cuts, and beard grooming. Friendly vibe, attention to detail, and a sharp finish every time.",
+  "descriptionRo": "Un barbershop modern în Nea Moudania, perfect pentru fade-uri curate, tunsori clasice și îngrijirea bărbii. Atmosferă prietenoasă, atenție la detalii și un rezultat impecabil de fiecare dată.",
+  "images": [
+    "black_sheep_barber_shop1.webp",
+    "black_sheep_barber_shop2.webp",
+    "black_sheep_barber_shop3.webp",
+    "black_sheep_barber_shop4.webp"
+  ]
+}

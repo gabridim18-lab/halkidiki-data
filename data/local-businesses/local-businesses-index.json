@@ -1,7 +1,4 @@
 [
-
-  
-
   {
     "id": "sithonia_transfer",
     "type": "local_business",
@@ -12,6 +9,13 @@
       "perea_beach",
       "thessaloniki"
     ]
+  },
+  {
+    "id": "black_sheep_barber_shop",
+    "type": "local_business",
+    "beaches": [
+      "nea_moudania_beach",
+      "dionisiou_beach"
+    ]
   }
 ]
-
