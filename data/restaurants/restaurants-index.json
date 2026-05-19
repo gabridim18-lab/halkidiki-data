@@ -1,28 +1,4 @@
 [
-  {
-    "id": "zak_bistrot",
-    "type": "restaurant",
-    "beachSlug": "nea-krini-beach"
-  },
-  {
-    "id": "en_plo",
-    "type": "restaurant",
-    "beachSlug": "nea_krini_beach"
-  },
-  {
-    "id": "gialos_fish_tavern",
-    "type": "restaurant",
-    "beachSlug": "nea_krini_beach"
-  },
-  {
-    "id": "tessera_kalamaria",
-    "type": "restaurant",
-    "beachSlug": "nea_krini_beach"
-  },
-  {
-    "id": "wet_red_rose",
-    "type": "beach_bar"
-  },
     {
     "id": "sunset_bay",
     "type": "beach_bar",
