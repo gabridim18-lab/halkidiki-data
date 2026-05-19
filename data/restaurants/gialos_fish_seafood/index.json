@@ -1,0 +1,38 @@
+{
+  "id": "gialos_fish_seafood",
+  "beachSlug": "Nea Krini Beach",
+  "type": "restaurant",
+  "featured": false,
+  "titleEn": "Gialos Fish & Seafood",
+  "titleRo": "Gialos Fish & Seafood",
+  "address": "40.579583079416544, 22.938501064621956",
+  "displayAddress": "Ν.Πλαστήρα - Μ. Εμβολο - Ν.Α.Ο.Κ, Thessaloniki 551 31, Greece",
+  "hoursEn": "Daily 12:30 - 00:00; Moday - closed",
+  "hoursRo": "Zilnic 12:30 - 00:00; Luni inchis",
+  "website": "http://gialosrestaurant.gr/#katalogos",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302310442121",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Located right by the sea in the beautiful area of Kalamaria, Gialos Fish & Seafood Tavern is one of Thessaloniki’s most loved seafood restaurants. Combining fresh Mediterranean flavors with stunning waterfront views, it offers the perfect setting for a relaxed lunch or a romantic sunset dinner.\n\nThe menu focuses on fresh fish, grilled seafood, traditional Greek meze, crispy calamari, octopus, mussels, and flavorful local recipes prepared with high-quality ingredients. The atmosphere is elegant yet welcoming, with a peaceful seaside vibe that makes every meal feel special.\n\nWhether you want to enjoy authentic Greek seafood, watch the sunset over the Thermaic Gulf, or experience one of the city’s most iconic taverns, Gialos is a fantastic choice for both locals and visitors.",
+  "descriptionRo": "Situat chiar pe malul mării, în frumoasa zonă Kalamaria, Gialos Fish & Seafood Tavern este unul dintre cele mai apreciate restaurante cu specific pescăresc din Salonic. Cu preparate mediteraneene proaspete și o priveliște superbă spre mare, restaurantul oferă atmosfera perfectă pentru un prânz relaxant sau o cină romantică la apus.\n\nMeniul este bazat pe pește proaspăt, fructe de mare la grătar, meze tradiționale grecești, calamari crocanți, caracatiță, midii și rețete locale pline de savoare, pregătite din ingrediente de calitate. Atmosfera este elegantă, dar primitoare, iar aerul marin transformă fiecare masă într-o experiență specială.\n\nFie că vrei să încerci preparate autentice grecești, să admiri apusul peste Golful Thermaic sau să descoperi una dintre cele mai cunoscute taverne din oraș, Gialos este o alegere excelentă atât pentru turiști, cât și pentru localnici.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/menu2.webp"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "pet_friendly"
+  ]
+}

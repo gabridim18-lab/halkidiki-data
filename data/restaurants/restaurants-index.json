@@ -1,13 +1,17 @@
 [
-    {
+  {  
     "id": "sunset_bay",
     "type": "beach_bar",
-      "beachSlug": "thessaloniki"
-
+    "beachSlug": "thessaloniki"
   },
   {
     "id": "avenue_modern_cuisine",
     "type": "restaurant",
     "beachSlug": "thessaloniki"
+  },
+  {
+    "id": "gialos_fish_seafood",
+    "type": "restaurant",
+    "beachSlug": "nea krini beach"
   }
 ]
