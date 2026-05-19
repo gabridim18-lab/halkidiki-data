@@ -302,7 +302,12 @@ class App(tk.Tk):
         if not title:
             messagebox.showwarning("Missing", "Completează Title EN înainte.")
             return
-        self.var_slug.set(slugify(title))
+        self.var_slug.set(
+            title.strip()
+            .lower()
+            .replace(" ", "_")
+            .replace("-", "_")
+        )
 
     def pick_images(self):
         files = filedialog.askopenfilenames(
@@ -360,7 +365,7 @@ class App(tk.Tk):
         if not slug:
             slug = slugify(self.var_title_en.get())
             self.var_slug.set(slug)
-        if not re.match(r"^[a-z0-9-]+$", slug):
+        if not re.match(r"^[a-z0-9_]+$", slug):
             return False, "Slug invalid. Folosește litere mici, cifre și _."
         if (self.acc_root / slug).exists():
             return False, f"Există deja folderul pentru slug: {slug}"
