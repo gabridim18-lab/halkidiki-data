@@ -324,19 +324,13 @@ def build_beach():
         # GIT ADD + COMMIT
         # -----------------------------
 
-        subprocess.run(
-            ["git", "add", "."],
-            cwd=ROOT
-        )
-
-        subprocess.run(
-            [
-                "git",
-                "commit",
-                "-m",
-                f"Added beach {slug}"
-            ],
-            cwd=ROOT
+        messagebox.showinfo(
+            "SUCCESS",
+            "Beach generated successfully.\n\n"
+            "Now run manually:\n\n"
+            "git add .\n"
+            f'git commit -m "Added beach {slug}"\n'
+            "git push"
         )
 
         # -----------------------------

@@ -21,15 +21,15 @@ REPO_RAW_BASE = "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data
 # HELPERS
 # =========================================
 
-def slugify(text: str) -> str:
+def slugify(text: str):
 
     text = text.strip().lower()
 
     text = re.sub(r"[^\w\s-]", "", text)
 
-    text = re.sub(r"[\s-]+", "_", text)
+    text = re.sub(r"[\s_]+", "-", text)
 
-    return text.strip("_")
+    return text.strip("-")
 
 def save_json(path: Path, data: dict):
 
@@ -1011,7 +1011,9 @@ class App(tk.Tk):
             "id": slug,
 
             "beachSlug":
-                self.var_beach_slug.get(),
+                slugify(
+                    self.var_beach_slug.get()
+                ),
 
             "type":
                 self.var_type.get(),
@@ -1128,7 +1130,9 @@ class App(tk.Tk):
         self.var_type.get(),
 
     "beachSlug":
-        self.var_beach_slug.get().strip().lower()
+        slugify(
+            self.var_beach_slug.get()
+        ),
 
 })
 

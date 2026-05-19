@@ -10,10 +10,14 @@ REPO_RAW_BASE = "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data
 
 # ---- helpers ----
 def slugify(text: str) -> str:
+
     text = text.strip().lower()
+
     text = re.sub(r"[^\w\s-]", "", text)
-    text = re.sub(r"[\s-]+", "_", text)
-    return text.strip("_")
+
+    text = re.sub(r"[\s_]+", "-", text)
+
+    return text.strip("-")
 
 def load_json(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
@@ -356,7 +360,7 @@ class App(tk.Tk):
         if not slug:
             slug = slugify(self.var_title_en.get())
             self.var_slug.set(slug)
-        if not re.match(r"^[a-z0-9_]+$", slug):
+        if not re.match(r"^[a-z0-9-]+$", slug):
             return False, "Slug invalid. Folosește litere mici, cifre și _."
         if (self.acc_root / slug).exists():
             return False, f"Există deja folderul pentru slug: {slug}"
@@ -397,7 +401,9 @@ class App(tk.Tk):
 
         acc_json = {
             "id": acc_id,
-            "beachSlug": self.var_beachslug.get().strip(),
+            "beachSlug": slugify(
+                self.var_beachslug.get()
+        ),
             "zone": self.var_zone.get().strip(),
 
             "titleEn": self.var_title_en.get().strip(),

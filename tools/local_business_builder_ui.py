@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import customtkinter as ctk
 from tkinter import filedialog
 from PIL import Image, ImageOps
@@ -46,12 +47,21 @@ app.geometry("1280x940")
 
 def slugify(text):
 
-    return (
-        text.lower()
-        .strip()
-        .replace(" ", "_")
-        .replace("-", "_")
+    text = text.strip().lower()
+
+    text = re.sub(
+        r"[^\w\s-]",
+        "",
+        text
     )
+
+    text = re.sub(
+        r"[\s_]+",
+        "-",
+        text
+    )
+
+    return text.strip("-")
 
 # =========================
 # IMAGE PICKER
@@ -197,11 +207,11 @@ def generate_business():
 
     beaches_list = [
 
-        beach.strip()
+    slugify(beach)
 
-        for beach in beaches.split(",")
+    for beach in beaches.split(",")
 
-        if beach.strip()
+    if beach.strip()
 
     ]
 
