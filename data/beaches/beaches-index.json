@@ -270,5 +270,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "sozopoli-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Sozopoli Beach",
+      "ro": "Plaja Sozopoli"
+    },
+    "previewImage": "sozopoli-beach.webp",
+    "coordinates": {
+      "lat": 40.273170404684116,
+      "lon": 23.150300455124494
+    },
+    "rating": 4.2,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

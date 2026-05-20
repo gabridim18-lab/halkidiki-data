@@ -1,0 +1,132 @@
+{
+  "id": "sozopoli-beach",
+  "slug": "sozopoli-beach",
+  "name": {
+    "en": "Sozopoli Beach",
+    "ro": "Plaja Sozopoli"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Relaxed family beach",
+    "ro": "Plajă relaxantă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.273170404684116,
+    "lon": 23.150300455124494
+  },
+  "editorChoice": false,
+  "length": 600,
+  "images": [
+    "sozopoli-beach.webp",
+    "sozopoli-beach1.webp",
+    "sozopoli-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long sandy shoreline",
+      "ro": "Litoral lung cu nisip"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușor"
+    },
+    "noiseLevel": {
+      "en": "Quiet to moderate",
+      "ro": "Liniștită spre moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and family-friendly",
+      "ro": "Relaxată și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Very shallow gradual entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand",
+    "ro": "Nisip alb fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.2m (very gradual)",
+      "ro": "0.3 - 1.2m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Relax sunbath",
+      "Romantic escape"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Escapadă romantică"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Plajă"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-11 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.2,
+  "videos": [],
+  "description": {
+    "en": "Sozopoli Beach is a calm and scenic sandy beach near Nea Potidea, appreciated for its crystal-clear shallow water and peaceful coastal atmosphere. The gently sloping seabed makes it especially suitable for families with young children and visitors looking for safe, relaxed swimming conditions. Organized areas with sunbeds blend naturally with quieter free sections, while the vegetation behind the shoreline creates a pleasant summer setting. On clear evenings, the beach becomes especially attractive thanks to beautiful sunset colors and views toward the Kassandra Peninsula.",
+    "ro": "Plaja Sozopoli este o plajă liniștită și pitorească situată lângă Nea Potidea, apreciată pentru apa cristalină și atmosfera relaxantă. Intrarea foarte lină în mare o face ideală pentru familii cu copii mici și pentru cei care caută înot relaxat și sigur. Zonele amenajate cu șezlonguri se combină natural cu spațiile mai liniștite și libere, iar vegetația din spatele plajei completează atmosfera plăcută de vară. La apus, culorile cerului și priveliștile spre Peninsula Kassandra oferă un peisaj deosebit."
+  }
+}
