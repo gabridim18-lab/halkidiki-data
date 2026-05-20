@@ -1,0 +1,134 @@
+{
+  "id": "oasis-beach",
+  "slug": "oasis-beach",
+  "name": {
+    "en": "Oasis Beach",
+    "ro": "Plaja Oasis"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Bohemian beach club",
+    "ro": "Beach club boem"
+  },
+  "coordinates": {
+    "lat": 40.431024425615576,
+    "lon": 22.868632076497335
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "oasis-beach.webp",
+    "oasis-beach1.webp",
+    "oasis-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Comfortable organized beach area",
+      "ro": "Zonă organizată confortabilă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable",
+      "ro": "În general accesibil"
+    },
+    "noiseLevel": {
+      "en": "Relaxed beach club atmosphere",
+      "ro": "Atmosferă relaxată de beach club"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Stylish and bohemian",
+      "ro": "Elegantă și boemă"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with occasional shells",
+    "ro": "Nisip auriu fin cu scoici ocazionale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise, very clear",
+      "ro": "Turcoaz, foarte limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Luxury escape",
+      "Relax sunbath",
+      "Food drinks",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Experiență luxury",
+      "Relaxare la soare",
+      "Mâncare și băuturi",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Relaxation",
+      "Beach club lovers",
+      "Sunset experiences"
+    ],
+    "ro": [
+      "Cupluri",
+      "Relaxare",
+      "Iubitori de beach club",
+      "Experiențe la apus"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach tennis",
+      "Paddleboarding"
+    ],
+    "ro": [
+      "Înot",
+      "Tenis pe plajă",
+      "Paddleboarding"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Oasis Beach is a stylish beach club along the Thermaic Gulf, offering a curated seaside experience with a relaxed bohemian atmosphere. Its fine sandy shoreline, shallow turquoise water, and comfortable organized areas make it ideal for visitors seeking relaxation and premium beach vibes. Tamarisk trees provide natural shade, while chill-out music, cocktails, and sunset views toward Mount Olympus create a laid-back summer atmosphere. The nearby Alykes natural wetlands also make the area attractive for visitors interested in combining beach time with nature exploration.",
+    "ro": "Plaja Oasis este un beach club elegant situat pe Golful Thermaic, apreciat pentru atmosfera sa boemă și experiența relaxată de litoral. Nisipul fin, apa turcoaz și zonele organizate confortabil o fac ideală pentru cei care caută relaxare și o atmosferă premium de vară. Tamariscii oferă umbră naturală, iar muzica ambientală, cocktailurile și apusurile spectaculoase spre Muntele Olympus completează experiența. Apropierea de zona naturală Alykes adaugă un plus de interes pentru iubitorii de natură."
+  }
+}

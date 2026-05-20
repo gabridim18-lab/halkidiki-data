@@ -158,5 +158,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "oasis-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Oasis Beach",
+      "ro": "Plaja Oasis"
+    },
+    "previewImage": "oasis-beach.webp",
+    "coordinates": {
+      "lat": 40.431024425615576,
+      "lon": 22.868632076497335
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
