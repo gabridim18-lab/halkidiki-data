@@ -254,5 +254,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "delfinia-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Delfinia Beach",
+      "ro": "Plaja Delfinia"
+    },
+    "previewImage": "delfinia-beach.webp",
+    "coordinates": {
+      "lat": 40.28417464161518,
+      "lon": 23.131859233598323
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

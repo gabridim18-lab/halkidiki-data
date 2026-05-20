@@ -1,0 +1,132 @@
+{
+  "id": "delfinia-beach",
+  "slug": "delfinia-beach",
+  "name": {
+    "en": "Delfinia Beach",
+    "ro": "Plaja Delfinia"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Organized resort beach",
+    "ro": "Plajă organizată de tip resort"
+  },
+  "coordinates": {
+    "lat": 40.28417464161518,
+    "lon": 23.131859233598323
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "delfinia-beach.webp",
+    "delfinia-beach1.webp",
+    "delfinia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Comfortable organized beachfront",
+      "ro": "Litoral organizat și confortabil"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy with resort access",
+      "ro": "În general accesibil"
+    },
+    "noiseLevel": {
+      "en": "Relaxed resort atmosphere",
+      "ro": "Atmosferă relaxată de resort"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and family-friendly",
+      "ro": "Confortabilă și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and small pebbles",
+    "ro": "Amestec de nisip și pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise",
+      "ro": "Turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Luxury escape",
+      "Relax sunbath",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Experiență luxury",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Comfort beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Zile confortabile la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-9 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Delfinia Beach is a well-organized seaside destination near Nea Kallikratia, offering a comfortable resort-style beach experience along the Thermaic Gulf. The calm turquoise water and gently sloping seabed make it especially suitable for families and relaxed swimming, while organized facilities such as sunbeds, umbrellas, and seasonal water activities provide additional comfort. The atmosphere is quieter and more refined compared to busy urban beaches, making Delfinia Beach a popular choice for visitors seeking peaceful beach days and beautiful sunset views.",
+    "ro": "Plaja Delfinia este o destinație organizată și bine întreținută din apropiere de Nea Kallikratia, oferind o experiență confortabilă de tip resort pe Golful Thermaic. Apa turcoaz și intrarea lină în mare o fac potrivită pentru familii și înot relaxat, iar facilitățile organizate — șezlonguri, umbrele și activități sezoniere — oferă un plus de confort. Atmosfera este mai liniștită și elegantă comparativ cu plajele urbane aglomerate, ceea ce transformă Delfinia Beach într-o alegere apreciată pentru zile relaxante la mare și apusuri spectaculoase."
+  }
+}
