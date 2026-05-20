@@ -1,0 +1,134 @@
+{
+  "id": "surfer-beach-angelochori",
+  "slug": "surfer-beach-angelochori",
+  "name": {
+    "en": "Surfer Beach ANGELOCHORI",
+    "ro": "Plaja Surfer ANGELOCHORI"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Surf and kite beach",
+    "ro": "Plajă pentru surf și kite"
+  },
+  "coordinates": {
+    "lat": 40.49390602765304,
+    "lon": 22.81812783907113
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "surfer-beach-angelochori.webp",
+    "surfer-beach-angelochori1.webp",
+    "surfer-beach-angelochori2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Wide open shoreline",
+      "ro": "Plajă largă și deschisă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "În general ușor"
+    },
+    "noiseLevel": {
+      "en": "Sporty and active",
+      "ro": "Activă și sportivă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed surf atmosphere",
+      "ro": "Atmosferă relaxată de surf"
+    },
+    "waterEntry": {
+      "en": "Variable depth with waves",
+      "ro": "Adâncime variabilă în funcție de valuri"
+    },
+    "waveLevel": {
+      "en": "Frequently windy and wavy",
+      "ro": "Adesea cu vânt și valuri"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with gravel patches",
+    "ro": "Nisip grosier cu pietriș"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 3.0m (variable with waves)",
+      "ro": "0.5 - 3.0m (variabil cu valurile)"
+    },
+    "clarity": {
+      "en": "Clear but often choppy",
+      "ro": "Apă limpede dar adesea agitată"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Relax & sun"
+    ],
+    "ro": [
+      "Sporturi nautice",
+      "Windsurf și kite",
+      "Atmosferă de aventură",
+      "Fotografie la apus"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Surfers",
+      "Kitesurfers",
+      "Adventure seekers",
+      "Active travelers"
+    ],
+    "ro": [
+      "Surferi",
+      "Kitesurferi",
+      "Iubitori de aventură",
+      "Călători activi"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Surfing",
+      "Wind surfing",
+      "Kite boarding"
+    ],
+    "ro": [
+      "Surf",
+      "Windsurf",
+      "Kitesurf"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.8,
+  "videos": [],
+  "description": {
+    "en": "Surfer Beach Angelochori is a well-known destination for windsurfing and kitesurfing enthusiasts near Thessaloniki. Its open shoreline, constant winds, and wave conditions create an ideal environment for water sports, attracting both beginners and experienced riders. The atmosphere is relaxed and sporty, with surf schools, equipment rentals, and small beach bars adding to the experience. Although it is not designed for calm family swimming, the beach stands out for its natural coastal scenery, uncrowded setting, and spectacular sunsets over the Thermaic Gulf.",
+    "ro": "Plaja Surfer Angelochori este una dintre cele mai cunoscute destinații pentru windsurfing și kitesurfing din apropierea Thessalonikiului. Linia deschisă a țărmului, vântul constant și condițiile bune pentru valuri creează un mediu ideal pentru sporturi nautice, atrăgând atât începători, cât și sportivi experimentați. Atmosfera este relaxată și sportivă, completată de școli de surf, închirieri de echipamente și mici beach baruri. Deși nu este o plajă orientată spre înot liniștit pentru familii, se remarcă prin peisajul natural, lipsa aglomerației și apusurile spectaculoase asupra Golfului Thermaic."
+  }
+}

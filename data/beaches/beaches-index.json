@@ -94,5 +94,21 @@
     "rating": 3.8,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "surfer-beach-angelochori",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Surfer Beach ANGELOCHORI",
+      "ro": "Plaja Surfer ANGELOCHORI"
+    },
+    "previewImage": "surfer-beach-angelochori.webp",
+    "coordinates": {
+      "lat": 40.49390602765304,
+      "lon": 22.81812783907113
+    },
+    "rating": 3.8,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
