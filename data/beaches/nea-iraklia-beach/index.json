@@ -1,0 +1,134 @@
+{
+  "id": "nea-iraklia-beach",
+  "slug": "nea-iraklia-beach",
+  "name": {
+    "en": "Nea Iraklia Beach",
+    "ro": "Plaja Nea Iraklia"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Family sandy beach",
+    "ro": "Plajă nisipoasă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.33802130209921,
+    "lon": 23.018117262380954
+  },
+  "editorChoice": false,
+  "length": 2000,
+  "images": [
+    "nea-iraklia-beach.webp",
+    "nea-iraklia-beach1.webp",
+    "nea-iraklia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long sandy promenade",
+      "ro": "Promenadă lungă cu nisip"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable",
+      "ro": "În general accesibil"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Destul de animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed family atmosphere",
+      "ro": "Atmosferă relaxată pentru familii"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden sand with some seaweed",
+    "ro": "Nisip auriu cu alge marine"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (gentle slope)",
+      "ro": "0.5 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light green-blue",
+      "ro": "Verde-albastru deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Food drinks",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Mâncare și băuturi",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Casual beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Zile relaxante la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach sports",
+      "Jet skiing"
+    ],
+    "ro": [
+      "Înot",
+      "Sporturi pe plajă",
+      "Jet ski"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Nea Iraklia Beach is a long sandy beach in western Halkidiki, appreciated for its calm atmosphere, shallow water, and family-friendly environment. The coastline combines organized beach sections with quieter free areas, offering a relaxed seaside experience suitable for both families and casual visitors. Beach bars, tavernas, and a pleasant waterfront promenade create a laid-back summer atmosphere, while the gently sloping seabed makes swimming comfortable for children and inexperienced swimmers.",
+    "ro": "Plaja Nea Iraklia este o plajă lungă și nisipoasă din vestul Halkidiki, apreciată pentru atmosfera liniștită, apa puțin adâncă și caracterul potrivit pentru familii. Linia de coastă combină sectoare organizate cu zone mai calme și libere, oferind o experiență relaxată de litoral. Beach barurile, tavernele și promenada de pe mal completează atmosfera plăcută de vacanță, iar intrarea lină în mare face plaja potrivită pentru copii și înotători fără experiență."
+  }
+}

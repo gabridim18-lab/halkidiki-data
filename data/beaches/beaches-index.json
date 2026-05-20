@@ -206,5 +206,21 @@
     "rating": 3.2,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "nea-iraklia-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Nea Iraklia Beach",
+      "ro": "Plaja Nea Iraklia"
+    },
+    "previewImage": "nea-iraklia-beach.webp",
+    "coordinates": {
+      "lat": 40.33802130209921,
+      "lon": 23.018117262380954
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
