@@ -1,0 +1,134 @@
+{
+  "id": "nea-michaniona-beach",
+  "slug": "nea-michaniona-beach",
+  "name": {
+    "en": "Nea Michaniona Beach",
+    "ro": "Plaja Nea Michaniona"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Traditional family beach",
+    "ro": "Plajă tradițională pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.465424703077716,
+    "lon": 22.855934938087845
+  },
+  "editorChoice": false,
+  "length": 1500,
+  "images": [
+    "nea-michaniona-beach.webp",
+    "nea-michaniona-beach1.webp",
+    "nea-michaniona-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long sandy coastline",
+      "ro": "Litoral lung cu nisip"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable",
+      "ro": "În general accesibil"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Destul de animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Authentic local seaside",
+      "ro": "Atmosferă autentică de litoral grecesc"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft sand with some seaweed",
+    "ro": "Nisip moale cu alge marine"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.2m (gentle slope)",
+      "ro": "0.5 - 2.2m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light green-blue",
+      "ro": "Verde-albastru deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Food drinks",
+      "Relax sunbath",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Mâncare și băuturi",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Local experiences",
+      "Casual beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Experiențe locale autentice",
+      "Zile relaxante la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Jet skiing"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Jet ski"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Nea Michaniona Beach is a relaxed local beach located near the traditional fishing village of Nea Michaniona, southeast of Thessaloniki. Its shallow calm water and sandy shoreline make it especially suitable for families and relaxed swimming. The atmosphere remains authentic and less commercial, with fishing boats, seafood tavernas, and organized beach sections creating a genuine Greek coastal experience. Visitors often choose this beach for its peaceful setting, local charm, and beautiful seaside sunsets.",
+    "ro": "Plaja Nea Michaniona este o plajă liniștită situată lângă tradiționalul sat pescăresc Nea Michaniona, la sud-est de Thessaloniki. Apa calmă și puțin adâncă, împreună cu țărmul nisipos, o fac foarte potrivită pentru familii și înot relaxat. Atmosfera păstrează un caracter autentic și mai puțin comercial, completat de bărcile pescărești, tavernele cu pește proaspăt și zonele amenajate cu șezlonguri. Vizitatorii aleg frecvent această plajă pentru liniște, experiența locală și apusurile frumoase asupra golfului."
+  }
+}

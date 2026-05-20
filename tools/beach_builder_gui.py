@@ -185,38 +185,81 @@ def build_beach():
 
         highlight_map = {
 
-            "family": "Family friendly",
+            "family": (
+                "Family friendly",
+                "Potrivită pentru familii"
+            ),
 
-            "promenade": "Walking promenade",
+            "promenade": (
+                "Walking promenade",
+                "Promenadă pentru plimbări"
+            ),
 
-            "walk": "Walking promenade",
+            "walk": (
+                "Walking promenade",
+                "Promenadă pentru plimbări"
+            ),
 
-            "cycling": "Walking promenade",
+            "cycling": (
+                "Walking promenade",
+                "Promenadă pentru plimbări"
+            ),
 
-            "sunset": "Relax & sun",
+            "sunset": (
+                "Relax sunbath",
+                "Relaxare la soare"
+            ),
 
-            "relax": "Relax & sun",
+            "relax": (
+                "Relax sunbath",
+                "Relaxare la soare"
+            ),
 
-            "shallow": "Relax & sun",
+            "shallow": (
+                "Relax sunbath",
+                "Relaxare la soare"
+            ),
 
-            "food": "Food & drinks",
+            "food": (
+                "Food drinks",
+                "Mâncare și băuturi"
+            ),
 
-            "drink": "Food & drinks",
+            "drink": (
+                "Food drinks",
+                "Mâncare și băuturi"
+            ),
 
-            "cafe": "Food & drinks",
+            "cafe": (
+                "Food drinks",
+                "Mâncare și băuturi"
+            ),
 
-            "urban": "City vibes",
+            "urban": (
+                "City urban",
+                "Atmosferă urbană"
+            ),
 
-            "city": "City vibes",
+            "city": (
+                "City urban",
+                "Atmosferă urbană"
+            ),
 
-            "luxury": "Luxury escape",
+            "luxury": (
+                "Luxury escape",
+                "Experiență luxury"
+            ),
 
-            "romantic": "Romantic escape"
+            "romantic": (
+                "Romantic escape",
+                "Escapadă romantică"
+            ),
         }
 
         if "highlights" in beach:
 
             normalized_en = []
+            normalized_ro = []
 
             for item in beach["highlights"]["en"]:
 
@@ -224,11 +267,12 @@ def build_beach():
 
                 found = False
 
-                for key, value in highlight_map.items():
+                for key, values in highlight_map.items():
 
                     if key in lower:
 
-                        normalized_en.append(value)
+                        normalized_en.append(values[0])
+                        normalized_ro.append(values[1])
 
                         found = True
 
@@ -240,22 +284,28 @@ def build_beach():
                         "Hidden gem"
                     )
 
+                    normalized_ro.append(
+                        "Loc ascuns special"
+                    )
+
             beach["highlights"]["en"] = normalized_en
+            beach["highlights"]["ro"] = normalized_ro
 
-        slug = beach["slug"]
+            slug = beach["slug"]
 
-        beach_folder = OUTPUT_BEACHES / slug
-        images_folder = beach_folder / "images"
+            beach_folder = OUTPUT_BEACHES / slug
+            images_folder = beach_folder / "images"
 
-        beach_folder.mkdir(
-            parents=True,
-            exist_ok=True
-        )
+            beach_folder.mkdir(
+                parents=True,
+                exist_ok=True
+            )
 
-        images_folder.mkdir(
-            parents=True,
-            exist_ok=True
-        )
+            images_folder.mkdir(
+                parents=True,
+                exist_ok=True
+            )
+
 
         
         # -----------------------------

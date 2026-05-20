@@ -142,5 +142,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "nea-michaniona-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Nea Michaniona Beach",
+      "ro": "Plaja Nea Michaniona"
+    },
+    "previewImage": "nea-michaniona-beach.webp",
+    "coordinates": {
+      "lat": 40.465424703077716,
+      "lon": 22.855934938087845
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
