@@ -1,0 +1,134 @@
+{
+  "id": "sahara-beach",
+  "slug": "sahara-beach",
+  "name": {
+    "en": "Sahara Beach",
+    "ro": "Plaja Sahara"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Wild dune beach",
+    "ro": "Plajă sălbatică cu dune"
+  },
+  "coordinates": {
+    "lat": 40.32880632850107,
+    "lon": 23.018535473362114
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "sahara-beach.webp",
+    "sahara-beach1.webp",
+    "sahara-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Wide open dune landscape",
+      "ro": "Peisaj larg cu dune naturale"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy roadside access",
+      "ro": "Acces relativ ușor pentru parcare"
+    },
+    "noiseLevel": {
+      "en": "Quiet and natural",
+      "ro": "Liniștită și naturală"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild desert-like scenery",
+      "ro": "Peisaj sălbatic asemănător deșertului"
+    },
+    "waterEntry": {
+      "en": "Very shallow gradual entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm with windy periods",
+      "ro": "De obicei calmă, cu perioade de vânt"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with natural dune formations",
+    "ro": "Nisip auriu fin cu formațiuni naturale de dune"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.2m (very gradual)",
+      "ro": "0.3 - 1.2m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Turcoaz deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Photographers",
+      "Families",
+      "Quiet beach escapes"
+    ],
+    "ro": [
+      "Iubitori de natură",
+      "Fotografi",
+      "Familii",
+      "Escapade liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Sandboarding",
+      "Swimming",
+      "Photography"
+    ],
+    "ro": [
+      "Sandboarding",
+      "Înot",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Sahara Beach is a distinctive coastal destination famous for its golden natural dunes and wide open sandy landscape. The beach creates an unusual desert-like atmosphere along the Thermaic Gulf, combining shallow turquoise water with untouched natural scenery. Its calm waters and gradual entry make it suitable for relaxed swimming, while the surrounding dunes attract photographers, nature lovers, and visitors searching for quieter beach experiences away from crowded resorts. During sunset, the light across the sand formations creates one of the most unique coastal landscapes in the region.",
+    "ro": "Plaja Sahara este o destinație aparte, cunoscută pentru dunele sale naturale de nisip auriu și peisajul larg, asemănător unui deșert la malul mării. Apa turcoaz și intrarea foarte lină în mare creează condiții excelente pentru înot relaxat, iar mediul natural neamenajat atrage fotografi, iubitori de natură și persoane care caută experiențe mai liniștite de litoral. La apus, lumina peste dune transformă zona într-unul dintre cele mai spectaculoase peisaje de pe Golful Thermaic."
+  }
+}

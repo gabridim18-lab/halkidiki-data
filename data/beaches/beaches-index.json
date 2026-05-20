@@ -222,5 +222,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "sahara-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Sahara Beach",
+      "ro": "Plaja Sahara"
+    },
+    "previewImage": "sahara-beach.webp",
+    "coordinates": {
+      "lat": 40.32880632850107,
+      "lon": 23.018535473362114
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
