@@ -1,0 +1,134 @@
+{
+  "id": "tourmpali-beach",
+  "slug": "tourmpali-beach",
+  "name": {
+    "en": "Tourmpali Beach",
+    "ro": "Plaja Tourmpali"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Quiet local beach",
+    "ro": "Plajă locală liniștită"
+  },
+  "coordinates": {
+    "lat": 40.479063351237976,
+    "lon": 22.813347654269524
+  },
+  "editorChoice": false,
+  "length": 600,
+  "images": [
+    "tourmpali-beach.webp",
+    "tourmpali-beach1.webp",
+    "tourmpali-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Compact natural shoreline",
+      "ro": "Litoral natural compact"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușor"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și calmă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed local atmosphere",
+      "ro": "Atmosferă locală relaxată"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and small pebbles",
+    "ro": "Amestec de nisip și pietriș fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 2.0m (gentle slope)",
+      "ro": "0.4 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light blue, moderately clear",
+      "ro": "Albastru deschis, moderat limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Relax & sun",
+      "Hidden gem",
+      "Relax & sun"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Relaxare la soare",
+      "Evadare în natură",
+      "Apusuri romantice"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing",
+      "Walking"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare",
+      "Plimbări"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "3-7 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.5,
+  "videos": [],
+  "description": {
+    "en": "Tourmpali Beach is a peaceful local beach located south of Angelochori, offering a quiet alternative to the busier organized beaches nearby. Its calm shallow water and mixed sandy shoreline make it suitable for families, couples, and visitors seeking a simple relaxing beach experience. The natural surroundings and low tourist development create a more authentic coastal atmosphere, while sunset views over the Thermaic Gulf add to the charm of the area.",
+    "ro": "Plaja Tourmpali este o plajă locală liniștită, situată la sud de Angelochori, oferind o alternativă calmă față de plajele mai aglomerate din zonă. Apa liniștită și intrarea lină în mare o fac potrivită pentru familii, cupluri și pentru cei care caută relaxare fără agitație. Împrejurimile naturale și dezvoltarea turistică redusă păstrează o atmosferă autentică și relaxată, completată de apusurile frumoase asupra Golfului Thermaic."
+  }
+}

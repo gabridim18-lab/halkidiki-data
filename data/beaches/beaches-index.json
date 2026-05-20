@@ -110,5 +110,21 @@
     "rating": 3.8,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "tourmpali-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Tourmpali Beach",
+      "ro": "Plaja Tourmpali"
+    },
+    "previewImage": "tourmpali-beach.webp",
+    "coordinates": {
+      "lat": 40.479063351237976,
+      "lon": 22.813347654269524
+    },
+    "rating": 3.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
