@@ -1,0 +1,132 @@
+{
+  "id": "paralia-potami",
+  "slug": "paralia-potami",
+  "name": {
+    "en": "Paralia Potami",
+    "ro": "Plaja Paralia Potami"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Wild river beach",
+    "ro": "Plajă sălbatică de tip river beach"
+  },
+  "coordinates": {
+    "lat": 40.38124040253032,
+    "lon": 22.922042159630685
+  },
+  "editorChoice": false,
+  "length": 600,
+  "images": [
+    "paralia-potami.webp",
+    "paralia-potami1.webp",
+    "paralia-potami2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Natural undeveloped shoreline",
+      "ro": "Litoral natural neamenajat"
+    },
+    "parkingDifficulty": {
+      "en": "Limited roadside access",
+      "ro": "Acces limitat pentru parcare"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and natural",
+      "ro": "Sălbatică și naturală"
+    },
+    "waterEntry": {
+      "en": "Mixed seabed with variable currents",
+      "ro": "Fund mixt cu curenți variabili"
+    },
+    "waveLevel": {
+      "en": "Can vary depending on currents",
+      "ro": "Poate varia în funcție de curenți"
+    }
+  },
+  "sand": {
+    "en": "Dark volcanic sand mixed with pebbles",
+    "ro": "Nisip vulcanic întunecat amestecat cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 2.0m (variable currents)",
+      "ro": "0.3 - 2.0m (curenți variabili)"
+    },
+    "clarity": {
+      "en": "Dark blue, good visibility",
+      "ro": "Albastru închis, vizibilitate bună"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Explorers",
+      "Photographers",
+      "Quiet escapes"
+    ],
+    "ro": [
+      "Iubitori de natură",
+      "Exploratori",
+      "Fotografi",
+      "Escapade liniștite"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Fishing",
+      "Rock collecting"
+    ],
+    "ro": [
+      "Pescuit",
+      "Colectat pietre"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.2,
+  "videos": [],
+  "description": {
+    "en": "Paralia Potami is a quiet natural beach known for its unique mix of darker volcanic sand, pebbles, and changing coastal currents. Located near the mouth of a freshwater stream flowing into the sea, the area offers a more rugged and untouched atmosphere compared to organized tourist beaches. The coastline is peaceful and rarely crowded, making it attractive for visitors seeking nature, fishing spots, photography, and secluded seaside landscapes. Due to the changing currents and uneven seabed, the beach is better suited for explorers and experienced swimmers rather than families with small children.",
+    "ro": "Paralia Potami este o plajă naturală și liniștită, cunoscută pentru combinația sa aparte de nisip vulcanic întunecat, pietricele și curenți variabili. Situată în apropierea unei zone unde apa dulce se întâlnește cu marea, plaja oferă un peisaj mai sălbatic și nealterat comparativ cu plajele turistice organizate. Atmosfera este calmă, iar zona este apreciată pentru pescuit, fotografie și explorarea litoralului natural. Din cauza curenților și a fundului mării variabil, plaja este mai potrivită pentru exploratori și înotători experimentați decât pentru familii cu copii mici."
+  }
+}

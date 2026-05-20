@@ -190,5 +190,21 @@
     "rating": 3.9,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "paralia-potami",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Paralia Potami",
+      "ro": "Plaja Paralia Potami"
+    },
+    "previewImage": "paralia-potami.webp",
+    "coordinates": {
+      "lat": 40.38124040253032,
+      "lon": 22.922042159630685
+    },
+    "rating": 3.2,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
