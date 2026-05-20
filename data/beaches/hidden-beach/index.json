@@ -1,0 +1,134 @@
+{
+  "id": "hidden-beach",
+  "slug": "hidden-beach",
+  "name": {
+    "en": "Hidden Beach",
+    "ro": "Hidden Beach"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Hidden rocky cove",
+    "ro": "Golf retras și stâncos"
+  },
+  "coordinates": {
+    "lat": 40.50693925042843,
+    "lon": 22.834231039555334
+  },
+  "editorChoice": true,
+  "length": 150,
+  "images": [
+    "hidden-beach.webp",
+    "hidden-beach1.webp",
+    "hidden-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk required",
+      "ro": "Necesită o scurtă plimbare"
+    },
+    "parkingDifficulty": {
+      "en": "Limited roadside parking",
+      "ro": "Parcare limitată"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Hidden natural escape",
+      "ro": "Refugiu natural ascuns"
+    },
+    "waterEntry": {
+      "en": "Rocky with deeper entry",
+      "ro": "Intrare stâncoasă și mai adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky sections",
+    "ro": "Preponderent pietriș, cu zone stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 2.5m (steeper slope)",
+      "ro": "0.8 - 2.5m (pantă mai abruptă)"
+    },
+    "clarity": {
+      "en": "Very clear, deep blue",
+      "ro": "Apă foarte limpede, albastru intens"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns spectaculos",
+      "Snorkeling",
+      "Fotografie",
+      "Evadare în natură"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Explorers",
+      "Nature lovers",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Cupluri",
+      "Exploratori",
+      "Iubitori de natură",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Photography",
+      "Swimming"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Fotografie",
+      "Înot"
+    ]
+  },
+  "occupancy": "20-35%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.8,
+  "videos": [],
+  "description": {
+    "en": "Hidden Beach is a secluded rocky cove offering a peaceful escape away from crowded organized beaches. Surrounded by natural rock formations and crystal-clear turquoise water, this small hidden spot is ideal for visitors seeking privacy, snorkeling, and untouched coastal scenery. The deeper water entry and rocky seabed make it more suitable for confident swimmers and explorers rather than families with small children. Although facilities are not available, the quiet atmosphere and exceptional water clarity create a rewarding off-the-beaten-path experience.",
+    "ro": "Hidden Beach este un golf retras și liniștit, ideal pentru cei care caută natură, intimitate și peisaje nealterate de turismul de masă. Înconjurată de formațiuni stâncoase și ape foarte clare, de culoare turcoaz, plaja oferă condiții excelente pentru snorkeling și relaxare departe de aglomerație. Intrarea în apă este mai abruptă, iar fundul mării este predominant stâncos, ceea ce o face mai potrivită pentru adulți și exploratori decât pentru familii cu copii mici. Deși nu există facilități organizate, atmosfera sălbatică și liniștea transformă acest loc într-o experiență specială."
+  }
+}

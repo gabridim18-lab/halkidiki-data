@@ -78,5 +78,21 @@
     "rating": 3.8,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "hidden-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Hidden Beach",
+      "ro": "Hidden Beach"
+    },
+    "previewImage": "hidden-beach.webp",
+    "coordinates": {
+      "lat": 40.50693925042843,
+      "lon": 22.834231039555334
+    },
+    "rating": 3.8,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
