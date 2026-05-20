@@ -93,22 +93,22 @@
 
   "suitableForChildren": true,
 
-  "highlights": {
+ "highlights": {
 
-    "en": [
-      "Excellent for families",
-      "Beautiful promenade",
-      "Clear shallow water",
-      "Views toward Mount Olympus"
-    ],
+  "en": [
+    "Family friendly",
+    "Relax & sun",
+    "Food & drinks",
+    "Walking promenade"
+  ],
 
-    "ro": [
-      "Ideală pentru familii",
-      "Promenadă superbă",
-      "Apă limpede și puțin adâncă",
-      "Priveliști spre Muntele Olympus"
-    ]
-  },
+  "ro": [
+    "Potrivită pentru familii",
+    "Relaxare la soare",
+    "Mâncare și băuturi",
+    "Promenadă pentru plimbări"
+  ]
+}
 
   "bestTimeToVisit": {
     "en": "May to September",
