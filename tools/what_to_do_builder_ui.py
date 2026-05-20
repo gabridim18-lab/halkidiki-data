@@ -2,6 +2,7 @@ import os
 import json
 import shutil
 import subprocess
+import re
 from pathlib import Path
 
 import customtkinter as ctk
@@ -28,12 +29,22 @@ selected_images = []
 # HELPERS
 # =========================
 def slugify(text):
-    return (
-        text.strip()
-        .lower()
-        .replace(" ", "_")
-        .replace("-", "_")
+
+    text = text.strip().lower()
+
+    text = re.sub(
+        r"[^\w\s-]",
+        "",
+        text
     )
+
+    text = re.sub(
+        r"[\s_]+",
+        "-",
+        text
+    )
+
+    return text.strip("-")
 
 
 def ensure_index_exists():
