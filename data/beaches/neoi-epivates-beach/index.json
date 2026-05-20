@@ -1,0 +1,136 @@
+{
+  "id": "neoi-epivates-beach",
+  "slug": "neoi-epivates-beach",
+  "name": {
+    "en": "Neoi Epivates Beach",
+    "ro": "Plaja Neoi Epivates"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Relaxed family beach",
+    "ro": "Plajă relaxantă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.50429064899454,
+    "lon": 22.903943601154317
+  },
+  "editorChoice": false,
+  "length": 1500,
+  "images": [
+    "neoi-epivates-beach.webp",
+    "neoi-epivates-beach1.webp",
+    "neoi-epivates-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long sandy shoreline",
+      "ro": "Plajă lungă pentru plimbări"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușor"
+    },
+    "noiseLevel": {
+      "en": "Mostly peaceful",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Calm and family-friendly",
+      "ro": "Liniștită și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Very shallow gradual entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft sand with some pebbles",
+    "ro": "Nisip fin cu pietriș pe alocuri"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.5m (gentle slope)",
+      "ro": "0.3 - 1.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear, light blue",
+      "ro": "Apă limpede, albastru deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Relax & sun",
+      "Walking promenade",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Relaxare la soare",
+      "Promenadă pentru plimbări",
+      "Zone pentru pescuit"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Long seaside walks"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Plimbări lungi pe faleză"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing",
+      "Fishing",
+      "Walking"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare",
+      "Pescuit",
+      "Plimbări"
+    ]
+  },
+  "occupancy": "50-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Neoi Epivates Beach is a peaceful sandy beach along the Thermaic Gulf, appreciated for its shallow turquoise waters and relaxed local atmosphere. The gently sloping seabed makes it especially suitable for families with children, while the long shoreline is perfect for walking, jogging, or simply enjoying the sea breeze. Organized beach bars blend naturally with quieter sections of the beach, offering both comfort and tranquility. Sunset views across the gulf toward Mount Olympus create a particularly beautiful atmosphere in the evening.",
+    "ro": "Plaja Neoi Epivates este o plajă liniștită situată pe Golful Thermaic, apreciată pentru apa limpede și puțin adâncă, precum și pentru atmosfera sa relaxată. Intrarea foarte lină în mare o face ideală pentru familii cu copii, iar întinderea mare de nisip este perfectă pentru plimbări, alergare sau relaxare la malul mării. Zonele organizate cu beach baruri se îmbină natural cu sectoarele mai calme ale plajei, oferind atât confort, cât și liniște. Seara, apusurile spre Muntele Olympus creează o atmosferă spectaculoasă."
+  }
+}

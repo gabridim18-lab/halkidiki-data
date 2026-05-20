@@ -46,5 +46,21 @@
     "rating": 4.2,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "neoi-epivates-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Neoi Epivates Beach",
+      "ro": "Plaja Neoi Epivates"
+    },
+    "previewImage": "neoi-epivates-beach.webp",
+    "coordinates": {
+      "lat": 40.50429064899454,
+      "lon": 22.903943601154317
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
