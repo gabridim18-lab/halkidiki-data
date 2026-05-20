@@ -1,0 +1,134 @@
+{
+  "id": "agistri-beach",
+  "slug": "agistri-beach",
+  "name": {
+    "en": "Agistri Beach",
+    "ro": "Plaja Agistri"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Hidden diving cove",
+    "ro": "Golf retras pentru snorkeling și scufundări"
+  },
+  "coordinates": {
+    "lat": 40.40890863326456,
+    "lon": 22.8910744240839
+  },
+  "editorChoice": true,
+  "length": 300,
+  "images": [
+    "agistri-beach.webp",
+    "agistri-beach1.webp",
+    "agistri-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Requires short coastal walk",
+      "ro": "Necesită o scurtă plimbare"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and adventurous",
+      "ro": "Sălbatică și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Pebbly with moderate depth increase",
+      "ro": "Intrare cu pietriș și adâncire moderată"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "White pebbles with coarse sand patches",
+    "ro": "Pietricele albe cu pete de nisip grosier"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.5m (moderate slope)",
+      "ro": "0.5 - 2.5m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Deep blue, excellent visibility",
+      "ro": "Albastru închis, vizibilitate excelentă"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Explorers",
+      "Divers",
+      "Couples",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Exploratori",
+      "Pasionați de scufundări",
+      "Cupluri",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Scuba diving",
+      "Cliff jumping"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Scufundări",
+      "Sărituri de pe stânci"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Agistri Beach is a small hidden cove known for its crystal-clear deep blue water, rocky surroundings, and peaceful atmosphere. The beach attracts snorkeling and scuba diving enthusiasts thanks to its excellent underwater visibility and natural rocky seabed. Its secluded setting and lack of organized tourism create a more adventurous and untouched coastal experience. Visitors looking for calm swimming, exploration, and dramatic coastal scenery often consider Agistri Beach one of the hidden gems of the Thermaic Gulf area.",
+    "ro": "Plaja Agistri este un mic golf retras, apreciat pentru apa sa foarte limpede, albastru intens, și pentru peisajul natural stâncos. Vizibilitatea excelentă sub apă o face potrivită pentru snorkeling și scufundări, iar atmosfera liniștită oferă o experiență autentică și necomercială. Lipsa facilităților organizate și caracterul sălbatic transformă această plajă într-o alegere ideală pentru exploratori, iubitori de natură și persoane care caută locuri ascunse departe de aglomerație."
+  }
+}

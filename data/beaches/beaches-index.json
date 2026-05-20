@@ -174,5 +174,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "agistri-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Agistri Beach",
+      "ro": "Plaja Agistri"
+    },
+    "previewImage": "agistri-beach.webp",
+    "coordinates": {
+      "lat": 40.40890863326456,
+      "lon": 22.8910744240839
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
