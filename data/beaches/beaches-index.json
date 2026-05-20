@@ -62,5 +62,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "agia-triada-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Agia Triada Beach",
+      "ro": "Plaja Agia Triada"
+    },
+    "previewImage": "agia-triada-beach.webp",
+    "coordinates": {
+      "lat": 40.50208288958935,
+      "lon": 22.886670341445907
+    },
+    "rating": 3.8,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

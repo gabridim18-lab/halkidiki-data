@@ -1,0 +1,134 @@
+{
+  "id": "agia-triada-beach",
+  "slug": "agia-triada-beach",
+  "name": {
+    "en": "Agia Triada Beach",
+    "ro": "Plaja Agia Triada"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Small relaxed beach",
+    "ro": "Plajă mică și relaxantă"
+  },
+  "coordinates": {
+    "lat": 40.50208288958935,
+    "lon": 22.886670341445907
+  },
+  "editorChoice": false,
+  "length": 500,
+  "images": [
+    "agia-triada-beach.webp",
+    "agia-triada-beach1.webp",
+    "agia-triada-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Compact seaside area",
+      "ro": "Zonă compactă pe litoral"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable",
+      "ro": "De obicei accesibil"
+    },
+    "noiseLevel": {
+      "en": "Quiet to moderate",
+      "ro": "Liniștită spre moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Peaceful and local",
+      "ro": "Liniștită și autentică"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Mostly calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with sandy sections",
+    "ro": "Preponderent pietriș, cu zone de nisip"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.6m (gentle slope)",
+      "ro": "0.4 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear, light blue",
+      "ro": "Apă limpede, albastru deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax & sun",
+      "Family friendly",
+      "Hidden gem",
+      "Food & drinks"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Potrivită pentru familii",
+      "Snorkeling",
+      "Mâncare și băuturi"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Casual swimming",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Înot relaxat",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "50-65%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 3.8,
+  "videos": [],
+  "description": {
+    "en": "Agia Triada Beach is a small and peaceful beach along the Thermaic Gulf, appreciated for its calm atmosphere and shallow crystal-clear water. The beach combines pebbled sections with soft sand areas, creating a comfortable setting for swimming and relaxing by the sea. Families often choose this beach thanks to its gentle water entry and quieter environment compared to larger nearby resorts. Local tavernas and beach bars nearby provide a pleasant seaside experience with fresh seafood and beautiful sunset views.",
+    "ro": "Plaja Agia Triada este o plajă mică și liniștită situată pe Golful Thermaic, apreciată pentru atmosfera relaxată și apa limpede, puțin adâncă. Combinația dintre pietriș și zone cu nisip oferă un cadru plăcut pentru înot și relaxare la malul mării. Familiile aleg frecvent această plajă datorită intrării line în apă și atmosferei mai calme comparativ cu stațiunile din apropiere. Tavernele și beach barurile locale completează experiența cu preparate pescărești și apusuri frumoase asupra golfului."
+  }
+}
