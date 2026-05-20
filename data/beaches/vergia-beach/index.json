@@ -1,0 +1,132 @@
+{
+  "id": "vergia-beach",
+  "slug": "vergia-beach",
+  "name": {
+    "en": "Vergia Beach",
+    "ro": "Plaja Vergia"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Relaxed family beach",
+    "ro": "Plajă relaxantă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.290762894733085,
+    "lon": 23.122768346135395
+  },
+  "editorChoice": false,
+  "length": 1200,
+  "images": [
+    "vergia-beach.webp",
+    "vergia-beach1.webp",
+    "vergia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long sandy shoreline",
+      "ro": "Litoral lung cu nisip"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușor"
+    },
+    "noiseLevel": {
+      "en": "Quiet to moderate",
+      "ro": "Liniștită spre moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Calm and authentic",
+      "ro": "Liniștită și autentică"
+    },
+    "waterEntry": {
+      "en": "Very shallow gradual entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu moale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.4m (very gradual)",
+      "ro": "0.3 - 1.4m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Light blue, clear",
+      "ro": "Albastru deschis, limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Relax sunbath",
+      "Food drinks",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Relaxare la soare",
+      "Mâncare și băuturi",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sandcastle building"
+    ],
+    "ro": [
+      "Înot",
+      "Construit castele de nisip"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "4-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Vergia Beach is a peaceful sandy beach on the western coast of Halkidiki, appreciated for its calm atmosphere, soft golden sand, and shallow crystal-clear water. The gently sloping seabed makes it especially suitable for families with children and visitors looking for relaxed swimming conditions. Organized sections with sunbeds blend naturally with quieter free areas, while nearby tavernas and cafés create an authentic and laid-back seaside atmosphere. The beach is especially enjoyable during sunset, when the light across the Thermaic Gulf becomes particularly beautiful.",
+    "ro": "Plaja Vergia este o plajă liniștită de pe coasta vestică a Halkidiki, apreciată pentru nisipul fin, apa limpede și atmosfera relaxată. Intrarea foarte lină în mare o face potrivită pentru familii cu copii și pentru înot relaxat. Zonele organizate cu șezlonguri se îmbină natural cu spațiile mai liniștite și libere, iar tavernele și cafenelele din apropiere completează atmosfera autentică de litoral grecesc. La apus, lumina peste Golful Thermaic oferă un peisaj deosebit."
+  }
+}

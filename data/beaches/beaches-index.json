@@ -238,5 +238,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "vergia-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Vergia Beach",
+      "ro": "Plaja Vergia"
+    },
+    "previewImage": "vergia-beach.webp",
+    "coordinates": {
+      "lat": 40.290762894733085,
+      "lon": 23.122768346135395
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
