@@ -1,100 +1,131 @@
 {
   "id": "perea-beach",
+
   "slug": "perea-beach",
+
   "name": {
     "en": "Perea Beach",
     "ro": "Plaja Perea"
   },
+
   "zone": "Thessaloniki",
+
   "beachType": {
     "en": "Urban family beach",
     "ro": "Plajă urbană pentru familii"
   },
+
   "coordinates": {
     "lat": 40.508632015157694,
     "lon": 22.92258695890113
   },
+
   "editorChoice": true,
+
   "length": 1200,
+
   "images": [
     "perea_beach.webp",
     "perea_beach1.webp",
     "perea_beach2.webp"
   ],
+
   "googleMapsLabel": {
     "en": "Take me there",
     "ro": "Du-mă acolo"
   },
+
   "quickFacts": {
+
     "walkingDistance": {
       "en": "Long seaside promenade",
       "ro": "Promenadă lungă pe malul mării"
     },
+
     "parkingDifficulty": {
       "en": "Moderate during peak summer",
       "ro": "Moderat în sezonul de vârf"
     },
+
     "noiseLevel": {
       "en": "Lively in the evening",
       "ro": "Animată seara"
     }
   },
+
   "beachInfo": {
+
     "vibe": {
       "en": "Relaxed but social",
       "ro": "Relaxantă dar animată"
     },
+
     "waterEntry": {
       "en": "Very shallow and gentle",
       "ro": "Foarte lină și puțin adâncă"
     },
+
     "waveLevel": {
       "en": "Usually calm",
       "ro": "De obicei calmă"
     }
   },
+
   "sand": {
     "en": "Soft golden sand with small pebbles",
     "ro": "Nisip moale, auriu cu pietriș fin"
   },
+
   "water": {
+
     "averageTemperature": 24,
+
     "depth": {
       "en": "0.3 - 1.2m (gentle slope, safe for kids)",
       "ro": "0.3 - 1.2m (pantă lină, sigur pentru copii)"
     },
+
     "clarity": {
       "en": "Clear, light blue",
       "ro": "Apă limpede, albastru deschis"
     }
   },
+
   "suitableForChildren": true,
+
   "highlights": {
+
     "en": [
-      "Perfect for cycling",
-      "Waterfront cafés",
-      "Waterfront cafés",
-      "Vibrant city atmosphere"
+      "Excellent for families",
+      "Beautiful promenade",
+      "Clear shallow water",
+      "Views toward Mount Olympus"
     ],
+
     "ro": [
-      "Perfect pentru ciclism",
-      "Cafenele pe faleză",,
-      "Cafenele pe faleză",
-      "Atmosferă vibrantă"
+      "Ideală pentru familii",
+      "Promenadă superbă",
+      "Apă limpede și puțin adâncă",
+      "Priveliști spre Muntele Olympus"
     ]
   },
+
   "bestTimeToVisit": {
     "en": "May to September",
     "ro": "Mai - Septembrie"
   },
+
   "sunsetView": true,
+
   "idealFor": {
+
     "en": [
       "Families",
       "Couples",
       "Day trips",
       "Sunset walks"
     ],
+
     "ro": [
       "Familii",
       "Cupluri",
@@ -102,7 +133,9 @@
       "Plimbări la apus"
     ]
   },
+
   "activities": {
+
     "en": [
       "Swimming",
       "Sunbathing",
@@ -110,6 +143,7 @@
       "Walking",
       "Seaside dining"
     ],
+
     "ro": [
       "Înot",
       "Stat la soare",
@@ -118,21 +152,36 @@
       "Mese pe faleză"
     ]
   },
+
   "occupancy": "60-80%",
+
   "facilities": {
+
     "sunbeds": true,
+
     "sunbedPrice": "5-10 EUR",
+
     "towelAllowed": true,
+
     "campingAvailable": false,
+
     "toiletsAvailable": true,
+
     "accessible": false,
+
     "parkingAvailable": true
   },
+
   "servicePriceCategory": "$",
+
   "recommendationRating": 4.2,
+
   "videos": [],
+
   "description": {
+
     "en": "Perea Beach is one of the most popular seaside destinations near Thessaloniki, located only a short drive from the city center. Known for its long sandy shoreline, shallow turquoise waters, and lively promenade, it offers a balanced mix of relaxation and social atmosphere. Families appreciate the safe, calm sea conditions, while visitors enjoy the waterfront tavernas, cafés, and evening walks with panoramic views across the Thermaic Gulf toward Mount Olympus.",
+
     "ro": "Plaja Perea este una dintre cele mai populare destinații de lângă Thessaloniki, aflată la doar câțiva kilometri de oraș. Este apreciată pentru plaja lungă cu nisip auriu, apa puțin adâncă și promenada animată plină de taverne și cafenele. Atmosfera este relaxantă pe timpul zilei și foarte plăcută seara, când faleză prinde viață. Familiile aleg frecvent această plajă datorită apei calme și sigure pentru copii, iar priveliștile spre Golful Thermaic și Muntele Olympus completează experiența."
   }
 }
