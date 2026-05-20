@@ -1,0 +1,132 @@
+{
+  "id": "riviera-virgin-beach",
+  "slug": "riviera-virgin-beach",
+  "name": {
+    "en": "Riviera Virgin Beach",
+    "ro": "Plaja Riviera Virgin"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Hidden natural beach",
+    "ro": "Plajă naturală retrasă"
+  },
+  "coordinates": {
+    "lat": 40.47792346878825,
+    "lon": 22.815871142875586
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "riviera-virgin-beach.webp",
+    "riviera-virgin-beach1.webp",
+    "riviera-virgin-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk from parking area",
+      "ro": "Scurtă plimbare de la parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Limited roadside access",
+      "ro": "Acces limitat pentru parcare"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Untouched and secluded",
+      "ro": "Sălbatică și retrasă"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip fin, auriu"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.8m (gradual slope)",
+      "ro": "0.3 - 1.8m (pantă graduală)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns spectaculos",
+      "Evadare în natură",
+      "Snorkeling",
+      "Fotografie"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Nature lovers",
+      "Explorers",
+      "Quiet beach escapes"
+    ],
+    "ro": [
+      "Cupluri",
+      "Iubitori de natură",
+      "Exploratori",
+      "Escapade liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Riviera Virgin Beach is a secluded natural beach near Angelochori, appreciated for its crystal-clear turquoise water and untouched coastal scenery. Surrounded by rocky formations and Mediterranean vegetation, it offers a peaceful atmosphere far from crowded tourist beaches. The soft sandy shoreline and gentle water entry create comfortable swimming conditions, while the exceptional water clarity makes snorkeling especially enjoyable. Although access requires a short walk and there are no organized facilities, the sense of privacy and natural beauty make Riviera Virgin Beach one of the hidden gems of the area.",
+    "ro": "Plaja Riviera Virgin este o plajă retrasă și naturală din apropiere de Angelochori, apreciată pentru apa cristalină și peisajul sălbatic. Înconjurată de stânci și vegetație mediteraneană, oferă o atmosferă liniștită, departe de aglomerația plajelor turistice. Nisipul fin și intrarea lină în mare creează condiții foarte bune pentru înot relaxat, iar vizibilitatea excelentă face snorkelingul foarte plăcut. Deși accesul presupune o scurtă plimbare și nu există facilități organizate, liniștea și frumusețea naturală transformă această plajă într-un adevărat loc ascuns spectaculos."
+  }
+}

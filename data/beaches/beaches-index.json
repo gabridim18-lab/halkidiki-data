@@ -126,5 +126,21 @@
     "rating": 3.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "riviera-virgin-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Riviera Virgin Beach",
+      "ro": "Plaja Riviera Virgin"
+    },
+    "previewImage": "riviera-virgin-beach.webp",
+    "coordinates": {
+      "lat": 40.47792346878825,
+      "lon": 22.815871142875586
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
