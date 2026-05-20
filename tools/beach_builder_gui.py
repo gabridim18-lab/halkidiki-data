@@ -2,7 +2,7 @@ import json
 import shutil
 import subprocess
 from pathlib import Path
-
+from PIL import ImageOps
 from PIL import Image
 import tkinter as tk
 from tkinter import filedialog
@@ -179,6 +179,69 @@ def build_beach():
 
         beach = json.loads(raw)
 
+        # -----------------------------
+        # NORMALIZE HIGHLIGHTS
+        # -----------------------------
+
+        highlight_map = {
+
+            "family": "Family friendly",
+
+            "promenade": "Walking promenade",
+
+            "walk": "Walking promenade",
+
+            "cycling": "Walking promenade",
+
+            "sunset": "Relax & sun",
+
+            "relax": "Relax & sun",
+
+            "shallow": "Relax & sun",
+
+            "food": "Food & drinks",
+
+            "drink": "Food & drinks",
+
+            "cafe": "Food & drinks",
+
+            "urban": "City vibes",
+
+            "city": "City vibes",
+
+            "luxury": "Luxury escape",
+
+            "romantic": "Romantic escape"
+        }
+
+        if "highlights" in beach:
+
+            normalized_en = []
+
+            for item in beach["highlights"]["en"]:
+
+                lower = item.lower()
+
+                found = False
+
+                for key, value in highlight_map.items():
+
+                    if key in lower:
+
+                        normalized_en.append(value)
+
+                        found = True
+
+                        break
+
+                if not found:
+
+                    normalized_en.append(
+                        "Hidden gem"
+                    )
+
+            beach["highlights"]["en"] = normalized_en
+
         slug = beach["slug"]
 
         beach_folder = OUTPUT_BEACHES / slug
@@ -193,6 +256,57 @@ def build_beach():
             parents=True,
             exist_ok=True
         )
+
+        
+        # -----------------------------
+        # COPY IMAGES
+        # -----------------------------
+
+        generated_images = []
+
+        for index, image_path in enumerate(selected_images):
+
+            image_path = Path(image_path)
+
+            img = Image.open(image_path)
+
+            img = img.convert("RGB")
+
+            img = ImageOps.fit(
+                img,
+                (1200, 800),
+                Image.LANCZOS
+            )
+
+            if index == 0:
+
+                output_name = f"{slug}.webp"
+
+            else:
+
+                output_name = (
+                    f"{slug}{index}.webp"
+                )
+
+            output_path = (
+                images_folder / output_name
+            )
+
+            img.save(
+                output_path,
+                "WEBP",
+                quality=88
+            )
+
+            generated_images.append(
+                output_name
+            )
+
+        # -----------------------------
+        # UPDATE JSON IMAGES
+        # -----------------------------
+
+        beach["images"] = generated_images
 
         # -----------------------------
         # WRITE index.json
@@ -210,36 +324,7 @@ def build_beach():
                 ensure_ascii=False,
                 indent=2
             )
-
-        # -----------------------------
-        # COPY IMAGES
-        # -----------------------------
-
-        for image_path in selected_images:
-
-            image_path = Path(image_path)
-
-            img = Image.open(image_path)
-
-            img = img.convert("RGB")
-
-            img = img.resize(
-                 (1200, 800)
-            )
-
-            output_name = (
-                image_path.stem + ".webp"
-            )
-
-            output_path = (
-                images_folder / output_name
-            )
-
-            img.save(
-                output_path,
-                "WEBP",
-                quality=88
-            )
+        
             
         # -----------------------------
         # LOAD beaches-index.json
@@ -321,6 +406,29 @@ def build_beach():
             )
 
         # -----------------------------
+        # GIT ADD
+        # -----------------------------
+
+        subprocess.run(
+            ["git", "add", "."],
+            cwd=ROOT
+        )
+
+        # -----------------------------
+        # GIT COMMIT
+        # -----------------------------
+
+        subprocess.run(
+            [
+                "git",
+                "commit",
+                "-m",
+                f"Added beach {slug}"
+            ],
+            cwd=ROOT
+        )
+
+        # -----------------------------
         # GIT ADD + COMMIT
         # -----------------------------
 
@@ -330,6 +438,7 @@ def build_beach():
             "Now run manually:\n\n"
             "git add .\n"
             f'git commit -m "Added beach {slug}"\n'
+            "git pull --rebase\n"
             "git push"
         )
 
