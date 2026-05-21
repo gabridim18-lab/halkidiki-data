@@ -558,5 +558,21 @@
     "rating": 3.5,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "elani-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Elani Beach",
+      "ro": "Plaja Elani"
+    },
+    "previewImage": "elani-beach.webp",
+    "coordinates": {
+      "lat": 40.05034004729907,
+      "lon": 23.348452262503617
+    },
+    "rating": 4.2,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

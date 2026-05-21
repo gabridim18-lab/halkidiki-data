@@ -1,0 +1,133 @@
+{
+  "id": "elani-beach",
+  "slug": "elani-beach",
+  "name": {
+    "en": "Elani Beach",
+    "ro": "Plaja Elani"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Natural pine-framed beach",
+    "ro": "Plajă naturală înconjurată de pini"
+  },
+  "coordinates": {
+    "lat": 40.05034004729907,
+    "lon": 23.348452262503617
+  },
+  "editorChoice": true,
+  "length": 500,
+  "images": [
+    "elani-beach.webp",
+    "elani-beach1.webp",
+    "elani-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk through pine surroundings",
+      "ro": "Scurt acces printre pini"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate on dirt access road",
+      "ro": "Moderat pe drum de pământ"
+    },
+    "noiseLevel": {
+      "en": "Quiet and relaxing",
+      "ro": "Liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and peaceful",
+      "ro": "Naturală și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand",
+    "ro": "Nisip alb fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.6m (gentle slope)",
+      "ro": "0.4 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise",
+      "ro": "Ape turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Romantic escape"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Escapadă romantică"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Families",
+      "Nature lovers",
+      "Relaxing beach days"
+    ],
+    "ro": [
+      "Cupluri",
+      "Familii",
+      "Iubitori de natură",
+      "Zile relaxante la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.2,
+  "videos": [],
+  "description": {
+    "en": "Elani Beach is a peaceful and scenic beach on the western coast of Kassandra, surrounded by pine trees and natural landscapes. Known for its soft white sand and turquoise water, the beach offers a calm atmosphere ideal for swimming and relaxing away from crowded tourist areas. Rocky edges along parts of the shoreline create excellent snorkeling conditions, while the surrounding pine forest provides natural shade and a more intimate setting. Elani Beach is especially popular with couples and visitors looking for tranquility, authentic scenery, and beautiful sunset views across the Toroneos Gulf.",
+    "ro": "Plaja Elani este o plajă liniștită și pitorească situată pe coasta vestică a peninsulei Kassandra, înconjurată de pini și peisaje naturale spectaculoase. Cunoscută pentru nisipul alb fin și apa turcoaz, plaja oferă o atmosferă calmă, ideală pentru înot și relaxare departe de zonele turistice aglomerate. Marginile stâncoase creează condiții excelente pentru snorkeling, iar pădurea de pini din apropiere oferă umbră naturală și un cadru intim. Elani Beach este apreciată în special de cupluri și de cei care caută liniște, natură autentică și apusuri superbe peste Golful Toroneos."
+  },
+  "blueFlag": false
+}
