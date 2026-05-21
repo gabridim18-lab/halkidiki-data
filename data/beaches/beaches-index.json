@@ -574,5 +574,21 @@
     "rating": 4.2,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "siviri-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Siviri Beach",
+      "ro": "Plaja Siviri"
+    },
+    "previewImage": "siviri-beach.webp",
+    "coordinates": {
+      "lat": 40.03406828817953,
+      "lon": 23.35996077588791
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

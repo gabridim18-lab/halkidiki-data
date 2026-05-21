@@ -1,0 +1,135 @@
+{
+  "id": "siviri-beach",
+  "slug": "siviri-beach",
+  "name": {
+    "en": "Siviri Beach",
+    "ro": "Plaja Siviri"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized family beach",
+    "ro": "Plajă organizată pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.03406828817953,
+    "lon": 23.35996077588791
+  },
+  "editorChoice": true,
+  "length": 1800,
+  "images": [
+    "siviri-beach.webp",
+    "siviri-beach1.webp",
+    "siviri-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long seaside promenade",
+      "ro": "Promenadă lungă pe litoral"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderat în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively but relaxing",
+      "ro": "Animată dar relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Family-friendly and comfortable",
+      "ro": "Potrivită pentru familii și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with occasional pebbles",
+    "ro": "Nisip auriu fin cu pietricele ocazionale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.7m (gentle slope)",
+      "ro": "0.4 - 1.7m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Ape turcoaz deschise"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Food drinks",
+      "Walking promenade"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Mâncare și băuturi",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxed beach holidays",
+      "Seaside dining"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Vacanțe relaxante",
+      "Mese pe malul mării"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Pedal boats"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Bărci cu pedale"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Siviri Beach is one of the most popular and well-organized beaches on the western coast of Kassandra, known for its long stretch of golden sand, calm turquoise water, and relaxing atmosphere. Pine trees behind the beach create a beautiful natural backdrop, while the shallow sea and gentle entry make the area especially suitable for families with children. The beach is fully organized with sunbeds, beach bars, tavernas, cafés, and a lively promenade that becomes particularly attractive during sunset hours. Thanks to its combination of comfort, accessibility, and natural beauty, Siviri Beach is ideal for both relaxed family holidays and couples seeking an enjoyable seaside experience.",
+    "ro": "Plaja Siviri este una dintre cele mai populare și bine organizate plaje de pe coasta vestică a peninsulei Kassandra, apreciată pentru întinderea sa lungă de nisip auriu, apa calmă de culoare turcoaz și atmosfera relaxantă. Pinii din spatele plajei creează un cadru natural spectaculos, iar intrarea foarte lină în mare o face ideală pentru familiile cu copii. Plaja este complet amenajată, cu șezlonguri, beach baruri, taverne, cafenele și o promenadă animată care devine deosebit de plăcută la apus. Datorită combinației dintre confort, accesibilitate și frumusețe naturală, Siviri Beach este perfectă atât pentru vacanțe relaxante în familie, cât și pentru cupluri."
+  },
+  "blueFlag": false
+}
