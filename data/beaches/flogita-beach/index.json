@@ -1,0 +1,133 @@
+{
+  "id": "flogita-beach",
+  "slug": "flogita-beach",
+  "name": {
+    "en": "Flogita Beach",
+    "ro": "Plaja Flogita"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Popular family beach",
+    "ro": "Plajă populară pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.25592782296635,
+    "lon": 23.22097066940101
+  },
+  "editorChoice": true,
+  "length": 500,
+  "images": [
+    "flogita-beach.webp",
+    "flogita-beach1.webp",
+    "flogita-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Wide accessible beachfront",
+      "ro": "Litoral larg și accesibil"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak season",
+      "ro": "Moderat în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively during summer",
+      "ro": "Animată vara"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Friendly and relaxed",
+      "ro": "Prietenos și relaxat"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with small pebbles",
+    "ro": "Nisip grosier cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear blue",
+      "ro": "Albastru limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Food drinks",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Mâncare și băuturi",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Summer beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Zile de vară la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-8 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Flogita Beach is a popular sandy beach on the western coast of Halkidiki, appreciated for its shallow clear water and relaxed summer atmosphere. The gently sloping seabed creates safe swimming conditions for families and casual visitors, while the broad shoreline offers enough space even during busy summer periods. Organized sections with sunbeds and nearby tavernas provide comfort and easy access to food and drinks, while calmer parts of the beach remain suitable for peaceful swimming and snorkeling close to the shore. Sunset views across the Thermaic Gulf add extra charm during the evening hours.",
+    "ro": "Plaja Flogita este o plajă populară de pe coasta vestică a Halkidiki, apreciată pentru apa limpede și atmosfera relaxată de vară. Intrarea lină în mare oferă condiții sigure pentru familii și înot relaxat, iar țărmul generos păstrează suficient spațiu chiar și în perioadele mai aglomerate. Zonele amenajate cu șezlonguri și tavernele din apropiere oferă confort și acces rapid la mâncare și băuturi, în timp ce porțiunile mai liniștite ale plajei sunt potrivite pentru înot și snorkeling aproape de mal. La apus, priveliștile peste Golful Thermaic completează atmosfera plăcută a zonei."
+  },
+  "blueFlag": false
+}

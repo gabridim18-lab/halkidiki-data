@@ -366,5 +366,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "flogita-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Flogita Beach",
+      "ro": "Plaja Flogita"
+    },
+    "previewImage": "flogita-beach.webp",
+    "coordinates": {
+      "lat": 40.25592782296635,
+      "lon": 23.22097066940101
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
