@@ -1,0 +1,133 @@
+{
+  "id": "loutra-agias-paraskevis-beach",
+  "slug": "loutra-agias-paraskevis-beach",
+  "name": {
+    "en": "Loutra Agias Paraskevis Beach",
+    "ro": "Plaja Loutra Agias Paraskevis"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Sheltered wellness bay beach",
+    "ro": "Plajă într-un golf protejat cu atmosferă wellness"
+  },
+  "coordinates": {
+    "lat": 39.92844849825718,
+    "lon": 23.584613187170017
+  },
+  "editorChoice": false,
+  "length": 500,
+  "images": [
+    "loutra-agias-paraskevis-beach.webp",
+    "loutra-agias-paraskevis-beach1.webp",
+    "loutra-agias-paraskevis-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy bay access",
+      "ro": "Acces facil către golf"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "În general ușoară"
+    },
+    "noiseLevel": {
+      "en": "Calm and relaxing",
+      "ro": "Liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed spa atmosphere",
+      "ro": "Atmosferă relaxantă de spa"
+    },
+    "waterEntry": {
+      "en": "Gentle mixed sand entry",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm due to sheltered bay",
+      "ro": "În general calmă datorită golfului protejat"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and small pebbles",
+    "ro": "Amestec de nisip și pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 1.8m (gentle slope)",
+      "ro": "0.5 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light blue",
+      "ro": "Ape albastre deschise"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Families",
+      "Wellness travelers",
+      "Relaxation seekers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Familii",
+      "Cei interesați de wellness",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "4-8 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Loutra Agias Paraskevis Beach is a calm and inviting coastal spot located at the southern tip of the Kassandra peninsula, near the well-known thermal spa area. Set inside a small sheltered bay, the beach offers a more protected and relaxing atmosphere compared to the more open coastlines nearby. The shoreline combines sand and small pebbles, while the clear and generally calm waters make it suitable for swimming and relaxed beach days. Several sections are partially organized with sunbeds and small beach bars, yet the area still preserves a natural and peaceful character thanks to the surrounding coastal scenery and limited development. One of the biggest advantages of the location is the nearby thermal spa, where natural warm waters provide a unique wellness experience just a short distance from the beach.",
+    "ro": "Plaja Loutra Agias Paraskevis este o zonă de coastă liniștită și plăcută situată în extremitatea sudică a peninsulei Kassandra, în apropierea cunoscutei zone termale. Așezată într-un mic golf protejat, plaja oferă o atmosferă mai calmă și mai relaxantă comparativ cu zonele deschise ale litoralului. Țărmul combină nisipul cu pietricelele mici, iar apa limpede și, în general, calmă este potrivită pentru înot și zile relaxante la mare. Unele sectoare sunt parțial amenajate cu șezlonguri și mici beach baruri, însă zona păstrează în continuare un caracter natural și liniștit datorită peisajului de coastă și dezvoltării reduse. Unul dintre cele mai mari avantaje ale locației este apropierea de spa-ul termal, unde apele calde naturale oferă o experiență unică de wellness la doar câțiva pași de plajă."
+  },
+  "blueFlag": false
+}

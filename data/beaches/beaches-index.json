@@ -798,5 +798,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "loutra-agias-paraskevis-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Loutra Agias Paraskevis Beach",
+      "ro": "Plaja Loutra Agias Paraskevis"
+    },
+    "previewImage": "loutra-agias-paraskevis-beach.webp",
+    "coordinates": {
+      "lat": 39.92844849825718,
+      "lon": 23.584613187170017
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
