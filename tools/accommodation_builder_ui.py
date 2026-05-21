@@ -462,6 +462,48 @@ class App(tk.Tk):
             main_index["items"].append(acc_id)
             save_json(self.index_path, main_index)
 
+        # -----------------------------
+        # UPDATE halkidiki-explorer-web/data.js
+        # -----------------------------
+
+        web_data_path = (
+            self.repo_root.parent
+            / "halkidiki-explorer-web"
+            / "data.js"
+        )
+
+        if web_data_path.exists():
+
+            js = web_data_path.read_text(
+                encoding="utf-8"
+            )
+
+            flyer_name = (
+                acc_id
+                .replace("_", "-")
+                + ".webp"
+            )
+
+            new_entry = f'''
+        {{
+            id: "{acc_id}",
+            beachSlug: "{slugify(self.var_beachslug.get())}",
+            flyer: "{flyer_name}"
+        }},
+        '''
+
+            if f'id: "{acc_id}"' not in js:
+
+                js = js.replace(
+                    "const accommodations = [",
+                    "const accommodations = [\n" + new_entry
+                )
+
+                web_data_path.write_text(
+                    js,
+                    encoding="utf-8"
+                )
+
         self.lbl_status.config(text=f"✅ Generated: data/accommodations/{acc_id}/ (and updated index.json)")
         self.last_generated_slug = acc_id
         self.btn_git_commit.config(state="normal")
