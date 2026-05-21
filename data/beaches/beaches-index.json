@@ -638,5 +638,21 @@
     "rating": 3.9,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "aigaiopelagitika-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Aigaiopelagitika Beach",
+      "ro": "Plaja Aigaiopelagitika"
+    },
+    "previewImage": "aigaiopelagitika-beach.webp",
+    "coordinates": {
+      "lat": 39.97976971685831,
+      "lon": 23.37418664567446
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

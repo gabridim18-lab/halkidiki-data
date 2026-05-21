@@ -1,0 +1,133 @@
+{
+  "id": "aigaiopelagitika-beach",
+  "slug": "aigaiopelagitika-beach",
+  "name": {
+    "en": "Aigaiopelagitika Beach",
+    "ro": "Plaja Aigaiopelagitika"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Natural quiet beach",
+    "ro": "Plajă naturală și liniștită"
+  },
+  "coordinates": {
+    "lat": 39.97976971685831,
+    "lon": 23.37418664567446
+  },
+  "editorChoice": false,
+  "length": 1200,
+  "images": [
+    "aigaiopelagitika-beach.webp",
+    "aigaiopelagitika-beach1.webp",
+    "aigaiopelagitika-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy coastal access",
+      "ro": "Acces facil la coastă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușor"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și calmă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and relaxing",
+      "ro": "Naturală și relaxantă"
+    },
+    "waterEntry": {
+      "en": "Very gradual sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu moale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.5m (very gradual)",
+      "ro": "0.3 - 1.5m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Ape cristaline"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem",
+      "Walking promenade"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Quiet beach days",
+      "Nature lovers",
+      "Couples"
+    ],
+    "ro": [
+      "Familii",
+      "Zile liniștite la plajă",
+      "Iubitorii naturii",
+      "Cupluri"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Aigaiopelagitika Beach is a quieter coastal area located in the southern part of the Kassandra peninsula, close to Possidi. Known for its natural scenery and peaceful atmosphere, it offers a more authentic beach experience away from heavily developed tourist areas. The shoreline combines soft sand with occasional pebbles, while the crystal-clear water and shallow seabed make the beach suitable for families and relaxed swimming. Surrounded by open landscapes and patches of greenery, the beach maintains a calm and slightly wild character, ideal for visitors looking to disconnect and enjoy a slower pace by the sea.",
+    "ro": "Plaja Aigaiopelagitika este o zonă de coastă mai liniștită situată în partea sudică a peninsulei Kassandra, aproape de Possidi. Cunoscută pentru peisajul natural și atmosfera calmă, oferă o experiență autentică la mare, departe de zonele turistice foarte dezvoltate. Țărmul combină nisipul moale cu porțiuni de pietricele, iar apa cristalină și intrarea foarte lină în mare o fac potrivită pentru familii și înot relaxat. Înconjurată de peisaje deschise și zone verzi, plaja păstrează un caracter natural și ușor sălbatic, fiind ideală pentru cei care doresc liniște și relaxare."
+  },
+  "blueFlag": false
+}
