@@ -1,0 +1,133 @@
+{
+  "id": "windsurfers-paradise",
+  "slug": "windsurfers-paradise",
+  "name": {
+    "en": "Windsurfers Paradise",
+    "ro": "Windsurfers Paradise"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Wind sports beach",
+    "ro": "Plajă pentru sporturi cu vânt"
+  },
+  "coordinates": {
+    "lat": 40.147499255637065,
+    "lon": 23.317193190812326
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "windsurfers-paradise.webp",
+    "windsurfers-paradise1.webp",
+    "windsurfers-paradise2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Wide open windy coastline",
+      "ro": "Litoral deschis și vântos"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy outside peak hours",
+      "ro": "În general ușor în afara orelor de vârf"
+    },
+    "noiseLevel": {
+      "en": "Sporty and energetic",
+      "ro": "Sportivă și energică"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Adventure-focused beach atmosphere",
+      "ro": "Atmosferă orientată spre aventură"
+    },
+    "waterEntry": {
+      "en": "Variable depth with windy conditions",
+      "ro": "Adâncime variabilă în funcție de vânt"
+    },
+    "waveLevel": {
+      "en": "Frequently windy and wavy",
+      "ro": "Adesea cu vânt și valuri"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with small pebbles",
+    "ro": "Nisip grosier cu pietriș"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.5m (variable with waves)",
+      "ro": "0.5 - 2.5m (variabil cu valurile)"
+    },
+    "clarity": {
+      "en": "Clear but often wavy",
+      "ro": "Ape limpezi dar cu valuri"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Windsurfers",
+      "Kitesurfers",
+      "Adventure seekers",
+      "Active travelers"
+    ],
+    "ro": [
+      "Windsurferi",
+      "Kitesurferi",
+      "Iubitori de aventură",
+      "Călători activi"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Windsurfing",
+      "Kite surfing"
+    ],
+    "ro": [
+      "Windsurf",
+      "Kitesurf"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.5,
+  "videos": [],
+  "description": {
+    "en": "Windsurfers Paradise is one of the best wind sports beaches in Halkidiki, attracting windsurfers and kitesurfers thanks to its reliable summer winds and long open coastline. The combination of shallow sandy sections, clear water, and wide riding areas creates excellent conditions for both beginners and experienced riders. Unlike traditional family beaches, the atmosphere here is energetic and adventure-oriented, with surf schools, equipment rentals, and a strong international sports community during the summer months. Sunset sessions and panoramic views across the gulf make the beach especially popular among active travelers and photography enthusiasts.",
+    "ro": "Windsurfers Paradise este una dintre cele mai apreciate plaje pentru sporturi cu vânt din Halkidiki, atrăgând windsurferi și kitesurferi datorită vânturilor constante din sezonul de vară și litoralului deschis. Combinația dintre zonele puțin adânci, fundul nisipos și spațiul larg de navigare oferă condiții excelente atât pentru începători, cât și pentru sportivi experimentați. Spre deosebire de plajele clasice pentru familii, atmosfera aici este energică și orientată spre aventură, cu școli de surf, închirieri de echipamente și o comunitate internațională activă în timpul verii. Sesiunile de la apus și priveliștile spectaculoase peste golf transformă plaja într-un loc foarte apreciat de iubitorii de sport și fotografie."
+  },
+  "blueFlag": false
+}

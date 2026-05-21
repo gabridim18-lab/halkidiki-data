@@ -462,5 +462,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "windsurfers-paradise",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Windsurfers Paradise",
+      "ro": "Windsurfers Paradise"
+    },
+    "previewImage": "windsurfers-paradise.webp",
+    "coordinates": {
+      "lat": 40.147499255637065,
+      "lon": 23.317193190812326
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
