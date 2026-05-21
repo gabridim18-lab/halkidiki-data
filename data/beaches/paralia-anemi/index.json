@@ -1,0 +1,133 @@
+{
+  "id": "paralia-anemi",
+  "slug": "paralia-anemi",
+  "name": {
+    "en": "Paralia Anemi",
+    "ro": "Plaja Paralia Anemi"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Wild rocky cove",
+    "ro": "Golf stâncos sălbatic"
+  },
+  "coordinates": {
+    "lat": 39.969762012592916,
+    "lon": 23.46711365024887
+  },
+  "editorChoice": false,
+  "length": 600,
+  "images": [
+    "paralia-anemi.webp",
+    "paralia-anemi1.webp",
+    "paralia-anemi2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk required",
+      "ro": "Necesită scurtă plimbare"
+    },
+    "parkingDifficulty": {
+      "en": "Limited roadside parking",
+      "ro": "Parcare limitată"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Secluded and natural",
+      "ro": "Retrasă și naturală"
+    },
+    "waterEntry": {
+      "en": "Rocky uneven entry",
+      "ro": "Intrare stâncoasă și inegală"
+    },
+    "waveLevel": {
+      "en": "Can become rough with wind",
+      "ro": "Poate deveni agitată la vânt"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky outcrops",
+    "ro": "Majoritar pietriș cu zone stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 3.5m (sudden drop)",
+      "ro": "0.8 - 3.5m (adâncime bruscă)"
+    },
+    "clarity": {
+      "en": "Deep blue",
+      "ro": "Ape albastre-închise"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Snorkeling enthusiasts",
+      "Photographers",
+      "Couples"
+    ],
+    "ro": [
+      "Iubitorii naturii",
+      "Pasionații de snorkeling",
+      "Fotografi",
+      "Cupluri"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Rock climbing",
+      "Photography"
+    ],
+    "ro": [
+      "Alpinism pe stânci",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.6,
+  "videos": [],
+  "description": {
+    "en": "Paralia Anemi is a small and secluded coastal spot located near Mola Kaliva on the eastern side of the Kassandra peninsula. Known for its exceptionally clear waters and rugged rocky scenery, it offers a more natural and untouched beach experience compared to the larger organized beaches nearby. The shoreline combines pebbles, rocky formations, and small sandy patches, while the varying seabed creates interesting underwater landscapes ideal for snorkeling and exploration. Surrounded by low cliffs and Mediterranean vegetation, the beach maintains a peaceful and intimate atmosphere that appeals to visitors looking for privacy, tranquility, and a connection with nature.",
+    "ro": "Paralia Anemi este o mică zonă de coastă retrasă, situată lângă Mola Kaliva, pe partea estică a peninsulei Kassandra. Cunoscută pentru apa extrem de limpede și peisajul stâncos sălbatic, oferă o experiență naturală și autentică, diferită de plajele mari și amenajate din apropiere. Linia țărmului combină pietriș, formațiuni stâncoase și mici porțiuni de nisip, iar fundul mării variat creează peisaje subacvatice interesante, ideale pentru snorkeling și explorare. Înconjurată de stânci joase și vegetație mediteraneană, plaja păstrează o atmosferă liniștită și intimă, potrivită pentru cei care caută discreție, relaxare și apropiere de natură."
+  },
+  "blueFlag": false
+}

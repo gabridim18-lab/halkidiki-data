@@ -718,5 +718,21 @@
     "rating": 3.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-anemi",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Anemi",
+      "ro": "Plaja Paralia Anemi"
+    },
+    "previewImage": "paralia-anemi.webp",
+    "coordinates": {
+      "lat": 39.969762012592916,
+      "lon": 23.46711365024887
+    },
+    "rating": 3.6,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
