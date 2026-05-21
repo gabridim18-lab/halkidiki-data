@@ -734,5 +734,21 @@
     "rating": 3.6,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "paralia-skioni",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Skioni",
+      "ro": "Plaja Skioni"
+    },
+    "previewImage": "paralia-skioni.webp",
+    "coordinates": {
+      "lat": 39.94915035219003,
+      "lon": 23.52288217774833
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

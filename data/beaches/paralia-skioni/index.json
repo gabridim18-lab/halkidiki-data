@@ -1,0 +1,135 @@
+{
+  "id": "paralia-skioni",
+  "slug": "paralia-skioni",
+  "name": {
+    "en": "Paralia Skioni",
+    "ro": "Plaja Skioni"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Traditional village beach",
+    "ro": "Plajă tradițională de sat"
+  },
+  "coordinates": {
+    "lat": 39.94915035219003,
+    "lon": 23.52288217774833
+  },
+  "editorChoice": false,
+  "length": 1500,
+  "images": [
+    "paralia-skioni.webp",
+    "paralia-skioni1.webp",
+    "paralia-skioni2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy promenade access",
+      "ro": "Acces facil pe faleză"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in summer",
+      "ro": "Moderată vara"
+    },
+    "noiseLevel": {
+      "en": "Relaxed village atmosphere",
+      "ro": "Atmosferă relaxată de sat"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Authentic and laid-back",
+      "ro": "Autentică și relaxată"
+    },
+    "waterEntry": {
+      "en": "Gentle mixed sand entry",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with some pebbles",
+    "ro": "Nisip auriu fin cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.6m (gentle slope)",
+      "ro": "0.4 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Ape turcoaz deschise"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Food drinks",
+      "Walking promenade"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Mâncare și băuturi",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Seafood lovers",
+      "Relaxed travelers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Iubitorii de fructe de mare",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Pedal boats"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Bărci cu pedale"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Paralia Skioni is a charming seaside beach located in a traditional fishing village on the southeastern coast of the Kassandra peninsula. Known for its authentic Greek atmosphere, it combines a relaxed beach setting with the character of a small harbor town. The beach stretches along the waterfront with a mix of soft sand and small pebbles, while the generally calm and clear waters make it comfortable for swimming and family visits. One of the most distinctive features of the area is its picturesque harbor, where fishing boats and small yachts create a peaceful coastal atmosphere. Traditional tavernas and cafés line the promenade, offering fresh seafood and local dishes just steps from the beach. With its laid-back pace and authentic village character, Paralia Skioni is ideal for visitors looking to combine beach relaxation with local Greek charm.",
+    "ro": "Paralia Skioni este o plajă fermecătoare situată într-un sat pescăresc tradițional de pe coasta sud-estică a peninsulei Kassandra. Cunoscută pentru atmosfera sa autentic grecească, îmbină relaxarea de pe plajă cu farmecul unui mic port pescăresc. Plaja se întinde de-a lungul falezei și combină nisipul fin cu pietricele mici, iar apa calmă și limpede este potrivită pentru înot și familii. Unul dintre cele mai atractive elemente ale zonei este portul pitoresc, unde bărcile de pescuit și iahturile mici creează o atmosferă liniștită și autentică. De-a lungul promenadei se află taverne tradiționale și cafenele care servesc pește proaspăt și preparate locale la doar câțiva pași de mare. Cu ritmul său relaxat și caracterul autentic de sat grecesc, Paralia Skioni este ideală pentru cei care doresc să combine relaxarea la plajă cu farmecul local."
+  },
+  "blueFlag": false
+}
