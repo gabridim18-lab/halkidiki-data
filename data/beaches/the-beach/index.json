@@ -1,0 +1,133 @@
+{
+  "id": "the-beach",
+  "slug": "the-beach",
+  "name": {
+    "en": "The Beach",
+    "ro": "The Beach"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Modern beach club",
+    "ro": "Beach club modern"
+  },
+  "coordinates": {
+    "lat": 39.94448307191987,
+    "lon": 23.535669970401017
+  },
+  "editorChoice": false,
+  "length": 300,
+  "images": [
+    "the-beach.webp",
+    "the-beach1.webp",
+    "the-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach club access",
+      "ro": "Acces facil către beach club"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Relaxed by day, lively at sunset",
+      "ro": "Relaxată ziua, animată la apus"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Stylish and social",
+      "ro": "Elegantă și socială"
+    },
+    "waterEntry": {
+      "en": "Rocky entry with deeper water",
+      "ro": "Intrare stâncoasă cu apă mai adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky sections",
+    "ro": "Majoritar pietriș cu zone stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.7 - 3.0m (steep drop)",
+      "ro": "0.7 - 3.0m (adâncime bruscă)"
+    },
+    "clarity": {
+      "en": "Deep blue, very clear",
+      "ro": "Ape albastre-închise, foarte limpezi"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Luxury escape",
+      "Hidden gem",
+      "Food drinks"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Experiență luxury",
+      "Loc ascuns special",
+      "Mâncare și băuturi"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Groups of friends",
+      "Luxury travelers",
+      "Sunset lovers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Grupuri de prieteni",
+      "Cei care caută experiențe premium",
+      "Iubitorii de apusuri"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Rock diving"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Sărituri de pe stânci"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.7,
+  "videos": [],
+  "description": {
+    "en": "The Beach is a stylish beach club located near Nea Skioni, on the southeastern coast of the Kassandra peninsula. Designed to provide a refined seaside atmosphere, it combines modern aesthetics with a relaxed Mediterranean vibe. The beach area features clear waters, lounge-style spaces, and a carefully organized environment that creates a more curated beach experience compared to traditional public beaches. During the daytime, the atmosphere remains calm and comfortable, while late afternoons and sunset hours become more vibrant with music and a social ambiance. With its attention to detail, elegant setting, and relaxed luxury feel, The Beach is especially appealing for couples and visitors looking for a more sophisticated beach day experience in southern Kassandra.",
+    "ro": "The Beach este un beach club elegant situat în apropiere de Nea Skioni, pe coasta sud-estică a peninsulei Kassandra. Conceput pentru a oferi o atmosferă rafinată la malul mării, combină estetica modernă cu un vibe mediteranean relaxat. Zona de plajă oferă apă limpede, spații de lounge și un cadru atent organizat, creând o experiență mai exclusivistă comparativ cu plajele publice tradiționale. Pe timpul zilei, atmosfera rămâne calmă și confortabilă, iar spre după-amiază și la apus devine mai animată, cu muzică și o energie socială plăcută. Prin atenția la detalii, decorul elegant și atmosfera premium relaxată, The Beach este potrivită în special pentru cupluri și vizitatori care caută o experiență mai sofisticată în sudul peninsulei Kassandra."
+  },
+  "blueFlag": false
+}

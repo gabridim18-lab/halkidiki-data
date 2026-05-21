@@ -766,5 +766,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "the-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "The Beach",
+      "ro": "The Beach"
+    },
+    "previewImage": "the-beach.webp",
+    "coordinates": {
+      "lat": 39.94448307191987,
+      "lon": 23.535669970401017
+    },
+    "rating": 3.7,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
