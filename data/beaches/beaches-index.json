@@ -478,5 +478,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "stavronikita-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Stavronikita Beach",
+      "ro": "Plaja Stavronikita"
+    },
+    "previewImage": "stavronikita-beach.webp",
+    "coordinates": {
+      "lat": 40.10661582268184,
+      "lon": 23.30962611808186
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

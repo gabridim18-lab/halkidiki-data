@@ -1,0 +1,133 @@
+{
+  "id": "stavronikita-beach",
+  "slug": "stavronikita-beach",
+  "name": {
+    "en": "Stavronikita Beach",
+    "ro": "Plaja Stavronikita"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Remote rocky cove",
+    "ro": "Golf retras și stâncos"
+  },
+  "coordinates": {
+    "lat": 40.10661582268184,
+    "lon": 23.30962611808186
+  },
+  "editorChoice": true,
+  "length": 300,
+  "images": [
+    "stavronikita-beach.webp",
+    "stavronikita-beach1.webp",
+    "stavronikita-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Remote coastal access",
+      "ro": "Acces retras pe coastă"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult without hiking or boat access",
+      "ro": "Dificil fără drumeție sau acces cu barca"
+    },
+    "noiseLevel": {
+      "en": "Extremely peaceful",
+      "ro": "Extrem de liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and spiritual atmosphere",
+      "ro": "Atmosferă sălbatică și spirituală"
+    },
+    "waterEntry": {
+      "en": "Rocky steep entry",
+      "ro": "Intrare abruptă și stâncoasă"
+    },
+    "waveLevel": {
+      "en": "Can become rough in afternoon winds",
+      "ro": "Poate deveni agitată după-amiaza"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky sections",
+    "ro": "Pietriș și zone stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.7 - 3.0m (steep drop)",
+      "ro": "0.7 - 3.0m (pantă abruptă)"
+    },
+    "clarity": {
+      "en": "Deep blue, very clear",
+      "ro": "Ape albastre și cristaline"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Snorkeling enthusiasts",
+      "Explorers",
+      "Quiet escapes"
+    ],
+    "ro": [
+      "Iubitori de natură",
+      "Pasionați de snorkeling",
+      "Exploratori",
+      "Escapade liniștite"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Rock diving"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Sărituri de pe stânci"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Stavronikita Beach is a remote and unspoiled coastal cove known for its crystal-clear deep-blue water and dramatic rocky surroundings. Hidden away from organized tourist areas, the beach offers a peaceful atmosphere ideal for snorkeling, exploration, and nature photography. The rocky seabed and exceptional underwater visibility make it especially attractive for confident swimmers and visitors looking for a more adventurous seaside experience. Surrounded by natural vegetation and isolated coastal scenery, Stavronikita Beach remains one of the quieter hidden spots in the region.",
+    "ro": "Plaja Stavronikita este un golf retras și sălbatic, apreciat pentru apa sa foarte limpede și peisajul spectaculos dominat de stânci. Ascunsă de zonele turistice organizate, plaja oferă o atmosferă liniștită, ideală pentru snorkeling, explorare și fotografie de natură. Fundul stâncos și vizibilitatea excelentă sub apă o fac atractivă pentru înotători experimentați și pentru cei care caută o experiență mai aventuroasă la mare. Înconjurată de vegetație naturală și peisaje izolate, Stavronikita rămâne una dintre cele mai liniștite și autentice plaje ascunse din zonă."
+  },
+  "blueFlag": false
+}
