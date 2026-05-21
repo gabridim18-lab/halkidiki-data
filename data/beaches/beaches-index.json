@@ -590,5 +590,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "agios-nikolaos-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Agios Nikolaos Beach",
+      "ro": "Plaja Agios Nikolaos"
+    },
+    "previewImage": "agios-nikolaos-beach.webp",
+    "coordinates": {
+      "lat": 40.02386691202914,
+      "lon": 23.36376484763046
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

@@ -1,0 +1,133 @@
+{
+  "id": "agios-nikolaos-beach",
+  "slug": "agios-nikolaos-beach",
+  "name": {
+    "en": "Agios Nikolaos Beach",
+    "ro": "Plaja Agios Nikolaos"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Quiet semi-organized beach",
+    "ro": "Plajă liniștită semi-organizată"
+  },
+  "coordinates": {
+    "lat": 40.02386691202914,
+    "lon": 23.36376484763046
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "agios-nikolaos-beach.webp",
+    "agios-nikolaos-beach1.webp",
+    "agios-nikolaos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușor"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și calmă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and authentic",
+      "ro": "Relaxată și autentică"
+    },
+    "waterEntry": {
+      "en": "Moderate sandy-pebble entry",
+      "ro": "Intrare moderată cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with small pebbles",
+    "ro": "Nisip grosier cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear blue",
+      "ro": "Ape albastre limpezi"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Relaxed swimming",
+      "Quiet beach days",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Înot relaxant",
+      "Zile liniștite la plajă",
+      "Iubitorii naturii"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-9 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Agios Nikolaos Beach is a peaceful coastal spot located near Siviri on the western side of Kassandra, offering a quieter alternative to the busier organized beaches nearby. The shoreline combines coarse sand with small pebbles, while the clear blue water and generally calm sea conditions make it suitable for relaxed swimming and laid-back beach days. Surrounded by greenery and light development, the beach preserves a more authentic and natural atmosphere. Some sections are semi-organized with basic facilities, while quieter areas remain more untouched, making the beach attractive for visitors seeking relaxation and privacy.",
+    "ro": "Plaja Agios Nikolaos este o zonă liniștită situată lângă Siviri, pe partea vestică a peninsulei Kassandra, oferind o alternativă mai calmă față de plajele organizate și aglomerate din apropiere. Țărmul combină nisipul grosier cu pietricele mici, iar apa limpede și condițiile liniștite ale mării sunt ideale pentru înot relaxant și zile petrecute fără agitație. Înconjurată de vegetație și dezvoltare turistică redusă, plaja păstrează o atmosferă naturală și autentică. Unele sectoare sunt semi-organizate și oferă facilități de bază, în timp ce alte zone rămân mai sălbatice și liniștite, perfecte pentru cei care caută relaxare și intimitate."
+  },
+  "blueFlag": false
+}
