@@ -382,5 +382,21 @@
     "rating": 3.9,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "dionisiou-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Dionisiou Beach",
+      "ro": "Plaja Dionisiou"
+    },
+    "previewImage": "dionisiou-beach.webp",
+    "coordinates": {
+      "lat": 40.24926258905766,
+      "lon": 23.24926793775414
+    },
+    "rating": 3.7,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

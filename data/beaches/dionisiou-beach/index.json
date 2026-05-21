@@ -1,0 +1,133 @@
+{
+  "id": "dionisiou-beach",
+  "slug": "dionisiou-beach",
+  "name": {
+    "en": "Dionisiou Beach",
+    "ro": "Plaja Dionisiou"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Natural pebble beach",
+    "ro": "Plajă naturală cu pietricele"
+  },
+  "coordinates": {
+    "lat": 40.24926258905766,
+    "lon": 23.24926793775414
+  },
+  "editorChoice": false,
+  "length": 350,
+  "images": [
+    "dionisiou-beach.webp",
+    "dionisiou-beach1.webp",
+    "dionisiou-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Compact rocky coastline",
+      "ro": "Litoral compact și stâncos"
+    },
+    "parkingDifficulty": {
+      "en": "Limited access nearby",
+      "ro": "Acces limitat pentru parcare"
+    },
+    "noiseLevel": {
+      "en": "Mostly peaceful",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and adventurous",
+      "ro": "Naturală și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Steep depth increase",
+      "ro": "Adâncire abruptă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with some sand patches",
+    "ro": "Majoritatea pietricele cu pete de nisip"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.6 - 2.5m (steep drop)",
+      "ro": "0.6 - 2.5m (coborâre abruptă)"
+    },
+    "clarity": {
+      "en": "Deep blue, very clear",
+      "ro": "Albastru închis, foarte limpede"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Explorers",
+      "Couples",
+      "Snorkeling lovers",
+      "Quiet beach escapes"
+    ],
+    "ro": [
+      "Exploratori",
+      "Cupluri",
+      "Iubitori de snorkeling",
+      "Escapade liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Rock diving",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Sărituri de pe stânci",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.7,
+  "videos": [],
+  "description": {
+    "en": "Dionisiou Beach is a quieter natural beach near Nea Moudania, appreciated for its crystal-clear deep blue water and relaxed coastal atmosphere. The shoreline combines pebbled sections with small sandy patches, while the steeper seabed creates good conditions for confident swimmers and snorkeling enthusiasts. Compared to large organized beaches nearby, Dionisiou offers a more peaceful and authentic seaside experience, with fewer crowds and a stronger connection to the natural coastline. The rocky surroundings and excellent visibility underwater also make the beach attractive for exploration and photography.",
+    "ro": "Plaja Dionisiou este o plajă naturală și mai liniștită din apropiere de Nea Moudania, apreciată pentru apa foarte limpede și atmosfera relaxată de litoral. Țărmul combină zone cu pietricele și mici porțiuni de nisip, iar adâncirea mai abruptă a apei oferă condiții bune pentru înotători experimentați și snorkeling. Comparativ cu plajele mari și organizate din apropiere, Dionisiou păstrează un caracter mai autentic și mai puțin aglomerat. Zonele stâncoase și vizibilitatea foarte bună sub apă transformă plaja într-un loc atractiv pentru explorare și fotografie."
+  },
+  "blueFlag": false
+}
