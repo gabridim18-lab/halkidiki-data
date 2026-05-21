@@ -510,5 +510,21 @@
     "rating": 4.4,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "simantro-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Simantro Beach",
+      "ro": "Plaja Simantro"
+    },
+    "previewImage": "simantro-beach.webp",
+    "coordinates": {
+      "lat": 40.07212276525692,
+      "lon": 23.334644146306683
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

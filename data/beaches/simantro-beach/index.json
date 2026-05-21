@@ -1,0 +1,133 @@
+{
+  "id": "simantro-beach",
+  "slug": "simantro-beach",
+  "name": {
+    "en": "Simantro Beach",
+    "ro": "Plaja Simantro"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Hidden natural beach",
+    "ro": "Plajă naturală retrasă"
+  },
+  "coordinates": {
+    "lat": 40.07212276525692,
+    "lon": 23.334644146306683
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "simantro-beach.webp",
+    "simantro-beach1.webp",
+    "simantro-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk through pine forest",
+      "ro": "Scurtă plimbare prin pădure de pini"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate on dirt road",
+      "ro": "Moderat pe drum neasfaltat"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and secluded",
+      "ro": "Naturală și retrasă"
+    },
+    "waterEntry": {
+      "en": "Moderate entry with pebbly sections",
+      "ro": "Intrare moderată cu zone de pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with shells",
+    "ro": "Nisip grosier cu scoici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear green-blue",
+      "ro": "Ape albastre-verzui limpezi"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Romantic escape"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Escapadă romantică"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Nature lovers",
+      "Snorkeling enthusiasts",
+      "Quiet beach seekers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Iubitori de natură",
+      "Pasionați de snorkeling",
+      "Cei care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-8 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Simantro Beach is a peaceful and semi-hidden beach in the Sani area of Kassandra, surrounded by pine forests and natural scenery. The beach is known for its calm atmosphere, coarse golden sand mixed with shells, and very clear green-blue water. Rocky sections along the coastline create excellent conditions for snorkeling and underwater photography, while the quiet setting makes the beach especially attractive for couples and visitors seeking relaxation away from crowded resorts. Natural shade from nearby pine trees and beautiful sunset colors complete the tranquil coastal experience.",
+    "ro": "Plaja Simantro este o plajă liniștită și semi-retrasă din zona Sani, în Kassandra, înconjurată de păduri de pini și peisaje naturale spectaculoase. Este apreciată pentru atmosfera calmă, nisipul grosier cu scoici și apa foarte limpede de culoare albastru-verzuie. Zonele stâncoase din apropierea țărmului oferă condiții excelente pentru snorkeling și fotografie subacvatică, iar liniștea locului o face ideală pentru cupluri și pentru cei care caută relaxare departe de aglomerație. Umbra naturală oferită de pini și apusurile frumoase completează experiența autentică de litoral."
+  },
+  "blueFlag": false
+}
