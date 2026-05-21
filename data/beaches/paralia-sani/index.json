@@ -1,0 +1,133 @@
+{
+  "id": "paralia-sani",
+  "slug": "paralia-sani",
+  "name": {
+    "en": "Paralia Sani",
+    "ro": "Plaja Paralia Sani"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Exclusive resort beach",
+    "ro": "Plajă exclusivistă de resort"
+  },
+  "coordinates": {
+    "lat": 40.09362336319459,
+    "lon": 23.310564045875477
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "paralia-sani.webp",
+    "paralia-sani1.webp",
+    "paralia-sani2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Elegant beachfront promenade",
+      "ro": "Promenadă elegantă pe litoral"
+    },
+    "parkingDifficulty": {
+      "en": "Easy with resort facilities",
+      "ro": "Acces facil prin resort"
+    },
+    "noiseLevel": {
+      "en": "Relaxed premium atmosphere",
+      "ro": "Atmosferă premium și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Exclusive and refined",
+      "ro": "Exclusivistă și rafinată"
+    },
+    "waterEntry": {
+      "en": "Gentle smooth entry",
+      "ro": "Intrare lină și confortabilă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden fine sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light blue",
+      "ro": "Ape albastre deschise"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Luxury escape",
+      "Family friendly",
+      "Food drinks",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Experiență luxury",
+      "Potrivită pentru familii",
+      "Mâncare și băuturi",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to October",
+    "ro": "Mai - Octombrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Luxury travelers",
+      "Families",
+      "Couples",
+      "Premium holidays"
+    ],
+    "ro": [
+      "Turiști premium",
+      "Familii",
+      "Cupluri",
+      "Vacanțe premium"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "10-18 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.4,
+  "videos": [],
+  "description": {
+    "en": "Paralia Sani is an elegant and highly organized beach within the famous Sani coastal area, known for its soft golden sand, calm shallow water, and refined resort atmosphere. The beach combines premium facilities with beautiful natural surroundings, offering comfortable sunbeds, upscale beach bars, fine dining options, and relaxing seaside walks. Calm sea conditions make it especially suitable for families and couples seeking a peaceful holiday experience, while the nearby marina, protected wetlands, and panoramic views across the gulf add a distinctive luxury character to the destination.",
+    "ro": "Paralia Sani este o plajă elegantă și foarte bine organizată din celebra zonă Sani, apreciată pentru nisipul fin, apa calmă și atmosfera rafinată de resort. Plaja combină facilități premium cu un cadru natural spectaculos, oferind șezlonguri confortabile, beach baruri elegante, restaurante de calitate și promenade relaxante pe litoral. Condițiile calme ale mării o fac ideală pentru familii și cupluri care caută o experiență liniștită și exclusivistă, iar marina din apropiere, zonele naturale protejate și priveliștile spre golf completează caracterul premium al destinației."
+  },
+  "blueFlag": false
+}

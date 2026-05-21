@@ -494,5 +494,21 @@
     "rating": 3.9,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "paralia-sani",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Sani",
+      "ro": "Plaja Paralia Sani"
+    },
+    "previewImage": "paralia-sani.webp",
+    "coordinates": {
+      "lat": 40.09362336319459,
+      "lon": 23.310564045875477
+    },
+    "rating": 4.4,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
