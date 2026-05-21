@@ -1,0 +1,135 @@
+{
+  "id": "ntouraki-beach",
+  "slug": "ntouraki-beach",
+  "name": {
+    "en": "Ntouraki Beach",
+    "ro": "Plaja Ntouraki"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Quiet natural beach",
+    "ro": "Plajă naturală liniștită"
+  },
+  "coordinates": {
+    "lat": 40.349592276166746,
+    "lon": 23.00677117674442
+  },
+  "editorChoice": false,
+  "length": 1200,
+  "images": [
+    "ntouraki-beach.webp",
+    "ntouraki-beach1.webp",
+    "ntouraki-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Wide natural coastline",
+      "ro": "Litoral natural și spațios"
+    },
+    "parkingDifficulty": {
+      "en": "Easy access with short dirt road",
+      "ro": "Acces ușor cu drum scurt neasfaltat"
+    },
+    "noiseLevel": {
+      "en": "Quiet and relaxed",
+      "ro": "Liniștită și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Authentic and peaceful",
+      "ro": "Autentică și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand",
+    "ro": "Nisip auriu grosier"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 1.8m (gentle slope)",
+      "ro": "0.5 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Turcoaz deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Explorers",
+      "Relaxation",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Exploratori",
+      "Relaxare",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach soccer",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Fotbal pe plajă",
+      "Caiac"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "10-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Ntouraki Beach is a peaceful coastal beach near Nea Irakleia, appreciated for its relaxed atmosphere and natural surroundings. The long shoreline combines coarse golden sand with shallow turquoise water, creating comfortable conditions for swimming and family beach days. Unlike more crowded tourist beaches, Ntouraki maintains a quieter and more authentic local character, while organized beach bars and sunbeds provide enough comfort for visitors spending the entire day by the sea. Its open coastline and calm setting also make it suitable for kayaking, beach games, and sunset walks.",
+    "ro": "Plaja Ntouraki este o plajă liniștită situată în apropiere de Nea Irakleia, apreciată pentru atmosfera relaxată și cadrul natural. Linia lungă a țărmului combină nisipul auriu cu apa turcoaz puțin adâncă, oferind condiții foarte bune pentru înot și zile relaxante la mare. Comparativ cu plajele turistice mai aglomerate, Ntouraki păstrează un caracter mai autentic și mai calm, iar beach barurile și șezlongurile oferă suficient confort pentru o zi completă pe litoral. Spațiul generos și atmosfera liniștită o fac potrivită și pentru caiac, jocuri pe plajă și plimbări la apus."
+  },
+  "blueFlag": false
+}
