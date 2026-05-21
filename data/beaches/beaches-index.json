@@ -670,5 +670,21 @@
     "rating": 4.2,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "possidi-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Possidi Beach",
+      "ro": "Plaja Possidi"
+    },
+    "previewImage": "possidi-beach.webp",
+    "coordinates": {
+      "lat": 39.95840203720511,
+      "lon": 23.36076463186979
+    },
+    "rating": 4.4,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

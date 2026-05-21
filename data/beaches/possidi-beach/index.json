@@ -1,0 +1,133 @@
+{
+  "id": "possidi-beach",
+  "slug": "possidi-beach",
+  "name": {
+    "en": "Possidi Beach",
+    "ro": "Plaja Possidi"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Natural sand spit beach",
+    "ro": "Plajă naturală tip limbă de nisip"
+  },
+  "coordinates": {
+    "lat": 39.95840203720511,
+    "lon": 23.36076463186979
+  },
+  "editorChoice": true,
+  "length": 2000,
+  "images": [
+    "possidi-beach.webp",
+    "possidi-beach1.webp",
+    "possidi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long sandbar walk",
+      "ro": "Plimbare lungă pe limba de nisip"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in summer",
+      "ro": "Moderată vara"
+    },
+    "noiseLevel": {
+      "en": "Mostly peaceful",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and iconic",
+      "ro": "Sălbatică și iconică"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Variable depending on wind",
+      "ro": "Variabil în funcție de vânt"
+    }
+  },
+  "sand": {
+    "en": "Golden sand with some seaweed",
+    "ro": "Nisip auriu cu alge marine"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (gentle slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Light green-blue",
+      "ro": "Ape verde-albăstrui"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath",
+      "Walking promenade"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Photographers",
+      "Families",
+      "Sunset seekers"
+    ],
+    "ro": [
+      "Iubitorii naturii",
+      "Fotografi",
+      "Familii",
+      "Iubitorii de apusuri"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach sports"
+    ],
+    "ro": [
+      "Înot",
+      "Sporturi pe plajă"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.4,
+  "videos": [],
+  "description": {
+    "en": "Possidi Beach, located at the southwestern tip of the Kassandra peninsula, is one of the most unique and visually striking coastal landscapes in Halkidiki. Famous for its long natural sand formation extending into the sea, the beach creates a rare and constantly changing shoreline environment. Fine golden sand, crystal-clear water, and wide open sea views give the area a wild yet relaxing atmosphere. Depending on where visitors stand along the sand strip, sea conditions may differ on each side, ranging from calm waters to windier areas with stronger waves. The beach remains largely natural and undeveloped, preserving its authentic coastal character and making it one of the most photogenic sunset locations in Kassandra.",
+    "ro": "Plaja Possidi, situată în extremitatea sud-vestică a peninsulei Kassandra, este una dintre cele mai spectaculoase și distinctive zone de coastă din Halkidiki. Renumită pentru limba naturală de nisip care înaintează în mare, plaja creează un peisaj rar și o linie a țărmului aflată într-o continuă schimbare. Nisipul fin auriu, apa extrem de limpede și priveliștile largi asupra mării oferă zonei o atmosferă sălbatică și relaxantă în același timp. În funcție de poziția pe limba de nisip, condițiile mării pot varia pe fiecare parte, de la ape calme până la zone mai expuse vântului și valurilor. Plaja a rămas în mare parte naturală și puțin amenajată, păstrându-și caracterul autentic și devenind unul dintre cele mai fotografiate locuri pentru apus din Kassandra."
+  },
+  "blueFlag": false
+}
