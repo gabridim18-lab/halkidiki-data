@@ -318,5 +318,21 @@
     "rating": 3.8,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "beach-mykoniatika",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Beach Mykoniatika",
+      "ro": "Plaja Mykoniatika"
+    },
+    "previewImage": "beach-mykoniatika.webp",
+    "coordinates": {
+      "lat": 40.30016434017383,
+      "lon": 23.092136085093507
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

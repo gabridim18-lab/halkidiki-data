@@ -1,0 +1,135 @@
+{
+  "id": "beach-mykoniatika",
+  "slug": "beach-mykoniatika",
+  "name": {
+    "en": "Beach Mykoniatika",
+    "ro": "Plaja Mykoniatika"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Semi-hidden coastal beach",
+    "ro": "Plajă semi-retrasă de coastă"
+  },
+  "coordinates": {
+    "lat": 40.30016434017383,
+    "lon": 23.092136085093507
+  },
+  "editorChoice": false,
+  "length": 400,
+  "images": [
+    "beach-mykoniatika.webp",
+    "beach-mykoniatika1.webp",
+    "beach-mykoniatika2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk from parking",
+      "ro": "Scurtă plimbare de la parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during summer",
+      "ro": "Moderat vara"
+    },
+    "noiseLevel": {
+      "en": "Mostly peaceful",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and semi-wild",
+      "ro": "Relaxată și semi-sălbatică"
+    },
+    "waterEntry": {
+      "en": "Moderate depth increase",
+      "ro": "Adâncire moderată"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse golden sand",
+    "ro": "Nisip auriu grosier"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear blue",
+      "ro": "Albastru limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Families",
+      "Relaxation",
+      "Quiet beach escapes"
+    ],
+    "ro": [
+      "Cupluri",
+      "Familii",
+      "Relaxare",
+      "Escapade liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Plajă",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "4-8 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Beach Mykoniatika is a semi-secluded coastal beach near Nea Moudania, appreciated for its clear blue water and relaxed atmosphere. The beach combines organized areas with quieter natural sections, allowing visitors to choose between comfort and a more peaceful seaside experience. Rocky formations near the shoreline improve underwater visibility and create pleasant spots for snorkeling and swimming close to the coast. Its calmer setting, combined with beautiful sunset views, makes Mykoniatika Beach attractive for couples, families, and visitors seeking a quieter alternative to crowded tourist beaches.",
+    "ro": "Plaja Mykoniatika este o plajă semi-retrasă din apropiere de Nea Moudania, apreciată pentru apa limpede și atmosfera relaxată. Zona combină sectoare amenajate cu porțiuni mai naturale și liniștite, oferind atât confort, cât și o experiență mai calmă de litoral. Formațiunile stâncoase din apropierea malului contribuie la claritatea apei și creează condiții plăcute pentru snorkeling și înot. Atmosfera liniștită și apusurile frumoase transformă plaja într-o alegere apreciată de cupluri, familii și cei care caută o alternativă mai puțin aglomerată."
+  },
+  "blueFlag": false
+}
