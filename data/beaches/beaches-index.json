@@ -606,5 +606,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "agios-nikolaos-fourka",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Agios Nikolaos Fourka",
+      "ro": "Agios Nikolaos Fourka"
+    },
+    "previewImage": "agios-nikolaos-fourka.webp",
+    "coordinates": {
+      "lat": 40.0195543875211,
+      "lon": 23.36962182816601
+    },
+    "rating": 3.7,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

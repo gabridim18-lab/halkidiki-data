@@ -1,0 +1,133 @@
+{
+  "id": "agios-nikolaos-fourka",
+  "slug": "agios-nikolaos-fourka",
+  "name": {
+    "en": "Agios Nikolaos Fourka",
+    "ro": "Agios Nikolaos Fourka"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Semi-organized scenic beach",
+    "ro": "Plajă pitorească semi-organizată"
+  },
+  "coordinates": {
+    "lat": 40.0195543875211,
+    "lon": 23.36962182816601
+  },
+  "editorChoice": false,
+  "length": 300,
+  "images": [
+    "agios-nikolaos-fourka.webp",
+    "agios-nikolaos-fourka1.webp",
+    "agios-nikolaos-fourka2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from Fourka",
+      "ro": "Acces ușor din Fourka"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in summer",
+      "ro": "Moderat vara"
+    },
+    "noiseLevel": {
+      "en": "Balanced and relaxed",
+      "ro": "Relaxată și echilibrată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed coastal atmosphere",
+      "ro": "Atmosferă relaxată de litoral"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky sections",
+    "ro": "Majoritar pietriș cu zone stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.7 - 3.0m (steep drop)",
+      "ro": "0.7 - 3.0m (adâncime bruscă)"
+    },
+    "clarity": {
+      "en": "Deep blue, very clear",
+      "ro": "Ape albastre-închise, foarte limpezi"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Relaxed beach days",
+      "Snorkeling lovers",
+      "Nature seekers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Zile relaxante la plajă",
+      "Pasionați de snorkeling",
+      "Iubitorii naturii"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Rock diving"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Sărituri de pe stânci"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.7,
+  "videos": [],
+  "description": {
+    "en": "Agios Nikolaos Fourka Beach is a pleasant coastal area located near the village of Fourka on the western side of the Kassandra peninsula. The beach combines natural scenery with a relaxed atmosphere, offering clear blue waters and quieter surroundings compared to some of the more crowded beaches nearby. Although parts of the shoreline are rocky and pebbly, the sea remains inviting for swimming and snorkeling, especially in the clearer sections close to the rocks. Some nearby areas offer basic organization and tavernas, while other sections remain peaceful and less developed, making it suitable for visitors looking for a calmer seaside experience with beautiful sunset views over the Toroneos Gulf.",
+    "ro": "Plaja Agios Nikolaos Fourka este o zonă de coastă plăcută situată lângă satul Fourka, pe partea vestică a peninsulei Kassandra. Plaja combină peisajul natural cu o atmosferă relaxată, oferind ape limpezi și un cadru mai liniștit comparativ cu alte plaje populare din apropiere. Deși anumite sectoare au pietriș și zone stâncoase, apa este foarte potrivită pentru înot și snorkeling, mai ales în porțiunile cu vizibilitate ridicată de lângă stânci. Unele zone din apropiere oferă facilități de bază și taverne, în timp ce alte sectoare rămân mai naturale și retrase, fiind ideale pentru cei care caută relaxare și apusuri frumoase peste Golful Toroneos."
+  },
+  "blueFlag": false
+}
