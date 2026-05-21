@@ -446,5 +446,21 @@
     "rating": 3.5,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "paralia-nea-potidea",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Nea Potidea",
+      "ro": "Plaja Paralia Nea Potidea"
+    },
+    "previewImage": "paralia-nea-potidea.webp",
+    "coordinates": {
+      "lat": 40.21854707030425,
+      "lon": 23.316546385702317
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

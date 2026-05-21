@@ -1,0 +1,135 @@
+{
+  "id": "paralia-nea-potidea",
+  "slug": "paralia-nea-potidea",
+  "name": {
+    "en": "Paralia Nea Potidea",
+    "ro": "Plaja Paralia Nea Potidea"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Large organized family beach",
+    "ro": "Plajă mare organizată pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.21854707030425,
+    "lon": 23.316546385702317
+  },
+  "editorChoice": true,
+  "length": 2500,
+  "images": [
+    "paralia-nea-potidea.webp",
+    "paralia-nea-potidea1.webp",
+    "paralia-nea-potidea2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long beachfront with canal views",
+      "ro": "Litoral lung cu vedere spre canal"
+    },
+    "parkingDifficulty": {
+      "en": "Busy during peak summer",
+      "ro": "Aglomerat în sezon"
+    },
+    "noiseLevel": {
+      "en": "Energetic and social",
+      "ro": "Animată și socială"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Modern beach atmosphere with historical surroundings",
+      "ro": "Atmosferă modernă cu decor istoric"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.6m (gentle slope)",
+      "ro": "0.4 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Ape turcoaz deschise"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Food drinks",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Mâncare și băuturi",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups",
+      "Summer holidays",
+      "Water sports lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri",
+      "Vacanțe de vară",
+      "Iubitori de sporturi acvatice"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Jet skiing"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Jet ski"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR (premium spots)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Paralia Nea Potidea is one of the most popular beaches at the entrance of the Kassandra peninsula, combining a long sandy shoreline with organized beach facilities and a lively summer atmosphere. The shallow turquoise water and soft golden sand make it highly suitable for families, while beach clubs, tavernas, and water sports create an energetic coastal environment throughout the season. Located near the historic Potidea canal and Byzantine walls, the beach offers a distinctive blend of seaside relaxation, local history, and modern holiday comfort.",
+    "ro": "Paralia Nea Potidea este una dintre cele mai populare plaje de la intrarea în peninsula Kassandra, combinând un litoral lung și nisipos cu facilități moderne și o atmosferă animată de vară. Apa turcoaz puțin adâncă și nisipul fin o fac ideală pentru familii, iar beach cluburile, tavernele și activitățile acvatice creează o experiență de vacanță energică și confortabilă. Situată lângă canalul istoric Potidea și zidurile bizantine, plaja oferă un amestec aparte între relaxare la mare, istorie locală și confort modern."
+  },
+  "blueFlag": false
+}
