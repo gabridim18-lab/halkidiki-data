@@ -782,5 +782,21 @@
     "rating": 3.7,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "paralia-agias-paraskevis",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Agias Paraskevis",
+      "ro": "Plaja Agias Paraskevis"
+    },
+    "previewImage": "paralia-agias-paraskevis.webp",
+    "coordinates": {
+      "lat": 39.93249130878378,
+      "lon": 23.578429368311674
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

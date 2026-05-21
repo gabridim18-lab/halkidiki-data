@@ -1,0 +1,133 @@
+{
+  "id": "paralia-agias-paraskevis",
+  "slug": "paralia-agias-paraskevis",
+  "name": {
+    "en": "Paralia Agias Paraskevis",
+    "ro": "Plaja Agias Paraskevis"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Semi-organized wellness beach",
+    "ro": "Plajă semi-amenajată cu atmosferă wellness"
+  },
+  "coordinates": {
+    "lat": 39.93249130878378,
+    "lon": 23.578429368311674
+  },
+  "editorChoice": false,
+  "length": 1200,
+  "images": [
+    "paralia-agias-paraskevis.webp",
+    "paralia-agias-paraskevis1.webp",
+    "paralia-agias-paraskevis2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy coastal access",
+      "ro": "Acces facil către coastă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy to moderate",
+      "ro": "Ușoară spre moderată"
+    },
+    "noiseLevel": {
+      "en": "Mostly peaceful",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and wellness-oriented",
+      "ro": "Relaxată și orientată spre wellness"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu moale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.5m (very gradual)",
+      "ro": "0.3 - 1.5m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Ape cristaline"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Relax sunbath",
+      "Family friendly",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Wellness travelers",
+      "Relaxation seekers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei interesați de wellness",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Paralia Agias Paraskevis is a pleasant coastal area located near the village of Agia Paraskevi, on the southern side of the Kassandra peninsula. Known for its clear waters and relaxed atmosphere, it offers a balanced beach experience that combines natural beauty with accessible comfort. The beach features soft sand and generally calm, clean waters with a very gentle entry into the sea, making it suitable for families and relaxed swimming. Some sections are organized with sunbeds and umbrellas, while quieter areas preserve a more peaceful and natural environment. The surrounding coastal scenery and low vegetation contribute to the calm atmosphere, while the nearby Loutra thermal spa facilities make the area especially attractive for visitors interested in combining beach time with wellness and relaxation experiences.",
+    "ro": "Plaja Agias Paraskevis este o zonă de coastă plăcută situată în apropierea localității Agia Paraskevi, în partea sudică a peninsulei Kassandra. Cunoscută pentru apa limpede și atmosfera relaxată, oferă o experiență echilibrată care combină frumusețea naturală cu confortul accesibil. Plaja are nisip moale și ape, în general, calme și curate, cu o intrare foarte lină în mare, ceea ce o face potrivită pentru familii și înot relaxat. Unele sectoare sunt amenajate cu șezlonguri și umbrele, în timp ce alte zone păstrează un caracter mai liniștit și natural. Peisajul de coastă și vegetația joasă contribuie la atmosfera calmă, iar apropierea de zona termală Loutra face plaja atractivă pentru cei care doresc să combine timpul petrecut la mare cu experiențe de wellness și relaxare."
+  },
+  "blueFlag": false
+}
