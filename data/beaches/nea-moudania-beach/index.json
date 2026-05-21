@@ -1,0 +1,133 @@
+{
+  "id": "nea-moudania-beach",
+  "slug": "nea-moudania-beach",
+  "name": {
+    "en": "Nea Moudania Beach",
+    "ro": "Plaja Nea Moudania"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Urban family beach",
+    "ro": "Plajă urbană pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.246221729431426,
+    "lon": 23.260838819473385
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "nea-moudania-beach.webp",
+    "nea-moudania-beach1.webp",
+    "nea-moudania-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long seaside promenade",
+      "ro": "Promenadă lungă pe faleză"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during summer",
+      "ro": "Moderat vara"
+    },
+    "noiseLevel": {
+      "en": "Lively urban atmosphere",
+      "ro": "Atmosferă urbană animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and social",
+      "ro": "Confortabilă și socială"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Dark golden sand",
+    "ro": "Nisip auriu închis"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.6m (gentle slope)",
+      "ro": "0.4 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light green-blue",
+      "ro": "Verde-albastru deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Food drinks",
+      "Hidden gem",
+      "Walking promenade"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Mâncare și băuturi",
+      "Loc ascuns special",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "City beach days",
+      "Evening walks"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Zile urbane la plajă",
+      "Plimbări de seară"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-9 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Nea Moudania Beach is a lively urban beach along the Thermaic Gulf, appreciated for its spacious sandy shoreline and easy access from the town center. The shallow water and calm sea conditions make it especially suitable for families and relaxed swimming, while the promenade lined with cafés, tavernas, and seasonal beach bars creates a social summer atmosphere throughout the day. Organized beach sections offer comfort and convenience, while sunset walks along the waterfront are among the most enjoyable experiences in the area.",
+    "ro": "Plaja Nea Moudania este o plajă urbană animată de pe Golful Thermaic, apreciată pentru țărmul său lung și accesul facil din centrul orașului. Apa puțin adâncă și condițiile calme o fac foarte potrivită pentru familii și înot relaxat, iar promenada cu cafenele, taverne și beach baruri sezoniere creează o atmosferă socială plăcută pe tot parcursul zilei. Zonele amenajate oferă confort și accesibilitate, iar plimbările la apus pe faleză reprezintă una dintre cele mai frumoase experiențe din zonă."
+  },
+  "blueFlag": false
+}

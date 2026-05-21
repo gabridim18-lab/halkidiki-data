@@ -398,5 +398,21 @@
     "rating": 3.7,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "nea-moudania-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Nea Moudania Beach",
+      "ro": "Plaja Nea Moudania"
+    },
+    "previewImage": "nea-moudania-beach.webp",
+    "coordinates": {
+      "lat": 40.246221729431426,
+      "lon": 23.260838819473385
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
