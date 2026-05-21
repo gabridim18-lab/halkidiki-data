@@ -1,0 +1,133 @@
+{
+  "id": "skala-fourkas-beach",
+  "slug": "skala-fourkas-beach",
+  "name": {
+    "en": "Skala Fourkas Beach",
+    "ro": "Plaja Skala Fourkas"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized family beach",
+    "ro": "Plajă organizată pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.002869220260564,
+    "lon": 23.38185265606482
+  },
+  "editorChoice": false,
+  "length": 500,
+  "images": [
+    "skala-fourkas-beach.webp",
+    "skala-fourkas-beach1.webp",
+    "skala-fourkas-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from village",
+      "ro": "Acces ușor din localitate"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during summer",
+      "ro": "Moderată vara"
+    },
+    "noiseLevel": {
+      "en": "Lively but relaxed",
+      "ro": "Animată dar relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Family-friendly and organized",
+      "ro": "Prietenos pentru familii și organizat"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and small pebbles",
+    "ro": "Amestec de nisip și pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 1.8m (gentle slope)",
+      "ro": "0.5 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light blue",
+      "ro": "Ape albastre deschise"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Food drinks",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Mâncare și băuturi",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxed beach days",
+      "Sunset lovers",
+      "Long stays"
+    ],
+    "ro": [
+      "Familii",
+      "Zile relaxante la plajă",
+      "Iubitorii de apusuri",
+      "Sejururi lungi"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "4-8 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Skala Fourkas Beach is a popular family-friendly beach located in the coastal settlement of Fourka on the western side of the Kassandra peninsula. The beach combines soft sand, calm shallow waters, and a relaxed atmosphere, making it especially suitable for families and visitors seeking a comfortable beach experience. Organized sections with sunbeds, tavernas, and beach bars line parts of the shore, while the promenade creates a lively yet easygoing summer atmosphere. Thanks to its western orientation, the beach is also known for its beautiful sunsets over the Toroneos Gulf, making evening walks along the waterfront particularly enjoyable.",
+    "ro": "Plaja Skala Fourkas este o plajă populară și potrivită pentru familii, situată în localitatea Fourka, pe partea vestică a peninsulei Kassandra. Plaja combină nisipul fin, apa calmă și puțin adâncă și o atmosferă relaxată, fiind ideală pentru familii și pentru cei care caută confort la mare. Zonele amenajate cu șezlonguri, taverne și beach baruri se întind de-a lungul falezei, iar promenada oferă o atmosferă animată, dar relaxantă. Datorită orientării spre vest, plaja este renumită și pentru apusurile spectaculoase peste Golful Toroneos, fiind perfectă pentru plimbări de seară."
+  },
+  "blueFlag": false
+}

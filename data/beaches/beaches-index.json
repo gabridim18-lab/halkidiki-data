@@ -622,5 +622,21 @@
     "rating": 3.7,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "skala-fourkas-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Skala Fourkas Beach",
+      "ro": "Plaja Skala Fourkas"
+    },
+    "previewImage": "skala-fourkas-beach.webp",
+    "coordinates": {
+      "lat": 40.002869220260564,
+      "lon": 23.38185265606482
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
