@@ -1,0 +1,135 @@
+{
+  "id": "paralia-iraklia",
+  "slug": "paralia-iraklia",
+  "name": {
+    "en": "Paralia Iraklia",
+    "ro": "Plaja Paralia Iraklia"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Long family beach",
+    "ro": "Plajă lungă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.34534260332691,
+    "lon": 23.01342465792879
+  },
+  "editorChoice": false,
+  "length": 1500,
+  "images": [
+    "paralia-iraklia.webp",
+    "paralia-iraklia1.webp",
+    "paralia-iraklia2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Wide sandy coastline",
+      "ro": "Litoral larg cu nisip"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușor"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Destul de animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and spacious",
+      "ro": "Relaxată și spațioasă"
+    },
+    "waterEntry": {
+      "en": "Gentle shallow entry",
+      "ro": "Intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft sand with occasional seaweed",
+    "ro": "Nisip moale cu alge ocazionale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light blue-green",
+      "ro": "Albastru-verde deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Extended beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Zile lungi la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach games",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Jocuri pe plajă",
+      "Caiac"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Paralia Iraklia is a long sandy beach near Nea Iraklia, appreciated for its shallow clear water and spacious coastline. The calm sea conditions and gently sloping seabed make it especially suitable for families with children and visitors looking for relaxed swimming. Organized beach sections with sunbeds and tavernas are combined with quieter free areas, creating a balanced atmosphere between comfort and natural seaside relaxation. Its wide shoreline also makes it pleasant for beach walks, casual games, and peaceful sunset moments.",
+    "ro": "Paralia Iraklia este o plajă lungă și nisipoasă din apropierea localității Nea Iraklia, apreciată pentru apa limpede și intrarea lină în mare. Condițiile calme o fac foarte potrivită pentru familii cu copii și pentru înot relaxat. Zonele amenajate cu șezlonguri și taverne se îmbină cu spațiile mai liniștite și libere, oferind un echilibru între confort și atmosfera naturală de litoral. Linia largă a plajei este ideală pentru plimbări, jocuri pe plajă și seri relaxante la apus."
+  },
+  "blueFlag": false
+}

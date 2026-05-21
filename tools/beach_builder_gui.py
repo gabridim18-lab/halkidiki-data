@@ -293,6 +293,72 @@ def build_beach():
 
             slug = beach["slug"]
 
+            # -----------------------------
+            # BLUE FLAG
+            # -----------------------------
+
+            BLUE_FLAG_BEACHES = {
+
+                "possidi",
+                "fourka",
+                "skala-fourkas",
+                "siviri",
+                "elani",
+                "sani",
+                "hanioti",
+                "pefkochori",
+                "polychrono",
+                "kallithea",
+                "kriopigi",
+                "afitos",
+                "nea-fokea",
+                "paliouri",
+                "chrouso",
+                "glarokavos",
+                "kanistro",
+                "loutra-agias-paraskevis",
+                "mola-kalyva",
+
+                "sarti",
+                "toroni",
+                "porto-koufo",
+                "kalamitsi",
+                "armenistis",
+                "nikiti",
+                "elia",
+                "lagomandra",
+                "marmaras",
+                "livrohio",
+                "trani-ammouda",
+
+                "ierissos",
+                "ouranoupoli",
+                "nea-roda",
+                "olympiada",
+                "stratoni",
+
+                "nea-potidea",
+                "nea-moudania",
+                "dionysiou",
+                "flogita",
+                "sozopoli",
+                "nea-iraklia",
+                "nea-kallikratia",
+                "gerakini",
+                "psakoudia",
+                "metamorfosi",
+
+                "perea-beach",
+                "agia-triada",
+                "epanomi-potamos",
+                "angelochori",
+                "nea-michaniona-beach"
+            }
+
+            beach["blueFlag"] = (
+                slug in BLUE_FLAG_BEACHES
+            )
+
             beach_folder = OUTPUT_BEACHES / slug
             images_folder = beach_folder / "images"
 

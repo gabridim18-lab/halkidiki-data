@@ -286,5 +286,21 @@
     "rating": 4.2,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-iraklia",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Paralia Iraklia",
+      "ro": "Plaja Paralia Iraklia"
+    },
+    "previewImage": "paralia-iraklia.webp",
+    "coordinates": {
+      "lat": 40.34534260332691,
+      "lon": 23.01342465792879
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
