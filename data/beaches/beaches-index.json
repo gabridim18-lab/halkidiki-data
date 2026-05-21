@@ -702,5 +702,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "mola-kaliva-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Mola Kaliva Beach",
+      "ro": "Plaja Mola Kaliva"
+    },
+    "previewImage": "mola-kaliva-beach.webp",
+    "coordinates": {
+      "lat": 39.97092136167732,
+      "lon": 23.453981554874847
+    },
+    "rating": 3.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

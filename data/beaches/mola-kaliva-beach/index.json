@@ -1,0 +1,133 @@
+{
+  "id": "mola-kaliva-beach",
+  "slug": "mola-kaliva-beach",
+  "name": {
+    "en": "Mola Kaliva Beach",
+    "ro": "Plaja Mola Kaliva"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Quiet natural beach",
+    "ro": "Plajă naturală liniștită"
+  },
+  "coordinates": {
+    "lat": 39.97092136167732,
+    "lon": 23.453981554874847
+  },
+  "editorChoice": false,
+  "length": 400,
+  "images": [
+    "mola-kaliva-beach.webp",
+    "mola-kaliva-beach1.webp",
+    "mola-kaliva-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy roadside access",
+      "ro": "Acces ușor de la drum"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și calmă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and relaxing",
+      "ro": "Naturală și relaxantă"
+    },
+    "waterEntry": {
+      "en": "Moderate sandy-pebble entry",
+      "ro": "Intrare moderată cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with shells",
+    "ro": "Nisip grosier cu scoici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear green-blue",
+      "ro": "Ape verde-albastre limpezi"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Nature lovers",
+      "Relaxed travelers",
+      "Snorkeling enthusiasts"
+    ],
+    "ro": [
+      "Cupluri",
+      "Iubitorii naturii",
+      "Călători relaxați",
+      "Pasionații de snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.5,
+  "videos": [],
+  "description": {
+    "en": "Mola Kaliva Beach is a quiet and scenic coastal area located on the eastern side of the Kassandra peninsula. Known for its natural surroundings and relaxed atmosphere, it offers a peaceful alternative to the busier beaches found elsewhere in Halkidiki. The beach combines coarse sand, shells, and small pebbles with generally clear waters suitable for swimming and light snorkeling. Pine trees near the shoreline provide natural shade and contribute to the beach’s calm and refreshing environment during hot summer days. Although some nearby areas may offer limited seasonal facilities, most of the coastline remains natural and uncrowded, making it ideal for visitors seeking tranquility and a more authentic seaside experience.",
+    "ro": "Plaja Mola Kaliva este o zonă de coastă liniștită și pitorească situată pe partea estică a peninsulei Kassandra. Cunoscută pentru cadrul natural și atmosfera relaxată, oferă o alternativă calmă față de plajele mai aglomerate din Halkidiki. Plaja combină nisipul grosier, scoicile și pietricelele mici cu ape în general limpezi, potrivite pentru înot și snorkeling ușor. Pinii aflați aproape de țărm oferă umbră naturală și contribuie la atmosfera răcoroasă și relaxantă în zilele călduroase de vară. Deși unele zone apropiate pot avea facilități sezoniere limitate, mare parte din coastă rămâne naturală și puțin aglomerată, fiind ideală pentru cei care caută liniște și o experiență autentică la malul mării."
+  },
+  "blueFlag": false
+}
