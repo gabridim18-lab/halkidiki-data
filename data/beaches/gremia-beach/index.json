@@ -1,0 +1,135 @@
+{
+  "id": "gremia-beach",
+  "slug": "gremia-beach",
+  "name": {
+    "en": "Gremia Beach",
+    "ro": "Plaja Gremia"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Hidden natural beach",
+    "ro": "Plajă naturală ascunsă"
+  },
+  "coordinates": {
+    "lat": 40.230688230523924,
+    "lon": 23.30424857222192
+  },
+  "editorChoice": true,
+  "length": 600,
+  "images": [
+    "gremia-beach.webp",
+    "gremia-beach1.webp",
+    "gremia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Natural coastline with rocky areas",
+      "ro": "Litoral natural cu zone stâncoase"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby access",
+      "ro": "Acces limitat pentru parcare"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and untouched",
+      "ro": "Sălbatică și neamenajată"
+    },
+    "waterEntry": {
+      "en": "Steep rocky entry",
+      "ro": "Intrare abruptă și stâncoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky sections",
+    "ro": "Majoritatea pietricele cu zone stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 3.0m (steep drop)",
+      "ro": "0.8 - 3.0m (coborâre abruptă)"
+    },
+    "clarity": {
+      "en": "Deep blue",
+      "ro": "Albastru închis"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Explorers",
+      "Photographers",
+      "Quiet escapes"
+    ],
+    "ro": [
+      "Iubitori de natură",
+      "Exploratori",
+      "Fotografi",
+      "Escapade liniștite"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Fishing",
+      "Rock collecting",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Pescuit",
+      "Colectat pietre",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.5,
+  "videos": [],
+  "description": {
+    "en": "Gremia Beach is a hidden and largely untouched coastal spot near Nea Moudania, appreciated for its peaceful atmosphere and natural scenery. The beach combines pebbled and rocky sections with exceptionally clear deep-blue water, creating excellent conditions for snorkeling, coastal exploration, and photography. Unlike organized tourist beaches, Gremia remains quiet and minimally developed, surrounded by dunes, vegetation, and open natural space. Its secluded atmosphere and panoramic views across the Thermaic Gulf make it especially attractive for visitors searching for a more authentic and tranquil seaside experience.",
+    "ro": "Plaja Gremia este un loc retras și aproape neamenajat din apropiere de Nea Moudania, apreciat pentru atmosfera liniștită și peisajul natural. Plaja combină zone cu pietricele și stânci cu ape foarte clare, de un albastru intens, oferind condiții excelente pentru snorkeling, explorare și fotografie. Spre deosebire de plajele turistice organizate, Gremia a rămas sălbatică și puțin dezvoltată, fiind înconjurată de dune, vegetație și spații naturale deschise. Atmosfera retrasă și priveliștile largi peste Golful Thermaic o transformă într-o alegere excelentă pentru cei care caută o experiență autentică și liniștită la mare."
+  },
+  "blueFlag": false
+}

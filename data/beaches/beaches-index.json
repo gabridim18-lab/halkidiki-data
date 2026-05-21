@@ -430,5 +430,21 @@
     "rating": 3.8,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "gremia-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Gremia Beach",
+      "ro": "Plaja Gremia"
+    },
+    "previewImage": "gremia-beach.webp",
+    "coordinates": {
+      "lat": 40.230688230523924,
+      "lon": 23.30424857222192
+    },
+    "rating": 3.5,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
