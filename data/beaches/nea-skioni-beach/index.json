@@ -1,0 +1,133 @@
+{
+  "id": "nea-skioni-beach",
+  "slug": "nea-skioni-beach",
+  "name": {
+    "en": "Nea Skioni Beach",
+    "ro": "Plaja Nea Skioni"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized village beach",
+    "ro": "Plajă de sat amenajată"
+  },
+  "coordinates": {
+    "lat": 39.94548799698858,
+    "lon": 23.528923725796407
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "nea-skioni-beach.webp",
+    "nea-skioni-beach1.webp",
+    "nea-skioni-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Village promenade access",
+      "ro": "Acces direct din promenadă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy to moderate",
+      "ro": "Ușoară spre moderată"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and social",
+      "ro": "Relaxată și animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and authentic",
+      "ro": "Confortabilă și autentică"
+    },
+    "waterEntry": {
+      "en": "Moderate mixed sand entry",
+      "ro": "Intrare moderată cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with small pebbles",
+    "ro": "Nisip grosier cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear blue",
+      "ro": "Ape albastre limpezi"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Food drinks",
+      "Walking promenade"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Mâncare și băuturi",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Village explorers",
+      "Relaxed travelers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care explorează sate tradiționale",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-9 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Nea Skioni Beach is a long and inviting stretch of coastline located along the seaside village of Nea Skioni, on the southeastern side of the Kassandra peninsula. Combining natural beauty with a well-organized beachfront, it offers a comfortable and enjoyable beach experience. The beach features a mix of sand and small pebbles, with generally clear and calm waters suitable for swimming. Extending along the village waterfront, the beach provides easy access to tavernas, cafés, and small shops, creating a lively yet relaxed atmosphere throughout the summer season. Organized sections with sunbeds and umbrellas are balanced by quieter areas that preserve a calmer seaside feel. With its authentic village charm, convenient facilities, and peaceful setting, Nea Skioni Beach is ideal for visitors who want to combine beach relaxation with the atmosphere of a traditional Greek coastal village.",
+    "ro": "Plaja Nea Skioni este o porțiune lungă și plăcută de coastă situată de-a lungul satului Nea Skioni, pe partea sud-estică a peninsulei Kassandra. Combinând frumusețea naturală cu un nivel bun de organizare, oferă o experiență confortabilă și relaxantă la mare. Plaja are o combinație de nisip și pietricele mici, iar apa este, în general, limpede și calmă, potrivită pentru înot. Întinzându-se de-a lungul falezei satului, plaja oferă acces rapid la taverne, cafenele și mici magazine, creând o atmosferă plăcută și relaxată pe tot parcursul sezonului de vară. Zonele amenajate cu șezlonguri și umbrele sunt echilibrate de porțiuni mai liniștite care păstrează caracterul calm al litoralului. Cu farmecul său autentic de sat grecesc, facilitățile convenabile și atmosfera relaxată, Plaja Nea Skioni este ideală pentru cei care doresc să combine timpul petrecut la mare cu viața unui sat tradițional de coastă."
+  },
+  "blueFlag": false
+}

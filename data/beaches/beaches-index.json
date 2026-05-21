@@ -750,5 +750,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "nea-skioni-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Nea Skioni Beach",
+      "ro": "Plaja Nea Skioni"
+    },
+    "previewImage": "nea-skioni-beach.webp",
+    "coordinates": {
+      "lat": 39.94548799698858,
+      "lon": 23.528923725796407
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
