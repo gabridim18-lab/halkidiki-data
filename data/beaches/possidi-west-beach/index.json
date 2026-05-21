@@ -1,0 +1,133 @@
+{
+  "id": "possidi-west-beach",
+  "slug": "possidi-west-beach",
+  "name": {
+    "en": "Possidi West Beach",
+    "ro": "Plaja Possidi West"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Natural scenic beach",
+    "ro": "Plajă naturală și pitorească"
+  },
+  "coordinates": {
+    "lat": 39.97264441732725,
+    "lon": 23.368736162294738
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "possidi-west-beach.webp",
+    "possidi-west-beach1.webp",
+    "possidi-west-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Open coastal access",
+      "ro": "Acces liber la coastă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușor"
+    },
+    "noiseLevel": {
+      "en": "Peaceful and spacious",
+      "ro": "Liniștită și spațioasă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and relaxing",
+      "ro": "Sălbatică și relaxantă"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Can become wavy on windy days",
+      "ro": "Poate avea valuri în zilele cu vânt"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand",
+    "ro": "Nisip alb fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise",
+      "ro": "Ape turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem",
+      "Walking promenade"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Nature lovers",
+      "Sunset lovers",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Iubitorii naturii",
+      "Iubitorii de apusuri",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.2,
+  "videos": [],
+  "description": {
+    "en": "Possidi West Beach is a scenic and spacious coastal area located on the western side of the Kassandra peninsula near Possidi. The beach is known for its natural beauty, wide sandy shoreline, and relaxed atmosphere, offering a quieter alternative to more developed beaches in the region. Crystal-clear turquoise water and a gently sloping seabed make it suitable for swimming and family beach days, while the surrounding dunes and sparse vegetation preserve its wild coastal character. Due to its west-facing orientation, Possidi West Beach is also considered one of the best sunset locations in Kassandra, especially during the late afternoon and evening hours.",
+    "ro": "Plaja Possidi West este o zonă de coastă spectaculoasă și spațioasă situată pe partea vestică a peninsulei Kassandra, aproape de Possidi. Plaja este apreciată pentru frumusețea naturală, țărmul larg cu nisip fin și atmosfera relaxată, oferind o alternativă mai liniștită față de plajele mai dezvoltate din regiune. Apa turcoaz foarte limpede și intrarea lină în mare o fac potrivită pentru înot și pentru familii, iar dunele și vegetația rară păstrează caracterul sălbatic al zonei. Datorită orientării spre vest, Possidi West Beach este considerată și unul dintre cele mai bune locuri pentru apusuri din Kassandra, mai ales în a doua parte a zilei."
+  },
+  "blueFlag": false
+}

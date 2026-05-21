@@ -654,5 +654,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "possidi-west-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Possidi West Beach",
+      "ro": "Plaja Possidi West"
+    },
+    "previewImage": "possidi-west-beach.webp",
+    "coordinates": {
+      "lat": 39.97264441732725,
+      "lon": 23.368736162294738
+    },
+    "rating": 4.2,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
