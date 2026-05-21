@@ -1,0 +1,133 @@
+{
+  "id": "chelona-beach",
+  "slug": "chelona-beach",
+  "name": {
+    "en": "Chelona Beach",
+    "ro": "Plaja Chelona"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Hidden rocky cove",
+    "ro": "Golf retras și stâncos"
+  },
+  "coordinates": {
+    "lat": 40.06523729857556,
+    "lon": 23.34074000396641
+  },
+  "editorChoice": true,
+  "length": 350,
+  "images": [
+    "chelona-beach.webp",
+    "chelona-beach1.webp",
+    "chelona-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short access trail",
+      "ro": "Scurt traseu de acces"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Romantic and untouched",
+      "ro": "Romantică și sălbatică"
+    },
+    "waterEntry": {
+      "en": "Pebbly entry with sudden depth",
+      "ro": "Intrare cu pietriș și adâncime rapidă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky outcrops",
+    "ro": "Majoritar pietriș cu zone stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 3.5m (sudden drop)",
+      "ro": "0.8 - 3.5m (adâncime bruscă)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Ape cristaline"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Romantic escape",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Escapadă romantică",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Nature lovers",
+      "Snorkeling enthusiasts",
+      "Quiet escapes"
+    ],
+    "ro": [
+      "Cupluri",
+      "Iubitori de natură",
+      "Pasionați de snorkeling",
+      "Escapade liniștite"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Rock climbing",
+      "Photography"
+    ],
+    "ro": [
+      "Alpinism pe stânci",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.5,
+  "videos": [],
+  "description": {
+    "en": "Chelona Beach, often called “Turtle Beach,” is a secluded natural cove known for its crystal-clear water, rocky scenery, and peaceful atmosphere. Surrounded by untouched coastal landscape, the beach combines pebbly sections with small sandy areas and impressive turquoise water. Rocky formations along the shore create excellent conditions for snorkeling and underwater photography, while the quiet setting makes it especially attractive for couples and visitors seeking privacy away from organized beaches. The remote location and limited facilities preserve its authentic, wild character.",
+    "ro": "Plaja Chelona, cunoscută și sub numele de „Turtle Beach”, este un golf retras și natural, apreciat pentru apa cristalină, peisajele stâncoase și atmosfera liniștită. Înconjurată de un cadru sălbatic și nealterat, plaja combină zone cu pietriș și mici porțiuni nisipoase cu ape turcoaz spectaculoase. Formațiunile stâncoase de pe coastă creează condiții excelente pentru snorkeling și fotografie subacvatică, iar liniștea locului o face ideală pentru cupluri și pentru cei care caută intimitate departe de plajele organizate. Poziția izolată și facilitățile limitate păstrează caracterul autentic și natural al plajei."
+  },
+  "blueFlag": false
+}

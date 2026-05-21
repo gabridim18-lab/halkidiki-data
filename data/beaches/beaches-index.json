@@ -542,5 +542,21 @@
     "rating": 3.6,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "chelona-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Chelona Beach",
+      "ro": "Plaja Chelona"
+    },
+    "previewImage": "chelona-beach.webp",
+    "coordinates": {
+      "lat": 40.06523729857556,
+      "lon": 23.34074000396641
+    },
+    "rating": 3.5,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
