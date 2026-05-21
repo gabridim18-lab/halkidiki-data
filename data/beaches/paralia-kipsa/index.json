@@ -1,0 +1,133 @@
+{
+  "id": "paralia-kipsa",
+  "slug": "paralia-kipsa",
+  "name": {
+    "en": "Paralia Kipsa",
+    "ro": "Plaja Paralia Kipsa"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Wild natural beach",
+    "ro": "Plajă naturală sălbatică"
+  },
+  "coordinates": {
+    "lat": 40.06902990506902,
+    "lon": 23.3386343352319
+  },
+  "editorChoice": true,
+  "length": 600,
+  "images": [
+    "paralia-kipsa.webp",
+    "paralia-kipsa1.webp",
+    "paralia-kipsa2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short trail access",
+      "ro": "Acces prin potecă scurtă"
+    },
+    "parkingDifficulty": {
+      "en": "Limited roadside parking",
+      "ro": "Parcare limitată"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and adventurous",
+      "ro": "Sălbatică și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Mixed seabed with rocky areas",
+      "ro": "Fund mixt cu zone stâncoase"
+    },
+    "waveLevel": {
+      "en": "Moderate on windy days",
+      "ro": "Moderată în zilele cu vânt"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and pebbles",
+    "ro": "Amestec de nisip și pietriș"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.6 - 2.2m (variable slope)",
+      "ro": "0.6 - 2.2m (pantă variabilă)"
+    },
+    "clarity": {
+      "en": "Deep blue",
+      "ro": "Ape albastre-închise"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Adventure travelers",
+      "Photographers",
+      "Snorkeling enthusiasts"
+    ],
+    "ro": [
+      "Iubitori de natură",
+      "Călători aventuroși",
+      "Fotografi",
+      "Pasionați de snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.6,
+  "videos": [],
+  "description": {
+    "en": "Paralia Kipsa is a remote and scenic beach in the Sani coastal area, known for its untouched atmosphere, rocky scenery, and deep blue water. The beach combines pebbly and sandy sections with small natural coves formed by the surrounding cliffs, creating a peaceful environment away from crowded tourist areas. Excellent water clarity and rocky seabed conditions make it attractive for snorkeling and coastal exploration, while sunset light and dramatic landscapes provide exceptional photography opportunities. Due to limited facilities and more difficult access, the beach is best suited for adventurous visitors seeking nature and tranquility.",
+    "ro": "Paralia Kipsa este o plajă retrasă și spectaculoasă din zona Sani, apreciată pentru atmosfera sălbatică, peisajele stâncoase și apa adâncă de culoare albastru intens. Plaja combină zone cu nisip și pietriș cu mici golfuri naturale create de stâncile din jur, oferind un cadru liniștit, departe de aglomerația turistică. Claritatea excelentă a apei și fundul stâncos fac locul ideal pentru snorkeling și explorare de coastă, iar lumina de la apus creează condiții excelente pentru fotografie. Din cauza accesului mai dificil și a facilităților limitate, plaja este recomandată în special iubitorilor de natură și aventură."
+  },
+  "blueFlag": false
+}

@@ -526,5 +526,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-kipsa",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Kipsa",
+      "ro": "Plaja Paralia Kipsa"
+    },
+    "previewImage": "paralia-kipsa.webp",
+    "coordinates": {
+      "lat": 40.06902990506902,
+      "lon": 23.3386343352319
+    },
+    "rating": 3.6,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
