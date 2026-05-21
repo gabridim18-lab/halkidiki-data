@@ -1,0 +1,133 @@
+{
+  "id": "loutra-beach",
+  "slug": "loutra-beach",
+  "name": {
+    "en": "Loutra Beach",
+    "ro": "Plaja Loutra"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Thermal coastal bay beach",
+    "ro": "Plajă termală într-un golf de coastă"
+  },
+  "coordinates": {
+    "lat": 39.92369075394433,
+    "lon": 23.590560995458397
+  },
+  "editorChoice": true,
+  "length": 600,
+  "images": [
+    "loutra-beach.webp",
+    "loutra-beach1.webp",
+    "loutra-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk from thermal spa",
+      "ro": "Scurtă plimbare de la spa-ul termal"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Mostly quiet",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and wellness-oriented",
+      "ro": "Relaxantă și orientată spre wellness"
+    },
+    "waterEntry": {
+      "en": "Gentle mixed sand entry",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm inside the bay",
+      "ro": "În general calmă în interiorul golfului"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand",
+    "ro": "Nisip alb fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise",
+      "ro": "Ape turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Wellness travelers",
+      "Relaxation seekers",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Cei interesați de wellness",
+      "Cei care caută relaxare",
+      "Iubitorii naturii"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.2,
+  "videos": [],
+  "description": {
+    "en": "Loutra Beach is a unique coastal destination located at the southern tip of the Kassandra peninsula, close to the famous Agia Paraskevi thermal area. Known for its naturally warmer waters and sheltered bay setting, it offers a distinctive experience that combines beach relaxation with wellness elements. The beach features fine sand mixed with smooth pebbles, while the clear turquoise water becomes noticeably warmer in certain areas due to thermal springs mixing with the sea. Surrounded by rocky formations and coastal scenery, the beach maintains a more intimate and natural atmosphere compared to larger beaches in Halkidiki. Although there are a few organized sections with sunbeds and small beach bars, the area remains relatively peaceful and less crowded. Its direct connection to the nearby thermal spa makes Loutra Beach one of the most special wellness-oriented seaside destinations in Kassandra.",
+    "ro": "Plaja Loutra este o destinație de coastă unică situată în extremitatea sudică a peninsulei Kassandra, în apropierea celebrei zone termale Agia Paraskevi. Cunoscută pentru apa natural mai caldă și pentru golful său protejat, oferă o experiență diferită care combină relaxarea la mare cu elemente de wellness. Plaja are nisip fin amestecat cu pietricele netede, iar apa turcoaz și limpede devine vizibil mai caldă în anumite zone datorită izvoarelor termale care se amestecă cu apa mării. Înconjurată de formațiuni stâncoase și peisaje de coastă, plaja păstrează o atmosferă intimă și naturală comparativ cu plajele mai mari din Halkidiki. Deși există câteva sectoare amenajate cu șezlonguri și mici beach baruri, zona rămâne relativ liniștită și mai puțin aglomerată. Legătura directă cu spa-ul termal din apropiere transformă Loutra Beach într-una dintre cele mai speciale destinații de wellness de pe litoralul Kassandra."
+  },
+  "blueFlag": false
+}

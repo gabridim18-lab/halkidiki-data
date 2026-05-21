@@ -814,5 +814,21 @@
     "rating": 3.9,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "loutra-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Loutra Beach",
+      "ro": "Plaja Loutra"
+    },
+    "previewImage": "loutra-beach.webp",
+    "coordinates": {
+      "lat": 39.92369075394433,
+      "lon": 23.590560995458397
+    },
+    "rating": 4.2,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
