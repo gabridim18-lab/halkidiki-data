@@ -1,0 +1,133 @@
+{
+  "id": "mykoniatika-secret-beach",
+  "slug": "mykoniatika-secret-beach",
+  "name": {
+    "en": "Mykoniatika Secret Beach",
+    "ro": "Plaja Secretă Mykoniatika"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Hidden rocky cove",
+    "ro": "Golf retras și stâncos"
+  },
+  "coordinates": {
+    "lat": 40.30138680460227,
+    "lon": 23.086714458239726
+  },
+  "editorChoice": true,
+  "length": 200,
+  "images": [
+    "mykoniatika-secret-beach.webp",
+    "mykoniatika-secret-beach1.webp",
+    "mykoniatika-secret-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk required",
+      "ro": "Necesită o scurtă plimbare"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and secluded",
+      "ro": "Sălbatică și retrasă"
+    },
+    "waterEntry": {
+      "en": "Sudden depth drop",
+      "ro": "Adâncire bruscă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "White pebbles with sand patches",
+    "ro": "Pietricele albe cu pete de nisip"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.7 - 3.0m (sudden drop)",
+      "ro": "0.7 - 3.0m (coborâre bruscă)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Explorers",
+      "Couples",
+      "Nature lovers",
+      "Quiet beach escapes"
+    ],
+    "ro": [
+      "Exploratori",
+      "Cupluri",
+      "Iubitori de natură",
+      "Escapade liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Cliff jumping",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Sărituri de pe stânci",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.8,
+  "videos": [],
+  "description": {
+    "en": "Mykoniatika Secret Beach is a small hidden cove near Nea Moudania, appreciated for its crystal-clear turquoise water and untouched natural scenery. Surrounded by rocky formations and protected from large crowds, the beach offers a peaceful atmosphere ideal for visitors looking for privacy and exploration. The deeper water and rocky edges create excellent conditions for snorkeling and adventurous swimming, while the secluded location preserves its wild coastal charm. Access requires a short walk, rewarding visitors with one of the quieter hidden beach experiences in the area.",
+    "ro": "Plaja Secretă Mykoniatika este un mic golf retras din apropiere de Nea Moudania, apreciat pentru apa cristalină și peisajul natural nealterat. Înconjurată de stânci și ferită de aglomerație, plaja oferă o atmosferă liniștită, ideală pentru cei care caută intimitate și explorare. Apa mai adâncă și marginile stâncoase creează condiții foarte bune pentru snorkeling și înot aventuros, iar poziționarea retrasă păstrează farmecul sălbatic al zonei. Accesul presupune o scurtă plimbare pe jos, dar experiența recompensează vizitatorii prin liniște și peisaje spectaculoase."
+  },
+  "blueFlag": false
+}

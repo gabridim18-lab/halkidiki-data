@@ -302,5 +302,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "mykoniatika-secret-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Mykoniatika Secret Beach",
+      "ro": "Plaja Secretă Mykoniatika"
+    },
+    "previewImage": "mykoniatika-secret-beach.webp",
+    "coordinates": {
+      "lat": 40.30138680460227,
+      "lon": 23.086714458239726
+    },
+    "rating": 3.8,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
