@@ -414,5 +414,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-nea-moudania",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Nea Moudania",
+      "ro": "Plaja Paralia Nea Moudania"
+    },
+    "previewImage": "paralia-nea-moudania.webp",
+    "coordinates": {
+      "lat": 40.23676932413263,
+      "lon": 23.29355771382174
+    },
+    "rating": 3.8,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

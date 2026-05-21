@@ -1,0 +1,133 @@
+{
+  "id": "paralia-nea-moudania",
+  "slug": "paralia-nea-moudania",
+  "name": {
+    "en": "Paralia Nea Moudania",
+    "ro": "Plaja Paralia Nea Moudania"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Urban lively beach",
+    "ro": "Plajă urbană animată"
+  },
+  "coordinates": {
+    "lat": 40.23676932413263,
+    "lon": 23.29355771382174
+  },
+  "editorChoice": false,
+  "length": 1800,
+  "images": [
+    "paralia-nea-moudania.webp",
+    "paralia-nea-moudania1.webp",
+    "paralia-nea-moudania2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long urban beachfront",
+      "ro": "Litoral urban întins"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak season",
+      "ro": "Moderat în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively and social",
+      "ro": "Animată și socială"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Active seaside atmosphere",
+      "ro": "Atmosferă activă de litoral"
+    },
+    "waterEntry": {
+      "en": "Very gentle shallow entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft sand with some pebbles",
+    "ro": "Nisip moale cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.4m (very gradual)",
+      "ro": "0.3 - 1.4m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Turcoaz deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Hidden gem",
+      "Walking promenade"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups of friends",
+      "Evening walks",
+      "Urban beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri de prieteni",
+      "Plimbări de seară",
+      "Zile urbane la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Walking"
+    ],
+    "ro": [
+      "Înot",
+      "Plimbări"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "4-7 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.8,
+  "videos": [],
+  "description": {
+    "en": "Paralia Nea Moudania is a lively urban beach stretching along the Thermaic Gulf, directly connected to the town atmosphere of Nea Moudania. The long sandy shoreline, shallow turquoise water, and organized beach sections make it suitable for families and relaxed swimming, while beach bars, cafés, and nearby tavernas create a more social and energetic summer environment. Thanks to its easy access and seaside promenade, the beach becomes especially pleasant during the evening hours, when visitors gather for walks, sunsets, and nightlife near the waterfront.",
+    "ro": "Paralia Nea Moudania este o plajă urbană animată de pe Golful Thermaic, conectată direct la atmosfera orașului Nea Moudania. Linia lungă a țărmului, apa turcoaz puțin adâncă și sectoarele organizate o fac potrivită pentru familii și înot relaxat, iar beach barurile, cafenelele și tavernele din apropiere creează o atmosferă socială și energică pe timpul verii. Datorită accesului facil și promenadei de pe faleză, plaja devine deosebit de plăcută seara, când zona se animă cu plimbări, apusuri și viață de noapte."
+  },
+  "blueFlag": false
+}
