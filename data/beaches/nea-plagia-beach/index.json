@@ -1,0 +1,135 @@
+{
+  "id": "nea-plagia-beach",
+  "slug": "nea-plagia-beach",
+  "name": {
+    "en": "Nea Plagia Beach",
+    "ro": "Plaja Nea Plagia"
+  },
+  "zone": "Thessaloniki",
+  "beachType": {
+    "en": "Long family beach",
+    "ro": "Plajă lungă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.25787619848818,
+    "lon": 23.201642118153124
+  },
+  "editorChoice": true,
+  "length": 1800,
+  "images": [
+    "nea-plagia-beach.webp",
+    "nea-plagia-beach1.webp",
+    "nea-plagia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Wide continuous shoreline",
+      "ro": "Litoral lung și continuu"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable",
+      "ro": "În general accesibil"
+    },
+    "noiseLevel": {
+      "en": "Lively during summer",
+      "ro": "Animată vara"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and family-friendly",
+      "ro": "Confortabilă și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Very gentle shallow entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with occasional pebbles",
+    "ro": "Nisip auriu fin cu pietricele ocazionale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.6m (gentle slope)",
+      "ro": "0.4 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Turcoaz deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Hidden gem",
+      "Food drinks"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Mâncare și băuturi"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Long beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Plimbări lungi pe plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Pedal boats"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Bărci cu pedale"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Nea Plagia Beach is a long sandy beach on the western coast of Halkidiki, appreciated for its shallow turquoise water and spacious family-friendly shoreline. The calm sea conditions and gently sloping seabed create excellent conditions for children and relaxed swimming, while organized beach bars, tavernas, and seasonal summer activities add comfort and energy to the area. Wide open sections of sand allow visitors to enjoy beach games, long walks, and relaxed seaside days without the intense crowds found at larger tourist resorts.",
+    "ro": "Plaja Nea Plagia este o plajă lungă și nisipoasă de pe coasta vestică a Halkidiki, apreciată pentru apa turcoaz puțin adâncă și atmosfera potrivită pentru familii. Marea calmă și intrarea foarte lină în apă oferă condiții excelente pentru copii și înot relaxat, iar beach barurile, tavernele și activitățile sezoniere de vară completează experiența de vacanță. Spațiul generos al plajei permite plimbări lungi, jocuri pe nisip și zile relaxante la mare fără aglomerația intensă specifică stațiunilor foarte turistice."
+  },
+  "blueFlag": false
+}

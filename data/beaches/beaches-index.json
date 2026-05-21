@@ -350,5 +350,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "nea-plagia-beach",
+    "zone": "Thessaloniki",
+    "name": {
+      "en": "Nea Plagia Beach",
+      "ro": "Plaja Nea Plagia"
+    },
+    "previewImage": "nea-plagia-beach.webp",
+    "coordinates": {
+      "lat": 40.25787619848818,
+      "lon": 23.201642118153124
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
