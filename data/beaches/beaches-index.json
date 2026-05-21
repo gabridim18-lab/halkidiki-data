@@ -686,5 +686,21 @@
     "rating": 4.4,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-posidi",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Posidi",
+      "ro": "Plaja Paralia Posidi"
+    },
+    "previewImage": "paralia-posidi.webp",
+    "coordinates": {
+      "lat": 39.962388189586314,
+      "lon": 23.37430441430507
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

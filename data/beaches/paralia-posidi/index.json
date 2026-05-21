@@ -1,0 +1,133 @@
+{
+  "id": "paralia-posidi",
+  "slug": "paralia-posidi",
+  "name": {
+    "en": "Paralia Posidi",
+    "ro": "Plaja Paralia Posidi"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized family beach",
+    "ro": "Plajă amenajată pentru familii"
+  },
+  "coordinates": {
+    "lat": 39.962388189586314,
+    "lon": 23.37430441430507
+  },
+  "editorChoice": false,
+  "length": 1500,
+  "images": [
+    "paralia-posidi.webp",
+    "paralia-posidi1.webp",
+    "paralia-posidi2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy to moderate",
+      "ro": "Ușoară spre moderată"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and balanced",
+      "ro": "Relaxată și echilibrată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and organized",
+      "ro": "Relaxată și amenajată"
+    },
+    "waterEntry": {
+      "en": "Very shallow sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand",
+    "ro": "Nisip alb fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.4m (very gradual)",
+      "ro": "0.3 - 1.4m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Ape cristaline"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Relax sunbath",
+      "Walking promenade"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Relaxare la soare",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxed travelers",
+      "Sunset lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Călători relaxați",
+      "Iubitorii de apusuri"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sandcastle building"
+    ],
+    "ro": [
+      "Înot",
+      "Construit castele de nisip"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-14 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "videos": [],
+  "description": {
+    "en": "Paralia Posidi is a well-balanced coastal area located near the settlement of Possidi, on the southwestern side of the Kassandra peninsula. Offering a combination of natural scenery and accessible amenities, it is a popular choice for visitors seeking both relaxation and comfort. The beach features soft golden sand and generally clear waters, with a gradual entry into the sea in many sections. The surrounding landscape includes pine trees and open coastal views, creating a pleasant and relaxing environment throughout the day. Compared to the more remote areas near Possidi Cape, Paralia Posidi offers a higher level of organization, with beach bars, tavernas, and accommodation options nearby, while still maintaining a calmer atmosphere than the busiest beaches in Kassandra.",
+    "ro": "Paralia Posidi este o zonă de coastă echilibrată, situată în apropierea localității Possidi, pe partea sud-vestică a peninsulei Kassandra. Oferind o combinație între peisaj natural și facilități accesibile, este o alegere populară pentru cei care caută atât relaxare, cât și confort. Plaja are nisip fin și ape, în general, limpezi, cu o intrare lină în mare în multe zone. Peisajul din jur include pini și zone deschise către mare, creând un cadru plăcut și relaxant pe tot parcursul zilei. Comparativ cu zonele mai sălbatice din apropierea Capului Possidi, Paralia Posidi oferă un nivel mai ridicat de amenajare, cu beach baruri, taverne și opțiuni de cazare în apropiere, păstrând în același timp o atmosferă mai liniștită decât cele mai aglomerate plaje din Kassandra."
+  },
+  "blueFlag": false
+}
