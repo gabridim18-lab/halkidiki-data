@@ -1,0 +1,136 @@
+{
+  "id": "paradisos-beach",
+  "slug": "paradisos-beach",
+  "name": {
+    "en": "Paradisos Beach",
+    "ro": "Plaja Paradisos"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Relaxed family-friendly sandy beach",
+    "ro": "Plajă relaxată cu nisip, potrivită familiilor"
+  },
+  "coordinates": {
+    "lat": 40.10355658529172,
+    "lon": 23.77554249068374
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "paradisos-beach.webp",
+    "paradisos-beach1.webp",
+    "paradisos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Convenient nearby parking",
+      "ro": "Parcare convenabilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Calm and relaxed",
+      "ro": "Calmă și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Quiet and comfortable",
+      "ro": "Liniștită și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear aquamarine",
+      "ro": "Acuamarin limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxed swimmers",
+      "SUP enthusiasts"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Înotători relaxați",
+      "Pasionați de SUP"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Paddleboarding"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Paddleboarding"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Paradisos Beach is a quiet and balanced beach with soft sand and clear water, ideal for relaxed beach days. The seabed is sandy and slopes gently, making it very suitable for families and easy swimming. It offers a calm atmosphere without heavy crowds.",
+    "ro": "Plaja Paradisos este o plajă liniștită și echilibrată, cu nisip fin și apă limpede. Intrarea în apă este lină și nisipoasă, ideală pentru familii și înot relaxat. Atmosfera este calmă, fără aglomerație excesivă."
+  },
+  "blueFlag": false
+}

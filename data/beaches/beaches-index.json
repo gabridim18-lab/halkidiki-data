@@ -1758,5 +1758,21 @@
     "rating": 4.8,
     "waterTemperature": 25,
     "suitableForChildren": false
+  },
+  {
+    "id": "paradisos-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paradisos Beach",
+      "ro": "Plaja Paradisos"
+    },
+    "previewImage": "paradisos-beach.webp",
+    "coordinates": {
+      "lat": 40.10355658529172,
+      "lon": 23.77554249068374
+    },
+    "rating": 4.6,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
