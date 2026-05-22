@@ -862,5 +862,21 @@
     "rating": 3.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "dymitry-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Dymitry Beach",
+      "ro": "Plaja Dymitry"
+    },
+    "previewImage": "dymitry-beach.webp",
+    "coordinates": {
+      "lat": 39.92132234137198,
+      "lon": 23.60700979526428
+    },
+    "rating": 3.8,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

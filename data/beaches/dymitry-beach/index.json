@@ -1,0 +1,133 @@
+{
+  "id": "dymitry-beach",
+  "slug": "dymitry-beach",
+  "name": {
+    "en": "Dymitry Beach",
+    "ro": "Plaja Dymitry"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized beach club coastline",
+    "ro": "Plajă amenajată tip beach club"
+  },
+  "coordinates": {
+    "lat": 39.92132234137198,
+    "lon": 23.60700979526428
+  },
+  "editorChoice": false,
+  "length": 200,
+  "images": [
+    "dymitry-beach.webp",
+    "dymitry-beach1.webp",
+    "dymitry-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach club access",
+      "ro": "Acces facil către beach club"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in summer",
+      "ro": "Moderată vara"
+    },
+    "noiseLevel": {
+      "en": "Relaxed with light music",
+      "ro": "Relaxată cu muzică ambientală"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and social",
+      "ro": "Confortabilă și socială"
+    },
+    "waterEntry": {
+      "en": "Mixed sand and pebbled entry",
+      "ro": "Intrare cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "White pebbles with sand patches",
+    "ro": "Pietriș alb cu petice de nisip"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.7 - 3.0m (sudden drop)",
+      "ro": "0.7 - 3.0m (adâncime bruscă)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Ape cristaline"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Small groups",
+      "Beach club visitors",
+      "Wellness travelers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Grupuri mici",
+      "Vizitatori de beach club",
+      "Cei interesați de wellness"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Cliff jumping",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Sărituri de pe stânci",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.8,
+  "videos": [],
+  "description": {
+    "en": "Dymitry Beach is an organized coastal spot located near the Loutra area at the southern tip of the Kassandra peninsula. Combining clear waters, a comfortable seaside setup, and a relaxed beach club atmosphere, it offers a more social and accessible alternative to the nearby wild beaches. The shoreline features a mix of white pebbles and sandy patches, while the crystal-clear water creates excellent conditions for swimming and snorkeling. Compared to the more untouched beaches nearby, this part of the coast is slightly more developed, with beach-oriented facilities and relaxed lounge areas contributing to a comfortable seaside experience. During the day, the atmosphere remains calm and easygoing, while afternoons can become livelier with music and a more social vibe. Its proximity to the Loutra thermal area also makes it a convenient stop for visitors combining beach time with wellness experiences.",
+    "ro": "Plaja Dymitry este o zonă de coastă amenajată situată în apropierea zonei Loutra, în extremitatea sudică a peninsulei Kassandra. Combinând apa limpede, facilitățile confortabile și atmosfera relaxată de beach club, oferă o alternativă mai socială și accesibilă față de plajele sălbatice din apropiere. Țărmul este format din pietriș alb și petice de nisip, iar apa extrem de clară creează condiții excelente pentru înot și snorkeling. Comparativ cu plajele mai naturale din zonă, această parte a litoralului este ușor mai dezvoltată, având facilități de plajă și zone de lounge care contribuie la o experiență confortabilă la mare. Pe parcursul zilei, atmosfera rămâne relaxată și liniștită, iar după-amiaza poate deveni mai animată datorită muzicii și atmosferei sociale. Apropierea de zona termală Loutra transformă plaja într-o alegere convenabilă pentru cei care doresc să combine relaxarea la mare cu experiențe wellness."
+  },
+  "blueFlag": false
+}
