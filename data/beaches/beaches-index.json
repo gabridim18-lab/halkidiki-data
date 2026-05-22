@@ -1166,5 +1166,21 @@
     "rating": 4.7,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "kryopigi-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Kryopigi Beach",
+      "ro": "Plaja Kryopigi"
+    },
+    "previewImage": "kryopigi-beach.webp",
+    "coordinates": {
+      "lat": 40.04465336763236,
+      "lon": 23.48125045461824
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

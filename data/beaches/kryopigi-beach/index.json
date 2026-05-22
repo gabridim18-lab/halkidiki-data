@@ -1,0 +1,133 @@
+{
+  "id": "kryopigi-beach",
+  "slug": "kryopigi-beach",
+  "name": {
+    "en": "Kryopigi Beach",
+    "ro": "Plaja Kryopigi"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Forest-backed semi-organized beach",
+    "ro": "Plajă semi-amenajată cu pădure de pini"
+  },
+  "coordinates": {
+    "lat": 40.04465336763236,
+    "lon": 23.48125045461824
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "kryopigi-beach.webp",
+    "kryopigi-beach1.webp",
+    "kryopigi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short downhill access from village",
+      "ro": "Coborâre scurtă din sat"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in summer",
+      "ro": "Moderată vara"
+    },
+    "noiseLevel": {
+      "en": "Mostly quiet",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and natural",
+      "ro": "Relaxată și naturală"
+    },
+    "waterEntry": {
+      "en": "Mixed sand and pebbles with gradual entry",
+      "ro": "Nisip și pietricele cu intrare graduală"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with some pebbles and shells",
+    "ro": "Nisip grosier cu pietricele și scoici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear green-blue",
+      "ro": "Verde-albastru limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Nature lovers",
+      "Visitors seeking quiet beaches"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Iubitori de natură",
+      "Cei care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Kryopigi Beach is a scenic coastal area located below the hillside village of Kryopigi, on the eastern coast of the Kassandra peninsula. Surrounded by dense pine forests and Mediterranean vegetation, the beach offers a more peaceful and natural atmosphere compared to many of the larger resort beaches nearby. The shoreline consists mainly of coarse sand mixed with small pebbles and shells, while the water is usually calm, clean, and clear with a comfortable gradual entry in most areas. Some sections of the beach are organized with sunbeds, umbrellas, tavernas, and small beach cafés, while other parts remain quieter and less developed, allowing visitors to enjoy a more natural setting. The surrounding pine trees create natural shade and contribute to the cooler microclimate for which Kryopigi is well known. Access from the village typically involves a downhill road or path toward the coast. Kryopigi Beach is particularly suitable for visitors looking for a balance between relaxation, natural scenery, and basic beach comfort.",
+    "ro": "Plaja Kryopigi este o zonă de coastă pitorească situată sub satul de deal Kryopigi, pe coasta estică a peninsulei Kassandra. Înconjurată de păduri dense de pini și vegetație mediteraneană, plaja oferă o atmosferă mai liniștită și mai naturală comparativ cu multe dintre stațiunile mari din apropiere. Linia țărmului este formată în principal din nisip grosier amestecat cu pietricele mici și scoici, iar apa este de obicei calmă, curată și limpede, cu o intrare confortabilă și graduală în mare. Unele porțiuni ale plajei sunt amenajate cu șezlonguri, umbrele, taverne și mici beach café-uri, în timp ce alte zone rămân mai naturale și mai puțin dezvoltate, oferind mai multă liniște. Pinii din jur creează umbră naturală și contribuie la microclimatul mai răcoros pentru care Kryopigi este cunoscută. Accesul din sat implică de regulă o coborâre spre coastă. Plaja Kryopigi este potrivită în special pentru cei care caută un echilibru între relaxare, peisaj natural și confort de bază."
+  },
+  "blueFlag": false
+}
