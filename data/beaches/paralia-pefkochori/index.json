@@ -1,0 +1,135 @@
+{
+  "id": "paralia-pefkochori",
+  "slug": "paralia-pefkochori",
+  "name": {
+    "en": "Paralia Pefkochori",
+    "ro": "Plaja Pefkochori"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized village beach",
+    "ro": "Plajă amenajată de tip sat litoral"
+  },
+  "coordinates": {
+    "lat": 39.98929760387934,
+    "lon": 23.616878410800155
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "paralia-pefkochori.webp",
+    "paralia-pefkochori1.webp",
+    "paralia-pefkochori2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct village access",
+      "ro": "Acces direct din sat"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult in peak season",
+      "ro": "Dificilă în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively during summer",
+      "ro": "Animată în timpul verii"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Social and convenient",
+      "ro": "Socială și accesibilă"
+    },
+    "waterEntry": {
+      "en": "Mostly gentle with some deeper sections",
+      "ro": "În general lină, cu unele zone mai adânci"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden sand with some seaweed",
+    "ro": "Nisip auriu cu alge marine"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (gentle slope)",
+      "ro": "0.5 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light green-blue",
+      "ro": "Verde-albastru deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Walking promenade",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Promenadă pentru plimbări",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Groups",
+      "Village atmosphere lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Grupuri",
+      "Iubitorii atmosferei de sat litoral"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach sports",
+      "Jet skiing"
+    ],
+    "ro": [
+      "Înot",
+      "Sporturi pe plajă",
+      "Jet ski"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "videos": [],
+  "description": {
+    "en": "Paralia Pefkochori is one of the most popular and lively beaches on the eastern side of the Kassandra peninsula, located directly in front of the seaside village of Pefkochori. Combining organized beach infrastructure with easy access to restaurants, cafés, shops, and nightlife, it offers a highly convenient and social beach experience. The shoreline consists mainly of golden sand mixed with small pebbles, while the sea is generally calm and clean, making it suitable for swimming throughout the summer season. Some sections become deeper more quickly compared to lagoon-style beaches, but conditions remain comfortable for most visitors. Large stretches of the beach are fully organized with sunbeds, umbrellas, beach bars, and water sports activities, while quieter edges of the coastline can still be found away from the busiest central areas. The lively promenade and direct connection with village life make Paralia Pefkochori one of the most accessible and dynamic coastal destinations in southern Kassandra.",
+    "ro": "Paralia Pefkochori este una dintre cele mai populare și animate plaje de pe partea estică a peninsulei Kassandra, situată chiar în fața localității Pefkochori. Combinând infrastructura bine organizată cu accesul rapid la restaurante, cafenele, magazine și viață de noapte, plaja oferă o experiență confortabilă și socială la malul mării. Linia țărmului este formată în principal din nisip auriu amestecat cu pietricele mici, iar apa este, în general, calmă și curată, potrivită pentru înot pe tot parcursul sezonului de vară. În anumite zone, adâncimea crește mai rapid comparativ cu plajele de tip lagună, însă condițiile rămân confortabile pentru majoritatea vizitatorilor. O mare parte a plajei este complet amenajată cu șezlonguri, umbrele, beach baruri și activități nautice, în timp ce spre marginile mai liniștite ale plajei se poate găsi o atmosferă mai relaxată. Promenada animată și conexiunea directă cu viața satului transformă Paralia Pefkochori într-una dintre cele mai accesibile și dinamice destinații de coastă din sudul Kassandrei."
+  },
+  "blueFlag": false
+}

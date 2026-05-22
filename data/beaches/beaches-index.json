@@ -1102,5 +1102,21 @@
     "rating": 4.4,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-pefkochori",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Pefkochori",
+      "ro": "Plaja Pefkochori"
+    },
+    "previewImage": "paralia-pefkochori.webp",
+    "coordinates": {
+      "lat": 39.98929760387934,
+      "lon": 23.616878410800155
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
