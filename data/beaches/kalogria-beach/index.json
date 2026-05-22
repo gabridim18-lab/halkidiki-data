@@ -1,0 +1,138 @@
+{
+  "id": "kalogria-beach",
+  "slug": "kalogria-beach",
+  "name": {
+    "en": "Kalogria Beach",
+    "ro": "Plaja Kalogria"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Large organized sandy beach",
+    "ro": "Plajă mare cu nisip și facilități"
+  },
+  "coordinates": {
+    "lat": 40.17715876145151,
+    "lon": 23.715197394216776
+  },
+  "editorChoice": true,
+  "length": 1500,
+  "images": [
+    "kalogria-beach.webp",
+    "kalogria-beach1.webp",
+    "kalogria-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct beach access",
+      "ro": "Acces direct la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy to moderate in peak season",
+      "ro": "Ușor spre moderat în sezon"
+    },
+    "noiseLevel": {
+      "en": "Moderate and lively",
+      "ro": "Moderată și animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Family-friendly and active",
+      "ro": "Potrivită familiilor și activă"
+    },
+    "waterEntry": {
+      "en": "Very shallow sandy entry",
+      "ro": "Intrare foarte lină cu nisip fin"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 1.5m (very gentle slope)",
+      "ro": "0.3 - 1.5m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem",
+      "Family friendly"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups",
+      "Water sports enthusiasts",
+      "Relaxation seekers"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri",
+      "Pasionați de sporturi nautice",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Windsurfing",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Volei",
+      "Windsurfing",
+      "Caiac"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.5,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Kalogria Beach is one of the longest sandy beaches in Sithonia, known for its wide shoreline and shallow clear water. The beach has fine sand and a very gentle entry, making it ideal for families and relaxed swimming. Large areas are organized with sunbeds, beach bars and water sports, while still offering enough space to avoid overcrowding. Kalogria Beach is a great choice for visitors looking for comfort, activities and easy access.",
+    "ro": "Plaja Kalogria este una dintre cele mai lungi plaje din Sithonia, cunoscută pentru nisipul fin și apa puțin adâncă. Plaja are intrare foarte lină în apă, fiind ideală pentru familii și înot relaxat. Există zone amenajate cu șezlonguri, beach baruri și sporturi nautice, dar și suficient spațiu pentru a evita aglomerația. Este o alegere foarte bună pentru cei care caută confort și activități."
+  },
+  "blueFlag": false
+}
