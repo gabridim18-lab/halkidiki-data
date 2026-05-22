@@ -1,0 +1,136 @@
+{
+  "id": "trikorfo-beach",
+  "slug": "trikorfo-beach",
+  "name": {
+    "en": "Trikorfo Beach",
+    "ro": "Plaja Trikorfo"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet natural beach near Psakoudia",
+    "ro": "Plajă naturală liniștită lângă Psakoudia"
+  },
+  "coordinates": {
+    "lat": 40.261927097375455,
+    "lon": 23.470886006872828
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "trikorfo-beach.webp",
+    "trikorfo-beach1.webp",
+    "trikorfo-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from nearby road",
+      "ro": "Acces facil de la drumul principal"
+    },
+    "parkingDifficulty": {
+      "en": "Parking available nearby",
+      "ro": "Parcare disponibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și calmă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and relaxing",
+      "ro": "Naturală și relaxantă"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry with small pebbles",
+      "ro": "Intrare lină cu nisip și pietricele mici"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine sand mixed with small pebbles",
+    "ro": "Nisip fin amestecat cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 22,
+    "depth": {
+      "en": "0.5 - 2.0m (gentle slope)",
+      "ro": "0.5 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Nature lovers",
+      "Visitors seeking relaxation"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Iubitori de natură",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Relaxing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "occupancy": "40-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.3,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Trikorfo Beach is a quiet and natural beach near Psakoudia, offering clear water and a peaceful environment. The beach features fine sand mixed with small pebbles and a gently sloping seabed, making it suitable for swimming and families. It is mostly unorganized, which helps preserve its calm and authentic atmosphere, while nearby areas provide access to basic facilities. Trikorfo Beach is a good choice for visitors looking for relaxation, space, and a more natural beach experience.",
+    "ro": "Plaja Trikorfo este o plajă liniștită și naturală situată lângă Psakoudia, oferind apă limpede și o atmosferă relaxantă. Plaja are nisip fin cu pietricele mici, iar intrarea în apă este lină, fiind potrivită pentru înot și familii. Este în mare parte neamenajată, ceea ce păstrează atmosfera calmă și autentică, dar în apropiere există facilități de bază. Plaja Trikorfo este potrivită pentru cei care caută liniște, spațiu și o experiență naturală."
+  },
+  "blueFlag": false
+}

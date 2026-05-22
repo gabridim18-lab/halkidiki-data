@@ -1406,5 +1406,21 @@
     "rating": 4.6,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "trikorfo-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Trikorfo Beach",
+      "ro": "Plaja Trikorfo"
+    },
+    "previewImage": "trikorfo-beach.webp",
+    "coordinates": {
+      "lat": 40.261927097375455,
+      "lon": 23.470886006872828
+    },
+    "rating": 4.3,
+    "waterTemperature": 22,
+    "suitableForChildren": true
   }
 ]
