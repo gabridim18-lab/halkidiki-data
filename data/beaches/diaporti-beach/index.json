@@ -1,0 +1,136 @@
+{
+  "id": "diaporti-beach",
+  "slug": "diaporti-beach",
+  "name": {
+    "en": "Diaporti Beach",
+    "ro": "Plaja Diaporti"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Calm natural bay",
+    "ro": "Golf natural liniștit"
+  },
+  "coordinates": {
+    "lat": 40.0154229777665,
+    "lon": 23.822920426990137
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "diaporti-beach.webp",
+    "diaporti-beach1.webp",
+    "diaporti-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from parking",
+      "ro": "Acces ușor din parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and peaceful",
+      "ro": "Relaxată și liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Peaceful and natural",
+      "ro": "Liniștită și naturală"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy-pebble entry",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Sand with small pebbles",
+    "ro": "Nisip cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 2.0m (gentle slope)",
+      "ro": "0.4 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "family",
+      "Hidden gem",
+      "nature"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Natură și peisaje"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Nature lovers",
+      "Light exploration"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Iubitori de natură",
+      "Explorare ușoară"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Boat tours",
+      "Hiking"
+    ],
+    "ro": [
+      "Înot",
+      "Tururi cu barca",
+      "Drumeții"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.4,
+  "badge": "Nature",
+  "videos": [],
+  "description": {
+    "en": "Diaporti Beach is a calm and natural bay near Porto Koufo, ideal for relaxed swimming and exploring the nearby lagoon. The water is shallow and clear, making it suitable for families, while the surrounding area offers a mix of nature and light activity. It combines a peaceful atmosphere with a few basic facilities.",
+    "ro": "Plaja Diaporti este un golf liniștit lângă Porto Koufo, ideal pentru înot relaxat și explorarea lagunei din apropiere. Apa este puțin adâncă și limpede, potrivită pentru familii, iar zona oferă un mix între natură și activități ușoare. Combină o atmosferă calmă cu facilități de bază."
+  },
+  "blueFlag": false
+}

@@ -1854,5 +1854,21 @@
     "rating": 4.5,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "diaporti-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Diaporti Beach",
+      "ro": "Plaja Diaporti"
+    },
+    "previewImage": "diaporti-beach.webp",
+    "coordinates": {
+      "lat": 40.0154229777665,
+      "lon": 23.822920426990137
+    },
+    "rating": 4.4,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
