@@ -1390,5 +1390,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "kalyves-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Kalyves Beach",
+      "ro": "Plaja Kalyves"
+    },
+    "previewImage": "kalyves-beach.webp",
+    "coordinates": {
+      "lat": 40.27890539946088,
+      "lon": 23.403861228342855
+    },
+    "rating": 4.6,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

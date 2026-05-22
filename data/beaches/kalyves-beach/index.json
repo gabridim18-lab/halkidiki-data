@@ -1,0 +1,136 @@
+{
+  "id": "kalyves-beach",
+  "slug": "kalyves-beach",
+  "name": {
+    "en": "Kalyves Beach",
+    "ro": "Plaja Kalyves"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Relaxed family-friendly sandy beach",
+    "ro": "Plajă relaxantă cu nisip, potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.27890539946088,
+    "lon": 23.403861228342855
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "kalyves-beach.webp",
+    "kalyves-beach1.webp",
+    "kalyves-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces facil direct către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and moderate",
+      "ro": "Relaxată și moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and peaceful",
+      "ro": "Confortabilă și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with minimal pebbles",
+    "ro": "Nisip moale auriu cu pietricele minime"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath",
+      "Family friendly"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Potrivită pentru familii"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "Visitors avoiding crowded beaches"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Vizitatori care evită plajele aglomerate"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Yoga pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Kalyves Beach is a peaceful and well-balanced beach on the eastern side of Kassandra, offering clear turquoise water and a relaxed atmosphere. The beach features soft golden sand with very few pebbles and a gently sloping seabed, making it ideal for swimming and families. It is organized but not overcrowded, with sunbeds, a beach bar, and a traditional taverna nearby, while still maintaining a calm and comfortable environment. Kalyves Beach is a great choice for visitors looking for a mix of comfort, space, and a quieter beach experience.",
+    "ro": "Plaja Kalyves este o plajă liniștită și echilibrată pe partea estică a Kassandrei, oferind apă limpede de culoare turcoaz și o atmosferă relaxantă. Plaja are nisip auriu moale cu foarte puține pietricele, iar intrarea în apă este lină, fiind ideală pentru înot și familii. Este amenajată, dar nu aglomerată, cu șezlonguri, beach bar și tavernă în apropiere, păstrând în același timp un cadru confortabil. Plaja Kalyves este potrivită pentru cei care caută confort, spațiu și o experiență mai liniștită."
+  },
+  "blueFlag": false
+}
