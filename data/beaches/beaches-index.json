@@ -910,5 +910,21 @@
     "rating": 3.8,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "cliff-rocks",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Cliff Rocks",
+      "ro": "Cliff Rocks"
+    },
+    "previewImage": "cliff-rocks.webp",
+    "coordinates": {
+      "lat": 39.93098918107188,
+      "lon": 23.745386553033672
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

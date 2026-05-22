@@ -1,0 +1,135 @@
+{
+  "id": "cliff-rocks",
+  "slug": "cliff-rocks",
+  "name": {
+    "en": "Cliff Rocks",
+    "ro": "Cliff Rocks"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Rocky cliff coastline",
+    "ro": "Coastă stâncoasă cu faleze"
+  },
+  "coordinates": {
+    "lat": 39.93098918107188,
+    "lon": 23.745386553033672
+  },
+  "editorChoice": false,
+  "length": 150,
+  "images": [
+    "cliff-rocks.webp",
+    "cliff-rocks1.webp",
+    "cliff-rocks2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short rocky descent",
+      "ro": "Coborâre scurtă pe stânci"
+    },
+    "parkingDifficulty": {
+      "en": "Very limited",
+      "ro": "Foarte limitată"
+    },
+    "noiseLevel": {
+      "en": "Silent and isolated",
+      "ro": "Liniștită și izolată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and dramatic",
+      "ro": "Sălbatică și dramatică"
+    },
+    "waterEntry": {
+      "en": "Rock platform entry",
+      "ro": "Intrare de pe platforme stâncoase"
+    },
+    "waveLevel": {
+      "en": "Can become rough with wind",
+      "ro": "Poate deveni agitată la vânt"
+    }
+  },
+  "sand": {
+    "en": "Mostly large pebbles and rock platforms",
+    "ro": "Pietriș mare și platforme stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "1.0 - 4.0m+ (sudden drop-off)",
+      "ro": "1.0 - 4.0m+ (coborâre bruscă)"
+    },
+    "clarity": {
+      "en": "Exceptionally clear deep blue",
+      "ro": "Albastru închis, excepțional de limpede"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Adventure seekers",
+      "Snorkelers",
+      "Photographers",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Cei aventuroși",
+      "Pasionații de snorkeling",
+      "Fotografi",
+      "Iubitorii naturii"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Cliff jumping",
+      "Snorkeling",
+      "Rock climbing"
+    ],
+    "ro": [
+      "Sărituri de pe stânci",
+      "Snorkeling",
+      "Escaladă"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Cliff Rocks is a rugged coastal area located near the Kanistro region on the southeastern side of the Kassandra peninsula. Unlike traditional beaches, the coastline here is dominated by dramatic rock formations, natural stone platforms, and exceptionally clear deep-blue waters. The area feels raw and untouched, offering a more adventurous seaside experience focused on exploration rather than classic beach relaxation. Small rocky inlets and underwater formations make the location attractive for snorkeling and swimming in crystal-clear water, while the elevated cliffs provide panoramic sea views and excellent photography opportunities. Because the coastline is fully natural and exposed to open sea conditions, waves and currents can become stronger during windy weather. The absence of organized facilities helps preserve the isolated and authentic atmosphere, making Cliff Rocks ideal for visitors looking for a wild coastal landscape away from crowded tourist beaches.",
+    "ro": "Cliff Rocks este o zonă de coastă stâncoasă situată în apropierea regiunii Kanistro, pe partea sud-estică a peninsulei Kassandra. Spre deosebire de plajele clasice, litoralul este dominat aici de formațiuni stâncoase spectaculoase, platforme naturale de piatră și ape adânci, extrem de limpezi. Zona are un caracter brut și nealterat, oferind o experiență mai aventuroasă, orientată spre explorare și natură. Micile golfuri stâncoase și relieful subacvatic fac locul ideal pentru snorkeling și înot în ape cristaline, iar falezele oferă panorame impresionante asupra mării și oportunități excelente pentru fotografie. Deoarece coasta este complet naturală și expusă către larg, valurile și curenții pot deveni mai puternici în zilele cu vânt. Lipsa facilităților amenajate contribuie la păstrarea atmosferei autentice și izolate, transformând Cliff Rocks într-o destinație potrivită pentru cei care caută peisaje sălbatice și experiențe diferite față de plajele turistice obișnuite."
+  },
+  "blueFlag": false
+}
