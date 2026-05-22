@@ -1,0 +1,135 @@
+{
+  "id": "polychrono-beach",
+  "slug": "polychrono-beach",
+  "name": {
+    "en": "Polychrono Beach",
+    "ro": "Plaja Polychrono"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized village beach",
+    "ro": "Plajă amenajată de tip sat litoral"
+  },
+  "coordinates": {
+    "lat": 40.01752092936375,
+    "lon": 23.53353004070966
+  },
+  "editorChoice": true,
+  "length": 2000,
+  "images": [
+    "polychrono-beach.webp",
+    "polychrono-beach1.webp",
+    "polychrono-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Long seaside promenade",
+      "ro": "Promenadă lungă pe malul mării"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate to difficult in summer",
+      "ro": "Moderată spre dificilă vara"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and social",
+      "ro": "Relaxată și socială"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy-pebble entry",
+      "ro": "Intrare lină cu nisip și pietriș fin"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with some pebbles",
+    "ro": "Nisip fin auriu cu pietriș"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.7m (gentle slope)",
+      "ro": "0.4 - 1.7m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Turcoaz deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Walking promenade",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Promenadă pentru plimbări",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Groups",
+      "Visitors seeking relaxation"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Grupuri",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Caiac"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-16 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.7,
+  "videos": [],
+  "description": {
+    "en": "Polychrono Beach is one of the longest and most accessible beaches on the eastern coast of the Kassandra peninsula, stretching directly along the seaside village of Polychrono. Known for its relaxed atmosphere, organized layout, and easy village access, it offers a balanced beach experience suitable for families, couples, and longer summer stays. The shoreline consists mainly of fine golden sand mixed with small pebbles, while the sea is usually calm, clear, and shallow for a considerable distance, creating comfortable swimming conditions for most visitors. Large sections of the beach are organized with sunbeds, umbrellas, beach bars, cafés, and tavernas extending along the waterfront promenade, while quieter areas can still be found toward the edges of the coastline. Compared to some of the more energetic resort beaches of Kassandra, Polychrono generally maintains a calmer and more laid-back atmosphere throughout the day. Its combination of long beachfront, village convenience, and family-friendly swimming conditions makes Polychrono Beach one of the most versatile coastal destinations in the region.",
+    "ro": "Plaja Polychrono este una dintre cele mai lungi și accesibile plaje de pe coasta estică a peninsulei Kassandra, întinzându-se de-a lungul localității Polychrono. Cunoscută pentru atmosfera relaxată, organizarea bună și accesul facil către sat, plaja oferă o experiență echilibrată, potrivită pentru familii, cupluri și sejururi mai lungi de vară. Linia țărmului este formată în principal din nisip fin auriu amestecat cu pietriș fin, iar apa este, în general, calmă, limpede și puțin adâncă pe o distanță considerabilă, oferind condiții confortabile pentru înot. O mare parte a plajei este amenajată cu șezlonguri, umbrele, beach baruri, cafenele și taverne de-a lungul promenadei, însă spre marginile plajei există și zone mai liniștite. Comparativ cu unele dintre stațiunile mai animate din Kassandra, Polychrono păstrează în general o atmosferă mai calmă și relaxată pe parcursul zilei. Combinația dintre plaja lungă, apropierea de sat și condițiile excelente pentru familii transformă Plaja Polychrono într-una dintre cele mai versatile destinații de coastă din regiune."
+  },
+  "blueFlag": false
+}

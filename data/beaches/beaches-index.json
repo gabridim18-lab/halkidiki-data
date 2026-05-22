@@ -1150,5 +1150,21 @@
     "rating": 4.6,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "polychrono-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Polychrono Beach",
+      "ro": "Plaja Polychrono"
+    },
+    "previewImage": "polychrono-beach.webp",
+    "coordinates": {
+      "lat": 40.01752092936375,
+      "lon": 23.53353004070966
+    },
+    "rating": 4.7,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
