@@ -1,0 +1,138 @@
+{
+  "id": "agios-ioannis-beach",
+  "slug": "agios-ioannis-beach",
+  "name": {
+    "en": "Agios Ioannis Beach",
+    "ro": "Plaja Agios Ioannis"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Balanced semi-organized scenic beach",
+    "ro": "Plajă pitorească semi-amenajată și echilibrată"
+  },
+  "coordinates": {
+    "lat": 40.19235752855445,
+    "lon": 23.693977075898506
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "agios-ioannis-beach.webp",
+    "agios-ioannis-beach1.webp",
+    "agios-ioannis-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and moderate",
+      "ro": "Relaxată și moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and scenic",
+      "ro": "Relaxată și pitorească"
+    },
+    "waterEntry": {
+      "en": "Soft sand and pebbles with gradual depth",
+      "ro": "Nisip fin și pietricele cu adâncime graduală"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with pebbles",
+    "ro": "Nisip auriu cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.5m (gradual slope)",
+      "ro": "0.5 - 2.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise-emerald",
+      "ro": "Turcoaz-smarald"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Snorkeling enthusiasts",
+      "Visitors seeking balance between nature and comfort"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Pasionați de snorkeling",
+      "Cei care caută echilibru între natură și confort"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Walking",
+      "Photography"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Plimbare",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Agios Ioannis Beach is a balanced beach on Sithonia’s eastern coast, combining natural scenery with basic facilities. The beach has soft sand with some pebbles, and the water depth increases gradually, making it suitable for both families and relaxed swimming. Some areas are organized with sunbeds and tavernas, while other parts remain quieter with natural shade from nearby trees. It is a good choice for visitors looking for comfort, clear water, and a relaxed atmosphere.",
+    "ro": "Plaja Agios Ioannis este o plajă echilibrată pe coasta estică a Sithoniei, combinând natura cu facilități de bază. Plaja are nisip fin cu pietricele, iar adâncimea apei crește treptat, fiind potrivită pentru familii și înot relaxat. Există zone amenajate cu șezlonguri și taverne, dar și porțiuni mai liniștite cu umbră naturală. Este o alegere bună pentru cei care caută confort și o atmosferă relaxată."
+  },
+  "blueFlag": false
+}

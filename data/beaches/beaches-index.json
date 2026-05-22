@@ -1566,5 +1566,21 @@
     "rating": 4.9,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "agios-ioannis-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Agios Ioannis Beach",
+      "ro": "Plaja Agios Ioannis"
+    },
+    "previewImage": "agios-ioannis-beach.webp",
+    "coordinates": {
+      "lat": 40.19235752855445,
+      "lon": 23.693977075898506
+    },
+    "rating": 4.6,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
