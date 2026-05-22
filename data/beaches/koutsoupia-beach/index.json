@@ -1,0 +1,136 @@
+{
+  "id": "koutsoupia-beach",
+  "slug": "koutsoupia-beach",
+  "name": {
+    "en": "Koutsoupia Beach",
+    "ro": "Plaja Koutsoupia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet natural bay",
+    "ro": "Golf natural liniștit"
+  },
+  "coordinates": {
+    "lat": 40.03354271531638,
+    "lon": 23.81210158083486
+  },
+  "editorChoice": false,
+  "length": 350,
+  "images": [
+    "koutsoupia-beach.webp",
+    "koutsoupia-beach1.webp",
+    "koutsoupia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short uneven access path",
+      "ro": "Potecă scurtă cu acces dificil"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate nearby parking",
+      "ro": "Parcare moderată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and authentic",
+      "ro": "Naturală și autentică"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft sand with some pebbles",
+    "ro": "Nisip fin cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 1.6m (gentle slope)",
+      "ro": "0.3 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "family",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Nature lovers",
+      "Snorkeling enthusiasts",
+      "Visitors seeking tranquility"
+    ],
+    "ro": [
+      "Familii",
+      "Iubitori de natură",
+      "Pasionați de snorkeling",
+      "Cei care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Kayaking",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Caiac",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.5,
+  "badge": "Nature",
+  "videos": [],
+  "description": {
+    "en": "Koutsoupia Beach is a quiet, natural bay ideal for travelers looking to escape crowded areas. The shallow, clear water makes it suitable for families and relaxed swimming, while the rocky edges are good for snorkeling. It is mostly unorganized, offering a peaceful and authentic beach experience.",
+    "ro": "Plaja Koutsoupia este o plajă liniștită și naturală, ideală pentru cei care vor să evite aglomerația. Apa este puțin adâncă și foarte limpede, fiind potrivită pentru familii și înot relaxat, iar marginile stâncoase sunt bune pentru snorkeling. Plaja este în mare parte neamenajată și oferă o experiență autentică."
+  },
+  "blueFlag": false
+}
