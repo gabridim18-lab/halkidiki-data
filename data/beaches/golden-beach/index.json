@@ -1,0 +1,133 @@
+{
+  "id": "golden-beach",
+  "slug": "golden-beach",
+  "name": {
+    "en": "Golden Beach",
+    "ro": "Plaja Golden"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized golden sandy beach",
+    "ro": "Plajă amenajată cu nisip auriu"
+  },
+  "coordinates": {
+    "lat": 39.962992528407234,
+    "lon": 23.675526241795815
+  },
+  "editorChoice": true,
+  "length": 1500,
+  "images": [
+    "golden-beach.webp",
+    "golden-beach1.webp",
+    "golden-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in summer",
+      "ro": "Moderată vara"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and family-friendly",
+      "ro": "Confortabilă și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Very shallow sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.4m (very gradual)",
+      "ro": "0.3 - 1.4m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Comfort seekers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Cei care caută confort"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach sports"
+    ],
+    "ro": [
+      "Înot",
+      "Sporturi pe plajă"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.6,
+  "videos": [],
+  "description": {
+    "en": "Golden Beach is a popular sandy beach located near Paliouri in the southern part of the Kassandra peninsula. Known for its long shoreline, fine golden sand, and crystal-clear shallow water, it is considered one of the more family-friendly beaches in southern Halkidiki. The beach offers calm swimming conditions and a very gradual sea entry, making it especially suitable for children and relaxed beach days. Large sections are organized with sunbeds, umbrellas, beach bars, and seasonal facilities, while quieter stretches remain available for visitors looking for a calmer atmosphere. Surrounded by Mediterranean vegetation and easy to access, Golden Beach combines natural scenery with comfort and good organization, making it a balanced destination for both families and couples.",
+    "ro": "Golden Beach este o plajă populară cu nisip, situată în apropiere de Paliouri, în partea sudică a peninsulei Kassandra. Cunoscută pentru întinderea sa lungă, nisipul auriu fin și apa cristalină și puțin adâncă, este considerată una dintre cele mai potrivite plaje pentru familii din sudul Halkidikiului. Plaja oferă condiții calme pentru înot și o intrare foarte lină în mare, fiind ideală pentru copii și pentru zile relaxante la malul mării. Mari porțiuni sunt amenajate cu șezlonguri, umbrele, beach baruri și facilități sezoniere, însă există și zone mai liniștite pentru cei care preferă relaxarea. Înconjurată de vegetație mediteraneană și ușor accesibilă, Golden Beach combină peisajul natural cu confortul și organizarea bună, fiind o alegere excelentă atât pentru familii, cât și pentru cupluri."
+  },
+  "blueFlag": false
+}

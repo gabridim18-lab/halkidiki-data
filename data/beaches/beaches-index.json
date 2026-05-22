@@ -1038,5 +1038,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "golden-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Golden Beach",
+      "ro": "Plaja Golden"
+    },
+    "previewImage": "golden-beach.webp",
+    "coordinates": {
+      "lat": 39.962992528407234,
+      "lon": 23.675526241795815
+    },
+    "rating": 4.6,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
