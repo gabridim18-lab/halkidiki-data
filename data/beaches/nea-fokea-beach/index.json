@@ -1,0 +1,134 @@
+{
+  "id": "nea-fokea-beach",
+  "slug": "nea-fokea-beach",
+  "name": {
+    "en": "Nea Fokea Beach",
+    "ro": "Plaja Nea Fokea"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Wide organized family beach",
+    "ro": "Plajă largă amenajată pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.133418182692104,
+    "lon": 23.40545645562493
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "nea-fokea-beach.webp",
+    "nea-fokea-beach1.webp",
+    "nea-fokea-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces facil direct către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Moderate and lively",
+      "ro": "Moderată și animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and family-friendly",
+      "ro": "Confortabilă și potrivită familiilor"
+    },
+    "waterEntry": {
+      "en": "Very shallow sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.5m (very gradual)",
+      "ro": "0.3 - 1.5m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Turcoaz deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem",
+      "Family friendly"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Casual swimmers",
+      "Visitors seeking comfort"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Înotători ocazionali",
+      "Cei care caută confort"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Walking"
+    ],
+    "ro": [
+      "Înot",
+      "Plimbări"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-14 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Nea Fokea Beach is located in front of the village of Nea Fokea, offering a wide and accessible beach with a mix of natural beauty and local atmosphere. The beach features soft golden sand and clear turquoise water, with a very gentle entry into the sea, making it ideal for families and less experienced swimmers. Large sections are organized with sunbeds, umbrellas, and nearby tavernas, while the presence of the historic tower adds a unique character to the area. Access is easy, with parking close to the beach. Nea Fokea Beach is a good choice for visitors looking for comfort, facilities, and a beach combined with local culture and scenery.",
+    "ro": "Plaja Nea Fokea se află în fața satului Nea Fokea și oferă o zonă largă și ușor accesibilă, cu un amestec de natură și atmosferă locală. Plaja are nisip fin auriu și apă limpede, de culoare turcoaz, cu intrare foarte lină, fiind ideală pentru familii și înotători mai puțin experimentați. O mare parte din plajă este amenajată, cu șezlonguri, umbrele și taverne în apropiere, iar prezența turnului istoric oferă un plus de farmec. Accesul este facil, cu parcare aproape. Plaja Nea Fokea este potrivită pentru cei care caută confort, facilități și o combinație între plajă și cultură locală."
+  },
+  "blueFlag": false
+}
