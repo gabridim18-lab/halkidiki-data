@@ -1246,5 +1246,21 @@
     "rating": 3.8,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "athytos-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Athytos Beach",
+      "ro": "Plaja Athytos"
+    },
+    "previewImage": "athytos-beach.webp",
+    "coordinates": {
+      "lat": 40.097810149220344,
+      "lon": 23.441170295369425
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

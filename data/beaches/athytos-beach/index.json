@@ -1,0 +1,134 @@
+{
+  "id": "athytos-beach",
+  "slug": "athytos-beach",
+  "name": {
+    "en": "Athytos Beach",
+    "ro": "Plaja Athytos"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Quiet mixed beach near Afytos village",
+    "ro": "Plajă liniștită mixtă lângă satul Afytos"
+  },
+  "coordinates": {
+    "lat": 40.097810149220344,
+    "lon": 23.441170295369425
+  },
+  "editorChoice": false,
+  "length": 600,
+  "images": [
+    "athytos-beach.webp",
+    "athytos-beach1.webp",
+    "athytos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk from Afytos village",
+      "ro": "Scurtă plimbare din satul Afytos"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate parking availability",
+      "ro": "Parcare moderată disponibilă"
+    },
+    "noiseLevel": {
+      "en": "Generally peaceful",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and natural",
+      "ro": "Relaxată și naturală"
+    },
+    "waterEntry": {
+      "en": "Mixed sand and pebbles with gentle slope",
+      "ro": "Nisip și pietricele cu intrare lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and small pebbles",
+    "ro": "Amestec de nisip și pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 1.8m (gentle slope)",
+      "ro": "0.5 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light blue",
+      "ro": "Albastru deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "Visitors exploring Afytos"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Vizitatori care explorează Afytos"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-9 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.1,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Athytos Beach lies just north of Afytos village, offering a quieter and more natural extension of the hillside settlement. The beach features a mix of sand and small pebbles, with clear water and a gently sloping seabed suitable for swimming and families. Some areas become deeper more quickly beyond the shallow zone. Facilities are limited but include a few sunbeds and natural shade from trees. Access is via a short path from the village, making it relatively easy to reach. Athytos Beach is a good choice for visitors looking for a balance between relaxation, accessibility, and a more natural setting close to the village.",
+    "ro": "Plaja Athytos se află imediat la nord de satul Afytos, oferind un cadru mai liniștit și natural. Plaja are o combinație de nisip și pietricele mici, iar apa este limpede, cu intrare lină, potrivită pentru înot și familii. În anumite zone, adâncimea crește mai rapid după zona puțin adâncă. Facilitățile sunt limitate, dar includ câteva șezlonguri și umbră naturală oferită de copaci. Accesul se face ușor pe o potecă scurtă din sat. Plaja Athytos este potrivită pentru cei care caută relaxare, acces ușor și un cadru mai natural aproape de sat."
+  },
+  "blueFlag": false
+}
