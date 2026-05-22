@@ -1,0 +1,136 @@
+{
+  "id": "red-rocks-of-metamorphosis",
+  "slug": "red-rocks-of-metamorphosis",
+  "name": {
+    "en": "Red Rocks Of Metamorphosis",
+    "ro": "Red Rocks Of Metamorphosis"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Wild rocky exploration beach",
+    "ro": "Plajă sălbatică stâncoasă pentru explorare"
+  },
+  "coordinates": {
+    "lat": 40.225708413062904,
+    "lon": 23.641651904217298
+  },
+  "editorChoice": true,
+  "length": 350,
+  "images": [
+    "red-rocks-of-metamorphosis.webp",
+    "red-rocks-of-metamorphosis1.webp",
+    "red-rocks-of-metamorphosis2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short rocky access path",
+      "ro": "Acces scurt pe teren stâncos"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate nearby parking",
+      "ro": "Parcare moderată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and adventurous",
+      "ro": "Sălbatică și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Rocky entry with sudden depth",
+      "ro": "Intrare stâncoasă cu adâncime bruscă"
+    },
+    "waveLevel": {
+      "en": "Usually calm to moderate",
+      "ro": "De obicei calmă spre moderată"
+    }
+  },
+  "sand": {
+    "en": "Mixed sand and smooth pebbles",
+    "ro": "Nisip amestecat cu pietriș neted"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.5 - 2.5m (rocky, sudden drop)",
+      "ro": "0.5 - 2.5m (stânci, adâncime bruscă)"
+    },
+    "clarity": {
+      "en": "Deep azure",
+      "ro": "Albastru intens"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Experienced swimmers",
+      "Snorkeling enthusiasts",
+      "Photographers",
+      "Adventure seekers"
+    ],
+    "ro": [
+      "Înotători experimentați",
+      "Pasionați de snorkeling",
+      "Fotografi",
+      "Cei care caută aventură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Cliff jumping",
+      "Photography"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Sărituri de pe stânci",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.8,
+  "badge": "Explorer",
+  "videos": [],
+  "description": {
+    "en": "Red Rocks Of Metamorphosis is a wild and scenic beach known for its unique rock formations and clear water. The beach features a mix of sand and smooth pebbles, with rocky areas and deeper water close to the shore, making it more suitable for experienced swimmers. There are no organized facilities, which preserves its natural and untouched character. It is a great choice for visitors looking for exploration, snorkeling, and dramatic coastal scenery.",
+    "ro": "Red Rocks Of Metamorphosis este o plajă sălbatică și spectaculoasă, cunoscută pentru formațiunile sale stâncoase și apa limpede. Plaja are nisip și pietriș neted, cu zone stâncoase și apă mai adâncă aproape de mal, fiind mai potrivită pentru înotători experimentați. Nu există facilități amenajate, ceea ce păstrează caracterul natural al zonei. Este o alegere excelentă pentru explorare, snorkeling și peisaje impresionante."
+  },
+  "blueFlag": false
+}

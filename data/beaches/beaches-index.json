@@ -1502,5 +1502,21 @@
     "rating": 4.8,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "red-rocks-of-metamorphosis",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Red Rocks Of Metamorphosis",
+      "ro": "Red Rocks Of Metamorphosis"
+    },
+    "previewImage": "red-rocks-of-metamorphosis.webp",
+    "coordinates": {
+      "lat": 40.225708413062904,
+      "lon": 23.641651904217298
+    },
+    "rating": 4.8,
+    "waterTemperature": 25,
+    "suitableForChildren": false
   }
 ]
