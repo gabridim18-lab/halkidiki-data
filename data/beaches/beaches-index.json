@@ -974,5 +974,21 @@
     "rating": 3.9,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "porto-valitsa-bay",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Porto Valitsa Bay",
+      "ro": "Golful Porto Valitsa"
+    },
+    "previewImage": "porto-valitsa-bay.webp",
+    "coordinates": {
+      "lat": 39.95434032098926,
+      "lon": 23.68327077103013
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

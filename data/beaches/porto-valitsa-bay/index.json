@@ -1,0 +1,133 @@
+{
+  "id": "porto-valitsa-bay",
+  "slug": "porto-valitsa-bay",
+  "name": {
+    "en": "Porto Valitsa Bay",
+    "ro": "Golful Porto Valitsa"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Rocky natural bay",
+    "ro": "Golf natural stâncos"
+  },
+  "coordinates": {
+    "lat": 39.95434032098926,
+    "lon": 23.68327077103013
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "porto-valitsa-bay.webp",
+    "porto-valitsa-bay1.webp",
+    "porto-valitsa-bay2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short rocky access",
+      "ro": "Acces scurt pe stânci"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and scenic",
+      "ro": "Sălbatică și pitorească"
+    },
+    "waterEntry": {
+      "en": "Rocky entry with deeper water",
+      "ro": "Intrare stâncoasă cu apă mai adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm in sheltered spots",
+      "ro": "De obicei calmă în zonele protejate"
+    }
+  },
+  "sand": {
+    "en": "White pebbles with sand patches",
+    "ro": "Pietricele albe cu zone de nisip"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.7 - 3.0m (sudden drop)",
+      "ro": "0.7 - 3.0m (coborâre bruscă)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Snorkeling enthusiasts",
+      "Couples",
+      "Adventure seekers"
+    ],
+    "ro": [
+      "Iubitorii naturii",
+      "Pasionații de snorkeling",
+      "Cupluri",
+      "Cei care caută aventură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Boat trips"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Excursii cu barca"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Porto Valitsa Bay is a picturesque and mostly untouched coastal area located near Paliouri in southeastern Kassandra. Unlike the larger sandy beaches nearby, the bay is characterized by rocky coves, natural stone platforms, and exceptionally clear turquoise water. The coastline creates several small sheltered swimming spots that are especially appreciated by snorkeling enthusiasts and visitors seeking a quieter seaside experience. Mediterranean vegetation and pine trees surround the area, reinforcing its peaceful and natural atmosphere. Facilities remain minimal across most sections of the bay, helping preserve its authentic and secluded character. Porto Valitsa Bay is particularly suited for travelers who enjoy exploration, underwater scenery, and a more scenic alternative to traditional organized beaches.",
+    "ro": "Golful Porto Valitsa este o zonă de coastă pitorească și în mare parte nealterată, situată în apropiere de Paliouri, în sud-estul Kassandrei. Spre deosebire de plajele întinse cu nisip din apropiere, golful este caracterizat de golfuri stâncoase, platforme naturale de piatră și ape turcoaz extrem de limpezi. Linia țărmului formează mai multe zone adăpostite pentru înot, apreciate în special de pasionații de snorkeling și de cei care caută o experiență mai liniștită la mare. Vegetația mediteraneană și pinii din jur contribuie la atmosfera calmă și naturală a zonei. Facilitățile sunt minime în cea mai mare parte a golfului, lucru care ajută la păstrarea caracterului autentic și retras. Porto Valitsa Bay este potrivit în special pentru vizitatorii care apreciază explorarea, peisajele subacvatice și alternativele mai naturale la plajele clasice amenajate."
+  },
+  "blueFlag": false
+}
