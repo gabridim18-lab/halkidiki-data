@@ -1,0 +1,136 @@
+{
+  "id": "psakoudia-beach",
+  "slug": "psakoudia-beach",
+  "name": {
+    "en": "Psakoudia Beach",
+    "ro": "Plaja Psakoudia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Organized family-friendly sandy beach",
+    "ro": "Plajă amenajată cu nisip, potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.25455952450125,
+    "lon": 23.50068708517184
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "psakoudia-beach.webp",
+    "psakoudia-beach1.webp",
+    "psakoudia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach promenade access",
+      "ro": "Acces facil de pe promenadă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and comfortable",
+      "ro": "Relaxată și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Soft sandy gradual entry",
+      "ro": "Intrare lină cu nisip moale"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with small pebbles",
+    "ro": "Nisip moale auriu cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (gentle slope)",
+      "ro": "0.5 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Brilliant turquoise",
+      "ro": "Turcoaz strălucitor"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Hidden gem",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Casual swimmers",
+      "Visitors seeking comfort and facilities"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Înotători ocazionali",
+      "Cei care caută confort și facilități"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Pedal boating"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Bărci cu pedale"
+    ]
+  },
+  "occupancy": "65-75%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-14 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Psakoudia Beach offers a balanced mix of natural beauty and modern facilities along the coast. The beach features soft golden sand with small pebbles and a gently sloping seabed, creating safe and comfortable swimming conditions for both families and experienced swimmers. It is well organized, with sunbeds, beach bars, and tavernas available, while maintaining a relaxed and comfortable atmosphere. Psakoudia Beach is a great choice for visitors looking for convenience, clear water, and a pleasant beach experience.",
+    "ro": "Plaja Psakoudia oferă un echilibru între frumusețea naturală și facilitățile moderne. Plaja are nisip moale auriu cu pietricele mici, iar intrarea în apă este lină, oferind condiții sigure și confortabile pentru familii și înotători. Este bine amenajată, cu șezlonguri, beach baruri și taverne, păstrând în același timp o atmosferă relaxată. Plaja Psakoudia este potrivită pentru cei care caută confort, apă limpede și o experiență plăcută la mare."
+  },
+  "blueFlag": false
+}
