@@ -1,0 +1,136 @@
+{
+  "id": "tripotamos-beach",
+  "slug": "tripotamos-beach",
+  "name": {
+    "en": "Tripotamos Beach",
+    "ro": "Plaja Tripotamos"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Wild adventure beach with rocky seabed",
+    "ro": "Plajă sălbatică pentru aventură cu fund stâncos"
+  },
+  "coordinates": {
+    "lat": 40.1268184018621,
+    "lon": 23.76338820277714
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "tripotamos-beach.webp",
+    "tripotamos-beach1.webp",
+    "tripotamos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Difficult beach access",
+      "ro": "Acces dificil către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Limited rough parking",
+      "ro": "Parcare limitată și dificilă"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and adventurous",
+      "ro": "Sălbatică și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Rocky with sudden depth",
+      "ro": "Stâncoasă cu adâncime bruscă"
+    },
+    "waveLevel": {
+      "en": "Moderate depending on wind",
+      "ro": "Moderată în funcție de vânt"
+    }
+  },
+  "sand": {
+    "en": "Golden-peach sand with pebbles",
+    "ro": "Nisip auriu-piersică cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 3.0m (sudden drop)",
+      "ro": "0.4 - 3.0m (cădere bruscă)"
+    },
+    "clarity": {
+      "en": "Clear azure",
+      "ro": "Azur limpede"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Adventure seekers",
+      "Experienced swimmers",
+      "Snorkeling enthusiasts",
+      "Nature explorers"
+    ],
+    "ro": [
+      "Iubitori de aventură",
+      "Înotători experimentați",
+      "Pasionați de snorkeling",
+      "Exploratori ai naturii"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Cliff jumping",
+      "Underwater photography"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Sărituri",
+      "Fotografie subacvatică"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": true,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.8,
+  "badge": "Explorer",
+  "videos": [],
+  "description": {
+    "en": "Tripotamos Beach is a wild and unique beach where freshwater streams meet the sea, creating a rare natural environment. The seabed changes quickly in depth, with rocky formations ideal for snorkeling but less suitable for inexperienced swimmers. It is best for explorers looking for raw nature rather than comfort.",
+    "ro": "Plaja Tripotamos este o plajă sălbatică și unică, unde izvoarele de apă dulce se întâlnesc cu marea. Adâncimea crește rapid, iar zonele stâncoase sunt excelente pentru snorkeling, dar mai puțin potrivite pentru începători. Este ideală pentru exploratori, nu pentru confort."
+  },
+  "blueFlag": false
+}

@@ -1742,5 +1742,21 @@
     "rating": 4.6,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "tripotamos-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Tripotamos Beach",
+      "ro": "Plaja Tripotamos"
+    },
+    "previewImage": "tripotamos-beach.webp",
+    "coordinates": {
+      "lat": 40.1268184018621,
+      "lon": 23.76338820277714
+    },
+    "rating": 4.8,
+    "waterTemperature": 25,
+    "suitableForChildren": false
   }
 ]
