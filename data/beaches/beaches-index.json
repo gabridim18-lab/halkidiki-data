@@ -1774,5 +1774,21 @@
     "rating": 4.6,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "peaceful-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Peaceful Beach",
+      "ro": "Plaja Peaceful"
+    },
+    "previewImage": "peaceful-beach.webp",
+    "coordinates": {
+      "lat": 40.09492414890943,
+      "lon": 23.776484277714168
+    },
+    "rating": 4.6,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]

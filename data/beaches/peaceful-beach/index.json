@@ -1,0 +1,136 @@
+{
+  "id": "peaceful-beach",
+  "slug": "peaceful-beach",
+  "name": {
+    "en": "Peaceful Beach",
+    "ro": "Plaja Peaceful"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Calm family-friendly sandy beach",
+    "ro": "Plajă liniștită cu nisip, potrivită familiilor"
+  },
+  "coordinates": {
+    "lat": 40.09492414890943,
+    "lon": 23.776484277714168
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "peaceful-beach.webp",
+    "peaceful-beach1.webp",
+    "peaceful-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Convenient nearby parking",
+      "ro": "Parcare convenabilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very calm",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and peaceful",
+      "ro": "Relaxată și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "SUP enthusiasts"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Pasionați de SUP"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Yoga pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Peaceful Beach is a calm and relaxing beach with soft sand and clear water, ideal for quiet beach days. The seabed is sandy and slopes gently, making it very suitable for families and easy swimming. It offers a laid-back atmosphere without heavy crowds.",
+    "ro": "Plaja Peaceful este o plajă liniștită și relaxantă, cu nisip fin și apă limpede. Intrarea în apă este lină și nisipoasă, ideală pentru familii și înot ușor. Atmosfera este calmă, fără aglomerație mare."
+  },
+  "blueFlag": false
+}
