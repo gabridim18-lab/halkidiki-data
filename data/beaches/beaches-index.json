@@ -1822,5 +1822,21 @@
     "rating": 4.7,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "kohi-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Kohi Beach",
+      "ro": "Plaja Kohi"
+    },
+    "previewImage": "kohi-beach.webp",
+    "coordinates": {
+      "lat": 40.074520067400876,
+      "lon": 23.79004308300266
+    },
+    "rating": 4.7,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]

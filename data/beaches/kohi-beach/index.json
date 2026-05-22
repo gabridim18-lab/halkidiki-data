@@ -1,0 +1,138 @@
+{
+  "id": "kohi-beach",
+  "slug": "kohi-beach",
+  "name": {
+    "en": "Kohi Beach",
+    "ro": "Plaja Kohi"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Premium quiet sandy beach",
+    "ro": "Plajă premium liniștită cu nisip fin"
+  },
+  "coordinates": {
+    "lat": 40.074520067400876,
+    "lon": 23.79004308300266
+  },
+  "editorChoice": true,
+  "length": 350,
+  "images": [
+    "kohi-beach.webp",
+    "kohi-beach1.webp",
+    "kohi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and relaxed",
+      "ro": "Liniștită și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Exclusive and peaceful",
+      "ro": "Exclusivistă și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry with deeper sections",
+      "ro": "Intrare lină cu zone mai adânci"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "White sand with pink quartz",
+    "ro": "Nisip alb cu particule roz"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.5 - 2.8m (gentle then drop)",
+      "ro": "0.5 - 2.8m (pantă lină apoi abrupt)"
+    },
+    "clarity": {
+      "en": "Clear sapphire",
+      "ro": "Safir limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Relaxation seekers",
+      "Snorkeling enthusiasts",
+      "Premium beach lovers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Pasionați de snorkeling",
+      "Iubitori de plaje premium"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Yoga",
+      "Photography"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Yoga",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "10-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.7,
+  "badge": "Premium",
+  "videos": [],
+  "description": {
+    "en": "Kohi Beach is a quiet, premium-style beach known for its unique pink sand reflections and crystal-clear water. The entry is shallow at first, then drops deeper, making it suitable for both relaxing swims and snorkeling. It offers a more exclusive and calm atmosphere compared to nearby busy beaches.",
+    "ro": "Plaja Kohi este o plajă liniștită, cu aspect premium, cunoscută pentru reflexiile roz ale nisipului și apa foarte limpede. Intrarea în apă este lină la început, apoi devine mai adâncă, fiind potrivită atât pentru relaxare, cât și pentru snorkeling. Oferă o atmosferă mai exclusivistă și calmă față de plajele aglomerate din apropiere."
+  },
+  "blueFlag": false
+}
