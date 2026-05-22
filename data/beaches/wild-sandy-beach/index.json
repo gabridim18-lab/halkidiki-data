@@ -1,0 +1,134 @@
+{
+  "id": "wild-sandy-beach",
+  "slug": "wild-sandy-beach",
+  "name": {
+    "en": "Wild Sandy Beach",
+    "ro": "Wild Sandy Beach"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Wild natural sandy beach",
+    "ro": "Plajă naturală sălbatică cu nisip"
+  },
+  "coordinates": {
+    "lat": 40.17135899863699,
+    "lon": 23.34954822446193
+  },
+  "editorChoice": true,
+  "length": 1500,
+  "images": [
+    "wild-sandy-beach.webp",
+    "wild-sandy-beach1.webp",
+    "wild-sandy-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct access from dirt road",
+      "ro": "Acces direct de pe drum de pământ"
+    },
+    "parkingDifficulty": {
+      "en": "Open free parking nearby",
+      "ro": "Parcare liberă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Untouched and spacious",
+      "ro": "Naturală și spațioasă"
+    },
+    "waterEntry": {
+      "en": "Extremely shallow sandy entry",
+      "ro": "Intrare extrem de lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Natural sand dunes",
+    "ro": "Dune de nisip naturale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.2m (very gradual)",
+      "ro": "0.3 - 1.2m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Nature lovers",
+      "Campers",
+      "Visitors seeking solitude"
+    ],
+    "ro": [
+      "Familii",
+      "Iubitori de natură",
+      "Campare",
+      "Cei care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Birdwatching",
+      "Kite flying"
+    ],
+    "ro": [
+      "Observarea păsărilor",
+      "Zbor cu zmeul"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": true,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Explorer",
+  "videos": [],
+  "description": {
+    "en": "Wild Sandy Beach is a long, untouched stretch located north of Nea Fokea, offering a true wild beach experience. The beach features natural sand dunes and fine sand, with very clear water and an extremely gentle entry into the sea, making it ideal for families and beginners. There are no organized facilities, preserving the natural and peaceful atmosphere. The wide open space makes it perfect for relaxation and nature lovers. Wild Sandy Beach is a great choice for visitors looking for freedom, space, and a completely natural environment.",
+    "ro": "Wild Sandy Beach este o plajă lungă și neamenajată situată la nord de Nea Fokea, oferind o experiență complet naturală. Plaja are dune de nisip și nisip fin, iar apa este foarte limpede, cu intrare extrem de lină, fiind potrivită pentru familii și începători. Nu există facilități, ceea ce păstrează atmosfera liniștită și naturală. Spațiul larg este ideal pentru relaxare și iubitorii de natură. Wild Sandy Beach este potrivită pentru cei care caută libertate, spațiu și un cadru complet natural."
+  },
+  "blueFlag": false
+}
