@@ -926,5 +926,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "agios-nikolaos-kanistro-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Agios Nikolaos Kanistro Beach",
+      "ro": "Plaja Agios Nikolaos Kanistro"
+    },
+    "previewImage": "agios-nikolaos-kanistro-beach.webp",
+    "coordinates": {
+      "lat": 39.931094904267276,
+      "lon": 23.732352282284474
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

@@ -1,0 +1,133 @@
+{
+  "id": "agios-nikolaos-kanistro-beach",
+  "slug": "agios-nikolaos-kanistro-beach",
+  "name": {
+    "en": "Agios Nikolaos Kanistro Beach",
+    "ro": "Plaja Agios Nikolaos Kanistro"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Semi-organized natural beach",
+    "ro": "Plajă naturală semi-amenajată"
+  },
+  "coordinates": {
+    "lat": 39.931094904267276,
+    "lon": 23.732352282284474
+  },
+  "editorChoice": false,
+  "length": 600,
+  "images": [
+    "agios-nikolaos-kanistro-beach.webp",
+    "agios-nikolaos-kanistro-beach1.webp",
+    "agios-nikolaos-kanistro-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from nearby road",
+      "ro": "Acces ușor din drumul apropiat"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable",
+      "ro": "În general accesibilă"
+    },
+    "noiseLevel": {
+      "en": "Mostly calm",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and natural",
+      "ro": "Relaxată și naturală"
+    },
+    "waterEntry": {
+      "en": "Gentle mixed sand entry",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and small pebbles",
+    "ro": "Nisip și pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 1.8m (gentle slope)",
+      "ro": "0.5 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light blue",
+      "ro": "Albastru deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Iubitorii naturii"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-9 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Agios Nikolaos Kanistro Beach is a peaceful coastal area located in the southeastern part of the Kassandra peninsula, near the Kanistro region. Surrounded by pine trees and natural vegetation, the beach offers a calm and more secluded atmosphere compared to the busier resort beaches of Halkidiki. The shoreline consists of a mix of sand and small pebbles, while the generally calm and clear waters provide comfortable swimming conditions for most visitors. Certain parts of the beach include light organization with sunbeds and small seaside facilities, while other sections remain quieter and more natural. Thanks to its relaxed environment and scenic coastal setting, Agios Nikolaos Kanistro Beach is well suited for visitors looking for a laid-back beach experience away from large crowds.",
+    "ro": "Plaja Agios Nikolaos Kanistro este o zonă de coastă liniștită situată în partea sud-estică a peninsulei Kassandra, în apropierea regiunii Kanistro. Înconjurată de pini și vegetație naturală, plaja oferă o atmosferă calmă și mai retrasă comparativ cu stațiunile aglomerate din Halkidiki. Linia țărmului este formată dintr-un amestec de nisip și pietricele mici, iar apa este, în general, calmă și limpede, oferind condiții confortabile pentru înot. Unele porțiuni ale plajei sunt ușor amenajate cu șezlonguri și facilități de bază, în timp ce alte zone păstrează un caracter mai natural și liniștit. Datorită atmosferei relaxate și cadrului natural plăcut, Agios Nikolaos Kanistro Beach este potrivită pentru cei care caută o experiență de plajă relaxantă și mai puțin aglomerată."
+  },
+  "blueFlag": false
+}
