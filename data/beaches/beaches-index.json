@@ -1054,5 +1054,21 @@
     "rating": 4.6,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "alonaki-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Alonaki Beach",
+      "ro": "Plaja Alonaki"
+    },
+    "previewImage": "alonaki-beach.webp",
+    "coordinates": {
+      "lat": 39.96807822493416,
+      "lon": 23.676985345191817
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

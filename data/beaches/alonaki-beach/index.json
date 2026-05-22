@@ -1,0 +1,133 @@
+{
+  "id": "alonaki-beach",
+  "slug": "alonaki-beach",
+  "name": {
+    "en": "Alonaki Beach",
+    "ro": "Plaja Alonaki"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Small natural cove beach",
+    "ro": "Mică plajă naturală tip golf"
+  },
+  "coordinates": {
+    "lat": 39.96807822493416,
+    "lon": 23.676985345191817
+  },
+  "editorChoice": false,
+  "length": 140,
+  "images": [
+    "alonaki-beach.webp",
+    "alonaki-beach1.webp",
+    "alonaki-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short access path",
+      "ro": "Acces scurt pe potecă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable",
+      "ro": "De obicei accesibilă"
+    },
+    "noiseLevel": {
+      "en": "Mostly peaceful",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Quiet and natural",
+      "ro": "Liniștită și naturală"
+    },
+    "waterEntry": {
+      "en": "Mixed sand and pebble entry",
+      "ro": "Intrare mixtă cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with shells",
+    "ro": "Nisip grosier cu scoici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear green-blue",
+      "ro": "Verde-albastru limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Nature lovers",
+      "Snorkeling enthusiasts",
+      "Relaxation"
+    ],
+    "ro": [
+      "Cupluri",
+      "Iubitorii naturii",
+      "Pasionați de snorkeling",
+      "Relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Alonaki Beach is a small and relatively quiet coastal cove located near Paliouri in the southern part of the Kassandra peninsula. Surrounded by rocky formations and Mediterranean vegetation, the beach offers a more natural and less commercial atmosphere compared to the larger organized beaches nearby. The shoreline consists of coarse sand mixed with shells and small pebbles, while the clear green-blue water is suitable for swimming and light snorkeling. Certain areas become deeper more quickly than typical shallow family beaches, although calmer sections remain accessible for most visitors. Facilities are limited, with only a few nearby options, helping preserve the peaceful and slightly secluded character of the area. Alonaki Beach is best suited for visitors looking for a quieter beach experience focused on relaxation and nature.",
+    "ro": "Plaja Alonaki este un mic golf de coastă liniștit, situat în apropiere de Paliouri, în partea sudică a peninsulei Kassandra. Înconjurată de formațiuni stâncoase și vegetație mediteraneană, plaja oferă o atmosferă mai naturală și mai puțin comercială comparativ cu plajele mari amenajate din apropiere. Țărmul este format din nisip grosier, scoici și pietricele mici, iar apa verde-albăstruie și limpede este potrivită pentru înot și snorkeling ușor. În anumite zone, adâncimea crește mai rapid decât pe plajele clasice pentru familii, însă există și porțiuni mai calme și accesibile. Facilitățile sunt limitate, existând doar câteva opțiuni în apropiere, ceea ce contribuie la păstrarea atmosferei liniștite și ușor retrase. Plaja Alonaki este potrivită pentru cei care caută relaxare, natură și o experiență mai liniștită la mare."
+  },
+  "blueFlag": false
+}
