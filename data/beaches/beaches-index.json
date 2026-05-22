@@ -1470,5 +1470,21 @@
     "rating": 4.4,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "metamorfossi-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Metamorfossi Beach",
+      "ro": "Plaja Metamorfossi"
+    },
+    "previewImage": "metamorfossi-beach.webp",
+    "coordinates": {
+      "lat": 40.227283809098616,
+      "lon": 23.597747651385703
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

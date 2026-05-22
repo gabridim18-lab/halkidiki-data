@@ -1,0 +1,136 @@
+{
+  "id": "metamorfossi-beach",
+  "slug": "metamorfossi-beach",
+  "name": {
+    "en": "Metamorfossi Beach",
+    "ro": "Plaja Metamorfossi"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Peaceful organized sandy beach",
+    "ro": "Plajă liniștită cu nisip, bine amenajată"
+  },
+  "coordinates": {
+    "lat": 40.227283809098616,
+    "lon": 23.597747651385703
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "metamorfossi-beach.webp",
+    "metamorfossi-beach1.webp",
+    "metamorfossi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet to moderate",
+      "ro": "Liniștită spre moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and comfortable",
+      "ro": "Relaxată și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Soft sandy gradual entry",
+      "ro": "Intrare lină cu nisip moale"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with minimal pebbles",
+    "ro": "Nisip moale auriu cu pietricele minime"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Relax sunbath",
+      "Family friendly",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Snorkeling enthusiasts",
+      "Visitors seeking relaxation"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Pasionați de snorkeling",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beach volleyball"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Volei pe plajă"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.5,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Metamorfossi Beach is a peaceful coastal stretch known for its clear water and relaxed atmosphere. The beach features soft golden sand with minimal pebbles and a gently sloping seabed, making it suitable for families and easy swimming. It is well organized, with sunbeds, beach bars, and tavernas, while still maintaining a calm and less crowded environment. Metamorfossi Beach is a great choice for visitors looking for comfort, clear water, and a quieter beach experience.",
+    "ro": "Plaja Metamorfossi este o zonă de coastă liniștită, cunoscută pentru apa limpede și atmosfera relaxată. Plaja are nisip moale auriu cu puține pietricele, iar intrarea în apă este lină, fiind potrivită pentru familii și înot ușor. Este bine amenajată, cu șezlonguri, beach baruri și taverne, păstrând în același timp un ambient calm. Plaja Metamorfossi este potrivită pentru cei care caută confort, apă limpede și o experiență mai liniștită."
+  },
+  "blueFlag": false
+}
