@@ -846,5 +846,21 @@
     "rating": 3.6,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "ani-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Ani Beach",
+      "ro": "Plaja Ani"
+    },
+    "previewImage": "ani-beach.webp",
+    "coordinates": {
+      "lat": 39.92136688176221,
+      "lon": 23.599962905450422
+    },
+    "rating": 3.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

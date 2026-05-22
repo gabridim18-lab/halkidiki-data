@@ -1,0 +1,133 @@
+{
+  "id": "ani-beach",
+  "slug": "ani-beach",
+  "name": {
+    "en": "Ani Beach",
+    "ro": "Plaja Ani"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Quiet natural family beach",
+    "ro": "Plajă liniștită și naturală pentru familii"
+  },
+  "coordinates": {
+    "lat": 39.92136688176221,
+    "lon": 23.599962905450422
+  },
+  "editorChoice": false,
+  "length": 350,
+  "images": [
+    "ani-beach.webp",
+    "ani-beach1.webp",
+    "ani-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy short access",
+      "ro": "Acces scurt și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and natural",
+      "ro": "Relaxată și naturală"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy-pebble entry",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with shells",
+    "ro": "Nisip grosier cu scoici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear green-blue",
+      "ro": "Ape verde-albastre limpezi"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Quiet beach seekers",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută liniște",
+      "Iubitorii naturii"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.5,
+  "videos": [],
+  "description": {
+    "en": "Ani Beach is a small and peaceful coastal spot located near the Loutra area on the southern side of the Kassandra peninsula. Surrounded by natural vegetation and a relaxed seaside environment, it offers a quieter alternative to the larger and busier beaches nearby. The beach combines coarse sand, shells, and small pebbled sections, while the generally calm and clear green-blue waters create pleasant conditions for swimming and relaxing. Pine trees and surrounding vegetation provide partial natural shade, especially during the hotter summer hours. Some areas remain almost untouched and natural, helping preserve the calm atmosphere that attracts visitors looking for privacy and slower beach days. Its proximity to the Loutra thermal area also makes it a convenient stop for combining beach relaxation with nearby wellness experiences.",
+    "ro": "Plaja Ani este o mică zonă de coastă liniștită situată în apropierea zonei Loutra, în partea sudică a peninsulei Kassandra. Înconjurată de vegetație naturală și de o atmosferă relaxată de litoral, oferă o alternativă mai calmă față de plajele mai mari și mai aglomerate din apropiere. Plaja combină nisipul grosier, scoicile și zonele cu pietricele mici, iar apa limpede, verde-albăstruie și în general calmă oferă condiții plăcute pentru înot și relaxare. Pinii și vegetația din jur creează umbră naturală parțială, mai ales în orele călduroase de vară. Unele sectoare au rămas aproape complet naturale, contribuind la atmosfera liniștită apreciată de cei care caută intimitate și zile relaxante la mare. Apropierea de zona termală Loutra face din această plajă și o alegere potrivită pentru combinarea relaxării la mare cu experiențe wellness."
+  },
+  "blueFlag": false
+}
