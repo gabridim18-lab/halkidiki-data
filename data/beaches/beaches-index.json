@@ -1710,5 +1710,21 @@
     "rating": 4.6,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "lagomandra-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Lagomandra Beach",
+      "ro": "Plaja Lagomandra"
+    },
+    "previewImage": "lagomandra-beach.webp",
+    "coordinates": {
+      "lat": 40.13790674004713,
+      "lon": 23.744172956603016
+    },
+    "rating": 4.7,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]

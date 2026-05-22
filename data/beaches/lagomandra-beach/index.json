@@ -1,0 +1,136 @@
+{
+  "id": "lagomandra-beach",
+  "slug": "lagomandra-beach",
+  "name": {
+    "en": "Lagomandra Beach",
+    "ro": "Plaja Lagomandra"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Balanced beach with clear water and natural scenery",
+    "ro": "Plajă echilibrată cu apă limpede și peisaj natural"
+  },
+  "coordinates": {
+    "lat": 40.13790674004713,
+    "lon": 23.744172956603016
+  },
+  "editorChoice": false,
+  "length": 550,
+  "images": [
+    "lagomandra-beach.webp",
+    "lagomandra-beach1.webp",
+    "lagomandra-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate parking availability",
+      "ro": "Parcare moderată disponibilă"
+    },
+    "noiseLevel": {
+      "en": "Balanced and relaxed",
+      "ro": "Relaxată și echilibrată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and scenic",
+      "ro": "Confortabilă și pitorească"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with some pebbles",
+    "ro": "Nisip auriu cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.5 - 2.2m (gentle slope)",
+      "ro": "0.5 - 2.2m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise with emerald tones",
+      "ro": "Turcoaz cu nuanțe smarald"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxed swimmers",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Înotători relaxați",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-14 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.7,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Lagomandra Beach is a well-balanced beach with clear water, soft sand and a relaxed atmosphere. The entry is gentle and suitable for families, while rocky areas add variety for swimming and exploring. It offers a mix of comfort, nature and easy access.",
+    "ro": "Plaja Lagomandra este o plajă echilibrată, cu apă limpede, nisip fin și atmosferă relaxată. Intrarea în apă este lină, potrivită pentru familii, iar zonele stâncoase oferă varietate. Oferă un mix bun între confort, natură și acces ușor."
+  },
+  "blueFlag": false
+}
