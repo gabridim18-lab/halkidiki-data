@@ -1,0 +1,133 @@
+{
+  "id": "kanistro-beach",
+  "slug": "kanistro-beach",
+  "name": {
+    "en": "Kanistro Beach",
+    "ro": "Plaja Kanistro"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized sandy beach",
+    "ro": "Plajă amenajată cu nisip"
+  },
+  "coordinates": {
+    "lat": 39.934931404442146,
+    "lon": 23.69047990949616
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "kanistro-beach.webp",
+    "kanistro-beach1.webp",
+    "kanistro-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct beach access",
+      "ro": "Acces direct la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and relaxed",
+      "ro": "Confortabilă și relaxată"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.6m (gentle slope)",
+      "ro": "0.4 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise",
+      "ro": "Turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath",
+      "Family friendly"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Potrivită pentru familii"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "Casual beachgoers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Vizitatori casual"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.2,
+  "videos": [],
+  "description": {
+    "en": "Kanistro Beach is a pleasant and partially organized coastal area located in the southeastern part of the Kassandra peninsula, near Paliouri. Surrounded by Mediterranean vegetation and open sea views, the beach offers a comfortable environment that combines relaxation with a lightly social atmosphere. The shoreline is mainly covered with fine golden sand, while the generally calm and shallow turquoise waters make the beach suitable for swimming and family-friendly activities. Organized sections include sunbeds, umbrellas, and beach bars serving drinks and light meals, while quieter areas remain available for visitors looking for a more peaceful experience. Thanks to its balanced atmosphere and accessible setting, Kanistro Beach is a popular choice for visitors seeking both comfort and natural scenery in southern Kassandra.",
+    "ro": "Plaja Kanistro este o zonă de coastă plăcută și parțial amenajată, situată în partea sud-estică a peninsulei Kassandra, în apropiere de Paliouri. Înconjurată de vegetație mediteraneană și cu priveliști deschise către mare, plaja oferă un cadru confortabil care îmbină relaxarea cu o atmosferă discret animată. Linia țărmului este acoperită în principal de nisip auriu fin, iar apa turcoaz, calmă și puțin adâncă, face plaja potrivită pentru înot și activități de familie. Zonele organizate includ șezlonguri, umbrele și beach baruri care servesc băuturi și gustări, în timp ce alte porțiuni rămân mai liniștite pentru cei care caută relaxare. Datorită atmosferei echilibrate și accesului facil, Plaja Kanistro este o alegere apreciată pentru vizitatorii care caută atât confort, cât și peisaje naturale în sudul Kassandrei."
+  },
+  "blueFlag": false
+}

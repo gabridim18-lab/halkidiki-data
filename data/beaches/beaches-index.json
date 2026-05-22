@@ -942,5 +942,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "kanistro-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Kanistro Beach",
+      "ro": "Plaja Kanistro"
+    },
+    "previewImage": "kanistro-beach.webp",
+    "coordinates": {
+      "lat": 39.934931404442146,
+      "lon": 23.69047990949616
+    },
+    "rating": 4.2,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
