@@ -1358,5 +1358,21 @@
     "rating": 4.6,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "nea-potidea-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Nea Potidea Beach",
+      "ro": "Plaja Nea Potidea"
+    },
+    "previewImage": "nea-potidea-beach.webp",
+    "coordinates": {
+      "lat": 40.19371304043159,
+      "lon": 23.334910673887194
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

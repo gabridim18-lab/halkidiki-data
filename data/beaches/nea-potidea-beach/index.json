@@ -1,0 +1,134 @@
+{
+  "id": "nea-potidea-beach",
+  "slug": "nea-potidea-beach",
+  "name": {
+    "en": "Nea Potidea Beach",
+    "ro": "Plaja Nea Potidea"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Long organized sandy beach",
+    "ro": "Plajă lungă amenajată cu nisip"
+  },
+  "coordinates": {
+    "lat": 40.19371304043159,
+    "lon": 23.334910673887194
+  },
+  "editorChoice": true,
+  "length": 3000,
+  "images": [
+    "nea-potidea-beach.webp",
+    "nea-potidea-beach1.webp",
+    "nea-potidea-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces facil direct către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Large parking areas nearby",
+      "ro": "Zone mari de parcare în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Lively and active",
+      "ro": "Animată și activă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and lively",
+      "ro": "Confortabilă și animată"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft sand with some seaweed",
+    "ro": "Nisip fin cu puține alge"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (gentle slope)",
+      "ro": "0.5 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light green-blue",
+      "ro": "Verde-albăstrui deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups",
+      "Water sports enthusiasts",
+      "Visitors seeking comfort"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri",
+      "Pasionați de sporturi nautice",
+      "Cei care caută confort"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Jet skiing"
+    ],
+    "ro": [
+      "Înot",
+      "Jet ski"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Nea Potidea Beach is a long and accessible beach located near the canal that connects the Thermaic and Toroneos gulfs, offering a mix of natural scenery and local atmosphere. The beach features fine sand with some seaweed and shallow, gently sloping water, making it ideal for families and casual swimmers. Large sections are organized with sunbeds, umbrellas, beach bars, and nearby facilities. The area is lively but still spacious due to its length. Nea Potidea Beach is a good choice for visitors looking for a well-equipped beach with easy access and a mix of activities and relaxation.",
+    "ro": "Plaja Nea Potidea este o plajă lungă și ușor accesibilă, situată lângă canalul care leagă Golful Thermaic de Golful Toroneos, oferind un amestec de peisaj natural și atmosferă locală. Plaja are nisip fin cu unele alge, iar apa este puțin adâncă și intrarea lină, fiind ideală pentru familii și înotători ocazionali. O mare parte din plajă este amenajată, cu șezlonguri, umbrele, beach baruri și facilități în apropiere. Zona este animată, dar suficient de spațioasă. Plaja Nea Potidea este potrivită pentru cei care caută confort, acces ușor și o combinație între activități și relaxare."
+  },
+  "blueFlag": false
+}
