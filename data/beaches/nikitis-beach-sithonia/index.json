@@ -1,0 +1,136 @@
+{
+  "id": "nikitis-beach-sithonia",
+  "slug": "nikitis-beach-sithonia",
+  "name": {
+    "en": "Nikitis Beach Sithonia",
+    "ro": "Plaja Nikitis Sithonia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Relaxed family-friendly beach",
+    "ro": "Plajă relaxată și potrivită familiilor"
+  },
+  "coordinates": {
+    "lat": 40.132313248332956,
+    "lon": 23.755959338722594
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "nikitis-beach-sithonia.webp",
+    "nikitis-beach-sithonia1.webp",
+    "nikitis-beach-sithonia2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Convenient parking nearby",
+      "ro": "Parcare convenabilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and moderate",
+      "ro": "Relaxată și moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Quiet and comfortable",
+      "ro": "Liniștită și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "Hidden gem",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxed swimmers",
+      "SUP enthusiasts"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Înotători relaxați",
+      "Pasionați de SUP"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Yoga pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Nikitis Beach is a calm and well-balanced beach near Nikiti village, combining clear water with easy access and good facilities. The seabed is sandy and slopes gently, making it ideal for families and relaxed swimming. It offers a quiet atmosphere compared to busier beaches in the area.",
+    "ro": "Plaja Nikitis este o plajă echilibrată și liniștită lângă satul Nikiti, cu apă limpede și acces facil. Intrarea în apă este lină și nisipoasă, ideală pentru familii și înot relaxat. Atmosfera este mai calmă decât pe plajele foarte aglomerate."
+  },
+  "blueFlag": false
+}

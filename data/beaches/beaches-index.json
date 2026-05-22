@@ -1726,5 +1726,21 @@
     "rating": 4.7,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "nikitis-beach-sithonia",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Nikitis Beach Sithonia",
+      "ro": "Plaja Nikitis Sithonia"
+    },
+    "previewImage": "nikitis-beach-sithonia.webp",
+    "coordinates": {
+      "lat": 40.132313248332956,
+      "lon": 23.755959338722594
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
