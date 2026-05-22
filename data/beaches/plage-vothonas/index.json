@@ -71,16 +71,16 @@
   "suitableForChildren": true,
   "highlights": {
     "en": [
+      "Family",
       "Hidden gem",
-      "Hidden gem",
-      "Hidden gem",
-      "Hidden gem"
+      "Paddle",
+      "Relax and sun"
     ],
     "ro": [
+      "Familie",
       "Loc ascuns special",
-      "Loc ascuns special",
-      "Loc ascuns special",
-      "Loc ascuns special"
+      "Paddleboarding",
+      "Relaxare si soare"
     ]
   },
   "bestTimeToVisit": {
@@ -114,8 +114,8 @@
   },
   "occupancy": "20-30%",
   "facilities": {
-    "sunbeds": false,
-    "sunbedPrice": "N/A",
+    "sunbeds": true,
+    "sunbedPrice": "6-15",
     "towelAllowed": true,
     "campingAvailable": false,
     "toiletsAvailable": false,
