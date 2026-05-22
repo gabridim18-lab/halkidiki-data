@@ -1630,5 +1630,21 @@
     "rating": 4.5,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "small-spathies-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Small Spathies Beach",
+      "ro": "Plaja Small Spathies"
+    },
+    "previewImage": "small-spathies-beach.webp",
+    "coordinates": {
+      "lat": 40.17235173318635,
+      "lon": 23.719671521972078
+    },
+    "rating": 4.9,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

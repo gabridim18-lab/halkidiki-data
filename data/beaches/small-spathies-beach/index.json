@@ -1,0 +1,136 @@
+{
+  "id": "small-spathies-beach",
+  "slug": "small-spathies-beach",
+  "name": {
+    "en": "Small Spathies Beach",
+    "ro": "Plaja Small Spathies"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Small hidden natural cove",
+    "ro": "Golf mic natural și ascuns"
+  },
+  "coordinates": {
+    "lat": 40.17235173318635,
+    "lon": 23.719671521972078
+  },
+  "editorChoice": true,
+  "length": 180,
+  "images": [
+    "small-spathies-beach.webp",
+    "small-spathies-beach1.webp",
+    "small-spathies-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short natural access path",
+      "ro": "Acces scurt pe potecă naturală"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Hidden and peaceful",
+      "ro": "Ascunsă și liniștită"
+    },
+    "waterEntry": {
+      "en": "Sand and pebbles with sudden depth",
+      "ro": "Nisip și pietricele cu adâncire bruscă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with golden flecks",
+    "ro": "Nisip alb fin cu petice aurii"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 2.8m (sudden drop)",
+      "ro": "0.4 - 2.8m (scădere bruscă)"
+    },
+    "clarity": {
+      "en": "Crystal-clear sapphire",
+      "ro": "Safir cristalin"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Experienced swimmers",
+      "Snorkeling enthusiasts",
+      "Couples",
+      "Visitors seeking tranquility"
+    ],
+    "ro": [
+      "Înotători experimentați",
+      "Pasionați de snorkeling",
+      "Cupluri",
+      "Cei care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Underwater photography",
+      "Rock exploration"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Fotografie subacvatică",
+      "Explorare stânci"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.9,
+  "badge": "Explorer",
+  "videos": [],
+  "description": {
+    "en": "Small Spathies Beach is a hidden cove on Sithonia’s coast, known for its clear water and peaceful atmosphere. The beach is small, with a mix of sand and pebbles, and the water becomes deep quite quickly. Surrounded by rocks and pine trees, it is ideal for those looking for quiet spots and natural scenery.",
+    "ro": "Small Spathies Beach este un golf mic și liniștit din Sithonia, cunoscut pentru apa foarte limpede și atmosfera relaxată. Plaja este mică, cu nisip și pietricele, iar apa devine adâncă destul de repede. Înconjurată de stânci și pini, este ideală pentru cei care caută liniște și natură."
+  },
+  "blueFlag": false
+}
