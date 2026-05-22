@@ -1,0 +1,133 @@
+{
+  "id": "paralia-chroussou",
+  "slug": "paralia-chroussou",
+  "name": {
+    "en": "Paralia Chroussou",
+    "ro": "Plaja Chroussou"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized family sandy beach",
+    "ro": "Plajă amenajată de familie cu nisip"
+  },
+  "coordinates": {
+    "lat": 39.96153165807367,
+    "lon": 23.67590629576171
+  },
+  "editorChoice": true,
+  "length": 600,
+  "images": [
+    "paralia-chroussou.webp",
+    "paralia-chroussou1.webp",
+    "paralia-chroussou2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from parking",
+      "ro": "Acces facil din parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Relaxed to moderately lively",
+      "ro": "Relaxată spre moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Family-friendly and comfortable",
+      "ro": "Prietenos pentru familii și confortabil"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand",
+    "ro": "Nisip alb fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise",
+      "ro": "Turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxed beach days",
+      "Comfort seekers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Zile relaxante la plajă",
+      "Cei care caută confort"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Paralia Chroussou is a popular sandy beach located near Paliouri in the southern part of the Kassandra peninsula. Known for its calm turquoise water, soft shoreline, and family-friendly atmosphere, it is considered one of the more comfortable and accessible beaches in southern Halkidiki. The beach features fine light-colored sand and shallow, generally calm waters that make it especially suitable for families with children and visitors looking for relaxed swimming conditions. Large sections are organized with sunbeds, umbrellas, beach bars, and seasonal services, while some quieter areas remain available for visitors who prefer a calmer environment. Surrounded by pine trees and Mediterranean vegetation, the beach combines natural scenery with modern comfort, offering a balanced experience between relaxation and organization.",
+    "ro": "Paralia Chroussou este o plajă populară cu nisip, situată în apropiere de Paliouri, în partea sudică a peninsulei Kassandra. Cunoscută pentru apa turcoaz calmă, nisipul fin și atmosfera potrivită pentru familii, este considerată una dintre cele mai confortabile și accesibile plaje din sudul Halkidikiului. Plaja are nisip deschis la culoare și ape puțin adânci și, în general, calme, fiind ideală pentru familii cu copii și pentru cei care caută condiții relaxante pentru înot. Mari porțiuni sunt amenajate cu șezlonguri, umbrele, beach baruri și servicii sezoniere, însă există și zone mai liniștite pentru cei care preferă relaxarea. Înconjurată de pini și vegetație mediteraneană, plaja combină cadrul natural cu facilitățile moderne, oferind un echilibru foarte bun între natură și confort."
+  },
+  "blueFlag": false
+}

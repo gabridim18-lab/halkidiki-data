@@ -1022,5 +1022,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "paralia-chroussou",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Chroussou",
+      "ro": "Plaja Chroussou"
+    },
+    "previewImage": "paralia-chroussou.webp",
+    "coordinates": {
+      "lat": 39.96153165807367,
+      "lon": 23.67590629576171
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
