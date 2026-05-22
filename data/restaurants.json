@@ -1,32 +1,5 @@
 [
   {
-    "id": "zak_bistrot",
-    "beachSlug": "nea_krini_beach",
-    "type": "restaurant",
-    "titleEn": "Zak Contemporary Bistrot",
-    "titleRo": "Zak Contemporary Bistrot",
-    "address": "GW5C+43 Peraia, Greece",
-    "displayAddress": "Nea Perea, Peraia",
-    "hoursEn": "Mon–Thu 09:00–02:00, Fri–Sat 09:00–03:00, Sun 09:00–02:00",
-    "hoursRo": "Lun–Joi 09:00–02:00, Vin–Sâm 09:00–03:00, Dum 09:00–02:00",
-    "website": "http://zak-bistrot.gr/",
-    "phone": "+40 755 687 296",
-    "price": "$$",
-    "rating": 4.5,
-    "descriptionEn": "🍽️ Zak Contemporary Bistrot in Nea Krini blends modern Mediterranean cuisine with artistic flair. ✨ Enjoy carefully crafted dishes, creative plating, and a relaxed yet stylish atmosphere. 🌊 Located close to the sea, it’s the perfect spot for brunch, lunch, or an elegant dinner with friends. 🍷",
-    "descriptionRo": "🍽️ Zak Contemporary Bistrot din Nea Krini îmbină bucătăria mediteraneană modernă cu un stil artistic aparte. ✨ Preparatele atent gândite, platingul creativ și atmosfera relaxată, dar elegantă, creează o experiență specială. 🌊 Situat aproape de mare, este locul ideal pentru brunch, prânz sau o cină rafinată alături de prieteni. 🍷",
-    "images": [
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_zak.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_zak1.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_zak2.webp"
-],
-    "menuImages": [
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_zak1.webp",
-      "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_zak2.webp",
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_zak3.webp"
-]
-  },
-  {
   "id": "en_plo",
   "beachSlug": "nea_krini_beach",
   "type": "restaurant",
@@ -77,32 +50,10 @@
   ]
 },
   {
-  "id": "tessera_kalamaria",
-  "beachSlug": "nea_krini_beach",
-  "type": "restaurant",
-  "titleEn": "Téssera",
-  "titleRo": "Téssera",
-  "address": "Nik. Plastira 53, Kalamaria 551 32, Greece",
-  "displayAddress": "Kalamaria, Thessaloniki",
-  "hoursEn": "Daily 09:00-02:00",
-  "hoursRo": "Zilnic 09:00-02:00",
-  "website": "http://www.tesseracafe.gr/",
-  "phone": "+302310433681",
-  "price": "$$",
-  "rating": 4.6,
-  "descriptionEn": "Téssera in Kalamaria is a modern Greek spot with a cozy atmosphere and a focus on quality ingredients, ideal for relaxed lunches and late dinners with friends. A great choice if you want authentic flavors with a contemporary touch.",
-  "descriptionRo": "Téssera din Kalamaria este un loc modern cu specific grecesc, atmosferă cozy și accent pe ingrediente de calitate, ideal pentru prânzuri relaxate și cine târzii cu prietenii. O alegere foarte bună dacă vrei gust autentic cu un vibe contemporan.",
-  "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_tessera.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_tessera1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_tessera2.webp"
-  ],
-  "menuImages": []
-},
-  {
     "id": "mike_place",
     "beachSlug": "perea_beach",
     "type": "beach_bar",
+    "featured": true,
     "titleEn": "Mike's Place Nea Perea Beach",
     "titleRo": "Mike's Place Nea Perea Beach",
     "address": "GW5C+43 Peraia, Greece",
@@ -129,29 +80,6 @@
 ]
   },
   {
-  "id": "aigialos_perea",
-  "beachSlug": "perea_beach",
-  "type": "restaurant",
-  "titleEn": "Aigialos",
-  "titleRo": "Aigialos",
-  "address": "P. Kountouriotou 43, Perea 570 19, Greece",
-  "displayAddress": "Perea, Thessaloniki",
-  "hoursEn": "Fri–Sat 11:30–23:00, Sun 11:30–22:00, Thu 11:30–22:00, Mon–Wed Closed",
-  "hoursRo": "Vin–Sâm 11:30–23:00, Dum 11:30–22:00, Joi 11:30–22:00, Lun–Mie Închis",
-  "website": "",
-  "phone": "+302392307021",
-  "price": "$$",
-  "rating": 4.6,
-  "descriptionEn": "Aigialos is a seaside fish tavern in Perea, known for fresh seafood, traditional Greek recipes, and a calm atmosphere right by the sea. Perfect for relaxed lunches and sunset dinners with authentic flavors.",
-  "descriptionRo": "Aigialos este o tavernă pescărească situată pe malul mării în Perea, cunoscută pentru peștele proaspăt, rețetele tradiționale grecești și atmosfera liniștită, chiar lângă apă. Ideală pentru prânzuri relaxante și cine la apus.",
-  "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_aigialos.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_aigialos1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zres_aigialos2.webp"
-  ],
-  "menuImages": []
-},
-  {
   "id": "thalassopoulia_perea",
   "beachSlug": "perea_beach",
   "type": "restaurant",
@@ -176,33 +104,6 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_thalassopoulia1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zmenu_thalassopoulia2.webp"
   ]
-},
-  {
-  "id": "wet_red_rose",
-  "beachSlug": "perea_beach",
-  "type": "beach_bar",
-    "featured": true,
-  "beachBarPriceInfo": "5–10€ — including one drink",
-  "titleEn": "Wet Red Rose Beach Bar",
-  "titleRo": "Wet Red Rose Beach Bar",
-  "address": "P. Kountouriotou 117, Nei Epivates 570 19, Greece",
-  "displayAddress": "Nei Epivates, Thessaloniki",
-  "hoursEn": "Daily 09:00–04:00",
-  "hoursRo": "Zilnic 09:00–04:00",
-  "website": "http://www.redrosebar.gr/",
-  "phone": "+302392028401",
-  "price": "$$",
-  "rating": 4.6,
-  "descriptionEn": "Wet Red Rose is a lively beach bar in Nei Epivates 🌊🔥, known for its all-day beach vibes, sunbeds by the sea, refreshing cocktails 🍹, great music 🎶 and energetic nights that last until early morning. Perfect for those who enjoy beach life by day and party atmosphere by night.",
-  "descriptionRo": "Wet Red Rose este un beach bar vibrant din Nei Epivates 🌊🔥, cunoscut pentru vibe-ul de plajă pe tot parcursul zilei, șezlonguri la malul mării, cocktailuri răcoritoare 🍹, muzică bună 🎶 și seri animate până dimineața. Ideal pentru cei care vor distracție ziua și petrecere noaptea.",
-  "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose1.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose2.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose3.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/images/zbar_wet_red_rose4.webp"
-  ],
-  "menuImages": []
 }
 
 
