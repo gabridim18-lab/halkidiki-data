@@ -1,0 +1,133 @@
+{
+  "id": "xenia-beach",
+  "slug": "xenia-beach",
+  "name": {
+    "en": "Xenia Beach",
+    "ro": "Plaja Xenia"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized beach club beach",
+    "ro": "Plajă amenajată tip beach club"
+  },
+  "coordinates": {
+    "lat": 39.95962669703825,
+    "lon": 23.67703429444959
+  },
+  "editorChoice": true,
+  "length": 300,
+  "images": [
+    "xenia-beach.webp",
+    "xenia-beach1.webp",
+    "xenia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate to difficult in summer",
+      "ro": "Moderată spre dificilă vara"
+    },
+    "noiseLevel": {
+      "en": "Lively in organized areas",
+      "ro": "Animată în zonele amenajate"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Stylish and social",
+      "ro": "Elegantă și socială"
+    },
+    "waterEntry": {
+      "en": "Mostly gentle mixed entry",
+      "ro": "Intrare mixtă în general lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and small pebbles",
+    "ro": "Amestec de nisip și pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 3.5m (variable depth depending on section)",
+      "ro": "0.8 - 3.5m (adâncime variabilă în funcție de zonă)"
+    },
+    "clarity": {
+      "en": "Deep blue",
+      "ro": "Albastru închis"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Groups",
+      "Beach club visitors",
+      "Comfort seekers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Grupuri",
+      "Vizitatori de beach club",
+      "Cei care caută confort"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Photography"
+    ],
+    "ro": [
+      "Înot",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "10-25 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Xenia Beach is one of the most popular organized beach areas near Paliouri in southern Kassandra, known for its clear turquoise water, stylish beach clubs, and lively yet relaxed atmosphere. The beach combines soft sand with small pebbled sections and offers generally calm sea conditions suitable for swimming and long beach days. Large portions of the coastline are organized with sunbeds, umbrellas, restaurants, music lounges, and premium beach services, creating a more refined seaside experience compared to quieter nearby beaches. Despite its popularity, some sections remain calmer, especially outside peak hours. Thanks to its modern facilities, beautiful water color, and comfortable environment, Xenia Beach is especially popular among couples, groups, and visitors looking for a more social beach setting in Halkidiki.",
+    "ro": "Plaja Xenia este una dintre cele mai populare plaje amenajate din apropiere de Paliouri, în sudul Kassandrei, fiind cunoscută pentru apa turcoaz foarte clară, beach cluburile elegante și atmosfera animată, dar relaxată. Plaja combină nisipul fin cu porțiuni de pietricele mici și oferă condiții calme pentru înot și petrecerea unei zile complete la mare. Mari porțiuni ale litoralului sunt organizate cu șezlonguri, umbrele, restaurante, lounge-uri cu muzică și servicii premium, oferind o experiență mai rafinată comparativ cu plajele mai liniștite din apropiere. Chiar dacă este foarte populară, anumite zone rămân mai calme, în special în afara orelor de vârf. Datorită facilităților moderne, culorii spectaculoase a apei și atmosferei confortabile, Plaja Xenia este preferată în special de cupluri, grupuri și vizitatori care caută o experiență socială la malul mării în Halkidiki."
+  },
+  "blueFlag": false
+}

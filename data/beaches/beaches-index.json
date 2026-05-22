@@ -1006,5 +1006,21 @@
     "rating": 4.4,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "xenia-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Xenia Beach",
+      "ro": "Plaja Xenia"
+    },
+    "previewImage": "xenia-beach.webp",
+    "coordinates": {
+      "lat": 39.95962669703825,
+      "lon": 23.67703429444959
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
