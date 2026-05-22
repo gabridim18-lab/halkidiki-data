@@ -1118,5 +1118,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "pefkochori-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Pefkochori Beach",
+      "ro": "Plaja Pefkochori"
+    },
+    "previewImage": "pefkochori-beach.webp",
+    "coordinates": {
+      "lat": 39.99294603341496,
+      "lon": 23.60776278425436
+    },
+    "rating": 4.1,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

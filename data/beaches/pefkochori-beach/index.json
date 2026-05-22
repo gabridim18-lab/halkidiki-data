@@ -1,0 +1,133 @@
+{
+  "id": "pefkochori-beach",
+  "slug": "pefkochori-beach",
+  "name": {
+    "en": "Pefkochori Beach",
+    "ro": "Plaja Pefkochori"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Semi-organized coastal beach",
+    "ro": "Plajă de coastă semi-amenajată"
+  },
+  "coordinates": {
+    "lat": 39.99294603341496,
+    "lon": 23.60776278425436
+  },
+  "editorChoice": false,
+  "length": 600,
+  "images": [
+    "pefkochori-beach.webp",
+    "pefkochori-beach1.webp",
+    "pefkochori-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Close to Pefkochori village",
+      "ro": "Aproape de satul Pefkochori"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in summer",
+      "ro": "Moderată vara"
+    },
+    "noiseLevel": {
+      "en": "Relaxed to moderate",
+      "ro": "Relaxată spre moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and accessible",
+      "ro": "Relaxată și accesibilă"
+    },
+    "waterEntry": {
+      "en": "Gentle mixed sand and pebbles entry",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and small pebbles",
+    "ro": "Nisip și pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 1.8m (gentle slope)",
+      "ro": "0.5 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light blue",
+      "ro": "Albastru deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "Visitors staying in Pefkochori"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Vizitatorii cazați în Pefkochori"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-9 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Pefkochori Beach is a pleasant coastal stretch located slightly outside the busiest central promenade area of Pefkochori, on the eastern coast of the Kassandra peninsula. Compared to the lively central Paralia Pefkochori, this section offers a calmer and more relaxed atmosphere while still remaining close to restaurants, cafés, and local amenities. The shoreline consists of a mix of sand and small pebbles, while the sea is generally calm and clear, creating good conditions for swimming throughout the summer season. In certain sections, the seabed becomes deeper more quickly than on shallow lagoon-style beaches, though the overall entry into the water remains comfortable for most visitors. Parts of the beach are organized with sunbeds, umbrellas, and beach bars, while quieter and less crowded areas can still be found further from the center. Surrounded by coastal vegetation and located close to the village, Pefkochori Beach provides a balanced experience between accessibility, comfort, and a more peaceful seaside setting.",
+    "ro": "Plaja Pefkochori este o zonă de coastă plăcută situată ușor în afara promenadei centrale și aglomerate din Pefkochori, pe coasta estică a peninsulei Kassandra. Comparativ cu animata Paralia Pefkochori, această porțiune oferă o atmosferă mai calmă și mai relaxată, păstrând în același timp accesul facil la restaurante, cafenele și facilități locale. Linia țărmului este formată dintr-o combinație de nisip și pietricele mici, iar apa este, în general, calmă și limpede, oferind condiții bune pentru înot pe durata verii. În anumite porțiuni, fundul mării devine mai adânc mai rapid decât pe plajele foarte puțin adânci de tip lagună, însă intrarea în apă rămâne confortabilă pentru majoritatea vizitatorilor. O parte din plajă este amenajată cu șezlonguri, umbrele și beach baruri, în timp ce zone mai liniștite și mai puțin aglomerate pot fi găsite mai departe de centru. Înconjurată de vegetație de coastă și situată aproape de sat, Plaja Pefkochori oferă un echilibru între accesibilitate, confort și o atmosferă relaxată la malul mării."
+  },
+  "blueFlag": false
+}
