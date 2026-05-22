@@ -1,0 +1,29 @@
+{
+  "id": "holy-church-of-saint-demetrius",
+  "type": "what_to_do",
+  "beaches": [
+    "thessaloniki"
+  ],
+  "titleEn": "Holy Church of Saint Demetrius",
+  "titleRo": "Biserica Sfantul Dumitru",
+  "categoryEn": "Ecumenism",
+  "categoryRo": "Ecumenism",
+  "address": "Ag. Dimitriou 81-83, Thessaloniki 546 33, Greece",
+  "hoursEn": "Daily 06:00-22:00",
+  "hoursRo": "Zilnic 06:00-22:00",
+  "website": "http://agdimitriosthes.gr/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.63908814136891,
+    "lon": 22.94769690123337
+  },
+  "phone": "+302310270008",
+  "price": "",
+  "descriptionEn": "⛪ Holy Church of Saint Demetrius is the most important and iconic church in Thessaloniki, dedicated to Saint Demetrius — the patron saint and protector of the city. Rich in history, spirituality, and Byzantine architecture, the church is one of the most significant religious monuments in Greece and a UNESCO World Heritage Site.\n\n✨ Built on the site where Saint Demetrius was imprisoned and martyred during the Roman era, the church welcomes visitors with impressive mosaics, beautiful arches, underground catacombs, and a peaceful atmosphere full of history and faith.\n\n🕯️ Inside, visitors can admire:\n✨ Stunning Byzantine architecture\n🎨 Historic mosaics and religious artwork\n⛪ The sacred crypt of Saint Demetrius\n🕊️ A spiritual and peaceful atmosphere\n📜 Centuries of Greek and Christian history\n\n💙 Whether you visit for its religious importance, architectural beauty, or historical significance, the Holy Church of Saint Demetrius is a must-see landmark and one of Thessaloniki’s most treasured places.",
+  "descriptionRo": "⛪ Holy Church of Saint Demetrius este cea mai importantă și emblematică biserică din Salonic, dedicată Sfântului Dimitrie — protectorul și patronul spiritual al orașului. Încărcată de istorie, spiritualitate și arhitectură bizantină impresionantă, biserica este unul dintre cele mai importante monumente religioase din Grecia și face parte din patrimoniul mondial UNESCO.\n\n✨ Construită pe locul unde Sfântul Dimitrie a fost întemnițat și martirizat în perioada romană, biserica impresionează prin mozaicurile sale spectaculoase, arcadele elegante, catacombele istorice și atmosfera liniștită plină de credință și tradiție.\n\n🕯️ În interior, vizitatorii pot descoperi:\n✨ Arhitectură bizantină impresionantă\n🎨 Mozaicuri istorice și artă religioasă\n⛪ Cripta sacră a Sfântului Dimitrie\n🕊️ O atmosferă spirituală și liniștitoare\n📜 Secole de istorie greacă și creștină\n\n💙 Fie că o vizitezi pentru importanța religioasă, frumusețea arhitecturală sau valoarea istorică, Biserica Sfântul Dimitrie este unul dintre cele mai importante și iubite simboluri ale orașului Salonic.",
+  "images": [
+    "holy-church-of-saint-demetrius1.webp",
+    "holy-church-of-saint-demetrius2.webp",
+    "holy-church-of-saint-demetrius3.webp"
+  ]
+}
