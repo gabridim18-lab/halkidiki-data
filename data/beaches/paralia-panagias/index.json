@@ -1,0 +1,133 @@
+{
+  "id": "paralia-panagias",
+  "slug": "paralia-panagias",
+  "name": {
+    "en": "Paralia Panagias",
+    "ro": "Plaja Panagias"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Natural mixed sand and pebble beach",
+    "ro": "Plajă naturală cu nisip și pietricele"
+  },
+  "coordinates": {
+    "lat": 39.94293130837312,
+    "lon": 23.686532021308793
+  },
+  "editorChoice": false,
+  "length": 500,
+  "images": [
+    "paralia-panagias.webp",
+    "paralia-panagias1.webp",
+    "paralia-panagias2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short access path",
+      "ro": "Acces scurt către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușoară"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și calmă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and secluded",
+      "ro": "Naturală și retrasă"
+    },
+    "waterEntry": {
+      "en": "Moderate mixed entry",
+      "ro": "Intrare mixtă moderată"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with shells",
+    "ro": "Nisip grosier cu scoici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear green-blue",
+      "ro": "Verde-albastru limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Nature lovers",
+      "Quiet escapes",
+      "Snorkeling enthusiasts"
+    ],
+    "ro": [
+      "Cupluri",
+      "Iubitorii naturii",
+      "Cei care caută liniște",
+      "Pasionații de snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Paralia Panagias is a quiet and relatively untouched coastal area located near the Kanistro and Paliouri region in southeastern Kassandra. Compared to the more organized beaches nearby, this beach offers a calmer and more natural atmosphere surrounded by Mediterranean vegetation and pine trees. The shoreline combines coarse sand, shells, and small pebbles, while the generally clear green-blue water makes it suitable for swimming and light snorkeling. Facilities are minimal or absent across much of the beach, helping preserve its peaceful and authentic character. Thanks to its lower visitor density and natural scenery, Paralia Panagias is especially appealing to travelers looking for relaxation, simplicity, and a quieter side of Halkidiki.",
+    "ro": "Paralia Panagias este o zonă de coastă liniștită și relativ nealterată, situată în apropierea regiunii Kanistro și Paliouri din sud-estul Kassandrei. Comparativ cu plajele mai amenajate din apropiere, această plajă oferă o atmosferă mai calmă și mai naturală, înconjurată de vegetație mediteraneană și pini. Linia țărmului combină nisip grosier, scoici și pietricele mici, iar apa verde-albăstruie, în general limpede, este potrivită pentru înot și snorkeling ușor. Facilitățile sunt limitate sau inexistente în mare parte din zonă, contribuind la păstrarea caracterului său autentic și liniștit. Datorită atmosferei relaxate și peisajului natural, Paralia Panagias este apreciată în special de cei care caută liniște, simplitate și o experiență mai puțin aglomerată în Halkidiki."
+  },
+  "blueFlag": false
+}

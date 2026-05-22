@@ -958,5 +958,21 @@
     "rating": 4.2,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-panagias",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Panagias",
+      "ro": "Plaja Panagias"
+    },
+    "previewImage": "paralia-panagias.webp",
+    "coordinates": {
+      "lat": 39.94293130837312,
+      "lon": 23.686532021308793
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
