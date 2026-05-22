@@ -1,0 +1,136 @@
+{
+  "id": "neos-marmaras-beach",
+  "slug": "neos-marmaras-beach",
+  "name": {
+    "en": "Neos Marmaras Beach",
+    "ro": "Plaja Neos Marmaras"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Lively organized town beach",
+    "ro": "Plajă animată de oraș, bine amenajată"
+  },
+  "coordinates": {
+    "lat": 40.08788716918367,
+    "lon": 23.792190757678345
+  },
+  "editorChoice": false,
+  "length": 1500,
+  "images": [
+    "neos-marmaras-beach.webp",
+    "neos-marmaras-beach1.webp",
+    "neos-marmaras-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from town",
+      "ro": "Acces ușor din oraș"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively and active",
+      "ro": "Animată și activă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Social and energetic",
+      "ro": "Socială și energică"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 2.0m (gentle slope)",
+      "ro": "0.3 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise to deep blue",
+      "ro": "Turcoaz spre albastru închis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "sports",
+      "Hidden gem",
+      "family"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Sporturi pe plajă",
+      "Loc ascuns special",
+      "Potrivită pentru familii"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups",
+      "Water sports enthusiasts",
+      "Visitors who want town access"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri",
+      "Pasionați de sporturi nautice",
+      "Vizitatori care vor acces la oraș"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Jet skiing",
+      "Beach volleyball"
+    ],
+    "ro": [
+      "Înot",
+      "Jet ski",
+      "Volei pe plajă"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-20 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "badge": "Activities",
+  "videos": [],
+  "description": {
+    "en": "Neos Marmaras Beach is a lively and well-developed beach close to the town, offering a mix of clear water and modern facilities. The seabed is sandy and slopes gradually, making it suitable for families and casual swimming. It is one of the most active beaches in Sithonia, ideal for those who enjoy atmosphere and activities.",
+    "ro": "Plaja Neos Marmaras este o plajă animată, aproape de oraș, cu apă limpede și facilități moderne. Intrarea în apă este lină și nisipoasă, potrivită pentru familii și înot relaxat. Este una dintre cele mai active plaje din Sithonia, ideală pentru cei care caută atmosferă."
+  },
+  "blueFlag": false
+}

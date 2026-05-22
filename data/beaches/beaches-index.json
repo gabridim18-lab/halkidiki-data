@@ -1790,5 +1790,21 @@
     "rating": 4.6,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "neos-marmaras-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Neos Marmaras Beach",
+      "ro": "Plaja Neos Marmaras"
+    },
+    "previewImage": "neos-marmaras-beach.webp",
+    "coordinates": {
+      "lat": 40.08788716918367,
+      "lon": 23.792190757678345
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
