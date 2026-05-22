@@ -1582,5 +1582,21 @@
     "rating": 4.6,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "koviou-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Koviou Beach",
+      "ro": "Plaja Koviou"
+    },
+    "previewImage": "koviou-beach.webp",
+    "coordinates": {
+      "lat": 40.18227016328608,
+      "lon": 23.709815922946778
+    },
+    "rating": 4.8,
+    "waterTemperature": 23,
+    "suitableForChildren": false
   }
 ]

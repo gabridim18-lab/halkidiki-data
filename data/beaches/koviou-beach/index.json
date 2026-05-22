@@ -1,0 +1,136 @@
+{
+  "id": "koviou-beach",
+  "slug": "koviou-beach",
+  "name": {
+    "en": "Koviou Beach",
+    "ro": "Plaja Koviou"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Wild rocky hidden beach",
+    "ro": "Plajă sălbatică și retrasă"
+  },
+  "coordinates": {
+    "lat": 40.18227016328608,
+    "lon": 23.709815922946778
+  },
+  "editorChoice": true,
+  "length": 300,
+  "images": [
+    "koviou-beach.webp",
+    "koviou-beach1.webp",
+    "koviou-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short rough access path",
+      "ro": "Acces pe potecă scurtă și dificilă"
+    },
+    "parkingDifficulty": {
+      "en": "Limited natural parking",
+      "ro": "Parcare limitată"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Untouched and adventurous",
+      "ro": "Sălbatică și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Rocky pebble entry with sudden deep water",
+      "ro": "Intrare stâncoasă cu apă adâncă rapid"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Pebble-sand mix with white stones",
+    "ro": "Amestec de pietriș și nisip cu pietre albe"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.6 - 4.0m (sudden drop)",
+      "ro": "0.6 - 4.0m (scădere abruptă)"
+    },
+    "clarity": {
+      "en": "Deep cobalt blue",
+      "ro": "Albastru cobalt"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Experienced swimmers",
+      "Free diving enthusiasts",
+      "Nature lovers",
+      "Adventure seekers"
+    ],
+    "ro": [
+      "Înotători experimentați",
+      "Pasionați de scufundări",
+      "Iubitori de natură",
+      "Cei care caută aventură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Free diving",
+      "Snorkeling",
+      "Exploration"
+    ],
+    "ro": [
+      "Scufundări",
+      "Snorkeling",
+      "Explorare"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.8,
+  "badge": "Explorer",
+  "videos": [],
+  "description": {
+    "en": "Koviou Beach is a small and wild beach on Sithonia’s eastern coast, known for its deep crystal-clear water and dramatic rocky landscape. The beach has a mix of pebbles and sand, while the seabed drops quickly, especially near rock formations, making it more suitable for experienced swimmers. There are no facilities, which keeps the area quiet and natural, far from crowded tourist spots. Koviou Beach is ideal for those looking for a raw, untouched environment and excellent underwater visibility.",
+    "ro": "Plaja Koviou este o plajă mică și sălbatică pe coasta estică a Sithoniei, cunoscută pentru apa foarte clară și peisajul stâncos. Plaja are un amestec de pietricele și nisip, iar adâncimea crește rapid, mai ales lângă stânci, fiind mai potrivită pentru înotători experimentați. Nu există facilități, ceea ce păstrează locul liniștit și natural. Este ideală pentru cei care caută o experiență autentică și vizibilitate excelentă sub apă."
+  },
+  "blueFlag": false
+}
