@@ -1,0 +1,136 @@
+{
+  "id": "porto-carras-beach",
+  "slug": "porto-carras-beach",
+  "name": {
+    "en": "Porto Carras Beach",
+    "ro": "Plaja Porto Carras"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Premium organized resort beach",
+    "ro": "Plajă premium organizată de tip resort"
+  },
+  "coordinates": {
+    "lat": 40.077317417397296,
+    "lon": 23.791332913765693
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "porto-carras-beach.webp",
+    "porto-carras-beach1.webp",
+    "porto-carras-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy resort access",
+      "ro": "Acces facil prin resort"
+    },
+    "parkingDifficulty": {
+      "en": "Easy resort parking",
+      "ro": "Parcare ușoară în resort"
+    },
+    "noiseLevel": {
+      "en": "Moderately calm",
+      "ro": "Moderat liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and premium",
+      "ro": "Confortabilă și premium"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "family",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Resort visitors",
+      "Relaxation seekers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Vizitatori ai resortului",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sailing",
+      "Beach volleyball"
+    ],
+    "ro": [
+      "Înot",
+      "Navigație",
+      "Volei pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.7,
+  "badge": "Premium",
+  "videos": [],
+  "description": {
+    "en": "Porto Carras Beach is a well-organized resort beach offering clear water and comfortable facilities. The seabed is sandy with a gentle slope, making it ideal for families and relaxed swimming. It combines a calm atmosphere with a more premium beach experience.",
+    "ro": "Plaja Porto Carras este o plajă organizată de tip resort, cu apă limpede și facilități confortabile. Intrarea în apă este lină și nisipoasă, ideală pentru familii și înot relaxat. Oferă o experiență mai premium, dar într-un cadru liniștit."
+  },
+  "blueFlag": false
+}

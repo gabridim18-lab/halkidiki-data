@@ -1806,5 +1806,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "porto-carras-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Porto Carras Beach",
+      "ro": "Plaja Porto Carras"
+    },
+    "previewImage": "porto-carras-beach.webp",
+    "coordinates": {
+      "lat": 40.077317417397296,
+      "lon": 23.791332913765693
+    },
+    "rating": 4.7,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
