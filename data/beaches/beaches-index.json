@@ -1518,5 +1518,21 @@
     "rating": 4.8,
     "waterTemperature": 25,
     "suitableForChildren": false
+  },
+  {
+    "id": "nikiti-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Nikiti Beach",
+      "ro": "Plaja Nikiti"
+    },
+    "previewImage": "nikiti-beach.webp",
+    "coordinates": {
+      "lat": 40.210830082670924,
+      "lon": 23.67312662155904
+    },
+    "rating": 4.4,
+    "waterTemperature": 26,
+    "suitableForChildren": true
   }
 ]

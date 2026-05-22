@@ -1,0 +1,138 @@
+{
+  "id": "nikiti-beach",
+  "slug": "nikiti-beach",
+  "name": {
+    "en": "Nikiti Beach",
+    "ro": "Plaja Nikiti"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Lively organized resort beach",
+    "ro": "Plajă animată și amenajată de stațiune"
+  },
+  "coordinates": {
+    "lat": 40.210830082670924,
+    "lon": 23.67312662155904
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "nikiti-beach.webp",
+    "nikiti-beach1.webp",
+    "nikiti-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy promenade access",
+      "ro": "Acces facil de pe promenadă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively in central areas",
+      "ro": "Animată în zonele centrale"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Social and active",
+      "ro": "Socială și activă"
+    },
+    "waterEntry": {
+      "en": "Gradual sandy entry with small pebbles",
+      "ro": "Intrare lină cu nisip și pietricele mici"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with small pebbles",
+    "ro": "Nisip auriu fin cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 26,
+    "depth": {
+      "en": "0.3 - 2.0m (gradual slope)",
+      "ro": "0.3 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Brilliant aquamarine",
+      "ro": "Acvamarin strălucitor"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups",
+      "Water sports enthusiasts",
+      "Visitors seeking a lively beach"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri",
+      "Pasionați de sporturi nautice",
+      "Cei care caută o plajă animată"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Jet skiing",
+      "Beach volleyball",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Jet ski",
+      "Volei pe plajă",
+      "Caiac"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.4,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Nikiti Beach is a lively and well-developed coastal area offering a mix of comfort, activities, and clear water. The beach features fine golden sand with a gentle seabed slope, making it suitable for families and swimmers of all levels. Large sections are organized, with sunbeds, beach bars, and water sports available, while still offering quieter areas toward the edges. Nikiti Beach is a great choice for visitors looking for both relaxation and a social beach atmosphere.",
+    "ro": "Plaja Nikiti este o zonă de coastă animată și bine dezvoltată, oferind confort, activități și apă limpede. Plaja are nisip fin auriu, iar intrarea în apă este lină, fiind potrivită pentru familii și înotători de toate nivelurile. O mare parte este amenajată, cu șezlonguri, beach baruri și sporturi nautice, dar există și zone mai liniștite. Plaja Nikiti este potrivită pentru cei care caută atât relaxare, cât și o atmosferă socială."
+  },
+  "blueFlag": false
+}
