@@ -1,0 +1,135 @@
+{
+  "id": "glarokavos-beach",
+  "slug": "glarokavos-beach",
+  "name": {
+    "en": "Glarokavos Beach",
+    "ro": "Plaja Glarokavos"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Lagoon-style sandy beach",
+    "ro": "Plajă cu lagună și nisip fin"
+  },
+  "coordinates": {
+    "lat": 39.97699726169814,
+    "lon": 23.670281140267885
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "glarokavos-beach.webp",
+    "glarokavos-beach1.webp",
+    "glarokavos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from nearby parking",
+      "ro": "Acces facil din zona de parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during summer",
+      "ro": "Moderată vara"
+    },
+    "noiseLevel": {
+      "en": "Relaxed to moderately lively",
+      "ro": "Relaxată spre moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and scenic",
+      "ro": "Relaxată și pitorească"
+    },
+    "waterEntry": {
+      "en": "Shallow sandy lagoon entry",
+      "ro": "Intrare lină prin zonă de lagună"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with occasional pebbles",
+    "ro": "Nisip auriu fin cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.6m (gentle slope)",
+      "ro": "0.4 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Turcoaz deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Family friendly",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Nature lovers",
+      "Relaxation",
+      "Light exploration"
+    ],
+    "ro": [
+      "Familii",
+      "Iubitorii naturii",
+      "Relaxare",
+      "Explorare ușoară"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Pedal boats"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Bărci cu pedale"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Glarokavos Beach is a unique coastal area located near Paliouri in the southern part of the Kassandra peninsula. The beach is known for its distinctive lagoon-like environment, where shallow calm waters meet the open sea, creating one of the more diverse beach landscapes in southern Halkidiki. Fine golden sand, light turquoise water, and naturally sheltered sections make the area especially suitable for families and relaxed swimming. Some sections are organized with beach bars, sunbeds, and seasonal facilities, while quieter natural areas remain available for visitors seeking a calmer atmosphere. Surrounded by pine trees and Mediterranean vegetation, Glarokavos combines accessibility, natural scenery, and varied coastal terrain, making it a popular destination for both relaxation and light exploration.",
+    "ro": "Plaja Glarokavos este o zonă de coastă distinctivă situată în apropiere de Paliouri, în partea sudică a peninsulei Kassandra. Plaja este cunoscută pentru peisajul său de tip lagună, unde apele puțin adânci și calme se întâlnesc cu marea deschisă, creând unul dintre cele mai variate peisaje de coastă din sudul Halkidikiului. Nisipul auriu fin, apa turcoaz deschisă și zonele naturale mai protejate fac plaja foarte potrivită pentru familii și pentru înot relaxant. Unele porțiuni sunt amenajate cu beach baruri, șezlonguri și facilități sezoniere, în timp ce alte zone rămân mai liniștite și naturale pentru cei care caută relaxare. Înconjurată de pini și vegetație mediteraneană, Glarokavos combină accesibilitatea, frumusețea naturală și diversitatea peisajului de coastă, fiind o destinație apreciată atât pentru relaxare, cât și pentru explorare ușoară."
+  },
+  "blueFlag": false
+}

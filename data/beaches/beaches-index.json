@@ -1070,5 +1070,21 @@
     "rating": 3.9,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "glarokavos-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Glarokavos Beach",
+      "ro": "Plaja Glarokavos"
+    },
+    "previewImage": "glarokavos-beach.webp",
+    "coordinates": {
+      "lat": 39.97699726169814,
+      "lon": 23.670281140267885
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
