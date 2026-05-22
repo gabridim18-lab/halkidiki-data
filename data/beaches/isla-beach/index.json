@@ -1,0 +1,136 @@
+{
+  "id": "isla-beach",
+  "slug": "isla-beach",
+  "name": {
+    "en": "Isla Beach",
+    "ro": "Plaja Isla"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Small organized premium beach",
+    "ro": "Plajă mică amenajată cu atmosferă premium"
+  },
+  "coordinates": {
+    "lat": 40.178649748354026,
+    "lon": 23.712445781507217
+  },
+  "editorChoice": true,
+  "length": 250,
+  "images": [
+    "isla-beach.webp",
+    "isla-beach1.webp",
+    "isla-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and moderate",
+      "ro": "Relaxată și moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and premium",
+      "ro": "Relaxată și premium"
+    },
+    "waterEntry": {
+      "en": "Soft sandy entry with shallow water",
+      "ro": "Intrare lină cu nisip fin și apă puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft white sand",
+    "ro": "Nisip alb fin"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 2.2m (gradual slope)",
+      "ro": "0.4 - 2.2m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Aquamarine clear",
+      "ro": "Acvamarin limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "Photography lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Pasionați de fotografie"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Photography"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "10-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.7,
+  "badge": "Premium",
+  "videos": [],
+  "description": {
+    "en": "Isla Beach is a small and scenic beach on Sithonia’s southeastern coast, known for its fine sand and calm clear water. The beach has a gentle entry and shallow areas, making it suitable for families and relaxed swimming. It offers organized sections with beach bars and sunbeds, while still maintaining a quieter and more exclusive atmosphere. Isla Beach is a good choice for visitors looking for comfort, clear water and a peaceful setting.",
+    "ro": "Plaja Isla este o plajă mică și pitorească pe coasta sud-estică a Sithoniei, cunoscută pentru nisipul fin și apa calmă. Plaja are intrare lină în apă și zone puțin adânci, fiind potrivită pentru familii și înot relaxat. Există zone amenajate cu beach baruri și șezlonguri, dar atmosfera rămâne liniștită și mai exclusivistă. Este o alegere bună pentru cei care caută confort și un cadru relaxant."
+  },
+  "blueFlag": false
+}

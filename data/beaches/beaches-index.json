@@ -1598,5 +1598,21 @@
     "rating": 4.8,
     "waterTemperature": 23,
     "suitableForChildren": false
+  },
+  {
+    "id": "isla-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Isla Beach",
+      "ro": "Plaja Isla"
+    },
+    "previewImage": "isla-beach.webp",
+    "coordinates": {
+      "lat": 40.178649748354026,
+      "lon": 23.712445781507217
+    },
+    "rating": 4.7,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
