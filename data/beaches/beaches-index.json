@@ -1198,5 +1198,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-afitos",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Afitos",
+      "ro": "Plaja Afitos"
+    },
+    "previewImage": "paralia-afitos.webp",
+    "coordinates": {
+      "lat": 40.085547840950845,
+      "lon": 23.444385699185613
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

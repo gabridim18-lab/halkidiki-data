@@ -1,0 +1,134 @@
+{
+  "id": "paralia-afitos",
+  "slug": "paralia-afitos",
+  "name": {
+    "en": "Paralia Afitos",
+    "ro": "Plaja Afitos"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Scenic cliffside natural beach",
+    "ro": "Plajă naturală spectaculoasă sub stânci"
+  },
+  "coordinates": {
+    "lat": 40.085547840950845,
+    "lon": 23.444385699185613
+  },
+  "editorChoice": true,
+  "length": 500,
+  "images": [
+    "paralia-afitos.webp",
+    "paralia-afitos1.webp",
+    "paralia-afitos2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Steep downhill access from Afitos village",
+      "ro": "Coborâre abruptă din satul Afitos"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult near beach",
+      "ro": "Dificilă lângă plajă"
+    },
+    "noiseLevel": {
+      "en": "Mostly quiet",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and authentic",
+      "ro": "Naturală și autentică"
+    },
+    "waterEntry": {
+      "en": "Pebbles with deeper water entry",
+      "ro": "Pietricele cu intrare mai adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "White pebbles with sand patches",
+    "ro": "Pietricele albe cu petice de nisip"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.7 - 3.0m (sudden drop)",
+      "ro": "0.7 - 3.0m (coborâre bruscă)"
+    },
+    "clarity": {
+      "en": "Deep blue, very clear",
+      "ro": "Albastru închis, foarte limpede"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Snorkeling enthusiasts",
+      "Nature lovers",
+      "Visitors seeking authentic scenery"
+    ],
+    "ro": [
+      "Cupluri",
+      "Pasionați de snorkeling",
+      "Iubitori de natură",
+      "Cei care caută peisaje autentice"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Rock diving"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Sărituri de pe stânci"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "badge": "Nature",
+  "videos": [],
+  "description": {
+    "en": "Paralia Afitos is a scenic coastal stretch located directly below the traditional stone-built village of Afitos, on the eastern side of the Kassandra peninsula. Surrounded by steep cliffs and panoramic views across the Toroneos Gulf, the beach offers one of the most picturesque and authentic seaside settings in the region. The shoreline is composed of white pebbles mixed with small sandy sections, while the water is exceptionally clear with deep blue tones. In many areas, the seabed becomes deeper relatively quickly, making the beach more suitable for confident swimmers and snorkeling enthusiasts than for very small children. Unlike the heavily organized resort beaches nearby, Paralia Afitos maintains a quieter and more natural atmosphere, with limited facilities and fewer crowded sections. Access usually involves descending from the village using paths or stairways, which contributes to the secluded feeling of the beach. The combination of crystal-clear water, dramatic cliffs, and the traditional architecture of Afitos creates a distinctive and memorable coastal experience.",
+    "ro": "Paralia Afitos este o zonă de coastă spectaculoasă situată chiar sub satul tradițional Afitos, pe partea estică a peninsulei Kassandra. Înconjurată de stânci abrupte și cu priveliști largi către Golful Toroneos, plaja oferă unul dintre cele mai pitorești și autentice peisaje maritime din regiune. Linia țărmului este formată din pietricele albe amestecate cu mici porțiuni de nisip, iar apa este extrem de limpede, cu nuanțe intense de albastru închis. În multe zone, adâncimea crește destul de rapid, ceea ce face plaja mai potrivită pentru înotători și pasionați de snorkeling decât pentru copiii foarte mici. Spre deosebire de plajele foarte amenajate din apropiere, Paralia Afitos păstrează o atmosferă mai liniștită și mai naturală, cu facilități limitate și mai puțină aglomerație. Accesul se face de regulă pe jos din sat, folosind poteci sau scări, ceea ce contribuie la sentimentul de loc retras. Combinația dintre apa cristalină, stâncile spectaculoase și arhitectura tradițională a satului Afitos creează o experiență de coastă aparte și memorabilă."
+  },
+  "blueFlag": false
+}
