@@ -1,0 +1,134 @@
+{
+  "id": "plage-moudounou",
+  "slug": "plage-moudounou",
+  "name": {
+    "en": "Plage Moudounou",
+    "ro": "Plaja Moudounou"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Hidden natural rocky cove",
+    "ro": "Golf natural stâncos și retras"
+  },
+  "coordinates": {
+    "lat": 40.09718372873007,
+    "lon": 23.440760843182225
+  },
+  "editorChoice": false,
+  "length": 250,
+  "images": [
+    "plage-moudounou.webp",
+    "plage-moudounou1.webp",
+    "plage-moudounou2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short footpath access",
+      "ro": "Acces pe potecă scurtă"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Peaceful and secluded",
+      "ro": "Liniștită și retrasă"
+    },
+    "waterEntry": {
+      "en": "Pebbles and rocks with sudden depth",
+      "ro": "Pietricele și stânci cu adâncime bruscă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky sections",
+    "ro": "Majoritatea pietricele cu secțiuni stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 3.0m (sudden drop)",
+      "ro": "0.8 - 3.0m (coborâre bruscă)"
+    },
+    "clarity": {
+      "en": "Deep blue, very clear",
+      "ro": "Albastru închis, foarte limpede"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Snorkeling enthusiasts",
+      "Nature lovers",
+      "Visitors seeking solitude"
+    ],
+    "ro": [
+      "Cupluri",
+      "Pasionați de snorkeling",
+      "Iubitori de natură",
+      "Cei care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Rock exploration"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Explorare stâncoasă"
+    ]
+  },
+  "occupancy": "15-25%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.8,
+  "badge": "Nature",
+  "videos": [],
+  "description": {
+    "en": "Plage Moudounou is a small hidden cove located near the traditional village of Afitos on the eastern coast of the Kassandra peninsula. Surrounded by rocky terrain and Mediterranean vegetation, the beach offers a quiet and natural atmosphere far from the busier organized resort beaches. The shoreline consists mainly of pebbles and rocky sections, while the water is exceptionally clear with deep blue tones. In many places, the seabed becomes deep relatively quickly, making the location more suitable for confident swimmers and snorkeling enthusiasts than for small children. The beach remains largely undeveloped, with no organized facilities, which helps preserve its peaceful and secluded character. Access is usually via a short path leading down toward the coast. Plage Moudounou is especially appreciated by visitors looking for tranquility, crystal-clear water, and a more authentic coastal setting close to Afitos.",
+    "ro": "Plage Moudounou este un mic golf ascuns situat în apropierea satului tradițional Afitos, pe coasta estică a peninsulei Kassandra. Înconjurată de teren stâncos și vegetație mediteraneană, plaja oferă o atmosferă liniștită și naturală, departe de zonele turistice foarte amenajate. Linia țărmului este formată în principal din pietricele și porțiuni stâncoase, iar apa este extrem de limpede, cu nuanțe intense de albastru. În multe zone, adâncimea crește relativ rapid, ceea ce face plaja mai potrivită pentru înotători experimentați și pasionați de snorkeling decât pentru copiii mici. Zona este aproape complet neamenajată și nu dispune de facilități organizate, lucru care contribuie la caracterul retras și liniștit al locului. Accesul se face de regulă pe o potecă scurtă care coboară spre coastă. Plage Moudounou este apreciată în special de cei care caută liniște, apă cristalină și un cadru autentic aproape de Afitos."
+  },
+  "blueFlag": false
+}

@@ -1230,5 +1230,21 @@
     "rating": 3.7,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "plage-moudounou",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Plage Moudounou",
+      "ro": "Plaja Moudounou"
+    },
+    "previewImage": "plage-moudounou.webp",
+    "coordinates": {
+      "lat": 40.09718372873007,
+      "lon": 23.440760843182225
+    },
+    "rating": 3.8,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
