@@ -1,0 +1,138 @@
+{
+  "id": "elia-beach",
+  "slug": "elia-beach",
+  "name": {
+    "en": "Elia Beach",
+    "ro": "Plaja Elia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Relaxed beach with natural shade",
+    "ro": "Plajă relaxată cu umbră naturală"
+  },
+  "coordinates": {
+    "lat": 40.1501827255331,
+    "lon": 23.730911249629152
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "elia-beach.webp",
+    "elia-beach1.webp",
+    "elia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually accessible parking",
+      "ro": "Parcare accesibilă de obicei"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and moderate",
+      "ro": "Relaxată și moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Balanced and peaceful",
+      "ro": "Echilibrată și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden sand with natural shade",
+    "ro": "Nisip auriu cu umbră naturală"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 2.0m (gentle slope)",
+      "ro": "0.4 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear emerald",
+      "ro": "Smarald cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxed swimmers",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Înotători relaxați",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Kayaking",
+      "Yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Caiac",
+      "Yoga"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Elia Beach is a quiet and balanced beach with clear water and natural shade. The seabed is sandy with a gentle slope, making it suitable for both families and relaxed swimming. Rocky edges offer decent snorkeling opportunities without being too demanding.",
+    "ro": "Plaja Elia este o plajă liniștită și echilibrată, cu apă limpede și umbră naturală. Intrarea în apă este lină, fiind potrivită pentru familii și înot relaxat. Zonele stâncoase oferă condiții bune pentru snorkeling."
+  },
+  "blueFlag": false
+}

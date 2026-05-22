@@ -1694,5 +1694,21 @@
     "rating": 4.3,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "elia-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Elia Beach",
+      "ro": "Plaja Elia"
+    },
+    "previewImage": "elia-beach.webp",
+    "coordinates": {
+      "lat": 40.1501827255331,
+      "lon": 23.730911249629152
+    },
+    "rating": 4.6,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
