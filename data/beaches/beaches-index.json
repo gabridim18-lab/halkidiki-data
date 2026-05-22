@@ -1086,5 +1086,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "lagoon-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Lagoon Beach",
+      "ro": "Plaja Lagoon"
+    },
+    "previewImage": "lagoon-beach.webp",
+    "coordinates": {
+      "lat": 39.981364445804545,
+      "lon": 23.661422944466448
+    },
+    "rating": 4.4,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

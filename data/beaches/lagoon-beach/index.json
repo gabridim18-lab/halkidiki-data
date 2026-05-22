@@ -1,0 +1,133 @@
+{
+  "id": "lagoon-beach",
+  "slug": "lagoon-beach",
+  "name": {
+    "en": "Lagoon Beach",
+    "ro": "Plaja Lagoon"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Shallow lagoon-style sandy beach",
+    "ro": "Plajă cu lagună și apă puțin adâncă"
+  },
+  "coordinates": {
+    "lat": 39.981364445804545,
+    "lon": 23.661422944466448
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "lagoon-beach.webp",
+    "lagoon-beach1.webp",
+    "lagoon-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Mostly relaxed",
+      "ro": "În general relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Family-friendly and peaceful",
+      "ro": "Liniștită și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Very shallow sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually very calm",
+      "ro": "De obicei foarte calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft white sand",
+    "ro": "Nisip alb moale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.2m (very gradual)",
+      "ro": "0.3 - 1.2m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Relax sunbath",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Relaxare la soare",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Children",
+      "Relaxation",
+      "Casual swimming"
+    ],
+    "ro": [
+      "Familii",
+      "Copii",
+      "Relaxare",
+      "Înot relaxant"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sandcastle building"
+    ],
+    "ro": [
+      "Înot",
+      "Construit castele de nisip"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.4,
+  "videos": [],
+  "description": {
+    "en": "Lagoon Beach is a calm and shallow coastal area located near Paliouri, in the southern part of the Kassandra peninsula. The beach is known for its lagoon-like formation, soft white sand, and exceptionally shallow turquoise water that creates ideal conditions for families and relaxed swimming. Large sections remain naturally protected from stronger waves, giving the beach a peaceful atmosphere throughout most summer days. Some parts are organized with sunbeds, umbrellas, and seasonal beach bars, while quieter natural sections remain available for visitors seeking a more laid-back experience. The surrounding coastal landscape includes low Mediterranean vegetation and open sea views, contributing to the relaxed and scenic character of the area. Lagoon Beach is especially appreciated by families with children and visitors looking for calm water conditions and an easy beach day in southern Kassandra.",
+    "ro": "Plaja Lagoon este o zonă de coastă liniștită și puțin adâncă, situată în apropiere de Paliouri, în partea sudică a peninsulei Kassandra. Plaja este cunoscută pentru forma sa de tip lagună, nisipul alb fin și apa turcoaz foarte puțin adâncă, care creează condiții ideale pentru familii și pentru înot relaxant. O mare parte a plajei este protejată natural de valuri puternice, oferind o atmosferă calmă pe durata majorității zilelor de vară. Unele porțiuni sunt amenajate cu șezlonguri, umbrele și beach baruri sezoniere, în timp ce alte zone rămân mai naturale și mai liniștite pentru cei care caută relaxare. Peisajul din jur include vegetație mediteraneană joasă și priveliști largi către mare, contribuind la caracterul relaxant și pitoresc al zonei. Plaja Lagoon este apreciată în special de familiile cu copii și de vizitatorii care caută ape calme și o experiență confortabilă în sudul Kassandrei."
+  },
+  "blueFlag": false
+}
