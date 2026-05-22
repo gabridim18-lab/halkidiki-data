@@ -1454,5 +1454,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-sargani",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Sargani",
+      "ro": "Plaja Sargani"
+    },
+    "previewImage": "paralia-sargani.webp",
+    "coordinates": {
+      "lat": 40.225963608111506,
+      "lon": 23.584530766214723
+    },
+    "rating": 4.4,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

@@ -1,0 +1,136 @@
+{
+  "id": "paralia-sargani",
+  "slug": "paralia-sargani",
+  "name": {
+    "en": "Paralia Sargani",
+    "ro": "Plaja Sargani"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Peaceful partially organized sandy beach",
+    "ro": "Plajă liniștită cu nisip, parțial amenajată"
+  },
+  "coordinates": {
+    "lat": 40.225963608111506,
+    "lon": 23.584530766214723
+  },
+  "editorChoice": false,
+  "length": 900,
+  "images": [
+    "paralia-sargani.webp",
+    "paralia-sargani1.webp",
+    "paralia-sargani2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet to moderate",
+      "ro": "Liniștită spre moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and peaceful",
+      "ro": "Relaxată și liniștită"
+    },
+    "waterEntry": {
+      "en": "Soft sandy gradual entry",
+      "ro": "Intrare lină cu nisip moale"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with small pebbles",
+    "ro": "Nisip moale auriu cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 1.5m (gentle slope)",
+      "ro": "0.5 - 1.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear azure",
+      "ro": "Azur cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem",
+      "Family friendly"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Snorkeling enthusiasts",
+      "Visitors seeking tranquility"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Pasionați de snorkeling",
+      "Cei care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beach soccer"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Fotbal pe plajă"
+    ]
+  },
+  "occupancy": "55-65%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.4,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Paralia Sargani is a peaceful beach on Sithonia's coast, offering a relaxed atmosphere surrounded by natural scenery. The beach features soft golden sand with small pebbles and a gently sloping seabed, making it suitable for families and easy swimming. It is partly organized, with basic facilities such as sunbeds, beach bars, and showers, while still maintaining a calm and less crowded environment. Paralia Sargani is a good choice for visitors looking for a quiet and comfortable beach experience.",
+    "ro": "Paralia Sargani este o plajă liniștită pe coasta Sithoniei, cu o atmosferă relaxată și peisaj natural. Plaja are nisip auriu moale cu pietricele mici, iar intrarea în apă este lină, fiind potrivită pentru familii și înot ușor. Este parțial amenajată, cu facilități de bază precum șezlonguri, beach baruri și dușuri, dar păstrează o atmosferă calmă. Paralia Sargani este potrivită pentru cei care caută o experiență liniștită și confortabilă."
+  },
+  "blueFlag": false
+}
