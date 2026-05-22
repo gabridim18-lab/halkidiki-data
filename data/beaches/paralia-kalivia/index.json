@@ -1,0 +1,136 @@
+{
+  "id": "paralia-kalivia",
+  "slug": "paralia-kalivia",
+  "name": {
+    "en": "Paralia Kalivia",
+    "ro": "Plaja Kalivia"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Relaxed family-friendly sandy beach",
+    "ro": "Plajă relaxantă cu nisip, potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.27539773853467,
+    "lon": 23.389304684467778
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "paralia-kalivia.webp",
+    "paralia-kalivia1.webp",
+    "paralia-kalivia2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces facil direct"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and moderate",
+      "ro": "Relaxată și moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Calm and spacious",
+      "ro": "Liniștită și spațioasă"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden sand with small pebbles",
+    "ro": "Nisip auriu cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.5m (very gentle slope)",
+      "ro": "0.3 - 1.5m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Turquoise",
+      "ro": "Turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Relax sunbath",
+      "Family friendly",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "Visitors avoiding crowds"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Vizitatori care evită aglomerația"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beach volleyball"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Volei pe plajă"
+    ]
+  },
+  "occupancy": "50-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.5,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Paralia Kalivia is a quieter beach on the Kassandra peninsula, offering a relaxed and family-friendly environment away from the busiest resort areas. The beach features golden sand with small pebbles and clear turquoise water, with a very gentle entry into the sea, making it ideal for children and swimming. It is partly organized, with sunbeds, tavernas, and basic facilities, while still maintaining a calm and uncrowded atmosphere compared to more popular beaches. Paralia Kalivia is a good choice for visitors looking for comfort, space, and a more peaceful beach experience.",
+    "ro": "Paralia Kalivia este o plajă mai liniștită din peninsula Kassandra, oferind un mediu relaxant și potrivit pentru familii, departe de zonele aglomerate. Plaja are nisip auriu cu pietricele mici, iar apa este limpede, de culoare turcoaz, cu intrare foarte lină, fiind ideală pentru copii și înot. Este parțial amenajată, cu șezlonguri, taverne și facilități de bază, păstrând totodată o atmosferă mai aerisită decât plajele foarte populare. Paralia Kalivia este potrivită pentru cei care caută confort, spațiu și o experiență mai liniștită."
+  },
+  "blueFlag": false
+}

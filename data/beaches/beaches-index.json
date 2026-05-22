@@ -1374,5 +1374,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-kalivia",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paralia Kalivia",
+      "ro": "Plaja Kalivia"
+    },
+    "previewImage": "paralia-kalivia.webp",
+    "coordinates": {
+      "lat": 40.27539773853467,
+      "lon": 23.389304684467778
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
