@@ -1534,5 +1534,21 @@
     "rating": 4.4,
     "waterTemperature": 26,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-kastri",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Kastri",
+      "ro": "Plaja Kastri"
+    },
+    "previewImage": "paralia-kastri.webp",
+    "coordinates": {
+      "lat": 40.19673914471809,
+      "lon": 23.683382335025644
+    },
+    "rating": 4.7,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

@@ -1,0 +1,136 @@
+{
+  "id": "paralia-kastri",
+  "slug": "paralia-kastri",
+  "name": {
+    "en": "Paralia Kastri",
+    "ro": "Plaja Kastri"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Scenic peaceful organized beach",
+    "ro": "Plajă pitorească, liniștită și parțial amenajată"
+  },
+  "coordinates": {
+    "lat": 40.19673914471809,
+    "lon": 23.683382335025644
+  },
+  "editorChoice": true,
+  "length": 550,
+  "images": [
+    "paralia-kastri.webp",
+    "paralia-kastri1.webp",
+    "paralia-kastri2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during summer",
+      "ro": "Moderată în timpul verii"
+    },
+    "noiseLevel": {
+      "en": "Generally peaceful",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and scenic",
+      "ro": "Relaxată și pitorească"
+    },
+    "waterEntry": {
+      "en": "Soft sandy entry with gradual depth",
+      "ro": "Intrare lină cu nisip fin și adâncime graduală"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Powdery white sand with seashells",
+    "ro": "Nisip alb fin cu scoici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 2.0m (gradual slope)",
+      "ro": "0.3 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Transparent emerald",
+      "ro": "Smarald transparent"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Kayaking",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Caiac",
+      "Relaxare"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.7,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Paralia Kastri is a quieter and scenic beach on Sithonia’s eastern coast, surrounded by pine trees and rock formations. The beach features fine white sand and clear emerald water, with a gentle entry that makes it suitable for families and relaxed swimming. It offers a balanced atmosphere, with some organized sections including sunbeds and beach bars, while still maintaining a natural and peaceful feel. Paralia Kastri is ideal for visitors looking for clear water, comfort, and a more relaxed environment.",
+    "ro": "Plaja Paralia Kastri este o plajă liniștită și pitorească pe coasta estică a Sithoniei, înconjurată de pini și formațiuni stâncoase. Plaja are nisip alb fin și apă limpede de culoare smarald, cu intrare lină, fiind potrivită pentru familii și înot relaxat. Oferă un echilibru între zone amenajate cu șezlonguri și beach baruri și zone mai naturale și liniștite. Paralia Kastri este ideală pentru cei care caută apă clară, confort și o atmosferă relaxată."
+  },
+  "blueFlag": false
+}
