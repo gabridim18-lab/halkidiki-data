@@ -1,0 +1,138 @@
+{
+  "id": "spathies-beach",
+  "slug": "spathies-beach",
+  "name": {
+    "en": "Spathies Beach",
+    "ro": "Plaja Spathies"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Balanced natural beach with facilities",
+    "ro": "Plajă naturală echilibrată cu facilități"
+  },
+  "coordinates": {
+    "lat": 40.170484832246785,
+    "lon": 23.720989199396854
+  },
+  "editorChoice": true,
+  "length": 350,
+  "images": [
+    "spathies-beach.webp",
+    "spathies-beach1.webp",
+    "spathies-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during high season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and balanced",
+      "ro": "Relaxată și echilibrată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and natural",
+      "ro": "Relaxată și naturală"
+    },
+    "waterEntry": {
+      "en": "Shallow sandy entry followed by deeper water",
+      "ro": "Intrare lină urmată de apă mai adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden-white sand with smooth marble pebbles",
+    "ro": "Nisip auriu-alb cu pietre de marmură netede"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 3.2m (gradual then drop)",
+      "ro": "0.5 - 3.2m (pantă lină apoi scădere)"
+    },
+    "clarity": {
+      "en": "Emerald to deep blue",
+      "ro": "Smarald până la albastru închis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Snorkeling enthusiasts",
+      "Couples",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Pasionați de snorkeling",
+      "Cupluri",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beachcombing",
+      "Cliff jumping"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Colectare scoici",
+      "Sărituri"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.7,
+  "badge": "Snorkeling",
+  "videos": [],
+  "description": {
+    "en": "Spathies Beach is a balanced mix between wild nature and comfort, with clear water and easy access. The entry is shallow at first, then becomes deeper, making it suitable for both families and better swimmers. Rock formations and marble pebbles create excellent conditions for snorkeling and exploration.",
+    "ro": "Plaja Spathies combină perfect natura sălbatică cu facilități de bază, având apă foarte clară și acces ușor. Intrarea în apă este lină la început, apoi devine mai adâncă, fiind potrivită atât pentru familii cât și pentru înotători mai buni. Formațiunile stâncoase și pietrele de marmură oferă condiții excelente pentru snorkeling."
+  },
+  "blueFlag": false
+}

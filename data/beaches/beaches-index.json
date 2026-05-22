@@ -1646,5 +1646,21 @@
     "rating": 4.9,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "spathies-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Spathies Beach",
+      "ro": "Plaja Spathies"
+    },
+    "previewImage": "spathies-beach.webp",
+    "coordinates": {
+      "lat": 40.170484832246785,
+      "lon": 23.720989199396854
+    },
+    "rating": 4.7,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
