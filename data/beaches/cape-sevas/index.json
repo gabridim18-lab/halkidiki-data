@@ -1,0 +1,133 @@
+{
+  "id": "cape-sevas",
+  "slug": "cape-sevas",
+  "name": {
+    "en": "Cape Sevas",
+    "ro": "Capul Sevas"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Wild rocky cape",
+    "ro": "Cap stâncos sălbatic"
+  },
+  "coordinates": {
+    "lat": 39.92211506586244,
+    "lon": 23.749088352247032
+  },
+  "editorChoice": false,
+  "length": 300,
+  "images": [
+    "cape-sevas.webp",
+    "cape-sevas1.webp",
+    "cape-sevas2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short rocky access path",
+      "ro": "Acces scurt pe teren stâncos"
+    },
+    "parkingDifficulty": {
+      "en": "Very limited",
+      "ro": "Foarte limitată"
+    },
+    "noiseLevel": {
+      "en": "Extremely peaceful",
+      "ro": "Extrem de liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Raw and adventurous",
+      "ro": "Brută și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Rocky entry with deep water",
+      "ro": "Intrare stâncoasă cu apă adâncă"
+    },
+    "waveLevel": {
+      "en": "Often windy and dynamic",
+      "ro": "Adesea vântoasă și agitată"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky sections",
+    "ro": "Pietriș și zone stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 4.0m (sudden drop)",
+      "ro": "0.8 - 4.0m (coborâre bruscă)"
+    },
+    "clarity": {
+      "en": "Deep blue, very clear",
+      "ro": "Albastru închis, foarte limpede"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Adventure seekers",
+      "Photographers",
+      "Nature lovers",
+      "Experienced swimmers"
+    ],
+    "ro": [
+      "Cei aventuroși",
+      "Fotografi",
+      "Iubitorii naturii",
+      "Înotători experimentați"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Rock climbing",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Escaladă stânci",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.8,
+  "videos": [],
+  "description": {
+    "en": "Cape Sevas is a rugged and exposed coastal point located near the Kanistro area, at the southeastern edge of the Kassandra peninsula. Unlike traditional sandy beaches, the area is dominated by dramatic rocky formations, natural stone platforms, and deep crystal-clear waters overlooking the open Aegean Sea. The coastline feels raw and untouched, surrounded by Mediterranean vegetation and isolated from organized tourist development. Due to its exposed position, sea conditions can become dynamic on windy days, creating a more adventurous atmosphere compared to calmer bays nearby. The underwater terrain and exceptional water clarity make the area attractive for snorkeling and exploration, while the rocky landscape provides impressive scenery for photography. Cape Sevas is best suited for experienced visitors looking for solitude, wild coastal scenery, and a more authentic off-the-grid experience in southern Kassandra.",
+    "ro": "Cape Sevas este un punct de coastă sălbatic și expus, situat în apropierea zonei Kanistro, în extremitatea sud-estică a peninsulei Kassandra. Spre deosebire de plajele clasice cu nisip, zona este dominată de formațiuni stâncoase spectaculoase, platforme naturale de piatră și ape adânci și extrem de limpezi cu vedere către Marea Egee. Linia țărmului are un aspect brut și nealterat, înconjurat de vegetație mediteraneană și izolat de dezvoltarea turistică organizată. Datorită poziției deschise, condițiile mării pot deveni dinamice în zilele cu vânt, oferind o atmosferă mai aventuroasă comparativ cu golfurile liniștite din apropiere. Relieful subacvatic și claritatea excepțională a apei fac zona atractivă pentru snorkeling și explorare, iar peisajul stâncos oferă cadre spectaculoase pentru fotografie. Cape Sevas este potrivit în special pentru vizitatori experimentați care caută liniște, peisaje naturale dramatice și o experiență autentică, departe de zonele turistice clasice."
+  },
+  "blueFlag": false
+}

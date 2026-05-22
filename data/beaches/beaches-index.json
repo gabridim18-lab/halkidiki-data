@@ -894,5 +894,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "cape-sevas",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Cape Sevas",
+      "ro": "Capul Sevas"
+    },
+    "previewImage": "cape-sevas.webp",
+    "coordinates": {
+      "lat": 39.92211506586244,
+      "lon": 23.749088352247032
+    },
+    "rating": 3.8,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
