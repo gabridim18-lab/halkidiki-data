@@ -990,5 +990,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "paliouri-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Paliouri Beach",
+      "ro": "Plaja Paliouri"
+    },
+    "previewImage": "paliouri-beach.webp",
+    "coordinates": {
+      "lat": 39.957778033868024,
+      "lon": 23.679401961061583
+    },
+    "rating": 4.4,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
