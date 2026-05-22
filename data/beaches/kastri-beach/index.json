@@ -1,0 +1,136 @@
+{
+  "id": "kastri-beach",
+  "slug": "kastri-beach",
+  "name": {
+    "en": "Kastri Beach",
+    "ro": "Plaja Kastri"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Wild rocky beach",
+    "ro": "Plajă stâncoasă sălbatică"
+  },
+  "coordinates": {
+    "lat": 40.19243242548101,
+    "lon": 23.686574628675796
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "kastri-beach.webp",
+    "kastri-beach1.webp",
+    "kastri-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short natural access path",
+      "ro": "Acces scurt pe potecă naturală"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and authentic",
+      "ro": "Sălbatică și autentică"
+    },
+    "waterEntry": {
+      "en": "Pebbles and coarse sand with steep depth",
+      "ro": "Pietricele și nisip grosier cu adâncire abruptă"
+    },
+    "waveLevel": {
+      "en": "Usually calm in good weather",
+      "ro": "De obicei calmă pe vreme bună"
+    }
+  },
+  "sand": {
+    "en": "White pebbles with coarse sand",
+    "ro": "Pietricele albe cu nisip grosier"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 3.0m (steep drop)",
+      "ro": "0.5 - 3.0m (scădere abruptă)"
+    },
+    "clarity": {
+      "en": "Deep sapphire",
+      "ro": "Albastru safir"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Experienced swimmers",
+      "Snorkeling enthusiasts",
+      "Photographers",
+      "Visitors seeking solitude"
+    ],
+    "ro": [
+      "Înotători experimentați",
+      "Pasionați de snorkeling",
+      "Fotografi",
+      "Cei care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Cliff jumping",
+      "Photography"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Sărituri",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.9,
+  "badge": "Explorer",
+  "videos": [],
+  "description": {
+    "en": "Kastri Beach is a quiet and wild beach on Sithonia’s eastern coast, known for its deep clear water. The beach has pebbles and coarse sand, with a sudden depth near rocky areas, making it better for experienced swimmers. There are no facilities, keeping the place natural and uncrowded. Kastri Beach is ideal for snorkeling and a more authentic, off-the-grid experience.",
+    "ro": "Plaja Kastri este o plajă liniștită și sălbatică pe coasta estică a Sithoniei, cunoscută pentru apa foarte clară. Plaja are pietricele și nisip grosier, iar adâncimea crește rapid, fiind mai potrivită pentru înotători experimentați. Nu există facilități, ceea ce păstrează locul natural și neaglomerat. Este ideală pentru snorkeling și pentru o experiență autentică."
+  },
+  "blueFlag": false
+}

@@ -1550,5 +1550,21 @@
     "rating": 4.7,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "kastri-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Kastri Beach",
+      "ro": "Plaja Kastri"
+    },
+    "previewImage": "kastri-beach.webp",
+    "coordinates": {
+      "lat": 40.19243242548101,
+      "lon": 23.686574628675796
+    },
+    "rating": 4.9,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
