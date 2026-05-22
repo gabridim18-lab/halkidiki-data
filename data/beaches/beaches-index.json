@@ -1422,5 +1422,21 @@
     "rating": 4.3,
     "waterTemperature": 22,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-psakoudia",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Psakoudia",
+      "ro": "Plaja Psakoudia"
+    },
+    "previewImage": "paralia-psakoudia.webp",
+    "coordinates": {
+      "lat": 40.26123489694368,
+      "lon": 23.48640123306366
+    },
+    "rating": 4.5,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]

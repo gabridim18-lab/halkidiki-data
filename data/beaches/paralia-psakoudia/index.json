@@ -1,0 +1,136 @@
+{
+  "id": "paralia-psakoudia",
+  "slug": "paralia-psakoudia",
+  "name": {
+    "en": "Paralia Psakoudia",
+    "ro": "Plaja Psakoudia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Long organized family-friendly beach",
+    "ro": "Plajă lungă amenajată, potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.26123489694368,
+    "lon": 23.48640123306366
+  },
+  "editorChoice": true,
+  "length": 2000,
+  "images": [
+    "paralia-psakoudia.webp",
+    "paralia-psakoudia1.webp",
+    "paralia-psakoudia2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces facil direct către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy parking nearby",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Lively in central areas",
+      "ro": "Animată în zonele centrale"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Lively yet spacious",
+      "ro": "Animată dar spațioasă"
+    },
+    "waterEntry": {
+      "en": "Gradual sandy entry with small pebbles",
+      "ro": "Intrare graduală cu nisip și pietricele mici"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with small pebbles",
+    "ro": "Nisip fin auriu cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.5 - 2.5m (gradual slope)",
+      "ro": "0.5 - 2.5m (pantă graduală)"
+    },
+    "clarity": {
+      "en": "Azure blue",
+      "ro": "Albastru azuriu"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Family friendly",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups",
+      "Water sports enthusiasts",
+      "Visitors seeking both relaxation and activity"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri",
+      "Pasionați de sporturi nautice",
+      "Cei care caută atât relaxare cât și activități"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Water sports"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Sporturi acvatice"
+    ]
+  },
+  "occupancy": "75-85%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "badge": "Activities",
+  "videos": [],
+  "description": {
+    "en": "Paralia Psakoudia is a long and popular beach offering a mix of clear water, soft sand, and a lively atmosphere. The beach features fine golden sand with small pebbles and a gently sloping seabed, making it suitable for families and swimmers of all levels. It is well organized, with sunbeds, beach bars, and water sports available, while still offering quieter sections toward the edges. Paralia Psakoudia is a great choice for visitors looking for both relaxation and activity in a spacious beach setting.",
+    "ro": "Paralia Psakoudia este o plajă lungă și populară, oferind apă limpede, nisip fin și o atmosferă animată. Plaja are nisip auriu cu pietricele mici, iar intrarea în apă este lină, fiind potrivită pentru familii și înotători de toate nivelurile. Este bine amenajată, cu șezlonguri, beach baruri și sporturi acvatice, dar oferă și zone mai liniștite la capete. Paralia Psakoudia este potrivită pentru cei care caută atât relaxare, cât și activități într-un spațiu generos."
+  },
+  "blueFlag": false
+}
