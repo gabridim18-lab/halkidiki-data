@@ -1134,5 +1134,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "hanioti-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Hanioti Beach",
+      "ro": "Plaja Hanioti"
+    },
+    "previewImage": "hanioti-beach.webp",
+    "coordinates": {
+      "lat": 40.001659092088815,
+      "lon": 23.57762914238227
+    },
+    "rating": 4.6,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

@@ -1,0 +1,135 @@
+{
+  "id": "hanioti-beach",
+  "slug": "hanioti-beach",
+  "name": {
+    "en": "Hanioti Beach",
+    "ro": "Plaja Hanioti"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized resort beach",
+    "ro": "Plajă amenajată de stațiune"
+  },
+  "coordinates": {
+    "lat": 40.001659092088815,
+    "lon": 23.57762914238227
+  },
+  "editorChoice": true,
+  "length": 1500,
+  "images": [
+    "hanioti-beach.webp",
+    "hanioti-beach1.webp",
+    "hanioti-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct access from Hanioti center",
+      "ro": "Acces direct din centrul Hanioti"
+    },
+    "parkingDifficulty": {
+      "en": "Busy during summer afternoons",
+      "ro": "Aglomerată în după-amiezile de vară"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and social",
+      "ro": "Confortabilă și socială"
+    },
+    "waterEntry": {
+      "en": "Very gradual mixed sand entry",
+      "ro": "Intrare foarte lină cu nisip mixt"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Mix of sand and small pebbles",
+    "ro": "Nisip și pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.4m (very gradual)",
+      "ro": "0.3 - 1.4m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Walking promenade",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Promenadă pentru plimbări",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Groups",
+      "Resort visitors"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Grupuri",
+      "Turiști de stațiune"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach tennis"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Tenis pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-14 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.6,
+  "videos": [],
+  "description": {
+    "en": "Hanioti Beach is one of the most popular and well-developed beaches on the eastern coast of the Kassandra peninsula, located directly in front of the lively resort village of Hanioti. Combining organized infrastructure, easy accessibility, and a vibrant atmosphere, it offers a comfortable and versatile beach experience suitable for a wide range of visitors. The shoreline consists mainly of sand mixed with small pebbles, while the sea is typically calm, clean, and crystal clear throughout the summer season. The entry into the water is generally gradual, making the beach especially attractive for families and relaxed swimming. Large sections of the coastline are fully organized with sunbeds, umbrellas, beach bars, cafés, and restaurants, while the nearby promenade connects visitors directly with shops, nightlife, and resort facilities. Although the central sections can become busy during peak season, quieter areas can still be found further along the beach. Hanioti Beach is ideal for visitors looking for convenience, social atmosphere, and direct access to one of the most active resort areas in Kassandra.",
+    "ro": "Plaja Hanioti este una dintre cele mai populare și bine dezvoltate plaje de pe coasta estică a peninsulei Kassandra, situată chiar în fața animatei stațiuni Hanioti. Combinând infrastructura modernă, accesibilitatea excelentă și atmosfera vibrantă, plaja oferă o experiență confortabilă și variată, potrivită pentru o gamă largă de vizitatori. Linia țărmului este formată în principal din nisip amestecat cu pietricele mici, iar apa este, în general, calmă, foarte limpede și curată pe durata sezonului de vară. Intrarea în mare este graduală în majoritatea zonelor, ceea ce face plaja potrivită în special pentru familii și pentru înot relaxant. O mare parte a plajei este complet amenajată cu șezlonguri, umbrele, beach baruri, cafenele și restaurante, iar promenada din apropiere oferă acces direct către magazine, viață de noapte și facilități turistice. Deși zonele centrale pot deveni aglomerate în sezon, există și porțiuni mai liniștite spre marginile plajei. Plaja Hanioti este ideală pentru cei care caută confort, atmosferă socială și acces rapid la una dintre cele mai active stațiuni din Kassandra."
+  },
+  "blueFlag": false
+}
