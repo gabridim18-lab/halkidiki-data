@@ -1,0 +1,136 @@
+{
+  "id": "paralia-askamnia",
+  "slug": "paralia-askamnia",
+  "name": {
+    "en": "Paralia Askamnia",
+    "ro": "Plaja Askamnia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet natural sandy beach",
+    "ro": "Plajă naturală liniștită cu nisip"
+  },
+  "coordinates": {
+    "lat": 40.22789108149749,
+    "lon": 23.62655233391828
+  },
+  "editorChoice": true,
+  "length": 550,
+  "images": [
+    "paralia-askamnia.webp",
+    "paralia-askamnia1.webp",
+    "paralia-askamnia2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Peaceful and natural",
+      "ro": "Liniștită și naturală"
+    },
+    "waterEntry": {
+      "en": "Very shallow sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with small shells",
+    "ro": "Nisip alb fin cu scoici mici"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 1.5m (very gradual)",
+      "ro": "0.3 - 1.5m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Transparent emerald",
+      "ro": "Smarald transparent"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Relax sunbath",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Snorkeling enthusiasts",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Pasionați de snorkeling",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Kayaking",
+      "Beachcombing"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Caiac",
+      "Colectare scoici"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "4-8 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.8,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Paralia Askamnia is a quiet and natural beach known for its clear emerald water and peaceful setting. The beach features fine white sand with small shells and a very gentle seabed slope, making it ideal for families and relaxing swims. It offers basic facilities such as sunbeds and a few small beach cafés, while maintaining a calm and less crowded atmosphere. Paralia Askamnia is a great choice for visitors looking for clear water, tranquility, and a more natural beach experience.",
+    "ro": "Paralia Askamnia este o plajă liniștită și naturală, cunoscută pentru apa sa limpede de culoare smarald și atmosfera relaxată. Plaja are nisip alb fin cu scoici mici, iar intrarea în apă este foarte lină, fiind ideală pentru familii și înot relaxant. Oferă facilități de bază precum șezlonguri și câteva cafenele, păstrând în același timp un ambient calm. Paralia Askamnia este potrivită pentru cei care caută apă limpede, liniște și o experiență naturală."
+  },
+  "blueFlag": false
+}

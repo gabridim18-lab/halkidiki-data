@@ -1486,5 +1486,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-askamnia",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Askamnia",
+      "ro": "Plaja Askamnia"
+    },
+    "previewImage": "paralia-askamnia.webp",
+    "coordinates": {
+      "lat": 40.22789108149749,
+      "lon": 23.62655233391828
+    },
+    "rating": 4.8,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
