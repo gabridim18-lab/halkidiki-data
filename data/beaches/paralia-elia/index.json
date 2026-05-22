@@ -1,0 +1,136 @@
+{
+  "id": "paralia-elia",
+  "slug": "paralia-elia",
+  "name": {
+    "en": "Paralia Elia",
+    "ro": "Plaja Elia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Organized easy-access sandy beach",
+    "ro": "Plajă amenajată cu nisip și acces facil"
+  },
+  "coordinates": {
+    "lat": 40.15969061888336,
+    "lon": 23.728300542733056
+  },
+  "editorChoice": false,
+  "length": 400,
+  "images": [
+    "paralia-elia.webp",
+    "paralia-elia1.webp",
+    "paralia-elia2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and moderate",
+      "ro": "Relaxată și moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and relaxed",
+      "ro": "Confortabilă și relaxată"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with small pebbles",
+    "ro": "Nisip auriu cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 2.0m (gentle slope)",
+      "ro": "0.4 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "family",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Paddleboarding beginners",
+      "Visitors seeking convenience"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Începători la paddleboarding",
+      "Vizitatori care caută confort"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "SUP",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "SUP",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "65-75%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.4,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Paralia Elia is a comfortable and well-organized beach with clear water and easy access. The seabed is sandy with a gentle slope, making it suitable for families and relaxed swimming. A mix of quiet atmosphere and basic facilities makes it a balanced choice.",
+    "ro": "Paralia Elia este o plajă organizată și ușor accesibilă, cu apă limpede. Intrarea în apă este lină, fiind potrivită pentru familii și înot relaxat. Oferă un echilibru bun între liniște și facilități."
+  },
+  "blueFlag": false
+}

@@ -186,74 +186,104 @@ def build_beach():
         highlight_map = {
 
             "family": (
-                "Family friendly",
+                "family",
                 "Potrivită pentru familii"
             ),
 
             "promenade": (
-                "Walking promenade",
+                "walking",
                 "Promenadă pentru plimbări"
             ),
 
             "walk": (
-                "Walking promenade",
+                "walking",
                 "Promenadă pentru plimbări"
             ),
 
             "cycling": (
-                "Walking promenade",
+                "walking",
                 "Promenadă pentru plimbări"
             ),
 
             "sunset": (
-                "Relax sunbath",
-                "Relaxare la soare"
+                "photography",
+                "Priveliști superbe"
             ),
 
             "relax": (
-                "Relax sunbath",
+                "relax",
                 "Relaxare la soare"
             ),
 
             "shallow": (
-                "Relax sunbath",
+                "relax",
                 "Relaxare la soare"
             ),
 
             "food": (
-                "Food drinks",
+                "food",
                 "Mâncare și băuturi"
             ),
 
             "drink": (
-                "Food drinks",
+                "food",
                 "Mâncare și băuturi"
             ),
 
             "cafe": (
-                "Food drinks",
-                "Mâncare și băuturi"
+                "cafes",
+                "Cafenele și relaxare"
             ),
 
             "urban": (
-                "City urban",
+                "urban",
                 "Atmosferă urbană"
             ),
 
             "city": (
-                "City urban",
+                "urban",
                 "Atmosferă urbană"
             ),
 
             "luxury": (
-                "Luxury escape",
-                "Experiență luxury"
+                "luxury",
+                "Experiență premium"
             ),
 
             "romantic": (
-                "Romantic escape",
+                "romantic",
                 "Escapadă romantică"
             ),
+
+            "sport": (
+                "sports",
+                "Sporturi pe plajă"
+            ),
+
+            "boat": (
+                "boat",
+                "Plimbări cu barca"
+            ),
+
+            "kayak": (
+                "kayak",
+                "Kayak și canoe"
+            ),
+
+            "nature": (
+                "nature",
+                "Natură și peisaje"
+            ),
+
+            "fish": (
+                "fishing",
+                "Pescuit"
+            ),
+
+            "yoga": (
+                "yoga",
+                "Yoga și relaxare"
+            )
         }
 
         if "highlights" in beach:

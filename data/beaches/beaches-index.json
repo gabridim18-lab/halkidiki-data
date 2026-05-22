@@ -1662,5 +1662,21 @@
     "rating": 4.7,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-elia",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Elia",
+      "ro": "Plaja Elia"
+    },
+    "previewImage": "paralia-elia.webp",
+    "coordinates": {
+      "lat": 40.15969061888336,
+      "lon": 23.728300542733056
+    },
+    "rating": 4.4,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
