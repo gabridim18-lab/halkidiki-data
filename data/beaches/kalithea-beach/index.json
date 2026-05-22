@@ -1,0 +1,134 @@
+{
+  "id": "kalithea-beach",
+  "slug": "kalithea-beach",
+  "name": {
+    "en": "Kalithea Beach",
+    "ro": "Plaja Kalithea"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Organized resort beach",
+    "ro": "Plajă organizată de stațiune"
+  },
+  "coordinates": {
+    "lat": 40.075961803913344,
+    "lon": 23.450085120850634
+  },
+  "editorChoice": true,
+  "length": 600,
+  "images": [
+    "kalithea-beach.webp",
+    "kalithea-beach1.webp",
+    "kalithea-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy paved access",
+      "ro": "Acces facil pe drum pavat"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and social",
+      "ro": "Confortabilă și socială"
+    },
+    "waterEntry": {
+      "en": "Soft sand with very gradual entry",
+      "ro": "Nisip fin cu intrare foarte lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip moale auriu"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.5m (very gradual)",
+      "ro": "0.3 - 1.5m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Light turquoise",
+      "ro": "Turcoaz deschis"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Groups",
+      "Visitors seeking comfort and facilities"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Grupuri",
+      "Cei care caută confort și facilități"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Walking"
+    ],
+    "ro": [
+      "Înot",
+      "Plimbare"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Kalithea Beach is one of the most popular coastal areas on the eastern side of the Kassandra peninsula, located directly below the lively resort town of Kalithea. The beach combines easy accessibility, organized facilities, and attractive sea views across the Toroneos Gulf toward Sithonia. The shoreline consists mainly of soft golden sand with shallow, calm water and a smooth entry into the sea, making it particularly suitable for swimming and for visitors who prefer gentle conditions. Large sections of the beach are organized with sunbeds, umbrellas, cafés, and beach bars, while the surrounding area provides quick access to restaurants, shops, and nightlife in the resort above. Despite its popularity, parts of the coastline still maintain a relaxed atmosphere, especially during the morning hours. Kalithea Beach is especially suitable for families, couples, and travelers looking for a balanced mix of comfort, accessibility, and a lively summer environment.",
+    "ro": "Plaja Kalithea este una dintre cele mai populare zone de coastă de pe partea estică a peninsulei Kassandra, situată chiar sub stațiunea animată Kalithea. Plaja combină accesul facil, facilitățile moderne și priveliștile frumoase către Golful Toroneos și peninsula Sithonia. Linia țărmului este formată în principal din nisip fin și auriu, iar apa este calmă și puțin adâncă, cu o intrare foarte lină în mare, fiind potrivită pentru înot și pentru cei care preferă condiții confortabile. O mare parte a plajei este amenajată cu șezlonguri, umbrele, cafenele și beach baruri, iar zona oferă acces rapid către restaurante, magazine și viața de noapte din stațiunea aflată deasupra plajei. Deși este o plajă populară, anumite porțiuni păstrează o atmosferă relaxată, în special dimineața. Plaja Kalithea este potrivită în special pentru familii, cupluri și turiști care caută un echilibru între confort, accesibilitate și atmosferă animată de vacanță."
+  },
+  "blueFlag": false
+}

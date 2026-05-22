@@ -1182,5 +1182,21 @@
     "rating": 4.0,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "kalithea-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Kalithea Beach",
+      "ro": "Plaja Kalithea"
+    },
+    "previewImage": "kalithea-beach.webp",
+    "coordinates": {
+      "lat": 40.075961803913344,
+      "lon": 23.450085120850634
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
