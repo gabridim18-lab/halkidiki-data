@@ -1,0 +1,134 @@
+{
+  "id": "savatianos-beach",
+  "slug": "savatianos-beach",
+  "name": {
+    "en": "Savatianos Beach",
+    "ro": "Plaja Savatianos"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Family-friendly organized sandy beach",
+    "ro": "Plajă amenajată cu nisip, potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.14158106474995,
+    "lon": 23.373013049990654
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "savatianos-beach.webp",
+    "savatianos-beach1.webp",
+    "savatianos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and moderate",
+      "ro": "Relaxată și moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and calm",
+      "ro": "Confortabilă și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.6m (gentle slope)",
+      "ro": "0.4 - 1.6m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise",
+      "ro": "Turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Family friendly",
+      "Hidden gem",
+      "Hidden gem",
+      "Relax sunbath"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Casual swimmers",
+      "Relaxation seekers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Înotători ocazionali",
+      "Cei care caută relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.4,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Savatianos Beach is located in a wide bay near Nea Fokea, offering a comfortable and family-friendly beach environment. The beach features fine golden sand and clear turquoise water, with a gentle entry into the sea that makes it ideal for swimming and children. It is partly organized, with sunbeds, umbrellas, and a beach bar providing basic services, while still maintaining a relaxed atmosphere. Access is easy, with parking nearby. Savatianos Beach is a good choice for visitors looking for a balance between comfort, accessibility, and a calm beach setting.",
+    "ro": "Plaja Savatianos este situată într-un golf larg lângă Nea Fokea, oferind un mediu confortabil și potrivit pentru familii. Plaja are nisip fin auriu și apă limpede de culoare turcoaz, cu intrare lină, fiind ideală pentru înot și copii. Este parțial amenajată, cu șezlonguri, umbrele și un beach bar, păstrând în același timp o atmosferă relaxată. Accesul este facil, cu parcare în apropiere. Plaja Savatianos este potrivită pentru cei care caută confort, acces ușor și o atmosferă liniștită."
+  },
+  "blueFlag": false
+}

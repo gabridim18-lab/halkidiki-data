@@ -1326,5 +1326,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "savatianos-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Savatianos Beach",
+      "ro": "Plaja Savatianos"
+    },
+    "previewImage": "savatianos-beach.webp",
+    "coordinates": {
+      "lat": 40.14158106474995,
+      "lon": 23.373013049990654
+    },
+    "rating": 4.4,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
- ]
+]
