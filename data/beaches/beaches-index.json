@@ -830,5 +830,21 @@
     "rating": 4.2,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "pebbles-beach-of-st-george",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Pebbles Beach of St George",
+      "ro": "Plaja Pebbles of St George"
+    },
+    "previewImage": "pebbles-beach-of-st-george.webp",
+    "coordinates": {
+      "lat": 39.92187570301171,
+      "lon": 23.59558663423632
+    },
+    "rating": 3.6,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

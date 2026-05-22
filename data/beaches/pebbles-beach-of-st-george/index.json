@@ -1,0 +1,133 @@
+{
+  "id": "pebbles-beach-of-st-george",
+  "slug": "pebbles-beach-of-st-george",
+  "name": {
+    "en": "Pebbles Beach of St George",
+    "ro": "Plaja Pebbles of St George"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Wild pebble cove beach",
+    "ro": "Plajă sălbatică tip golf cu pietricele"
+  },
+  "coordinates": {
+    "lat": 39.92187570301171,
+    "lon": 23.59558663423632
+  },
+  "editorChoice": false,
+  "length": 400,
+  "images": [
+    "pebbles-beach-of-st-george.webp",
+    "pebbles-beach-of-st-george1.webp",
+    "pebbles-beach-of-st-george2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk may be required",
+      "ro": "Poate necesita o scurtă plimbare"
+    },
+    "parkingDifficulty": {
+      "en": "Limited access",
+      "ro": "Acces și parcare limitate"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Remote and natural",
+      "ro": "Retrasă și naturală"
+    },
+    "waterEntry": {
+      "en": "Pebbled entry with sudden depth",
+      "ro": "Intrare cu pietricele și adâncime bruscă"
+    },
+    "waveLevel": {
+      "en": "Usually calm but exposed on windy days",
+      "ro": "În general calmă, dar expusă în zilele cu vânt"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky outcrops",
+    "ro": "Majoritar pietriș cu zone stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 3.5m (sudden drop)",
+      "ro": "0.8 - 3.5m (adâncime bruscă)"
+    },
+    "clarity": {
+      "en": "Deep blue",
+      "ro": "Ape albastre-închise"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Snorkelers",
+      "Couples",
+      "Quiet beach seekers"
+    ],
+    "ro": [
+      "Iubitorii naturii",
+      "Cei pasionați de snorkeling",
+      "Cupluri",
+      "Cei care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Rock climbing",
+      "Photography"
+    ],
+    "ro": [
+      "Alpinism pe stânci",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.6,
+  "videos": [],
+  "description": {
+    "en": "Pebbles Beach of St George is a small and secluded coastal spot located near the Loutra area at the southern tip of the Kassandra peninsula. Known for its crystal-clear waters and natural rocky surroundings, it offers a quieter and more untouched beach experience compared to the larger organized beaches nearby. The shoreline is covered mostly with smooth pebbles and rocky sections, while the deep blue water makes the location especially attractive for snorkeling and swimming in calm conditions. Surrounded by rocky formations and patches of pine vegetation, the beach has a peaceful and slightly wild atmosphere that appeals to visitors looking for privacy and nature. Facilities are extremely limited or completely absent, helping preserve the authentic and undeveloped character of the area.",
+    "ro": "Plaja Pebbles of St George este o zonă de coastă mică și retrasă situată în apropierea zonei Loutra, în extremitatea sudică a peninsulei Kassandra. Cunoscută pentru apa extrem de limpede și peisajul natural stâncos, oferă o experiență de plajă mai liniștită și mai sălbatică în comparație cu plajele organizate din apropiere. Țărmul este format în principal din pietricele netede și zone stâncoase, iar apa albastră și foarte clară face locația ideală pentru snorkeling și înot în condiții calme. Înconjurată de formațiuni stâncoase și vegetație de pini, plaja are o atmosferă liniștită și autentică, apreciată de cei care caută discreție și natură. Facilitățile sunt foarte limitate sau inexistente, ceea ce contribuie la păstrarea caracterului natural și nealterat al zonei."
+  },
+  "blueFlag": false
+}
