@@ -1,0 +1,134 @@
+{
+  "id": "varkes-beach",
+  "slug": "varkes-beach",
+  "name": {
+    "en": "Varkes Beach",
+    "ro": "Plaja Varkes"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Quiet sandy beach near Afytos",
+    "ro": "Plajă liniștită cu nisip lângă Afytos"
+  },
+  "coordinates": {
+    "lat": 40.104779184611544,
+    "lon": 23.434435758224787
+  },
+  "editorChoice": false,
+  "length": 400,
+  "images": [
+    "varkes-beach.webp",
+    "varkes-beach1.webp",
+    "varkes-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from Afytos",
+      "ro": "Acces facil din Afytos"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate parking availability",
+      "ro": "Parcare moderată disponibilă"
+    },
+    "noiseLevel": {
+      "en": "Usually peaceful",
+      "ro": "În general liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and family-friendly",
+      "ro": "Relaxată și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Fine sand with gentle entry",
+      "ro": "Nisip fin cu intrare lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine sand with some pebbles",
+    "ro": "Nisip fin cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise",
+      "ro": "Turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Family friendly",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation seekers",
+      "Visitors exploring Afytos"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Cei care caută relaxare",
+      "Vizitatori care explorează Afytos"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Varkes Beach is a quiet coastal spot located north of Afytos, offering a more relaxed and less crowded atmosphere. The beach features fine sand mixed with small pebbles, with clear turquoise water and a gentle entry into the sea, making it suitable for swimming and families. Some areas are lightly organized, while others remain more natural, providing a balance between comfort and simplicity. The surrounding greenery adds to the calm and pleasant environment. Varkes Beach is a good choice for visitors looking for a peaceful beach close to Afytos, without the crowds of more popular spots.",
+    "ro": "Plaja Varkes este situată la nord de Afytos și oferă o atmosferă liniștită și mai puțin aglomerată. Plaja are nisip fin cu pietricele, iar apa este limpede, de culoare turcoaz, cu intrare lină, fiind potrivită pentru înot și familii. Unele zone sunt ușor amenajate, în timp ce altele rămân mai naturale, oferind un echilibru între confort și simplitate. Vegetația din jur contribuie la atmosfera relaxantă. Plaja Varkes este potrivită pentru cei care caută liniște aproape de Afytos, dar fără aglomerație."
+  },
+  "blueFlag": false
+}

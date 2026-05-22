@@ -1262,5 +1262,21 @@
     "rating": 4.1,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "varkes-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Varkes Beach",
+      "ro": "Plaja Varkes"
+    },
+    "previewImage": "varkes-beach.webp",
+    "coordinates": {
+      "lat": 40.104779184611544,
+      "lon": 23.434435758224787
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
