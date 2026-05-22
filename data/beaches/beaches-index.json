@@ -878,5 +878,21 @@
     "rating": 3.8,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "kanastraio-or-kalogria-cape",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Kanastraio or Kalogria Cape",
+      "ro": "Capul Kanastraio sau Kalogria"
+    },
+    "previewImage": "kanastraio-or-kalogria-cape.webp",
+    "coordinates": {
+      "lat": 39.91620431895062,
+      "lon": 23.74978404555131
+    },
+    "rating": 4.0,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

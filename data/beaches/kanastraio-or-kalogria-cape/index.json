@@ -1,0 +1,133 @@
+{
+  "id": "kanastraio-or-kalogria-cape",
+  "slug": "kanastraio-or-kalogria-cape",
+  "name": {
+    "en": "Kanastraio or Kalogria Cape",
+    "ro": "Capul Kanastraio sau Kalogria"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Remote rocky cape beach",
+    "ro": "Plajă sălbatică la cap stâncos"
+  },
+  "coordinates": {
+    "lat": 39.91620431895062,
+    "lon": 23.74978404555131
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "kanastraio-or-kalogria-cape.webp",
+    "kanastraio-or-kalogria-cape1.webp",
+    "kanastraio-or-kalogria-cape2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short steep descent",
+      "ro": "Coborâre scurtă și abruptă"
+    },
+    "parkingDifficulty": {
+      "en": "Limited roadside parking",
+      "ro": "Parcare limitată pe marginea drumului"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and adventurous",
+      "ro": "Sălbatică și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Rocky and sandy sections",
+      "ro": "Zone stâncoase și nisipoase"
+    },
+    "waveLevel": {
+      "en": "Can become rough with wind",
+      "ro": "Poate deveni agitată la vânt"
+    }
+  },
+  "sand": {
+    "en": "Golden sand with some seaweed",
+    "ro": "Nisip auriu cu alge marine"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (gentle slope)",
+      "ro": "0.5 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Light green-blue",
+      "ro": "Ape verzi-albăstrii"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Adventure seekers",
+      "Snorkelers",
+      "Photographers"
+    ],
+    "ro": [
+      "Iubitorii naturii",
+      "Cei aventuroși",
+      "Pasionații de snorkeling",
+      "Fotografi"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach sports"
+    ],
+    "ro": [
+      "Înot",
+      "Sporturi pe plajă"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.0,
+  "videos": [],
+  "description": {
+    "en": "Kanastraio or Kalogria Cape is a remote and rugged coastal area located near Paliouri, at the southeastern edge of the Kassandra peninsula. Famous for its dramatic rocky formations, hidden coves, and crystal-clear waters, it offers one of the wildest and most untouched seaside experiences in Halkidiki. The coastline is formed by narrow rocky sections mixed with sandy coves, creating a striking landscape surrounded by pine trees and Mediterranean vegetation. The exceptionally clear water and varied underwater terrain make the area ideal for snorkeling and exploration. Unlike the organized resort beaches nearby, Kanastraio preserves a more isolated and adventurous atmosphere, attracting visitors looking for tranquility, nature, and scenic coastal views. Access usually involves a dirt road and a short steep descent toward the sea, rewarding visitors with one of the most authentic hidden coastal locations in Kassandra.",
+    "ro": "Capul Kanastraio sau Kalogria este o zonă de coastă sălbatică și spectaculoasă situată în apropiere de Paliouri, în extremitatea sud-estică a peninsulei Kassandra. Renumit pentru formațiunile sale stâncoase dramatice, golfurile ascunse și apa extrem de limpede, oferă una dintre cele mai autentice și nealterate experiențe de litoral din Halkidiki. Linia țărmului este formată din promontorii stâncoase înguste și mici golfuri nisipoase, creând un peisaj impresionant înconjurat de pini și vegetație mediteraneană. Apa foarte clară și relieful subacvatic variat fac zona ideală pentru snorkeling și explorare. Spre deosebire de plajele amenajate din apropiere, Kanastraio păstrează o atmosferă izolată și aventuroasă, preferată de cei care caută liniște, natură și priveliști spectaculoase asupra coastei. Accesul presupune de obicei un drum de pământ și o coborâre mai abruptă către mare, însă experiența oferită recompensează pe deplin vizitatorii."
+  },
+  "blueFlag": false
+}
