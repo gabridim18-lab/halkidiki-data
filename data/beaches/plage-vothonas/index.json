@@ -1,0 +1,134 @@
+{
+  "id": "plage-vothonas",
+  "slug": "plage-vothonas",
+  "name": {
+    "en": "Plage Vothonas",
+    "ro": "Plaja Vothonas"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Quiet secluded natural beach",
+    "ro": "Plajă naturală liniștită și retrasă"
+  },
+  "coordinates": {
+    "lat": 40.121248841307874,
+    "lon": 23.420330192757042
+  },
+  "editorChoice": false,
+  "length": 350,
+  "images": [
+    "plage-vothonas.webp",
+    "plage-vothonas1.webp",
+    "plage-vothonas2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short descent access",
+      "ro": "Acces prin coborâre scurtă"
+    },
+    "parkingDifficulty": {
+      "en": "Limited roadside parking",
+      "ro": "Parcare limitată lângă drum"
+    },
+    "noiseLevel": {
+      "en": "Very peaceful",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and secluded",
+      "ro": "Naturală și retrasă"
+    },
+    "waterEntry": {
+      "en": "Coarse sand and pebbles with moderate depth increase",
+      "ro": "Nisip grosier și pietricele cu adâncire moderată"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with pebbles and shells",
+    "ro": "Nisip grosier cu pietricele și scoici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear green-blue",
+      "ro": "Verde-albastru limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Nature lovers",
+      "Visitors seeking tranquility",
+      "Swimmers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Iubitori de natură",
+      "Cei care caută liniște",
+      "Înotători"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Fishing"
+    ],
+    "ro": [
+      "Înot",
+      "Pescuit"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.9,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Plage Vothonas is a quiet and less visited beach located north of Afytos, offering a natural and secluded coastal setting. The shoreline consists of coarse sand, pebbles, and shells, with clear green-blue water. The seabed becomes deeper at a moderate pace, making it suitable for swimming. There are no organized facilities, which keeps the beach peaceful and uncrowded. Access involves a short descent, adding to its hidden character. Plage Vothonas is a good choice for visitors looking for a simple, quiet beach experience away from busy resort areas.",
+    "ro": "Plaja Vothonas este o plajă liniștită și mai puțin vizitată, situată la nord de Afytos, oferind un cadru natural și retras. Plaja este formată din nisip grosier, pietricele și scoici, iar apa este limpede, cu nuanțe verde-albastre. Adâncimea crește moderat, fiind potrivită pentru înot. Nu există facilități amenajate, ceea ce păstrează atmosfera liniștită și neaglomerată. Accesul implică o coborâre scurtă. Plaja Vothonas este potrivită pentru cei care caută simplitate, liniște și un loc mai puțin frecventat."
+  },
+  "blueFlag": false
+}

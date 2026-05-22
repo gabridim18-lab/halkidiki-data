@@ -1278,5 +1278,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "plage-vothonas",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Plage Vothonas",
+      "ro": "Plaja Vothonas"
+    },
+    "previewImage": "plage-vothonas.webp",
+    "coordinates": {
+      "lat": 40.121248841307874,
+      "lon": 23.420330192757042
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
