@@ -1,0 +1,134 @@
+{
+  "id": "plage-liosi",
+  "slug": "plage-liosi",
+  "name": {
+    "en": "Plage Liosi",
+    "ro": "Plaja Liosi"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Wild rocky cove",
+    "ro": "Golf stâncos sălbatic"
+  },
+  "coordinates": {
+    "lat": 40.091573323301255,
+    "lon": 23.442230053895052
+  },
+  "editorChoice": false,
+  "length": 300,
+  "images": [
+    "plage-liosi.webp",
+    "plage-liosi1.webp",
+    "plage-liosi2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Rocky downhill access",
+      "ro": "Acces pe potecă stâncoasă"
+    },
+    "parkingDifficulty": {
+      "en": "Limited nearby parking",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Raw and adventurous",
+      "ro": "Sălbatică și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Rocky entry with sudden depth",
+      "ro": "Intrare stâncoasă cu adâncime bruscă"
+    },
+    "waveLevel": {
+      "en": "Usually calm but exposed in windy weather",
+      "ro": "De obicei calmă, dar expusă în zilele cu vânt"
+    }
+  },
+  "sand": {
+    "en": "Mostly pebbles with rocky sections",
+    "ro": "Majoritatea pietricele cu secțiuni stâncoase"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 3.5m (sudden drop)",
+      "ro": "0.8 - 3.5m (coborâre bruscă)"
+    },
+    "clarity": {
+      "en": "Deep blue",
+      "ro": "Albastru închis"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Experienced swimmers",
+      "Snorkeling enthusiasts",
+      "Adventure seekers",
+      "Visitors looking for solitude"
+    ],
+    "ro": [
+      "Înotători experimentați",
+      "Pasionați de snorkeling",
+      "Cei care caută aventură",
+      "Vizitatori care caută liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Rock jumping",
+      "Photography"
+    ],
+    "ro": [
+      "Sărituri de pe stânci",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 3.7,
+  "badge": "Explorer",
+  "videos": [],
+  "description": {
+    "en": "Plage Liosi is a small rocky coastal cove located south of the traditional village of Afitos, on the eastern coast of the Kassandra peninsula. Unlike the more organized beaches nearby, this area remains largely untouched and natural, attracting visitors who prefer quieter and more adventurous coastal spots. The shoreline is dominated by natural rock formations and small pebble sections rather than wide sandy areas, while the water is exceptionally clear with deep blue tones. In many places, the seabed becomes deep very quickly, making the location more suitable for confident swimmers and visitors comfortable with rocky terrain. The absence of organized facilities contributes to the peaceful and secluded atmosphere, while the surrounding cliffs and Mediterranean vegetation create a dramatic landscape. Access usually involves walking down uneven paths or rocky trails from the upper area near Afitos. Plage Liosi is especially appreciated for its wild scenery, crystal-clear water, and authentic natural character.",
+    "ro": "Plage Liosi este un mic golf stâncos situat la sud de satul tradițional Afitos, pe coasta estică a peninsulei Kassandra. Spre deosebire de plajele foarte amenajate din apropiere, această zonă și-a păstrat caracterul natural și sălbatic, fiind preferată de cei care caută locuri mai liniștite și mai aventuroase. Linia țărmului este formată în principal din stânci naturale și mici porțiuni cu pietricele, nu din plaje late cu nisip, iar apa este extrem de limpede, cu nuanțe intense de albastru. În multe zone, adâncimea crește foarte rapid, ceea ce face locația mai potrivită pentru înotători experimentați și pentru cei obișnuiți cu terenul stâncos. Lipsa facilităților contribuie la atmosfera retrasă și liniștită, iar stâncile și vegetația mediteraneană creează un peisaj spectaculos. Accesul se face de regulă pe poteci sau trasee stâncoase din zona superioară a satului Afitos. Plage Liosi este apreciată în special pentru peisajul sălbatic, apa cristalină și caracterul său autentic."
+  },
+  "blueFlag": false
+}

@@ -1214,5 +1214,21 @@
     "rating": 3.9,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "plage-liosi",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Plage Liosi",
+      "ro": "Plaja Liosi"
+    },
+    "previewImage": "plage-liosi.webp",
+    "coordinates": {
+      "lat": 40.091573323301255,
+      "lon": 23.442230053895052
+    },
+    "rating": 3.7,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
