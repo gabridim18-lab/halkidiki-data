@@ -1,0 +1,136 @@
+{
+  "id": "paralia-alexandra-xenia",
+  "slug": "paralia-alexandra-xenia",
+  "name": {
+    "en": "Paralia Alexandra-Xenia",
+    "ro": "Plaja Alexandra-Xenia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Premium relaxed beach",
+    "ro": "Plajă premium și relaxantă"
+  },
+  "coordinates": {
+    "lat": 40.01369622197266,
+    "lon": 23.86033166308931
+  },
+  "editorChoice": true,
+  "length": 500,
+  "images": [
+    "paralia-alexandra-xenia.webp",
+    "paralia-alexandra-xenia1.webp",
+    "paralia-alexandra-xenia2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Open beach location",
+    "ro": "Deschide locația plajei"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Convenient nearby parking",
+      "ro": "Parcare convenabilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and calm",
+      "ro": "Relaxată și liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Elegant and peaceful",
+      "ro": "Elegantă și liniștită"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with pink quartz",
+    "ro": "Nisip alb fin cu cuarț roz"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 1.5m (gentle slope)",
+      "ro": "0.3 - 1.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Turquoise clear",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "relax",
+      "photography",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Relaxare la soare",
+      "Priveliști superbe",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Families",
+      "Relaxation",
+      "Sunset lovers"
+    ],
+    "ro": [
+      "Cupluri",
+      "Familii",
+      "Relaxare",
+      "Iubitori de apus"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.7,
+  "badge": "Couples",
+  "videos": [],
+  "description": {
+    "en": "Paralia Alexandra-Xenia is a calm and elegant beach with fine white sand and subtle pink quartz tones. The water is shallow and warm, making it ideal for families and relaxed swimming. It offers a premium but quiet atmosphere, perfect for couples and those looking for comfort without heavy crowds.",
+    "ro": "Paralia Alexandra-Xenia este o plajă elegantă și liniștită, cu nisip alb fin și nuanțe discrete de cuarț roz. Apa este caldă și puțin adâncă, fiind ideală pentru familii și relaxare. Oferă o atmosferă premium, dar liniștită, perfectă pentru cupluri și relaxare."
+  },
+  "blueFlag": false
+}

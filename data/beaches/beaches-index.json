@@ -1918,5 +1918,21 @@
     "rating": 4.9,
     "waterTemperature": 25,
     "suitableForChildren": false
+  },
+  {
+    "id": "paralia-alexandra-xenia",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Alexandra-Xenia",
+      "ro": "Plaja Alexandra-Xenia"
+    },
+    "previewImage": "paralia-alexandra-xenia.webp",
+    "coordinates": {
+      "lat": 40.01369622197266,
+      "lon": 23.86033166308931
+    },
+    "rating": 4.7,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
