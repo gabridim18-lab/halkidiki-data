@@ -41,5 +41,14 @@
       "thessaloniki",
       "nea-krini-beach"
     ]
+  },
+  {
+    "id": "mediterranean-cosmos",
+    "type": "what_to_do",
+    "beaches": [
+      "thessaloniki",
+      "nea-krini-beach",
+      "nea-perea-beach"
+    ]
   }
 ]

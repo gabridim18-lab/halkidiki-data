@@ -1,0 +1,32 @@
+{
+  "id": "mediterranean-cosmos",
+  "type": "what_to_do",
+  "beaches": [
+    "thessaloniki",
+    "nea-krini-beach",
+    "nea-perea-beach"
+  ],
+  "titleEn": "Mediterranean Cosmos",
+  "titleRo": "Mediterranean Cosmos",
+  "categoryEn": "Shoping Mall",
+  "categoryRo": "Shoping Mall",
+  "address": "11ο χλμ εθνικής οδού, A/D Thessalonikis Neon Moudanion, Thessaloniki 570 01, Greece",
+  "hoursEn": "Mo-Sa: 10:00-21:00; Su: Clodes",
+  "hoursRo": "Lu-Sa: 10:00-21:00; Du Inchis",
+  "website": "https://mediterraneancosmos.gr/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.558775540280756,
+    "lon": 22.992509228079484
+  },
+  "phone": "+302310489571",
+  "price": "-",
+  "descriptionEn": "🛍️ Mediterranean Cosmos is the largest and most modern shopping mall in Northern Greece, offering the perfect combination of shopping, entertainment, dining, and leisure for visitors of all ages.\n\n✨ Located just outside the center of Thessaloniki, Mediterranean Cosmos features a huge variety of international and Greek fashion brands, technology stores, beauty shops, cafés, restaurants, and entertainment areas — making it one of the city’s most popular destinations for both locals and tourists.\n\n🛒 Visitors can enjoy:\n👗 International fashion and lifestyle brands\n📱 Electronics and technology stores\n☕ Stylish cafés and dessert spots\n🍴 Restaurants with Greek and international cuisine\n🎬 Modern cinema complex\n🎮 Entertainment and family-friendly activities\n\n🌴 The mall’s spacious modern design, relaxing atmosphere, and indoor-outdoor areas create a pleasant experience throughout the year, whether you want a full shopping day, a coffee break, or an evening out with friends and family.\n\n🎁 Mediterranean Cosmos is also a great place to discover local Greek products, gifts, cosmetics, and souvenirs while enjoying the vibrant lifestyle of Thessaloniki.\n\n💙 Whether you love shopping, dining, entertainment, or simply exploring modern city life, Mediterranean Cosmos offers a complete experience and is one of the top lifestyle destinations in Thessaloniki.",
+  "descriptionRo": "🛍️ Mediterranean Cosmos este cel mai mare și modern centru comercial din nordul Greciei, oferind combinația perfectă între shopping, distracție, restaurante și relaxare pentru toate vârstele.\n\n✨ Situat în apropierea Salonicului, Mediterranean Cosmos găzduiește numeroase branduri internaționale și grecești, magazine de tehnologie, cosmetice, cafenele elegante, restaurante și zone de entertainment — fiind una dintre cele mai populare destinații atât pentru localnici, cât și pentru turiști.\n\n🛒 Vizitatorii se pot bucura de:\n👗 Branduri internaționale de modă și lifestyle\n📱 Magazine de electronice și tehnologie\n☕ Cafenele moderne și deserturi delicioase\n🍴 Restaurante cu preparate grecești și internaționale\n🎬 Cinema modern\n🎮 Zone de divertisment și activități pentru familii\n\n🌴 Designul modern și spațiile generoase oferă o atmosferă relaxantă pe tot parcursul anului, indiferent dacă vrei o zi completă de shopping, o pauză la cafea sau o seară relaxantă cu prietenii și familia.\n\n🎁 Mediterranean Cosmos este și locul perfect pentru a descoperi produse grecești locale, cadouri, cosmetice și suveniruri într-o atmosferă vibrantă specifică Salonicului.\n\n💙 Fie că îți place shoppingul, gastronomia, distracția sau pur și simplu vrei să experimentezi partea modernă a orașului, Mediterranean Cosmos este una dintre cele mai atractive destinații din Salonic.",
+  "images": [
+    "mediterranean-cosmos1.webp",
+    "mediterranean-cosmos2.webp",
+    "mediterranean-cosmos3.webp",
+    "mediterranean-cosmos4.webp"
+  ]
+}
