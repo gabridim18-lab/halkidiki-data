@@ -1934,5 +1934,21 @@
     "rating": 4.7,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-azapiko",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Azapiko",
+      "ro": "Plaja Azapiko"
+    },
+    "previewImage": "paralia-azapiko.webp",
+    "coordinates": {
+      "lat": 40.011124129287026,
+      "lon": 23.86312299937793
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

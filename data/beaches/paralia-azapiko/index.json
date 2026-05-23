@@ -1,0 +1,136 @@
+{
+  "id": "paralia-azapiko",
+  "slug": "paralia-azapiko",
+  "name": {
+    "en": "Paralia Azapiko",
+    "ro": "Plaja Azapiko"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Relaxed family-friendly beach",
+    "ro": "Plajă relaxantă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.011124129287026,
+    "lon": 23.86312299937793
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "paralia-azapiko.webp",
+    "paralia-azapiko1.webp",
+    "paralia-azapiko2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Easy parking nearby",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and calm",
+      "ro": "Relaxată și liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable and peaceful",
+      "ro": "Confortabilă și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "family",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Swimming",
+      "Paddleboarding"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Înot",
+      "Paddleboarding"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Yoga pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Paralia Azapiko is a calm and spacious beach with fine golden sand and clear turquoise water. The gentle slope and warm water make it ideal for families and relaxed swimming. It offers a peaceful atmosphere with enough facilities for a comfortable day.",
+    "ro": "Paralia Azapiko este o plajă liniștită și spațioasă, cu nisip fin și ape turcoaz cristaline. Intrarea lină în apă o face ideală pentru familii și relaxare. Oferă o atmosferă calmă, dar suficient de bine organizată."
+  },
+  "blueFlag": false
+}
