@@ -1,0 +1,31 @@
+{
+  "id": "noesis-science-center-technology-museum",
+  "type": "what_to_do",
+  "beaches": [
+    "thessaloniki",
+    "nea-krini-beach"
+  ],
+  "titleEn": "NOESIS Science Center & Technology Museum",
+  "titleRo": "NOESIS Science Center &  Muzeul Tehnologiei",
+  "categoryEn": "Museum",
+  "categoryRo": "Muzeu",
+  "address": "Θεσσαλονίκης 6 χλμ, Thermi 570 01, Greece",
+  "hoursEn": "Tu-Fr: 09:00-17:00. Sa-Su: 11:00-19:00",
+  "hoursRo": "Ma-Vi: 09:00-17:00. Sa-Du: 11:00-19:00",
+  "website": "https://www.noesis.edu.gr/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.56311287388021,
+    "lon": 22.995656548906272
+  },
+  "phone": "+302310483000",
+  "price": "Normal: 15€\n, Reduced: 10€",
+  "descriptionEn": "🚀 NOESIS Science Center & Technology Museum is one of the most exciting and interactive attractions in Thessaloniki, combining science, technology, entertainment, and education in a modern and fascinating way. Perfect for families, couples, children, and curious travelers, NOESIS offers a unique experience where visitors can explore the world of science while having fun.\n\n✨ Located just outside the city center, the museum features impressive exhibitions, hands-on activities, cutting-edge technology, and one of the largest planetariums in Greece. It is considered one of the most modern science museums in Southeastern Europe.\n\n🌌 Visitors can enjoy:\n🪐 A spectacular Digital Planetarium with immersive space shows\n🎬 The Cosmotheater with giant-screen 3D documentaries\n🚗 Classic car collections and technology exhibits\n🔬 Interactive science experiments and educational activities\n🎮 Motion simulators and hands-on experiences for all ages\n\n🏛️ The architecture of the building itself is impressive and futuristic, perfectly matching the innovative atmosphere inside. The museum regularly hosts temporary exhibitions, science events, workshops, and family-friendly activities throughout the year.\n\n👨‍👩‍👧 Whether you are passionate about astronomy, technology, engineering, or simply looking for a fun and different experience in Thessaloniki, NOESIS is a must-visit destination that combines learning with entertainment in an unforgettable way.",
+  "descriptionRo": "🚀 NOESIS Science Center & Technology Museum este una dintre cele mai interesante și interactive atracții din Salonic, combinând știința, tehnologia și distracția într-un mod modern și captivant. Este locul perfect pentru familii, copii, cupluri sau turiști curioși care vor să descopere lumea științei într-un mod distractiv și interactiv.\n\n✨ Situat în apropierea orașului, NOESIS impresionează prin expozițiile sale moderne, activitățile interactive și unul dintre cele mai mari planetarii digitale din Grecia. Centrul este considerat unul dintre cele mai moderne muzee științifice din sud-estul Europei.\n\n🌌 Vizitatorii se pot bucura de:\n🪐 Planetariu digital spectaculos cu proiecții despre univers\n🎬 Cosmotheater cu documentare și filme 3D pe ecran gigant\n🚗 Colecții impresionante de mașini clasice și tehnologie\n🔬 Experimente interactive și activități educative\n🎮 Simulatoare și experiențe captivante pentru toate vârstele\n\n🏛️ Chiar și arhitectura clădirii are un design futurist impresionant, care completează perfect atmosfera modernă din interior. Muzeul găzduiește frecvent expoziții temporare, evenimente științifice și activități dedicate întregii familii.\n\n💙 Fie că ești pasionat de astronomie, tehnologie sau pur și simplu cauți ceva diferit și distractiv de făcut în Salonic, NOESIS oferă o experiență memorabilă unde învățarea și divertismentul se îmbină perfect.",
+  "images": [
+    "noesis-science-center-technology-museum1.webp",
+    "noesis-science-center-technology-museum2.webp",
+    "noesis-science-center-technology-museum3.webp",
+    "noesis-science-center-technology-museum4.webp"
+  ]
+}

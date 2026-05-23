@@ -33,5 +33,13 @@
     "beaches": [
       "thessaloniki"
     ]
+  },
+  {
+    "id": "noesis-science-center-technology-museum",
+    "type": "what_to_do",
+    "beaches": [
+      "thessaloniki",
+      "nea-krini-beach"
+    ]
   }
 ]
