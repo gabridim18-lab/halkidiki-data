@@ -50,5 +50,12 @@
       "nea-krini-beach",
       "nea-perea-beach"
     ]
+  },
+  {
+    "id": "anel-honey-park",
+    "type": "what_to_do",
+    "beaches": [
+      "nea-krini-beach"
+    ]
   }
 ]

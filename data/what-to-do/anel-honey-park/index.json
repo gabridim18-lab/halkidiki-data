@@ -1,0 +1,30 @@
+{
+  "id": "anel-honey-park",
+  "type": "what_to_do",
+  "beaches": [
+    "nea-krini-beach"
+  ],
+  "titleEn": "Anel Honey Park",
+  "titleRo": "Anel Honey Park",
+  "categoryEn": "Tourist Attraction",
+  "categoryRo": "Atractie turistica",
+  "address": "17ο χλμ, A/D Thessalonikis Neon Moudanion, Neo Risio 570 01, Greece",
+  "hoursEn": "Mo-Fr: 09:00-17:00, Sa: 08:00-19:00",
+  "hoursRo": "Lu-Vi: 09:00-17:00; Sa: 08:00-19:00",
+  "website": "http://honeypark.gr/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.51032656727232,
+    "lon": 23.006508085162128
+  },
+  "phone": "+302392072786",
+  "price": "5",
+  "descriptionEn": "🍯 Anel Honey Park is one of the most unique and family-friendly attractions near Thessaloniki, offering visitors a fascinating journey into the magical world of bees, honey, and nature. Located in Neo Risio, this beautiful educational park combines entertainment, relaxation, and learning in a peaceful natural environment.\n\n✨ Known as the first beekeeping and apitherapy park in Greece, Anel Honey Park allows visitors of all ages to discover how bees live, how honey is produced, and why bees are so important for nature and the environment.\n\n🐝 Visitors can enjoy:\n🍯 Honey tasting with traditional Greek flavors\n🐝 Guided tours about beekeeping and bee life\n👨‍👩‍👧 Interactive experiences for children and families\n🧑‍🌾 Observation hives and real beekeeping areas\n🌿 Relaxing outdoor spaces surrounded by nature\n🛍️ A shop with local honey, bee products, cosmetics, and gifts\n\n✨ One of the most special experiences is visiting the famous Apitherapy House, where guests can relax while listening to the calming sound of bees and enjoying the natural atmosphere created by the hives.\n\n🌞 The park offers a relaxing escape from the city and is perfect for families, couples, nature lovers, and anyone looking for something different and memorable near Thessaloniki.\n\n💙 Whether you want to learn about bees, taste authentic Greek honey, or simply enjoy a peaceful experience in nature, Anel Honey Park is a truly unique destination worth visiting.",
+  "descriptionRo": "🍯 Anel Honey Park este una dintre cele mai interesante și originale atracții din apropierea Salonicului, oferind vizitatorilor o experiență fascinantă în lumea albinelor, a mierii și a naturii. Situat în Neo Risio, acest parc educativ combină perfect relaxarea, distracția și descoperirea într-un cadru natural liniștit.\n\n✨ Cunoscut drept primul parc de apicultură și apiterapie din Grecia, Anel Honey Park le oferă vizitatorilor șansa de a descoperi cum trăiesc albinele, cum este produsă mierea și cât de importante sunt acestea pentru natură și ecosistem.\n\n🐝 Vizitatorii se pot bucura de:\n🍯 Degustări de miere grecească autentică\n🐝 Tururi ghidate despre viața albinelor și apicultură\n👨‍👩‍👧 Activități interactive pentru copii și familii\n🧑‍🌾 Stupi speciali pentru observație și zone reale de apicultură\n🌿 Spații verzi și relaxante în mijlocul naturii\n🛍️ Magazin cu miere, produse apicole, cosmetice și suveniruri\n\n✨ Una dintre cele mai speciale experiențe este vizitarea faimoasei „Apitherapy House”, unde oaspeții se pot relaxa ascultând sunetul liniștitor al albinelor și bucurându-se de atmosfera naturală creată de stupi.\n\n🌞 Parcul reprezintă o escapadă perfectă din agitația orașului și este ideal pentru familii, cupluri, iubitori de natură sau turiști care caută ceva diferit și memorabil în apropiere de Salonic.\n\n💙 Fie că vrei să afli mai multe despre lumea albinelor, să guști miere grecească autentică sau pur și simplu să petreci câteva ore relaxante în natură, Anel Honey Park este un loc unic care merită descoperit.",
+  "images": [
+    "anel-honey-park1.webp",
+    "anel-honey-park2.webp",
+    "anel-honey-park3.webp",
+    "anel-honey-park4.webp"
+  ]
+}
