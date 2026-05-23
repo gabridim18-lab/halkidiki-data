@@ -57,5 +57,13 @@
     "beaches": [
       "nea-krini-beach"
     ]
+  },
+  {
+    "id": "drivepark-gokart-circuit",
+    "type": "what_to_do",
+    "beaches": [
+      "nea-krini-beach",
+      "perea-beach"
+    ]
   }
 ]

@@ -1,0 +1,31 @@
+{
+  "id": "drivepark-gokart-circuit",
+  "type": "what_to_do",
+  "beaches": [
+    "nea-krini-beach",
+    "perea-beach"
+  ],
+  "titleEn": "Drivepark Gokart Circuit",
+  "titleRo": "Drivepark Gokart Circuit",
+  "categoryEn": "Fun",
+  "categoryRo": "Fun",
+  "address": "15 klm Thessaloniki - N.Mihaniona, Neo Risio 570 01, Greece",
+  "hoursEn": "Mo-Su: 10:00-22:00",
+  "hoursRo": "Lu-Du: 10:00-22:00",
+  "website": "http://www.drivepark.gr/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.5199907312235,
+    "lon": 22.990747747698858
+  },
+  "phone": "+302310465723",
+  "price": "",
+  "descriptionEn": "🏎️ Drivepark Gokart Circuit Thessaloniki is one of the most exciting adrenaline experiences near Thessaloniki and one of the largest karting circuits in the Balkans. Perfect for friends, families, couples, or motorsport lovers, the circuit offers high-speed fun in a professional racing environment designed for all skill levels.\n\n🔥 The modern outdoor track is built according to international safety standards and gives visitors the feeling of a real racing experience. Whether you are a beginner trying karting for the first time or a speed enthusiast looking for competition, Drivepark delivers pure excitement from the first lap.\n\n🏁 Visitors can enjoy:\n🏎️ Fast go-karts on a professional racing circuit\n⏱️ Competitive lap timing and racing sessions\n👨‍👩‍👧 Activities for adults, teenagers, and kids\n🎯 Drift experiences and motorsport events\n☕ Relaxing café and viewing areas for spectators\n📸 An energetic atmosphere perfect for groups and fun outings\n\n✨ The circuit is especially popular for:\n👥 Group activities with friends\n🎉 Birthday parties & team building\n🏆 Friendly competitions and racing challenges\n🔥 Adrenaline-filled experiences near Thessaloniki\n\n💙 If you are looking for something different from museums and sightseeing, Drivepark is the perfect place to experience speed, excitement, and unforgettable moments during your stay in Thessaloniki.",
+  "descriptionRo": "🏎️ Drivepark Gokart Circuit Thessaloniki este una dintre cele mai distractive și pline de adrenalină experiențe din apropierea Salonicului și una dintre cele mai mari piste de karting din Balcani. Ideal pentru prieteni, familii, cupluri sau pasionați de motorsport, circuitul oferă senzația unei curse reale într-un mediu profesionist și sigur.\n\n🔥 Pista modernă în aer liber este construită conform standardelor internaționale de siguranță și oferă o experiență autentică de racing atât pentru începători, cât și pentru cei pasionați de viteză și competiție. Fiecare tură aduce adrenalină, distracție și multă energie.\n\n🏁 Vizitatorii se pot bucura de:\n🏎️ Karturi rapide pe un circuit profesionist\n⏱️ Cronometrare și sesiuni competitive\n👨‍👩‍👧 Activități pentru adulți și copii\n🎯 Experiențe de drift și evenimente motorsport\n☕ Cafenea și zone de relaxare pentru spectatori\n📸 Atmosferă energică perfectă pentru grupuri și distracție\n\n✨ Locul este foarte popular pentru:\n👥 Activități cu prietenii\n🎉 Petreceri și team building\n🏆 Competiții amicale și provocări pe pistă\n🔥 Experiențe pline de adrenalină lângă Salonic\n\n💙 Dacă vrei ceva diferit față de muzeele și atracțiile clasice ale orașului, Drivepark este locul perfect pentru a simți viteza, adrenalina și distracția autentică în timpul vacanței tale în Salonic.",
+  "images": [
+    "drivepark-gokart-circuit1.webp",
+    "drivepark-gokart-circuit2.webp",
+    "drivepark-gokart-circuit3.webp",
+    "drivepark-gokart-circuit4.webp"
+  ]
+}
