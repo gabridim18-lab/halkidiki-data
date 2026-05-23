@@ -1886,5 +1886,21 @@
     "rating": 4.6,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "azapiko-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Azapiko Beach",
+      "ro": "Plaja Azapiko"
+    },
+    "previewImage": "azapiko-beach.webp",
+    "coordinates": {
+      "lat": 40.023843884959476,
+      "lon": 23.83403902292542
+    },
+    "rating": 4.7,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

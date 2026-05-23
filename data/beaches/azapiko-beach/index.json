@@ -1,0 +1,136 @@
+{
+  "id": "azapiko-beach",
+  "slug": "azapiko-beach",
+  "name": {
+    "en": "Azapiko Beach",
+    "ro": "Plaja Azapiko"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet isolated natural beach",
+    "ro": "Plajă naturală liniștită și izolată"
+  },
+  "coordinates": {
+    "lat": 40.023843884959476,
+    "lon": 23.83403902292542
+  },
+  "editorChoice": true,
+  "length": 420,
+  "images": [
+    "azapiko-beach.webp",
+    "azapiko-beach1.webp",
+    "azapiko-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short rough access path",
+      "ro": "Acces scurt pe drum dificil"
+    },
+    "parkingDifficulty": {
+      "en": "Limited natural parking",
+      "ro": "Parcare naturală limitată"
+    },
+    "noiseLevel": {
+      "en": "Very quiet",
+      "ro": "Foarte liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and peaceful",
+      "ro": "Sălbatică și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry with rocky edges",
+      "ro": "Intrare lină cu nisip și margini stâncoase"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft sand",
+    "ro": "Nisip fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 2.0m (gentle slope)",
+      "ro": "0.3 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Nature lovers",
+      "Snorkeling enthusiasts",
+      "Visitors seeking quiet beaches"
+    ],
+    "ro": [
+      "Familii",
+      "Iubitori de natură",
+      "Pasionați de snorkeling",
+      "Cei care caută plaje liniștite"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Caiac"
+    ]
+  },
+  "occupancy": "50-65%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.7,
+  "badge": "Nature",
+  "videos": [],
+  "description": {
+    "en": "Azapiko Beach is a quiet and more isolated beach, known for its clear water and natural scenery. The shallow entry makes it suitable for relaxed swimming, while the rocky edges are good for snorkeling. It is mostly unorganized, offering a peaceful and untouched beach experience.",
+    "ro": "Plaja Azapiko este o plajă liniștită și mai izolată, cunoscută pentru apa limpede și peisajul natural. Intrarea în apă este lină, potrivită pentru înot relaxat, iar marginile stâncoase sunt bune pentru snorkeling. Este în mare parte neamenajată și oferă o experiență naturală."
+  },
+  "blueFlag": false
+}
