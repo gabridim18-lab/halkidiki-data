@@ -1,0 +1,138 @@
+{
+  "id": "likithos-beach",
+  "slug": "likithos-beach",
+  "name": {
+    "en": "Likithos Beach",
+    "ro": "Plaja Likithos"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Scenic natural beach",
+    "ro": "Plajă naturală pitorească"
+  },
+  "coordinates": {
+    "lat": 40.01986423650915,
+    "lon": 23.828392288109814
+  },
+  "editorChoice": true,
+  "length": 600,
+  "images": [
+    "likithos-beach.webp",
+    "likithos-beach1.webp",
+    "likithos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short easy walk",
+      "ro": "Scurtă plimbare ușoară"
+    },
+    "parkingDifficulty": {
+      "en": "Easy parking nearby",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and relaxing",
+      "ro": "Liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural and peaceful",
+      "ro": "Naturală și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy-pebble entry",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Sand with marble pebbles",
+    "ro": "Nisip cu pietricele de marmură"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 2.5m (gradual slope)",
+      "ro": "0.4 - 2.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear emerald",
+      "ro": "Smarald limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Snorkeling",
+      "Nature lovers",
+      "Relaxation"
+    ],
+    "ro": [
+      "Familii",
+      "Snorkeling",
+      "Iubitori de natură",
+      "Relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Climbing",
+      "Walking"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Cățărare",
+      "Plimbări"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Nature",
+  "videos": [],
+  "description": {
+    "en": "Likithos Beach is a quiet and scenic beach with very clear water and interesting rocky areas. The shallow entry makes it suitable for families, while the rocks offer good snorkeling opportunities. It combines natural beauty with a relaxed and less crowded atmosphere.",
+    "ro": "Plaja Likithos este o plajă liniștită și pitorească, cu apă foarte limpede și zone stâncoase interesante. Intrarea în apă este lină, fiind potrivită pentru familii, iar stâncile oferă zone bune pentru snorkeling. Combină frumusețea naturală cu o atmosferă relaxată și mai puțin aglomerată."
+  },
+  "blueFlag": false
+}

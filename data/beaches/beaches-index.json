@@ -1870,5 +1870,21 @@
     "rating": 4.4,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "likithos-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Likithos Beach",
+      "ro": "Plaja Likithos"
+    },
+    "previewImage": "likithos-beach.webp",
+    "coordinates": {
+      "lat": 40.01986423650915,
+      "lon": 23.828392288109814
+    },
+    "rating": 4.6,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
