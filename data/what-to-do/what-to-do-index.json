@@ -65,5 +65,14 @@
       "nea-krini-beach",
       "perea-beach"
     ]
+  },
+  {
+    "id": "waterland",
+    "type": "what_to_do",
+    "beaches": [
+      "thessaloniki",
+      "nea-krini-beach",
+      "perea-beach"
+    ]
   }
 ]

@@ -1,0 +1,32 @@
+{
+  "id": "waterland",
+  "type": "what_to_do",
+  "beaches": [
+    "thessaloniki",
+    "nea-krini-beach",
+    "perea-beach"
+  ],
+  "titleEn": "Waterland",
+  "titleRo": "Waterland",
+  "categoryEn": "Water park",
+  "categoryRo": "Water park",
+  "address": "5i Odos, Tagarades 570 01, Greece",
+  "hoursEn": "Daily 10:00-19:00",
+  "hoursRo": "Zilnic 10:00-19:00",
+  "website": "http://www.waterland.gr/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.51264431821534,
+    "lon": 23.017463404178454
+  },
+  "phone": "+302392072025",
+  "price": "22Euro",
+  "descriptionEn": "💦 Waterland is one of the largest and most famous water parks in Greece, offering an unforgettable summer experience full of adrenaline, fun, and relaxation for visitors of all ages. Located near Thessaloniki, this massive water park is the perfect destination for families, groups of friends, couples, and anyone looking to escape the summer heat.\n\n🌊 Spread across more than 150,000 square meters of green landscapes, pools, and water attractions, Waterland combines exciting slides with relaxing areas surrounded by nature. The park is known for its energetic atmosphere, family-friendly facilities, and some of the most exciting water rides in Northern Greece.\n\n🎢 Visitors can enjoy:\n🌊 Giant water slides & adrenaline rides\n🏄 Huge wave pool\n🚣 Crazy River & water attractions\n🏴‍☠️ Pirates Island for children\n💦 Relaxing pools & hydro massage areas\n🌴 Green gardens and shaded relaxation spots\n🍔 Restaurants, cafés & snack bars throughout the park\n\n🔥 Some of the park’s most popular attractions include the famous Funnel slide, the Crazy River, the Wave Pool, and interactive kids’ areas designed for younger visitors.\n\n👨‍👩‍👧 Waterland is especially loved by families because it offers activities for both adults and children, combining thrilling experiences with safe and comfortable relaxation areas. The park also follows international safety standards and includes trained lifeguards across all attractions.\n\n☀️ Whether you want adrenaline-filled slides, a relaxing pool day, or a fun summer adventure with friends and family, Waterland delivers one of the most entertaining experiences near Thessaloniki.",
+  "descriptionRo": "💦 Waterland este unul dintre cele mai mari și cunoscute parcuri acvatice din Grecia, oferind o experiență de vară plină de distracție, adrenalină și relaxare pentru toate vârstele. Situat în apropiere de Salonic, Waterland este destinația perfectă pentru familii, grupuri de prieteni, cupluri sau turiști care vor să se răcorească și să se distreze în zilele călduroase de vară.\n\n🌊 Întins pe o suprafață impresionantă de peste 150.000 mp, parcul combină piscine uriașe, tobogane spectaculoase și zone verzi relaxante într-o atmosferă energică și prietenoasă. Waterland este considerat unul dintre cele mai populare aqua park-uri din nordul Greciei și oferă activități pentru toate tipurile de vizitatori.\n\n🎢 Vizitatorii se pot bucura de:\n🌊 Tobogane uriașe și atracții cu adrenalină\n🏄 Piscină cu valuri\n🚣 Crazy River și jocuri acvatice\n🏴‍☠️ Pirates Island pentru copii\n💦 Piscine relaxante și zone cu hidromasaj\n🌴 Spații verzi și zone umbrite pentru relaxare\n🍔 Restaurante, cafenele și snack baruri\n\n🔥 Printre cele mai populare atracții se numără celebrul „Funnel”, Crazy River, piscina cu valuri și zonele interactive dedicate copiilor.\n\n👨‍👩‍👧 Waterland este foarte apreciat de familii deoarece combină perfect distracția și siguranța, oferind zone pentru copii, piscine relaxante și atracții spectaculoase pentru adulți. Parcul respectă standarde internaționale de siguranță și dispune de salvamari specializați în toate zonele importante.\n\n☀️ Fie că îți dorești tobogane pline de adrenalină, relaxare la piscină sau o zi memorabilă cu prietenii și familia, Waterland oferă una dintre cele mai distractive experiențe de vară din apropierea Salonicului.",
+  "images": [
+    "waterland1.webp",
+    "waterland2.webp",
+    "waterland3.webp",
+    "waterland4.webp"
+  ]
+}
