@@ -1,0 +1,138 @@
+{
+  "id": "foresta-sithonia",
+  "slug": "foresta-sithonia",
+  "name": {
+    "en": "Foresta Sithonia",
+    "ro": "Foresta Sithonia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Wild forest beach",
+    "ro": "Plajă sălbatică în pădure"
+  },
+  "coordinates": {
+    "lat": 40.02082479419118,
+    "lon": 23.842322037309778
+  },
+  "editorChoice": true,
+  "length": 300,
+  "images": [
+    "foresta-sithonia.webp",
+    "foresta-sithonia1.webp",
+    "foresta-sithonia2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Explore this beach",
+    "ro": "Explorează această plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Forest trail access",
+      "ro": "Acces prin potecă forestieră"
+    },
+    "parkingDifficulty": {
+      "en": "No official parking",
+      "ro": "Fără parcare oficială"
+    },
+    "noiseLevel": {
+      "en": "Extremely quiet",
+      "ro": "Extrem de liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild and untouched",
+      "ro": "Sălbatică și neatinsă"
+    },
+    "waterEntry": {
+      "en": "Sudden depth with natural seabed",
+      "ro": "Adâncire rapidă și fund natural"
+    },
+    "waveLevel": {
+      "en": "Usually calm but isolated",
+      "ro": "De obicei calmă, dar izolată"
+    }
+  },
+  "sand": {
+    "en": "Sand with pine needles",
+    "ro": "Nisip cu ace de pin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.5 - 3.0m (sudden drop)",
+      "ro": "0.5 - 3.0m (cădere bruscă)"
+    },
+    "clarity": {
+      "en": "Emerald water",
+      "ro": "Apă verde smarald"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to early September",
+    "ro": "Iunie - început de Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Adventure seekers",
+      "Photography",
+      "Meditation and quiet escapes"
+    ],
+    "ro": [
+      "Iubitori de natură",
+      "Exploratori",
+      "Fotografie",
+      "Meditație și liniște"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Nature",
+      "Wildlife",
+      "Meditation",
+      "Photography"
+    ],
+    "ro": [
+      "Natură",
+      "Faună",
+      "Meditație",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "10-20%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": true,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.9,
+  "badge": "Explorer",
+  "videos": [],
+  "description": {
+    "en": "Foresta Sithonia is a wild and isolated beach surrounded by dense pine forest. The atmosphere is very quiet and natural, with almost no facilities and minimal human presence. It is more suitable for nature lovers and those looking for a unique, untouched experience.",
+    "ro": "Foresta Sithonia este o plajă sălbatică și izolată, înconjurată de pădure de pini. Atmosfera este foarte liniștită și naturală, fără facilități și cu foarte puțini turiști. Este potrivită mai ales pentru iubitorii de natură și pentru cei care caută o experiență autentică."
+  },
+  "blueFlag": false
+}

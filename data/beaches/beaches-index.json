@@ -1902,5 +1902,21 @@
     "rating": 4.7,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "foresta-sithonia",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Foresta Sithonia",
+      "ro": "Foresta Sithonia"
+    },
+    "previewImage": "foresta-sithonia.webp",
+    "coordinates": {
+      "lat": 40.02082479419118,
+      "lon": 23.842322037309778
+    },
+    "rating": 4.9,
+    "waterTemperature": 25,
+    "suitableForChildren": false
   }
 ]
