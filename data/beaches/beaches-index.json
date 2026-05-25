@@ -1950,5 +1950,21 @@
     "rating": 4.6,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "aretes-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Aretes Beach",
+      "ro": "Plaja Aretes"
+    },
+    "previewImage": "aretes-beach.webp",
+    "coordinates": {
+      "lat": 40.004033827284815,
+      "lon": 23.869401590601544
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

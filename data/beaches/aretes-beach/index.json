@@ -1,0 +1,136 @@
+{
+  "id": "aretes-beach",
+  "slug": "aretes-beach",
+  "name": {
+    "en": "Aretes Beach",
+    "ro": "Plaja Aretes"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet family-friendly beach",
+    "ro": "Plajă liniștită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.004033827284815,
+    "lon": 23.869401590601544
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "aretes-beach.webp",
+    "aretes-beach1.webp",
+    "aretes-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access",
+      "ro": "Acces ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Parking available nearby",
+      "ro": "Parcare disponibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Calm and peaceful",
+      "ro": "Calmă și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed and spacious atmosphere",
+      "ro": "Atmosferă relaxată și spațioasă"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "family",
+      "relax",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Swimming",
+      "Paddleboarding"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Înot",
+      "Paddleboarding"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Yoga pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Aretes Beach is a quiet and spacious beach with soft golden sand and clear turquoise water. The gentle entry makes it ideal for families and relaxed swimming. It offers a calm atmosphere with enough facilities for a comfortable beach day.",
+    "ro": "Plaja Aretes este liniștită și spațioasă, cu nisip fin și ape turcoaz cristaline. Intrarea lină în apă o face ideală pentru familii și relaxare. Oferă o atmosferă calmă și confort pentru o zi fără aglomerație."
+  },
+  "blueFlag": false
+}
