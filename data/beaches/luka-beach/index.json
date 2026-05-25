@@ -1,0 +1,136 @@
+{
+  "id": "luka-beach",
+  "slug": "luka-beach",
+  "name": {
+    "en": "Luka Beach",
+    "ro": "Plaja Luka"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet hidden cove",
+    "ro": "Golf liniștit și retras"
+  },
+  "coordinates": {
+    "lat": 39.99112350794608,
+    "lon": 23.892979034892555
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "luka-beach.webp",
+    "luka-beach1.webp",
+    "luka-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Parking available nearby",
+      "ro": "Parcare disponibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed hidden beach atmosphere",
+      "ro": "Atmosferă relaxată de golf retras"
+    },
+    "waterEntry": {
+      "en": "Comfortable mixed sand-pebble entry",
+      "ro": "Intrare confortabilă cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with pebbles",
+    "ro": "Nisip auriu fin cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.2m (moderate slope)",
+      "ro": "0.5 - 2.2m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Deep azure",
+      "ro": "Albastru intens"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Relaxation",
+      "Snorkeling",
+      "Couples",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Relaxare",
+      "Snorkeling",
+      "Cupluri",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.7,
+  "badge": "Relax",
+  "videos": [],
+  "description": {
+    "en": "Luka Beach is a quiet hidden cove with clear water and a mix of sand and pebbles. The seabed offers comfortable swimming conditions and good visibility for snorkeling. It is ideal for a peaceful beach day away from crowded areas.",
+    "ro": "Plaja Luka este un golf liniștit cu apă limpede și combinație de nisip și pietricele. Intrarea în apă este confortabilă și bună pentru snorkeling. Este ideală pentru o zi relaxantă departe de aglomerație."
+  },
+  "blueFlag": false
+}

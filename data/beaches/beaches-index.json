@@ -1998,5 +1998,21 @@
     "rating": 4.8,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "luka-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Luka Beach",
+      "ro": "Plaja Luka"
+    },
+    "previewImage": "luka-beach.webp",
+    "coordinates": {
+      "lat": 39.99112350794608,
+      "lon": 23.892979034892555
+    },
+    "rating": 4.7,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
