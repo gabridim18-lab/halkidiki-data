@@ -1982,5 +1982,21 @@
     "rating": 4.5,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "ema-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Ema Beach",
+      "ro": "Plaja Ema"
+    },
+    "previewImage": "ema-beach.webp",
+    "coordinates": {
+      "lat": 39.991797796550216,
+      "lon": 23.892553044972185
+    },
+    "rating": 4.8,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

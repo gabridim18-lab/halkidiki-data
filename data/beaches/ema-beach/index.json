@@ -1,0 +1,138 @@
+{
+  "id": "ema-beach",
+  "slug": "ema-beach",
+  "name": {
+    "en": "Ema Beach",
+    "ro": "Plaja Ema"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Premium boutique beach",
+    "ro": "Plajă boutique premium"
+  },
+  "coordinates": {
+    "lat": 39.991797796550216,
+    "lon": 23.892553044972185
+  },
+  "editorChoice": true,
+  "length": 350,
+  "images": [
+    "ema-beach.webp",
+    "ema-beach1.webp",
+    "ema-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access",
+      "ro": "Acces ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Parking available nearby",
+      "ro": "Parcare disponibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed premium atmosphere",
+      "ro": "Atmosferă premium și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Exclusive and peaceful",
+      "ro": "Exclusivistă și liniștită"
+    },
+    "waterEntry": {
+      "en": "Mixed shallow and deeper entry",
+      "ro": "Intrare mixtă, cu zone puțin adânci și mai adânci"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "White sand with pink tones",
+    "ro": "Nisip alb cu nuanțe roz"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.8m (mixed slope)",
+      "ro": "0.5 - 2.8m (pantă variată)"
+    },
+    "clarity": {
+      "en": "Transparent emerald",
+      "ro": "Smarald transparent"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "photography",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Priveliști superbe",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Relaxation",
+      "Swimming",
+      "Photography"
+    ],
+    "ro": [
+      "Cupluri",
+      "Relaxare",
+      "Înot",
+      "Fotografie"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Photography",
+      "Beachcombing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Fotografie",
+      "Plimbări pe plajă"
+    ]
+  },
+  "occupancy": "40-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "10-18 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$$",
+  "recommendationRating": 4.8,
+  "badge": "Couples",
+  "videos": [],
+  "description": {
+    "en": "Ema Beach is a smaller premium beach with light-colored sand and clear emerald water. It offers a more exclusive and relaxed atmosphere compared to larger beaches. A good choice for couples or those looking for a quieter, stylish setting.",
+    "ro": "Plaja Ema este o plajă mai mică, premium, cu nisip deschis la culoare și ape limpezi. Oferă o atmosferă mai exclusivistă și relaxată decât plajele mari. Este potrivită pentru cupluri sau pentru cei care caută liniște și stil."
+  },
+  "blueFlag": false
+}
