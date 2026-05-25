@@ -1,0 +1,138 @@
+{
+  "id": "paralia-toroni",
+  "slug": "paralia-toroni",
+  "name": {
+    "en": "Paralia Toroni",
+    "ro": "Plaja Toroni"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Long family-friendly sandy beach",
+    "ro": "Plajă lungă și nisipoasă pentru familii"
+  },
+  "coordinates": {
+    "lat": 39.98751529851656,
+    "lon": 23.89974257180487
+  },
+  "editorChoice": true,
+  "length": 1500,
+  "images": [
+    "paralia-toroni.webp",
+    "paralia-toroni1.webp",
+    "paralia-toroni2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from Toroni area",
+      "ro": "Acces ușor din zona Toroni"
+    },
+    "parkingDifficulty": {
+      "en": "Parking available nearby",
+      "ro": "Parcare disponibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and moderately lively",
+      "ro": "Relaxată și moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed family beach atmosphere",
+      "ro": "Atmosferă relaxată pentru familii"
+    },
+    "waterEntry": {
+      "en": "Very shallow and sandy entry",
+      "ro": "Intrare foarte lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 3m (very gradual slope)",
+      "ro": "0.3 - 3m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Turquoise-clear",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "Hidden gem",
+      "family",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Swimming",
+      "Beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Înot",
+      "Plimbări pe plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beachcombing",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Plimbări pe țărm",
+      "Caiac"
+    ]
+  },
+  "occupancy": "50-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": true,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Toroni Beach is a long and wide sandy beach with crystal-clear water and very shallow entry. It is ideal for families thanks to the gradual seabed and plenty of space. The beach combines natural beauty with basic facilities and a relaxed atmosphere.",
+    "ro": "Plaja Toroni este o plajă lungă și lată, cu apă foarte limpede și intrare extrem de lină. Este ideală pentru familii datorită adâncimii mici și spațiului generos. Combină natura cu facilități de bază și o atmosferă relaxată."
+  },
+  "blueFlag": false
+}

@@ -2014,5 +2014,21 @@
     "rating": 4.7,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-toroni",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Toroni",
+      "ro": "Plaja Toroni"
+    },
+    "previewImage": "paralia-toroni.webp",
+    "coordinates": {
+      "lat": 39.98751529851656,
+      "lon": 23.89974257180487
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
