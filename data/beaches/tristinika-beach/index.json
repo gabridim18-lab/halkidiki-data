@@ -1,0 +1,138 @@
+{
+  "id": "tristinika-beach",
+  "slug": "tristinika-beach",
+  "name": {
+    "en": "Tristinika Beach",
+    "ro": "Plaja Tristinika"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Large lively sandy beach",
+    "ro": "Plajă mare și animată"
+  },
+  "coordinates": {
+    "lat": 39.99587248438442,
+    "lon": 23.87874317596916
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "tristinika-beach.webp",
+    "tristinika-beach1.webp",
+    "tristinika-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access",
+      "ro": "Acces ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Large parking area nearby",
+      "ro": "Parcare mare în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Balanced mix of relaxation and beach life",
+      "ro": "Combinație între relaxare și viață de plajă"
+    },
+    "waterEntry": {
+      "en": "Gradual sandy entry",
+      "ro": "Intrare lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Light to moderate waves",
+      "ro": "Valuri ușoare spre moderate"
+    }
+  },
+  "sand": {
+    "en": "Golden sand with pebbles",
+    "ro": "Nisip auriu cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 2.2m (gradual slope)",
+      "ro": "0.4 - 2.2m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Swimming",
+      "Water sports",
+      "Relaxation"
+    ],
+    "ro": [
+      "Familii",
+      "Înot",
+      "Sporturi nautice",
+      "Relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Jet skiing",
+      "Beach volleyball",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Jet ski",
+      "Volei",
+      "Caiac"
+    ]
+  },
+  "occupancy": "70-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Tristinika Beach is a long and lively beach with golden sand and clear turquoise water. It combines spacious areas with organized sections, making it suitable for both relaxation and activities. A great choice if you want a mix of calm zones and beach life.",
+    "ro": "Plaja Tristinika este o plajă lungă și animată, cu nisip auriu și ape turcoaz cristaline. Combină zone spațioase cu zone organizate, fiind potrivită atât pentru relaxare, cât și pentru activități. O alegere excelentă dacă vrei echilibru între liniște și viață de plajă."
+  },
+  "blueFlag": false
+}

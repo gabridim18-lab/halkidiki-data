@@ -1966,5 +1966,21 @@
     "rating": 4.6,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "tristinika-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Tristinika Beach",
+      "ro": "Plaja Tristinika"
+    },
+    "previewImage": "tristinika-beach.webp",
+    "coordinates": {
+      "lat": 39.99587248438442,
+      "lon": 23.87874317596916
+    },
+    "rating": 4.5,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
