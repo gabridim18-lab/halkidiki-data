@@ -1,0 +1,136 @@
+{
+  "id": "agridia-beach",
+  "slug": "agridia-beach",
+  "name": {
+    "en": "Agridia Beach",
+    "ro": "Plaja Agridia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Wild volcanic-style beach",
+    "ro": "Plajă sălbatică cu aspect vulcanic"
+  },
+  "coordinates": {
+    "lat": 40.05857869134674,
+    "lon": 24.004278467716336
+  },
+  "editorChoice": true,
+  "length": 180,
+  "images": [
+    "agridia-beach.webp",
+    "agridia-beach1.webp",
+    "agridia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Remote access via rough natural path",
+      "ro": "Acces retras pe drum natural"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult, no organized parking",
+      "ro": "Dificilă, fără parcare organizată"
+    },
+    "noiseLevel": {
+      "en": "Extremely quiet and isolated",
+      "ro": "Extrem de liniștită și izolată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Raw, adventurous and untouched",
+      "ro": "Sălbatică, aventuroasă și neatinsă"
+    },
+    "waterEntry": {
+      "en": "Mixed volcanic pebbles and coarse sand with sudden depth",
+      "ro": "Pietricele vulcanice și nisip grosier cu adâncime rapidă"
+    },
+    "waveLevel": {
+      "en": "Usually calm but exposed during windy days",
+      "ro": "De obicei calmă, dar expusă în zilele cu vânt"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand with volcanic black pebbles",
+    "ro": "Nisip auriu grosier cu pietricele vulcanice negre"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.5 - 4m (moderate slope with sudden drop)",
+      "ro": "0.5 - 4m (pantă moderată cu cădere bruscă)"
+    },
+    "clarity": {
+      "en": "Deep sapphire blue (visibility 8-12m)",
+      "ro": "Albastru safir profund (vizibilitate 8-12 m)"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Adventure seekers",
+      "Snorkeling",
+      "Photography",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Cei aventuroși",
+      "Snorkeling",
+      "Fotografie",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Rock climbing",
+      "Photography"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Cățărare pe stânci",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "15-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.7,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Agridia Beach is one of the most visually striking and wild coastal spots in Sithonia, defined by its rare geological composition and raw, untouched setting. The contrast between coarse golden sand and dark volcanic pebbles creates a unique shoreline that immediately stands out from typical beaches in the region.\n\nThe beach is relatively small, around 180 meters, but what it lacks in size it compensates with character. The shoreline mixes textures and colors, while the surrounding rocky landscape gives the area a rugged and dramatic appearance.\n\nThe sea is exceptionally clear, with deep sapphire tones and high visibility that can easily reach 8–12 meters on calm days. The seabed starts moderately shallow but drops quickly, making the beach more suitable for confident swimmers rather than beginners or children.\n\nUnderwater, the environment is particularly interesting. Volcanic rock formations create natural channels, shelves and small underwater cliffs, attracting marine life and offering excellent snorkeling conditions for those who explore carefully.\n\nThere are absolutely no facilities here — no sunbeds, no bars, no organized areas — which keeps the atmosphere completely natural and quiet. The only sounds are the waves, wind and occasional seabirds.\n\nAgridia is not a casual beach stop, but a destination for those who appreciate wild landscapes, solitude and a more adventurous coastal experience.\n\nIt feels less like a beach and more like a raw piece of nature.",
+    "ro": "Plaja Agridia este unul dintre cele mai spectaculoase și sălbatice locuri de pe coasta Sithoniei, definită prin compoziția geologică rară și peisajul complet natural. Contrastul dintre nisipul auriu și pietrele vulcanice negre creează un aspect unic.\n\nPlaja are aproximativ 180 m lungime, dar impresionează prin caracter, nu prin dimensiune. Combinația de texturi și culori, împreună cu stâncile din jur, oferă un peisaj dramatic.\n\nApa este extrem de limpede, cu nuanțe de albastru intens și vizibilitate foarte bună. Intrarea este relativ lină la început, dar adâncimea crește rapid, fiind mai potrivită pentru înotători experimentați.\n\nSub apă, formațiunile vulcanice creează structuri interesante — canale, trepte și mici pereți subacvatici — ideale pentru snorkeling.\n\nNu există absolut nicio facilitate — fără șezlonguri, fără baruri, fără organizare — ceea ce păstrează locul complet natural și liniștit.\n\nAgridia nu este o plajă pentru relaxare clasică, ci pentru explorare și natură autentică.\n\nEste mai degrabă un loc sălbatic decât o plajă turistică."
+  },
+  "blueFlag": false
+}

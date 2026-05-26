@@ -2270,5 +2270,21 @@
     "rating": 4.1,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "agridia-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Agridia Beach",
+      "ro": "Plaja Agridia"
+    },
+    "previewImage": "agridia-beach.webp",
+    "coordinates": {
+      "lat": 40.05857869134674,
+      "lon": 24.004278467716336
+    },
+    "rating": 4.7,
+    "waterTemperature": 25,
+    "suitableForChildren": false
   }
 ]
