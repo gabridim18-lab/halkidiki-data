@@ -2094,5 +2094,21 @@
     "rating": 4.7,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "sithonia-cape",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Sithonia Cape",
+      "ro": "Capul Sithonia"
+    },
+    "previewImage": "sithonia-cape.webp",
+    "coordinates": {
+      "lat": 39.93870875915735,
+      "lon": 23.931969076683703
+    },
+    "rating": 4.9,
+    "waterTemperature": 23,
+    "suitableForChildren": false
   }
 ]

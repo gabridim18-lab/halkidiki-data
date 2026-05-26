@@ -1,0 +1,136 @@
+{
+  "id": "sithonia-cape",
+  "slug": "sithonia-cape",
+  "name": {
+    "en": "Sithonia Cape",
+    "ro": "Capul Sithonia"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Extreme wild rocky coastline",
+    "ro": "Zonă sălbatică stâncoasă"
+  },
+  "coordinates": {
+    "lat": 39.93870875915735,
+    "lon": 23.931969076683703
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "sithonia-cape.webp",
+    "sithonia-cape1.webp",
+    "sithonia-cape2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to cape",
+    "ro": "Navighează către cap"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Remote rocky access",
+      "ro": "Acces izolat și stâncos"
+    },
+    "parkingDifficulty": {
+      "en": "No organized parking",
+      "ro": "Fără parcare organizată"
+    },
+    "noiseLevel": {
+      "en": "Completely wild and silent",
+      "ro": "Complet sălbatic și liniștit"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Extreme untouched coastal environment",
+      "ro": "Mediu de coastă extrem și neatins"
+    },
+    "waterEntry": {
+      "en": "Rocky entry with immediate depth",
+      "ro": "Intrare stâncoasă cu adâncire imediată"
+    },
+    "waveLevel": {
+      "en": "Can become rough during wind",
+      "ro": "Poate deveni agitată în zile cu vânt"
+    }
+  },
+  "sand": {
+    "en": "Pebble-rock mix",
+    "ro": "Pietriș și stâncă"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "1 - 8m (steep drop)",
+      "ro": "1 - 8m (adâncime bruscă)"
+    },
+    "clarity": {
+      "en": "Deep cobalt blue",
+      "ro": "Albastru cobalt profund"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Experienced swimmers",
+      "Freedivers",
+      "Photographers",
+      "Explorers"
+    ],
+    "ro": [
+      "Înotători experimentați",
+      "Practicarea apneei",
+      "Fotografi",
+      "Exploratori"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Free diving",
+      "Cliff jumping",
+      "Nature observation"
+    ],
+    "ro": [
+      "Apnee",
+      "Sărituri de pe stânci",
+      "Observare natură"
+    ]
+  },
+  "occupancy": "5-15%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.9,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Sithonia Cape represents the most extreme and untouched coastal environment of the peninsula, where land ends abruptly into the open Aegean Sea. This is not a classic beach, but a raw natural formation dominated by rock, cliffs and deep water, offering one of the most intense and authentic seaside experiences in Halkidiki. The shoreline is composed almost entirely of stone and coarse formations shaped by constant wave action, creating a dramatic landscape with sharp contrasts between white limestone and deep cobalt blue water. The sea becomes deep almost immediately, reaching several meters within just a few steps, which results in exceptional clarity and visibility often exceeding 15–20 meters. Because of this depth and exposure, the area is ideal for experienced swimmers, freedivers and those who enjoy exploring underwater vertical rock formations. The absence of sand, shade and infrastructure makes this location completely wild, with no commercial activity, no organized areas and no tourist facilities. What it offers instead is total isolation, powerful scenery and a sense of being at the very edge of Sithonia. It is especially appreciated by advanced explorers, photographers and travelers who seek rare, untouched places rather than comfort.",
+    "ro": "Capul Sithonia reprezintă una dintre cele mai sălbatice și extreme zone de coastă din peninsulă, unde uscatul se termină abrupt în Marea Egee. Nu este o plajă clasică, ci o formațiune naturală dominată de stânci, faleze și ape adânci, oferind una dintre cele mai intense experiențe de litoral din Halkidiki. Țărmul este format aproape complet din rocă și pietriș grosier, modelat constant de valuri, creând un peisaj dramatic cu contraste puternice între calcarul alb și albastrul cobalt al apei. Apa devine adâncă imediat, ajungând la câțiva metri la doar câțiva pași de mal, ceea ce oferă o vizibilitate excepțională, adesea peste 15–20 de metri. Datorită acestor condiții, zona este ideală pentru înotători experimentați, apnee și explorare subacvatică de-a lungul pereților stâncoși. Lipsa totală a nisipului, umbrei și facilităților face ca locul să fie complet neamenajat, fără activitate turistică sau zone organizate. În schimb, oferă izolare totală, peisaje puternice și senzația de a fi la capătul Sithoniei. Este apreciată în special de exploratori, fotografi și persoane care caută locuri autentice, neatinse."
+  },
+  "blueFlag": false
+}
