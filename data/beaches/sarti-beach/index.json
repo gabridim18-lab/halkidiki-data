@@ -1,0 +1,138 @@
+{
+  "id": "sarti-beach",
+  "slug": "sarti-beach",
+  "name": {
+    "en": "Sarti Beach",
+    "ro": "Plaja Sarti"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Large versatile organized beach",
+    "ro": "Plajă mare și variată, bine organizată"
+  },
+  "coordinates": {
+    "lat": 40.08952439033228,
+    "lon": 23.979082974602466
+  },
+  "editorChoice": true,
+  "length": 2500,
+  "images": [
+    "sarti-beach.webp",
+    "sarti-beach1.webp",
+    "sarti-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access from town",
+      "ro": "Acces direct și ușor din stațiune"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively in central areas, quiet at the edges",
+      "ro": "Animată în centru, liniștită la capete"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Versatile, energetic and family-friendly",
+      "ro": "Variată, energică și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Fine sandy entry with very gradual slope",
+      "ro": "Intrare cu nisip fin și pantă foarte lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm mornings with light afternoon waves",
+      "ro": "Dimineți calme și valuri ușoare după-amiaza"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with occasional small pebbles",
+    "ro": "Nisip auriu fin cu pietricele mici ocazionale"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.5 - 3m (very gradual slope)",
+      "ro": "0.5 - 3m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "sports",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Sporturi pe plajă",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups",
+      "Watersports",
+      "Long beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri",
+      "Sporturi nautice",
+      "Plimbări lungi pe plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Watersports",
+      "Beach volleyball",
+      "Boat trips"
+    ],
+    "ro": [
+      "Înot",
+      "Sporturi nautice",
+      "Volei pe plajă",
+      "Excursii cu barca"
+    ]
+  },
+  "occupancy": "60-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.4,
+  "badge": "Perfect for Groups",
+  "videos": [],
+  "description": {
+    "en": "Sarti Beach is one of the largest and most versatile beaches in Sithonia, stretching for approximately 2.5 kilometers along the eastern coast and offering a complete seaside experience. Its size allows it to combine lively, organized areas with quiet, almost untouched sections, making it suitable for a wide range of visitors.\n\nThe beach is covered with fine golden sand, soft and comfortable, with only occasional small pebbles near the shoreline. The seabed has an extremely gradual slope, creating long shallow zones that extend far into the sea. This makes Sarti Beach particularly safe for children and ideal for relaxed swimming.\n\nWater clarity is consistently excellent, with calm conditions in the morning and gentle waves developing later in the day, especially when the wind picks up. The open exposure to the Aegean also means that on some days, small waves create enjoyable conditions for more active swimming.\n\nOne of the defining features of Sarti Beach is its view toward Mount Athos, visible across the water and adding a unique visual identity to the entire coastline.\n\nThe central section of the beach is fully organized, with sunbeds, beach bars, water sports and a lively atmosphere. In contrast, the northern and southern ends become progressively quieter, offering more space and a more natural setting.\n\nSarti is not just a beach, but a complete destination — combining accessibility, variety, activities and scenery in one place.\n\nIt works equally well for families, groups or travelers looking for both relaxation and energy.",
+    "ro": "Plaja Sarti este una dintre cele mai mari și variate plaje din Sithonia, întinzându-se pe aproximativ 2,5 km pe coasta estică și oferind o experiență completă de litoral. Datorită dimensiunii, combină zone animate și organizate cu porțiuni liniștite și mai naturale.\n\nPlaja este acoperită cu nisip fin și auriu, confortabil pentru stat și mers, cu puține pietricele la intrarea în apă. Fundul mării are o pantă foarte lină, iar apa rămâne puțin adâncă pe o distanță mare, fiind ideală pentru copii și pentru înot relaxat.\n\nApa este foarte limpede, iar dimineața este de obicei calmă. După-amiaza pot apărea valuri ușoare, mai ales când bate vântul, oferind un plus de dinamism.\n\nUn element distinctiv este priveliștea către Muntele Athos, vizibil peste mare și care oferă un peisaj spectaculos.\n\nZona centrală este complet organizată, cu șezlonguri, beach baruri și sporturi nautice, în timp ce capetele plajei sunt mai liniștite și mai puțin aglomerate.\n\nSarti nu este doar o plajă, ci o destinație completă — oferind acces ușor, varietate și opțiuni pentru toate tipurile de turiști.\n\nEste potrivită atât pentru familii, cât și pentru cei care caută activitate și atmosferă."
+  },
+  "blueFlag": false
+}

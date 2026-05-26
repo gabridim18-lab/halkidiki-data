@@ -2318,5 +2318,21 @@
     "rating": 4.2,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "sarti-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Sarti Beach",
+      "ro": "Plaja Sarti"
+    },
+    "previewImage": "sarti-beach.webp",
+    "coordinates": {
+      "lat": 40.08952439033228,
+      "lon": 23.979082974602466
+    },
+    "rating": 4.4,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
