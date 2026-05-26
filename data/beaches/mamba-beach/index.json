@@ -1,0 +1,136 @@
+{
+  "id": "mamba-beach",
+  "slug": "mamba-beach",
+  "name": {
+    "en": "Mamba Beach",
+    "ro": "Plaja Mamba"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Hidden premium-style bay",
+    "ro": "Golf ascuns cu atmosferă premium"
+  },
+  "coordinates": {
+    "lat": 39.96444497028319,
+    "lon": 23.96694816285984
+  },
+  "editorChoice": true,
+  "length": 450,
+  "images": [
+    "mamba-beach.webp",
+    "mamba-beach1.webp",
+    "mamba-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short natural path access",
+      "ro": "Acces pe potecă scurtă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Relaxed with occasional sunset atmosphere",
+      "ro": "Relaxată, mai animată la apus"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Stylish hidden beach with bohemian atmosphere",
+      "ro": "Plajă stilată cu atmosferă boemă"
+    },
+    "waterEntry": {
+      "en": "Comfortable mixed sand and pebble entry",
+      "ro": "Intrare confortabilă cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm due to protected bay",
+      "ro": "De obicei calmă datorită golfului protejat"
+    }
+  },
+  "sand": {
+    "en": "White sand with pebbles",
+    "ro": "Nisip alb cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 2.5m (moderate slope)",
+      "ro": "0.5 - 2.5m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Brilliant azure",
+      "ro": "Azuriu strălucitor"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "relax",
+      "photography",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Priveliști superbe",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Relaxation",
+      "Swimming",
+      "Paddleboarding"
+    ],
+    "ro": [
+      "Cupluri",
+      "Relaxare",
+      "Înot",
+      "Paddleboarding"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beachcombing"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Plimbări pe plajă"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.7,
+  "badge": "Couples Retreat",
+  "videos": [],
+  "description": {
+    "en": "Mamba Beach is one of the most visually striking hidden beaches on Sithonia’s eastern coast, known for its vibrant water colors and relaxed, slightly bohemian atmosphere. The beach forms a small natural bay framed by rock formations and low vegetation, which helps protect it from strong winds and keeps the sea calm most of the time. The shoreline is a mix of soft white sand and smooth pebbles, while the seabed gradually transitions from sandy to pebbly, creating beautiful light reflections under water. The water is exceptionally clear, with intense shades of turquoise and azure, making it ideal for swimming, floating and light snorkeling along the edges. Compared to larger beaches, Mamba has a more intimate and exclusive feel, attracting travelers who prefer smaller, character-filled locations instead of crowded resorts. Although it keeps a hidden gem vibe, the presence of a beach bar and small food options adds comfort without overwhelming the natural setting. The overall atmosphere is calm during the day, with occasional livelier moments in the evening, especially during sunset or special summer events.",
+    "ro": "Plaja Mamba este una dintre cele mai spectaculoase plaje ascunse de pe coasta estică a Sithoniei, cunoscută pentru culorile intense ale apei și atmosfera relaxată, ușor boemă. Plaja formează un golf mic, protejat de stânci și vegetație joasă, ceea ce reduce vântul și menține apa calmă în majoritatea timpului. Țărmul este un amestec de nisip alb fin și pietricele netede, iar fundul mării trece treptat de la nisip la pietriș, creând efecte vizuale foarte frumoase sub apă. Apa este extrem de clară, cu nuanțe puternice de turcoaz și azuriu, fiind ideală pentru înot, relaxare și snorkeling ușor în zonele marginale. Comparativ cu plajele mari, Mamba oferă o senzație mai intimă și exclusivistă, fiind preferată de cei care caută locuri mai speciale și mai puțin comerciale. Există totuși un nivel de confort, datorită beach barului și opțiunilor de mâncare, fără a afecta caracterul natural al plajei. Atmosfera este liniștită în timpul zilei, iar spre seară devine mai animată, mai ales la apus sau în perioadele cu evenimente de vară."
+  },
+  "blueFlag": false
+}
