@@ -2286,5 +2286,21 @@
     "rating": 4.7,
     "waterTemperature": 25,
     "suitableForChildren": false
+  },
+  {
+    "id": "goa-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Goa Beach",
+      "ro": "Plaja Goa"
+    },
+    "previewImage": "goa-beach.webp",
+    "coordinates": {
+      "lat": 40.07119685056195,
+      "lon": 23.994227753021207
+    },
+    "rating": 4.6,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

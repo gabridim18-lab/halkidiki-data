@@ -1,0 +1,136 @@
+{
+  "id": "goa-beach",
+  "slug": "goa-beach",
+  "name": {
+    "en": "Goa Beach",
+    "ro": "Plaja Goa"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Balanced family-friendly sandy beach",
+    "ro": "Plajă echilibrată cu nisip, potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.07119685056195,
+    "lon": 23.994227753021207
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "goa-beach.webp",
+    "goa-beach1.webp",
+    "goa-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Easy outside peak hours",
+      "ro": "Ușoară în afara orelor aglomerate"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and family-friendly",
+      "ro": "Relaxată și potrivită pentru familii"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Calm, balanced and naturally relaxing",
+      "ro": "Calmă, echilibrată și relaxantă"
+    },
+    "waterEntry": {
+      "en": "Soft sandy entry with gentle slope",
+      "ro": "Intrare lină cu nisip fin"
+    },
+    "waveLevel": {
+      "en": "Usually calm and stable",
+      "ro": "De obicei calmă și stabilă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with minimal pebbles",
+    "ro": "Nisip auriu fin, cu puține pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope, sandy bottom)",
+      "ro": "0.4 - 1.8m (pantă lină, fund nisipos)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "relax",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Swimming",
+      "Paddleboarding",
+      "Relaxation"
+    ],
+    "ro": [
+      "Familii",
+      "Înot",
+      "Paddleboarding",
+      "Relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Yoga pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Goa Beach is a calm and well-balanced stretch of coastline on Sithonia’s eastern side, offering a mix of natural beauty and simple comfort. With around 800 meters of soft golden sand and clear turquoise water, it is one of those places that feels both accessible and relaxing without becoming overly crowded.\n\nThe beach has a clean and pleasant shoreline, mostly sandy with only small pebbles near the waterline. This makes it comfortable for walking, sunbathing and spending long hours by the sea. The surrounding area is defined by low dunes and scattered pine trees, giving a slightly wild but still approachable landscape.\n\nThe seabed has a gentle and consistent slope, allowing the water to remain shallow for a good distance. This makes Goa Beach particularly suitable for families and for those who prefer calm, easy swimming conditions. The water is typically very clear and stable, especially in the morning.\n\nFacilities are present but not overwhelming. Sunbeds are available at reasonable prices and are usually spaced well enough to avoid crowding. The atmosphere remains relaxed, with a slower pace compared to more commercial beaches.\n\nThe beach works equally well for passive relaxation and light activity — from swimming and paddleboarding to simply enjoying the quiet surroundings.\n\nGoa Beach stands out as a reliable and easy choice: clean water, good access, balanced facilities and a calm overall vibe.",
+    "ro": "Plaja Goa este o plajă echilibrată și ușor de apreciat de pe coasta estică a Sithoniei, oferind o combinație între natură și confort simplu. Cu aproximativ 800 m de nisip fin și auriu și apă turcoaz limpede, este un loc potrivit atât pentru relaxare, cât și pentru activități ușoare.\n\nMalul este curat și plăcut, în mare parte nisipos, cu puține pietricele la intrarea în apă. Zona este înconjurată de dune joase și pini răsfirați, oferind un peisaj natural fără a fi izolat.\n\nIntrarea în mare este lină și constantă, iar apa rămâne puțin adâncă pe o distanță mare, ceea ce o face ideală pentru familii și pentru înot relaxat. Vizibilitatea este bună, iar condițiile sunt stabile.\n\nExistă facilități, dar nu sunt excesive, ceea ce păstrează atmosfera liniștită. Șezlongurile sunt accesibile ca preț și bine distribuite.\n\nPlaja este potrivită atât pentru relaxare, cât și pentru activități ușoare precum paddleboarding sau plimbări.\n\nGoa este o alegere sigură: apă curată, acces facil și atmosferă calmă."
+  },
+  "blueFlag": false
+}
