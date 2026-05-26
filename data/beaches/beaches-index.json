@@ -2238,5 +2238,21 @@
     "rating": 4.8,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "sykias-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Sykias Beach",
+      "ro": "Plaja Sykias"
+    },
+    "previewImage": "sykias-beach.webp",
+    "coordinates": {
+      "lat": 40.03680347288719,
+      "lon": 23.988695585975133
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

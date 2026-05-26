@@ -1,0 +1,136 @@
+{
+  "id": "sykias-beach",
+  "slug": "sykias-beach",
+  "name": {
+    "en": "Sykias Beach",
+    "ro": "Plaja Sykias"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Long family-friendly sandy beach",
+    "ro": "Plajă lungă cu nisip, potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.03680347288719,
+    "lon": 23.988695585975133
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "sykias-beach.webp",
+    "sykias-beach1.webp",
+    "sykias-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Easy outside peak hours",
+      "ro": "Ușoară în afara orelor de vârf"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and family-friendly",
+      "ro": "Relaxată și potrivită pentru familii"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Balanced, calm and authentic",
+      "ro": "Echilibrată, calmă și autentică"
+    },
+    "waterEntry": {
+      "en": "Soft sandy entry with gentle slope",
+      "ro": "Intrare lină cu nisip fin"
+    },
+    "waveLevel": {
+      "en": "Usually calm and stable",
+      "ro": "De obicei calmă și stabilă"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with minimal pebbles",
+    "ro": "Nisip auriu fin, cu puține pietricele"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope, sandy bottom)",
+      "ro": "0.4 - 1.8m (pantă lină, fund nisipos)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "family",
+      "Hidden gem",
+      "Hidden gem",
+      "relax"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Swimming",
+      "Beach walks",
+      "Paddleboarding"
+    ],
+    "ro": [
+      "Familii",
+      "Înot",
+      "Plimbări pe plajă",
+      "Paddleboarding"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Yoga pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Sykias Beach is one of the most balanced and easy-to-enjoy beaches on Sithonia’s eastern coastline, offering a long stretch of golden sand combined with calm, crystal-clear waters and a relaxed, family-friendly atmosphere. Its location near Sykia village gives it a more local and authentic character compared to highly commercial beaches.\n\nThe beach extends for around 800 meters, allowing plenty of space even during busier periods. The sand is soft and pleasant, with only occasional small pebbles near the waterline, making it comfortable both for walking and sunbathing.\n\nThe seabed has a very gentle and predictable slope, with shallow water extending far from the shore. This creates safe conditions for children and makes the beach ideal for long, relaxed swims. The water is typically calm, with very good clarity and stable conditions throughout most of the day.\n\nFacilities are present but not overwhelming, maintaining a good balance between comfort and simplicity. Sunbeds are spaced out, and the overall vibe remains quiet and laid-back rather than crowded or noisy.\n\nThe surrounding landscape of low dunes, olive groves and scattered pine trees adds to the natural feel of the area, offering occasional patches of shade and a pleasant, slightly wild atmosphere without being remote.\n\nSykias Beach is not about luxury or exclusivity, but about reliability — a place where everything works well: easy access, clean water, good space, and a consistently relaxing environment.",
+    "ro": "Plaja Sykias este una dintre cele mai echilibrate și ușor de apreciat plaje de pe coasta estică a Sithoniei, combinând nisip auriu, ape calme și cristaline și o atmosferă relaxată, potrivită pentru familii. Apropierea de satul Sykia îi oferă un caracter mai autentic și mai puțin comercial.\n\nPlaja are aproximativ 800 m lungime, oferind suficient spațiu chiar și în perioadele mai aglomerate. Nisipul este fin și plăcut, cu puține pietricele la intrarea în apă.\n\nIntrarea în mare este foarte lină și previzibilă, iar apa rămâne puțin adâncă pe o distanță mare, ceea ce o face foarte sigură pentru copii și ideală pentru înot relaxat. Condițiile sunt stabile, iar apa este de obicei calmă și limpede.\n\nFacilitățile există, dar nu domină peisajul, păstrând un echilibru între confort și natură. Șezlongurile sunt bine spațiate, iar atmosfera rămâne liniștită.\n\nZona este înconjurată de dune joase, măslini și pini, ceea ce adaugă un aer natural și plăcut, fără a fi izolată.\n\nSykias nu este o plajă de lux, ci una sigură și constantă — unde găsești apă curată, acces ușor, spațiu și relaxare."
+  },
+  "blueFlag": false
+}
