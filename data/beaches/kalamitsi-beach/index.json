@@ -1,0 +1,136 @@
+{
+  "id": "kalamitsi-beach",
+  "slug": "kalamitsi-beach",
+  "name": {
+    "en": "Kalamitsi Beach",
+    "ro": "Plaja Kalamitsi"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Popular organized family beach",
+    "ro": "Plajă populară amenajată pentru familii"
+  },
+  "coordinates": {
+    "lat": 39.991058344916745,
+    "lon": 23.991247484441384
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "kalamitsi-beach.webp",
+    "kalamitsi-beach1.webp",
+    "kalamitsi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from Kalamitsi village",
+      "ro": "Acces ușor din satul Kalamitsi"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively but balanced",
+      "ro": "Animată, dar echilibrată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Lively, comfortable and family-friendly",
+      "ro": "Animată, confortabilă și potrivită familiilor"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm and protected",
+      "ro": "De obicei calmă și protejată"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.2 - 3.0m (gentle slope)",
+      "ro": "0.2 - 3.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "family",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Swimming",
+      "Water activities",
+      "Full beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Înot",
+      "Activități acvatice",
+      "Zile complete la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Kayaking",
+      "Scuba diving"
+    ],
+    "ro": [
+      "Înot",
+      "Caiac",
+      "Scufundări"
+    ]
+  },
+  "occupancy": "70-90%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Kalamitsi Beach is one of the most complete and popular beaches on the southern coast of Sithonia, offering a perfect mix between natural beauty, accessibility and well-developed facilities. The beach stretches along a wide, open bay bordered by low hills and the traditional village of Kalamitsi, creating a scenic setting that feels both lively and welcoming. The sand is soft and golden, with only occasional small pebbles, while the seabed slopes very gently, allowing shallow water to extend far from the shore, making it extremely safe for children and ideal for relaxed swimming. The water is exceptionally clear, with bright turquoise tones in the shallows and deeper blue shades further out, providing excellent conditions for swimming, floating and water activities. Kalamitsi stands out because it combines a vibrant atmosphere with comfort, offering organized areas with sunbeds, beach bars and tavernas, while still maintaining enough space for visitors who prefer quieter sections. The bay is also well protected from strong winds, making it a reliable choice even on days when other beaches are less comfortable. Thanks to its size and layout, the beach never feels overwhelming despite higher occupancy, and it remains one of the most versatile options in Sithonia for all types of travelers.",
+    "ro": "Plaja Kalamitsi este una dintre cele mai complete și populare plaje de pe coasta sudică a Sithoniei, oferind un echilibru excelent între natură, accesibilitate și facilități. Plaja se întinde într-un golf larg, înconjurat de dealuri joase și de satul tradițional Kalamitsi, creând un peisaj plăcut și primitor. Nisipul este fin și auriu, cu foarte puține pietricele, iar intrarea în apă este foarte lină, cu zone puțin adânci care se extind mult în larg, fiind extrem de sigură pentru copii. Apa este foarte clară, cu nuanțe intense de turcoaz în apropierea țărmului și albastru mai profund în larg, ideală pentru înot și activități acvatice. Kalamitsi se remarcă prin faptul că oferă atât atmosferă animată, cât și confort, cu zone organizate, beach baruri și taverne, dar și spațiu suficient pentru cei care caută liniște. Golful este bine protejat de vânt, ceea ce o face o alegere sigură chiar și în zilele mai instabile. Datorită dimensiunii și organizării, plaja nu pare sufocantă chiar și în sezon, fiind una dintre cele mai versatile opțiuni din Sithonia."
+  },
+  "blueFlag": false
+}

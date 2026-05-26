@@ -2126,5 +2126,21 @@
     "rating": 4.7,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "kalamitsi-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Kalamitsi Beach",
+      "ro": "Plaja Kalamitsi"
+    },
+    "previewImage": "kalamitsi-beach.webp",
+    "coordinates": {
+      "lat": 39.991058344916745,
+      "lon": 23.991247484441384
+    },
+    "rating": 4.5,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
