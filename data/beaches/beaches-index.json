@@ -2142,5 +2142,21 @@
     "rating": 4.5,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "kriaritsi-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Kriaritsi Beach",
+      "ro": "Plaja Kriaritsi"
+    },
+    "previewImage": "kriaritsi-beach.webp",
+    "coordinates": {
+      "lat": 40.02618025049996,
+      "lon": 24.017097894130654
+    },
+    "rating": 4.3,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

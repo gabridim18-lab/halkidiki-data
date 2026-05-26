@@ -1,0 +1,136 @@
+{
+  "id": "kriaritsi-beach",
+  "slug": "kriaritsi-beach",
+  "name": {
+    "en": "Kriaritsi Beach",
+    "ro": "Plaja Kriaritsi"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Large family-friendly sandy beach",
+    "ro": "Plajă mare nisipoasă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.02618025049996,
+    "lon": 24.017097894130654
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "kriaritsi-beach.webp",
+    "kriaritsi-beach1.webp",
+    "kriaritsi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces ușor direct la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy outside peak hours",
+      "ro": "Ușoară în afara orelor de vârf"
+    },
+    "noiseLevel": {
+      "en": "Balanced and family-oriented",
+      "ro": "Echilibrată și orientată spre familii"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Spacious, safe and relaxing",
+      "ro": "Spațioasă, sigură și relaxantă"
+    },
+    "waterEntry": {
+      "en": "Extremely shallow sandy entry",
+      "ro": "Intrare foarte lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand with tiny shells",
+    "ro": "Nisip auriu grosier cu scoici mici"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.2 - 1.5m (very gentle slope)",
+      "ro": "0.2 - 1.5m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear (5m+ visibility)",
+      "ro": "Cristalină (vizibilitate 5m+)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "Hidden gem",
+      "Hidden gem",
+      "relax"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Beginner swimmers",
+      "Relaxation",
+      "Long beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Începători",
+      "Relaxare",
+      "Plimbări pe plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beach jogging"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Alergare pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "4-8 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.3,
+  "badge": "Family Friendly 👨‍👩‍👧‍👦",
+  "videos": [],
+  "description": {
+    "en": "Kriaritsi Beach is one of the longest and most family-friendly beaches in Sithonia, stretching over 1.2 km along the northeastern coast. Surrounded by low hills and backed by pine trees, it offers a natural setting that feels open, airy and safe. The sand is slightly coarser than on other beaches, mixed with tiny shells, giving it a natural and clean texture that doesn’t stick excessively to the skin. The biggest highlight of Kriaritsi is its extremely gentle seabed. The water remains shallow for a very long distance, making it one of the safest beaches in Halkidiki for children and non-swimmers. This also creates warm, calm conditions perfect for long, relaxing swims and floating. The clarity of the water is excellent, often exceeding 5 meters visibility, especially in the morning. Combined with the light sandy bottom, the colors range from pale turquoise near the shore to deeper blue further out. The beach is well organized but still spacious, offering a good balance between lively areas with sunbeds and quieter natural sections. Even during peak season, its length prevents it from feeling overcrowded. Its accessibility, gentle water and affordable services make it one of the most practical and reliable choices in Sithonia.",
+    "ro": "Plaja Kriaritsi este una dintre cele mai lungi și mai potrivite pentru familii din Sithonia, întinzându-se pe peste 1,2 km pe coasta de nord-est. Înconjurată de dealuri joase și pini, oferă un peisaj natural deschis și sigur. Nisipul este ușor mai grosier, amestecat cu scoici mici, având o textură naturală care nu se lipește excesiv de piele. Cel mai mare avantaj al plajei este intrarea extrem de lină în apă. Marea rămâne puțin adâncă pe distanțe foarte mari, fiind una dintre cele mai sigure plaje din Halkidiki pentru copii și înotători începători. Apa este foarte clară, cu vizibilitate de peste 5 metri în multe zile, iar culorile variază de la turcoaz deschis la mal la albastru mai intens în larg. Plaja este bine organizată, dar suficient de mare încât să ofere atât zone animate cu șezlonguri, cât și spații mai liniștite. Accesul ușor, apa sigură și prețurile mici o transformă într-una dintre cele mai practice alegeri din Sithonia."
+  },
+  "blueFlag": false
+}
