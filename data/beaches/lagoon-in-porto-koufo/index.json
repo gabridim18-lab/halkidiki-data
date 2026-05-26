@@ -1,0 +1,136 @@
+{
+  "id": "lagoon-in-porto-koufo",
+  "slug": "lagoon-in-porto-koufo",
+  "name": {
+    "en": "Lagoon in Porto Koufo",
+    "ro": "Laguna din Porto Koufo"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Protected lagoon beach",
+    "ro": "Plajă tip lagună protejată"
+  },
+  "coordinates": {
+    "lat": 39.960044323459414,
+    "lon": 23.928247540638882
+  },
+  "editorChoice": false,
+  "length": 350,
+  "images": [
+    "lagoon-in-porto-koufo.webp",
+    "lagoon-in-porto-koufo1.webp",
+    "lagoon-in-porto-koufo2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk from Porto Koufo harbor",
+      "ro": "Scurtă plimbare din portul Porto Koufo"
+    },
+    "parkingDifficulty": {
+      "en": "Parking available nearby",
+      "ro": "Parcare disponibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet and peaceful",
+      "ro": "Foarte liniștită și calmă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Protected natural lagoon atmosphere",
+      "ro": "Atmosferă de lagună naturală protejată"
+    },
+    "waterEntry": {
+      "en": "Extremely shallow and calm entry",
+      "ro": "Intrare foarte lină și calmă"
+    },
+    "waveLevel": {
+      "en": "Almost wave-free",
+      "ro": "Aproape fără valuri"
+    }
+  },
+  "sand": {
+    "en": "Fine pebbles with sandy patches",
+    "ro": "Pietriș fin cu zone de nisip"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.2 - 1.5m (very gentle slope)",
+      "ro": "0.2 - 1.5m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Emerald crystal clear",
+      "ro": "Verde smarald cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "nature"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Natură și peisaje"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Kayaking",
+      "Nature lovers",
+      "Relaxation"
+    ],
+    "ro": [
+      "Familii",
+      "Caiac",
+      "Iubitori de natură",
+      "Relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Kayaking",
+      "Birdwatching"
+    ],
+    "ro": [
+      "Înot",
+      "Caiac",
+      "Observare păsări"
+    ]
+  },
+  "occupancy": "30-50%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.4,
+  "badge": "Nature Escape",
+  "videos": [],
+  "description": {
+    "en": "Lagoon in Porto Koufo is a quiet and protected stretch of shoreline hidden inside the natural harbor, offering calm waters and a peaceful atmosphere. The seabed is very shallow and gentle, making it ideal for families, relaxation and easy swimming. The emerald color of the water and the surrounding cliffs create a unique and scenic landscape. This is a perfect spot for nature lovers looking for calm conditions and a more secluded beach experience.",
+    "ro": "Laguna din Porto Koufo este o zonă liniștită și protejată, ascunsă în interiorul golfului natural, cu ape calme și atmosferă relaxantă. Intrarea în apă este foarte lină și puțin adâncă, ideală pentru familii și înot ușor. Culoarea smarald a apei și stâncile din jur creează un peisaj unic. Este locul perfect pentru cei care caută liniște și natură."
+  },
+  "blueFlag": false
+}

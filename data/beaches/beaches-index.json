@@ -2046,5 +2046,21 @@
     "rating": 4.8,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "lagoon-in-porto-koufo",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Lagoon in Porto Koufo",
+      "ro": "Laguna din Porto Koufo"
+    },
+    "previewImage": "lagoon-in-porto-koufo.webp",
+    "coordinates": {
+      "lat": 39.960044323459414,
+      "lon": 23.928247540638882
+    },
+    "rating": 4.4,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
