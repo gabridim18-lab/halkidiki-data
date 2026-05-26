@@ -2062,5 +2062,21 @@
     "rating": 4.4,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "marathias-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Marathias Beach",
+      "ro": "Plaja Marathias"
+    },
+    "previewImage": "marathias-beach.webp",
+    "coordinates": {
+      "lat": 39.947463240677536,
+      "lon": 23.933039082209092
+    },
+    "rating": 4.7,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

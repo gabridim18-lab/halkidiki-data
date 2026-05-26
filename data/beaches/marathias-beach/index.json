@@ -1,0 +1,138 @@
+{
+  "id": "marathias-beach",
+  "slug": "marathias-beach",
+  "name": {
+    "en": "Marathias Beach",
+    "ro": "Plaja Marathias"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Wild untouched beach",
+    "ro": "Plajă sălbatică și neamenajată"
+  },
+  "coordinates": {
+    "lat": 39.947463240677536,
+    "lon": 23.933039082209092
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "marathias-beach.webp",
+    "marathias-beach1.webp",
+    "marathias-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Remote access with short natural paths",
+      "ro": "Acces retras prin poteci naturale"
+    },
+    "parkingDifficulty": {
+      "en": "Limited informal parking nearby",
+      "ro": "Parcare limitată în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Extremely quiet and natural",
+      "ro": "Foarte liniștită și naturală"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild nature and exploration atmosphere",
+      "ro": "Atmosferă de natură sălbatică și explorare"
+    },
+    "waterEntry": {
+      "en": "Coarse sand and pebbles with varying depth",
+      "ro": "Nisip grosier și pietricele cu adâncime variabilă"
+    },
+    "waveLevel": {
+      "en": "Usually calm but can vary",
+      "ro": "De obicei calmă, dar variabilă"
+    }
+  },
+  "sand": {
+    "en": "Coarse golden sand with pebbles",
+    "ro": "Nisip grosier cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.8 - 4m (moderate slope)",
+      "ro": "0.8 - 4m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Emerald crystal clear",
+      "ro": "Verde smarald cristalin"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Snorkeling enthusiasts",
+      "Photographers",
+      "Adventure travelers"
+    ],
+    "ro": [
+      "Iubitori de natură",
+      "Pasionați de snorkeling",
+      "Fotografi",
+      "Exploratori"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Meditation",
+      "Photography",
+      "Rock climbing"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Meditație",
+      "Fotografie",
+      "Cățărare"
+    ]
+  },
+  "occupancy": "20-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.7,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Marathias Beach is one of the most untouched and wild beaches in southern Sithonia, offering a raw and authentic coastal experience far from mass tourism. The beach stretches along a natural bay surrounded by rugged cliffs, dense pine vegetation and completely unspoiled terrain, creating a powerful contrast with the deep emerald waters. The mix of coarse sand and smooth pebbles, combined with underwater rock formations, makes the area ideal for snorkeling, underwater exploration and photography. The water becomes deeper relatively quickly in certain sections, offering excellent visibility and a more adventurous swimming experience compared to typical family beaches. This is not a commercial beach — there are no beach bars, no loud music and no organized facilities — which makes it perfect for those looking for silence, nature and complete disconnection. It is especially appreciated by travelers who prefer hidden locations, photographers looking for dramatic landscapes and those who want a true Greek wild beach experience.",
+    "ro": "Plaja Marathias este una dintre cele mai sălbatice și neatinse plaje din sudul Sithoniei, oferind o experiență autentică, departe de turismul de masă. Plaja se întinde într-un golf natural înconjurat de stânci abrupte, pini și vegetație densă, creând un contrast spectaculos cu apa de un verde smarald intens. Amestecul de nisip grosier și pietricele netede, împreună cu formațiunile stâncoase subacvatice, o face ideală pentru snorkeling, explorare și fotografie. În anumite zone, apa devine mai adâncă destul de rapid, oferind vizibilitate excelentă și o experiență mai aventuroasă față de plajele obișnuite. Nu este o plajă comercială — nu există beach baruri, muzică sau facilități — ceea ce o face perfectă pentru liniște totală și reconectare cu natura. Este apreciată în special de cei care caută locuri ascunse, peisaje dramatice și o experiență autentică de plajă sălbatică în Grecia."
+  },
+  "blueFlag": false
+}
