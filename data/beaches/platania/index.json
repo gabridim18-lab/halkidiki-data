@@ -1,0 +1,134 @@
+{
+  "id": "platania",
+  "slug": "platania",
+  "name": {
+    "en": "Platania",
+    "ro": "Plaja Platania"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Small family-friendly organized beach",
+    "ro": "Plajă mică și organizată pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.07564880549936,
+    "lon": 23.984953414351764
+  },
+  "editorChoice": false,
+  "length": 180,
+  "images": [
+    "platania.webp",
+    "platania1.webp",
+    "platania2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Very easy direct access",
+      "ro": "Acces direct foarte ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Easy with nearby parking",
+      "ro": "Ușoară, cu parcare apropiată"
+    },
+    "noiseLevel": {
+      "en": "Calm and family-oriented",
+      "ro": "Liniștită și orientată spre familii"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed, practical and welcoming",
+      "ro": "Relaxată, practică și prietenoasă"
+    },
+    "waterEntry": {
+      "en": "Fine sand entry with very gentle slope",
+      "ro": "Intrare cu nisip fin și pantă foarte lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm and safe",
+      "ro": "De obicei calmă și sigură"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with occasional pebbles",
+    "ro": "Nisip auriu fin cu pietricele ocazionale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 1.8m (very gradual slope)",
+      "ro": "0.4 - 1.8m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "relax",
+      "Hidden gem",
+      "family"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Potrivită pentru familii"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Swimming",
+      "Short beach stays"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Înot",
+      "Vizite scurte la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.2,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Platania Beach is a compact and welcoming beach located close to Nikiti, offering a comfortable mix of natural surroundings and easy access. Despite its smaller size of around 180 meters, it feels well-organized and functional, making it a convenient option for a relaxed beach day without the complexity of larger destinations.\n\nThe sand is fine and golden, pleasant underfoot and suitable for long stays on the beach. Near the waterline, small pebbles appear in some areas, but they do not affect the overall comfort. The shoreline is clean and well maintained, contributing to a consistently pleasant experience.\n\nThe seabed has a very gentle slope, allowing the water to remain shallow for a long distance. This makes the beach particularly safe for children and ideal for casual swimming or simply staying in the water without strong currents or sudden depth changes.\n\nOne of the defining elements of Platania is the presence of natural shade from nearby trees, especially in certain sections. Combined with the organized sunbeds, this creates flexible options between natural and arranged comfort.\n\nFacilities are simple but sufficient, with beach bars and a nearby taverna offering food and drinks without turning the beach into a crowded or noisy environment. The overall atmosphere remains relaxed and family-oriented.\n\nPlatania is not a destination beach, but a reliable and easy choice — accessible, safe, and comfortable for a full day by the sea.",
+    "ro": "Plaja Platania este o plajă mică și prietenoasă, situată aproape de Nikiti, care oferă un echilibru bun între natură și acces facil. Deși are doar aproximativ 180 m lungime, este bine organizată și potrivită pentru o zi relaxată la mare.\n\nNisipul este fin și auriu, confortabil pentru mers și stat pe plajă. În apropierea apei apar pe alocuri pietricele mici, dar nu afectează experiența generală.\n\nIntrarea în mare este foarte lină, iar apa rămâne puțin adâncă pe o distanță mare, ceea ce face plaja ideală pentru copii și pentru înot relaxat.\n\nUn avantaj important este umbra naturală oferită de copacii din zonă, care completează zonele cu șezlonguri și oferă opțiuni variate.\n\nFacilitățile sunt simple, dar suficiente, iar atmosfera rămâne liniștită și orientată către familii.\n\nPlatania nu este o plajă spectaculoasă, ci una practică și sigură — ușor de ajuns, confortabilă și potrivită pentru o zi fără stres."
+  },
+  "blueFlag": false
+}

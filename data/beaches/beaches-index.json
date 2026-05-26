@@ -2302,5 +2302,21 @@
     "rating": 4.6,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "platania",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Platania",
+      "ro": "Plaja Platania"
+    },
+    "previewImage": "platania.webp",
+    "coordinates": {
+      "lat": 40.07564880549936,
+      "lon": 23.984953414351764
+    },
+    "rating": 4.2,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
