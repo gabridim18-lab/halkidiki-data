@@ -1,0 +1,136 @@
+{
+  "id": "tourkolimnionas",
+  "slug": "tourkolimnionas",
+  "name": {
+    "en": "Tourkolimnionas",
+    "ro": "Tourkolimnionas"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Balanced protected sandy beach",
+    "ro": "Plajă nisipoasă protejată și echilibrată"
+  },
+  "coordinates": {
+    "lat": 40.03650858902225,
+    "lon": 23.999789425474468
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "tourkolimnionas.webp",
+    "tourkolimnionas1.webp",
+    "tourkolimnionas2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces ușor direct la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Balanced and relaxed",
+      "ro": "Echilibrată și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed, comfortable and versatile",
+      "ro": "Relaxată, confortabilă și versatilă"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm and protected",
+      "ro": "De obicei calmă și protejată"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with minimal pebbles",
+    "ro": "Nisip auriu fin, cu puține pietricele"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "family",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Paddleboarding"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Paddleboarding"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Yoga pe plajă"
+    ]
+  },
+  "occupancy": "60-70%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Tourkolimnionas Beach is a well-balanced and highly enjoyable stretch on Sithonia’s eastern coast, offering a combination of soft golden sand, calm water and a naturally protected bay. It stands out as a beach that delivers both relaxation and comfort without becoming overly crowded or commercial. The shoreline is long and open, allowing visitors to spread out comfortably even during peak season. The sand is soft and pleasant, with only minimal pebbles near the waterline, making it ideal for walking barefoot and spending long hours on the beach. The seabed has a gentle slope, keeping the water shallow for a significant distance. This makes it particularly suitable for families and relaxed swimming. The clarity of the water is consistently high, with bright turquoise tones near the shore and deeper shades further out. Thanks to the natural shape of the bay, the sea is usually calm, with very small waves, creating stable conditions for swimming, paddleboarding and general water activities. The beach offers a balanced level of organization, with sunbeds and a couple of beach spots, while still leaving space for those who prefer a more natural setup. Overall, Tourkolimnionas is a reliable and versatile beach, suitable for almost all types of visitors, from families to couples looking for a calm and scenic environment.",
+    "ro": "Plaja Tourkolimnionas este o plajă echilibrată și foarte plăcută pe coasta estică a Sithoniei, oferind combinația ideală între nisip fin, apă calmă și un golf natural protejat. Este genul de plajă care oferă confort fără să devină aglomerată sau prea comercială. Plaja este lungă și deschisă, permițând vizitatorilor să se distribuie ușor chiar și în sezon. Nisipul este fin și confortabil, cu foarte puține pietricele la intrarea în apă. Intrarea în mare este lină, iar apa rămâne puțin adâncă pe o distanță considerabilă, fiind perfectă pentru familii și înot relaxat. Claritatea apei este constant ridicată, cu nuanțe turcoaz intense. Forma golfului protejează zona de valuri mari, astfel încât marea este în general calmă, ideală pentru paddleboarding și activități ușoare. Plaja este organizată moderat, cu șezlonguri și câteva opțiuni de servicii, dar păstrează și zone libere pentru cei care preferă natura. Este o alegere sigură și versatilă pentru orice tip de turist, de la familii la cupluri care caută liniște."
+  },
+  "blueFlag": false
+}

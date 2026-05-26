@@ -2190,5 +2190,21 @@
     "rating": 4.3,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "tourkolimnionas",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Tourkolimnionas",
+      "ro": "Tourkolimnionas"
+    },
+    "previewImage": "tourkolimnionas.webp",
+    "coordinates": {
+      "lat": 40.03650858902225,
+      "lon": 23.999789425474468
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
