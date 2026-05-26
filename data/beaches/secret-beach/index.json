@@ -1,0 +1,136 @@
+{
+  "id": "secret-beach",
+  "slug": "secret-beach",
+  "name": {
+    "en": "Secret Beach",
+    "ro": "Secret Beach"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Hidden semi-organized beach",
+    "ro": "Plajă retrasă semi-amenajată"
+  },
+  "coordinates": {
+    "lat": 39.94218328322813,
+    "lon": 23.934865126163505
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "secret-beach.webp",
+    "secret-beach1.webp",
+    "secret-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short natural access path",
+      "ro": "Acces scurt prin zonă naturală"
+    },
+    "parkingDifficulty": {
+      "en": "Parking available nearby",
+      "ro": "Parcare disponibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and relaxed",
+      "ro": "Liniștită și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Hidden scenic beach with relaxed atmosphere",
+      "ro": "Plajă retrasă și relaxată"
+    },
+    "waterEntry": {
+      "en": "Mostly sandy and gently sloping",
+      "ro": "Intrare predominant nisipoasă și lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm and protected",
+      "ro": "De obicei calmă și protejată"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope)",
+      "ro": "0.4 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "nature",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Natură și peisaje",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Relaxation",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Relaxare",
+      "Snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Caiac"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.7,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Secret Beach is a secluded and lesser-known beach on Sithonia’s southern coast, offering a balanced mix between natural beauty and light local activity. The beach stretches along a calm bay protected by low rocky formations and scattered pine trees, creating a naturally sheltered environment with minimal wind and consistently clear water. The sand is fine and comfortable, with only small pebbles in certain areas, while the seabed remains mostly sandy and gently sloping, making it ideal for long, relaxed swims and safe for children. The water clarity is excellent, with turquoise shades near the shore and deeper blue tones further out, providing very good conditions for casual snorkeling along the edges of the bay. Unlike completely wild beaches, Secret Beach offers a semi-organized experience, with a couple of small beach bars and tavernas nearby, yet without the noise and crowds of more popular locations. This makes it a perfect choice for travelers who want a quiet, scenic beach but still appreciate basic comfort and access to food and drinks. The surrounding landscape of dunes, rocks and pine trees enhances the feeling of privacy, while the relatively low occupancy ensures that even during peak season it remains relaxed and enjoyable.",
+    "ro": "Secret Beach este o plajă retrasă și mai puțin cunoscută de pe coasta sudică a Sithoniei, oferind un echilibru foarte bun între natură și confort. Plaja se desfășoară într-un golf liniștit, protejat de formațiuni stâncoase joase și pini răzleți, ceea ce creează un mediu ferit de vânt și cu apă constant limpede. Nisipul este fin și plăcut, cu foarte puține pietricele, iar intrarea în apă este lină și predominant nisipoasă, ceea ce o face ideală pentru înot relaxat și sigură pentru copii. Apa este extrem de clară, cu nuanțe de turcoaz în apropierea țărmului și albastru mai intens în larg, oferind condiții foarte bune pentru snorkeling ușor în zonele stâncoase. Spre deosebire de plajele complet sălbatice, aici există câteva beach baruri și taverne mici, ceea ce aduce un plus de confort fără a strica atmosfera liniștită. Este alegerea perfectă pentru cei care vor o plajă calmă, dar nu complet izolată, unde pot combina relaxarea cu accesul la servicii de bază. Peisajul format din dune, stânci și pini accentuează senzația de intimitate, iar gradul redus de ocupare o face plăcută chiar și în sezon."
+  },
+  "blueFlag": false
+}

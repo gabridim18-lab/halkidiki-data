@@ -2078,5 +2078,21 @@
     "rating": 4.7,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "secret-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Secret Beach",
+      "ro": "Secret Beach"
+    },
+    "previewImage": "secret-beach.webp",
+    "coordinates": {
+      "lat": 39.94218328322813,
+      "lon": 23.934865126163505
+    },
+    "rating": 4.7,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
