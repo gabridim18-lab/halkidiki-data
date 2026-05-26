@@ -1,0 +1,136 @@
+{
+  "id": "klimataria-beach",
+  "slug": "klimataria-beach",
+  "name": {
+    "en": "Klimataria Beach",
+    "ro": "Plaja Klimataria"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Small authentic protected cove",
+    "ro": "Golf mic autentic și protejat"
+  },
+  "coordinates": {
+    "lat": 40.033764482496025,
+    "lon": 24.00955067308141
+  },
+  "editorChoice": true,
+  "length": 200,
+  "images": [
+    "klimataria-beach.webp",
+    "klimataria-beach1.webp",
+    "klimataria-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy short beach access",
+      "ro": "Acces scurt și ușor la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Limited but nearby parking",
+      "ro": "Parcare limitată, dar apropiată"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and authentic",
+      "ro": "Relaxată și autentică"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Traditional Greek seaside atmosphere",
+      "ro": "Atmosferă tradițională grecească"
+    },
+    "waterEntry": {
+      "en": "Gentle entry with sand and smooth pebbles",
+      "ro": "Intrare lină cu nisip și pietricele netede"
+    },
+    "waveLevel": {
+      "en": "Usually calm and protected",
+      "ro": "De obicei calmă și protejată"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand with smooth white pebbles",
+    "ro": "Nisip auriu grosier cu pietricele albe netede"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 2.5m (gentle slope)",
+      "ro": "0.4 - 2.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear aquamarine",
+      "ro": "Aquamarin cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Couples",
+      "Snorkeling",
+      "Traditional food lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Cupluri",
+      "Snorkeling",
+      "Iubitori de gastronomie locală"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Rock jumping"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Sărituri de pe stânci"
+    ]
+  },
+  "occupancy": "40-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.3,
+  "badge": "Family",
+  "videos": [],
+  "description": {
+    "en": "Klimataria Beach is a small but highly authentic cove on Sithonia’s eastern coast, known for its relaxed atmosphere and strong connection to traditional Greek seaside life. Despite its compact size, it offers a complete and memorable beach experience. The shoreline is a mix of coarse golden sand and smooth white pebbles, giving the beach a natural and slightly rugged character. The contrast between the bright pebbles and the clear aquamarine water creates a very photogenic setting. The seabed has a gentle entry, making it suitable for families, while scattered rocky patches provide excellent opportunities for snorkeling. The water is exceptionally clear, with strong light reflections and visible underwater formations. One of the defining elements of Klimataria is its natural protection from wind, thanks to the surrounding hills. This keeps the sea calmer than many nearby beaches and creates a more stable swimming environment. The beach is organized in a simple, family-run style, with just enough facilities to ensure comfort without losing its authentic charm. It never feels overcrowded, even in peak season, due to its limited size and relaxed pace. What truly sets Klimataria apart is the connection between the beach and its traditional taverna, creating a complete experience that combines swimming, relaxation and local cuisine in one place.",
+    "ro": "Plaja Klimataria este un golf mic, dar extrem de autentic, situat pe coasta estică a Sithoniei, cunoscut pentru atmosfera relaxată și legătura puternică cu stilul tradițional grecesc. Plaja combină nisip auriu mai grosier cu pietricele albe netede, oferind un aspect natural și ușor sălbatic. Contrastul dintre pietre și apa de culoare aquamarin creează un peisaj foarte fotogenic. Intrarea în apă este lină, potrivită pentru familii, iar zonele stâncoase oferă condiții excelente pentru snorkeling. Apa este extrem de clară, cu reflexii puternice și vizibilitate foarte bună. Un avantaj important al plajei este protecția naturală față de vânt, datorită reliefului din jur. Astfel, apa rămâne mai calmă decât în alte zone. Plaja este organizată simplu, într-un stil familial, păstrând un echilibru între confort și autenticitate. Nu devine niciodată foarte aglomerată, chiar și în sezon. Elementul care definește experiența aici este combinația dintre plajă și taverna tradițională, oferind un mix complet de relaxare și gastronomie locală."
+  },
+  "blueFlag": false
+}

@@ -2174,5 +2174,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "klimataria-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Klimataria Beach",
+      "ro": "Plaja Klimataria"
+    },
+    "previewImage": "klimataria-beach.webp",
+    "coordinates": {
+      "lat": 40.033764482496025,
+      "lon": 24.00955067308141
+    },
+    "rating": 4.3,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
