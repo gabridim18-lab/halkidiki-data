@@ -1,0 +1,136 @@
+{
+  "id": "prassou-beach",
+  "slug": "prassou-beach",
+  "name": {
+    "en": "Prassou Beach",
+    "ro": "Plaja Prassou"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet hidden cove",
+    "ro": "Golf liniștit ascuns"
+  },
+  "coordinates": {
+    "lat": 40.03623322747823,
+    "lon": 24.016003746838127
+  },
+  "editorChoice": true,
+  "length": 350,
+  "images": [
+    "prassou-beach.webp",
+    "prassou-beach1.webp",
+    "prassou-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short easy access path",
+      "ro": "Acces ușor pe distanță scurtă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușoară"
+    },
+    "noiseLevel": {
+      "en": "Quiet and relaxed",
+      "ro": "Liniștită și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural, intimate and calm",
+      "ro": "Naturală, intimă și calmă"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with occasional pebbles",
+    "ro": "Nisip alb fin cu pietricele ocazionale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 3m (gradual slope)",
+      "ro": "0.5 - 3m (pantă treptată)"
+    },
+    "clarity": {
+      "en": "Turquoise-transparent (5-8m visibility)",
+      "ro": "Turcoaz transparent (vizibilitate 5-8m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Snorkeling",
+      "Couples"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Snorkeling",
+      "Cupluri"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "30-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.5,
+  "badge": "Escape & Relax 🌿",
+  "videos": [],
+  "description": {
+    "en": "Prassou Beach is a quiet and refined hidden cove on the eastern side of Sithonia, offering a rare combination of white sand, crystal-clear water and a naturally protected setting. Compared to more popular beaches, it feels intimate, clean and well balanced between nature and light organization. The sand is noticeably lighter in color than most beaches in the area, with a fine texture that gives the water a brighter turquoise tone. Small pebbles appear closer to the shoreline, but do not affect comfort. The seabed slopes gradually, making it suitable for families and relaxed swimming, while occasional rocky patches create excellent snorkeling conditions. Visibility is very good, often reaching 5–8 meters, especially in calm weather. The beach remains uncrowded even in peak season, offering a calm atmosphere without feeling isolated. The surrounding pine trees and natural vegetation add shade and create a more private and natural vibe compared to heavily organized beaches. Facilities are minimal but sufficient, keeping the character of the beach simple and authentic while still providing basic comfort. Overall, Prassou is ideal for travelers looking for a clean, quiet and visually beautiful beach without sacrificing accessibility.",
+    "ro": "Plaja Prassou este un golf liniștit și rafinat pe coasta estică a Sithoniei, oferind o combinație rară de nisip alb, apă cristalină și un cadru natural protejat. Comparativ cu plajele mai populare, are o atmosferă intimă și echilibrată între natură și facilități de bază. Nisipul este mai deschis la culoare decât în alte zone, având o textură fină care intensifică nuanțele turcoaz ale apei. La intrarea în apă apar și pietricele, dar fără a afecta confortul. Intrarea în mare este lină, potrivită pentru familii și înot relaxat, iar zonele stâncoase oferă condiții excelente pentru snorkeling. Vizibilitatea este foarte bună, de obicei între 5 și 8 metri în zilele calme. Plaja rămâne aerisită chiar și în sezon, oferind liniște fără a fi complet izolată. Pinii și vegetația din jur creează zone de umbră naturală și o atmosferă mai autentică. Facilitățile sunt simple, dar suficiente, păstrând caracterul natural al locului. Este o alegere excelentă pentru cei care caută o plajă curată, liniștită și estetică, dar ușor accesibilă."
+  },
+  "blueFlag": false
+}

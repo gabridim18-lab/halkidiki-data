@@ -2158,5 +2158,21 @@
     "rating": 4.3,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "prassou-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Prassou Beach",
+      "ro": "Plaja Prassou"
+    },
+    "previewImage": "prassou-beach.webp",
+    "coordinates": {
+      "lat": 40.03623322747823,
+      "lon": 24.016003746838127
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
