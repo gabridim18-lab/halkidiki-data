@@ -1,0 +1,136 @@
+{
+  "id": "linaraki-beach",
+  "slug": "linaraki-beach",
+  "name": {
+    "en": "Linaraki Beach",
+    "ro": "Plaja Linaraki"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Tiny hidden natural cove",
+    "ro": "Golf mic, ascuns și natural"
+  },
+  "coordinates": {
+    "lat": 40.035074447003595,
+    "lon": 23.991450155480607
+  },
+  "editorChoice": true,
+  "length": 120,
+  "images": [
+    "linaraki-beach.webp",
+    "linaraki-beach1.webp",
+    "linaraki-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Difficult natural path access",
+      "ro": "Acces dificil pe potecă naturală"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult, no official parking",
+      "ro": "Dificilă, fără parcare oficială"
+    },
+    "noiseLevel": {
+      "en": "Very quiet and isolated",
+      "ro": "Foarte liniștită și izolată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Untouched, private and peaceful",
+      "ro": "Neatinsă, intimă și liniștită"
+    },
+    "waterEntry": {
+      "en": "Fine sand entry with very gradual slope",
+      "ro": "Intrare cu nisip fin și pantă foarte lină"
+    },
+    "waveLevel": {
+      "en": "Usually very calm and protected",
+      "ro": "De obicei foarte calmă și protejată"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with minimal pebbles",
+    "ro": "Nisip alb fin cu puține pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 2m (very gradual slope)",
+      "ro": "0.3 - 2m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Brilliant turquoise (10m+ visibility)",
+      "ro": "Turcoaz strălucitor (vizibilitate 10m+)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Peace seekers",
+      "Couples",
+      "Swimming",
+      "Meditation"
+    ],
+    "ro": [
+      "Cei care caută liniște",
+      "Cupluri",
+      "Înot",
+      "Meditație"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Meditation",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Meditație",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "20-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.8,
+  "badge": "Couples Retreat",
+  "videos": [],
+  "description": {
+    "en": "Linaraki Beach is one of the most exclusive and untouched spots in Sithonia, a small hidden cove that offers a rare sense of privacy and natural purity. Its compact size and difficult access limit the number of visitors, preserving a calm and almost isolated atmosphere.\n\nThe beach is defined by its fine, bright sand, which is lighter than most in the region and gives the water an intense turquoise color. Combined with exceptional clarity, often exceeding 10 meters, the visual effect is striking and almost tropical.\n\nThe seabed slopes very gently, creating warm, shallow areas close to the shore. This makes it surprisingly suitable for relaxed swimming, although the lack of facilities requires good preparation.\n\nSurrounded by rocky edges and pine-covered slopes, the beach feels protected and quiet, with minimal wind and very calm water conditions. The absence of any construction or organized elements enhances the feeling of being in a completely natural environment.\n\nDue to its size, the beach never hosts large crowds. Even at its busiest, it remains intimate, making it ideal for those seeking silence, clear water and a minimalist beach experience.\n\nLinaraki is not about comfort or services, but about simplicity, water quality and the feeling of discovering a hidden place that few people reach.",
+    "ro": "Plaja Linaraki este unul dintre cele mai exclusive și neatinse locuri din Sithonia, un golf mic și ascuns care oferă o senzație rară de intimitate și natură pură. Dimensiunea redusă și accesul mai dificil limitează numărul de vizitatori, păstrând o atmosferă liniștită.\n\nPlaja este caracterizată de nisip alb fin, mai deschis decât în alte zone, ceea ce oferă apei o culoare turcoaz intensă. Claritatea apei este excepțională, depășind adesea 10 metri vizibilitate.\n\nIntrarea în mare este foarte lină, formând zone puțin adânci și calde lângă mal, ideale pentru înot relaxat, deși lipsa facilităților necesită pregătire.\n\nÎnconjurată de stânci și pini, plaja este protejată de vânt, iar apa este aproape mereu calmă. Lipsa construcțiilor accentuează senzația de natură complet neatinsă.\n\nDatorită dimensiunii mici, nu devine niciodată aglomerată. Chiar și în perioadele mai populare, rămâne un loc intim.\n\nLinaraki nu este despre confort, ci despre liniște, apă extrem de clară și experiența unui loc ascuns."
+  },
+  "blueFlag": false
+}

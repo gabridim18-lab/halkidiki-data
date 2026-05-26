@@ -2222,5 +2222,21 @@
     "rating": 4.8,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "linaraki-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Linaraki Beach",
+      "ro": "Plaja Linaraki"
+    },
+    "previewImage": "linaraki-beach.webp",
+    "coordinates": {
+      "lat": 40.035074447003595,
+      "lon": 23.991450155480607
+    },
+    "rating": 4.8,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
