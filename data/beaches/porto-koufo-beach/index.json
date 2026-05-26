@@ -1,0 +1,136 @@
+{
+  "id": "porto-koufo-beach",
+  "slug": "porto-koufo-beach",
+  "name": {
+    "en": "Porto Koufo Beach",
+    "ro": "Plaja Porto Koufo"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Natural harbor beach",
+    "ro": "Plajă într-un port natural"
+  },
+  "coordinates": {
+    "lat": 39.964266398905046,
+    "lon": 23.92596722012261
+  },
+  "editorChoice": true,
+  "length": 300,
+  "images": [
+    "porto-koufo-beach.webp",
+    "porto-koufo-beach1.webp",
+    "porto-koufo-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează la plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from harbor area",
+      "ro": "Acces ușor din zona portului"
+    },
+    "parkingDifficulty": {
+      "en": "Parking available nearby",
+      "ro": "Parcare disponibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and authentic",
+      "ro": "Liniștită și autentică"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Quiet natural harbor atmosphere",
+      "ro": "Atmosferă liniștită de port natural"
+    },
+    "waterEntry": {
+      "en": "Coarse sand and pebbles with sudden deep water",
+      "ro": "Nisip grosier și pietricele cu adâncire bruscă"
+    },
+    "waveLevel": {
+      "en": "Very calm inside the bay",
+      "ro": "Foarte calmă în interiorul golfului"
+    }
+  },
+  "sand": {
+    "en": "Coarse sand with pebbles",
+    "ro": "Nisip grosier cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "1 - 6m (sudden drop)",
+      "ro": "1 - 6m (cădere bruscă)"
+    },
+    "clarity": {
+      "en": "Deep clear blue",
+      "ro": "Albastru intens clar"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Snorkeling enthusiasts",
+      "Diving lovers",
+      "Couples",
+      "Visitors seeking quiet places"
+    ],
+    "ro": [
+      "Pasionați de snorkeling",
+      "Iubitori de scufundări",
+      "Cupluri",
+      "Cei care caută locuri liniștite"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Diving"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Scufundări"
+    ]
+  },
+  "occupancy": "40-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.8,
+  "badge": "Snorkeling",
+  "videos": [],
+  "description": {
+    "en": "Porto Koufo Beach is a hidden natural harbor surrounded by steep cliffs, offering one of the most dramatic and unique coastal landscapes in Sithonia. The water is exceptionally clear and deep, with a sudden drop just a few meters from shore, making it ideal for snorkeling and diving enthusiasts. Thanks to the enclosed bay, the sea is usually very calm, almost without waves, creating perfect conditions for relaxed swimming. This is not a typical tourist beach, but rather a place for those who appreciate raw nature, silence, and an authentic Greek atmosphere.",
+    "ro": "Plaja Porto Koufo este un golf natural ascuns, înconjurat de stânci abrupte, oferind unul dintre cele mai spectaculoase peisaje din Sithonia. Apa este extrem de limpede și adâncă, cu o cădere bruscă la câțiva metri de mal, fiind ideală pentru snorkeling și scufundări. Datorită golfului protejat, marea este de obicei foarte calmă, aproape fără valuri, perfectă pentru înot relaxat. Nu este o plajă turistică clasică, ci un loc pentru cei care caută natură autentică, liniște și o experiență diferită."
+  },
+  "blueFlag": false
+}

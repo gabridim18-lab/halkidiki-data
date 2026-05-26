@@ -2030,5 +2030,21 @@
     "rating": 4.6,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "porto-koufo-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Porto Koufo Beach",
+      "ro": "Plaja Porto Koufo"
+    },
+    "previewImage": "porto-koufo-beach.webp",
+    "coordinates": {
+      "lat": 39.964266398905046,
+      "lon": 23.92596722012261
+    },
+    "rating": 4.8,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]
