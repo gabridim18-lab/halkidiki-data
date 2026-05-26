@@ -2334,5 +2334,21 @@
     "rating": 4.4,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "achlada",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Achlada",
+      "ro": "Plaja Achlada"
+    },
+    "previewImage": "achlada.webp",
+    "coordinates": {
+      "lat": 40.10345024790088,
+      "lon": 23.983618317059815
+    },
+    "rating": 4.5,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

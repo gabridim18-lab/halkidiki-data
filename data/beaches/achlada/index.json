@@ -1,0 +1,136 @@
+{
+  "id": "achlada",
+  "slug": "achlada",
+  "name": {
+    "en": "Achlada",
+    "ro": "Plaja Achlada"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet natural sandy-pebble beach",
+    "ro": "Plajă naturală și liniștită cu nisip și pietricele"
+  },
+  "coordinates": {
+    "lat": 40.10345024790088,
+    "lon": 23.983618317059815
+  },
+  "editorChoice": false,
+  "length": 500,
+  "images": [
+    "achlada.webp",
+    "achlada1.webp",
+    "achlada2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy natural access",
+      "ro": "Acces natural ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy near the beach",
+      "ro": "De obicei ușoară aproape de plajă"
+    },
+    "noiseLevel": {
+      "en": "Very quiet and relaxing",
+      "ro": "Foarte liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Simple, peaceful and authentic",
+      "ro": "Simplă, liniștită și autentică"
+    },
+    "waterEntry": {
+      "en": "Mixed sand and pebbles with gentle slope",
+      "ro": "Intrare cu nisip și pietricele, pantă lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm with light afternoon movement",
+      "ro": "De obicei calmă, cu ușoară mișcare după-amiaza"
+    }
+  },
+  "sand": {
+    "en": "Fine golden-pebble mix",
+    "ro": "Amestec de nisip fin auriu și pietricele"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 2.0m (gentle slope)",
+      "ro": "0.3 - 2.0m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Snorkeling",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Snorkeling",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beach yoga"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Yoga pe plajă"
+    ]
+  },
+  "occupancy": "40-60%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.5,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Achlada Beach is a quiet and natural cove on the northeastern coast of Sithonia, offering around 500 meters of mixed golden sand and small smooth pebbles. It stands out through its simplicity and untouched feel, making it a great alternative to the more crowded beaches nearby.\n\nThe shoreline is clean and comfortable, while the seabed has a gentle slope, keeping the water shallow for a good distance from the shore. This makes it suitable for relaxed swimming and safe for children, although the pebble mix can make water shoes useful in some areas.\n\nThe water is exceptionally clear, with calm conditions in the morning and light movement later in the day. The transparency allows easy visibility of the seabed, especially near the rocky edges where small fish gather.\n\nAchlada is surrounded by low dunes, pine trees and olive groves, creating a natural and peaceful setting. There are no organized facilities, which keeps the atmosphere quiet and authentic.\n\nIt is a beach focused on simplicity — no noise, no crowds, just clean water, natural shade and space.\n\nPerfect for travelers who want to disconnect and enjoy a slower, more natural beach experience.",
+    "ro": "Plaja Achlada este un golf liniștit și natural pe coasta de nord-est a Sithoniei, cu aproximativ 500 m de nisip auriu amestecat cu pietricele fine. Se remarcă prin simplitate și lipsa aglomerației, fiind o alternativă excelentă la plajele mai populare din zonă.\n\nMalul este curat și confortabil, iar fundul mării are o pantă lină, menținând apa puțin adâncă pe o distanță mare. Acest lucru o face potrivită pentru înot relaxat și sigură pentru copii, deși pietricelele pot face utilă folosirea pantofilor de apă.\n\nApa este foarte limpede, iar dimineața este de obicei calmă. Spre după-amiază poate apărea o ușoară mișcare a apei. Vizibilitatea este excelentă, mai ales în zonele stâncoase unde se pot observa pești mici.\n\nPlaja este înconjurată de dune joase, pini și livezi de măslini, creând un cadru natural și relaxant. Nu există facilități organizate, ceea ce păstrează atmosfera autentică.\n\nEste o plajă pentru liniște — fără zgomot, fără aglomerație, doar natură.\n\nIdeală pentru cei care vor să se deconecteze și să se bucure de un ritm lent."
+  },
+  "blueFlag": false
+}
