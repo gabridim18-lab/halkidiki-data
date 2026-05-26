@@ -2206,5 +2206,21 @@
     "rating": 4.6,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "skala-sykias-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Skala Sykias Beach",
+      "ro": "Plaja Skala Sykias"
+    },
+    "previewImage": "skala-sykias-beach.webp",
+    "coordinates": {
+      "lat": 40.034827964040765,
+      "lon": 23.995980496288198
+    },
+    "rating": 4.8,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

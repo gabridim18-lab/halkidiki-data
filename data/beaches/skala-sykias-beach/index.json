@@ -1,0 +1,136 @@
+{
+  "id": "skala-sykias-beach",
+  "slug": "skala-sykias-beach",
+  "name": {
+    "en": "Skala Sykias Beach",
+    "ro": "Plaja Skala Sykias"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Dramatic deep-water beach",
+    "ro": "Plajă spectaculoasă cu apă adâncă"
+  },
+  "coordinates": {
+    "lat": 40.034827964040765,
+    "lon": 23.995980496288198
+  },
+  "editorChoice": true,
+  "length": 350,
+  "images": [
+    "skala-sykias-beach.webp",
+    "skala-sykias-beach1.webp",
+    "skala-sykias-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces ușor către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Quiet and adventurous atmosphere",
+      "ro": "Atmosferă liniștită și aventuroasă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild, dramatic and visually striking",
+      "ro": "Sălbatică, spectaculoasă și foarte vizuală"
+    },
+    "waterEntry": {
+      "en": "Pebbles and sand patches with steep depth increase",
+      "ro": "Pietricele și zone de nisip, cu adâncime rapidă"
+    },
+    "waveLevel": {
+      "en": "Usually moderate depending on wind",
+      "ro": "De obicei moderată, în funcție de vânt"
+    }
+  },
+  "sand": {
+    "en": "Fine white pebbles with golden sand patches",
+    "ro": "Pietricele albe fine cu petice de nisip auriu"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.7 - 3m (steep drop after 5m)",
+      "ro": "0.7 - 3m (cădere bruscă după 5m)"
+    },
+    "clarity": {
+      "en": "Diamond-clear (8m+ visibility)",
+      "ro": "Clar ca diamantul (vizibilitate 8m+)"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Experienced swimmers",
+      "Diving",
+      "Adventure",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Înotători experimentați",
+      "Scufundări",
+      "Aventură",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Scuba diving",
+      "Rock climbing",
+      "Cliff jumping"
+    ],
+    "ro": [
+      "Scufundări",
+      "Escaladă pe stâncă",
+      "Sărituri de pe stânci"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "10-18 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$$",
+  "recommendationRating": 4.8,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Skala Sykias Beach is one of the most dramatic and visually striking locations in Sithonia, defined by its steep limestone cliffs, deep waters and intense blue color palette. It offers a completely different experience compared to typical sandy beaches, attracting those looking for adventure and raw natural beauty.\n\nThe shoreline is a mix of smooth white pebbles and small sandy patches, creating a bright reflective surface that enhances the clarity of the water. The sea here is exceptionally clear, often exceeding 8 meters visibility, making it ideal for underwater exploration.\n\nOne of the defining characteristics is the rapid depth change. Just a few meters from the shore, the seabed drops significantly, creating deep blue tones and dramatic light contrasts. This makes the beach less suitable for children but highly attractive for experienced swimmers and divers.\n\nThe surrounding cliffs not only create a spectacular landscape, but also contribute to a slightly wilder atmosphere. The combination of vertical rock formations and deep water gives the beach a more rugged and exclusive feel.\n\nFacilities are present but minimal and designed to blend into the environment, preserving the natural character of the location. Despite its beauty, the beach never becomes overly crowded, maintaining a sense of space and isolation.\n\nSkala Sykias is best suited for visitors who appreciate clear deep water, strong visual impact and a more adventurous coastal setting rather than a classic family beach.",
+    "ro": "Plaja Skala Sykias este una dintre cele mai spectaculoase și diferite plaje din Sithonia, caracterizată de stânci abrupte, ape adânci și culori intense. Oferă o experiență complet diferită față de plajele clasice cu nisip, fiind ideală pentru cei care caută natură brută și peisaje dramatice.\n\nȚărmul este format din pietricele albe fine și mici zone de nisip, care reflectă puternic lumina și accentuează claritatea apei. Vizibilitatea este excelentă, depășind frecvent 8 metri.\n\nUn element definitoriu este adâncimea care crește rapid. La doar câțiva metri de mal, apa devine adâncă, oferind nuanțe intense de albastru și contraste spectaculoase. Din acest motiv, nu este recomandată copiilor, dar este perfectă pentru înotători experimentați și scufundări.\n\nStâncile din jur creează un cadru impresionant și o atmosferă mai sălbatică și exclusivistă. Întregul loc transmite senzația de izolare și natură nealterată.\n\nFacilitățile sunt limitate și discrete, păstrând caracterul natural al plajei. Chiar și în sezon, nu devine aglomerată.\n\nSkala Sykias este ideală pentru cei care caută ape foarte clare, peisaje puternice și o experiență mai aventuroasă, nu o plajă clasică de familie."
+  },
+  "blueFlag": false
+}
