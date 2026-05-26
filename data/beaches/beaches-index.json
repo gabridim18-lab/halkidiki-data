@@ -2254,5 +2254,21 @@
     "rating": 4.6,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "valti-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Valti Beach",
+      "ro": "Plaja Valti"
+    },
+    "previewImage": "valti-beach.webp",
+    "coordinates": {
+      "lat": 40.05236548513409,
+      "lon": 23.99904421937458
+    },
+    "rating": 4.1,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

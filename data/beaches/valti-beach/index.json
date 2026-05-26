@@ -1,0 +1,134 @@
+{
+  "id": "valti-beach",
+  "slug": "valti-beach",
+  "name": {
+    "en": "Valti Beach",
+    "ro": "Plaja Valti"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Small secluded natural bay",
+    "ro": "Golf natural mic și retras"
+  },
+  "coordinates": {
+    "lat": 40.05236548513409,
+    "lon": 23.99904421937458
+  },
+  "editorChoice": false,
+  "length": 140,
+  "images": [
+    "valti-beach.webp",
+    "valti-beach1.webp",
+    "valti-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short natural access path",
+      "ro": "Acces scurt pe potecă naturală"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy outside peak hours",
+      "ro": "De obicei ușoară în afara sezonului de vârf"
+    },
+    "noiseLevel": {
+      "en": "Very quiet and peaceful",
+      "ro": "Foarte liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Simple, authentic and untouched",
+      "ro": "Simplă, autentică și naturală"
+    },
+    "waterEntry": {
+      "en": "Coarse sand with moderate slope",
+      "ro": "Nisip grosier cu pantă moderată"
+    },
+    "waveLevel": {
+      "en": "Usually calm in the morning",
+      "ro": "De obicei calmă dimineața"
+    }
+  },
+  "sand": {
+    "en": "Coarse golden sand with small pebbles",
+    "ro": "Nisip auriu grosier cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.5 - 2.0m (moderate slope)",
+      "ro": "0.5 - 2.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Relaxation",
+      "Snorkeling",
+      "Couples",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Relaxare",
+      "Snorkeling",
+      "Cupluri",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "30-40%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.1,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Valti Beach is a small and secluded bay on the northern side of Sithonia, offering a raw and authentic coastal experience away from organized tourist zones. Located close to Sykia village but hidden from the main roads, it remains one of those places that feel local, simple and untouched.\n\nThe beach is relatively short, around 140 meters, but its compact size gives it a cozy and intimate character. The shoreline is made of coarse golden sand mixed with small smooth pebbles, which makes the water particularly clear and clean. The seabed slopes moderately, allowing safe entry while still offering enough depth for proper swimming after a short distance.\n\nWater clarity is consistently good, with calm conditions in the morning and gentle movement later in the day. The rocky edges on both sides of the bay create small underwater habitats, making this beach a surprisingly good spot for casual snorkeling.\n\nThere are no organized facilities, no sunbeds and no commercial beach setup, which keeps the atmosphere quiet and natural. Shade can be found under scattered olive trees, but it is limited, so preparation is important.\n\nWhat makes Valti Beach special is its simplicity — no noise, no crowds, just a clean bay, clear water and a slow, relaxed rhythm that feels far from the typical beach scene.\n\nIt is a place you come to disconnect, not to be entertained.",
+    "ro": "Plaja Valti este un golf mic și retras din partea nordică a Sithoniei, oferind o experiență autentică, departe de zonele turistice organizate. Deși se află aproape de satul Sykia, rămâne ascunsă și liniștită.\n\nPlaja are aproximativ 140 m lungime, iar dimensiunea redusă îi oferă un caracter intim. Nisipul este mai grosier, amestecat cu pietricele mici, ceea ce contribuie la claritatea apei.\n\nIntrarea în mare este moderată, sigură pentru majoritatea turiștilor, iar după câțiva metri apa devine suficient de adâncă pentru înot. Vizibilitatea este bună, iar zonele stâncoase de la capete oferă oportunități interesante pentru snorkeling.\n\nNu există facilități organizate sau șezlonguri, ceea ce păstrează plaja liniștită și naturală. Umbră există doar parțial, sub câțiva măslini.\n\nValti este o plajă despre simplitate — fără agitație, fără zgomot, doar apă curată și o atmosferă relaxată.\n\nEste locul ideal pentru deconectare, nu pentru distracție organizată."
+  },
+  "blueFlag": false
+}
