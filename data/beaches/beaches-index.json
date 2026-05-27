@@ -2350,5 +2350,21 @@
     "rating": 4.5,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "heart-shaped-bay",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Heart-Shaped Bay",
+      "ro": "Golful Inimă"
+    },
+    "previewImage": "heart-shaped-bay.webp",
+    "coordinates": {
+      "lat": 40.10971395671879,
+      "lon": 23.990750027557127
+    },
+    "rating": 4.9,
+    "waterTemperature": 24,
+    "suitableForChildren": false
   }
 ]

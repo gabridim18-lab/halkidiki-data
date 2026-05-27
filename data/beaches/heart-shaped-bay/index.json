@@ -1,0 +1,136 @@
+{
+  "id": "heart-shaped-bay",
+  "slug": "heart-shaped-bay",
+  "name": {
+    "en": "Heart-Shaped Bay",
+    "ro": "Golful Inimă"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Hidden scenic heart-shaped bay",
+    "ro": "Golf ascuns spectaculos în formă de inimă"
+  },
+  "coordinates": {
+    "lat": 40.10971395671879,
+    "lon": 23.990750027557127
+  },
+  "editorChoice": true,
+  "length": 250,
+  "images": [
+    "heart-shaped-bay.webp",
+    "heart-shaped-bay1.webp",
+    "heart-shaped-bay2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Demanding hike with rocky sections",
+      "ro": "Acces dificil pe potecă și stânci"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult, no organized parking",
+      "ro": "Dificilă, fără parcare organizată"
+    },
+    "noiseLevel": {
+      "en": "Extremely quiet and isolated",
+      "ro": "Extrem de liniștită și izolată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Exclusive, romantic and adventurous",
+      "ro": "Exclusivistă, romantică și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Soft white sand with sudden central depth",
+      "ro": "Nisip alb fin cu adâncime rapidă în centru"
+    },
+    "waveLevel": {
+      "en": "Usually calm due to protected bay shape",
+      "ro": "De obicei calmă datorită formei protejate"
+    }
+  },
+  "sand": {
+    "en": "Powdery white sand with pinkish hues",
+    "ro": "Nisip alb pudrat cu nuanțe rozalii"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 4.0m (sudden drop at tip)",
+      "ro": "0.3 - 4.0m (cădere bruscă la vârf)"
+    },
+    "clarity": {
+      "en": "Optical-clear (10m+ visibility)",
+      "ro": "Claritate optică (10m+)"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Photographers",
+      "Explorers",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Cupluri",
+      "Fotografi",
+      "Exploratori",
+      "Snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Drone photography",
+      "Snorkeling",
+      "Romantic swims"
+    ],
+    "ro": [
+      "Fotografie cu drona",
+      "Snorkeling",
+      "Înoturi romantice"
+    ]
+  },
+  "occupancy": "20-30%",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "N/A",
+  "recommendationRating": 4.9,
+  "badge": "Couples Retreat",
+  "videos": [],
+  "description": {
+    "en": "Heart-Shaped Bay is one of the most unique and visually striking coastal spots in Sithonia, hidden between steep cliffs and only fully revealed from elevated viewpoints or aerial perspective. Its naturally formed heart shape makes it one of the most special locations in the entire region.\n\nThe beach itself stretches around 250 meters and features fine white sand with subtle pink tones, especially visible under strong sunlight. The shoreline is clean and soft, while the water begins shallow and then drops relatively quickly toward the center of the bay, creating a dramatic contrast in both depth and color.\n\nThe water is exceptionally clear, with visibility often exceeding 10 meters. Close to the shore, the sea has a bright turquoise tone, gradually shifting into deeper blue shades toward the center where the depth increases. This natural gradient is one of the defining visual elements of the bay.\n\nThere are no facilities, no organized areas, and no infrastructure of any kind. This keeps the location raw, untouched, and quiet, but also means visitors must come fully prepared.\n\nAccess is not easy and requires a short but demanding hike, including sections over uneven rock. Because of this, the beach remains relatively uncrowded even in peak season.\n\nHeart-Shaped Bay is not just a beach — it is a location focused on scenery, uniqueness, and experience rather than comfort.\n\nIt is ideal for explorers, photographers, and those looking for something rare and different.",
+    "ro": "Heart-Shaped Bay este unul dintre cele mai spectaculoase și unice locuri din Sithonia, ascuns între stânci abrupte și vizibil complet doar din puncte înalte sau din aer. Forma naturală de inimă îl face un loc cu adevărat special în întreaga zonă.\n\nPlaja are aproximativ 250 m și este formată din nisip alb fin, cu nuanțe rozalii vizibile în lumină puternică. Malul este curat și moale, iar apa începe puțin adâncă, dar se adâncește rapid spre centrul golfului, creând un contrast spectaculos de culoare și adâncime.\n\nApa este extrem de limpede, cu vizibilitate ce depășește frecvent 10 metri. Aproape de mal are o nuanță turcoaz deschis, iar spre interior devine albastru intens, datorită adâncimii mai mari. Această tranziție este unul dintre cele mai impresionante elemente ale locului.\n\nNu există facilități, zone organizate sau infrastructură, ceea ce păstrează locul complet natural și liniștit, dar necesită pregătire din partea vizitatorilor.\n\nAccesul nu este ușor și implică o coborâre pe potecă și zone stâncoase, motiv pentru care plaja rămâne puțin aglomerată chiar și în sezon.\n\nNu este o plajă clasică, ci mai degrabă o experiență vizuală și naturală.\n\nIdeală pentru exploratori, fotografi și cei care caută locuri rare."
+  },
+  "blueFlag": false
+}
