@@ -2814,5 +2814,21 @@
     "rating": 4.0,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "irini-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Irini Beach",
+      "ro": "Plaja Irini"
+    },
+    "previewImage": "irini-beach.webp",
+    "coordinates": {
+      "lat": 40.32041077931537,
+      "lon": 23.699077982454913
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

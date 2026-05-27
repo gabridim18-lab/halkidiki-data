@@ -1,0 +1,136 @@
+{
+  "id": "irini-beach",
+  "slug": "irini-beach",
+  "name": {
+    "en": "Irini Beach",
+    "ro": "Plaja Irini"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet family-friendly relaxing beach",
+    "ro": "Plajă liniștită și relaxantă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.32041077931537,
+    "lon": 23.699077982454913
+  },
+  "editorChoice": true,
+  "length": 300,
+  "images": [
+    "irini-beach.webp",
+    "irini-beach1.webp",
+    "irini-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy nearby",
+      "ro": "De obicei ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed, calm and comfortable",
+      "ro": "Relaxată, calmă și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină cu nisip fin"
+    },
+    "waveLevel": {
+      "en": "Usually calm and family-friendly",
+      "ro": "De obicei calmă și potrivită pentru familii"
+    }
+  },
+  "sand": {
+    "en": "Powdery white sand with golden hues",
+    "ro": "Nisip alb ca pudra cu nuanțe aurii"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 1.5m (gentle slope)",
+      "ro": "0.3 - 1.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "relax",
+      "Hidden gem",
+      "nature"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Natură și peisaje"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Kayaking",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Caiac",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Kayaking",
+      "Beach relaxation"
+    ],
+    "ro": [
+      "Înot",
+      "Caiac",
+      "Relaxare pe plajă"
+    ]
+  },
+  "occupancy": "30-50%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.6,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Irini Beach is a small and peaceful beach known for its soft light-colored sand and calm, shallow waters.\n\nThe beach offers a gentle entry into the sea, making it suitable for families and relaxed swimming, while maintaining a quiet and less crowded atmosphere.\n\nIt is partially organized, with a beach bar and basic facilities available, but still preserves a natural and laid-back feeling.\n\nIrini Beach is a good choice for visitors looking for a calm, clean beach with a balance between comfort and tranquility.\n\nThe combination of soft sand, shallow turquoise water and low noise levels creates a very comfortable environment for slow and relaxing beach days.",
+    "ro": "Plaja Irini este o plajă mică și liniștită, cunoscută pentru nisipul deschis la culoare și apele calme, puțin adânci.\n\nIntrarea în apă este lină, fiind potrivită pentru familii și pentru înot relaxat, păstrând în același timp o atmosferă liniștită și mai puțin aglomerată.\n\nEste parțial amenajată, cu beach bar și facilități de bază, dar își păstrează caracterul natural și relaxat.\n\nPlaja Irini este potrivită pentru cei care caută liniște, apă curată și un echilibru între confort și natură.\n\nCombinația dintre nisipul foarte fin, apa turcoaz puțin adâncă și nivelul redus de zgomot creează un cadru excelent pentru zile lente și relaxante la mare."
+  },
+  "blueFlag": false
+}
