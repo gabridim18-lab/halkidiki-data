@@ -2478,5 +2478,21 @@
     "rating": 4.5,
     "waterTemperature": 23,
     "suitableForChildren": false
+  },
+  {
+    "id": "banana-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Banana Beach",
+      "ro": "Plaja Banana"
+    },
+    "previewImage": "banana-beach.webp",
+    "coordinates": {
+      "lat": 40.16744322105933,
+      "lon": 23.877295837743972
+    },
+    "rating": 4.5,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]

@@ -1,0 +1,136 @@
+{
+  "id": "banana-beach",
+  "slug": "banana-beach",
+  "name": {
+    "en": "Banana Beach",
+    "ro": "Plaja Banana"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Popular organized family beach",
+    "ro": "Plajă populară și organizată pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.16744322105933,
+    "lon": 23.877295837743972
+  },
+  "editorChoice": false,
+  "length": 250,
+  "images": [
+    "banana-beach.webp",
+    "banana-beach1.webp",
+    "banana-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak hours",
+      "ro": "Moderată în orele aglomerate"
+    },
+    "noiseLevel": {
+      "en": "Lively and family-friendly",
+      "ro": "Animată și potrivită pentru familii"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Energetic, organized and comfortable",
+      "ro": "Energică, organizată și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Soft sandy entry with very gentle slope",
+      "ro": "Intrare cu nisip fin și pantă foarte lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm and safe",
+      "ro": "De obicei calmă și sigură"
+    }
+  },
+  "sand": {
+    "en": "Golden fine sand",
+    "ro": "Nisip fin auriu"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.3 - 1.5m (gentle slope)",
+      "ro": "0.3 - 1.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear blue",
+      "ro": "Albastru cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "family",
+      "Hidden gem",
+      "sports",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Sporturi pe plajă",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups",
+      "Water sports",
+      "Relaxed full-day stays"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri",
+      "Sporturi nautice",
+      "Zile complete de relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Water sports"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Sporturi nautice"
+    ]
+  },
+  "occupancy": "60-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "15-20 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Banana Beach is a popular and well-organized beach located near Sarti, known for its lively atmosphere and clear, shallow waters.\n\nThe beach stretches for around 250 meters and features fine golden sand with a very gentle entry into the sea, making it especially suitable for families with children.\n\nThe water is calm and clean, with excellent clarity and a pleasant blue color, while the edges of the beach include small rocky sections ideal for light snorkeling.\n\nThe area is fully organized, offering sunbeds, umbrellas, water sports and a beach bar, creating a balanced mix between relaxation and activity.\n\nDue to its accessibility and facilities, Banana Beach tends to be moderately busy during peak season but still offers enough space for a comfortable experience.",
+    "ro": "Banana Beach este o plajă populară și bine amenajată, situată lângă Sarti, cunoscută pentru atmosfera animată și apa limpede și puțin adâncă.\n\nPlaja are aproximativ 250 de metri, cu nisip fin auriu și o intrare foarte lină în mare, fiind ideală pentru familii cu copii.\n\nApa este calmă și clară, cu o nuanță plăcută de albastru, iar marginile plajei includ mici zone stâncoase potrivite pentru snorkeling ușor.\n\nZona este complet organizată, cu șezlonguri, umbrele, sporturi nautice și beach bar, oferind un echilibru între relaxare și activitate.\n\nDatorită accesului ușor și facilităților, plaja devine moderat aglomerată în sezon, dar rămâne confortabilă."
+  },
+  "blueFlag": false
+}
