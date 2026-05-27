@@ -1,0 +1,136 @@
+{
+  "id": "zografou-beach",
+  "slug": "zografou-beach",
+  "name": {
+    "en": "Zografou Beach",
+    "ro": "Plaja Zografou"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet long sandy family beach",
+    "ro": "Plajă lungă și liniștită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.17090236784059,
+    "lon": 23.865351232343166
+  },
+  "editorChoice": false,
+  "length": 800,
+  "images": [
+    "zografou-beach.webp",
+    "zografou-beach1.webp",
+    "zografou-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy with nearby parking",
+      "ro": "De obicei ușoară, cu parcare apropiată"
+    },
+    "noiseLevel": {
+      "en": "Quiet and less commercial",
+      "ro": "Liniștită și mai puțin comercială"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed, spacious and natural",
+      "ro": "Relaxată, spațioasă și naturală"
+    },
+    "waterEntry": {
+      "en": "Soft sandy entry with gentle slope",
+      "ro": "Intrare cu nisip fin și pantă lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm and family-friendly",
+      "ro": "De obicei calmă și potrivită pentru familii"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with minimal pebbles",
+    "ro": "Nisip auriu fin cu pietricele minime"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 1.8m (gentle slope, sandy bottom)",
+      "ro": "0.4 - 1.8m (pantă lină, fund nisipos)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "relax",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Swimming",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Înot",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Relaxing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "occupancy": "50-65% (quiet atmosphere)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-12 EUR (limited areas)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.5,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Zografou Beach is a quiet and natural beach located on the northern side of Sithonia, close to Sarti, offering a long stretch of soft sand and clear turquoise water.\n\nThe beach extends for around 800 meters and features mostly fine golden sand with very few pebbles, making it comfortable for walking and relaxing.\n\nThe sea has a gentle slope and remains shallow for a good distance, making it suitable for families and relaxed swimming.\n\nCompared to more famous beaches nearby, Zografou keeps a calmer and less commercial atmosphere, with more space and less noise.\n\nThere are a few organized sections with sunbeds and a small beach bar, but large parts of the beach remain natural and unspoiled.",
+    "ro": "Plaja Zografou este o plajă liniștită și naturală situată în partea de nord a Sithoniei, aproape de Sarti, oferind o întindere lungă de nisip fin și ape turcoaz.\n\nPlaja are aproximativ 800 de metri și este formată în mare parte din nisip auriu fin, cu foarte puține pietricele, fiind confortabilă pentru plimbare și relaxare.\n\nIntrarea în apă este lină, iar adâncimea crește treptat, ceea ce o face potrivită pentru familii și înot relaxat.\n\nComparativ cu plajele mai populare din zonă, Zografou are o atmosferă mai calmă și mai puțin comercială, cu mai mult spațiu și mai puțin zgomot.\n\nExistă câteva zone amenajate cu șezlonguri și un beach bar, dar mare parte din plajă rămâne naturală și nealterată."
+  },
+  "blueFlag": false
+}

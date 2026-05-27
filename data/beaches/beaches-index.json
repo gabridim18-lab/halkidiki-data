@@ -2510,5 +2510,21 @@
     "rating": 4.6,
     "waterTemperature": 23,
     "suitableForChildren": false
+  },
+  {
+    "id": "zografou-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Zografou Beach",
+      "ro": "Plaja Zografou"
+    },
+    "previewImage": "zografou-beach.webp",
+    "coordinates": {
+      "lat": 40.17090236784059,
+      "lon": 23.865351232343166
+    },
+    "rating": 4.5,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
