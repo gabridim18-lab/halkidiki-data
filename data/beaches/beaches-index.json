@@ -2798,5 +2798,21 @@
     "rating": 4.8,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-salonikiou",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Salonikiou",
+      "ro": "Plaja Paralia Salonikiou"
+    },
+    "previewImage": "paralia-salonikiou.webp",
+    "coordinates": {
+      "lat": 40.300185154963145,
+      "lon": 23.695697609412843
+    },
+    "rating": 4.0,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

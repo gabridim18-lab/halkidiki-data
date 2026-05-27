@@ -1,0 +1,136 @@
+{
+  "id": "paralia-salonikiou",
+  "slug": "paralia-salonikiou",
+  "name": {
+    "en": "Paralia Salonikiou",
+    "ro": "Plaja Paralia Salonikiou"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Long quiet natural beach",
+    "ro": "Plajă lungă și liniștită"
+  },
+  "coordinates": {
+    "lat": 40.300185154963145,
+    "lon": 23.695697609412843
+  },
+  "editorChoice": false,
+  "length": 1300,
+  "images": [
+    "paralia-salonikiou.webp",
+    "paralia-salonikiou1.webp",
+    "paralia-salonikiou2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy",
+      "ro": "De obicei ușoară"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural, spacious and calm",
+      "ro": "Naturală, spațioasă și calmă"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy-pebble entry",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm conditions",
+      "ro": "Condiții de obicei calme"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with some small pebbles",
+    "ro": "Nisip auriu fin cu câteva pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "Gradual slope to ~5m at ~150m from shore",
+      "ro": "Pantă lină până la ~5m la ~150m de țărm"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Relaxation",
+      "Families",
+      "Long beach walks",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Relaxare",
+      "Familii",
+      "Plimbări lungi pe plajă",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Plajă și bronz"
+    ]
+  },
+  "occupancy": "30-50% (low to moderate)",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$ (budget)",
+  "recommendationRating": 4.0,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Paralia Salonikiou is a long and quiet beach known for its clear water and relaxed atmosphere.\n\nThe beach features fine golden sand mixed with small pebbles, with a gentle water entry that becomes deeper gradually, making it suitable for both families and casual swimmers.\n\nIt is less developed than other nearby beaches, offering more space and a natural environment while still being easy to access.\n\nParalia Salonikiou is a good choice for visitors looking for a calm beach with clear water and fewer crowds.\n\nIts spacious coastline and peaceful surroundings make it particularly attractive for travelers who prefer simplicity and open natural scenery over organized tourist beaches.",
+    "ro": "Paralia Salonikiou este o plajă lungă și liniștită, cunoscută pentru apa limpede și atmosfera relaxată.\n\nPlaja are nisip auriu fin combinat cu pietricele mici, iar intrarea în apă este lină, devenind treptat mai adâncă, fiind potrivită pentru familii și înot relaxat.\n\nEste mai puțin amenajată decât alte plaje din zonă, oferind mai mult spațiu și un cadru natural, dar rămâne ușor accesibilă.\n\nParalia Salonikiou este o alegere bună pentru cei care caută liniște, apă curată și mai puțină aglomerație.\n\nLinia lungă de coastă și atmosfera calmă o fac foarte atractivă pentru cei care preferă simplitatea și peisajele naturale în locul plajelor turistice aglomerate."
+  },
+  "blueFlag": false
+}
