@@ -2382,5 +2382,21 @@
     "rating": 4.7,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "orange-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Orange Beach",
+      "ro": "Plaja Orange"
+    },
+    "previewImage": "orange-beach.webp",
+    "coordinates": {
+      "lat": 40.12670556704755,
+      "lon": 23.97077562482543
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

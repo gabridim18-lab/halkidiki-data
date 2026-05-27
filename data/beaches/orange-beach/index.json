@@ -1,0 +1,138 @@
+{
+  "id": "orange-beach",
+  "slug": "orange-beach",
+  "name": {
+    "en": "Orange Beach",
+    "ro": "Plaja Orange"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Famous turquoise cove beach",
+    "ro": "Plajă celebră cu golfuri turcoaz"
+  },
+  "coordinates": {
+    "lat": 40.12670556704755,
+    "lon": 23.97077562482543
+  },
+  "editorChoice": true,
+  "length": 150,
+  "images": [
+    "orange-beach.webp",
+    "orange-beach1.webp",
+    "orange-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk from dirt-road parking",
+      "ro": "Scurtă plimbare de la parcarea pe drum de pământ"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult during peak hours",
+      "ro": "Dificilă în orele aglomerate"
+    },
+    "noiseLevel": {
+      "en": "Busy and energetic during summer",
+      "ro": "Animată și aglomerată vara"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Iconic, scenic and vibrant",
+      "ro": "Iconică, spectaculoasă și vibrantă"
+    },
+    "waterEntry": {
+      "en": "White sand with shallow shoal and rocky sections",
+      "ro": "Nisip alb cu banc de nisip și zone stâncoase"
+    },
+    "waveLevel": {
+      "en": "Usually calm with protected coves",
+      "ro": "De obicei calmă datorită golfurilor protejate"
+    }
+  },
+  "sand": {
+    "en": "Powdery white sand with scattered flat rocks",
+    "ro": "Nisip alb ca pudra cu roci plate răzlețe"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.2 - 3.0m (gentle slope with shoal)",
+      "ro": "0.2 - 3.0m (pantă lină cu banc de nisip)"
+    },
+    "clarity": {
+      "en": "Crystal-clear emerald turquoise",
+      "ro": "Turcoaz smarald cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Photography",
+      "Snorkeling",
+      "Exploration",
+      "Swimming"
+    ],
+    "ro": [
+      "Fotografie",
+      "Snorkeling",
+      "Explorare",
+      "Înot"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Kayaking",
+      "Rock hopping"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Caiac",
+      "Explorare pe stânci"
+    ]
+  },
+  "occupancy": "80-100%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "Free with minimum order or 5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Orange Beach, also known as Portokali, is one of the most famous and photographed spots in Sithonia, located in the Kavourotripes area. Despite its small size of around 150 meters, it stands out through its exceptional water color and unique rock formations.\n\nThe beach features fine white sand combined with smooth, flat rocks that create natural platforms both on land and in the water. The seabed starts very shallow, with a sandy shoal extending far from the shore, making the first part of the water ideal for relaxed swimming. Further out, the depth increases gradually, revealing a mix of sand and rock formations.\n\nThe water here is one of the clearest in Sithonia, with a strong emerald-turquoise color that becomes more intense under direct sunlight. Visibility is excellent, making it perfect for snorkeling, especially around the rocky edges of the small coves.\n\nDue to its popularity, the beach fills up quickly, especially after late morning. The organized section is centered around Portokali Beach Bar, while smaller nearby coves offer slightly more privacy for those willing to explore on foot.\n\nAccess is relatively easy but includes a dirt road and short walk, and parking can become limited in peak hours.\n\nOrange Beach is less about relaxation and more about scenery, color, and experience.\n\nIt is one of the must-see beaches in Sithonia, but timing is essential to fully enjoy it.",
+    "ro": "Plaja Orange, cunoscută și ca Portokali, este unul dintre cele mai cunoscute și fotografiate locuri din Sithonia, situată în zona Kavourotripes. Deși are doar aproximativ 150 m, se remarcă prin culoarea apei și formațiunile stâncoase unice.\n\nPlaja are nisip alb fin combinat cu roci plate, care formează platforme naturale atât pe uscat, cât și în apă. Intrarea în mare este foarte lină, cu o bancă de nisip care se întinde mult în larg, fiind ideală pentru înot relaxat. Mai departe, apa se adâncește treptat și apar zone mixte de nisip și stâncă.\n\nApa este una dintre cele mai clare din Sithonia, cu un turcoaz smarald intens, care devine și mai spectaculos în lumină puternică. Vizibilitatea este excelentă, ceea ce face plaja foarte bună pentru snorkeling, mai ales în zonele stâncoase.\n\nFiind foarte populară, plaja se aglomerează rapid, în special după ora 11. Zona organizată este în jurul Portokali Beach Bar, iar golfulețele din apropiere oferă mai multă liniște pentru cei care vor să exploreze.\n\nAccesul este relativ ușor, dar implică un drum de pământ și o scurtă plimbare, iar parcarea devine limitată în sezon.\n\nOrange Beach nu este neapărat despre liniște, ci despre peisaj, culoare și experiență.\n\nEste una dintre plajele „must-see” din Sithonia, dar contează foarte mult ora la care ajungi."
+  },
+  "blueFlag": false
+}
