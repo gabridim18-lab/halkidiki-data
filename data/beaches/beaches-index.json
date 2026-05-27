@@ -2414,5 +2414,21 @@
     "rating": 4.9,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "mega-portokali-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Mega Portokali Beach",
+      "ro": "Plaja Mega Portokali"
+    },
+    "previewImage": "mega-portokali-beach.webp",
+    "coordinates": {
+      "lat": 40.127205820588976,
+      "lon": 23.96577772489201
+    },
+    "rating": 4.6,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

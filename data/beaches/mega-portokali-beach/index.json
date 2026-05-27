@@ -1,0 +1,138 @@
+{
+  "id": "mega-portokali-beach",
+  "slug": "mega-portokali-beach",
+  "name": {
+    "en": "Mega Portokali Beach",
+    "ro": "Plaja Mega Portokali"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Spacious emerald-water sandy beach",
+    "ro": "Plajă spațioasă cu apă verde-smarald"
+  },
+  "coordinates": {
+    "lat": 40.127205820588976,
+    "lon": 23.96577772489201
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "mega-portokali-beach.webp",
+    "mega-portokali-beach1.webp",
+    "mega-portokali-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access with short walk",
+      "ro": "Acces ușor cu plimbare scurtă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Relaxed but lively in organized areas",
+      "ro": "Relaxată, dar animată în zonele organizate"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Spacious, scenic and comfortable",
+      "ro": "Spațioasă, spectaculoasă și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Fine soft sand with gentle slope",
+      "ro": "Nisip fin și pantă lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm with light movement",
+      "ro": "De obicei calmă, cu mișcare ușoară"
+    }
+  },
+  "sand": {
+    "en": "Golden-orange fine sand (unique color)",
+    "ro": "Nisip fin auriu-portocaliu (culoare unică)"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 3.0m (gentle slope with drops)",
+      "ro": "0.4 - 3.0m (pantă lină cu zone mai adânci)"
+    },
+    "clarity": {
+      "en": "Transparent emerald green",
+      "ro": "Verde smarald transparent"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Swimming",
+      "Snorkeling",
+      "Relaxation"
+    ],
+    "ro": [
+      "Familii",
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach games",
+      "Snorkeling",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Jocuri pe plajă",
+      "Snorkeling",
+      "Caiac"
+    ]
+  },
+  "occupancy": "60-75%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "7-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.6,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Mega Portokali Beach is one of the most visually distinctive beaches in Sithonia, known for its rare golden-orange sand that creates a strong contrast with the emerald-green water. Compared to the smaller Orange Beach nearby, this one is larger, more open and more comfortable, offering more space without losing the unique character of the area.\n\nThe beach stretches for around 800 meters, with fine sand that is warm and pleasant underfoot. The entry into the water is generally smooth, with a gentle slope that makes it suitable for swimming and for families, although there are some areas where the depth increases more quickly.\n\nThe water is extremely clear, with vibrant green and turquoise tones that become deeper further from the shore. Visibility is very good, especially on calm days, making it a solid option for snorkeling, particularly near the rocky sections toward the edges.\n\nMega Portokali offers a balanced experience — it has organized areas with sunbeds and beach bars, but also enough free space for those who prefer a more natural setup. Unlike smaller coves, it feels less crowded even when there are many people present.\n\nThe surrounding landscape includes pine trees and low vegetation, giving it a more open and airy feel compared to the tighter coves nearby.\n\nIt is a beach that combines uniqueness with comfort, making it suitable for a wide range of visitors.\n\nA very good alternative to the more crowded Orange Beach.",
+    "ro": "Plaja Mega Portokali este una dintre cele mai distinctive plaje din Sithonia, cunoscută pentru nisipul său auriu-portocaliu rar, care creează un contrast spectaculos cu apa verde-smarald. Comparativ cu Orange Beach din apropiere, aceasta este mai mare, mai aerisită și mai confortabilă.\n\nPlaja are aproximativ 800 m, cu nisip fin și plăcut. Intrarea în apă este în general lină, ceea ce o face potrivită pentru înot și familii, deși există și zone unde adâncimea crește mai rapid.\n\nApa este extrem de limpede, cu nuanțe de verde și turcoaz care devin mai intense spre larg. Vizibilitatea este foarte bună, mai ales în zilele calme, iar zonele stâncoase de la margini sunt potrivite pentru snorkeling.\n\nMega Portokali oferă un echilibru foarte bun între zone organizate și spații libere. Există beach bar-uri și șezlonguri, dar și suficient loc pentru cei care preferă varianta naturală.\n\nComparativ cu golfulețele mici din zonă, această plajă nu dă senzația de aglomerație chiar și atunci când sunt mai mulți turiști.\n\nPeisajul este mai deschis, cu pini și vegetație joasă, oferind o atmosferă mai relaxată.\n\nEste o plajă care combină unicitatea cu confortul.\n\nO alternativă foarte bună la Orange Beach."
+  },
+  "blueFlag": false
+}
