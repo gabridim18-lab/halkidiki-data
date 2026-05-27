@@ -2462,5 +2462,21 @@
     "rating": 4.7,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "robinson-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Robinson Beach",
+      "ro": "Plaja Robinson"
+    },
+    "previewImage": "robinson-beach.webp",
+    "coordinates": {
+      "lat": 40.16246445320647,
+      "lon": 23.890773938050188
+    },
+    "rating": 4.5,
+    "waterTemperature": 23,
+    "suitableForChildren": false
   }
 ]

@@ -1,0 +1,136 @@
+{
+  "id": "robinson-beach",
+  "slug": "robinson-beach",
+  "name": {
+    "en": "Robinson Beach",
+    "ro": "Plaja Robinson"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Remote hidden off-grid cove",
+    "ro": "Golf retras și complet off-grid"
+  },
+  "coordinates": {
+    "lat": 40.16246445320647,
+    "lon": 23.890773938050188
+  },
+  "editorChoice": true,
+  "length": 140,
+  "images": [
+    "robinson-beach.webp",
+    "robinson-beach1.webp",
+    "robinson-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Difficult terrain or boat access required",
+      "ro": "Acces dificil sau necesită barcă"
+    },
+    "parkingDifficulty": {
+      "en": "No organized parking available",
+      "ro": "Nu există parcare organizată"
+    },
+    "noiseLevel": {
+      "en": "Extremely quiet and isolated",
+      "ro": "Extrem de liniștită și izolată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild, isolated and untouched",
+      "ro": "Sălbatică, izolată și neatinsă"
+    },
+    "waterEntry": {
+      "en": "Fine sand entry with gradual depth increase",
+      "ro": "Intrare cu nisip fin și adâncire graduală"
+    },
+    "waveLevel": {
+      "en": "Usually calm in protected weather conditions",
+      "ro": "De obicei calmă în condiții protejate"
+    }
+  },
+  "sand": {
+    "en": "Fine beige sand",
+    "ro": "Nisip bej fin"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.2 - 2.5m (gentle slope)",
+      "ro": "0.2 - 2.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Explorers",
+      "Snorkeling",
+      "Isolation seekers"
+    ],
+    "ro": [
+      "Iubitori de natură",
+      "Exploratori",
+      "Snorkeling",
+      "Cei care caută izolare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Boat access"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Acces cu barca"
+    ]
+  },
+  "occupancy": "10-20% (very low-key)",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.5,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Robinson Beach is a small, remote cove on Sithonia’s southern coastline, known for its untouched character and very limited access.\n\nThe beach stretches for about 140 meters and features fine beige sand with exceptionally clear turquoise water. The seabed has a gentle entry but becomes deeper gradually, making it more suitable for confident swimmers.\n\nSurrounded by rocky formations and wild vegetation, the area has no visible development, no infrastructure and no organized sections, offering a raw and natural environment.\n\nWater clarity is excellent, especially in calm weather, making it ideal for snorkeling along the edges where rocks create small underwater habitats.\n\nThis is a true off-grid beach experience, preferred by those who value isolation, silence and natural scenery over comfort.",
+    "ro": "Plaja Robinson este un golf mic și izolat pe coasta sudică a Sithoniei, cunoscut pentru caracterul său sălbatic și accesul limitat.\n\nPlaja are aproximativ 140 de metri, cu nisip fin bej și ape turcoaz extrem de limpezi. Intrarea în apă este lină la început, dar adâncimea crește treptat, fiind mai potrivită pentru înotători.\n\nZona este înconjurată de stânci și vegetație sălbatică, fără construcții sau amenajări, oferind un mediu natural autentic.\n\nApa are o claritate excelentă, mai ales în zilele calme, fiind ideală pentru snorkeling lângă marginile stâncoase.\n\nEste o plajă complet off-grid, preferată de cei care caută liniște, izolare și natură pură."
+  },
+  "blueFlag": false
+}
