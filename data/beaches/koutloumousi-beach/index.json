@@ -1,0 +1,136 @@
+{
+  "id": "koutloumousi-beach",
+  "slug": "koutloumousi-beach",
+  "name": {
+    "en": "Koutloumousi Beach",
+    "ro": "Plaja Koutloumousi"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Small hidden natural cove",
+    "ro": "Golf mic și natural ascuns"
+  },
+  "coordinates": {
+    "lat": 40.17366833511743,
+    "lon": 23.852711553738203
+  },
+  "editorChoice": false,
+  "length": 120,
+  "images": [
+    "koutloumousi-beach.webp",
+    "koutloumousi-beach1.webp",
+    "koutloumousi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short natural access walk",
+      "ro": "Scurtă plimbare pe traseu natural"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable nearby",
+      "ro": "De obicei accesibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet and peaceful",
+      "ro": "Foarte liniștită și relaxantă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Hidden, peaceful and natural",
+      "ro": "Ascunsă, liniștită și naturală"
+    },
+    "waterEntry": {
+      "en": "Sand and pebbles with moderate slope",
+      "ro": "Nisip și pietricele cu pantă moderată"
+    },
+    "waveLevel": {
+      "en": "Usually calm with stable water",
+      "ro": "De obicei calmă și stabilă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand mixed with small pebbles",
+    "ro": "Nisip auriu fin amestecat cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 2.5m (moderate slope)",
+      "ro": "0.4 - 2.5m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear emerald-turquoise",
+      "ro": "Turcoaz spre smarald, foarte limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Relaxation",
+      "Nature lovers",
+      "Snorkeling",
+      "Quiet escapes"
+    ],
+    "ro": [
+      "Relaxare",
+      "Iubitori de natură",
+      "Snorkeling",
+      "Escapade liniștite"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Relaxing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "occupancy": "20-30% (quiet)",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.6,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Koutloumousi Beach is a small and secluded beach near Sarti, hidden between pine-covered hills and offering a quiet, natural atmosphere.\n\nThe beach is around 120 meters long and features a mix of fine golden sand and small pebbles, giving it a slightly wild but still comfortable feel.\n\nThe water is very clear with shades between turquoise and emerald, and the seabed has a moderate slope, becoming deeper gradually after the first few meters.\n\nIt is a peaceful spot with very little development, making it ideal for those looking to escape busy beaches and enjoy nature.\n\nThere are no facilities on the beach, so visitors should come prepared for a fully self-sufficient experience.",
+    "ro": "Plaja Koutloumousi este o plajă mică și retrasă lângă Sarti, ascunsă între dealuri acoperite de pini și oferind o atmosferă liniștită și naturală.\n\nPlaja are aproximativ 120 de metri și combină nisip fin auriu cu pietricele mici, oferind un aspect ușor sălbatic dar confortabil.\n\nApa este foarte limpede, cu nuanțe între turcoaz și verde smarald, iar fundul mării are o pantă moderată, adâncindu-se treptat după primii metri.\n\nEste un loc liniștit, cu foarte puțină intervenție umană, ideal pentru cei care vor să evite plajele aglomerate.\n\nNu există facilități, așa că este recomandat să veniți pregătiți cu tot ce aveți nevoie."
+  },
+  "blueFlag": false
+}

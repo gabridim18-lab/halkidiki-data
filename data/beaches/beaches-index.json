@@ -2526,5 +2526,21 @@
     "rating": 4.5,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "koutloumousi-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Koutloumousi Beach",
+      "ro": "Plaja Koutloumousi"
+    },
+    "previewImage": "koutloumousi-beach.webp",
+    "coordinates": {
+      "lat": 40.17366833511743,
+      "lon": 23.852711553738203
+    },
+    "rating": 4.6,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
