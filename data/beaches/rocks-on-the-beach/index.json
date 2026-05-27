@@ -1,0 +1,136 @@
+{
+  "id": "rocks-on-the-beach",
+  "slug": "rocks-on-the-beach",
+  "name": {
+    "en": "Rocks on the Beach",
+    "ro": "Rocks on the Beach"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Natural rocky-sandy cove beach",
+    "ro": "Plajă naturală cu nisip și stânci"
+  },
+  "coordinates": {
+    "lat": 40.19468285920324,
+    "lon": 23.8079569968062
+  },
+  "editorChoice": true,
+  "length": 350,
+  "images": [
+    "rocks-on-the-beach.webp",
+    "rocks-on-the-beach1.webp",
+    "rocks-on-the-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short natural access paths between coves",
+      "ro": "Acces scurt pe trasee naturale între golfuri"
+    },
+    "parkingDifficulty": {
+      "en": "Limited during high season",
+      "ro": "Limitată în sezonul aglomerat"
+    },
+    "noiseLevel": {
+      "en": "Quiet outside nearby crowded beaches",
+      "ro": "Liniștită în afara zonelor aglomerate"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild, photogenic and exploratory",
+      "ro": "Sălbatică, fotogenică și perfectă pentru explorare"
+    },
+    "waterEntry": {
+      "en": "Mixed sandy and rocky seabed",
+      "ro": "Fund mixt cu nisip și stânci"
+    },
+    "waveLevel": {
+      "en": "Usually calm with clear visibility",
+      "ro": "De obicei calmă și foarte clară"
+    }
+  },
+  "sand": {
+    "en": "Fine sand mixed with smooth white rocks",
+    "ro": "Nisip fin combinat cu stânci albe netede"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 2.5m (mixed sandy and rocky bottom)",
+      "ro": "0.3 - 2.5m (fund mixt nisip și stâncă)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Exploration",
+      "Photography",
+      "Snorkeling",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Explorare",
+      "Fotografie",
+      "Snorkeling",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Exploring coves",
+      "Photography"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Explorare golfuri",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "40-60% (depends on nearby beaches)",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.5,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Rocks on the Beach is part of the wider Kavourotrypes area, known for its white rock formations and small hidden coves.\n\nThe beach combines fine sand with smooth sculpted rocks, creating a unique landscape with crystal-clear turquoise water.\n\nThe seabed alternates between sand and rock, making it interesting for snorkeling but slightly less comfortable for easy entry.\n\nThere are no organized facilities, keeping the area natural and quiet compared to larger beaches.\n\nIt is a great spot for exploration, short stays, and discovering small hidden bays along the coastline.",
+    "ro": "Rocks on the Beach face parte din zona Kavourotrypes, cunoscută pentru stâncile albe și golfulețele ascunse.\n\nPlaja combină nisipul fin cu stânci sculptate natural, creând un peisaj unic cu apă turcoaz cristalină.\n\nFundul mării alternează între nisip și stâncă, fiind interesant pentru snorkeling, dar mai puțin confortabil pentru intrare.\n\nNu există facilități, ceea ce păstrează locul natural și liniștit.\n\nEste ideală pentru explorare și descoperirea unor golfuri mici și ascunse."
+  },
+  "blueFlag": false
+}
