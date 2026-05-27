@@ -1,0 +1,136 @@
+{
+  "id": "talgo-beach",
+  "slug": "talgo-beach",
+  "name": {
+    "en": "Talgo Beach",
+    "ro": "Plaja Talgo"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Small unofficial natural beach",
+    "ro": "Plajă mică naturală neoficială"
+  },
+  "coordinates": {
+    "lat": 40.22426701662111,
+    "lon": 23.749863863155547
+  },
+  "editorChoice": false,
+  "length": 150,
+  "images": [
+    "talgo-beach.webp",
+    "talgo-beach1.webp",
+    "talgo-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short unorganized access walk",
+      "ro": "Acces scurt, neamenajat"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult, no official parking",
+      "ro": "Dificilă, fără parcare oficială"
+    },
+    "noiseLevel": {
+      "en": "Quiet and low-key",
+      "ro": "Liniștită și discretă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Simple, hidden and natural",
+      "ro": "Simplă, ascunsă și naturală"
+    },
+    "waterEntry": {
+      "en": "Mixed sand and pebbles with moderate slope",
+      "ro": "Nisip și pietricele cu pantă moderată"
+    },
+    "waveLevel": {
+      "en": "Usually calm depending on wind",
+      "ro": "De obicei calmă, în funcție de vânt"
+    }
+  },
+  "sand": {
+    "en": "Mixed sand and pebbles",
+    "ro": "Amestec de nisip și pietricele"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.5 - 3m (moderate slope)",
+      "ro": "0.5 - 3m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz limpede"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Explorers",
+      "Quiet escapes",
+      "Short visits",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Exploratori",
+      "Escapade liniștite",
+      "Vizite scurte",
+      "Snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Relaxing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "occupancy": "20-40% (low-key)",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.2,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Talgo Beach is a small and relatively unknown coastal spot near the Vourvourou area, offering a quiet and natural setting.\n\nThe beach consists of a mix of sand and pebbles, with clear turquoise water and a peaceful atmosphere.\n\nAccess is not fully organized and may require a short walk from nearby areas, depending on the route.\n\nThere are no facilities, which keeps the place simple and less crowded.\n\nIt is suitable for short stops, light swimming, and exploring quieter corners of the coastline.",
+    "ro": "Talgo Beach este un loc mic și mai puțin cunoscut în zona Vourvourou, oferind un cadru natural și liniștit.\n\nPlaja este formată din nisip și pietricele, cu apă limpede turcoaz și atmosferă relaxată.\n\nAccesul nu este complet organizat și poate necesita o scurtă plimbare.\n\nNu există facilități, ceea ce păstrează locul simplu și mai puțin aglomerat.\n\nEste potrivită pentru opriri scurte și explorarea unor zone mai retrase."
+  },
+  "blueFlag": false
+}

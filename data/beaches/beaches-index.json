@@ -2654,5 +2654,21 @@
     "rating": 4.6,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "talgo-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Talgo Beach",
+      "ro": "Plaja Talgo"
+    },
+    "previewImage": "talgo-beach.webp",
+    "coordinates": {
+      "lat": 40.22426701662111,
+      "lon": 23.749863863155547
+    },
+    "rating": 4.2,
+    "waterTemperature": 25,
+    "suitableForChildren": false
   }
 ]
