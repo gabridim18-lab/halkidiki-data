@@ -1,0 +1,136 @@
+{
+  "id": "lagonisi-beach",
+  "slug": "lagonisi-beach",
+  "name": {
+    "en": "Lagonisi Beach",
+    "ro": "Plaja Lagonisi"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Protected organized family beach",
+    "ro": "Plajă organizată și protejată pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.229326719942875,
+    "lon": 23.747410403973575
+  },
+  "editorChoice": true,
+  "length": 300,
+  "images": [
+    "lagonisi-beach.webp",
+    "lagonisi-beach1.webp",
+    "lagonisi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during high season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively but relaxed",
+      "ro": "Moderat animată dar relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable, calm and family-friendly",
+      "ro": "Confortabilă, calmă și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină cu nisip fin"
+    },
+    "waveLevel": {
+      "en": "Very calm due to protected bay",
+      "ro": "Foarte calmă datorită golfului protejat"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with minimal pebbles",
+    "ro": "Nisip auriu fin cu pietricele minime"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 2m (gradual slope, sandy bottom)",
+      "ro": "0.3 - 2m (pantă treptată, fund nisipos)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "family",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Paddleboarding",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Paddleboarding",
+      "Snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beach Volleyball"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Volei pe plajă"
+    ]
+  },
+  "occupancy": "70-80% (moderately busy)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€6-12 per set",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Lagonisi Beach is a popular and well-organized beach located in a protected bay near the small Kalogria islet.\n\nThe beach features fine golden sand and a very gentle entry into the water, making it ideal for families and relaxed swimming.\n\nThe sea remains calm most of the time due to natural protection from winds, while the nearby rocky areas offer good snorkeling opportunities.\n\nDespite being relatively small, the beach is well equipped and provides a comfortable experience with easy access and clear water.\n\nThe protected setting and scenic surroundings make it one of the most pleasant family-friendly beaches in the Vourvourou area.",
+    "ro": "Plaja Lagonisi este o plajă populară și bine amenajată, situată într-un golf protejat lângă insulița Kalogria.\n\nPlaja are nisip auriu fin și o intrare foarte lină în apă, fiind ideală pentru familii și înot relaxat.\n\nMarea este de obicei calmă datorită protecției naturale, iar zonele stâncoase din apropiere sunt bune pentru snorkeling.\n\nDeși nu este foarte mare, plaja oferă confort, acces ușor și apă limpede.\n\nCadru protejat și peisajul frumos o transformă într-una dintre cele mai plăcute plaje pentru familii din zona Vourvourou."
+  },
+  "blueFlag": false
+}

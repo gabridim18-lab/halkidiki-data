@@ -2686,5 +2686,21 @@
     "rating": 4.9,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "lagonisi-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Lagonisi Beach",
+      "ro": "Plaja Lagonisi"
+    },
+    "previewImage": "lagonisi-beach.webp",
+    "coordinates": {
+      "lat": 40.229326719942875,
+      "lon": 23.747410403973575
+    },
+    "rating": 4.5,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
