@@ -2590,5 +2590,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "karydi-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Karydi Beach",
+      "ro": "Plaja Karydi"
+    },
+    "previewImage": "karydi-beach.webp",
+    "coordinates": {
+      "lat": 40.19186382539501,
+      "lon": 23.810158845332136
+    },
+    "rating": 4.7,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]

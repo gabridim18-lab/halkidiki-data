@@ -1,0 +1,138 @@
+{
+  "id": "karydi-beach",
+  "slug": "karydi-beach",
+  "name": {
+    "en": "Karydi Beach",
+    "ro": "Plaja Karydi"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Iconic lagoon-style white sand beach",
+    "ro": "Plajă iconică tip lagună cu nisip alb"
+  },
+  "coordinates": {
+    "lat": 40.19186382539501,
+    "lon": 23.810158845332136
+  },
+  "editorChoice": true,
+  "length": 180,
+  "images": [
+    "karydi-beach.webp",
+    "karydi-beach1.webp",
+    "karydi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Very easy direct access",
+      "ro": "Acces direct foarte ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult during peak season",
+      "ro": "Dificilă în sezonul aglomerat"
+    },
+    "noiseLevel": {
+      "en": "Busy but relaxed",
+      "ro": "Aglomerată dar relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Exotic, photogenic and family-friendly",
+      "ro": "Exotică, spectaculoasă și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Very shallow lagoon-style sandy entry",
+      "ro": "Intrare foarte mică tip lagună cu nisip fin"
+    },
+    "waveLevel": {
+      "en": "Extremely calm and protected",
+      "ro": "Extrem de calmă și protejată"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with some smooth rocks",
+    "ro": "Nisip alb fin cu stânci netede"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.2 - 1.5m (very shallow, lagoon-like)",
+      "ro": "0.2 - 1.5m (foarte mică, tip lagună)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Photography",
+      "Relaxation",
+      "Couples"
+    ],
+    "ro": [
+      "Familii",
+      "Fotografie",
+      "Relaxare",
+      "Cupluri"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Relaxing",
+      "Photography"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Relaxare",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "70-90% (very popular)",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.7,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Karydi Beach is one of the most famous beaches in Sithonia, known for its unique white sand, shallow turquoise water and exotic scenery.\n\nThe beach has a lagoon-like formation with extremely shallow water, making it one of the safest and most relaxing spots for swimming.\n\nSmooth white rocks divide the beach into small natural sections, creating a very photogenic landscape.\n\nDespite having no organized facilities, it attracts many visitors due to its easy access and stunning natural beauty.\n\nIt is ideal for families, couples and anyone looking for calm, crystal-clear water in a picturesque setting.",
+    "ro": "Plaja Karydi este una dintre cele mai faimoase plaje din Sithonia, cunoscută pentru nisipul alb, apa turcoaz puțin adâncă și peisajul exotic.\n\nPlaja are o formă de lagună, cu apă foarte mică, fiind unul dintre cele mai sigure locuri pentru înot.\n\nStâncile albe netede împart plaja în zone naturale mici, oferind un peisaj spectaculos.\n\nDeși nu are facilități, atrage foarte mulți turiști datorită accesului ușor și frumuseții naturale.\n\nEste ideală pentru familii, cupluri și pentru cei care caută apă calmă și limpede."
+  },
+  "blueFlag": false
+}
