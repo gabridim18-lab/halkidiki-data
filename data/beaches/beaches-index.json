@@ -2542,5 +2542,21 @@
     "rating": 4.6,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "bara-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Bara Beach",
+      "ro": "Plaja Bara"
+    },
+    "previewImage": "bara-beach.webp",
+    "coordinates": {
+      "lat": 40.17797836948126,
+      "lon": 23.832442606654453
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

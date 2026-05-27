@@ -1,0 +1,136 @@
+{
+  "id": "bara-beach",
+  "slug": "bara-beach",
+  "name": {
+    "en": "Bara Beach",
+    "ro": "Plaja Bara"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Relaxed organized sandy beach",
+    "ro": "Plajă relaxată și organizată cu nisip fin"
+  },
+  "coordinates": {
+    "lat": 40.17797836948126,
+    "lon": 23.832442606654453
+  },
+  "editorChoice": false,
+  "length": 300,
+  "images": [
+    "bara-beach.webp",
+    "bara-beach1.webp",
+    "bara-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy nearby",
+      "ro": "De obicei ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and balanced atmosphere",
+      "ro": "Atmosferă relaxată și echilibrată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable, calm and welcoming",
+      "ro": "Confortabilă, calmă și primitoare"
+    },
+    "waterEntry": {
+      "en": "Soft sandy entry with gradual slope",
+      "ro": "Intrare cu nisip fin și pantă graduală"
+    },
+    "waveLevel": {
+      "en": "Usually calm and family-friendly",
+      "ro": "De obicei calmă și potrivită pentru familii"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand with occasional seashells",
+    "ro": "Nisip auriu moale cu scoici ocazionale"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 2.8m (gradual slope, sandy bottom)",
+      "ro": "0.4 - 2.8m (pantă graduală, fund nisipos)"
+    },
+    "clarity": {
+      "en": "Clear turquoise (good visibility)",
+      "ro": "Turcoaz limpede (vizibilitate bună)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "Hidden gem",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Swimming",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Înot",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Relaxing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "occupancy": "55-70% (balanced)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Bara Beach is a small and pleasant beach located near Sarti, known for its soft sand and relaxed atmosphere.\n\nThe beach stretches for around 300 meters and features fine golden sand with occasional seashells, making it comfortable for walking and sunbathing.\n\nThe water is clear and calm, with a gradual entry that makes it suitable for families and easy swimming.\n\nCompared to larger beaches nearby, Bara offers a more laid-back and less crowded experience while still providing basic amenities.\n\nA small organized section with sunbeds and a beach bar ensures comfort without taking away from the natural feel of the beach.",
+    "ro": "Plaja Bara este o plajă mică și plăcută situată lângă Sarti, cunoscută pentru nisipul fin și atmosfera relaxată.\n\nPlaja are aproximativ 300 de metri și este formată din nisip auriu fin cu scoici ocazionale, fiind confortabilă pentru plimbare și stat la soare.\n\nApa este limpede și calmă, cu intrare lină, fiind potrivită pentru familii și înot relaxat.\n\nComparativ cu plajele mai mari din zonă, Bara oferă o experiență mai liniștită și mai puțin aglomerată.\n\nExistă o zonă amenajată cu șezlonguri și un beach bar, care oferă confort fără a afecta caracterul natural al plajei."
+  },
+  "blueFlag": false
+}
