@@ -1,0 +1,136 @@
+{
+  "id": "manos-beach",
+  "slug": "manos-beach",
+  "name": {
+    "en": "Manos Beach",
+    "ro": "Plaja Manos"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Small relaxed turquoise cove",
+    "ro": "Golf mic și relaxat cu apă turcoaz"
+  },
+  "coordinates": {
+    "lat": 40.18550213306911,
+    "lon": 23.81942717321733
+  },
+  "editorChoice": false,
+  "length": 80,
+  "images": [
+    "manos-beach.webp",
+    "manos-beach1.webp",
+    "manos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Very easy direct access",
+      "ro": "Acces direct foarte ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Limited during busy hours",
+      "ro": "Limitată în orele aglomerate"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and low-key",
+      "ro": "Relaxată și discretă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Small, cozy and peaceful",
+      "ro": "Mică, confortabilă și liniștită"
+    },
+    "waterEntry": {
+      "en": "Fine sand with gentle shallow entry",
+      "ro": "Nisip fin cu intrare lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm and stable",
+      "ro": "De obicei calmă și stabilă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with some small pebbles",
+    "ro": "Nisip alb fin cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.8m (gentle slope)",
+      "ro": "0.3 - 1.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "relax"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Couples",
+      "Relaxation",
+      "Swimming",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Cupluri",
+      "Relaxare",
+      "Înot",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Relaxing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "occupancy": "30-50% (small cove)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-12 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.3,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Manos Beach is a small and quiet cove near Nikiti, offering a relaxed atmosphere with a mix of fine sand and a few pebbles.\n\nThe beach is relatively short but well-shaped, with clear turquoise water and a gentle entry that makes it suitable for easy swimming.\n\nSome rocky sections at the edges create good spots for light snorkeling, while the central area remains sandy and comfortable.\n\nA small beach bar provides basic services without changing the natural and laid-back character of the place.\n\nOverall, it’s a good choice for those who prefer smaller, calmer beaches instead of large and crowded ones.",
+    "ro": "Plaja Manos este un golf mic și liniștit lângă Nikiti, oferind o atmosferă relaxată și un amestec de nisip fin cu câteva pietricele.\n\nPlaja este scurtă, dar bine formată, cu apă turcoaz limpede și intrare lină, potrivită pentru înot relaxat.\n\nZonele stâncoase de la margini sunt bune pentru snorkeling, în timp ce partea centrală este mai confortabilă.\n\nUn beach bar mic oferă servicii de bază fără să schimbe caracterul natural al locului.\n\nEste o alegere bună pentru cei care preferă plaje mai mici și liniștite."
+  },
+  "blueFlag": false
+}

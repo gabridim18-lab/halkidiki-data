@@ -2574,5 +2574,21 @@
     "rating": 4.6,
     "waterTemperature": 23,
     "suitableForChildren": false
+  },
+  {
+    "id": "manos-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Manos Beach",
+      "ro": "Plaja Manos"
+    },
+    "previewImage": "manos-beach.webp",
+    "coordinates": {
+      "lat": 40.18550213306911,
+      "lon": 23.81942717321733
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
