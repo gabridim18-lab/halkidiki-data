@@ -1,0 +1,138 @@
+{
+  "id": "dream-coast-beach",
+  "slug": "dream-coast-beach",
+  "name": {
+    "en": "Dream Coast Beach",
+    "ro": "Plaja Dream Coast"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Premium long white-sand beach",
+    "ro": "Plajă premium lungă cu nisip alb"
+  },
+  "coordinates": {
+    "lat": 40.1601317471841,
+    "lon": 23.895752117974826
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "dream-coast-beach.webp",
+    "dream-coast-beach1.webp",
+    "dream-coast-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Very easy direct access",
+      "ro": "Acces direct foarte ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy with organized parking",
+      "ro": "De obicei ușoară, cu parcare organizată"
+    },
+    "noiseLevel": {
+      "en": "Relaxed despite popularity",
+      "ro": "Relaxată în ciuda popularității"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Elegant, spacious and refined",
+      "ro": "Elegantă, spațioasă și rafinată"
+    },
+    "waterEntry": {
+      "en": "Powdery sand with extremely gradual slope",
+      "ro": "Nisip foarte fin cu pantă extrem de lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm due to protected bay",
+      "ro": "De obicei calmă datorită golfului protejat"
+    }
+  },
+  "sand": {
+    "en": "Powdery white sand with no pebbles",
+    "ro": "Nisip alb fin fără pietricele"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.3 - 2m (very gradual slope)",
+      "ro": "0.3 - 2m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear (visibility 8-10m)",
+      "ro": "Cristalin (vizibilitate 8-10m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Long beach walks",
+      "Premium beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Plimbări lungi pe plajă",
+      "Experiențe premium la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach yoga",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Stand-up paddle",
+      "Yoga pe plajă",
+      "Caiac"
+    ]
+  },
+  "occupancy": "70-80% (well-spaced)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "15-25 EUR (premium setups available)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$$",
+  "recommendationRating": 4.7,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Dream Coast Beach is a long, elegant stretch of fine white sand on Sithonia’s western coastline, known for its calm waters and clean, open layout.\n\nThe beach extends for around 1.2 km and features powdery sand with almost no pebbles, creating a very comfortable walking and lounging surface. The sea has a very gentle slope, remaining shallow for a considerable distance, which makes it particularly suitable for families and relaxed swimming.\n\nWater clarity is excellent, especially on calm days, with soft turquoise tones and very little disturbance due to the protected orientation of the bay.\n\nThe beach is partially organized, offering premium sunbeds and beach bar services, but still retains a spacious and airy feeling thanks to its length.\n\nDream Coast stands out as a refined, comfortable beach experience without losing the natural character typical of Sithonia.",
+    "ro": "Dream Coast este o plajă lungă și elegantă de pe coasta vestică a Sithoniei, cunoscută pentru nisipul alb fin și apele calme.\n\nPlaja se întinde pe aproximativ 1,2 km și are nisip foarte fin, aproape fără pietricele, oferind confort ridicat pentru mers și relaxare. Intrarea în apă este extrem de lină, iar apa rămâne puțin adâncă pe o distanță mare, fiind ideală pentru familii.\n\nApa este foarte limpede, mai ales în zilele calme, cu nuanțe turcoaz plăcute și fără valuri puternice datorită poziției protejate.\n\nPlaja este parțial amenajată, cu șezlonguri premium și beach baruri, dar păstrează senzația de spațiu larg și aerisit.\n\nDream Coast oferă o experiență confortabilă și rafinată, fără a pierde caracterul natural specific Sithoniei."
+  },
+  "blueFlag": false
+}

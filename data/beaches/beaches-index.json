@@ -2446,5 +2446,21 @@
     "rating": 4.2,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "dream-coast-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Dream Coast Beach",
+      "ro": "Plaja Dream Coast"
+    },
+    "previewImage": "dream-coast-beach.webp",
+    "coordinates": {
+      "lat": 40.1601317471841,
+      "lon": 23.895752117974826
+    },
+    "rating": 4.7,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
