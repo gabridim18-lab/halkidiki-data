@@ -2558,5 +2558,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "fava-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Fava Beach",
+      "ro": "Plaja Fava"
+    },
+    "previewImage": "fava-beach.webp",
+    "coordinates": {
+      "lat": 40.184927939408894,
+      "lon": 23.81933075815939
+    },
+    "rating": 4.6,
+    "waterTemperature": 23,
+    "suitableForChildren": false
   }
 ]
