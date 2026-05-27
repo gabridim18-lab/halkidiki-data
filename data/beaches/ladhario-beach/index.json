@@ -1,0 +1,138 @@
+{
+  "id": "ladhario-beach",
+  "slug": "ladhario-beach",
+  "name": {
+    "en": "Ladhario Beach",
+    "ro": "Plaja Ladhario"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Hidden wild adventure beach",
+    "ro": "Plajă sălbatică ascunsă pentru aventură"
+  },
+  "coordinates": {
+    "lat": 40.35069223542107,
+    "lon": 23.731083598576983
+  },
+  "editorChoice": true,
+  "length": 180,
+  "images": [
+    "ladhario-beach.webp",
+    "ladhario-beach1.webp",
+    "ladhario-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Challenging 20-minute hike",
+      "ro": "Drumeție dificilă de aproximativ 20 minute"
+    },
+    "parkingDifficulty": {
+      "en": "Difficult, no nearby organized parking",
+      "ro": "Dificilă, fără parcare organizată apropiată"
+    },
+    "noiseLevel": {
+      "en": "Extremely quiet and isolated",
+      "ro": "Extrem de liniștită și izolată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Remote, dramatic and adventurous",
+      "ro": "Retrasă, dramatică și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "White pebbles and coarse sand with sudden depth",
+      "ro": "Pietricele albe și nisip grosier cu adâncire rapidă"
+    },
+    "waveLevel": {
+      "en": "Usually calm in the morning, currents possible later",
+      "ro": "De obicei calmă dimineața, curenți posibili mai târziu"
+    }
+  },
+  "sand": {
+    "en": "White pebbles with coarse golden sand patches",
+    "ro": "Pietricele albe cu petice de nisip auriu grosier"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.6 - 4.2m (sudden drop after 1.5m)",
+      "ro": "0.6 - 4.2m (cădere bruscă după 1.5m)"
+    },
+    "clarity": {
+      "en": "Exceptional (visibility 15m+)",
+      "ro": "Excepțională (vizibilitate 15m+)"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September, preferably 9 AM - 1 PM",
+    "ro": "Iunie - Septembrie, ideal între 9:00 și 13:00"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Explorers",
+      "Snorkeling",
+      "Free diving",
+      "Photography"
+    ],
+    "ro": [
+      "Exploratori",
+      "Snorkeling",
+      "Apnee",
+      "Fotografie"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Free diving",
+      "Rock climbing",
+      "Photography"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Apnee",
+      "Cățărare pe stânci",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "20-40% (rarely crowded)",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": false
+  },
+  "servicePriceCategory": "$ (free)",
+  "recommendationRating": 4.7,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Ladhario Beach is a hidden gem in northern Sithonia, with dramatic rock formations and some of the clearest waters in Halkidiki. This undeveloped pebble beach rewards adventurous visitors with natural beauty and complete serenity.\n\nThe beach has around 180 meters of smooth white pebbles and coarse golden sand patches, surrounded by rugged rock formations and ancient olive trees. The water is exceptionally clear, with visibility that can exceed 15 meters in calm conditions.\n\nThe seabed drops suddenly after a short distance, creating deep, oxygen-rich waters with vibrant marine life, underwater caves and natural arches. This makes Ladhario excellent for snorkeling, free diving and underwater photography, but less suitable for children or inexperienced swimmers.\n\nThere are no facilities, no beach bars, no toilets and no trash cans, so visitors must bring all supplies and follow a strict leave-no-trace approach. Water shoes are strongly recommended because of sharp rocks and pebbles.\n\nAccess is challenging and requires around 20 minutes of hiking from the nearest parking area, including a steep dirt path with loose stones and a final rocky descent.\n\nLadhario is best visited in the morning, especially between 9 AM and 1 PM, when the sea is usually calmest. Afternoon winds can create stronger currents, so caution is important.\n\nThis is not a casual beach stop, but a wild adventure beach for explorers who value isolation, crystal-clear water and raw natural scenery.",
+    "ro": "Plaja Ladhario este o comoară ascunsă în nordul Sithoniei, cu formațiuni stâncoase dramatice și unele dintre cele mai clare ape din Halkidiki. Această plajă naturală cu pietricele răsplătește vizitatorii aventuroși cu frumusețe, liniște și peisaje spectaculoase.\n\nPlaja are aproximativ 180 m de pietricele albe netede și petice de nisip auriu grosier, fiind înconjurată de stânci și măslini vechi. Apa este excepțional de clară, cu vizibilitate care poate depăși 15 metri în zilele calme.\n\nFundul mării se adâncește brusc după o distanță scurtă, formând ape adânci, oxigenate, cu viață marină bogată, peșteri submarine și arcade naturale. Acest lucru face ca Ladhario să fie excelentă pentru snorkeling, apnee și fotografie subacvatică, dar mai puțin potrivită pentru copii sau înotători fără experiență.\n\nNu există facilități, beach baruri, toalete sau tomberoane, așa că vizitatorii trebuie să vină complet pregătiți și să respecte regula strictă de a nu lăsa urme. Pantofii de apă sunt recomandați din cauza pietrelor ascuțite.\n\nAccesul este dificil și presupune aproximativ 20 de minute de mers de la cea mai apropiată zonă de parcare, inclusiv o potecă abruptă cu pietriș instabil și o coborâre finală peste stânci.\n\nCel mai bine este să fie vizitată dimineața, în special între 9:00 și 13:00, când marea este de obicei mai calmă. După-amiaza pot apărea curenți mai puternici, deci este nevoie de atenție.\n\nLadhario nu este o oprire casual la plajă, ci o experiență sălbatică pentru exploratori care caută izolare, apă cristalină și natură autentică."
+  },
+  "blueFlag": false
+}

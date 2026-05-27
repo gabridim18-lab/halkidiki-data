@@ -2830,5 +2830,21 @@
     "rating": 4.6,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "ladhario-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Ladhario Beach",
+      "ro": "Plaja Ladhario"
+    },
+    "previewImage": "ladhario-beach.webp",
+    "coordinates": {
+      "lat": 40.35069223542107,
+      "lon": 23.731083598576983
+    },
+    "rating": 4.7,
+    "waterTemperature": 25,
+    "suitableForChildren": false
   }
 ]
