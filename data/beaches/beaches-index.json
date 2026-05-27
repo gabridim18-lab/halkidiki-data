@@ -2670,5 +2670,21 @@
     "rating": 4.2,
     "waterTemperature": 25,
     "suitableForChildren": false
+  },
+  {
+    "id": "private-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Private Beach",
+      "ro": "Private Beach"
+    },
+    "previewImage": "private-beach.webp",
+    "coordinates": {
+      "lat": 40.22842790645351,
+      "lon": 23.746573046469653
+    },
+    "rating": 4.9,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

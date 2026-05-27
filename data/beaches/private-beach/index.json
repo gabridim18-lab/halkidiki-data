@@ -1,0 +1,134 @@
+{
+  "id": "private-beach",
+  "slug": "private-beach",
+  "name": {
+    "en": "Private Beach",
+    "ro": "Private Beach"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Small private family-friendly beach",
+    "ro": "Plajă privată mică și potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.22842790645351,
+    "lon": 23.746573046469653
+  },
+  "editorChoice": true,
+  "length": 50,
+  "images": [
+    "private-beach.webp",
+    "private-beach1.webp",
+    "private-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Very easy access with short ramp",
+      "ro": "Acces foarte ușor cu rampă scurtă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy nearby parking",
+      "ro": "Parcare ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Moderate during peak hours",
+      "ro": "Moderată în orele de vârf"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Private, calm and scenic",
+      "ro": "Privată, calmă și pitorească"
+    },
+    "waterEntry": {
+      "en": "Soft sandy entry with shallow lagoon-like start",
+      "ro": "Intrare cu nisip fin și zonă puțin adâncă tip lagună"
+    },
+    "waveLevel": {
+      "en": "Very calm thanks to offshore islet protection",
+      "ro": "Foarte calmă datorită protecției oferite de insuliță"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with minimal pebbles",
+    "ro": "Nisip auriu fin cu pietricele minime"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 2m (gradual slope, sandy bottom)",
+      "ro": "0.3 - 2m (pantă treptată, fund nisipos)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "photography",
+      "family"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Priveliști superbe",
+      "Potrivită pentru familii"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Snorkeling",
+      "Paddleboarding"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Snorkeling",
+      "Paddleboarding"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "70-80% (moderately busy)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "Free",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.9,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Shielded by the small Kalogria islet just offshore, this private beach near Lagonisi offers about 50 meters of soft golden sand and crystal-clear water. The entry stays shallow for the first 20–30 meters, then deepens gradually to around 2 meters, making it comfortable for families and relaxed swimming.\n\nCalm conditions and the rocky edges near the islet also make it a great spot for snorkeling, with beautiful sunset views across the bay.\n\nDespite its small size, the beach feels comfortable and scenic, especially outside peak midday hours.\n\nA few organized amenities and free sunbeds provide convenience while still keeping the place visually natural and peaceful.\n\nThe protected location creates warmer and calmer water conditions compared to more exposed beaches nearby.",
+    "ro": "Adăpostită de insulița Kalogria, această plajă privată de lângă Lagonisi oferă aproximativ 50 m de nisip auriu fin și apă cristalină. Intrarea rămâne joasă pe primii 20–30 m, apoi se adâncește treptat până la ~2 m, fiind potrivită pentru familii și înot relaxat.\n\nApele calme și zonele stâncoase din apropierea insulei sunt ideale pentru snorkeling, iar apusurile sunt spectaculoase.\n\nDeși este mică, plaja oferă o atmosferă confortabilă și pitorească, mai ales în afara orelor aglomerate.\n\nCâteva facilități organizate și șezlongurile gratuite oferă confort fără a afecta aspectul natural și liniștit al zonei.\n\nPoziționarea protejată face ca apa să fie mai calmă și mai caldă decât pe plajele mai expuse din apropiere."
+  },
+  "blueFlag": false
+}
