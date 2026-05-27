@@ -2494,5 +2494,21 @@
     "rating": 4.5,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "porto-paradiso",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Porto Paradiso",
+      "ro": "Plaja Porto Paradiso"
+    },
+    "previewImage": "porto-paradiso.webp",
+    "coordinates": {
+      "lat": 40.16979017284677,
+      "lon": 23.869754932472492
+    },
+    "rating": 4.6,
+    "waterTemperature": 23,
+    "suitableForChildren": false
   }
 ]

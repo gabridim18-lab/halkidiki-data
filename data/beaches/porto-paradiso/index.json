@@ -1,0 +1,138 @@
+{
+  "id": "porto-paradiso",
+  "slug": "porto-paradiso",
+  "name": {
+    "en": "Porto Paradiso",
+    "ro": "Plaja Porto Paradiso"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Scenic deep-water bay beach",
+    "ro": "Plajă scenică într-un golf cu apă adâncă"
+  },
+  "coordinates": {
+    "lat": 40.16979017284677,
+    "lon": 23.869754932472492
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "porto-paradiso.webp",
+    "porto-paradiso1.webp",
+    "porto-paradiso2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short downhill access path",
+      "ro": "Acces scurt în coborâre"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during busy periods",
+      "ro": "Moderată în perioadele aglomerate"
+    },
+    "noiseLevel": {
+      "en": "Relaxed with controlled atmosphere",
+      "ro": "Relaxată, cu atmosferă controlată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Scenic, exclusive and naturally dramatic",
+      "ro": "Spectaculoasă, exclusivistă și naturală"
+    },
+    "waterEntry": {
+      "en": "Mixed coarse sand and pebbles with sudden depth increase",
+      "ro": "Nisip grunjos și pietricele cu adâncire rapidă"
+    },
+    "waveLevel": {
+      "en": "Usually calm with deeper water movement",
+      "ro": "De obicei calmă, cu mișcare specifică apei adânci"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand with smooth white pebbles",
+    "ro": "Nisip auriu grunjos cu pietricele albe netede"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.5 - 5m (sudden drop after ~3m)",
+      "ro": "0.5 - 5m (cădere bruscă după ~3m)"
+    },
+    "clarity": {
+      "en": "Deep sapphire blue (very clear)",
+      "ro": "Albastru safir profund (foarte clar)"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Confident swimmers",
+      "Couples",
+      "Snorkeling",
+      "Relaxation"
+    ],
+    "ro": [
+      "Înotători experimentați",
+      "Cupluri",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Cliff jumping",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Sărituri de pe stânci",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "50-65% (controlled feel)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "12-20 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$$",
+  "recommendationRating": 4.6,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Porto Paradiso is a secluded and scenic beach near Sarti, set in a dramatic bay surrounded by rocky hills and crystal-clear deep blue water.\n\nThe beach stretches around 400 meters and combines coarse golden sand with smooth white pebbles, creating a natural and slightly wild atmosphere.\n\nThe water becomes deep relatively quickly after a few meters, making it more suitable for confident swimmers rather than small children.\n\nThe setting is quieter and more exclusive compared to nearby busy beaches, with fewer crowds and a more relaxed vibe.\n\nA small organized section with sunbeds and a beach bar provides basic comfort while still preserving the natural feel of the location.",
+    "ro": "Porto Paradiso este o plajă retrasă și spectaculoasă lângă Sarti, situată într-un golf dramatic înconjurat de dealuri stâncoase și ape adânci de un albastru intens.\n\nPlaja are aproximativ 400 de metri și combină nisip auriu mai grosier cu pietricele albe netede, oferind o atmosferă naturală și ușor sălbatică.\n\nApa devine adâncă destul de rapid după câțiva metri, fiind mai potrivită pentru înotători experimentați decât pentru copii mici.\n\nZona este mai liniștită și mai exclusivă comparativ cu plajele aglomerate din apropiere, oferind o experiență relaxată.\n\nExistă o zonă amenajată limitată, cu șezlonguri și un beach bar, care oferă confort de bază fără a altera caracterul natural al plajei."
+  },
+  "blueFlag": false
+}
