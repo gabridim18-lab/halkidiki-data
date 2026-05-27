@@ -1,0 +1,136 @@
+{
+  "id": "livari-beach",
+  "slug": "livari-beach",
+  "name": {
+    "en": "Livari Beach",
+    "ro": "Plaja Livari"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Ultra-shallow lagoon family beach",
+    "ro": "Plajă tip lagună foarte puțin adâncă"
+  },
+  "coordinates": {
+    "lat": 40.20325686516913,
+    "lon": 23.76802562197916
+  },
+  "editorChoice": false,
+  "length": 350,
+  "images": [
+    "livari-beach.webp",
+    "livari-beach1.webp",
+    "livari-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy nearby",
+      "ro": "De obicei ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Calm and family-oriented",
+      "ro": "Liniștită și orientată spre familii"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Peaceful, warm and lagoon-like",
+      "ro": "Liniștită, caldă și tip lagună"
+    },
+    "waterEntry": {
+      "en": "Extremely shallow sandy lagoon entry",
+      "ro": "Intrare foarte puțin adâncă tip lagună"
+    },
+    "waveLevel": {
+      "en": "Almost always flat and calm",
+      "ro": "Aproape mereu calmă și fără valuri"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.1 - 1.2m (extremely shallow lagoon)",
+      "ro": "0.1 - 1.2m (lagună foarte puțin adâncă)"
+    },
+    "clarity": {
+      "en": "Clear light turquoise",
+      "ro": "Turcoaz deschis limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Children",
+      "Relaxation",
+      "Warm shallow water"
+    ],
+    "ro": [
+      "Familii",
+      "Copii",
+      "Relaxare",
+      "Apă caldă și puțin adâncă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Relaxing",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Relaxare",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": "40-60% (calm atmosphere)",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free",
+  "recommendationRating": 4.4,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Livari Beach is a calm lagoon-style beach near Vourvourou, known for its extremely shallow and warm water.\n\nThe seabed is sandy and very flat, making it one of the safest beaches in Sithonia, especially for families with children.\n\nThe water is usually warmer than other beaches due to its shallow depth and protected location.\n\nThere are no organized facilities, which keeps the atmosphere quiet and natural.\n\nIt is ideal for relaxing, short visits, and easy swimming rather than snorkeling or water sports.",
+    "ro": "Plaja Livari este o plajă tip lagună lângă Vourvourou, cunoscută pentru apa foarte puțin adâncă și caldă.\n\nFundul mării este nisipos și foarte plat, fiind una dintre cele mai sigure plaje din Sithonia, mai ales pentru copii.\n\nApa este de obicei mai caldă decât în alte zone datorită adâncimii mici.\n\nNu există facilități, ceea ce păstrează atmosfera liniștită și naturală.\n\nEste ideală pentru relaxare și înot ușor, nu pentru snorkeling sau sporturi nautice."
+  },
+  "blueFlag": false
+}

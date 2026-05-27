@@ -2622,5 +2622,21 @@
     "rating": 4.5,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "livari-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Livari Beach",
+      "ro": "Plaja Livari"
+    },
+    "previewImage": "livari-beach.webp",
+    "coordinates": {
+      "lat": 40.20325686516913,
+      "lon": 23.76802562197916
+    },
+    "rating": 4.4,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
