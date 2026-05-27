@@ -2846,5 +2846,21 @@
     "rating": 4.7,
     "waterTemperature": 25,
     "suitableForChildren": false
+  },
+  {
+    "id": "paralia-pirgos",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Paralia Pirgos",
+      "ro": "Plaja Paralia Pirgos"
+    },
+    "previewImage": "paralia-pirgos.webp",
+    "coordinates": {
+      "lat": 40.349557175001586,
+      "lon": 23.799310351959623
+    },
+    "rating": 4.3,
+    "waterTemperature": 23,
+    "suitableForChildren": false
   }
 ]

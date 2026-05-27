@@ -1,0 +1,136 @@
+{
+  "id": "paralia-pirgos",
+  "slug": "paralia-pirgos",
+  "name": {
+    "en": "Paralia Pirgos",
+    "ro": "Plaja Paralia Pirgos"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Long quiet deep-water beach",
+    "ro": "Plajă lungă și liniștită cu apă adâncă"
+  },
+  "coordinates": {
+    "lat": 40.349557175001586,
+    "lon": 23.799310351959623
+  },
+  "editorChoice": false,
+  "length": 3300,
+  "images": [
+    "paralia-pirgos.webp",
+    "paralia-pirgos1.webp",
+    "paralia-pirgos2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy roadside access",
+      "ro": "Acces ușor direct din drum"
+    },
+    "parkingDifficulty": {
+      "en": "Easy roadside parking",
+      "ro": "Parcare ușoară la marginea drumului"
+    },
+    "noiseLevel": {
+      "en": "Quiet and low-key",
+      "ro": "Liniștită și discretă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed, spacious and natural",
+      "ro": "Relaxată, spațioasă și naturală"
+    },
+    "waterEntry": {
+      "en": "Mixed sand-pebble entry with sudden depth increase",
+      "ro": "Intrare mixtă nisip-pietricele cu adâncire rapidă"
+    },
+    "waveLevel": {
+      "en": "Usually calm with deeper water close to shore",
+      "ro": "De obicei calmă, cu apă adâncă aproape de mal"
+    }
+  },
+  "sand": {
+    "en": "Mixed golden sand and small pebbles",
+    "ro": "Nisip auriu mixt cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "Sharp drop-off from shallow to deep",
+      "ro": "Cădere abruptă de la mic la mare"
+    },
+    "clarity": {
+      "en": "Crystal-clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Relaxation",
+      "Snorkeling",
+      "Experienced swimmers",
+      "Quiet beach days"
+    ],
+    "ro": [
+      "Relaxare",
+      "Snorkeling",
+      "Înotători experimentați",
+      "Zile liniștite la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "30-50% (low to moderate)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€5–10",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$ (budget)",
+  "recommendationRating": 4.3,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Paralia Pirgos is a secluded beach with a mixed sand-and-pebble shoreline stretching approximately 3.3 km. The water is crystal-clear and deepens quickly only a few meters from the shore, making it more suitable for confident swimmers than for small children.\n\nThe beach combines golden sand with small smooth pebbles and offers a calm, spacious atmosphere that rarely feels crowded even during summer. Rocky patches along the coastline create interesting spots for snorkeling and underwater exploration.\n\nFacilities are basic but practical, including changing cabins, deckchairs and umbrellas. There are no beach bars directly on the beach, while the nearest restaurants and tavernas are located around 1.6 km away.\n\nAccess is easy thanks to roadside parking and a short walking distance from Pyrgos Chiliadous. The beach is popular among visitors looking for peace, open space and a more natural atmosphere compared to heavily organized tourist beaches.\n\nWater shoes are recommended because of the pebble sections and rocky areas. Since on-site options are limited, bringing snacks, water and some cash is advised.\n\nParalia Pirgos is best suited for travelers who enjoy quiet beaches, deep clear water and long uninterrupted coastal scenery.",
+    "ro": "Paralia Pirgos este o plajă retrasă cu un țărm mixt de nisip și pietricele care se întinde pe aproximativ 3,3 km. Apa este cristalină și se adâncește rapid la doar câțiva metri de mal, fiind mai potrivită pentru înotători experimentați decât pentru copii mici.\n\nPlaja combină nisipul auriu cu pietricele netede și oferă o atmosferă calmă și spațioasă, fără să devină aglomerată nici în sezonul de vară. Zonele stâncoase de pe margini creează condiții bune pentru snorkeling și explorare subacvatică.\n\nFacilitățile sunt simple dar utile, incluzând cabine de schimb, șezlonguri și umbrele. Nu există beach baruri direct pe plajă, iar cele mai apropiate restaurante și taverne sunt la aproximativ 1,6 km distanță.\n\nAccesul este ușor datorită parcării de la marginea drumului și distanței mici de mers din Pyrgos Chiliadous. Plaja este preferată de cei care caută liniște, spațiu și o atmosferă mai naturală comparativ cu plajele turistice foarte organizate.\n\nPantofii de apă sunt recomandați din cauza pietricelelor și zonelor stâncoase. Deoarece opțiunile de pe plajă sunt limitate, este recomandat să aduceți apă, gustări și numerar.\n\nParalia Pirgos este ideală pentru cei care preferă plajele liniștite, apa adâncă și peisajele lungi și naturale."
+  },
+  "blueFlag": false
+}
