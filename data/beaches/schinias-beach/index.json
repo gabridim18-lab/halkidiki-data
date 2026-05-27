@@ -1,0 +1,138 @@
+{
+  "id": "schinias-beach",
+  "slug": "schinias-beach",
+  "name": {
+    "en": "Schinias Beach",
+    "ro": "Plaja Schinias"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Large family beach with water sports",
+    "ro": "Plajă mare pentru familii și sporturi nautice"
+  },
+  "coordinates": {
+    "lat": 40.26469541339296,
+    "lon": 23.70566618749614
+  },
+  "editorChoice": true,
+  "length": 1200,
+  "images": [
+    "schinias-beach.webp",
+    "schinias-beach1.webp",
+    "schinias-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during busy weekends",
+      "ro": "Moderată în weekendurile aglomerate"
+    },
+    "noiseLevel": {
+      "en": "Mixed atmosphere from relaxed to lively",
+      "ro": "Atmosferă mixtă, de la relaxată la animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Spacious, versatile and energetic",
+      "ro": "Spațioasă, variată și energică"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry with shallow zones",
+      "ro": "Intrare foarte lină cu nisip și zone puțin adânci"
+    },
+    "waveLevel": {
+      "en": "Usually calm mornings with windier afternoons",
+      "ro": "Dimineți calme și după-amiezi mai vântoase"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with occasional shells",
+    "ro": "Nisip auriu fin cu scoici ocazionale"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 2.2m (very gradual slope)",
+      "ro": "0.3 - 2.2m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear (visibility 6-8m)",
+      "ro": "Cristalin (vizibilitate 6-8 m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "family",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Water sports",
+      "Long beach days",
+      "Beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Sporturi nautice",
+      "Zile lungi la plajă",
+      "Plimbări pe mal"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Windsurfing",
+      "Kitesurfing",
+      "Beach volleyball"
+    ],
+    "ro": [
+      "Înot",
+      "Windsurfing",
+      "Kitesurfing",
+      "Volei pe plajă"
+    ]
+  },
+  "occupancy": "70-85% (popular but spacious)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€8-15 (variază după zonă)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$ (moderate)",
+  "recommendationRating": 4.6,
+  "badge": "Perfect for Groups",
+  "videos": [],
+  "description": {
+    "en": "Schinias Beach is a long and popular beach known for its wide sandy shore and good conditions for both relaxation and water sports.\n\nThe beach features fine golden sand and a very gentle entry into the water, making it suitable for families and comfortable swimming.\n\nThanks to its length, it offers both lively areas with beach bars and quieter sections for those seeking more privacy.\n\nSchinias Beach is a great choice for visitors looking for space, clear water, and the option to enjoy both calm and active beach experiences.\n\nThe combination of shallow water, open space and steady afternoon wind also makes it one of the more versatile beaches in northern Sithonia.",
+    "ro": "Plaja Schinias este o plajă lungă și populară, cunoscută pentru întinderea mare de nisip și condițiile bune atât pentru relaxare, cât și pentru sporturi nautice.\n\nPlaja are nisip auriu fin și o intrare foarte lină în apă, fiind potrivită pentru familii și înot confortabil.\n\nDatorită lungimii, oferă atât zone animate cu beach baruri, cât și zone mai liniștite pentru cei care caută relaxare.\n\nPlaja Schinias este o alegere foarte bună pentru cei care caută spațiu, apă limpede și combinație între relaxare și activitate.\n\nCombinația dintre apa puțin adâncă, spațiul generos și vântul constant din timpul după-amiezii o transformă într-una dintre cele mai versatile plaje din nordul Sithoniei."
+  },
+  "blueFlag": false
+}

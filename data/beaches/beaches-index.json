@@ -2766,5 +2766,21 @@
     "rating": 4.4,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "schinias-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Schinias Beach",
+      "ro": "Plaja Schinias"
+    },
+    "previewImage": "schinias-beach.webp",
+    "coordinates": {
+      "lat": 40.26469541339296,
+      "lon": 23.70566618749614
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
