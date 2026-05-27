@@ -2638,5 +2638,21 @@
     "rating": 4.4,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "karagatsi-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Karagatsi Beach",
+      "ro": "Plaja Karagatsi"
+    },
+    "previewImage": "karagatsi-beach.webp",
+    "coordinates": {
+      "lat": 40.22251911164567,
+      "lon": 23.760768851389372
+    },
+    "rating": 4.6,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]

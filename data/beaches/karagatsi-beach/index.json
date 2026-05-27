@@ -1,0 +1,136 @@
+{
+  "id": "karagatsi-beach",
+  "slug": "karagatsi-beach",
+  "name": {
+    "en": "Karagatsi Beach",
+    "ro": "Plaja Karagatsi"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Semi-organized turquoise bay beach",
+    "ro": "Golf turcoaz semi-organizat"
+  },
+  "coordinates": {
+    "lat": 40.22251911164567,
+    "lon": 23.760768851389372
+  },
+  "editorChoice": false,
+  "length": 250,
+  "images": [
+    "karagatsi-beach.webp",
+    "karagatsi-beach1.webp",
+    "karagatsi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Relaxed with moderate activity",
+      "ro": "Relaxată cu activitate moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Balanced, scenic and comfortable",
+      "ro": "Echilibrată, spectaculoasă și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Fine sand and pebbles with moderate slope",
+      "ro": "Nisip fin și pietricele cu pantă moderată"
+    },
+    "waveLevel": {
+      "en": "Usually calm and clear",
+      "ro": "De obicei calmă și limpede"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with some pebbles",
+    "ro": "Nisip auriu fin cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 3m (moderate slope)",
+      "ro": "0.4 - 3m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "relax"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Snorkeling",
+      "Couples"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Snorkeling",
+      "Cupluri"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Relaxing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "occupancy": "50-70% (can get busy)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "6-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Karagatsi Beach is a small and beautiful bay near Vourvourou, known for its clear turquoise water and relaxed atmosphere.\n\nThe beach combines fine sand with small pebbles, and the water becomes gradually deeper, making it suitable for both families and casual swimmers.\n\nThe cove is partly organized, with a beach bar and sunbeds, while still keeping a natural and peaceful feel.\n\nRocky edges on both sides create good conditions for light snorkeling.\n\nIt is a balanced choice between comfort and natural scenery, without being overly crowded.",
+    "ro": "Plaja Karagatsi este un golf mic și frumos lângă Vourvourou, cunoscut pentru apa turcoaz limpede și atmosfera relaxată.\n\nPlaja combină nisipul fin cu pietricele, iar apa se adâncește treptat, fiind potrivită atât pentru familii, cât și pentru înotători.\n\nEste parțial amenajată, cu beach bar și șezlonguri, dar păstrează un aer natural și liniștit.\n\nMarginile stâncoase oferă condiții bune pentru snorkeling ușor.\n\nEste o alegere echilibrată între confort și natură, fără a fi extrem de aglomerată."
+  },
+  "blueFlag": false
+}
