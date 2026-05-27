@@ -1,0 +1,136 @@
+{
+  "id": "trani-ammouda",
+  "slug": "trani-ammouda",
+  "name": {
+    "en": "Trani Ammouda",
+    "ro": "Plaja Trani Ammouda"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Large organized sandy family beach",
+    "ro": "Plajă mare organizată cu nisip fin pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.244131390455266,
+    "lon": 23.724115380977928
+  },
+  "editorChoice": true,
+  "length": 2000,
+  "images": [
+    "trani-ammouda.webp",
+    "trani-ammouda1.webp",
+    "trani-ammouda2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy and direct access",
+      "ro": "Acces direct și foarte ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable due to large area",
+      "ro": "De obicei accesibilă datorită spațiului mare"
+    },
+    "noiseLevel": {
+      "en": "Lively but spacious",
+      "ro": "Animată dar spațioasă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Spacious, clean and family-friendly",
+      "ro": "Spațioasă, curată și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Soft sandy entry with gradual slope",
+      "ro": "Intrare lină cu nisip fin și pantă graduală"
+    },
+    "waveLevel": {
+      "en": "Usually calm to light waves",
+      "ro": "De obicei calmă sau cu valuri ușoare"
+    }
+  },
+  "sand": {
+    "en": "Soft golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.5 - 2.5m (gradual slope)",
+      "ro": "0.5 - 2.5m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "family",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Swimming",
+      "Water sports",
+      "Long beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Înot",
+      "Sporturi nautice",
+      "Plimbări lungi"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Water sports"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Sporturi nautice"
+    ]
+  },
+  "occupancy": "70-80% (busy but spacious)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€10-15 per set",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$ (moderate)",
+  "recommendationRating": 4.5,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Trani Ammouda Beach is a long and spacious beach located near Ormos Panagias, known for its wide sandy shore and very clear water.\n\nThe beach features soft golden sand and a gently sloping seabed, making it very suitable for families, children, and relaxed swimming.\n\nDue to its large size, it rarely feels overcrowded even in peak season, offering both organized and free areas.\n\nTrani Ammouda is a great choice for visitors looking for space, clean water, and a balanced mix of relaxation and activities.\n\nThe combination of easy access, excellent swimming conditions and long open coastline makes it one of the most practical beaches in northern Sithonia.",
+    "ro": "Plaja Trani Ammouda este o plajă lungă și spațioasă situată lângă Ormos Panagias, cunoscută pentru întinderea mare de nisip și apa foarte limpede.\n\nPlaja are nisip auriu fin și o intrare lină în apă, fiind ideală pentru familii, copii și înot relaxat.\n\nDatorită dimensiunii mari, nu se simte aglomerată nici în sezonul de vârf, oferind atât zone amenajate, cât și zone libere.\n\nTrani Ammouda este o alegere excelentă pentru cei care caută spațiu, apă curată și o combinație între relaxare și activități.\n\nCombinația dintre accesul facil, condițiile excelente pentru înot și linia lungă de coastă o transformă într-una dintre cele mai practice plaje din nordul Sithoniei."
+  },
+  "blueFlag": true
+}

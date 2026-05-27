@@ -2734,5 +2734,21 @@
     "rating": 4.5,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "trani-ammouda",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Trani Ammouda",
+      "ro": "Plaja Trani Ammouda"
+    },
+    "previewImage": "trani-ammouda.webp",
+    "coordinates": {
+      "lat": 40.244131390455266,
+      "lon": 23.724115380977928
+    },
+    "rating": 4.5,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
