@@ -2718,5 +2718,21 @@
     "rating": 4.7,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "livrohio-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Livrohio Beach",
+      "ro": "Plaja Livrohio"
+    },
+    "previewImage": "livrohio-beach.webp",
+    "coordinates": {
+      "lat": 40.23873887421211,
+      "lon": 23.72850846645895
+    },
+    "rating": 4.5,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

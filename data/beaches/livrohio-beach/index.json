@@ -1,0 +1,138 @@
+{
+  "id": "livrohio-beach",
+  "slug": "livrohio-beach",
+  "name": {
+    "en": "Livrohio Beach",
+    "ro": "Plaja Livrohio"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Relaxed sandy beach with clear water",
+    "ro": "Plajă relaxată cu nisip fin și apă limpede"
+  },
+  "coordinates": {
+    "lat": 40.23873887421211,
+    "lon": 23.72850846645895
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "livrohio-beach.webp",
+    "livrohio-beach1.webp",
+    "livrohio-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy nearby",
+      "ro": "De obicei ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Quiet and balanced",
+      "ro": "Liniștită și echilibrată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed, clean and naturally comfortable",
+      "ro": "Relaxată, curată și confortabilă natural"
+    },
+    "waterEntry": {
+      "en": "Gradual sandy entry with some rocky patches",
+      "ro": "Intrare graduală cu nisip și unele zone stâncoase"
+    },
+    "waveLevel": {
+      "en": "Usually calm with stable water",
+      "ro": "De obicei calmă și stabilă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with smooth white pebbles",
+    "ro": "Nisip auriu fin cu pietricele albe netede"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 3m (gradual slope with rocky patches)",
+      "ro": "0.3 - 3m (pantă graduală cu zone stâncoase)"
+    },
+    "clarity": {
+      "en": "Crystal clear (visibility 8-10m)",
+      "ro": "Cristalin (vizibilitate 8-10 m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "relax",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Swimming",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Înot",
+      "Snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Sunbathing",
+      "Beachcombing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Stat la soare",
+      "Căutare de scoici"
+    ]
+  },
+  "occupancy": "40-60% (never crowded)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-8 EUR (basic setup)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$ (affordable)",
+  "recommendationRating": 4.5,
+  "badge": "Escape & Relax",
+  "videos": [],
+  "description": {
+    "en": "Livrohio Beach is a quiet and well-balanced beach known for its clear water and relaxed atmosphere.\n\nThe beach features fine golden sand mixed with smooth pebbles, while the sea has a gentle slope with some rocky areas, making it suitable for both swimming and light snorkeling.\n\nThe surrounding area offers natural shade and a peaceful setting, without feeling isolated or difficult to access.\n\nLivrohio Beach is a great choice for visitors looking for a calm, clean, and comfortable beach experience.\n\nThe beach remains pleasantly relaxed even during busier summer periods, offering a more peaceful alternative to crowded tourist hotspots.",
+    "ro": "Plaja Livrohio este o plajă liniștită și echilibrată, cunoscută pentru apa limpede și atmosfera relaxată.\n\nPlaja are nisip auriu fin combinat cu pietricele netede, iar intrarea în apă este graduală, cu unele zone stâncoase, fiind potrivită atât pentru înot cât și pentru snorkeling ușor.\n\nZona din jur oferă umbră naturală și un cadru liniștit, fără să fie izolată sau greu accesibilă.\n\nPlaja Livrohio este o alegere foarte bună pentru cei care caută relaxare, apă curată și confort.\n\nChiar și în perioadele mai aglomerate de vară, plaja păstrează o atmosferă calmă și mai relaxată decât multe zone turistice populare."
+  },
+  "blueFlag": false
+}
