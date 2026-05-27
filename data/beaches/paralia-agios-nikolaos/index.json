@@ -1,0 +1,138 @@
+{
+  "id": "paralia-agios-nikolaos",
+  "slug": "paralia-agios-nikolaos",
+  "name": {
+    "en": "Paralia Agios Nikolaos",
+    "ro": "Plaja Agios Nikolaos"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Organized accessible family beach",
+    "ro": "Plajă organizată și accesibilă pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.26008752208622,
+    "lon": 23.70675620958333
+  },
+  "editorChoice": false,
+  "length": 350,
+  "images": [
+    "paralia-agios-nikolaos.webp",
+    "paralia-agios-nikolaos1.webp",
+    "paralia-agios-nikolaos2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Very easy direct access",
+      "ro": "Acces foarte ușor și direct"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable nearby",
+      "ro": "De obicei accesibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively but comfortable",
+      "ro": "Moderat animată dar confortabilă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Comfortable, organized and relaxed",
+      "ro": "Confortabilă, organizată și relaxată"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry ideal for easy swimming",
+      "ro": "Intrare lină cu nisip fin ideală pentru înot relaxat"
+    },
+    "waveLevel": {
+      "en": "Usually calm and family-friendly",
+      "ro": "De obicei calmă și potrivită pentru familii"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with occasional small pebbles",
+    "ro": "Nisip auriu fin cu pietricele ocazionale"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 2.8m (gradual slope)",
+      "ro": "0.4 - 2.8m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Azure blue (visibility 5-7m)",
+      "ro": "Albastru azuriu (vizibilitate 5-7 m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "family",
+      "Hidden gem",
+      "relax"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Swimming",
+      "Water sports",
+      "Comfortable beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Înot",
+      "Sporturi nautice",
+      "Zile confortabile la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Water sports",
+      "Beach games",
+      "Boat trips"
+    ],
+    "ro": [
+      "Înot",
+      "Sporturi nautice",
+      "Jocuri pe plajă",
+      "Excursii cu barca"
+    ]
+  },
+  "occupancy": "60-75% (comfortable spacing)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€7-12 (include umbrelă)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$ (moderate)",
+  "recommendationRating": 4.4,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Paralia Agios Nikolaos is a well-organized beach located near the traditional village of Agios Nikolaos, known for its calm waters and easy access.\n\nThe beach features fine golden sand with a gentle slope into the sea, making it suitable for families and relaxed swimming.\n\nIt offers a balanced mix of natural scenery and facilities, including beach bars and water sports options, without feeling overcrowded.\n\nParalia Agios Nikolaos is a good choice for visitors looking for comfort, accessibility, and a pleasant beach atmosphere.\n\nIts location near the village also makes it convenient for combining beach time with tavernas, cafés and local sightseeing.",
+    "ro": "Plaja Agios Nikolaos este o plajă bine organizată situată lângă satul tradițional cu același nume, cunoscută pentru apele calme și accesul facil.\n\nPlaja are nisip auriu fin și o intrare lină în apă, fiind potrivită pentru familii și pentru înot relaxat.\n\nOferă un echilibru între peisaj natural și facilități, inclusiv beach baruri și opțiuni de sporturi nautice, fără să fie excesiv de aglomerată.\n\nPlaja Agios Nikolaos este o alegere bună pentru cei care caută confort, accesibilitate și o atmosferă plăcută.\n\nPoziționarea aproape de sat permite combinarea timpului petrecut la plajă cu restaurante, cafenele și plimbări locale."
+  },
+  "blueFlag": false
+}
