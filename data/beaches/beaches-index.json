@@ -2430,5 +2430,21 @@
     "rating": 4.6,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-armenistis",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Paralia Armenistis",
+      "ro": "Plaja Armenistis"
+    },
+    "previewImage": "paralia-armenistis.webp",
+    "coordinates": {
+      "lat": 40.1545435859105,
+      "lon": 23.916100575287125
+    },
+    "rating": 4.2,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

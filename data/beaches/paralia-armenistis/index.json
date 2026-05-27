@@ -1,0 +1,136 @@
+{
+  "id": "paralia-armenistis",
+  "slug": "paralia-armenistis",
+  "name": {
+    "en": "Paralia Armenistis",
+    "ro": "Plaja Armenistis"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Balanced pine-surrounded beach",
+    "ro": "Plajă echilibrată înconjurată de pini"
+  },
+  "coordinates": {
+    "lat": 40.1545435859105,
+    "lon": 23.916100575287125
+  },
+  "editorChoice": false,
+  "length": 180,
+  "images": [
+    "paralia-armenistis.webp",
+    "paralia-armenistis1.webp",
+    "paralia-armenistis2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy short access from parking",
+      "ro": "Acces scurt și ușor de la parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy with nearby parking",
+      "ro": "De obicei ușoară, cu parcare apropiată"
+    },
+    "noiseLevel": {
+      "en": "Relaxed with moderate activity",
+      "ro": "Relaxată, cu activitate moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Balanced, natural and comfortable",
+      "ro": "Echilibrată, naturală și confortabilă"
+    },
+    "waterEntry": {
+      "en": "Fine sand entry with moderate-to-steep depth increase",
+      "ro": "Intrare cu nisip fin și adâncire moderată spre abruptă"
+    },
+    "waveLevel": {
+      "en": "Usually calm with clear stable water",
+      "ro": "De obicei calmă, cu apă limpede și stabilă"
+    }
+  },
+  "sand": {
+    "en": "Golden fine sand with some pebbles",
+    "ro": "Nisip fin auriu cu unele pietricele"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.5 - 3.0m (moderate to steep slope)",
+      "ro": "0.5 - 3.0m (pantă moderată spre abruptă)"
+    },
+    "clarity": {
+      "en": "Crystal clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "relax"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Swimming",
+      "Snorkeling",
+      "Relaxation"
+    ],
+    "ro": [
+      "Familii",
+      "Înot",
+      "Snorkeling",
+      "Relaxare"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "40-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "10-15 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.2,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Paralia Armenistis is a compact yet highly balanced beach on Sithonia’s west coast, surrounded by dense pine forest that reaches almost to the shoreline.\n\nThe beach features fine golden sand mixed with small pebbles and crystal-clear turquoise water. The entry is gentle at first, becoming deeper after around 15–20 meters, making it suitable for both relaxed swimmers and those who prefer deeper water.\n\nWater clarity is excellent, often offering very good visibility, especially in calm conditions. The surrounding pine trees create a cooler atmosphere and occasional natural shade.\n\nArmenistis stands out for its balance between organization and natural beauty, offering comfort without losing the authentic feel of Sithonia.",
+    "ro": "Paralia Armenistis este o plajă compactă dar foarte echilibrată pe coasta vestică a Sithoniei, înconjurată de păduri dense de pini care ajung aproape până la mal.\n\nPlaja are nisip fin auriu, cu pietricele mici, și ape turcoaz cristaline. Intrarea este lină la început, dar după aproximativ 15–20 m adâncimea crește, fiind potrivită atât pentru înot relaxat, cât și pentru cei care preferă apă mai adâncă.\n\nApa este foarte limpede, cu vizibilitate excelentă în zilele calme. Pinii din jur oferă o atmosferă mai răcoroasă și zone naturale de umbră.\n\nArmenistis se remarcă prin echilibrul dintre facilități și natură, oferind confort fără a pierde autenticitatea specifică Sithoniei."
+  },
+  "blueFlag": false
+}
