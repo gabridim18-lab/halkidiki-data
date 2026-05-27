@@ -2366,5 +2366,21 @@
     "rating": 4.9,
     "waterTemperature": 24,
     "suitableForChildren": false
+  },
+  {
+    "id": "platanitsi-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Platanitsi Beach",
+      "ro": "Plaja Platanitsi"
+    },
+    "previewImage": "platanitsi-beach.webp",
+    "coordinates": {
+      "lat": 40.11676993167583,
+      "lon": 23.98054797616733
+    },
+    "rating": 4.7,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

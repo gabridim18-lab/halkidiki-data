@@ -1,0 +1,136 @@
+{
+  "id": "platanitsi-beach",
+  "slug": "platanitsi-beach",
+  "name": {
+    "en": "Platanitsi Beach",
+    "ro": "Plaja Platanitsi"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Protected turquoise bay beach",
+    "ro": "Plajă într-un golf protejat cu apă turcoaz"
+  },
+  "coordinates": {
+    "lat": 40.11676993167583,
+    "lon": 23.98054797616733
+  },
+  "editorChoice": true,
+  "length": 350,
+  "images": [
+    "platanitsi-beach.webp",
+    "platanitsi-beach1.webp",
+    "platanitsi-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy outside peak hours",
+      "ro": "De obicei ușoară în afara orelor de vârf"
+    },
+    "noiseLevel": {
+      "en": "Relaxed with moderate activity",
+      "ro": "Relaxată, cu activitate moderată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Balanced, scenic and family-friendly",
+      "ro": "Echilibrată, spectaculoasă și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Soft white sand with moderate slope",
+      "ro": "Nisip alb fin cu pantă moderată"
+    },
+    "waveLevel": {
+      "en": "Usually calm due to protected bay",
+      "ro": "De obicei calmă datorită golfului protejat"
+    }
+  },
+  "sand": {
+    "en": "Soft white sand with occasional seashells",
+    "ro": "Nisip alb fin cu scoici sporadice"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 3.0m (moderate slope)",
+      "ro": "0.3 - 3.0m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Snorkeling",
+      "Swimming"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Snorkeling",
+      "Înot"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": "50-65%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "5-10 EUR",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.7,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Platanitsi Beach is one of those rare places in Sithonia that combines natural beauty with just enough comfort to make it accessible without losing its charm. Located in a protected bay, the beach stretches for about 350 meters and offers soft white sand mixed with occasional seashells, giving it a slightly exotic feel compared to typical golden beaches in the region.\n\nThe water is exceptionally clear and calm, especially in the morning. The seabed has a moderate slope, starting shallow and gradually becoming deeper, which makes it suitable for both families and confident swimmers. The sandy bottom is dominant, but small rocky sections near the edges create excellent conditions for snorkeling.\n\nOne of the strongest points of Platanitsi is the color of the water — a bright turquoise that becomes deeper blue further out, especially on sunny days when visibility is at its best.\n\nThe beach is partially organized, with a few sunbed areas and small beach bars, but large sections remain free, allowing visitors to choose between comfort and a more natural setup.\n\nSurrounded by pine-covered hills, the setting feels protected and quiet, even during busier periods. The beach never feels overcrowded due to its layout and spacing.\n\nIt is a very well-balanced beach — easy to access, visually beautiful, and relaxed without being too isolated.\n\nA strong all-around choice for most types of travelers.",
+    "ro": "Plaja Platanitsi este unul dintre acele locuri din Sithonia care reușesc să combine natura cu un minim de confort, fără să-și piardă farmecul. Situată într-un golf protejat, plaja are aproximativ 350 m și oferă nisip alb fin, cu scoici sporadice, ceea ce îi dă un aspect diferit față de plajele clasice din zonă.\n\nApa este extrem de limpede și calmă, mai ales dimineața. Fundul mării are o pantă moderată, începând puțin adânc și adâncindu-se treptat, ceea ce o face potrivită atât pentru familii, cât și pentru înotători mai experimentați. Nisipul predomină, dar zonele stâncoase de la margini sunt excelente pentru snorkeling.\n\nUnul dintre cele mai puternice atuuri este culoarea apei — un turcoaz intens care devine albastru mai profund spre larg, mai ales în zilele însorite.\n\nPlaja este parțial organizată, cu câteva zone de șezlonguri și beach bar-uri, dar există și suficiente spații libere pentru cei care preferă varianta naturală.\n\nÎnconjurată de dealuri cu pini, atmosfera rămâne liniștită chiar și în perioadele mai aglomerate. Datorită modului în care este așezată, nu dă senzația de aglomerație.\n\nEste o plajă echilibrată — accesibilă, frumoasă și relaxantă.\n\nO alegere foarte bună pentru majoritatea turiștilor."
+  },
+  "blueFlag": false
+}
