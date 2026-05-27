@@ -2782,5 +2782,21 @@
     "rating": 4.6,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "salonikiou-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Salonikiou Beach",
+      "ro": "Plaja Salonikiou"
+    },
+    "previewImage": "salonikiou-beach.webp",
+    "coordinates": {
+      "lat": 40.293223036357155,
+      "lon": 23.695190523779765
+    },
+    "rating": 4.8,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

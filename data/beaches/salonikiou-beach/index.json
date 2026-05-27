@@ -1,0 +1,136 @@
+{
+  "id": "salonikiou-beach",
+  "slug": "salonikiou-beach",
+  "name": {
+    "en": "Salonikiou Beach",
+    "ro": "Plaja Salonikiou"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Quiet natural emerald-water beach",
+    "ro": "Plajă naturală liniștită cu apă verde smarald"
+  },
+  "coordinates": {
+    "lat": 40.293223036357155,
+    "lon": 23.695190523779765
+  },
+  "editorChoice": true,
+  "length": 400,
+  "images": [
+    "salonikiou-beach.webp",
+    "salonikiou-beach1.webp",
+    "salonikiou-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short natural access path",
+      "ro": "Acces natural scurt"
+    },
+    "parkingDifficulty": {
+      "en": "Usually easy nearby",
+      "ro": "De obicei ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet and peaceful",
+      "ro": "Foarte liniștită și calmă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild, peaceful and authentic",
+      "ro": "Sălbatică, liniștită și autentică"
+    },
+    "waterEntry": {
+      "en": "Moderate sandy-pebble entry",
+      "ro": "Intrare moderată cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm with light movement",
+      "ro": "De obicei calmă cu mișcare ușoară"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with smooth pebbles",
+    "ro": "Nisip alb fin cu pietricele netede"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.5 - 2.2m (moderate slope)",
+      "ro": "0.5 - 2.2m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Transparent emerald green",
+      "ro": "Verde smarald transparent"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Relaxation",
+      "Snorkeling",
+      "Photography",
+      "Nature lovers"
+    ],
+    "ro": [
+      "Relaxare",
+      "Snorkeling",
+      "Fotografie",
+      "Iubitori de natură"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Sunbathing",
+      "Photography"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Plajă și bronz",
+      "Fotografie"
+    ]
+  },
+  "occupancy": "20-40% (tranquil atmosphere)",
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A (wild beach)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "Free (no services)",
+  "recommendationRating": 4.8,
+  "badge": "Explorer’s Choice",
+  "videos": [],
+  "description": {
+    "en": "Salonikiou Beach is a quiet and natural beach known for its clear emerald water and peaceful surroundings.\n\nThe beach features a mix of fine white sand and smooth pebbles, with a moderate water entry that allows for both comfortable swimming and light snorkeling.\n\nIt remains largely undeveloped, offering a more authentic and less crowded experience compared to organized beaches.\n\nSalonikiou Beach is an excellent choice for visitors looking for tranquility, natural beauty, and clear water.\n\nThe combination of calm scenery, transparent water and minimal development makes it one of the most relaxing hidden beaches in northern Sithonia.",
+    "ro": "Plaja Salonikiou este o plajă liniștită și naturală, cunoscută pentru apa limpede cu nuanțe de smarald și peisajul relaxant.\n\nPlaja combină nisip alb fin cu pietricele netede, iar intrarea în apă este moderată, potrivită atât pentru înot, cât și pentru snorkeling ușor.\n\nRămâne în mare parte neamenajată, oferind o experiență autentică și mai puțin aglomerată.\n\nPlaja Salonikiou este o alegere excelentă pentru cei care caută liniște, natură și apă foarte clară.\n\nCombinația dintre peisajul calm, apa transparentă și lipsa dezvoltării turistice o transformă într-una dintre cele mai relaxante plaje ascunse din nordul Sithoniei."
+  },
+  "blueFlag": false
+}
