@@ -1,0 +1,136 @@
+{
+  "id": "latoura-beach",
+  "slug": "latoura-beach",
+  "name": {
+    "en": "Latoura Beach",
+    "ro": "Plaja Latoura"
+  },
+  "zone": "Sithonia",
+  "beachType": {
+    "en": "Peaceful family-friendly sandy beach",
+    "ro": "Plajă liniștită cu nisip fin pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.22990477964176,
+    "lon": 23.7380103071614
+  },
+  "editorChoice": true,
+  "length": 550,
+  "images": [
+    "latoura-beach.webp",
+    "latoura-beach1.webp",
+    "latoura-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces direct și ușor"
+    },
+    "parkingDifficulty": {
+      "en": "Usually manageable nearby",
+      "ro": "De obicei accesibilă în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and peaceful",
+      "ro": "Relaxată și liniștită"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Clean, calm and naturally scenic",
+      "ro": "Curată, calmă și naturală"
+    },
+    "waterEntry": {
+      "en": "Very gentle sandy entry",
+      "ro": "Intrare foarte lină cu nisip fin"
+    },
+    "waveLevel": {
+      "en": "Usually calm with stable conditions",
+      "ro": "De obicei calmă și stabilă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with occasional shells",
+    "ro": "Nisip alb fin cu scoici ocazionale"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 2.0m (very gradual slope)",
+      "ro": "0.3 - 2.0m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Brilliant aquamarine",
+      "ro": "Acvamarin strălucitor"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Swimming",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Înot",
+      "Snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beachcombing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Căutare de scoici"
+    ]
+  },
+  "occupancy": "40-60% (relaxed atmosphere)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "8-15 EUR (2 sunbeds + umbrella)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$ (mid-range)",
+  "recommendationRating": 4.7,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Latoura Beach is a beautiful and well-balanced beach located near Vourvourou, offering a combination of natural scenery and comfortable facilities.\n\nThe beach features fine white sand with occasional shells and a very gentle seabed slope, making it ideal for families and relaxed swimming.\n\nThe water is exceptionally clear and calm, while the surrounding pine-covered areas provide natural shade and a peaceful atmosphere.\n\nLatoura Beach is a great option for visitors looking for a quiet, clean, and easy-to-access beach with excellent water quality.\n\nThe balance between organized comfort and natural scenery makes it one of the most pleasant beaches in the Vourvourou area.",
+    "ro": "Plaja Latoura este o plajă frumoasă și echilibrată situată lângă Vourvourou, oferind o combinație între natură și confort.\n\nPlaja are nisip alb fin cu scoici ocazionale și o intrare foarte lină în apă, fiind ideală pentru familii și înot relaxat.\n\nApa este extrem de limpede și calmă, iar zonele cu pini oferă umbră naturală și o atmosferă liniștită.\n\nPlaja Latoura este o alegere excelentă pentru cei care caută o plajă curată, ușor accesibilă și liniștită.\n\nEchilibrul dintre facilități și cadrul natural o transformă într-una dintre cele mai plăcute plaje din zona Vourvourou."
+  },
+  "blueFlag": false
+}

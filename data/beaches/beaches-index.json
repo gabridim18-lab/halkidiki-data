@@ -2702,5 +2702,21 @@
     "rating": 4.5,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "latoura-beach",
+    "zone": "Sithonia",
+    "name": {
+      "en": "Latoura Beach",
+      "ro": "Plaja Latoura"
+    },
+    "previewImage": "latoura-beach.webp",
+    "coordinates": {
+      "lat": 40.22990477964176,
+      "lon": 23.7380103071614
+    },
+    "rating": 4.7,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
