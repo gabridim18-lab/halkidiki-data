@@ -1,0 +1,152 @@
+{
+  "id": "proti-ammoudia-beach",
+  "slug": "proti-ammoudia-beach",
+  "name": {
+    "en": "Proti Ammoudia Beach",
+    "ro": "Plaja Proti Ammoudia"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Quiet family-friendly white sand beach",
+    "ro": "Plajă liniștită cu nisip alb, potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.586071936930146,
+    "lon": 23.79628856891965
+  },
+  "editorChoice": true,
+  "length": 350,
+  "badge": "Family",
+  "images": [
+    "proti-ammoudia-beach.webp",
+    "proti-ammoudia-beach1.webp",
+    "proti-ammoudia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "2-minute walk from parking",
+      "ro": "2 minute de mers de la parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Easy free parking nearby",
+      "ro": "Parcare gratuită și ușoară în apropiere"
+    },
+    "noiseLevel": {
+      "en": "Very quiet and peaceful",
+      "ro": "Foarte liniștită și calmă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed, natural and family-oriented",
+      "ro": "Relaxată, naturală și orientată spre familii"
+    },
+    "waterEntry": {
+      "en": "Extremely shallow sandy entry",
+      "ro": "Intrare extrem de lină și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand",
+    "ro": "Nisip alb fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.2 - 1.2 m (very gentle slope)",
+      "ro": "0.2 - 1.2 m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Transparent turquoise",
+      "ro": "Turcoaz transparent"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "relax",
+      "family",
+      "photography"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Relaxare la soare",
+      "Potrivită pentru familii",
+      "Priveliști superbe"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families with children",
+      "Relaxed swimming",
+      "Quiet beach days",
+      "Snorkeling",
+      "Couples"
+    ],
+    "ro": [
+      "Familii cu copii",
+      "Înot relaxat",
+      "Zile liniștite la plajă",
+      "Snorkeling",
+      "Cupluri"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": {
+    "en": "40-60%",
+    "ro": "40-60%"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€8/day",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Proti Beach Bar"
+    ],
+    "pointsOfInterest": [
+      "Rocky snorkeling edges",
+      "Forest surroundings",
+      "Quiet sunset viewpoint",
+      "Small natural coves nearby"
+    ]
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.2,
+  "videos": [],
+  "description": {
+    "en": "Proti Ammoudia Beach is a small and peaceful beach known for its powdery white sand and extremely shallow turquoise water, making it one of the most family-friendly beaches in the northern Halkidiki region.\n\nThe beach stretches for around 350 meters and is surrounded by greenery and natural vegetation, creating a calm and relaxing atmosphere away from noisy tourist areas.\n\nIts most distinctive feature is the exceptionally fine white sand, which remains comfortable even during very hot summer days.\n\nThe seabed has an extremely gentle slope, allowing visitors to walk far into the sea while remaining in shallow water, making it ideal for small children and relaxed swimming.\n\nThe water is transparent with beautiful turquoise shades and usually remains calm throughout the day.\n\nThe beach is partially organized with comfortable sunbeds and umbrellas available for rent, while maintaining a peaceful and non-commercial atmosphere.\n\nA small beach bar serves refreshments, coffee and light meals, providing enough comfort without disturbing the quiet environment.\n\nThe rocky edges located at the ends of the beach create good opportunities for light snorkeling and observing small fish in clear water.\n\nAccess is relatively easy by car through a maintained dirt road connected to the main coastal road.\n\nFree parking is available approximately 100 meters from the beach, followed by a short and easy walk to the shoreline.\n\nThe beach is especially appreciated by families, couples and visitors searching for calm water, soft sand and a relaxing natural setting.\n\nMorning hours are particularly peaceful and provide the calmest water conditions.\n\nSunsets are also very beautiful here, with warm evening light reflecting over the transparent sea and surrounding greenery.\n\nProti Ammoudia Beach is an excellent choice for travelers looking for a clean, quiet and family-oriented beach with shallow water and natural scenery.",
+    "ro": "Plaja Proti Ammoudia este o plajă mică și liniștită, cunoscută pentru nisipul alb foarte fin și apa turcoaz extrem de puțin adâncă, fiind una dintre cele mai potrivite plaje pentru familii din nordul Halkidiki.\n\nPlaja are aproximativ 350 de metri lungime și este înconjurată de vegetație și zone verzi naturale, oferind o atmosferă calmă și relaxantă, departe de zonele turistice zgomotoase.\n\nCea mai importantă caracteristică a plajei este nisipul alb foarte fin, care rămâne confortabil chiar și în zilele foarte călduroase.\n\nFundul mării are o pantă extrem de lină, ceea ce permite înaintarea mult în apă fără creșteri bruște de adâncime, fiind ideal pentru copii mici și înot relaxat.\n\nApa este transparentă, cu nuanțe superbe de turcoaz, și rămâne de obicei calmă pe parcursul întregii zile.\n\nPlaja este parțial organizată, cu șezlonguri și umbrele disponibile pentru închiriere, păstrând în același timp o atmosferă liniștită și necomercială.\n\nUn mic beach bar oferă băuturi, cafea și gustări ușoare, completând experiența fără a afecta liniștea locului.\n\nZonele stâncoase aflate la capetele plajei sunt foarte bune pentru snorkeling ușor și observarea peștilor în apa limpede.\n\nAccesul se face relativ ușor cu mașina printr-un drum de pământ bine întreținut conectat la drumul principal de coastă.\n\nParcarea gratuită se află la aproximativ 100 de metri de plajă, urmată de o plimbare foarte scurtă și ușoară până la nisip.\n\nPlaja este apreciată în special de familii, cupluri și turiști care caută apă calmă, nisip foarte fin și o atmosferă naturală relaxantă.\n\nDiminețile sunt cele mai liniștite și oferă condițiile cele mai bune pentru înot.\n\nApusurile sunt de asemenea foarte frumoase, lumina reflectându-se spectaculos peste apa transparentă și vegetația din jur.\n\nPlaja Proti Ammoudia este o alegere excelentă pentru turiștii care caută o plajă curată, liniștită și orientată spre relaxare și familii."
+  },
+  "blueFlag": false
+}

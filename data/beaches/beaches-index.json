@@ -3022,5 +3022,21 @@
     "rating": 4.5,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "proti-ammoudia-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Proti Ammoudia Beach",
+      "ro": "Plaja Proti Ammoudia"
+    },
+    "previewImage": "proti-ammoudia-beach.webp",
+    "coordinates": {
+      "lat": 40.586071936930146,
+      "lon": 23.79628856891965
+    },
+    "rating": 4.2,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
