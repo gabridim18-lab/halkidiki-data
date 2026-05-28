@@ -2942,5 +2942,21 @@
     "rating": 4.3,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "komitsa-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Komitsa Beach",
+      "ro": "Plaja Komitsa"
+    },
+    "previewImage": "komitsa-beach.webp",
+    "coordinates": {
+      "lat": 40.38290183161086,
+      "lon": 23.99991055426313
+    },
+    "rating": 4.3,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

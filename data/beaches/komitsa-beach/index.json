@@ -1,0 +1,149 @@
+{
+  "id": "komitsa-beach",
+  "slug": "komitsa-beach",
+  "name": {
+    "en": "Komitsa Beach",
+    "ro": "Plaja Komitsa"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Long peaceful beach near Mount Athos",
+    "ro": "Plajă lungă și liniștită lângă Muntele Athos"
+  },
+  "coordinates": {
+    "lat": 40.38290183161086,
+    "lon": 23.99991055426313
+  },
+  "editorChoice": false,
+  "length": 3100,
+  "badge": "Relax",
+  "images": [
+    "komitsa-beach.webp",
+    "komitsa-beach1.webp",
+    "komitsa-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Parking directly near beach",
+      "ro": "Parcare direct lângă plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy",
+      "ro": "Ușoară"
+    },
+    "noiseLevel": {
+      "en": "Quiet and peaceful",
+      "ro": "Liniștită și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Natural, spacious and uncrowded",
+      "ro": "Naturală, spațioasă și aerisită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry suitable for relaxed swimming",
+      "ro": "Intrare lină în apă, potrivită pentru înot relaxat"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Beige sand with occasional small pebbles",
+    "ro": "Nisip bej cu pietricele mici pe alocuri"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "Gradual slope (shallow to moderate depth)",
+      "ro": "Pantă lină (de la mic la moderat)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise",
+      "ro": "Turcoaz cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Quiet beach days",
+      "Long walks"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Zile liniștite la plajă",
+      "Plimbări lungi"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing",
+      "Beach bar dining"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare",
+      "Gustări la beach bar"
+    ]
+  },
+  "occupancy": {
+    "en": "30-50% (low to moderate)",
+    "ro": "30-50% (scăzută spre moderată)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "Free or ~€5 (2 sunbeds + umbrella)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Komitsa Beach Bar"
+    ],
+    "pointsOfInterest": [
+      "Athos Peninsula coastline",
+      "Coastal walking areas",
+      "Mount Athos viewpoints"
+    ]
+  },
+  "servicePriceCategory": "$ (budget)",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Komitsa Beach is a long and peaceful beach located on the eastern side of the Athos peninsula, known for its calm atmosphere, spacious shoreline and clear turquoise water.\n\nStretching for approximately 3.1 kilometers, the beach offers plenty of open space even during the summer season, making it ideal for visitors who prefer quieter and less crowded beaches.\n\nThe shoreline consists mainly of soft beige sand with occasional small pebbles, while the seabed has a gradual slope that allows easy and comfortable swimming for both adults and children.\n\nThe beach is naturally divided by a rocky outcrop, creating slightly different sections and adding variety to the scenery.\n\nWater clarity is excellent, with calm turquoise tones and gentle conditions that make the beach especially suitable for relaxed swimming and floating.\n\nKomitsa Beach remains relatively undeveloped compared to larger tourist beaches in Halkidiki, helping preserve its peaceful and authentic atmosphere.\n\nBasic facilities are available, including umbrellas, sunbeds, changing cabins and a small beach bar offering snacks and drinks.\n\nDespite the simple setup, the beach remains comfortable thanks to easy access, nearby parking and the wide amount of available space.\n\nThe surrounding landscape offers beautiful views toward the Athos peninsula, especially during the early morning and sunset hours when the atmosphere becomes particularly calm.\n\nLong walks along the coastline are one of the main attractions here, as the beach extends far enough to allow visitors to find very quiet sections away from the organized areas.\n\nKomitsa Beach is an excellent option for families, couples and travelers looking for a natural beach with clear water, simple facilities and a relaxed atmosphere away from heavy crowds.",
+    "ro": "Plaja Komitsa este o plajă lungă și liniștită situată pe partea estică a peninsulei Athos, cunoscută pentru atmosfera calmă, spațiul generos și apa turcoaz foarte limpede.\n\nÎntinsă pe aproximativ 3,1 kilometri, plaja oferă suficient spațiu chiar și în timpul sezonului de vară, fiind ideală pentru cei care preferă zone mai liniștite și mai puțin aglomerate.\n\nȚărmul este format în principal din nisip bej fin cu mici pietricele pe alocuri, iar fundul mării are o pantă lină care permite înot confortabil atât pentru adulți, cât și pentru copii.\n\nPlaja este împărțită natural de o formațiune stâncoasă, creând sectoare diferite și oferind varietate peisajului.\n\nApa are o claritate excelentă, cu nuanțe turcoaz calme și condiții foarte bune pentru înot relaxat și stat în apă.\n\nKomitsa Beach rămâne relativ neamenajată comparativ cu alte plaje turistice mari din Halkidiki, păstrând o atmosferă autentică și liniștită.\n\nExistă facilități de bază precum umbrele, șezlonguri, cabine de schimb și un beach bar mic cu băuturi și gustări.\n\nChiar și cu amenajări simple, plaja rămâne confortabilă datorită accesului facil, parcării apropiate și spațiului foarte generos.\n\nZona oferă priveliști frumoase spre peninsula Athos, mai ales dimineața devreme și la apus, când atmosfera devine extrem de relaxantă.\n\nPlimbările lungi de-a lungul coastei sunt una dintre principalele atracții aici, deoarece lungimea plajei permite găsirea unor zone foarte liniștite, departe de sectoarele organizate.\n\nKomitsa Beach este o alegere excelentă pentru familii, cupluri și turiști care caută o plajă naturală cu apă limpede, facilități simple și atmosferă relaxată, departe de aglomerația intensă."
+  },
+  "blueFlag": false
+}
