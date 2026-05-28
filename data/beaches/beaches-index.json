@@ -2894,5 +2894,21 @@
     "rating": 4.5,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "tripiti-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Tripiti Beach",
+      "ro": "Plaja Tripiti"
+    },
+    "previewImage": "tripiti-beach.webp",
+    "coordinates": {
+      "lat": 40.363715656019416,
+      "lon": 23.922367604587006
+    },
+    "rating": 4.5,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

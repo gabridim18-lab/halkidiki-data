@@ -1,0 +1,147 @@
+{
+  "id": "tripiti-beach",
+  "slug": "tripiti-beach",
+  "name": {
+    "en": "Tripiti Beach",
+    "ro": "Plaja Tripiti"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Long natural Blue Flag beach",
+    "ro": "Plajă naturală lungă cu Steagul Albastru"
+  },
+  "coordinates": {
+    "lat": 40.363715656019416,
+    "lon": 23.922367604587006
+  },
+  "editorChoice": true,
+  "length": 3500,
+  "badge": "Explorer",
+  "images": [
+    "tripiti-beach.webp",
+    "tripiti-beach1.webp",
+    "tripiti-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct beach access",
+      "ro": "Acces direct la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy roadside parking",
+      "ro": "Parcare ușoară lângă drum"
+    },
+    "noiseLevel": {
+      "en": "Quiet and natural",
+      "ro": "Liniștită și naturală"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wide uncrowded beach with peaceful atmosphere",
+      "ro": "Plajă largă și liniștită, fără aglomerație"
+    },
+    "waterEntry": {
+      "en": "Very gradual shallow entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm with gentle waves",
+      "ro": "De obicei calmă, cu valuri ușoare"
+    }
+  },
+  "sand": {
+    "en": "Medium-grain golden sand",
+    "ro": "Nisip auriu cu granulație medie"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "Gradual slope with shallow waters extending well offshore",
+      "ro": "Pantă lină, ape puțin adânci ce se întind mult în larg"
+    },
+    "clarity": {
+      "en": "Crystal-clear azure",
+      "ro": "Azuriu cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "walking",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Promenadă pentru plimbări",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Beach walks",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Plimbări pe plajă",
+      "Snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": {
+    "en": "20-40% (low to moderate)",
+    "ro": "20-40% (scăzută spre moderată)"
+  },
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Nero Beach Bar"
+    ],
+    "restaurants": [
+      "Nearby seafood tavernas"
+    ]
+  },
+  "servicePriceCategory": "$ (budget)",
+  "recommendationRating": 4.5,
+  "videos": [],
+  "description": {
+    "en": "Tripiti Beach is a pristine and largely undeveloped Blue Flag beach stretching for approximately 3.5 kilometers along the coastline. Known for its crystal-clear azure water, spacious shoreline and peaceful atmosphere, it offers one of the most natural beach experiences in the Olympiada area.\n\nThe beach is formed by medium-grain golden sand and features a very gentle seabed slope, allowing shallow waters to extend far from the shore. This makes it highly suitable for families, relaxed swimming and visitors looking for calm conditions.\n\nDespite its long size, Tripiti rarely feels crowded, even during the peak summer season. Visitors can easily find quiet sections away from others, making it ideal for long beach walks, sunbathing and relaxing in nature.\n\nThe beach remains mostly unorganized, without official sunbed or umbrella zones, helping preserve its peaceful and untouched character. Visitors are encouraged to bring their own shade, water and snacks for a comfortable stay.\n\nA single beach bar, Nero Beach Bar, operates nearby and offers drinks and light refreshments, while several seafood tavernas can be found a short distance from the shore.\n\nThe rocky outcrops at certain points along the coastline create pleasant snorkeling opportunities with good visibility and calm water conditions.\n\nTripiti Beach is easily accessible by paved coastal road, with ample roadside parking available close to the sand. Its combination of easy access, natural scenery and uncrowded space makes it a favorite among travelers seeking a slower and quieter beach experience.\n\nMorning and late afternoon visits are especially recommended, offering cooler temperatures, softer light and a more tranquil atmosphere compared to the hotter midday hours.",
+    "ro": "Plaja Tripiti este o plajă naturală și în mare parte neamenajată, premiată cu Steagul Albastru, care se întinde pe aproximativ 3,5 kilometri de coastă. Cunoscută pentru apa azurie cristalină, spațiul generos și atmosfera liniștită, oferă una dintre cele mai autentice experiențe de plajă din zona Olympiada.\n\nPlaja este formată din nisip auriu cu granulație medie și are un fund marin cu pantă foarte lină, apa puțin adâncă extinzându-se mult în larg. Acest lucru o face foarte potrivită pentru familii, înot relaxat și vizitatori care caută condiții calme.\n\nÎn ciuda dimensiunii mari, Tripiti rareori se simte aglomerată, chiar și în sezonul de vârf. Vizitatorii găsesc ușor zone liniștite și spațioase, ideale pentru plimbări lungi, bronz și relaxare în natură.\n\nPlaja rămâne în mare parte neorganizată, fără sectoare oficiale cu șezlonguri și umbrele, păstrând astfel caracterul său natural și liniștit. Este recomandat să aduci umbrelă, apă și gustări pentru confort.\n\nUn singur beach bar, Nero Beach Bar, funcționează în apropiere și oferă băuturi și gustări ușoare, iar la mică distanță se găsesc și câteva taverne cu fructe de mare.\n\nZonele stâncoase de-a lungul coastei oferă oportunități plăcute pentru snorkeling, cu vizibilitate bună și apă calmă.\n\nTripiti Beach este ușor accesibilă prin drumul asfaltat de coastă, având suficiente locuri de parcare chiar lângă plajă. Combinația dintre acces facil, peisaj natural și lipsa aglomerației o transformă într-o alegere excelentă pentru cei care caută o experiență liniștită și relaxată.\n\nVizitele dimineața devreme sau spre seară sunt recomandate pentru temperaturi mai plăcute, lumină frumoasă și o atmosferă și mai calmă."
+  },
+  "blueFlag": false
+}
