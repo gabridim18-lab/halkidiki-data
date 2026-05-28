@@ -3006,5 +3006,21 @@
     "rating": 4.6,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "stratoni-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Stratoni Beach",
+      "ro": "Plaja Stratoni"
+    },
+    "previewImage": "stratoni-beach.webp",
+    "coordinates": {
+      "lat": 40.51159807493271,
+      "lon": 23.827103125811096
+    },
+    "rating": 4.5,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

@@ -1,0 +1,153 @@
+{
+  "id": "stratoni-beach",
+  "slug": "stratoni-beach",
+  "name": {
+    "en": "Stratoni Beach",
+    "ro": "Plaja Stratoni"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Family-friendly organized sandy beach",
+    "ro": "Plajă organizată cu nisip, potrivită pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.51159807493271,
+    "lon": 23.827103125811096
+  },
+  "editorChoice": false,
+  "length": 700,
+  "badge": "Family",
+  "images": [
+    "stratoni-beach.webp",
+    "stratoni-beach1.webp",
+    "stratoni-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct roadside access",
+      "ro": "Acces direct de la drum"
+    },
+    "parkingDifficulty": {
+      "en": "Easy parking near beach",
+      "ro": "Parcare ușoară aproape de plajă"
+    },
+    "noiseLevel": {
+      "en": "Quiet and relaxed",
+      "ro": "Liniștită și relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed local atmosphere",
+      "ro": "Atmosferă locală și relaxată"
+    },
+    "waterEntry": {
+      "en": "Very shallow and smooth entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Beige sand",
+    "ro": "Nisip bej"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "Gradual slope (shallow waters extend well offshore)",
+      "ro": "Pantă lină (apele puțin adânci se întind mult în larg)"
+    },
+    "clarity": {
+      "en": "Crystal-clear",
+      "ro": "Cristalină"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "family",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxed swimming",
+      "Quiet beach days",
+      "Older visitors",
+      "Easy access"
+    ],
+    "ro": [
+      "Familii",
+      "Înot relaxat",
+      "Zile liniștite la plajă",
+      "Persoane în vârstă",
+      "Acces facil"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Sunbathing",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Stat la soare",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": {
+    "en": "20-40% (low to moderate)",
+    "ro": "20-40% (scăzută spre moderată)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€5–10",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "DROPS Cafe",
+      "Stratoni Beach Bar"
+    ],
+    "pointsOfInterest": [
+      "Stratoni village",
+      "Local mussel farms",
+      "Small rocky snorkeling spots",
+      "Northern Ierissos Gulf"
+    ]
+  },
+  "servicePriceCategory": "$ (budget)",
+  "recommendationRating": 4.5,
+  "videos": [],
+  "description": {
+    "en": "Stratoni Beach is a peaceful and family-friendly sandy beach located on the northern side of the Gulf of Ierissos in northeastern Halkidiki.\n\nStretching for approximately 700 meters, the beach offers soft beige sand and exceptionally shallow waters that extend far offshore, making it one of the safest beaches in the area for children and relaxed swimming.\n\nThe seabed slopes very gradually, allowing visitors to walk far into the sea while remaining in shallow water, which is especially appreciated by families and older visitors.\n\nThe sea is generally calm and crystal-clear, while the beach itself maintains a quiet and relaxed atmosphere even during summer.\n\nUnlike some of the more tourist-heavy beaches in Halkidiki, Stratoni Beach keeps a more local and authentic character.\n\nBasic facilities are available, including public sunbeds and umbrellas, freshwater showers, changing cabins and clean public toilets.\n\nSeveral cafes and small beach bars are located within walking distance, with DROPS Cafe being one of the closest and most popular nearby options.\n\nThe beach is easily accessible directly from the coastal road, with convenient roadside parking and short paved access paths leading to the sand.\n\nSmall rocky formations located toward the edges of the beach provide opportunities for light snorkeling and observing fish in clear water.\n\nThe nearby village of Stratoni adds to the relaxed atmosphere, offering tavernas, local cafes and views toward traditional mussel farming areas.\n\nBecause of its calm water and easy access, the beach is especially suitable for visitors looking for a stress-free beach experience without crowds or loud beach clubs.\n\nSunset hours are particularly pleasant, with soft light reflecting over the calm waters of the Gulf of Ierissos.\n\nStratoni Beach is an excellent option for families, older visitors and travelers who prefer peaceful and comfortable beaches with basic facilities and clear water.",
+    "ro": "Plaja Stratoni este o plajă liniștită și potrivită pentru familii, situată pe partea nordică a Golfului Ierissos, în nord-estul Halkidiki.\n\nPlaja are aproximativ 700 de metri lungime și oferă nisip bej fin și ape foarte puțin adânci care se întind mult în larg, fiind una dintre cele mai sigure plaje din zonă pentru copii și înot relaxat.\n\nFundul mării are o pantă foarte lină, ceea ce permite înaintarea mult în apă fără creșteri bruște de adâncime, aspect apreciat în special de familii și persoane în vârstă.\n\nApa este de obicei calmă și cristalină, iar atmosfera generală rămâne liniștită chiar și în sezonul de vară.\n\nSpre deosebire de plajele foarte turistice din Halkidiki, Plaja Stratoni păstrează un caracter mai local și autentic.\n\nExistă facilități de bază precum șezlonguri și umbrele publice, dușuri cu apă dulce, cabine de schimb și toalete curate.\n\nÎn apropiere se găsesc câteva cafenele și beach baruri mici, iar DROPS Cafe este una dintre cele mai cunoscute opțiuni aflate foarte aproape de plajă.\n\nAccesul este foarte ușor direct din drumul principal de coastă, cu parcare la marginea drumului și alei scurte asfaltate până la nisip.\n\nLa capetele plajei există mici zone stâncoase potrivite pentru snorkeling ușor și observarea peștilor în apa limpede.\n\nSatul Stratoni contribuie la atmosfera relaxată prin taverne locale, cafenele și priveliști spre fermele tradiționale de midii din zonă.\n\nDatorită apei calme și accesului facil, plaja este ideală pentru turiștii care caută o experiență fără stres, fără aglomerație și fără beach cluburi zgomotoase.\n\nOrele apusului sunt foarte plăcute, lumina reflectându-se frumos pe apele calme ale Golfului Ierissos.\n\nPlaja Stratoni este o alegere excelentă pentru familii, persoane în vârstă și vizitatori care preferă plaje liniștite, confortabile și cu facilități de bază."
+  },
+  "blueFlag": false
+}
