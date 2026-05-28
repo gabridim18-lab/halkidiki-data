@@ -3038,5 +3038,21 @@
     "rating": 4.2,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "olympiada-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Olympiada Beach",
+      "ro": "Plaja Olympiada"
+    },
+    "previewImage": "olympiada-beach.webp",
+    "coordinates": {
+      "lat": 40.59313878214133,
+      "lon": 23.783146430153597
+    },
+    "rating": 4.2,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

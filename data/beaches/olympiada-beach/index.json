@@ -1,0 +1,155 @@
+{
+  "id": "olympiada-beach",
+  "slug": "olympiada-beach",
+  "name": {
+    "en": "Olympiada Beach",
+    "ro": "Plaja Olympiada"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Historic family-friendly beach with archaeological surroundings",
+    "ro": "Plajă pentru familii cu atmosferă istorică și situri arheologice"
+  },
+  "coordinates": {
+    "lat": 40.59313878214133,
+    "lon": 23.783146430153597
+  },
+  "editorChoice": true,
+  "length": 1500,
+  "badge": "Explorer",
+  "images": [
+    "olympiada-beach.webp",
+    "olympiada-beach1.webp",
+    "olympiada-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Beachfront access from Olympiada village",
+      "ro": "Acces direct din satul Olympiada"
+    },
+    "parkingDifficulty": {
+      "en": "Easy parking near beach",
+      "ro": "Parcare ușoară aproape de plajă"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively but relaxed",
+      "ro": "Moderat animată dar relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Traditional, family-friendly and historical",
+      "ro": "Tradițională, familială și istorică"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry",
+      "ro": "Intrare lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand with small pebbles",
+    "ro": "Nisip auriu grosier cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.4 - 2.2 m (gradual slope)",
+      "ro": "0.4 - 2.2 m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Crystal clear (visibility 6-8m)",
+      "ro": "Cristalină (vizibilitate 6-8 m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "family",
+      "Hidden gem",
+      "photography"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Priveliști superbe"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "History lovers",
+      "Relaxed swimming",
+      "Snorkeling",
+      "Beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Pasionați de istorie",
+      "Înot relaxat",
+      "Snorkeling",
+      "Plimbări pe plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Archaeological visits",
+      "Beachcombing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Vizite arheologice",
+      "Plimbări pe mal"
+    ]
+  },
+  "occupancy": {
+    "en": "50-75% (moderate crowds)",
+    "ro": "50-75% (aglomerare moderată)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€6–12 (umbrella included)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Olympiada Beach Bar",
+      "Strymonas Cafe"
+    ],
+    "pointsOfInterest": [
+      "Ancient Stageira ruins",
+      "Northern snorkeling rocks",
+      "Strymonian Gulf viewpoints",
+      "Traditional Olympiada village"
+    ]
+  },
+  "servicePriceCategory": "$$ (moderate)",
+  "recommendationRating": 4.2,
+  "videos": [],
+  "description": {
+    "en": "Olympiada Beach is a long and welcoming beach located next to the traditional village of Olympiada, combining natural beauty with one of the most historically important areas in Halkidiki.\n\nStretching for around 1.5 kilometers along the Strymonian Gulf, the beach offers golden sand mixed with small pebbles and very clear water with gentle depth changes, making it comfortable for both families and casual swimmers.\n\nThe atmosphere is more authentic and relaxed compared to large tourist resorts, while still offering good facilities and easy access.\n\nOne of the beach’s most unique features is its close proximity to the archaeological site of Ancient Stageira, known as the birthplace of Aristotle.\n\nVisitors can easily combine beach relaxation with historical exploration, making Olympiada Beach particularly attractive for travelers interested in culture and history.\n\nThe water is usually calm and crystal clear, with visibility often reaching 6–8 meters.\n\nThe northern rocky sections provide excellent conditions for light snorkeling, where visitors may observe small fish and underwater rock formations.\n\nSeveral organized sections offer sunbeds and umbrellas, while freshwater showers and beach volleyball facilities add additional comfort.\n\nTraditional beach bars and tavernas nearby serve fresh seafood, coffee, cold drinks and local Greek dishes in a relaxed seaside atmosphere.\n\nAccess is simple and convenient directly from the village, with parking areas located close to the beach.\n\nThe beach is especially popular with families, couples and visitors seeking a quieter and more traditional Greek coastal experience.\n\nSunsets over the Strymonian Gulf are particularly beautiful, especially during calm summer evenings.\n\nOlympiada Beach is an excellent destination for combining relaxed swimming, cultural exploration and authentic northern Halkidiki atmosphere.",
+    "ro": "Plaja Olympiada este o plajă lungă și primitoare situată lângă satul tradițional Olympiada, combinând frumusețea naturală cu una dintre cele mai importante zone istorice din Halkidiki.\n\nÎntinsă pe aproximativ 1,5 kilometri de-a lungul Golfului Strymonian, plaja oferă nisip auriu combinat cu pietricele mici și apă foarte limpede, cu adâncime ce crește treptat, fiind confortabilă atât pentru familii cât și pentru înotători relaxați.\n\nAtmosfera este mai autentică și liniștită comparativ cu marile stațiuni turistice, dar păstrează facilități bune și acces foarte ușor.\n\nUna dintre cele mai speciale caracteristici ale plajei este apropierea de situl arheologic Ancient Stageira, locul de naștere al lui Aristotel.\n\nVizitatorii pot combina foarte ușor relaxarea la plajă cu explorarea istorică, ceea ce face plaja Olympiada foarte atractivă pentru turiștii interesați de cultură și istorie.\n\nApa este de obicei calmă și cristalină, cu vizibilitate ce ajunge frecvent la 6–8 metri.\n\nZonele stâncoase din partea nordică oferă condiții excelente pentru snorkeling ușor, unde pot fi observați pești mici și formațiuni stâncoase subacvatice.\n\nMai multe sectoare organizate oferă șezlonguri și umbrele, iar dușurile cu apă dulce și terenurile de volei adaugă confort suplimentar.\n\nBeach barurile și tavernele tradiționale din apropiere servesc fructe de mare proaspete, cafea, băuturi reci și preparate grecești locale într-o atmosferă relaxată.\n\nAccesul este simplu și comod direct din sat, iar parcările sunt situate aproape de plajă.\n\nPlaja este apreciată în special de familii, cupluri și turiști care caută o experiență grecească mai liniștită și autentică.\n\nApusurile peste Golful Strymonian sunt foarte frumoase, mai ales în serile calme de vară.\n\nPlaja Olympiada reprezintă o destinație excelentă pentru combinarea înotului relaxant, explorării culturale și atmosferei autentice din nordul Halkidiki."
+  },
+  "blueFlag": false
+}
