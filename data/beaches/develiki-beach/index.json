@@ -1,0 +1,136 @@
+{
+  "id": "develiki-beach",
+  "slug": "develiki-beach",
+  "name": {
+    "en": "Develiki Beach",
+    "ro": "Plaja Develiki"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Authentic relaxed beach with tavernas",
+    "ro": "Plajă autentică și relaxată cu taverne"
+  },
+  "coordinates": {
+    "lat": 40.36294707227534,
+    "lon": 23.825471031566586
+  },
+  "editorChoice": false,
+  "length": 650,
+  "images": [
+    "develiki-beach.webp",
+    "develiki-beach1.webp",
+    "develiki-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy direct beach access",
+      "ro": "Acces ușor direct la plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Free shaded parking",
+      "ro": "Parcare gratuită la umbră"
+    },
+    "noiseLevel": {
+      "en": "Relaxed and balanced",
+      "ro": "Relaxată și echilibrată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Authentic Greek beach atmosphere",
+      "ro": "Atmosferă autentică grecească"
+    },
+    "waterEntry": {
+      "en": "Gradual sandy entry with deeper sections later",
+      "ro": "Intrare lină cu zone mai adânci ulterior"
+    },
+    "waveLevel": {
+      "en": "Usually calm with light afternoon movement",
+      "ro": "De obicei calmă cu ușoare valuri după-amiaza"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand with small shells",
+    "ro": "Nisip auriu grosier cu scoici mici"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 2.8 m (gradual then steeper drop)",
+      "ro": "0.4 - 2.8 m (pantă lină apoi mai abruptă)"
+    },
+    "clarity": {
+      "en": "Crystal clear blue-green",
+      "ro": "Albastru-verde cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Snorkeling",
+      "Traditional beach atmosphere"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Snorkeling",
+      "Atmosferă tradițională"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Snorkeling"
+    ]
+  },
+  "occupancy": "40-60% (relaxed atmosphere)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€7–15",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$ (affordable)",
+  "recommendationRating": 4.3,
+  "badge": "Explorer",
+  "videos": [],
+  "description": {
+    "en": "Develiki Beach is a relaxed and authentic beach located on the northern coast of Sithonia near Nikiti, offering around 650 meters of golden coarse sand and exceptionally clear blue-green water.\n\nThe beach combines a natural setting with practical facilities, creating a balanced experience that still feels genuinely Greek and less commercial than many organized beaches in Halkidiki. Pine trees around the beach provide natural shade and contribute to the peaceful atmosphere.\n\nThe seabed begins with a gentle sandy entry before becoming deeper farther from the shore, making it suitable both for families and for visitors who enjoy longer swims in deeper water.\n\nWater clarity is often excellent, with visibility frequently exceeding 10 meters. Rocky sections at both ends of the beach create ideal snorkeling conditions where marine life can easily be observed.\n\nFacilities include sunbeds, toilets, beach volleyball areas and nearby tavernas. Visitors often recommend trying grilled sardines and fresh seafood at the beachfront taverna while enjoying views across the Toroneos Gulf.\n\nDeveliki is also appreciated for scenic coastal walks toward nearby coves, especially during the late afternoon when the coastline becomes quieter and the sunset light creates beautiful colors over the sea.\n\nFree parking under the pine trees makes access easy, although arriving before 11 AM during peak season is recommended for the best spots.",
+    "ro": "Plaja Develiki este o plajă relaxată și autentică situată pe coasta nordică a Sithoniei, lângă Nikiti, oferind aproximativ 650 de metri de nisip auriu grosier și ape albastru-verzui extrem de limpezi.\n\nPlaja combină un cadru natural cu facilități practice, oferind o experiență echilibrată care păstrează încă atmosfera grecească autentică și mai puțin comercială decât multe plaje organizate din Halkidiki. Pinii din jur oferă umbră naturală și contribuie la atmosfera liniștită.\n\nFundul mării începe cu o intrare lină și nisipoasă înainte ca apa să devină mai adâncă spre exterior, ceea ce o face potrivită atât pentru familii, cât și pentru cei care preferă înotul în apă mai adâncă.\n\nClaritatea apei este excelentă, vizibilitatea depășind frecvent 10 metri. Zonele stâncoase de la capetele plajei oferă condiții ideale pentru snorkeling și observarea vieții marine.\n\nFacilitățile includ șezlonguri, toalete, zone pentru volei pe plajă și taverne în apropiere. Mulți vizitatori recomandă sardinele la grătar și fructele de mare servite la taverna de pe plajă, cu vedere spre Golful Toroneos.\n\nDeveliki este apreciată și pentru plimbările de coastă către golfurile apropiate, mai ales după-amiaza târziu când zona devine mai liniștită și lumina apusului colorează frumos marea.\n\nParcarea gratuită sub pini face accesul comod, însă în sezon este recomandat să ajungeți înainte de ora 11 pentru cele mai bune locuri."
+  },
+  "blueFlag": false
+}

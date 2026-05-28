@@ -2862,5 +2862,21 @@
     "rating": 4.3,
     "waterTemperature": 23,
     "suitableForChildren": false
+  },
+  {
+    "id": "develiki-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Develiki Beach",
+      "ro": "Plaja Develiki"
+    },
+    "previewImage": "develiki-beach.webp",
+    "coordinates": {
+      "lat": 40.36294707227534,
+      "lon": 23.825471031566586
+    },
+    "rating": 4.3,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
