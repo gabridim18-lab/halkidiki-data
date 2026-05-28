@@ -1,0 +1,154 @@
+{
+  "id": "kakoudia-beach",
+  "slug": "kakoudia-beach",
+  "name": {
+    "en": "Kakoudia Beach",
+    "ro": "Plaja Kakoudia"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Natural scenic beach with white rock formations",
+    "ro": "Plajă naturală spectaculoasă cu formațiuni albe de stâncă"
+  },
+  "coordinates": {
+    "lat": 40.42153436930839,
+    "lon": 23.85659385790579
+  },
+  "editorChoice": true,
+  "length": 1900,
+  "badge": "Nature",
+  "images": [
+    "kakoudia-beach.webp",
+    "kakoudia-beach1.webp",
+    "kakoudia-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Very short walk from parking",
+      "ro": "Plimbare foarte scurtă de la parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Easy roadside parking",
+      "ro": "Parcare ușoară la marginea drumului"
+    },
+    "noiseLevel": {
+      "en": "Very quiet and natural",
+      "ro": "Foarte liniștită și naturală"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Wild, photogenic and peaceful",
+      "ro": "Sălbatică, fotogenică și liniștită"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy entry with rocky sections",
+      "ro": "Intrare lină cu nisip și zone stâncoase"
+    },
+    "waveLevel": {
+      "en": "Usually calm but waves possible with north winds",
+      "ro": "De obicei calmă, dar cu valuri la vânt de nord"
+    }
+  },
+  "sand": {
+    "en": "Golden-white sand with smooth white rock formations; mostly coarse-fine mix",
+    "ro": "Nisip alb-auriu cu formațiuni de stâncă albe netede; mix fin-grosier"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 2.0 m (gradual slope; waves possible on windy days)",
+      "ro": "0.3 - 2.0 m (pantă lină; pot apărea valuri în zile cu vânt)"
+    },
+    "clarity": {
+      "en": "Crystal-clear turquoise (visibility ~6–10 m)",
+      "ro": "Turcoaz cristalin (vizibilitate ~6–10 m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "photography",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Priveliști superbe",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "Late May to September",
+    "ro": "Sfârșit de Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Nature lovers",
+      "Photography",
+      "Quiet beach days",
+      "Couples",
+      "Snorkeling"
+    ],
+    "ro": [
+      "Iubitori de natură",
+      "Fotografie",
+      "Zile liniștite la plajă",
+      "Cupluri",
+      "Snorkeling"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling (near rocks)",
+      "Photography",
+      "Beach walks",
+      "Sunset watching"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling (lângă stânci)",
+      "Fotografii",
+      "Plimbări pe plajă",
+      "Privit apusul"
+    ]
+  },
+  "occupancy": {
+    "en": "20-50% (usually quiet; slightly busier near photo spots at sunset)",
+    "ro": "20-50% (de obicei liniștită; ușor mai animată la apus în zonele fotogenice)"
+  },
+  "facilities": {
+    "sunbeds": false,
+    "sunbedPrice": "N/A",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": false,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [],
+    "pointsOfInterest": [
+      "Ancient Akanthos archaeological site",
+      "Ierissos promenade",
+      "White rock formations",
+      "Natural rocky coves"
+    ]
+  },
+  "servicePriceCategory": "$",
+  "recommendationRating": 4.6,
+  "videos": [],
+  "description": {
+    "en": "Kakoudia Beach is one of the most visually unique natural beaches in the northern Halkidiki region, located just north of Ierissos along the eastern coastline near Mount Athos.\n\nThe beach stretches for approximately 1.9 kilometers and is famous for its striking smooth white rock formations that divide sections of golden-white sand and create a highly photogenic landscape.\n\nThe sea is exceptionally clear with intense turquoise colors and visibility that often reaches between 6 and 10 meters, especially during calm weather conditions.\n\nThe seabed slopes gradually and remains relatively shallow close to the shore, making the beach suitable for relaxed swimming and families, although stronger north winds can occasionally create moderate waves.\n\nUnlike organized tourist beaches, Kakoudia remains largely untouched and undeveloped, preserving a peaceful atmosphere and natural scenery.\n\nThere are no beach bars, sunbeds, toilets or organized services, so visitors should arrive prepared with water, food, umbrellas and sun protection.\n\nThe smooth white rocks are the defining feature of the beach and attract many photographers, especially during golden hour and sunset when the light reflects beautifully on the pale stone surfaces.\n\nSmall rocky coves along the beach also provide good conditions for light snorkeling, where visitors can observe fish and underwater rock formations in crystal-clear water.\n\nAccess to the beach is relatively easy by car, with several dirt turnoffs and informal parking areas located close to the shoreline.\n\nDespite its natural appearance, the beach is not isolated and remains only a short drive away from Ierissos, where visitors can find tavernas, cafes, supermarkets and additional facilities.\n\nKakoudia Beach is especially appreciated by travelers looking for tranquility, nature, photography and a less commercial beach experience.\n\nThe long shoreline also makes it ideal for peaceful beach walks, particularly during early morning or sunset hours.\n\nIt is one of the best natural beaches near Ierissos for visitors who prefer scenery, relaxation and authentic coastal landscapes over organized tourist infrastructure.",
+    "ro": "Plaja Kakoudia este una dintre cele mai spectaculoase și fotogenice plaje naturale din nordul Halkidiki, situată la nord de Ierissos, pe coasta estică din apropierea regiunii Athos.\n\nPlaja se întinde pe aproximativ 1,9 kilometri și este renumită pentru formațiunile sale albe și netede de stâncă, care separă zonele de nisip alb-auriu și creează un peisaj foarte spectaculos.\n\nApa este extrem de limpede, cu nuanțe intense de turcoaz și o vizibilitate care poate ajunge la 6–10 metri în condiții bune.\n\nFundul mării are o pantă lină și rămâne relativ puțin adânc aproape de țărm, fiind potrivit pentru înot relaxat și familii, deși în zilele cu vânt de nord pot apărea valuri moderate.\n\nSpre deosebire de plajele foarte organizate, Kakoudia și-a păstrat caracterul natural și liniștit, fără infrastructură turistică intensă.\n\nNu există beach baruri, șezlonguri, toalete sau servicii organizate, astfel că vizitatorii trebuie să vină pregătiți cu apă, mâncare, umbrelă și protecție solară.\n\nStâncile albe și netede reprezintă elementul definitoriu al plajei și atrag numeroși fotografi, mai ales la apus sau în timpul golden hour, când lumina se reflectă spectaculos pe suprafața pietrei.\n\nGolfulețele mici dintre stânci sunt foarte bune pentru snorkeling ușor, iar apa limpede permite observarea peștilor și formațiunilor subacvatice.\n\nAccesul este relativ ușor cu mașina, existând drumuri scurte de pământ și zone informale de parcare aproape de plajă.\n\nDeși păstrează un aspect sălbatic, plaja se află foarte aproape de Ierissos, unde turiștii găsesc taverne, cafenele, magazine și alte facilități.\n\nPlaja Kakoudia este apreciată în special de cei care caută liniște, natură, fotografie și o experiență autentică, mai puțin comercială.\n\nÎntinderea lungă a plajei o face excelentă și pentru plimbări relaxante dimineața sau la apus.\n\nEste una dintre cele mai frumoase plaje naturale din apropierea Ierissos pentru turiștii care preferă peisajele spectaculoase și atmosfera liniștită în locul zonelor turistice foarte dezvoltate."
+  },
+  "blueFlag": false
+}
