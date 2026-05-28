@@ -1,0 +1,152 @@
+{
+  "id": "platani-beach",
+  "slug": "platani-beach",
+  "name": {
+    "en": "Platani Beach",
+    "ro": "Plaja Platani"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Premium hidden cove for snorkeling and relaxation",
+    "ro": "Golf premium ascuns pentru snorkeling și relaxare"
+  },
+  "coordinates": {
+    "lat": 40.66424860305497,
+    "lon": 23.707242530912474
+  },
+  "editorChoice": true,
+  "length": 250,
+  "badge": "Explorer",
+  "images": [
+    "platani-beach.webp",
+    "platani-beach1.webp",
+    "platani-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "15-minute walk from parking",
+      "ro": "15 minute de mers de la parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Limited parking spaces",
+      "ro": "Parcare limitată"
+    },
+    "noiseLevel": {
+      "en": "Quiet and exclusive atmosphere",
+      "ro": "Atmosferă liniștită și exclusivistă"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Exclusive, peaceful and adventurous",
+      "ro": "Exclusivistă, liniștită și aventuroasă"
+    },
+    "waterEntry": {
+      "en": "Moderate entry with sudden deeper sections",
+      "ro": "Intrare moderată cu zone mai adânci bruște"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine white sand with smooth pebbles",
+    "ro": "Nisip alb fin cu pietricele netede"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.5 - 3.5 m (moderate slope with sudden drop)",
+      "ro": "0.5 - 3.5 m (pantă moderată cu căderi bruște)"
+    },
+    "clarity": {
+      "en": "Crystal clear (visibility 10m+)",
+      "ro": "Cristalină (vizibilitate 10 m+)"
+    }
+  },
+  "suitableForChildren": false,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "luxury"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Experiență premium"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September (morning recommended)",
+    "ro": "Iunie - Septembrie (dimineața recomandat)"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Snorkeling",
+      "Free diving",
+      "Couples",
+      "Photography",
+      "Quiet beach escapes"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Apnee",
+      "Cupluri",
+      "Fotografie",
+      "Relaxare liniștită"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Snorkeling",
+      "Free diving",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Snorkeling",
+      "Apnee",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": {
+    "en": "30-50% (never crowded)",
+    "ro": "30-50% (rar aglomerată)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€10–15 (premium positions)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": false,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Platani Beach Club"
+    ],
+    "pointsOfInterest": [
+      "Sea cave",
+      "Eastern snorkeling rocks",
+      "Natural cliff jumping spots",
+      "Hilltop viewpoints"
+    ]
+  },
+  "servicePriceCategory": "$$$ (premium)",
+  "recommendationRating": 4.7,
+  "videos": [],
+  "description": {
+    "en": "Platani Beach is a small and exclusive hidden cove known for its striking white sand, crystal-clear deep blue water and dramatic underwater landscape.\n\nSurrounded by old plane trees that provide natural shade and inspired the beach’s name, Platani offers a much quieter and more intimate atmosphere compared to larger beaches in northern Halkidiki.\n\nThe beach stretches for around 250 meters and combines powder-like white sand with smooth pebbles and spectacular underwater rock formations.\n\nOne of the most impressive features of Platani Beach is the exceptional water clarity, often exceeding 10 meters of visibility, making it one of the best snorkeling and free-diving spots in the area.\n\nThe seabed changes depth quickly in certain sections, with deeper water appearing only a few meters from the shore.\n\nBecause of these sudden depth changes and underwater rock formations, the beach is more suitable for confident swimmers and snorkeling enthusiasts than for small children.\n\nLuxury wooden sunbed platforms and a boutique beach club provide a premium but still discreet atmosphere.\n\nFreshwater showers, comfortable seating areas and handcrafted cocktails contribute to the exclusive beach experience without turning the beach into a crowded party destination.\n\nThe eastern side of the beach is especially famous for marine life, underwater boulders and occasional octopus sightings during early morning hours.\n\nVisitors can also explore a small sea cave accessible by swimming and natural rock jumping spots around the nearby cliffs.\n\nAccess to the beach requires descending approximately 87 stone steps with handrails, which helps preserve the peaceful atmosphere and limits overcrowding.\n\nThe surrounding scenery, turquoise water and dramatic coastal rocks make Platani Beach highly popular among photographers and nature lovers.\n\nSunsets are particularly beautiful here, especially for visitors enjoying private dinners or quiet evening moments by the sea.\n\nPlatani Beach is an excellent choice for travelers seeking exclusivity, snorkeling, natural beauty and a peaceful premium beach atmosphere.",
+    "ro": "Plaja Platani este un golf mic și exclusivist, cunoscut pentru nisipul alb spectaculos, apa albastră extrem de limpede și relieful submarin dramatic.\n\nÎnconjurată de platani seculari care oferă umbră naturală și au inspirat numele plajei, Platani oferă o atmosferă mult mai liniștită și intimă comparativ cu plajele mai mari din nordul Halkidiki.\n\nPlaja are aproximativ 250 de metri lungime și combină nisip alb foarte fin cu pietricele netede și formațiuni stâncoase subacvatice impresionante.\n\nUna dintre cele mai remarcabile caracteristici ale Plajei Platani este claritatea excepțională a apei, care depășește adesea 10 metri vizibilitate, transformând zona într-unul dintre cele mai bune locuri pentru snorkeling și apnee.\n\nFundul mării își schimbă rapid adâncimea în anumite zone, iar apa mai adâncă apare la doar câțiva metri de țărm.\n\nDin acest motiv și datorită formațiunilor stâncoase, plaja este mai potrivită pentru înotători experimentați și iubitori de snorkeling decât pentru copii mici.\n\nPlatformele premium din lemn cu șezlonguri și beach club-ul boutique oferă o atmosferă elegantă și discretă.\n\nDușurile cu apă dulce, zonele confortabile de relaxare și cocktailurile artizanale completează experiența exclusivistă fără a transforma plaja într-o destinație aglomerată.\n\nPartea estică a plajei este renumită pentru viața marină, bolovanii subacvatici și aparițiile ocazionale ale caracatițelor dimineața devreme.\n\nVizitatorii pot explora și o mică peșteră marină accesibilă înot sau zone naturale pentru sărituri de pe stânci.\n\nAccesul către plajă presupune coborârea a aproximativ 87 de trepte din piatră cu balustrade, ceea ce contribuie la păstrarea atmosferei liniștite și evitarea aglomerației.\n\nPeisajul din jur, apa turcoaz și stâncile dramatice fac din Platani Beach un loc foarte apreciat de fotografi și iubitori ai naturii.\n\nApusurile sunt deosebit de frumoase aici, mai ales pentru cei care aleg cine private sau momente liniștite la malul mării.\n\nPlaja Platani este o alegere excelentă pentru turiștii care caută exclusivitate, snorkeling, natură spectaculoasă și o atmosferă premium liniștită."
+  },
+  "blueFlag": false
+}

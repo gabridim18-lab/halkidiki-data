@@ -3086,5 +3086,21 @@
     "rating": 4.3,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "platani-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Platani Beach",
+      "ro": "Plaja Platani"
+    },
+    "previewImage": "platani-beach.webp",
+    "coordinates": {
+      "lat": 40.66424860305497,
+      "lon": 23.707242530912474
+    },
+    "rating": 4.7,
+    "waterTemperature": 25,
+    "suitableForChildren": false
   }
 ]
