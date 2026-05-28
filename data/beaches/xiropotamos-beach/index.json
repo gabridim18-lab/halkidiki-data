@@ -1,0 +1,137 @@
+{
+  "id": "xiropotamos-beach",
+  "slug": "xiropotamos-beach",
+  "name": {
+    "en": "Xiropotamos Beach",
+    "ro": "Plaja Xiropotamos"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Scenic organized beach with sunset views",
+    "ro": "Plajă pitorească amenajată cu apusuri superbe"
+  },
+  "coordinates": {
+    "lat": 40.36365226386835,
+    "lon": 23.88412784588372
+  },
+  "editorChoice": true,
+  "length": 800,
+  "images": [
+    "xiropotamos-beach.webp",
+    "xiropotamos-beach1.webp",
+    "xiropotamos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "2–3 min from parking",
+      "ro": "2–3 minute de la parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Large free parking",
+      "ro": "Parcare mare gratuită"
+    },
+    "noiseLevel": {
+      "en": "Balanced atmosphere",
+      "ro": "Atmosferă echilibrată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed beach with organized and quieter areas",
+      "ro": "Plajă relaxată cu zone amenajate și zone liniștite"
+    },
+    "waterEntry": {
+      "en": "Gradual sandy entry with rocky sections",
+      "ro": "Intrare lină cu zone nisipoase și stâncoase"
+    },
+    "waveLevel": {
+      "en": "Usually calm and protected from northern winds",
+      "ro": "De obicei calmă și protejată de vânturile nordice"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand with small pebbles",
+    "ro": "Nisip auriu grosier cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.4 - 3 m (gradual slope with rocky patches)",
+      "ro": "0.4 - 3 m (pantă lină cu zone stâncoase)"
+    },
+    "clarity": {
+      "en": "Crystal clear (visibility 5–7 m)",
+      "ro": "Cristalină (vizibilitate 5–7 m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "photography",
+      "Hidden gem",
+      "kayak",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Priveliști superbe",
+      "Loc ascuns special",
+      "Kayak și canoe",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxation",
+      "Snorkeling",
+      "Kayaking"
+    ],
+    "ro": [
+      "Familii",
+      "Relaxare",
+      "Snorkeling",
+      "Caiac"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach volleyball",
+      "Snorkeling",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Volei pe plajă",
+      "Snorkeling",
+      "Caiac"
+    ]
+  },
+  "occupancy": "50-70% (comfortable spacing)",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€6–12 (umbrella included)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$ (moderate)",
+  "recommendationRating": 4.5,
+  "videos": [],
+  "description": {
+    "en": "Xiropotamos Beach is a scenic and well-balanced beach overlooking the Toroneos Gulf, combining natural beauty with comfortable facilities and a relaxed atmosphere.\n\nThe beach stretches for around 800 meters and features coarse golden sand mixed with small pebbles. The seabed has a gradual sandy entry with occasional rocky patches, making it suitable both for relaxed swimming and for visitors interested in snorkeling and exploration.\n\nOne of the main advantages of Xiropotamos is its protected position, which keeps the sea relatively calm even when northern winds affect nearby beaches. Water clarity is consistently very good, often allowing visibility between 5 and 7 meters.\n\nThe beach is partially organized, with sunbeds, showers, beach volleyball courts and two beach bars offering drinks, snacks and light meals. Despite these facilities, Xiropotamos still maintains a peaceful atmosphere with enough space between visitors.\n\nThe eastern rocky side is especially popular for snorkeling, while kayaking tours and boat rentals provide opportunities to explore nearby coves and the surrounding coastline.\n\nFamilies appreciate the easy access, paved road and large free parking area located only a few minutes from the beach. Wheelchair-friendly pathways are also available in the central section.\n\nXiropotamos is also known for its sunset scenery, with many visitors choosing to stay until evening to enjoy the golden light over the Toroneos Gulf from the beach bars.\n\nThe quieter western section is recommended for visitors seeking more privacy and a calmer atmosphere during busy summer weekends.",
+    "ro": "Plaja Xiropotamos este o plajă pitorească și echilibrată, cu vedere spre Golful Toroneos, combinând frumusețea naturală cu facilități confortabile și o atmosferă relaxată.\n\nPlaja are aproximativ 800 de metri lungime și este formată din nisip auriu grosier combinat cu pietricele mici. Fundul mării are o intrare lină și nisipoasă, cu unele zone stâncoase, fiind potrivit atât pentru înot relaxat, cât și pentru snorkeling și explorare.\n\nUnul dintre avantajele principale ale plajei Xiropotamos este poziția protejată, care menține apa relativ calmă chiar și atunci când vânturile nordice afectează alte plaje din apropiere. Claritatea apei este foarte bună, vizibilitatea ajungând frecvent la 5–7 metri.\n\nPlaja este parțial amenajată, având șezlonguri, dușuri, terenuri de volei pe plajă și două beach baruri care oferă băuturi, gustări și mese ușoare. În ciuda facilităților, atmosfera rămâne liniștită și aerisită.\n\nZona stâncoasă din est este apreciată pentru snorkeling, iar tururile cu caiacul și închirierile de bărci permit explorarea golfurilor și a coastei din apropiere.\n\nFamiliile apreciază accesul facil, drumul asfaltat și parcarea mare gratuită aflată la doar câteva minute de plajă. În zona centrală există și pasarele accesibile pentru scaune rulante.\n\nXiropotamos este cunoscută și pentru apusurile spectaculoase, mulți vizitatori alegând să rămână până seara pentru a admira lumina aurie peste Golful Toroneos direct de la beach baruri.\n\nZona vestică, mai liniștită, este recomandată celor care caută mai multă intimitate și calm în weekendurile aglomerate."
+  },
+  "blueFlag": false
+}

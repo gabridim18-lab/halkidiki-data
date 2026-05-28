@@ -2878,5 +2878,21 @@
     "rating": 4.3,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "xiropotamos-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Xiropotamos Beach",
+      "ro": "Plaja Xiropotamos"
+    },
+    "previewImage": "xiropotamos-beach.webp",
+    "coordinates": {
+      "lat": 40.36365226386835,
+      "lon": 23.88412784588372
+    },
+    "rating": 4.5,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
