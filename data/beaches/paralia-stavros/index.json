@@ -1,0 +1,154 @@
+{
+  "id": "paralia-stavros",
+  "slug": "paralia-stavros",
+  "name": {
+    "en": "Paralia Stavros",
+    "ro": "Plaja Stavros"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Large family-friendly organized beach",
+    "ro": "Plajă mare organizată pentru familii"
+  },
+  "coordinates": {
+    "lat": 40.66077892112816,
+    "lon": 23.72379070479856
+  },
+  "editorChoice": false,
+  "length": 3000,
+  "badge": "Family",
+  "images": [
+    "paralia-stavros.webp",
+    "paralia-stavros1.webp",
+    "paralia-stavros2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct beach access from Stavros",
+      "ro": "Acces direct din Stavros"
+    },
+    "parkingDifficulty": {
+      "en": "Easy parking available",
+      "ro": "Parcare ușoară disponibilă"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively in summer",
+      "ro": "Moderat animată vara"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Relaxed, family-oriented and accessible",
+      "ro": "Relaxată, accesibilă și orientată spre familii"
+    },
+    "waterEntry": {
+      "en": "Extremely shallow and sandy",
+      "ro": "Foarte puțin adâncă și nisipoasă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.8 m (very gradual slope)",
+      "ro": "0.3 - 1.8 m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz clar"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "family",
+      "Hidden gem",
+      "Hidden gem",
+      "photography"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Priveliști superbe"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to early September",
+    "ro": "Iunie - început de Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Relaxed swimming",
+      "Beach walks",
+      "Paddleboarding",
+      "Summer holidays"
+    ],
+    "ro": [
+      "Familii",
+      "Înot relaxat",
+      "Plimbări pe plajă",
+      "Paddleboarding",
+      "Vacanțe de vară"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": {
+    "en": "60-90% (high in peak season)",
+    "ro": "60-90% (ridicată în sezonul de vârf)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€8–15",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Aeolos Beach Bar",
+      "Roda Surf Club",
+      "Taverna Plaz"
+    ],
+    "pointsOfInterest": [
+      "Stavros promenade",
+      "Strymonian Gulf viewpoints",
+      "Local tavernas",
+      "Small fishing harbor"
+    ]
+  },
+  "servicePriceCategory": "$$ (mid-range)",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Paralia Stavros is a long and welcoming beach located on the northern coastline of Halkidiki, well known for its shallow turquoise water, soft golden sand and family-friendly atmosphere.\n\nStretching for approximately 3 kilometers along the Strymonian Gulf, the beach offers plenty of space even during busy summer periods.\n\nThe seabed remains shallow for a long distance from the shore, making it one of the safest beaches in the area for children and relaxed swimming.\n\nThe sand is soft and comfortable for walking barefoot, while the generally calm sea conditions create a pleasant environment for long swimming sessions and water activities.\n\nParalia Stavros combines organized beach sections with more open free areas, allowing visitors to choose between comfort and quieter spaces.\n\nSeveral beach bars along the central sections provide sunbeds, refreshments, cocktails and light meals, contributing to the lively but not overwhelming summer atmosphere.\n\nPaddleboarding and beach games are popular activities thanks to the calm water and wide shoreline.\n\nThe beach is also ideal for long walks, especially during sunset when the western sky lights up over the Strymonian Gulf and Mount Chortiatis in the distance.\n\nFishing boats and small pleasure boats are often visible near the coast, adding a traditional seaside character to the scenery.\n\nFacilities are good and include toilets, showers, organized sunbed areas and easy parking access close to the beach.\n\nHotels, apartments, tavernas and cafes are located nearby, making Stavros a practical destination for longer summer stays.\n\nDespite being more developed than remote beaches in Sithonia, Paralia Stavros still maintains a relaxed and enjoyable Greek seaside atmosphere.\n\nIt is especially popular with families, casual swimmers and visitors looking for comfort, easy access and long sandy beaches with shallow clear water.",
+    "ro": "Paralia Stavros este o plajă lungă și primitoare situată pe coasta nordică a Halkidiki, cunoscută pentru apa turcoaz puțin adâncă, nisipul fin auriu și atmosfera potrivită pentru familii.\n\nÎntinsă pe aproximativ 3 kilometri de-a lungul Golfului Strymonian, plaja oferă foarte mult spațiu chiar și în perioadele aglomerate de vară.\n\nFundul mării rămâne puțin adânc pe distanțe mari de la țărm, ceea ce face plaja una dintre cele mai sigure din zonă pentru copii și înot relaxat.\n\nNisipul este moale și confortabil pentru mers desculț, iar condițiile calme ale mării creează un mediu foarte plăcut pentru înot și activități pe apă.\n\nParalia Stavros combină zone organizate cu sectoare mai libere, oferind atât confort cât și spațiu pentru cei care caută mai multă liniște.\n\nMai multe beach baruri amplasate în zonele centrale oferă șezlonguri, băuturi, cocktailuri și gustări, contribuind la atmosfera animată dar relaxată a verii.\n\nPaddleboarding-ul și jocurile pe plajă sunt foarte populare datorită apei calme și plajei late.\n\nPlaja este ideală și pentru plimbări lungi, mai ales la apus când cerul se colorează peste Golful Strymonian și Muntele Chortiatis aflat în depărtare.\n\nBărcile de pescuit și ambarcațiunile mici de agrement oferă zonei un aer tradițional grecesc.\n\nFacilitățile sunt bune și includ toalete, dușuri, zone organizate cu șezlonguri și acces facil către parcări.\n\nHotelurile, apartamentele, tavernele și cafenelele din apropiere fac din Stavros o destinație practică pentru vacanțe mai lungi.\n\nDeși este mai dezvoltată decât plajele izolate din Sithonia, Paralia Stavros păstrează o atmosferă grecească relaxată și plăcută.\n\nEste foarte apreciată de familii, înotători relaxați și turiști care caută confort, acces ușor și plaje lungi cu apă clară și puțin adâncă."
+  },
+  "blueFlag": false
+}

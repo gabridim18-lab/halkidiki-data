@@ -3054,5 +3054,21 @@
     "rating": 4.2,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "paralia-stavros",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Paralia Stavros",
+      "ro": "Plaja Stavros"
+    },
+    "previewImage": "paralia-stavros.webp",
+    "coordinates": {
+      "lat": 40.66077892112816,
+      "lon": 23.72379070479856
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]
