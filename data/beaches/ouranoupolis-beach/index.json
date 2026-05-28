@@ -1,0 +1,152 @@
+{
+  "id": "ouranoupolis-beach",
+  "slug": "ouranoupolis-beach",
+  "name": {
+    "en": "Ouranoupolis Beach",
+    "ro": "Plaja Ouranoupolis"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Organized gateway beach near Mount Athos",
+    "ro": "Plajă organizată la intrarea spre Muntele Athos"
+  },
+  "coordinates": {
+    "lat": 40.324253711062546,
+    "lon": 23.98236477658658
+  },
+  "editorChoice": false,
+  "length": 1200,
+  "badge": "Activities",
+  "images": [
+    "ouranoupolis-beach.webp",
+    "ouranoupolis-beach1.webp",
+    "ouranoupolis-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "5 min from the port",
+      "ro": "5 minute de mers de la port"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in high season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Balanced mix of tourism, culture and relaxation",
+      "ro": "Combinație între turism, cultură și relaxare"
+    },
+    "waterEntry": {
+      "en": "Gentle sandy-pebble entry with calm water",
+      "ro": "Intrare lină cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm due to protected bay",
+      "ro": "De obicei calmă datorită golfului protejat"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand with small pebbles",
+    "ro": "Nisip auriu grosier cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.5 - 3 m (gradual slope)",
+      "ro": "0.5 - 3 m (pantă lină)"
+    },
+    "clarity": {
+      "en": "Azure blue (visibility 4-6m)",
+      "ro": "Albastru azuriu (vizibilitate 4–6 m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "boat",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Plimbări cu barca",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Boat trips",
+      "Cultural visits",
+      "Relaxed swimming"
+    ],
+    "ro": [
+      "Familii",
+      "Excursii cu barca",
+      "Vizite culturale",
+      "Înot relaxat"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Boat trips",
+      "Snorkeling",
+      "Sunbathing"
+    ],
+    "ro": [
+      "Înot",
+      "Excursii cu barca",
+      "Snorkeling",
+      "Stat la soare"
+    ]
+  },
+  "occupancy": {
+    "en": "60-80% (busy in peak season)",
+    "ro": "60-80% (aglomerată în vârf de sezon)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€8–15 (umbrela inclusă)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Ouranoupolis Beach Club",
+      "Athonas Cafe"
+    ],
+    "pointsOfInterest": [
+      "Byzantine Tower",
+      "Mount Athos cruise departures",
+      "Ouranoupoli Port"
+    ]
+  },
+  "servicePriceCategory": "$$ (moderate)",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Ouranoupolis Beach is one of the most accessible and culturally unique beaches in the Olympiada region, located directly beside the historic gateway town leading to Mount Athos.\n\nStretching for approximately 1.2 kilometers, the beach combines coarse golden sand with small pebbles and offers calm, protected waters suitable for relaxed swimming and family visits.\n\nThe seabed has a gentle slope in most areas, allowing easy access to the water while maintaining good clarity with beautiful azure-blue tones.\n\nUnlike more remote beaches in Halkidiki, Ouranoupolis Beach benefits from immediate proximity to restaurants, cafes, shops, seaside promenades and organized tourist services.\n\nThe atmosphere blends beach relaxation with a strong maritime and cultural identity. Visitors can observe monastery boats, fishing vessels and Mount Athos cruises departing from the nearby port throughout the day.\n\nSeveral organized sections provide sunbeds, umbrellas, showers and beach bar services, while the eastern side of the beach tends to remain quieter and less crowded during peak summer months.\n\nOne of the main nearby attractions is the famous Byzantine Tower of Ouranoupoli, located near the western end of the beach and considered a symbol of the town.\n\nBoat excursions around the Athos coastline are among the most popular local experiences, offering visitors panoramic views of the monasteries from the sea while respecting Mount Athos access regulations.\n\nSnorkeling is possible around the rocky edges of the beach, although the location is more popular for relaxed swimming, walking and enjoying the coastal atmosphere.\n\nDuring summer evenings, the promenade becomes lively with tavernas, cafes and visitors enjoying sunset walks with views toward the sea and Mount Athos.\n\nOuranoupolis Beach is an excellent choice for travelers who want a combination of convenience, cultural atmosphere, organized facilities and easy access to nearby attractions.",
+    "ro": "Plaja Ouranoupolis este una dintre cele mai accesibile și speciale plaje din regiunea Olympiada, fiind situată chiar lângă orașul istoric care reprezintă poarta de intrare către Muntele Athos.\n\nÎntinsă pe aproximativ 1,2 kilometri, plaja combină nisipul auriu mai grosier cu pietricele mici și oferă ape calme și protejate, potrivite pentru înot relaxat și familii.\n\nFundul mării are în general o pantă lină, facilitând intrarea în apă și menținând în același timp o claritate bună, cu nuanțe frumoase de albastru azuriu.\n\nSpre deosebire de plajele mai izolate din Halkidiki, Ouranoupolis Beach beneficiază de apropierea imediată a restaurantelor, cafenelelor, magazinelor și promenadei turistice.\n\nAtmosfera combină relaxarea de litoral cu identitatea culturală și maritimă a orașului. Vizitatorii pot observa bărcile mănăstirești, vasele de pescuit și croazierele spre Athos care pleacă din portul apropiat.\n\nMai multe sectoare organizate oferă șezlonguri, umbrele, dușuri și beach baruri, în timp ce partea estică a plajei este de obicei mai liniștită și mai puțin aglomerată.\n\nUnul dintre cele mai importante obiective din apropiere este celebrul Turn Bizantin din Ouranoupoli, situat spre capătul vestic al plajei și considerat simbolul localității.\n\nExcursiile cu barca în jurul coastei Athosului sunt printre cele mai populare activități locale, oferind priveliști spectaculoase asupra mănăstirilor de pe mare.\n\nSnorkeling-ul este posibil în zonele cu stânci de la margine, deși plaja este mai apreciată pentru înot relaxat, plimbări și atmosfera de promenadă.\n\nÎn serile de vară, zona devine animată datorită tavernelor, cafenelelor și plimbărilor la apus cu vedere spre mare și Athos.\n\nOuranoupolis Beach este o alegere excelentă pentru turiștii care caută combinația dintre confort, facilități organizate, atmosferă culturală și acces rapid către atracțiile din zonă."
+  },
+  "blueFlag": false
+}

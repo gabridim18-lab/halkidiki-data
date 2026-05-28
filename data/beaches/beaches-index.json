@@ -2926,5 +2926,21 @@
     "rating": 4.1,
     "waterTemperature": 23,
     "suitableForChildren": true
+  },
+  {
+    "id": "ouranoupolis-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Ouranoupolis Beach",
+      "ro": "Plaja Ouranoupolis"
+    },
+    "previewImage": "ouranoupolis-beach.webp",
+    "coordinates": {
+      "lat": 40.324253711062546,
+      "lon": 23.98236477658658
+    },
+    "rating": 4.3,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
