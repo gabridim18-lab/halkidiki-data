@@ -3118,5 +3118,21 @@
     "rating": 4.4,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "nea-vrasna-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Nea Vrasna Beach",
+      "ro": "Plaja Nea Vrasna"
+    },
+    "previewImage": "nea-vrasna-beach.webp",
+    "coordinates": {
+      "lat": 40.70513880556822,
+      "lon": 23.7016977447862
+    },
+    "rating": 3.9,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]

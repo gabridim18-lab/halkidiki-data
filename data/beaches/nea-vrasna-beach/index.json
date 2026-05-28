@@ -1,0 +1,154 @@
+{
+  "id": "nea-vrasna-beach",
+  "slug": "nea-vrasna-beach",
+  "name": {
+    "en": "Nea Vrasna Beach",
+    "ro": "Plaja Nea Vrasna"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Large organized family beach with shallow waters",
+    "ro": "Plajă mare organizată pentru familii cu ape puțin adânci"
+  },
+  "coordinates": {
+    "lat": 40.70513880556822,
+    "lon": 23.7016977447862
+  },
+  "editorChoice": false,
+  "length": 3000,
+  "badge": "Family",
+  "images": [
+    "nea-vrasna-beach.webp",
+    "nea-vrasna-beach1.webp",
+    "nea-vrasna-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Very close parking and promenade access",
+      "ro": "Acces rapid din parcare și promenadă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy to moderate in peak season",
+      "ro": "Ușor spre moderat în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively in central sections",
+      "ro": "Animată în zonele centrale"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Family-friendly, organized and social",
+      "ro": "Prietenos pentru familii, organizat și social"
+    },
+    "waterEntry": {
+      "en": "Extremely shallow and gentle",
+      "ro": "Foarte puțin adâncă și lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm with light waves",
+      "ro": "De obicei calmă cu valuri mici"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 1.8 m (very gradual slope)",
+      "ro": "0.3 - 1.8 m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz clar"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "family",
+      "Hidden gem",
+      "Hidden gem",
+      "walking"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "Late June to early September",
+    "ro": "Sfârșit de Iunie - început de Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Children",
+      "Relaxed swimming",
+      "Groups",
+      "Beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Copii",
+      "Înot relaxat",
+      "Grupuri",
+      "Plimbări pe plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": {
+    "en": "60-90% (high in peak season)",
+    "ro": "60-90% (ridicată în sezonul de vârf)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€8–15",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Aeolos Beach Bar",
+      "Roda Surf Club",
+      "Taverna Plaz"
+    ],
+    "pointsOfInterest": [
+      "Thermaic Gulf promenade",
+      "Paddleboard rental areas",
+      "Fishing boat viewpoints",
+      "Beachfront cafés"
+    ]
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Nea Vrasna Beach stretches for approximately 3 kilometers along the Thermaic Gulf and is one of the most family-friendly organized beaches in northern Halkidiki.\n\nThe beach is known for its extremely shallow waters, soft golden sand and wide open shoreline that allows visitors to comfortably spread out even during busy summer periods.\n\nThe seabed remains shallow for a long distance from the shore, creating very safe swimming conditions for children and relaxed swimmers.\n\nThe calm turquoise water and soft sand also make the beach comfortable for walking barefoot and spending long hours near the sea.\n\nSeveral organized sections provide sunbeds, umbrellas, showers and beach bars with music, cocktails, snacks and traditional Greek meals.\n\nThe central areas are usually livelier during peak season, while quieter sections can still be found further away from the busiest beach bars.\n\nPaddleboarding is especially popular thanks to the calm morning conditions and shallow water.\n\nThe beach promenade includes cafés, restaurants, mini markets and accommodation options, making Nea Vrasna convenient for both day visitors and longer family holidays.\n\nFishing boats and pleasure boats are often visible offshore, adding to the relaxed coastal atmosphere.\n\nDuring sunset, the western-facing coastline offers beautiful golden light and panoramic views across the Thermaic Gulf.\n\nThe beach is easily accessible by car and public transport, with several parking options available near the main organized sections.\n\nNea Vrasna Beach is ideal for families, relaxed swimming, long beach walks and visitors looking for a comfortable and fully organized summer destination with easy access and calm waters.",
+    "ro": "Plaja Nea Vrasna se întinde pe aproximativ 3 kilometri de-a lungul Golfului Thermaic și este una dintre cele mai prietenoase plaje organizate pentru familii din nordul Halkidiki.\n\nPlaja este cunoscută pentru apa extrem de puțin adâncă, nisipul auriu fin și linia largă a țărmului care permite turiștilor să găsească ușor spațiu chiar și în perioadele aglomerate ale verii.\n\nFundul mării rămâne puțin adânc pe o distanță mare de la mal, oferind condiții foarte sigure pentru copii și pentru înot relaxat.\n\nApa calmă turcoaz și nisipul moale fac plaja foarte confortabilă pentru mers desculț și petrecerea unor zile lungi la mare.\n\nMai multe sectoare organizate oferă șezlonguri, umbrele, dușuri și beach baruri cu muzică, cocktailuri, gustări și preparate grecești.\n\nZonele centrale sunt mai animate în sezonul de vârf, în timp ce sectoarele mai îndepărtate rămân mai liniștite.\n\nPaddleboarding-ul este foarte popular datorită apei calme din timpul dimineții și adâncimii reduse.\n\nPromenada plajei include cafenele, restaurante, mini marketuri și unități de cazare, făcând Nea Vrasna foarte convenabilă atât pentru vizite scurte cât și pentru vacanțe mai lungi.\n\nBărcile de pescuit și cele de agrement pot fi observate în larg, contribuind la atmosfera relaxată a coastei.\n\nLa apus, coasta orientată spre vest oferă lumină aurie spectaculoasă și priveliști frumoase asupra Golfului Thermaic.\n\nPlaja este ușor accesibilă atât cu mașina cât și cu transportul public, iar în apropierea sectoarelor principale există mai multe zone de parcare.\n\nPlaja Nea Vrasna este ideală pentru familii, înot relaxat, plimbări lungi pe mal și pentru turiștii care caută o destinație organizată, confortabilă și ușor accesibilă."
+  },
+  "blueFlag": false
+}
