@@ -1,0 +1,150 @@
+{
+  "id": "paralia-ouranoupoli",
+  "slug": "paralia-ouranoupoli",
+  "name": {
+    "en": "Paralia Ouranoupoli",
+    "ro": "Plaja Ouranoupoli"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Town beach with cultural atmosphere",
+    "ro": "Plajă urbană cu atmosferă culturală"
+  },
+  "coordinates": {
+    "lat": 40.32970238990573,
+    "lon": 23.978678442152564
+  },
+  "editorChoice": false,
+  "length": 1200,
+  "badge": "Activities",
+  "images": [
+    "paralia-ouranoupoli.webp",
+    "paralia-ouranoupoli1.webp",
+    "paralia-ouranoupoli2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct town access",
+      "ro": "Acces direct din oraș"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in summer",
+      "ro": "Moderată vara"
+    },
+    "noiseLevel": {
+      "en": "Lively tourist atmosphere",
+      "ro": "Atmosferă turistică animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Organized beach with cultural and seaside atmosphere",
+      "ro": "Plajă organizată cu atmosferă culturală și marină"
+    },
+    "waterEntry": {
+      "en": "Mostly gradual with mixed sandy-pebble seabed",
+      "ro": "În general lină, cu fund mixt nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Usually calm with light wave activity",
+      "ro": "De obicei calmă, cu valuri ușoare"
+    }
+  },
+  "sand": {
+    "en": "Mix of fine sand and small pebbles",
+    "ro": "Amestec de nisip fin și pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.5 - 2.5 m (varied with gradual slope)",
+      "ro": "0.5 - 2.5 m (variază cu pantă lină)"
+    },
+    "clarity": {
+      "en": "Clear blue with green hues",
+      "ro": "Albastru clar cu nuanțe verzi"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "walking",
+      "Hidden gem",
+      "boat"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Promenadă pentru plimbări",
+      "Loc ascuns special",
+      "Plimbări cu barca"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Walking",
+      "Town atmosphere",
+      "Boat watching"
+    ],
+    "ro": [
+      "Familii",
+      "Plimbări",
+      "Atmosferă urbană",
+      "Privit bărci"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Boat watching",
+      "Walking"
+    ],
+    "ro": [
+      "Înot",
+      "Privit bărci",
+      "Plimbare"
+    ]
+  },
+  "occupancy": {
+    "en": "50-80% (busy in peak season)",
+    "ro": "50-80% (aglomerată în vârf de sezon)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€10–20 (premium near pier)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Akti Cafe",
+      "To Psaraki",
+      "Byzantino Restaurant"
+    ],
+    "pointsOfInterest": [
+      "Byzantine Tower of Ouranoupoli",
+      "Mount Athos cruise departure point"
+    ]
+  },
+  "servicePriceCategory": "$$ (tourist area prices)",
+  "recommendationRating": 4.1,
+  "videos": [],
+  "description": {
+    "en": "Paralia Ouranoupoli is the main beach of the historic gateway town leading to Mount Athos. Stretching for around 1.2 kilometers along the coastline, it combines a relaxed beach atmosphere with strong cultural and maritime character.\n\nThe beach features a mix of fine sand and small pebbles, with generally calm and clear water displaying blue and green tones depending on sunlight and sea conditions. The seabed has a gradual slope in most sections, making it suitable for families, casual swimmers and visitors looking for easy sea access.\n\nUnlike the more remote beaches of Sithonia, Paralia Ouranoupoli offers a lively atmosphere with direct access to restaurants, cafes, shops and seaside promenades. Visitors can watch monastery boats and ferries departing toward Mount Athos, giving the beach a unique atmosphere connected to the spiritual and historical identity of the region.\n\nThe best-organized sections are located near the port area, where visitors can find sunbeds, umbrellas, beach cafes and easy access to nearby facilities. Waterfront tavernas serve fresh seafood and traditional Greek dishes while offering views toward the sea and the Athos peninsula.\n\nThe beach promenade becomes especially pleasant during sunset, when many visitors enjoy evening walks alongside the harbor and traditional stone buildings.\n\nParalia Ouranoupoli is also an excellent starting point for short coastal cruises around Mount Athos waters, allowing travelers to admire the monasteries from the sea while respecting access restrictions.\n\nOne of the most important nearby attractions is the Byzantine Tower of Ouranoupoli, a 14th-century landmark located close to the waterfront and considered one of the symbols of the town.\n\nAlthough the beach may become busy during peak summer months, especially near the center and port, it remains a comfortable and practical choice for travelers who want both beach access and urban convenience in the same location.",
+    "ro": "Plaja Ouranoupoli este plaja principală a orașului istoric care reprezintă poarta de acces către Muntele Athos. Întinsă pe aproximativ 1,2 kilometri de coastă, combină atmosfera relaxată de litoral cu un puternic caracter cultural și marin.\n\nPlaja este formată dintr-un amestec de nisip fin și pietricele mici, iar apa este în general calmă și limpede, având nuanțe albastre și verzui în funcție de lumină și condițiile mării. Fundul mării are o pantă relativ lină în majoritatea zonelor, fiind potrivit pentru familii și înot relaxat.\n\nSpre deosebire de plajele mai izolate din Sithonia, Paralia Ouranoupoli oferă o atmosferă animată, cu acces direct la restaurante, cafenele, magazine și promenadă. Vizitatorii pot observa bărcile mănăstirești și feriboturile care pleacă spre Athos, ceea ce oferă locului o identitate aparte.\n\nCele mai bine organizate sectoare sunt în apropierea portului, unde există șezlonguri, umbrele și cafenele de plajă. Tavernele de pe mal servesc fructe de mare proaspete și preparate tradiționale grecești, multe dintre ele având vedere spre mare și peninsula Athos.\n\nPromenada devine deosebit de plăcută la apus, când mulți turiști aleg să se plimbe pe lângă port și clădirile tradiționale.\n\nPlaja este și un punct excelent de plecare pentru croaziere de coastă în jurul apelor Athosului, care permit admirarea mănăstirilor de pe mare.\n\nUnul dintre cele mai importante obiective din apropiere este Turnul Bizantin din Ouranoupoli, construit în secolul al XIV-lea și considerat simbolul localității.\n\nDeși în sezon poate deveni aglomerată, mai ales în apropierea portului, rămâne o alegere practică și confortabilă pentru cei care doresc combinația dintre plajă și facilitățile unui oraș turistic."
+  },
+  "blueFlag": false
+}
