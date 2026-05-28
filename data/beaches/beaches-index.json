@@ -3102,5 +3102,21 @@
     "rating": 4.7,
     "waterTemperature": 25,
     "suitableForChildren": false
+  },
+  {
+    "id": "vrasna-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Vrasna Beach",
+      "ro": "Plaja Vrasna"
+    },
+    "previewImage": "vrasna-beach.webp",
+    "coordinates": {
+      "lat": 40.67757372671149,
+      "lon": 23.693224749807197
+    },
+    "rating": 4.4,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

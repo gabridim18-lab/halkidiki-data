@@ -1,0 +1,156 @@
+{
+  "id": "vrasna-beach",
+  "slug": "vrasna-beach",
+  "name": {
+    "en": "Vrasna Beach",
+    "ro": "Plaja Vrasna"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Large organized beach with water sports and lively atmosphere",
+    "ro": "Plajă mare organizată cu sporturi nautice și atmosferă animată"
+  },
+  "coordinates": {
+    "lat": 40.67757372671149,
+    "lon": 23.693224749807197
+  },
+  "editorChoice": false,
+  "length": 1500,
+  "badge": "Activities",
+  "images": [
+    "vrasna-beach.webp",
+    "vrasna-beach1.webp",
+    "vrasna-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk from parking",
+      "ro": "Scurtă plimbare de la parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Easy parking access",
+      "ro": "Parcare ușor accesibilă"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively during summer",
+      "ro": "Destul de animată vara"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Energetic, family-friendly and active",
+      "ro": "Energică, potrivită pentru familii și activă"
+    },
+    "waterEntry": {
+      "en": "Variable slope with mostly shallow entry",
+      "ro": "Pantă variabilă cu intrare în general puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm in mornings, windier later",
+      "ro": "De obicei calmă dimineața, mai vântoasă ulterior"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with some pebbles",
+    "ro": "Nisip auriu fin cu pietricele"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 2.5 m (variable slope)",
+      "ro": "0.3 - 2.5 m (pantă variabilă)"
+    },
+    "clarity": {
+      "en": "Clear emerald green",
+      "ro": "Smarald clar"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "walking",
+      "kayak"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Promenadă pentru plimbări",
+      "Kayak și canoe"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to early September",
+    "ro": "Iunie - început de Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Water sports",
+      "Groups",
+      "Beach activities",
+      "Long beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Sporturi nautice",
+      "Grupuri",
+      "Activități pe plajă",
+      "Plimbări lungi"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Windsurfing",
+      "Beach soccer",
+      "Kayaking"
+    ],
+    "ro": [
+      "Înot",
+      "Windsurfing",
+      "Fotbal pe plajă",
+      "Caiac"
+    ]
+  },
+  "occupancy": {
+    "en": "70-90% (high season)",
+    "ro": "70-90% (sezon de vârf)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€10–15/day",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Vrasna Beach Bar",
+      "Ammos Restaurant",
+      "Paralia Cafe"
+    ],
+    "pointsOfInterest": [
+      "Northern snorkeling rocks",
+      "Kayak exploration coves",
+      "Water sports center",
+      "Beach volleyball zones"
+    ]
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.4,
+  "videos": [],
+  "description": {
+    "en": "Vrasna Beach is a long and lively beach stretching for approximately 1.5 kilometers along the eastern coastline of northern Halkidiki.\n\nKnown for its wide sandy shoreline, emerald-green water and consistent summer breeze, the beach offers a balanced mix between relaxation, water sports and family-friendly comfort.\n\nThe beach combines fine golden sand with small pebbly sections, while the seabed varies gradually depending on the area.\n\nMost sections remain shallow close to the shore, making the beach suitable for families with children and casual swimmers.\n\nNorthern rocky sections provide decent snorkeling opportunities and slightly clearer water for visitors interested in exploring underwater scenery.\n\nVrasna Beach is particularly appreciated by windsurfing and kayaking enthusiasts due to the stable afternoon winds that create ideal conditions for water sports.\n\nSeveral organized sections offer sunbeds, umbrellas, showers and beach bars ranging from simple cafés to full restaurants serving seafood, cocktails and traditional Greek meals.\n\nThe atmosphere becomes livelier during the peak summer months, especially around the central beach bars where music and evening beach events occasionally take place.\n\nAt the same time, visitors can still find calmer sections further away from the busiest organized areas.\n\nBeach soccer and volleyball courts contribute to the active atmosphere, while the long coastline is ideal for relaxed barefoot walks during sunrise or sunset.\n\nThe beach is easily accessible from the main road and offers large parking areas, making it comfortable even during high season.\n\nPublic transport connections from Thessaloniki during summer also make Vrasna Beach popular among both local and international visitors.\n\nKayak rentals allow exploration of nearby coves north of the beach, while the emerald water and open coastal scenery create beautiful views throughout the day.\n\nVrasna Beach is an excellent choice for visitors looking for a large organized beach with water sports, family-friendly swimming conditions and a lively but not overwhelming atmosphere.",
+    "ro": "Plaja Vrasna este o plajă lungă și animată, întinzându-se pe aproximativ 1,5 kilometri de-a lungul coastei estice din nordul Halkidiki.\n\nCunoscută pentru țărmul larg cu nisip fin, apa verde-smarald și briza constantă din timpul verii, plaja oferă un echilibru foarte bun între relaxare, sporturi nautice și confort pentru familii.\n\nPlaja combină nisip auriu fin cu unele porțiuni cu pietricele mici, iar fundul mării are o pantă variabilă în funcție de zonă.\n\nMajoritatea sectoarelor rămân puțin adânci aproape de mal, ceea ce face plaja potrivită pentru familii cu copii și pentru înot relaxat.\n\nZonele stâncoase din nord oferă condiții bune pentru snorkeling și apă ceva mai clară pentru cei interesați de explorarea subacvatică.\n\nPlaja Vrasna este apreciată în special de pasionații de windsurfing și caiac datorită vântului stabil din timpul după-amiezii, care creează condiții ideale pentru sporturi nautice.\n\nMai multe sectoare organizate oferă șezlonguri, umbrele, dușuri și beach baruri, de la cafenele simple până la restaurante complete cu fructe de mare, cocktailuri și preparate grecești.\n\nAtmosfera devine mai animată în lunile de vârf ale verii, mai ales în jurul beach barurilor centrale unde au loc ocazional evenimente și petreceri pe plajă.\n\nÎn același timp, turiștii pot găsi și zone mai liniștite la distanță de sectoarele centrale.\n\nTerenurile pentru fotbal și volei pe plajă contribuie la atmosfera activă, iar linia lungă a țărmului este ideală pentru plimbări relaxante la răsărit sau apus.\n\nPlaja este ușor accesibilă de pe drumul principal și dispune de parcări mari, ceea ce o face confortabilă chiar și în sezonul de vârf.\n\nConexiunile cu transport public din Salonic pe timpul verii fac plaja populară atât pentru localnici, cât și pentru turiști.\n\nÎnchirierea de caiace permite explorarea golfurilor din nordul plajei, iar apa verde-smarald și peisajul deschis oferă priveliști frumoase pe tot parcursul zilei.\n\nPlaja Vrasna este o alegere excelentă pentru cei care caută o plajă mare și organizată, cu sporturi nautice, condiții bune pentru familii și o atmosferă animată, dar fără a deveni copleșitoare."
+  },
+  "blueFlag": false
+}
