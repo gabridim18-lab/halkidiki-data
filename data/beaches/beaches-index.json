@@ -3070,5 +3070,21 @@
     "rating": 3.9,
     "waterTemperature": 24,
     "suitableForChildren": true
+  },
+  {
+    "id": "milies-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Milies Beach",
+      "ro": "Plaja Milies"
+    },
+    "previewImage": "milies-beach.webp",
+    "coordinates": {
+      "lat": 40.66395342094962,
+      "lon": 23.71604610835432
+    },
+    "rating": 4.3,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

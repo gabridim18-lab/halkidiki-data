@@ -1,0 +1,155 @@
+{
+  "id": "milies-beach",
+  "slug": "milies-beach",
+  "name": {
+    "en": "Milies Beach",
+    "ro": "Plaja Milies"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Organized scenic beach with activities",
+    "ro": "Plajă organizată și pitorească cu activități"
+  },
+  "coordinates": {
+    "lat": 40.66395342094962,
+    "lon": 23.71604610835432
+  },
+  "editorChoice": false,
+  "length": 800,
+  "badge": "Activities",
+  "images": [
+    "milies-beach.webp",
+    "milies-beach1.webp",
+    "milies-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Short walk from parking area",
+      "ro": "Scurtă plimbare de la parcare"
+    },
+    "parkingDifficulty": {
+      "en": "Easy parking available",
+      "ro": "Parcare ușoară disponibilă"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively with music",
+      "ro": "Moderat animată cu muzică"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Modern, social and relaxed",
+      "ro": "Modernă, socială și relaxată"
+    },
+    "waterEntry": {
+      "en": "Moderate sandy-pebble entry",
+      "ro": "Intrare moderată cu nisip și pietricele"
+    },
+    "waveLevel": {
+      "en": "Mostly calm",
+      "ro": "În general calmă"
+    }
+  },
+  "sand": {
+    "en": "Golden coarse sand mixed with small pebbles",
+    "ro": "Nisip auriu grosier cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.5 - 3.0 m (moderate slope)",
+      "ro": "0.5 - 3.0 m (pantă moderată)"
+    },
+    "clarity": {
+      "en": "Deep blue crystal clear",
+      "ro": "Albastru intens cristalin"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem",
+      "sports"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Sporturi pe plajă"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "Late June to September",
+    "ro": "Sfârșit de Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Groups of friends",
+      "Water sports",
+      "Snorkeling",
+      "Beach volleyball"
+    ],
+    "ro": [
+      "Familii",
+      "Grupuri de prieteni",
+      "Sporturi nautice",
+      "Snorkeling",
+      "Volei pe plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Snorkeling",
+      "Beach volleyball",
+      "Jet skiing"
+    ],
+    "ro": [
+      "Înot",
+      "Snorkeling",
+      "Volei pe plajă",
+      "Jet ski"
+    ]
+  },
+  "occupancy": {
+    "en": "50-70%",
+    "ro": "50-70%"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€12/day",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Milies Beach Bar",
+      "Aegean Restaurant"
+    ],
+    "pointsOfInterest": [
+      "Hilltop chapel viewpoint",
+      "Apple tree shaded areas",
+      "Beach volleyball court",
+      "Nearby coastal walking paths"
+    ]
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.3,
+  "videos": [],
+  "description": {
+    "en": "Milies Beach is a lively and scenic beach that combines natural beauty with organized facilities, creating a comfortable and enjoyable seaside experience.\n\nNamed after the local apple trees that grow around the area and provide natural shade, the beach has a unique atmosphere that feels greener and more refreshing compared to many other beaches in northern Halkidiki.\n\nThe coastline stretches for approximately 800 meters and features a mix of golden coarse sand and small smooth pebbles.\n\nThe sea is exceptionally clear, with deep blue tones and excellent visibility, making it attractive for both swimming and light snorkeling.\n\nThe seabed has a moderate slope, remaining comfortable near the shore while also offering slightly deeper areas appreciated by stronger swimmers.\n\nSeveral organized sections provide premium sunbeds and umbrellas, while the atmosphere remains relaxed and social without becoming overcrowded.\n\nMilies Beach Bar and Aegean Restaurant are among the most popular spots, serving cocktails, coffee, seafood and traditional Greek dishes directly near the sea.\n\nOccasional background music and beach volleyball areas create a lively but pleasant summer atmosphere.\n\nJet skiing and other light water activities are also available during the high season.\n\nAccess to the beach is easy via paved roads, and parking is generally convenient even during busier summer periods.\n\nVisitors often enjoy walking toward the nearby hilltop chapel, which offers beautiful panoramic views of the coastline and surrounding green hills.\n\nThe combination of organized comfort, clear water, greenery and moderate activity levels makes Milies Beach suitable for families, couples and groups of friends.\n\nIt is especially appreciated by visitors looking for a balanced beach that offers both relaxation and entertainment in a natural setting.",
+    "ro": "Plaja Milies este o plajă animată și pitorească ce combină frumusețea naturală cu facilități organizate, oferind o experiență confortabilă și plăcută la mare.\n\nNumele plajei provine de la merii din zonă, care oferă umbră naturală și creează o atmosferă mai verde și mai răcoroasă comparativ cu multe alte plaje din nordul Halkidiki.\n\nLinia de coastă se întinde pe aproximativ 800 de metri și este formată din nisip auriu mai grosier combinat cu pietricele netede.\n\nApa este extrem de limpede, cu nuanțe intense de albastru și vizibilitate foarte bună, fiind ideală atât pentru înot cât și pentru snorkeling ușor.\n\nFundul mării are o pantă moderată, rămânând confortabil aproape de țărm, dar oferind și zone mai adânci apreciate de înotătorii experimentați.\n\nMai multe sectoare organizate oferă șezlonguri premium și umbrele, iar atmosfera rămâne relaxată și socială fără să devină excesiv de aglomerată.\n\nMilies Beach Bar și Aegean Restaurant sunt printre cele mai apreciate locații din zonă, oferind cocktailuri, cafea, fructe de mare și preparate grecești tradiționale aproape de apă.\n\nMuzica ambientală și terenurile de volei contribuie la o atmosferă de vară plăcută și energică.\n\nÎn sezonul de vârf sunt disponibile și activități precum jet ski și alte sporturi nautice ușoare.\n\nAccesul către plajă este simplu datorită drumurilor asfaltate, iar parcarea este în general comodă chiar și vara.\n\nMulți vizitatori aleg să urce până la mica capelă de pe deal pentru priveliști panoramice asupra coastei și dealurilor verzi din jur.\n\nCombinația dintre confort organizat, apă limpede, vegetație și activități moderate face ca Plaja Milies să fie potrivită pentru familii, cupluri și grupuri de prieteni.\n\nEste apreciată în special de turiștii care caută un echilibru între relaxare și divertisment într-un cadru natural."
+  },
+  "blueFlag": false
+}
