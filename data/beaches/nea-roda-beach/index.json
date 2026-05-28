@@ -1,0 +1,151 @@
+{
+  "id": "nea-roda-beach",
+  "slug": "nea-roda-beach",
+  "name": {
+    "en": "Nea Roda Beach",
+    "ro": "Plaja Nea Roda"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Long family-friendly beach near Xerxes Canal",
+    "ro": "Plajă lungă și prietenoasă pentru familii lângă Canalul lui Xerxes"
+  },
+  "coordinates": {
+    "lat": 40.3838767715566,
+    "lon": 23.924218929288408
+  },
+  "editorChoice": false,
+  "length": 3000,
+  "badge": "Family",
+  "images": [
+    "nea-roda-beach.webp",
+    "nea-roda-beach1.webp",
+    "nea-roda-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Parking directly near beach",
+      "ro": "Parcare direct lângă plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy",
+      "ro": "Ușoară"
+    },
+    "noiseLevel": {
+      "en": "Moderately lively",
+      "ro": "Moderat animată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Family-oriented and organized",
+      "ro": "Orientată spre familii și bine organizată"
+    },
+    "waterEntry": {
+      "en": "Very shallow and gradual sandy entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip auriu fin"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 1.8 m (very gradual slope)",
+      "ro": "0.3 - 1.8 m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Clear turquoise",
+      "ro": "Turcoaz clar"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "Hidden gem",
+      "Hidden gem",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Loc ascuns special",
+      "Loc ascuns special",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Children",
+      "Relaxed swimming",
+      "Long beach walks"
+    ],
+    "ro": [
+      "Familii",
+      "Copii",
+      "Înot relaxat",
+      "Plimbări lungi"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Paddleboarding",
+      "Beach games"
+    ],
+    "ro": [
+      "Înot",
+      "Paddleboarding",
+      "Jocuri pe plajă"
+    ]
+  },
+  "occupancy": {
+    "en": "60-90% (high in peak season)",
+    "ro": "60-90% (ridicată în vârf de sezon)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€8–15 (cheaper in southern sections)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Aeolos Beach Bar",
+      "Roda Surf Club",
+      "Taverna Plaz"
+    ],
+    "pointsOfInterest": [
+      "Xerxes Canal",
+      "Mount Athos viewpoints",
+      "Nea Roda promenade"
+    ]
+  },
+  "servicePriceCategory": "$$ (mid-range)",
+  "recommendationRating": 3.9,
+  "videos": [],
+  "description": {
+    "en": "Nea Roda Beach is a long and family-friendly beach stretching along the narrow isthmus near the historic Canal of Xerxes, one of the most interesting ancient landmarks in Halkidiki.\n\nThe beach extends for approximately 3 kilometers and is known for its soft golden sand, shallow turquoise water and easy accessibility.\n\nOne of its main advantages is the extremely gradual seabed slope. In many sections, the water remains shallow for 50 to 70 meters from the shoreline, making it one of the safest beaches in the region for children and inexperienced swimmers.\n\nThe atmosphere is more developed and lively compared to remote beaches in Sithonia, with multiple organized sections, beach bars, hotels and rental facilities spread along the coastline.\n\nDespite its popularity during the summer season, the large size of the beach usually allows visitors to find quieter areas away from the busiest central sections.\n\nThe water is generally calm and warm, with clear turquoise tones and minimal waves thanks to the protected gulf location.\n\nNea Roda Beach is also popular for paddleboarding and relaxed beach games due to the stable shallow conditions and wide open shoreline.\n\nVisitors can enjoy views toward Mount Athos and observe boats crossing the gulf throughout the day, adding a unique atmosphere to the beach.\n\nThe nearby historical remains of the Canal of Xerxes add cultural value to the area and provide an interesting stop for visitors exploring the region.\n\nBeach bars and tavernas offer drinks, snacks and seafood, while hotels nearby often provide organized sunbed areas and day access services.\n\nLong barefoot walks are especially enjoyable here because the sand remains relatively compact and comfortable even near the waterline.\n\nNea Roda Beach is an excellent choice for families and travelers looking for comfort, shallow water, organized facilities and easy access combined with historical surroundings and beautiful views toward Athos.",
+    "ro": "Plaja Nea Roda este o plajă lungă și foarte potrivită pentru familii, întinsă de-a lungul istmului îngust aflat lângă istoricul Canal al lui Xerxes, unul dintre cele mai interesante puncte antice din Halkidiki.\n\nPlaja are aproximativ 3 kilometri lungime și este cunoscută pentru nisipul auriu fin, apa turcoaz puțin adâncă și accesul foarte facil.\n\nUnul dintre cele mai mari avantaje este fundul mării extrem de lin. În multe zone, apa rămâne mică până la 50–70 metri de țărm, ceea ce face plaja una dintre cele mai sigure din regiune pentru copii și înotători fără experiență.\n\nAtmosfera este mai dezvoltată și mai animată decât pe plajele retrase din Sithonia, existând multiple zone organizate, beach baruri, hoteluri și facilități de închiriere de-a lungul coastei.\n\nChiar și în sezonul de vârf, dimensiunea mare a plajei permite găsirea unor zone mai liniștite, departe de sectoarele centrale mai animate.\n\nApa este în general calmă și caldă, cu nuanțe turcoaz clare și valuri reduse datorită poziției protejate a golfului.\n\nPlaja este apreciată și pentru paddleboarding sau jocuri pe plajă datorită condițiilor stabile și spațiului generos.\n\nVizitatorii se pot bucura de priveliști spre Muntele Athos și de bărcile care traversează golful pe parcursul zilei, oferind o atmosferă aparte.\n\nRămășițele istorice ale Canalului lui Xerxes aflate în apropiere adaugă valoare culturală zonei și reprezintă un punct interesant pentru explorare.\n\nBeach barurile și tavernele oferă băuturi, gustări și preparate cu fructe de mare, iar hotelurile din apropiere au adesea zone organizate cu șezlonguri și acces pentru turiști.\n\nPlimbările lungi desculț pe mal sunt foarte plăcute aici datorită nisipului compact și confortabil.\n\nPlaja Nea Roda este o alegere excelentă pentru familii și turiști care caută confort, apă puțin adâncă, facilități organizate și acces ușor, într-un cadru cu atmosferă relaxată și vedere spre Athos."
+  },
+  "blueFlag": false
+}

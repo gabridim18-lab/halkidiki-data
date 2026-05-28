@@ -2958,5 +2958,21 @@
     "rating": 4.3,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "nea-roda-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Nea Roda Beach",
+      "ro": "Plaja Nea Roda"
+    },
+    "previewImage": "nea-roda-beach.webp",
+    "coordinates": {
+      "lat": 40.3838767715566,
+      "lon": 23.924218929288408
+    },
+    "rating": 3.9,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
