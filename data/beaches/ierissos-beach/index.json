@@ -1,0 +1,154 @@
+{
+  "id": "ierissos-beach",
+  "slug": "ierissos-beach",
+  "name": {
+    "en": "Ierissos Beach",
+    "ro": "Plaja Ierissos"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Large organized family beach with water sports",
+    "ro": "Plajă mare și organizată pentru familii și sporturi nautice"
+  },
+  "coordinates": {
+    "lat": 40.40213564876517,
+    "lon": 23.88078249536237
+  },
+  "editorChoice": true,
+  "length": 3000,
+  "badge": "Family",
+  "images": [
+    "ierissos-beach.webp",
+    "ierissos-beach1.webp",
+    "ierissos-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Direct beach access from town",
+      "ro": "Acces direct din oraș către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Easy to moderate in peak season",
+      "ro": "Ușoară spre moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Lively in central areas",
+      "ro": "Animată în zonele centrale"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Organized, family-friendly and active",
+      "ro": "Organizată, prietenoasă pentru familii și activă"
+    },
+    "waterEntry": {
+      "en": "Very shallow and smooth sandy entry",
+      "ro": "Intrare foarte lină și puțin adâncă"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand with some small pebbles",
+    "ro": "Nisip auriu fin cu pietricele mici"
+  },
+  "water": {
+    "averageTemperature": 23,
+    "depth": {
+      "en": "0.4 - 2.5 m (very gradual slope)",
+      "ro": "0.4 - 2.5 m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Turquoise blue (visibility 5-7m)",
+      "ro": "Albastru turcoaz (vizibilitate 5–7 m)"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "relax",
+      "family",
+      "sports",
+      "Hidden gem"
+    ],
+    "ro": [
+      "Relaxare la soare",
+      "Potrivită pentru familii",
+      "Sporturi pe plajă",
+      "Loc ascuns special"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": true,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Children",
+      "Water sports",
+      "Full beach days"
+    ],
+    "ro": [
+      "Familii",
+      "Copii",
+      "Sporturi nautice",
+      "Zile complete la plajă"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach sports",
+      "Water skiing",
+      "Boat trips"
+    ],
+    "ro": [
+      "Înot",
+      "Sporturi pe plajă",
+      "Schi nautic",
+      "Excursii cu barca"
+    ]
+  },
+  "occupancy": {
+    "en": "70-90% (popular in peak season)",
+    "ro": "70-90% (populară în vârf de sezon)"
+  },
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "€5–10 (varies by section)",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "nearbyPlaces": {
+    "beachBars": [
+      "Akti Beach Bar",
+      "Paralia Cafe",
+      "Wave Club"
+    ],
+    "pointsOfInterest": [
+      "Mount Athos viewpoints",
+      "Boat trip departure points",
+      "Ierissos promenade",
+      "Ancient Olynthos ruins"
+    ]
+  },
+  "servicePriceCategory": "$$ (moderate)",
+  "recommendationRating": 4.4,
+  "videos": [],
+  "description": {
+    "en": "Ierissos Beach is one of the largest and most popular beaches in the northeastern part of Halkidiki, stretching for approximately 3 kilometers along the coastline.\n\nKnown for its soft golden sand, warm shallow waters and excellent organization, the beach is especially popular among families, children and visitors looking for comfort combined with plenty of space.\n\nThe seabed has an extremely gradual slope, allowing the water to remain shallow for a long distance from the shore. This creates very safe swimming conditions for children and relaxed bathing for all ages.\n\nThe sea is usually calm with pleasant turquoise-blue colors and good water clarity, while the long open coastline provides beautiful views toward Mount Athos.\n\nDespite being busy during the summer season, the beach rarely feels overcrowded because of its large size and multiple organized sections.\n\nIerissos Beach offers some of the best facilities in the area, including sunbeds, umbrellas, freshwater showers, wooden walkways, beach volleyball courts and multiple beach bars spread along the promenade.\n\nWater sports are one of the biggest attractions here, with activities such as jet skiing, water skiing, inflatable rides and paddle activities available during peak season.\n\nThe promenade behind the beach includes tavernas, cafes and seafood restaurants where visitors can enjoy local cuisine with direct sea views.\n\nBoat trips toward Ammouliani Island and along the Athos coastline also depart from the nearby area, adding extra activity options for travelers staying in Ierissos.\n\nThe western side of the beach is generally quieter and preferred by visitors looking for a calmer atmosphere, while the central sections are more lively and organized.\n\nThe combination of accessibility, warm shallow water, organized facilities and long sandy shoreline makes Ierissos Beach one of the best all-around family beaches near the Athos region.\n\nIt is an ideal destination for travelers who want a comfortable and active beach day with excellent infrastructure, beautiful sea views and easy access to restaurants, hotels and local attractions.",
+    "ro": "Plaja Ierissos este una dintre cele mai mari și populare plaje din partea de nord-est a Halkidiki, întinzându-se pe aproximativ 3 kilometri de coastă.\n\nCunoscută pentru nisipul auriu fin, apa caldă și puțin adâncă și nivelul foarte bun de organizare, plaja este extrem de apreciată de familii, copii și turiști care caută confort și spațiu generos.\n\nFundul mării are o pantă extrem de lină, iar apa rămâne mică pe o distanță mare de la țărm. Acest lucru creează condiții foarte sigure pentru copii și pentru înot relaxat.\n\nMarea este de obicei calmă, cu nuanțe plăcute de albastru turcoaz și claritate bună, iar linia lungă a coastei oferă priveliști frumoase spre Muntele Athos.\n\nDeși devine foarte populară în timpul verii, dimensiunea mare a plajei face ca atmosfera să rămână confortabilă chiar și în perioadele aglomerate.\n\nPlaja Ierissos oferă unele dintre cele mai bune facilități din zonă: șezlonguri, umbrele, dușuri cu apă dulce, pasarele din lemn, terenuri de volei și mai multe beach baruri de-a lungul promenadei.\n\nSporturile nautice reprezintă una dintre atracțiile principale aici, incluzând jet ski, schi nautic, activități gonflabile și alte opțiuni disponibile în sezon.\n\nPromenada din spatele plajei include taverne, cafenele și restaurante cu fructe de mare unde turiștii pot lua masa cu vedere directă spre mare.\n\nDin apropiere pleacă și excursii cu barca spre insula Ammouliani sau de-a lungul coastei Athosului, oferind activități suplimentare pentru vizitatori.\n\nPartea vestică a plajei este de obicei mai liniștită și preferată de cei care caută relaxare, în timp ce zonele centrale sunt mai animate și mai organizate.\n\nCombinația dintre accesibilitate, apă caldă și puțin adâncă, facilități bune și întinderea mare de nisip transformă Plaja Ierissos într-una dintre cele mai bune plaje pentru familii din apropierea regiunii Athos.\n\nEste o destinație ideală pentru turiștii care doresc o zi completă la plajă, cu infrastructură excelentă, priveliști frumoase și acces rapid la restaurante, hoteluri și activități."
+  },
+  "blueFlag": false
+}

@@ -2974,5 +2974,21 @@
     "rating": 3.9,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "ierissos-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Ierissos Beach",
+      "ro": "Plaja Ierissos"
+    },
+    "previewImage": "ierissos-beach.webp",
+    "coordinates": {
+      "lat": 40.40213564876517,
+      "lon": 23.88078249536237
+    },
+    "rating": 4.4,
+    "waterTemperature": 23,
+    "suitableForChildren": true
   }
 ]
