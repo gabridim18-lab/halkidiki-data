@@ -16,6 +16,7 @@
   "sizeSqm": 55,
   "view": "City view",
   "bedrooms": 1,
+  "bathrooms": 1,
   "petFriendly": false,
   "pool": false,
   "wifi": true,
