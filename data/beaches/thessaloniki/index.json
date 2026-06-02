@@ -149,7 +149,7 @@
 
   "facilities": {
     "sunbeds": true,
-    "sunbedPrice": "10-18 EUR",
+    "sunbedPrice": "-",
     "towelAllowed": true,
     "campingAvailable": false,
     "toiletsAvailable": true,
