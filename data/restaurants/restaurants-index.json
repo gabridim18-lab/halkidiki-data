@@ -2,22 +2,26 @@
   {
     "id": "sunset_bay",
     "type": "beach_bar",
+    "featured": true,
     "beachSlug": "thessaloniki"
   },
   {
     "id": "avenue_modern_cuisine",
     "type": "restaurant",
+    "featured": true,
     "beachSlug": "thessaloniki"
   },
   {
     "id": "gialos_fish_seafood",
     "type": "restaurant",
+    "featured": true,
     "beachSlug": "nea-krini-beach"
   },
   {
     "id": "maiami-seafood-restaurant",
     "zone": "Thessaloniki",
     "type": "restaurant",
+    "featured": true,
     "beachSlug": "nea-krini-beach"
   }
 ]
