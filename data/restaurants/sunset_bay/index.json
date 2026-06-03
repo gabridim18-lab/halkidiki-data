@@ -2,7 +2,7 @@
   "id": "sunset_bay",
   "beachSlug": "thessaloniki",
   "type": "beach_bar",
-  "featured": false,
+  "featured": true,
   "titleEn": "Sunset Bay",
   "titleRo": "Sunset Bay",
   "address": "HX3H+GM Pylaia, Greece",
