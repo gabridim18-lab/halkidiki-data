@@ -173,10 +173,218 @@ class App(tk.Tk):
 
         self.last_slug = None
 
+        self.zone_beaches = {
+            "Thessaloniki": [
+                "thessaloniki",
+                "nea-krini-beach",
+                "perea-beach",
+                "neoi-epivates-beach",
+                "agia-triada-beach",
+                "hidden-beach",
+                "surfer-beach-angelochori",
+                "tourmpali-beach",
+                "riviera-virgin-beach",
+                "nea-michaniona-beach",
+                "oasis-beach",
+                "agistri-beach",
+                "paralia-potami",
+                "nea-iraklia-beach",
+                "sahara-beach",
+                "vergia-beach",
+                "delfinia-beach",
+                "sozopoli-beach",
+                "paralia-iraklia",
+                "mykoniatika-secret-beach",
+                "beach-mykoniatika",
+                "ntouraki-beach",
+                "nea-plagia-beach",
+                "flogita-beach",
+                "dionisiou-beach"
+            ],
+            "Kassandra": [
+                "nea-moudania-beach",
+                "paralia-nea-moudania",
+                "gremia-beach",
+                "paralia-nea-potidea",
+                "windsurfers-paradise",
+                "stavronikita-beach",
+                "paralia-sani",
+                "simantro-beach",
+                "paralia-kipsa",
+                "chelona-beach",
+                "elani-beach",
+                "siviri-beach",
+                "agios-nikolaos-beach",
+                "agios-nikolaos-fourka",
+                "skala-fourkas-beach",
+                "aigaiopelagitika-beach",
+                "possidi-west-beach",
+                "possidi-beach",
+                "paralia-posidi",
+                "mola-kaliva-beach",
+                "paralia-anemi",
+                "paralia-skioni",
+                "nea-skioni-beach",
+                "the-beach",
+                "paralia-agias-paraskevis",
+                "loutra-agias-paraskevis-beach",
+                "loutra-beach",
+                "pebbles-beach-of-st-george",
+                "ani-beach",
+                "dymitry-beach",
+                "kanastraio-or-kalogria-cape",
+                "cape-sevas",
+                "cliff-rocks",
+                "agios-nikolaos-kanistro-beach",
+                "kanistro-beach",
+                "paralia-panagias",
+                "porto-valitsa-bay",
+                "paliouri-beach",
+                "xenia-beach",
+                "paralia-chroussou",
+                "golden-beach",
+                "alonaki-beach",
+                "glarokavos-beach",
+                "lagoon-beach",
+                "paralia-pefkochori",
+                "pefkochori-beach",
+                "hanioti-beach",
+                "polychrono-beach",
+                "kryopigi-beach",
+                "kalithea-beach",
+                "paralia-afitos",
+                "plage-liosi",
+                "plage-moudounou",
+                "athytos-beach",
+                "varkes-beach",
+                "plage-vothonas",
+                "place-de-ninna",
+                "nea-fokea-beach",
+                "savatianos-beach",
+                "wild-sandy-beach",
+                "nea-potidea-beach",
+                "paralia-kalivia",
+                "kalyves-beach"
+            ],
+            "Sithonia": [
+                "trikorfo-beach",
+                "paralia-psakoudia",
+                "psakoudia-beach",
+                "paralia-sargani",
+                "metamorfossi-beach",
+                "paralia-askamnia",
+                "red-rocks-of-metamorphosis",
+                "nikiti-beach",
+                "paralia-kastri",
+                "kastri-beach",
+                "agios-ioannis-beach",
+                "koviou-beach",
+                "isla-beach",
+                "kalogria-beach",
+                "small-spathies-beach",
+                "spathies-beach",
+                "paralia-elia",
+                "paralia-perigiali",
+                "elia-beach",
+                "lagomandra-beach",
+                "nikitis-beach-sithonia",
+                "tripotamos-beach",
+                "paradisos-beach",
+                "peaceful-beach",
+                "neos-marmaras-beach",
+                "porto-carras-beach",
+                "kohi-beach",
+                "koutsoupia-beach",
+                "diaporti-beach",
+                "likithos-beach",
+                "azapiko-beach",
+                "foresta-sithonia",
+                "paralia-alexandra-xenia",
+                "paralia-azapiko",
+                "aretes-beach",
+                "tristinika-beach",
+                "ema-beach",
+                "luka-beach",
+                "paralia-toroni",
+                "porto-koufo-beach",
+                "lagoon-in-porto-koufo",
+                "marathias-beach",
+                "secret-beach",
+                "sithonia-cape",
+                "mamba-beach",
+                "kalamitsi-beach",
+                "kriaritsi-beach",
+                "prassou-beach",
+                "klimataria-beach",
+                "tourkolimnionas",
+                "skala-sykias-beach",
+                "linaraki-beach",
+                "sykias-beach",
+                "valti-beach",
+                "agridia-beach",
+                "goa-beach",
+                "platania",
+                "sarti-beach",
+                "achlada",
+                "heart-shaped-bay",
+                "platanitsi-beach",
+                "orange-beach",
+                "kavourotrypes-beach",
+                "mega-portokali-beach",
+                "paralia-armenistis",
+                "dream-coast-beach",
+                "robinson-beach",
+                "banana-beach",
+                "porto-paradiso",
+                "zografou-beach",
+                "koutloumousi-beach",
+                "bara-beach",
+                "fava-beach",
+                "manos-beach",
+                "karydi-beach",
+                "rocks-on-the-beach",
+                "livari-beach",
+                "karagatsi-beach",
+                "talgo-beach",
+                "private-beach",
+                "lagonisi-beach",
+                "latoura-beach",
+                "livrohio-beach",
+                "trani-ammouda",
+                "paralia-agios-nikolaos",
+                "schinias-beach",
+                "salonikiou-beach",
+                "paralia-salonikiou",
+                "irini-beach"
+            ],
+            "Olympiada": [
+                "ladhario-beach",
+                "paralia-pirgos",
+                "develiki-beach",
+                "xiropotamos-beach",
+                "tripiti-beach",
+                "paralia-ouranoupoli",
+                "ouranoupolis-beach",
+                "komitsa-beach",
+                "nea-roda-beach",
+                "ierissos-beach",
+                "kakoudia-beach",
+                "stratoni-beach",
+                "proti-ammoudia-beach",
+                "olympiada-beach",
+                "paralia-stavros",
+                "milies-beach",
+                "platani-beach",
+                "vrasna-beach",
+                "nea-vrasna-beach"
+            ]
+        }
+
         self.build_ui()
 
     # =========================================
 
+     
     def build_ui(self):
 
         root = ttk.Frame(
@@ -261,6 +469,10 @@ class App(tk.Tk):
         self.var_title_ro = tk.StringVar()
 
         self.var_slug = tk.StringVar()
+
+        self.var_zone = tk.StringVar(
+            value="Kassandra"
+        )
 
         self.var_beach_slug = tk.StringVar()
 
@@ -350,14 +562,61 @@ class App(tk.Tk):
             2
         )
 
+        zone_box = ttk.Combobox(
+            form,
+            textvariable=self.var_zone,
+            values=[
+                "Thessaloniki",
+                "Kassandra",
+                "Sithonia",
+                "Olympiada"
+            ],
+            state="readonly"
+        )
+
         row(
-            "Related Beach",
-            ttk.Entry(
-                form,
-                textvariable=self.var_beach_slug
-            ),
+            "Zone",
+            zone_box,
             3
         )
+
+        beach_box = ttk.Combobox(
+            form,
+            textvariable=self.var_beach_slug,
+            values=[
+                "pefkochori-beach",
+                "hanioti-beach",
+                "polychrono-beach",
+                "kalithea-beach",
+                "afytos-beach",
+                "possidi-beach",
+                "sani-beach",
+                "nikiti-beach",
+                "kalogria-beach",
+                "lagomandra-beach",
+                "kavourotrypes-beach",
+                "sarti-beach",
+                "toroni-beach",
+                "vourvourou-beach",
+                "olympiada-beach"
+            ],
+            state="readonly"
+        )
+
+        row(
+            "Beach",
+            beach_box,
+            4
+        )
+
+        self.beach_box = beach_box
+
+        zone_box.bind(
+            "<<ComboboxSelected>>",
+            self.update_beaches
+        )
+
+        self.update_beaches()
 
         # =========================================
         # TYPE
@@ -381,7 +640,7 @@ class App(tk.Tk):
         row(
             "Type",
             type_box,
-            4
+            5
         )
 
         ttk.Checkbutton(
@@ -393,7 +652,7 @@ class App(tk.Tk):
             variable=self.var_featured
 
         ).grid(
-            row=5,
+            row=6,
             column=1,
             sticky="w"
         )
@@ -404,7 +663,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_address
             ),
-            6
+            7
         )
 
         row(
@@ -413,7 +672,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_display_address
             ),
-            7
+            8
         )
 
         row(
@@ -422,7 +681,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_hours_en
             ),
-            8
+            9
         )
 
         row(
@@ -431,7 +690,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_hours_ro
             ),
-            9
+            10
         )
 
         row(
@@ -440,7 +699,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_website
             ),
-            10
+            11
         )
 
         row(
@@ -449,7 +708,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_facebook
             ),
-            11
+            12
         )
 
         row(
@@ -458,7 +717,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_instagram
             ),
-            12
+            13
         )
 
         row(
@@ -467,7 +726,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_phone
             ),
-            13
+            14
         )
 
         price_box = ttk.Combobox(
@@ -489,7 +748,7 @@ class App(tk.Tk):
         row(
             "Price",
             price_box,
-            14
+            15
         )
 
         row(
@@ -498,7 +757,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_rating
             ),
-            15
+            16
         )
 
         row(
@@ -507,7 +766,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_sunbed_price
             ),
-            16
+            17
         )
 
         ttk.Checkbutton(
@@ -519,7 +778,7 @@ class App(tk.Tk):
             variable=self.var_consumation
 
         ).grid(
-            row=17,
+            row=18,
             column=1,
             sticky="w"
         )
@@ -695,6 +954,57 @@ class App(tk.Tk):
                 anchor="w"
             )
 
+
+        # =========================================
+        # CUISINE TYPES
+        # =========================================
+
+        cuisine_box = ttk.LabelFrame(
+            right,
+            text="Cuisine Types",
+            padding=10
+        )
+
+        cuisine_box.pack(
+            fill="x",
+            pady=(0, 10)
+        )
+
+        self.cuisine_vars = {}
+
+        cuisine_types = [
+
+            "seafood",
+            "greek",
+            "mediterranean",
+            "international",
+            "italian",
+            "pizza",
+            "burger",
+            "steakhouse",
+            "asian",
+            "sushi"
+
+        ]
+
+        for cuisine in cuisine_types:
+
+            var = tk.BooleanVar()
+
+            self.cuisine_vars[cuisine] = var
+
+            ttk.Checkbutton(
+
+                cuisine_box,
+
+                text=cuisine,
+
+                variable=var
+
+            ).pack(
+                anchor="w"
+            )
+
         # =========================================
         # IMAGES
         # =========================================
@@ -808,6 +1118,20 @@ class App(tk.Tk):
     # AUTO SLUG
     # =========================================
 
+    def update_beaches(self, event=None):
+
+        beaches = self.zone_beaches.get(
+            self.var_zone.get(),
+            []
+        )
+
+        self.beach_box["values"] = beaches
+
+        if beaches:
+            self.var_beach_slug.set(
+                beaches[0]
+            )
+    
     def auto_slug(self):
 
         title = self.var_title_en.get()
@@ -1003,12 +1327,27 @@ class App(tk.Tk):
                 features.append(key)
 
         # =========================================
+        # CUISINE TYPES
+        # =========================================
+
+        cuisine_types = []
+
+        for key, value in self.cuisine_vars.items():
+
+            if value.get():
+
+                cuisine_types.append(key)
+
+        # =========================================
         # JSON
         # =========================================
 
         data = {
 
             "id": slug,
+
+            "zone":
+                self.var_zone.get(),
 
             "beachSlug":
                 slugify(
@@ -1085,7 +1424,10 @@ class App(tk.Tk):
                 music,
 
             "features":
-                features
+                features,
+
+            "cuisineTypes":
+                cuisine_types
 
         }
 
@@ -1122,19 +1464,22 @@ class App(tk.Tk):
 
         if not found:
 
-          index_data.append({
+            index_data.append({
 
-    "id": slug,
+                "id": slug,
 
-    "type":
-        self.var_type.get(),
+                "zone":
+                    self.var_zone.get(),
 
-    "beachSlug":
-        slugify(
-            self.var_beach_slug.get()
-        ),
+                "type":
+                    self.var_type.get(),
 
-})
+                "beachSlug":
+                    slugify(
+                        self.var_beach_slug.get()
+                    ),
+
+            })
 
         save_json(
             self.index_path,

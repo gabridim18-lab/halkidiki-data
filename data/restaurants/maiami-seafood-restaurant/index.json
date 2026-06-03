@@ -1,0 +1,47 @@
+{
+  "id": "maiami-seafood-restaurant",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-krini-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Maiami Seafood Restaurant",
+  "titleRo": "Maiami Seafood Restaurant",
+  "address": "HX85+C9 Kalamaria Municipality, Greece",
+  "displayAddress": "Thetidos 18, Kalamaria 551 32, Greece",
+  "hoursEn": "Mo-Sa: 12:00 - 00:00, Su: 12:00-21:00",
+  "hoursRo": "Lu-Sa: 12:00 - 00:00, Du: 12:00-21:00",
+  "website": "http://www.maiamirestaurant.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "",
+  "price": "$$$",
+  "rating": 4.5,
+  "descriptionEn": "A seaside dining experience in the heart of Kalamaria\n\nLocated on Kalamaria's beautiful waterfront promenade, overlooking the Thermaic Gulf, Maiami Seafood Restaurant combines exceptional Mediterranean cuisine with breathtaking sea views and a welcoming atmosphere.\n\nRenowned for its fresh seafood, premium ingredients, and refined Greek flavors, Maiami offers a culinary journey inspired by the sea. From perfectly grilled octopus and seasonal fish to creative seafood specialties and carefully selected wines, every dish is crafted with passion and attention to detail.\n\nWhether you are looking for a romantic sunset dinner, a memorable family meal, or a relaxing lunch by the water, Maiami provides the perfect setting to enjoy authentic Greek hospitality and outstanding cuisine.\n\n✨ Why visit Maiami Seafood Restaurant?\n\n🌊 Prime waterfront location\n🐟 Fresh fish and seafood specialties\n🍷 Carefully curated Greek and international wine selection\n🌅 Stunning sunset views over the sea\n⭐ Elegant atmosphere and attentive service",
+  "descriptionRo": "O experiență culinară la malul mării, în inima Kalamariei\n\nSituat pe fermecătoarea promenadă din Kalamaria, chiar pe malul Golfului Thermaic, Maiami Seafood Restaurant este locul unde gastronomia mediteraneană întâlnește eleganța, liniștea și priveliștile spectaculoase asupra mării.\n\nCu o tradiție apreciată de localnici și vizitatori deopotrivă, restaurantul oferă preparate din pește și fructe de mare atent selecționate, ingrediente proaspete și rețete inspirate din bucătăria grecească modernă. Fie că alegi un caracatiță fragedă la grătar, fructe de mare proaspete, pește de sezon sau un pahar de vin ales din colecția internațională, fiecare preparat este pregătit cu atenție pentru a transforma fiecare masă într-o experiență memorabilă.\n\nAtmosfera caldă, designul elegant și mesele amplasate aproape de apă creează cadrul perfect pentru o cină romantică, o întâlnire cu prietenii sau un prânz relaxant în timpul vacanței.\n\n✨ De ce să alegi Maiami Seafood Restaurant?\n\n🌊 Locație unică pe malul mării\n🐟 Pește și fructe de mare proaspete\n🍷 Selecție atentă de vinuri din Grecia și din întreaga lume\n🌅 Apusuri spectaculoase și priveliști de neuitat\n⭐ Servicii profesioniste și atmosferă elegantă",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/maiami-seafood-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/maiami-seafood-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/maiami-seafood-restaurant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/maiami-seafood-restaurant4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/menu4.webp"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "lounge"
+  ],
+  "features": [
+    "restaurant",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "mediterranean"
+  ]
+}

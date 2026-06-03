@@ -1,5 +1,5 @@
 [
-  {  
+  {
     "id": "sunset_bay",
     "type": "beach_bar",
     "beachSlug": "thessaloniki"
@@ -11,6 +11,12 @@
   },
   {
     "id": "gialos_fish_seafood",
+    "type": "restaurant",
+    "beachSlug": "nea-krini-beach"
+  },
+  {
+    "id": "maiami-seafood-restaurant",
+    "zone": "Thessaloniki",
     "type": "restaurant",
     "beachSlug": "nea-krini-beach"
   }
