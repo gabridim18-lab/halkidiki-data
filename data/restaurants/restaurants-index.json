@@ -6,22 +6,62 @@
     "beachSlug": "thessaloniki"
   },
   {
-    "id": "avenue_modern_cuisine",
-    "type": "restaurant",
-    "featured": true,
-    "beachSlug": "thessaloniki"
-  },
+  "id": "avenue_modern_cuisine",
+  "zone": "Thessaloniki",
+  "type": "restaurant",
+  "featured": true,
+  "beachSlug": "thessaloniki",
+  "titleEn": "AVENUE - Modern Cuisine",
+  "titleRo": "AVENUE - Modern Cuisine",
+  "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine1.webp",
+  "rating": 4.5,
+  "price": "$$",
+  "shortEn": "Modern Mediterranean cuisine by the sea, with cocktails, sushi, brunch and elegant waterfront views.",
+  "shortRo": "Bucătărie mediteraneană modernă lângă mare, cu cocktailuri, sushi, brunch și vedere elegantă la faleză.",
+  "features": [
+    "sea_view",
+    "cocktails",
+    "brunch"
+  ]
+},
   {
-    "id": "gialos_fish_seafood",
-    "type": "restaurant",
-    "featured": true,
-    "beachSlug": "nea-krini-beach"
-  },
+  "id": "gialos_fish_seafood",
+  "zone": "Thessaloniki",
+  "type": "restaurant",
+  "featured": true,
+  "beachSlug": "Nea Krini Beach",
+  "titleEn": "Gialos Fish & Seafood",
+  "titleRo": "Gialos Fish & Seafood",
+  "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood1.webp",
+  "rating": 4.5,
+  "price": "$$",
+  "shortEn": "Fresh seafood and traditional Greek fish dishes served by the sea, with beautiful sunset views over the Thermaic Gulf.",
+  "shortRo": "Fructe de mare proaspete și preparate pescărești grecești servite pe malul mării, cu apusuri superbe peste Golful Thermaic.",
+  "features": [
+    "sea_view",
+    "seafood",
+    "parking",
+    "pet_friendly"
+  ]
+},
   {
-    "id": "maiami-seafood-restaurant",
-    "zone": "Thessaloniki",
-    "type": "restaurant",
-    "featured": true,
-    "beachSlug": "nea-krini-beach"
-  }
+  "id": "maiami-seafood-restaurant",
+  "zone": "Thessaloniki",
+  "type": "restaurant",
+  "featured": true,
+  "beachSlug": "nea-krini-beach",
+  "titleEn": "Maiami Seafood Restaurant",
+  "titleRo": "Maiami Seafood Restaurant",
+  "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/maiami-seafood-restaurant1.webp",
+  "rating": 4.5,
+  "price": "$$$",
+  "shortEn": "Elegant waterfront seafood restaurant offering fresh fish, Mediterranean specialties, fine wines and stunning sunset views.",
+  "shortRo": "Restaurant elegant pe malul mării cu pește proaspăt, fructe de mare, vinuri selecte și apusuri spectaculoase.",
+  "features": [
+    "sea_view",
+    "seafood",
+    "mediterranean",
+    "wine_selection"
+  ]
+}
 ]
