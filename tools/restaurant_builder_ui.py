@@ -61,6 +61,183 @@ def make_short_text(text: str, limit: int = 135):
 
     return clean[:limit].rsplit(" ", 1)[0] + "..."
 
+
+DAYS_EN = [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+]
+
+DAYS_RO = {
+    "Monday": "Luni",
+    "Tuesday": "Marți",
+    "Wednesday": "Miercuri",
+    "Thursday": "Joi",
+    "Friday": "Vineri",
+    "Saturday": "Sâmbătă",
+    "Sunday": "Duminică"
+}
+
+def normalize_time_text(value: str):
+
+    return (
+        value
+        .replace("\u202f", " ")
+        .replace("\xa0", " ")
+        .replace("–", "-")
+        .replace("—", "-")
+        .replace("−", "-")
+        .replace(".", ":")
+        .strip()
+    )
+
+def convert_single_time_to_24(value: str, default_meridiem=None):
+
+    value = normalize_time_text(value).lower()
+
+    match = re.search(
+        r"(\d{1,2})(?::(\d{2}))?\s*(am|pm)?",
+        value
+    )
+
+    if not match:
+        return ""
+
+    hour = int(match.group(1))
+    minute = int(match.group(2) or "0")
+    meridiem = match.group(3) or default_meridiem
+
+    if meridiem == "pm" and hour != 12:
+        hour += 12
+
+    if meridiem == "am" and hour == 12:
+        hour = 0
+
+    return f"{hour:02d}:{minute:02d}"
+
+def convert_time_range_to_24(value: str):
+
+    clean = normalize_time_text(value).lower()
+
+    match = re.search(
+        r"(\d{1,2}(?::\d{2})?\s*(?:am|pm)?)\s*-\s*(\d{1,2}(?::\d{2})?\s*(?:am|pm)?)",
+        clean
+    )
+
+    if not match:
+        return "", ""
+
+    start_raw = match.group(1).strip()
+    end_raw = match.group(2).strip()
+
+    end_meridiem_match = re.search(r"\b(am|pm)\b", end_raw)
+    start_meridiem_match = re.search(r"\b(am|pm)\b", start_raw)
+
+    default_start_meridiem = None
+
+    if not start_meridiem_match and end_meridiem_match:
+        default_start_meridiem = end_meridiem_match.group(1)
+
+    start = convert_single_time_to_24(
+        start_raw,
+        default_start_meridiem
+    )
+
+    end = convert_single_time_to_24(
+        end_raw,
+        None
+    )
+
+    return start, end
+
+def parse_opening_hours(raw_text: str):
+
+    raw = normalize_time_text(raw_text)
+
+    if not raw:
+        return []
+
+    day_pattern = "|".join(DAYS_EN)
+
+    matches = list(
+        re.finditer(
+            rf"\b({day_pattern})\b",
+            raw,
+            flags=re.IGNORECASE
+        )
+    )
+
+    schedule_by_day = {}
+
+    for index, match in enumerate(matches):
+
+        day = match.group(1).capitalize()
+
+        start = match.end()
+
+        end = (
+            matches[index + 1].start()
+            if index + 1 < len(matches)
+            else len(raw)
+        )
+
+        value = raw[start:end]
+        value = re.sub(r"[;\n\t]+", " ", value)
+        value = " ".join(value.split())
+
+        if re.search(r"\bclosed\b", value, flags=re.IGNORECASE):
+
+            schedule_by_day[day] = {
+                "day": day,
+                "dayRo": DAYS_RO[day],
+                "closed": True,
+                "open": "",
+                "close": "",
+                "labelEn": "Closed",
+                "labelRo": "Închis"
+            }
+
+            continue
+
+        open_time, close_time = convert_time_range_to_24(value)
+
+        if open_time and close_time:
+
+            schedule_by_day[day] = {
+                "day": day,
+                "dayRo": DAYS_RO[day],
+                "closed": False,
+                "open": open_time,
+                "close": close_time,
+                "labelEn": f"{open_time}–{close_time}",
+                "labelRo": f"{open_time}–{close_time}"
+            }
+
+    return [
+        schedule_by_day[day]
+        for day in DAYS_EN
+        if day in schedule_by_day
+    ]
+
+def make_hours_summary(schedule, lang="en"):
+
+    parts = []
+
+    for item in schedule:
+
+        day = item["day"] if lang == "en" else item["dayRo"]
+        label = item["labelEn"] if lang == "en" else item["labelRo"]
+
+        parts.append(
+            f"{day}: {label}"
+        )
+
+    return "; ".join(parts)
+
 def parse_coordinates(value: str):
 
     clean = value.strip()
@@ -523,15 +700,11 @@ class App(tk.Tk):
 
         self.var_featured = tk.BooleanVar()
 
-        self.var_address = tk.StringVar()
-
         self.var_display_address = tk.StringVar()
 
         self.var_gps_coordinates = tk.StringVar()
 
-        self.var_hours_en = tk.StringVar()
-
-        self.var_hours_ro = tk.StringVar()
+        self.var_opening_hours = tk.StringVar()
 
         self.var_website = tk.StringVar()
 
@@ -700,14 +873,6 @@ class App(tk.Tk):
             sticky="w"
         )
 
-        row(
-            "Address",
-            ttk.Entry(
-                form,
-                textvariable=self.var_address
-            ),
-            7
-        )
 
         row(
             "Display Address",
@@ -715,7 +880,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_display_address
             ),
-            8
+            7
         )
 
         row(
@@ -724,25 +889,30 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_gps_coordinates
             ),
-            9
+            8
         )
 
-        row(
-            "Hours EN",
-            ttk.Entry(
-                form,
-                textvariable=self.var_hours_en
-            ),
-            10
+        ttk.Label(
+            form,
+            text="Opening Hours"
+        ).grid(
+            row=9,
+            column=0,
+            sticky="nw",
+            padx=(0, 10),
+            pady=5
         )
 
-        row(
-            "Hours RO",
-            ttk.Entry(
-                form,
-                textvariable=self.var_hours_ro
-            ),
-            11
+        self.txt_opening_hours = tk.Text(
+            form,
+            height=7
+        )
+
+        self.txt_opening_hours.grid(
+            row=10,
+            column=1,
+            sticky="ew",
+            pady=5
         )
 
         row(
@@ -751,7 +921,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_website
             ),
-            12
+            11
         )
 
         row(
@@ -1301,6 +1471,25 @@ class App(tk.Tk):
 
             return
 
+        raw_opening_hours = self.txt_opening_hours.get(
+            "1.0",
+            tk.END
+        ).strip()
+
+        opening_hours = parse_opening_hours(
+            raw_opening_hours
+        )
+
+        hours_en = make_hours_summary(
+            opening_hours,
+            "en"
+        )
+
+        hours_ro = make_hours_summary(
+            opening_hours,
+            "ro"
+        )
+
         folder = (
             self.rest_root
             / slug
@@ -1433,9 +1622,6 @@ class App(tk.Tk):
             "titleRo":
                 self.var_title_ro.get(),
 
-            "address":
-                self.var_address.get(),
-
             "displayAddress":
                 self.var_display_address.get(),
 
@@ -1448,11 +1634,17 @@ class App(tk.Tk):
             "lon":
                 lon,
 
+            "openingHoursRaw":
+                raw_opening_hours,
+
+            "openingHours":
+                opening_hours,
+
             "hoursEn":
-                self.var_hours_en.get(),
+                hours_en,
 
             "hoursRo":
-                self.var_hours_ro.get(),
+                hours_ro,
 
             "website":
                 self.var_website.get(),
@@ -1553,6 +1745,9 @@ class App(tk.Tk):
 
             "lon":
                 lon,
+
+            "openingHours":
+                opening_hours,
 
             "rating":
                 float(self.var_rating.get()),
