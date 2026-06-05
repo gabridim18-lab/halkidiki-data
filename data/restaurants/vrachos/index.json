@@ -1,0 +1,49 @@
+{
+  "id": "vrachos",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-krini-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Vrachos",
+  "titleRo": "Vrachos",
+  "address": "40.56726593233675, 22.956323662032197",
+  "displayAddress": "",
+  "gpsCoordinates": "40.56726593233675, 22.956323662032197",
+  "lat": 40.56726593233675,
+  "lon": 22.956323662032197,
+  "hoursEn": "Friday  13:30–23:00\n\n; \nSaturday\n\n 13:30–23:00; \nSunday\n 13:00–19:30; \nMonday\n 14:00–23:00\n\n; \nTuesday\n\n - Closed; \n\n\nWednesday\n 14:00–23:00 \n\n \nThursday\n\n 13:30–23:00",
+  "hoursRo": "Vineri: 13:30–23:00; Sâmbătă: 13:30–23:00; Duminică: 13:00–19:30; Luni: 14:00–23:00; Marți: Închis; Miercuri: 14:00–23:00; Joi: 13:30–23:00",
+  "website": "http://www.vrachosseafood.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302310447991",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Authentic seaside dining with a legacy of Greek hospitality\n\nLocated directly by the sea in the charming Nea Krini district of Kalamaria, Vrachos is one of Thessaloniki's most established and beloved seafood taverns. Serving guests since 1932, it has built a reputation for fresh seafood, traditional Greek flavors, and a welcoming atmosphere that reflects the spirit of coastal Greece.\n\nOverlooking the Thermaic Gulf, the restaurant offers a beautiful waterfront setting where guests can enjoy fresh fish, Mediterranean specialties, and classic Greek seafood dishes while admiring the sea views. Its combination of tradition, quality ingredients, and attentive service has made it a favorite among both locals and visitors.\n\nFresh fish remains the signature specialty, complemented by octopus, calamari, shrimp, seafood pasta, and a variety of authentic Greek recipes prepared with care and simplicity.\n\n✨ Why visit Vrachos?\n\n🌊 Stunning waterfront location\n🐟 Fresh fish and premium seafood specialties\n🇬🇷 Authentic Greek and Mediterranean cuisine\n🏛️ Serving guests since 1932\n🍷 Carefully selected wines and local flavors\n🌅 Perfect setting for a memorable seaside meal",
+  "descriptionRo": "Gust autentic al mării într-un loc cu istorie și tradiție\n\nSituată chiar pe malul mării, în pitoreasca zonă Nea Krini din Kalamaria, Vrachos este una dintre cele mai cunoscute și apreciate taverne pescărești din regiunea Thessaloniki. Cu o tradiție care datează încă din 1932, restaurantul este renumit pentru peștele proaspăt, fructele de mare de calitate și atmosfera autentică grecească.\n\nDecorul combină eleganța discretă cu elemente tradiționale, iar poziționarea direct lângă Golful Thermaic oferă o priveliște superbă asupra mării. Fie că alegi un prânz relaxant sau o cină la apus, experiența este completată de preparate inspirate din bucătăria grecească și mediteraneană, pregătite cu ingrediente proaspete și respect pentru tradiție.\n\nSpecialitatea casei este peștele proaspăt al zilei, însă meniul include și caracatiță, calamari, creveți, paste cu fructe de mare și numeroase preparate tradiționale grecești.\n\n✨ De ce să vizitezi Vrachos?\n\n🌊 Locație spectaculoasă chiar pe malul mării\n🐟 Specializat în pește și fructe de mare proaspete\n🇬🇷 Bucătărie grecească autentică\n🏛️ Tradiție gastronomică din 1932\n🍷 Selecție de vinuri și preparate mediteraneene\n🌅 Atmosferă ideală pentru prânzuri și cine cu vedere la mare",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vrachos/images/vrachos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vrachos/images/vrachos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vrachos/images/vrachos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vrachos/images/vrachos4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vrachos/images/vrachos5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vrachos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vrachos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vrachos/images/menu3.webp"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}

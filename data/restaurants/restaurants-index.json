@@ -1,91 +1,91 @@
 [
   {
-  "id": "sunset_bay",
-  "zone": "Thessaloniki",
-  "type": "beach_bar",
-  "featured": true,
-  "beachSlug": "thessaloniki",
-  "titleEn": "Sunset Bay",
-  "titleRo": "Sunset Bay",
-  "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay1.webp",
-  "rating": 4.7,
-  "price": "$$",
-  "shortEn": "Stylish seaside beach bar with tropical vibes, cocktails, sushi, sunset views and vibrant evening events.",
-  "shortRo": "Beach bar modern cu atmosferă tropicală, cocktailuri, sushi, apusuri spectaculoase și petreceri la malul mării.",
-  "features": [
-    "cocktails",
-    "sea_view",
-    "sunset_view",
-    "party"
-  ]
-},
+    "id": "sunset_bay",
+    "zone": "Thessaloniki",
+    "type": "beach_bar",
+    "featured": true,
+    "beachSlug": "thessaloniki",
+    "titleEn": "Sunset Bay",
+    "titleRo": "Sunset Bay",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay1.webp",
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Stylish seaside beach bar with tropical vibes, cocktails, sushi, sunset views and vibrant evening events.",
+    "shortRo": "Beach bar modern cu atmosferă tropicală, cocktailuri, sushi, apusuri spectaculoase și petreceri la malul mării.",
+    "features": [
+      "cocktails",
+      "sea_view",
+      "sunset_view",
+      "party"
+    ]
+  },
   {
-  "id": "avenue_modern_cuisine",
-  "zone": "Thessaloniki",
-  "type": "restaurant",
-  "featured": false,
-  "beachSlug": "thessaloniki",
-  "titleEn": "AVENUE - Modern Cuisine",
-  "titleRo": "AVENUE - Modern Cuisine",
-  "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine1.webp",
-  "rating": 4.5,
-  "price": "$$",
-  "shortEn": "Modern Mediterranean cuisine by the sea, with cocktails, sushi, brunch and elegant waterfront views.",
-  "shortRo": "Bucătărie mediteraneană modernă lângă mare, cu cocktailuri, sushi, brunch și vedere elegantă la faleză.",
-  "features": [
-    "sea_view",
-    "cocktails",
-    "brunch"
-  ],
-   "cuisineTypes": [
+    "id": "avenue_modern_cuisine",
+    "zone": "Thessaloniki",
+    "type": "restaurant",
+    "featured": false,
+    "beachSlug": "thessaloniki",
+    "titleEn": "AVENUE - Modern Cuisine",
+    "titleRo": "AVENUE - Modern Cuisine",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine1.webp",
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Modern Mediterranean cuisine by the sea, with cocktails, sushi, brunch and elegant waterfront views.",
+    "shortRo": "Bucătărie mediteraneană modernă lângă mare, cu cocktailuri, sushi, brunch și vedere elegantă la faleză.",
+    "features": [
+      "sea_view",
+      "cocktails",
+      "brunch"
+    ],
+    "cuisineTypes": [
       "international",
       "seafood"
     ]
-},
+  },
   {
-  "id": "gialos_fish_seafood",
-  "zone": "Thessaloniki",
-  "type": "restaurant",
-  "featured": true,
-  "beachSlug": "Nea Krini Beach",
-  "titleEn": "Gialos Fish & Seafood",
-  "titleRo": "Gialos Fish & Seafood",
-  "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood1.webp",
-  "rating": 4.5,
-  "price": "$$",
-  "shortEn": "Fresh seafood and traditional Greek fish dishes served by the sea, with beautiful sunset views over the Thermaic Gulf.",
-  "shortRo": "Fructe de mare proaspete și preparate pescărești grecești servite pe malul mării, cu apusuri superbe peste Golful Thermaic.",
-  "features": [
-    "sea_view",
-    "seafood",
-    "parking",
-    "pet_friendly"
-  ],
-   "cuisineTypes": [
+    "id": "gialos_fish_seafood",
+    "zone": "Thessaloniki",
+    "type": "restaurant",
+    "featured": true,
+    "beachSlug": "Nea Krini Beach",
+    "titleEn": "Gialos Fish & Seafood",
+    "titleRo": "Gialos Fish & Seafood",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood1.webp",
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Fresh seafood and traditional Greek fish dishes served by the sea, with beautiful sunset views over the Thermaic Gulf.",
+    "shortRo": "Fructe de mare proaspete și preparate pescărești grecești servite pe malul mării, cu apusuri superbe peste Golful Thermaic.",
+    "features": [
+      "sea_view",
+      "seafood",
+      "parking",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
       "international",
       "seafood"
     ]
-},
+  },
   {
-  "id": "maiami-seafood-restaurant",
-  "zone": "Thessaloniki",
-  "type": "restaurant",
-  "featured": true,
-  "beachSlug": "nea-krini-beach",
-  "titleEn": "Maiami Seafood Restaurant",
-  "titleRo": "Maiami Seafood Restaurant",
-  "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/maiami-seafood-restaurant1.webp",
-  "rating": 4.5,
-  "price": "$$$",
-  "shortEn": "Elegant waterfront seafood restaurant offering fresh fish, Mediterranean specialties, fine wines and stunning sunset views.",
-  "shortRo": "Restaurant elegant pe malul mării cu pește proaspăt, fructe de mare, vinuri selecte și apusuri spectaculoase.",
-  "features": [
-    "sea_view",
-    "seafood",
-    "mediterranean",
-    "wine_selection"
-  ],
-   "cuisineTypes": [
+    "id": "maiami-seafood-restaurant",
+    "zone": "Thessaloniki",
+    "type": "restaurant",
+    "featured": true,
+    "beachSlug": "nea-krini-beach",
+    "titleEn": "Maiami Seafood Restaurant",
+    "titleRo": "Maiami Seafood Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maiami-seafood-restaurant/images/maiami-seafood-restaurant1.webp",
+    "rating": 4.5,
+    "price": "$$$",
+    "shortEn": "Elegant waterfront seafood restaurant offering fresh fish, Mediterranean specialties, fine wines and stunning sunset views.",
+    "shortRo": "Restaurant elegant pe malul mării cu pește proaspăt, fructe de mare, vinuri selecte și apusuri spectaculoase.",
+    "features": [
+      "sea_view",
+      "seafood",
+      "mediterranean",
+      "wine_selection"
+    ],
+    "cuisineTypes": [
       "international",
       "seafood"
     ]
@@ -117,6 +117,31 @@
     "cuisineTypes": [
       "international"
     ]
+  },
+  {
+    "id": "vrachos",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-krini-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Vrachos",
+    "titleRo": "Vrachos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vrachos/images/vrachos1.webp",
+    "lat": 40.56726593233675,
+    "lon": 22.956323662032197,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Authentic seaside dining with a legacy of Greek hospitality Located directly by the sea in the charming Nea Krini district of...",
+    "shortRo": "Gust autentic al mării într-un loc cu istorie și tradiție Situată chiar pe malul mării, în pitoreasca zonă Nea Krini din Kalamaria,...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ]
   }
 ]
-
