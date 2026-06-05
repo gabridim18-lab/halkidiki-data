@@ -11,8 +11,9 @@
   "gpsCoordinates": "40.56849866877833, 22.95582804367908",
   "lat": 40.56849866877833,
   "lon": 22.95582804367908,
-  "hoursEn": "Su-Thu: 09:00-02:00 Fri-Sa: 09:00-04:00",
-  "hoursRo": "Du-Joi: 09:00-02:00 Vin-Sam: 09:00-04:00",
+  "hoursEn": "Sunday 09:00–02:00; Monday 09:00–02:00; Tuesday 09:00–02:00; Wednesday 09:00–02:00; Thursday 09:00–02:00; Friday 09:00–04:00; Saturday 09:00–04:00",
+
+"hoursRo": "Duminică: 09:00–02:00; Luni: 09:00–02:00; Marți: 09:00–02:00; Miercuri: 09:00–02:00; Joi: 09:00–02:00; Vineri: 09:00–04:00; Sâmbătă: 09:00–04:00",
   "website": "https://remvi-skg.gr/",
   "facebook": "",
   "instagram": "",
