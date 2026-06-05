@@ -8,8 +8,9 @@
   "titleRo": "Gialos Fish & Seafood",
   "address": "40.579583079416544, 22.938501064621956",
   "displayAddress": "Ν.Πλαστήρα - Μ. Εμβολο - Ν.Α.Ο.Κ, Thessaloniki 551 31, Greece",
-  "hoursEn": "Daily 12:30 - 00:00; Moday - closed",
-  "hoursRo": "Zilnic 12:30 - 00:00; Luni inchis",
+  "hoursEn": "Monday - Closed; Tuesday 12:30–00:00; Wednesday 12:30–00:00; Thursday 12:30–00:00; Friday 12:30–00:00; Saturday 12:30–00:00; Sunday 12:30–00:00",
+
+"hoursRo": "Luni: Închis; Marți: 12:30–00:00; Miercuri: 12:30–00:00; Joi: 12:30–00:00; Vineri: 12:30–00:00; Sâmbătă: 12:30–00:00; Duminică: 12:30–00:00",
   "website": "http://gialosrestaurant.gr/#katalogos",
   "facebook": "",
   "instagram": "",
