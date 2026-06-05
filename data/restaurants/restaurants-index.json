@@ -149,7 +149,7 @@
     "zone": "Thessaloniki",
     "beachSlug": "nea-krini-beach",
     "type": "restaurant",
-    "featured": false,
+    "featured": true,
     "titleEn": "Aródo",
     "titleRo": "Aródo",
     "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/aródo1.webp",
