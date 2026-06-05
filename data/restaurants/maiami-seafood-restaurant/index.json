@@ -8,8 +8,9 @@
   "titleRo": "Maiami Seafood Restaurant",
   "address": "HX85+C9 Kalamaria Municipality, Greece",
   "displayAddress": "Thetidos 18, Kalamaria 551 32, Greece",
-  "hoursEn": "Mo-Sa: 12:00 - 00:00, Su: 12:00-21:00",
-  "hoursRo": "Lu-Sa: 12:00 - 00:00, Du: 12:00-21:00",
+  "hoursEn": "Monday 12:00–00:00; Tuesday 12:00–00:00; Wednesday 12:00–00:00; Thursday 12:00–00:00; Friday 12:00–00:00; Saturday 12:00–00:00; Sunday 12:00–21:00",
+
+"hoursRo": "Luni: 12:00–00:00; Marți: 12:00–00:00; Miercuri: 12:00–00:00; Joi: 12:00–00:00; Vineri: 12:00–00:00; Sâmbătă: 12:00–00:00; Duminică: 12:00–21:00",
   "website": "http://www.maiamirestaurant.gr/",
   "facebook": "",
   "instagram": "",
