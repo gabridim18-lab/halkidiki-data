@@ -3,7 +3,7 @@
   "zone": "Thessaloniki",
   "beachSlug": "nea-krini-beach",
   "type": "restaurant",
-  "featured": false,
+  "featured": true,
   "titleEn": "Aródo",
   "titleRo": "Aródo",
   "displayAddress": "Thetidos 25, Θεσσαλονίκη 551 32, Greece",
