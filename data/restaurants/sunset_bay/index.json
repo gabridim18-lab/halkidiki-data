@@ -8,8 +8,9 @@
   "titleRo": "Sunset Bay",
   "address": "HX3H+GM Pylaia, Greece",
   "displayAddress": "Leof. Georgikis Scholis 70, Pilea 555 35, Greece",
-  "hoursEn": "Daily 17:00-24:00",
-  "hoursRo": "Zilnic 17:00-24:00",
+  "hoursEn": "Monday 17:00–24:00; Tuesday 17:00–24:00; Wednesday 17:00–24:00; Thursday 17:00–24:00; Friday 17:00–24:00; Saturday 17:00–24:00; Sunday 17:00–24:00",
+
+"hoursRo": "Luni: 17:00–24:00; Marți: 17:00–24:00; Miercuri: 17:00–24:00; Joi: 17:00–24:00; Vineri: 17:00–24:00; Sâmbătă: 17:00–24:00; Duminică: 17:00–24:00",
   "website": "",
   "facebook": "https://www.facebook.com/p/Sunset-Bay-skg-61559870677332/?locale=el_GR",
   "instagram": "",
