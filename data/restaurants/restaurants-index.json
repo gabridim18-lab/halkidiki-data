@@ -23,7 +23,7 @@
     "id": "avenue_modern_cuisine",
     "zone": "Thessaloniki",
     "type": "restaurant",
-    "featured": false,
+    "featured": true,
     "beachSlug": "thessaloniki",
     "titleEn": "AVENUE - Modern Cuisine",
     "titleRo": "AVENUE - Modern Cuisine",
