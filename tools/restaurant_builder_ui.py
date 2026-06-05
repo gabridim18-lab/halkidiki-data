@@ -49,6 +49,47 @@ def save_json(path: Path, data: dict):
         encoding="utf-8"
     )
 
+
+def make_short_text(text: str, limit: int = 135):
+
+    clean = " ".join(
+        text.strip().split()
+    )
+
+    if len(clean) <= limit:
+        return clean
+
+    return clean[:limit].rsplit(" ", 1)[0] + "..."
+
+def parse_coordinates(value: str):
+
+    clean = value.strip()
+
+    if not clean:
+        return None, None
+
+    match = re.search(
+        r"(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)",
+        clean
+    )
+
+    if not match:
+        raise ValueError(
+            "GPS Coordinates must look like: 40.568494593811025, 22.95579049272589"
+        )
+
+    lat = float(match.group(1))
+    lon = float(match.group(2))
+
+    if lat < -90 or lat > 90:
+        raise ValueError("Latitude must be between -90 and 90")
+
+    if lon < -180 or lon > 180:
+        raise ValueError("Longitude must be between -180 and 180")
+
+    return lat, lon
+
+
 def ensure_1200x800_webp(src_path, dst_path):
 
     dst_path.parent.mkdir(
@@ -486,6 +527,8 @@ class App(tk.Tk):
 
         self.var_display_address = tk.StringVar()
 
+        self.var_gps_coordinates = tk.StringVar()
+
         self.var_hours_en = tk.StringVar()
 
         self.var_hours_ro = tk.StringVar()
@@ -676,12 +719,21 @@ class App(tk.Tk):
         )
 
         row(
+            "GPS Coordinates",
+            ttk.Entry(
+                form,
+                textvariable=self.var_gps_coordinates
+            ),
+            9
+        )
+
+        row(
             "Hours EN",
             ttk.Entry(
                 form,
                 textvariable=self.var_hours_en
             ),
-            9
+            10
         )
 
         row(
@@ -690,7 +742,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_hours_ro
             ),
-            10
+            11
         )
 
         row(
@@ -699,7 +751,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_website
             ),
-            11
+            12
         )
 
         row(
@@ -708,7 +760,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_facebook
             ),
-            12
+            13
         )
 
         row(
@@ -717,7 +769,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_instagram
             ),
-            13
+            14
         )
 
         row(
@@ -726,7 +778,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_phone
             ),
-            14
+            15
         )
 
         price_box = ttk.Combobox(
@@ -748,7 +800,7 @@ class App(tk.Tk):
         row(
             "Price",
             price_box,
-            15
+            16
         )
 
         row(
@@ -757,7 +809,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_rating
             ),
-            16
+            17
         )
 
         row(
@@ -766,7 +818,7 @@ class App(tk.Tk):
                 form,
                 textvariable=self.var_sunbed_price
             ),
-            17
+            18
         )
 
         ttk.Checkbutton(
@@ -778,7 +830,7 @@ class App(tk.Tk):
             variable=self.var_consumation
 
         ).grid(
-            row=18,
+            row=19,
             column=1,
             sticky="w"
         )
@@ -1234,6 +1286,21 @@ class App(tk.Tk):
 
             return
 
+        try:
+
+            lat, lon = parse_coordinates(
+                self.var_gps_coordinates.get()
+            )
+
+        except ValueError as e:
+
+            messagebox.showerror(
+                "GPS Coordinates Error",
+                str(e)
+            )
+
+            return
+
         folder = (
             self.rest_root
             / slug
@@ -1372,6 +1439,15 @@ class App(tk.Tk):
             "displayAddress":
                 self.var_display_address.get(),
 
+            "gpsCoordinates":
+                self.var_gps_coordinates.get().strip(),
+
+            "lat":
+                lat,
+
+            "lon":
+                lon,
+
             "hoursEn":
                 self.var_hours_en.get(),
 
@@ -1440,6 +1516,74 @@ class App(tk.Tk):
         # UPDATE INDEX
         # =========================================
 
+        main_image = ""
+
+        if business_urls:
+            main_image = business_urls[0]
+
+        index_item = {
+
+            "id": slug,
+
+            "zone":
+                self.var_zone.get(),
+
+            "beachSlug":
+                slugify(
+                    self.var_beach_slug.get()
+                ),
+
+            "type":
+                self.var_type.get(),
+
+            "featured":
+                self.var_featured.get(),
+
+            "titleEn":
+                self.var_title_en.get(),
+
+            "titleRo":
+                self.var_title_ro.get(),
+
+            "image":
+                main_image,
+
+            "lat":
+                lat,
+
+            "lon":
+                lon,
+
+            "rating":
+                float(self.var_rating.get()),
+
+            "price":
+                self.var_price.get(),
+
+            "shortEn":
+                make_short_text(
+                    self.txt_en.get(
+                        "1.0",
+                        tk.END
+                    )
+                ),
+
+            "shortRo":
+                make_short_text(
+                    self.txt_ro.get(
+                        "1.0",
+                        tk.END
+                    )
+                ),
+
+            "features":
+                features,
+
+            "cuisineTypes":
+                cuisine_types
+
+        }
+
         if self.index_path.exists():
 
             index_data = json.loads(
@@ -1454,32 +1598,19 @@ class App(tk.Tk):
 
             index_data = []
 
-        found = False
+        updated = False
 
-        for item in index_data:
+        for i, item in enumerate(index_data):
 
-            if item["id"] == slug:
+            if item.get("id") == slug:
 
-                found = True
+                index_data[i] = index_item
+                updated = True
+                break
 
-        if not found:
+        if not updated:
 
-            index_data.append({
-
-                "id": slug,
-
-                "zone":
-                    self.var_zone.get(),
-
-                "type":
-                    self.var_type.get(),
-
-                "beachSlug":
-                    slugify(
-                        self.var_beach_slug.get()
-                    ),
-
-            })
+            index_data.append(index_item)
 
         save_json(
             self.index_path,

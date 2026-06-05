@@ -36,7 +36,11 @@
     "sea_view",
     "cocktails",
     "brunch"
-  ]
+  ],
+   "cuisineTypes": [
+      "international",
+      "seafood"
+    ]
 },
   {
   "id": "gialos_fish_seafood",
@@ -56,7 +60,11 @@
     "seafood",
     "parking",
     "pet_friendly"
-  ]
+  ],
+   "cuisineTypes": [
+      "international",
+      "seafood"
+    ]
 },
   {
   "id": "maiami-seafood-restaurant",
@@ -76,6 +84,39 @@
     "seafood",
     "mediterranean",
     "wine_selection"
-  ]
-}
+  ],
+   "cuisineTypes": [
+      "international",
+      "seafood"
+    ]
+  },
+  {
+    "id": "remvi-café-bar-restaurant",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-krini-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Remvi Café Bar Restaurant",
+    "titleRo": "Remvi Café Bar Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant1.webp",
+    "lat": 40.56849866877833,
+    "lon": 22.95582804367908,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Contemporary elegance, refined cuisine, and breathtaking sea views Located in one of Kalamaria's most desirable waterfront areas,...",
+    "shortRo": "Eleganță contemporană, gastronomie rafinată și priveliști spectaculoase asupra mării Situat într-una dintre cele mai frumoase zone ale...",
+    "features": [
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly",
+      "pet_friendly",
+      "events"
+    ],
+    "cuisineTypes": [
+      "international"
+    ]
+  }
 ]
+

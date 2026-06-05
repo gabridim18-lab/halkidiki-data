@@ -457,6 +457,80 @@ class App(tk.Tk):
 
         save_json(acc_index_path, acc_json)
 
+        # -----------------------------
+        # UPDATE accommodations-index-v2.json
+        # -----------------------------
+
+        v2_path = (
+            self.acc_root /
+            "accommodations-index-v2.json"
+        )
+
+        if v2_path.exists():
+
+            v2_data = load_json(v2_path)
+
+        else:
+
+            v2_data = []
+
+        v2_entry = {
+
+            "id": acc_id,
+
+            "zone": self.var_zone.get().strip(),
+
+            "beachSlug": slugify(
+                self.var_beachslug.get()
+            ),
+
+            "titleEn": self.var_title_en.get().strip(),
+
+            "titleRo": self.var_title_ro.get().strip(),
+
+            "image": image_urls[0],
+
+            "category": self.var_category.get().strip(),
+
+            "rating": parse_float(
+                self.var_rating.get(),
+                0.0
+            ),
+
+            "featured": bool(
+                self.var_featured.get()
+            ),
+
+            "guests": parse_int(
+                self.var_guests.get(),
+                0
+            ),
+
+            "bedrooms": parse_int(
+                self.var_bedrooms.get(),
+                0
+            )
+        }
+
+        v2_data = [
+
+            item
+
+            for item in v2_data
+
+            if item["id"] != acc_id
+
+        ]
+
+        v2_data.append(
+            v2_entry
+        )
+
+        save_json(
+            v2_path,
+            v2_data
+        )
+
         # update main index
         if acc_id not in main_index["items"]:
             main_index["items"].append(acc_id)
