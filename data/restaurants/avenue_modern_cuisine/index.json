@@ -8,8 +8,9 @@
   "titleRo": "AVENUE - Modern Cuisine",
   "address": "JX82+6R Thessaloniki, Greece",
   "displayAddress": "",
-  "hoursEn": "Daily 10:00-01:30",
-  "hoursRo": "Zilnic 10:00-01:30",
+"hoursEn": "Monday 10:00–01:30; Tuesday 10:00–01:30; Wednesday 10:00–01:30; Thursday 10:00–01:30; Friday 10:00–01:30; Saturday 10:00–01:30; Sunday 10:00–01:30",
+
+"hoursRo": "Luni: 10:00–01:30; Marți: 10:00–01:30; Miercuri: 10:00–01:30; Joi: 10:00–01:30; Vineri: 10:00–01:30; Sâmbătă: 10:00–01:30; Duminică: 10:00–01:30",
   "website": "http://avenuethess.gr/",
   "facebook": "",
   "instagram": "",
