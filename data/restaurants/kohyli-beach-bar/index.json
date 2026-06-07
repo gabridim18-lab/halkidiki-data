@@ -3,7 +3,7 @@
   "zone": "Thessaloniki",
   "beachSlug": "perea-beach",
   "type": "beach_bar",
-  "featured": false,
+  "featured": true,
   "titleEn": "Kohyli Beach Bar ",
   "titleRo": "Kohyli Beach Bar ",
   "displayAddress": "P. Kountouriotou 23, Perea 570 19, Greece",
