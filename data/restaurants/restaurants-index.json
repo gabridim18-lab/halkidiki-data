@@ -286,5 +286,32 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "mythomageiremata-tavern",
+    "zone": "Thessaloniki",
+    "beachSlug": "perea-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Mythomageiremata Tavern",
+    "titleRo": "Mythomageiremata Tavern",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/mythomageiremata-tavern1.webp",
+    "lat": 40.51066398591256,
+    "lon": 22.929621689215868,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Mythomageiremata Tavern is a charming seaside restaurant located on the waterfront promenade of Perea, just steps away from the sea....",
+    "shortRo": "Mythomageiremata Tavern este o tavernă elegantă situată pe promenada din Perea, la doar câțiva pași de mare. Cunoscută pentru...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ]
   }
 ]

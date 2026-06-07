@@ -1746,9 +1746,6 @@ class App(tk.Tk):
             "lon":
                 lon,
 
-            "openingHours":
-                opening_hours,
-
             "rating":
                 float(self.var_rating.get()),
 
