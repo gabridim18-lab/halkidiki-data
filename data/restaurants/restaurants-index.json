@@ -236,5 +236,96 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "provatina-traditional-grill-house",
+    "zone": "Thessaloniki",
+    "beachSlug": "perea-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Provatina Traditional Grill House",
+    "titleRo": "Provatina Traditional Grill House",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house1.webp",
+    "lat": 40.51054986617014,
+    "lon": 22.92940778739626,
+    "openingHours": [
+      {
+        "day": "Monday",
+        "dayRo": "Luni",
+        "closed": false,
+        "open": "13:00",
+        "close": "23:00",
+        "labelEn": "13:00–23:00",
+        "labelRo": "13:00–23:00"
+      },
+      {
+        "day": "Tuesday",
+        "dayRo": "Marți",
+        "closed": false,
+        "open": "13:00",
+        "close": "23:00",
+        "labelEn": "13:00–23:00",
+        "labelRo": "13:00–23:00"
+      },
+      {
+        "day": "Wednesday",
+        "dayRo": "Miercuri",
+        "closed": true,
+        "open": "",
+        "close": "",
+        "labelEn": "Closed",
+        "labelRo": "Închis"
+      },
+      {
+        "day": "Thursday",
+        "dayRo": "Joi",
+        "closed": false,
+        "open": "13:00",
+        "close": "23:00",
+        "labelEn": "13:00–23:00",
+        "labelRo": "13:00–23:00"
+      },
+      {
+        "day": "Friday",
+        "dayRo": "Vineri",
+        "closed": false,
+        "open": "13:00",
+        "close": "23:00",
+        "labelEn": "13:00–23:00",
+        "labelRo": "13:00–23:00"
+      },
+      {
+        "day": "Saturday",
+        "dayRo": "Sâmbătă",
+        "closed": false,
+        "open": "13:00",
+        "close": "23:00",
+        "labelEn": "13:00–23:00",
+        "labelRo": "13:00–23:00"
+      },
+      {
+        "day": "Sunday",
+        "dayRo": "Duminică",
+        "closed": false,
+        "open": "13:00",
+        "close": "23:00",
+        "labelEn": "13:00–23:00",
+        "labelRo": "13:00–23:00"
+      }
+    ],
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Προβατίνα χασαποταβέρνα is a traditional Greek tavern located on the seaside promenade of Perea, just a short distance from...",
+    "shortRo": "Προβατίνα χασαποταβέρνα este o tavernă tradițională grecească situată pe promenada din Perea, lângă mare. Restaurantul este apreciat...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

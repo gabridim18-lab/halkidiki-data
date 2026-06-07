@@ -1,0 +1,114 @@
+{
+  "id": "provatina-traditional-grill-house",
+  "zone": "Thessaloniki",
+  "beachSlug": "perea-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Provatina Traditional Grill House",
+  "titleRo": "Provatina Traditional Grill House",
+  "displayAddress": "P. Kountouriotou 33, Perea 570 19, Greece",
+  "gpsCoordinates": "40.51054986617014, 22.92940778739626",
+  "lat": 40.51054986617014,
+  "lon": 22.92940778739626,
+  "openingHoursRaw": "Sunday\n\t\n\n    1–11 pm\n\n\t\nMonday\n\t\n\n    1–11 pm\n\n\t\nTuesday\n\t\n\n    1–11 pm\n\n\t\nWednesday\n\t\n\n    Closed\n\n\t\nThursday\n\t\n\n    1–11 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n\t\n\n    1–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–23:00; Tuesday: 13:00–23:00; Wednesday: Closed; Thursday: 13:00–23:00; Friday: 13:00–23:00; Saturday: 13:00–23:00; Sunday: 13:00–23:00",
+  "hoursRo": "Luni: 13:00–23:00; Marți: 13:00–23:00; Miercuri: Închis; Joi: 13:00–23:00; Vineri: 13:00–23:00; Sâmbătă: 13:00–23:00; Duminică: 13:00–23:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/p/%CE%A0%CF%81%CE%BF%CE%B2%CE%B1%CF%84%CE%AF%CE%BD%CE%B1-%CE%A7%CE%B1%CF%83%CE%B1%CF%80%CE%BF%CF%84%CE%B1%CE%B2%CE%AD%CF%81%CE%BD%CE%B1-61574939721703/",
+  "instagram": "",
+  "phone": "+302392020555",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Προβατίνα χασαποταβέρνα is a traditional Greek tavern located on the seaside promenade of Perea, just a short distance from Thessaloniki. Known for its grilled meat specialties, authentic Greek flavors, and welcoming atmosphere, the restaurant combines rustic wooden décor with a modern dining experience. Guests can enjoy a variety of expertly prepared meat dishes, traditional appetizers, fresh salads, and local recipes while relaxing in a cozy setting near the sea. Its friendly service and authentic tavern character make it a popular choice for both locals and visitors seeking genuine Greek cuisine.",
+  "descriptionRo": "Προβατίνα χασαποταβέρνα este o tavernă tradițională grecească situată pe promenada din Perea, lângă mare. Restaurantul este apreciat pentru preparatele sale din carne gătite pe grătar, rețetele autentice grecești și atmosfera relaxată, specifică tavernelor de familie. Interiorul combină elemente rustice din lemn cu un design modern și primitor, iar terasa oferă un cadru plăcut pentru prânzuri și cine cu vedere spre Golful Thermaic. Meniul include specialități din carne, aperitive tradiționale, salate proaspete și preparate pregătite după rețete locale, servite într-un ambient cald și ospitalier.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/menu4.webp"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
