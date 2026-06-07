@@ -248,71 +248,6 @@
     "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house1.webp",
     "lat": 40.51054986617014,
     "lon": 22.92940778739626,
-    "openingHours": [
-      {
-        "day": "Monday",
-        "dayRo": "Luni",
-        "closed": false,
-        "open": "13:00",
-        "close": "23:00",
-        "labelEn": "13:00–23:00",
-        "labelRo": "13:00–23:00"
-      },
-      {
-        "day": "Tuesday",
-        "dayRo": "Marți",
-        "closed": false,
-        "open": "13:00",
-        "close": "23:00",
-        "labelEn": "13:00–23:00",
-        "labelRo": "13:00–23:00"
-      },
-      {
-        "day": "Wednesday",
-        "dayRo": "Miercuri",
-        "closed": true,
-        "open": "",
-        "close": "",
-        "labelEn": "Closed",
-        "labelRo": "Închis"
-      },
-      {
-        "day": "Thursday",
-        "dayRo": "Joi",
-        "closed": false,
-        "open": "13:00",
-        "close": "23:00",
-        "labelEn": "13:00–23:00",
-        "labelRo": "13:00–23:00"
-      },
-      {
-        "day": "Friday",
-        "dayRo": "Vineri",
-        "closed": false,
-        "open": "13:00",
-        "close": "23:00",
-        "labelEn": "13:00–23:00",
-        "labelRo": "13:00–23:00"
-      },
-      {
-        "day": "Saturday",
-        "dayRo": "Sâmbătă",
-        "closed": false,
-        "open": "13:00",
-        "close": "23:00",
-        "labelEn": "13:00–23:00",
-        "labelRo": "13:00–23:00"
-      },
-      {
-        "day": "Sunday",
-        "dayRo": "Duminică",
-        "closed": false,
-        "open": "13:00",
-        "close": "23:00",
-        "labelEn": "13:00–23:00",
-        "labelRo": "13:00–23:00"
-      }
-    ],
     "rating": 4.5,
     "price": "$$",
     "shortEn": "Προβατίνα χασαποταβέρνα is a traditional Greek tavern located on the seaside promenade of Perea, just a short distance from...",
@@ -333,77 +268,12 @@
     "zone": "Thessaloniki",
     "beachSlug": "perea-beach",
     "type": "beach_bar",
-    "featured": false,
+    "featured": true,
     "titleEn": "Kohyli Beach Bar ",
     "titleRo": "Kohyli Beach Bar ",
     "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/kohyli-beach-bar1.webp",
     "lat": 40.510659748580025,
     "lon": 22.93064971855726,
-    "openingHours": [
-      {
-        "day": "Monday",
-        "dayRo": "Luni",
-        "closed": false,
-        "open": "08:00",
-        "close": "01:00",
-        "labelEn": "08:00–01:00",
-        "labelRo": "08:00–01:00"
-      },
-      {
-        "day": "Tuesday",
-        "dayRo": "Marți",
-        "closed": false,
-        "open": "08:00",
-        "close": "01:00",
-        "labelEn": "08:00–01:00",
-        "labelRo": "08:00–01:00"
-      },
-      {
-        "day": "Wednesday",
-        "dayRo": "Miercuri",
-        "closed": false,
-        "open": "08:00",
-        "close": "01:00",
-        "labelEn": "08:00–01:00",
-        "labelRo": "08:00–01:00"
-      },
-      {
-        "day": "Thursday",
-        "dayRo": "Joi",
-        "closed": false,
-        "open": "08:00",
-        "close": "01:00",
-        "labelEn": "08:00–01:00",
-        "labelRo": "08:00–01:00"
-      },
-      {
-        "day": "Friday",
-        "dayRo": "Vineri",
-        "closed": false,
-        "open": "08:00",
-        "close": "01:00",
-        "labelEn": "08:00–01:00",
-        "labelRo": "08:00–01:00"
-      },
-      {
-        "day": "Saturday",
-        "dayRo": "Sâmbătă",
-        "closed": false,
-        "open": "08:00",
-        "close": "01:00",
-        "labelEn": "08:00–01:00",
-        "labelRo": "08:00–01:00"
-      },
-      {
-        "day": "Sunday",
-        "dayRo": "Duminică",
-        "closed": false,
-        "open": "08:00",
-        "close": "01:00",
-        "labelEn": "08:00–01:00",
-        "labelRo": "08:00–01:00"
-      }
-    ],
     "rating": 4.4,
     "price": "$$",
     "shortEn": "Kohyli Beach Bar is one of Perea’s most popular beachfront destinations, located directly on the shores of the Thermaic Gulf....",
