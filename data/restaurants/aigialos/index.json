@@ -1,0 +1,117 @@
+{
+  "id": "aigialos",
+  "zone": "Thessaloniki",
+  "beachSlug": "perea-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Aigialos ",
+  "titleRo": "Aigialos",
+  "displayAddress": "P. Kountouriotou 43, Perea 570 19, Greece",
+  "gpsCoordinates": "40.51022653818528, 22.927967337269717",
+  "lat": 40.51022653818528,
+  "lon": 22.927967337269717,
+  "openingHoursRaw": "Monday\n\t\n\n    11:30 am–10 pm\n\n\t\nTuesday\n\t\n\n    11:30 am–10 pm\n\n\t\nWednesday\n\t\n\n    11:30 am–10 pm\n\n\t\nThursday\n\t\n\n    11:30 am–10 pm\n\n\t\nFriday\n\t\n\n    11:30 am–11 pm\n\n\t\nSaturday\n\t\n\n    11:30 am–11 pm\n\n\t\nSunday\n\t\n\n    11:30 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:30",
+      "close": "23:00",
+      "labelEn": "11:30–23:00",
+      "labelRo": "11:30–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:30",
+      "close": "23:00",
+      "labelEn": "11:30–23:00",
+      "labelRo": "11:30–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:30",
+      "close": "20:00",
+      "labelEn": "11:30–20:00",
+      "labelRo": "11:30–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 11:30–22:00; Tuesday: 11:30–22:00; Wednesday: 11:30–22:00; Thursday: 11:30–22:00; Friday: 11:30–23:00; Saturday: 11:30–23:00; Sunday: 11:30–20:00",
+  "hoursRo": "Luni: 11:30–22:00; Marți: 11:30–22:00; Miercuri: 11:30–22:00; Joi: 11:30–22:00; Vineri: 11:30–23:00; Sâmbătă: 11:30–23:00; Duminică: 11:30–20:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306970675621",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Aigialos Restaurant is one of the most popular seaside taverns along the Perea waterfront, combining authentic Greek cuisine with stunning views of the Thermaic Gulf. Located directly on the beach promenade, the restaurant offers a relaxing atmosphere, elegant coastal décor, and the warm hospitality for which Greece is famous.\n\nThe menu focuses on fresh ingredients and traditional flavors, featuring locally sourced fish and seafood, Mediterranean salads, grilled octopus, calamari, shrimp, and a variety of classic Greek specialties prepared according to authentic recipes. Its spacious seaside terrace provides the perfect setting for a leisurely lunch by the sea or a romantic dinner while enjoying the beautiful sunset over the gulf.\n\nWhether you are looking to enjoy freshly prepared seafood, carefully selected Greek wines, or simply experience the charm of a traditional Greek seaside restaurant, Aigialos offers a memorable dining experience in the heart of Perea. 🌊🐟🍷☀️",
+  "descriptionRo": "Aigialos Restaurant este una dintre cele mai apreciate taverne de pe promenada din Perea, oferind o combinație perfectă între bucătăria grecească autentică și priveliștea spectaculoasă asupra Golfului Thermaic. Situat chiar pe malul mării, restaurantul impresionează prin atmosfera sa relaxată, decorul elegant în nuanțe alb-albastre și serviciul prietenos specific ospitalității grecești.\n\nMeniul pune accent pe ingrediente proaspete și preparate tradiționale, de la pește și fructe de mare pescuite local până la salate mediteraneene, caracatiță la grătar, calamari, creveți și specialități grecești pregătite după rețete autentice. Terasa generoasă oferă un loc ideal pentru un prânz liniștit la malul mării sau pentru o cină romantică în timp ce soarele apune peste apele golfului.\n\nFie că dorești să savurezi fructe de mare proaspete, vinuri grecești atent selecționate sau pur și simplu să te bucuri de atmosfera autentică a litoralului grecesc, Aigialos este o alegere excelentă pentru o experiență culinară memorabilă în Perea.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/menu4.webp"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
