@@ -8,7 +8,73 @@
   "titleRo": "Gialos Fish & Seafood",
   "address": "40.579583079416544, 22.938501064621956",
   "displayAddress": "Ν.Πλαστήρα - Μ. Εμβολο - Ν.Α.Ο.Κ, Thessaloniki 551 31, Greece",
-  "hoursEn": "Monday - Closed; Tuesday 12:30–00:00; Wednesday 12:30–00:00; Thursday 12:30–00:00; Friday 12:30–00:00; Saturday 12:30–00:00; Sunday 12:30–00:00",
+  "openingHoursRaw": "Monday\n\t\n\n    Closed\n\n\t\nTuesday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nWednesday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nThursday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nFriday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nSaturday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nSunday\n\t\n\n    12:30 pm–12:00 am",
+
+"openingHours": [
+  {
+    "day": "Monday",
+    "dayRo": "Luni",
+    "closed": true,
+    "labelEn": "Closed",
+    "labelRo": "Închis"
+  },
+  {
+    "day": "Tuesday",
+    "dayRo": "Marți",
+    "closed": false,
+    "open": "12:30",
+    "close": "00:00",
+    "labelEn": "12:30–00:00",
+    "labelRo": "12:30–00:00"
+  },
+  {
+    "day": "Wednesday",
+    "dayRo": "Miercuri",
+    "closed": false,
+    "open": "12:30",
+    "close": "00:00",
+    "labelEn": "12:30–00:00",
+    "labelRo": "12:30–00:00"
+  },
+  {
+    "day": "Thursday",
+    "dayRo": "Joi",
+    "closed": false,
+    "open": "12:30",
+    "close": "00:00",
+    "labelEn": "12:30–00:00",
+    "labelRo": "12:30–00:00"
+  },
+  {
+    "day": "Friday",
+    "dayRo": "Vineri",
+    "closed": false,
+    "open": "12:30",
+    "close": "00:00",
+    "labelEn": "12:30–00:00",
+    "labelRo": "12:30–00:00"
+  },
+  {
+    "day": "Saturday",
+    "dayRo": "Sâmbătă",
+    "closed": false,
+    "open": "12:30",
+    "close": "00:00",
+    "labelEn": "12:30–00:00",
+    "labelRo": "12:30–00:00"
+  },
+  {
+    "day": "Sunday",
+    "dayRo": "Duminică",
+    "closed": false,
+    "open": "12:30",
+    "close": "00:00",
+    "labelEn": "12:30–00:00",
+    "labelRo": "12:30–00:00"
+  }
+],
+
+"hoursEn": "Monday: Closed; Tuesday: 12:30–00:00; Wednesday: 12:30–00:00; Thursday: 12:30–00:00; Friday: 12:30–00:00; Saturday: 12:30–00:00; Sunday: 12:30–00:00",
 
 "hoursRo": "Luni: Închis; Marți: 12:30–00:00; Miercuri: 12:30–00:00; Joi: 12:30–00:00; Vineri: 12:30–00:00; Sâmbătă: 12:30–00:00; Duminică: 12:30–00:00",
   "website": "http://gialosrestaurant.gr/#katalogos",
