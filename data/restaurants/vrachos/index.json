@@ -11,8 +11,75 @@
   "gpsCoordinates": "40.56726593233675, 22.956323662032197",
   "lat": 40.56726593233675,
   "lon": 22.956323662032197,
-  "hoursEn": "Friday  13:30–23:00\n\n; \nSaturday\n\n 13:30–23:00; \nSunday\n 13:00–19:30; \nMonday\n 14:00–23:00\n\n; \nTuesday\n\n - Closed; \n\n\nWednesday\n 14:00–23:00 \n\n \nThursday\n\n 13:30–23:00",
-  "hoursRo": "Vineri: 13:30–23:00; Sâmbătă: 13:30–23:00; Duminică: 13:00–19:30; Luni: 14:00–23:00; Marți: Închis; Miercuri: 14:00–23:00; Joi: 13:30–23:00",
+  "openingHoursRaw": "Monday\n\t\n\n    2:00 pm–11:00 pm\n\n\t\nTuesday\n\t\n\n    Closed\n\n\t\nWednesday\n\t\n\n    2:00 pm–11:00 pm\n\n\t\nThursday\n\t\n\n    1:30 pm–11:00 pm\n\n\t\nFriday\n\t\n\n    1:30 pm–11:00 pm\n\n\t\nSaturday\n\t\n\n    1:30 pm–11:00 pm\n\n\t\nSunday\n\t\n\n    1:00 pm–7:30 pm",
+
+"openingHours": [
+  {
+    "day": "Monday",
+    "dayRo": "Luni",
+    "closed": false,
+    "open": "14:00",
+    "close": "23:00",
+    "labelEn": "14:00–23:00",
+    "labelRo": "14:00–23:00"
+  },
+  {
+    "day": "Tuesday",
+    "dayRo": "Marți",
+    "closed": true,
+    "labelEn": "Closed",
+    "labelRo": "Închis"
+  },
+  {
+    "day": "Wednesday",
+    "dayRo": "Miercuri",
+    "closed": false,
+    "open": "14:00",
+    "close": "23:00",
+    "labelEn": "14:00–23:00",
+    "labelRo": "14:00–23:00"
+  },
+  {
+    "day": "Thursday",
+    "dayRo": "Joi",
+    "closed": false,
+    "open": "13:30",
+    "close": "23:00",
+    "labelEn": "13:30–23:00",
+    "labelRo": "13:30–23:00"
+  },
+  {
+    "day": "Friday",
+    "dayRo": "Vineri",
+    "closed": false,
+    "open": "13:30",
+    "close": "23:00",
+    "labelEn": "13:30–23:00",
+    "labelRo": "13:30–23:00"
+  },
+  {
+    "day": "Saturday",
+    "dayRo": "Sâmbătă",
+    "closed": false,
+    "open": "13:30",
+    "close": "23:00",
+    "labelEn": "13:30–23:00",
+    "labelRo": "13:30–23:00"
+  },
+  {
+    "day": "Sunday",
+    "dayRo": "Duminică",
+    "closed": false,
+    "open": "13:00",
+    "close": "19:30",
+    "labelEn": "13:00–19:30",
+    "labelRo": "13:00–19:30"
+  }
+],
+
+"hoursEn": "Monday: 14:00–23:00; Tuesday: Closed; Wednesday: 14:00–23:00; Thursday: 13:30–23:00; Friday: 13:30–23:00; Saturday: 13:30–23:00; Sunday: 13:00–19:30",
+
+"hoursRo": "Luni: 14:00–23:00; Marți: Închis; Miercuri: 14:00–23:00; Joi: 13:30–23:00; Vineri: 13:30–23:00; Sâmbătă: 13:30–23:00; Duminică: 13:00–19:30",
   "website": "http://www.vrachosseafood.gr/",
   "facebook": "",
   "instagram": "",
