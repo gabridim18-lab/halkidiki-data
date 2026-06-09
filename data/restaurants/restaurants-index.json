@@ -304,5 +304,31 @@
       "seafood",
       "greek"
     ]
+  },
+  {
+    "id": "play-maker",
+    "zone": "Thessaloniki",
+    "beachSlug": "perea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Play-Maker",
+    "titleRo": "Play-Maker",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/play-maker1.webp",
+    "lat": 40.509612058969374,
+    "lon": 22.926678247991735,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Located directly on the waterfront of Perea, Play-Maker Beach Bar is the perfect destination for a relaxing beach day and breathtaking...",
+    "shortRo": "Situat chiar pe faleza din Perea, Play-Maker Beach Bar este locul perfect pentru o zi relaxantă la mare sau pentru un apus spectaculos...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ]
   }
 ]
