@@ -8,7 +8,75 @@
   "titleRo": "AVENUE - Modern Cuisine",
   "address": "JX82+6R Thessaloniki, Greece",
   "displayAddress": "",
-"hoursEn": "Monday 10:00–01:30; Tuesday 10:00–01:30; Wednesday 10:00–01:30; Thursday 10:00–01:30; Friday 10:00–01:30; Saturday 10:00–01:30; Sunday 10:00–01:30",
+"openingHoursRaw": "Monday\n\t\n\n    10:00 am–1:30 am\n\n\t\nTuesday\n\t\n\n    10:00 am–1:30 am\n\n\t\nWednesday\n\t\n\n    10:00 am–1:30 am\n\n\t\nThursday\n\t\n\n    10:00 am–1:30 am\n\n\t\nFriday\n\t\n\n    10:00 am–1:30 am\n\n\t\nSaturday\n\t\n\n    10:00 am–1:30 am\n\n\t\nSunday\n\t\n\n    10:00 am–1:30 am",
+
+"openingHours": [
+  {
+    "day": "Monday",
+    "dayRo": "Luni",
+    "closed": false,
+    "open": "10:00",
+    "close": "01:30",
+    "labelEn": "10:00–01:30",
+    "labelRo": "10:00–01:30"
+  },
+  {
+    "day": "Tuesday",
+    "dayRo": "Marți",
+    "closed": false,
+    "open": "10:00",
+    "close": "01:30",
+    "labelEn": "10:00–01:30",
+    "labelRo": "10:00–01:30"
+  },
+  {
+    "day": "Wednesday",
+    "dayRo": "Miercuri",
+    "closed": false,
+    "open": "10:00",
+    "close": "01:30",
+    "labelEn": "10:00–01:30",
+    "labelRo": "10:00–01:30"
+  },
+  {
+    "day": "Thursday",
+    "dayRo": "Joi",
+    "closed": false,
+    "open": "10:00",
+    "close": "01:30",
+    "labelEn": "10:00–01:30",
+    "labelRo": "10:00–01:30"
+  },
+  {
+    "day": "Friday",
+    "dayRo": "Vineri",
+    "closed": false,
+    "open": "10:00",
+    "close": "01:30",
+    "labelEn": "10:00–01:30",
+    "labelRo": "10:00–01:30"
+  },
+  {
+    "day": "Saturday",
+    "dayRo": "Sâmbătă",
+    "closed": false,
+    "open": "10:00",
+    "close": "01:30",
+    "labelEn": "10:00–01:30",
+    "labelRo": "10:00–01:30"
+  },
+  {
+    "day": "Sunday",
+    "dayRo": "Duminică",
+    "closed": false,
+    "open": "10:00",
+    "close": "01:30",
+    "labelEn": "10:00–01:30",
+    "labelRo": "10:00–01:30"
+  }
+],
+
+"hoursEn": "Monday: 10:00–01:30; Tuesday: 10:00–01:30; Wednesday: 10:00–01:30; Thursday: 10:00–01:30; Friday: 10:00–01:30; Saturday: 10:00–01:30; Sunday: 10:00–01:30",
 
 "hoursRo": "Luni: 10:00–01:30; Marți: 10:00–01:30; Miercuri: 10:00–01:30; Joi: 10:00–01:30; Vineri: 10:00–01:30; Sâmbătă: 10:00–01:30; Duminică: 10:00–01:30",
   "website": "http://avenuethess.gr/",
