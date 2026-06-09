@@ -11,7 +11,75 @@
   "gpsCoordinates": "40.56849866877833, 22.95582804367908",
   "lat": 40.56849866877833,
   "lon": 22.95582804367908,
-  "hoursEn": "Sunday 09:00–02:00; Monday 09:00–02:00; Tuesday 09:00–02:00; Wednesday 09:00–02:00; Thursday 09:00–02:00; Friday 09:00–04:00; Saturday 09:00–04:00",
+  "openingHoursRaw": "Sunday\n\t\n\n    9:00 am–2:00 am\n\n\t\nMonday\n\t\n\n    9:00 am–2:00 am\n\n\t\nTuesday\n\t\n\n    9:00 am–2:00 am\n\n\t\nWednesday\n\t\n\n    9:00 am–2:00 am\n\n\t\nThursday\n\t\n\n    9:00 am–2:00 am\n\n\t\nFriday\n\t\n\n    9:00 am–4:00 am\n\n\t\nSaturday\n\t\n\n    9:00 am–4:00 am",
+
+"openingHours": [
+  {
+    "day": "Sunday",
+    "dayRo": "Duminică",
+    "closed": false,
+    "open": "09:00",
+    "close": "02:00",
+    "labelEn": "09:00–02:00",
+    "labelRo": "09:00–02:00"
+  },
+  {
+    "day": "Monday",
+    "dayRo": "Luni",
+    "closed": false,
+    "open": "09:00",
+    "close": "02:00",
+    "labelEn": "09:00–02:00",
+    "labelRo": "09:00–02:00"
+  },
+  {
+    "day": "Tuesday",
+    "dayRo": "Marți",
+    "closed": false,
+    "open": "09:00",
+    "close": "02:00",
+    "labelEn": "09:00–02:00",
+    "labelRo": "09:00–02:00"
+  },
+  {
+    "day": "Wednesday",
+    "dayRo": "Miercuri",
+    "closed": false,
+    "open": "09:00",
+    "close": "02:00",
+    "labelEn": "09:00–02:00",
+    "labelRo": "09:00–02:00"
+  },
+  {
+    "day": "Thursday",
+    "dayRo": "Joi",
+    "closed": false,
+    "open": "09:00",
+    "close": "02:00",
+    "labelEn": "09:00–02:00",
+    "labelRo": "09:00–02:00"
+  },
+  {
+    "day": "Friday",
+    "dayRo": "Vineri",
+    "closed": false,
+    "open": "09:00",
+    "close": "04:00",
+    "labelEn": "09:00–04:00",
+    "labelRo": "09:00–04:00"
+  },
+  {
+    "day": "Saturday",
+    "dayRo": "Sâmbătă",
+    "closed": false,
+    "open": "09:00",
+    "close": "04:00",
+    "labelEn": "09:00–04:00",
+    "labelRo": "09:00–04:00"
+  }
+],
+
+"hoursEn": "Sunday: 09:00–02:00; Monday: 09:00–02:00; Tuesday: 09:00–02:00; Wednesday: 09:00–02:00; Thursday: 09:00–02:00; Friday: 09:00–04:00; Saturday: 09:00–04:00",
 
 "hoursRo": "Duminică: 09:00–02:00; Luni: 09:00–02:00; Marți: 09:00–02:00; Miercuri: 09:00–02:00; Joi: 09:00–02:00; Vineri: 09:00–04:00; Sâmbătă: 09:00–04:00",
   "website": "https://remvi-skg.gr/",
