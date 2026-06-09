@@ -330,5 +330,31 @@
     "cuisineTypes": [
       "greek"
     ]
+  },
+  {
+    "id": "skipper-cafe-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "perea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Skipper Cafe Bar",
+    "titleRo": "Skipper Cafe Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar1.webp",
+    "lat": 40.509072360194885,
+    "lon": 22.924587405531344,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Located directly on the beachfront promenade of Perea, Skipper Café Bar is the perfect destination for visitors looking to enjoy the...",
+    "shortRo": "Situat chiar pe promenada și plaja din Perea, Skipper Café Bar este locul ideal pentru cei care doresc să combine relaxarea la malul...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "mediterranean"
+    ]
   }
 ]

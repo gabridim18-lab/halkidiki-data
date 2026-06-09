@@ -1,0 +1,116 @@
+{
+  "id": "skipper-cafe-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "perea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Skipper Cafe Bar",
+  "titleRo": "Skipper Cafe Bar",
+  "displayAddress": "P. Kountouriotou 61, Perea 570 19, Greece",
+  "gpsCoordinates": "40.509072360194885, 22.924587405531344",
+  "lat": 40.509072360194885,
+  "lon": 22.924587405531344,
+  "openingHoursRaw": "Tuesday\n\t\n\n    8 am–1 am\n\n\t\nWednesday\n\t\n\n    8 am–1 am\n\n\t\nThursday\n\t\n\n    8 am–1 am\n\n\t\nFriday\n\t\n\n    8 am–1 am\n\n\t\nSaturday\n\t\n\n    8 am–1 am\n\n\t\nSunday\n\t\n\n    8 am–1 am\n\n\t\nMonday\n\t\n\n    8 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "01:00",
+      "labelEn": "08:00–01:00",
+      "labelRo": "08:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "01:00",
+      "labelEn": "08:00–01:00",
+      "labelRo": "08:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "01:00",
+      "labelEn": "08:00–01:00",
+      "labelRo": "08:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "01:00",
+      "labelEn": "08:00–01:00",
+      "labelRo": "08:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "01:00",
+      "labelEn": "08:00–01:00",
+      "labelRo": "08:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "01:00",
+      "labelEn": "08:00–01:00",
+      "labelRo": "08:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "01:00",
+      "labelEn": "08:00–01:00",
+      "labelRo": "08:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–01:00; Tuesday: 08:00–01:00; Wednesday: 08:00–01:00; Thursday: 08:00–01:00; Friday: 08:00–01:00; Saturday: 08:00–01:00; Sunday: 08:00–01:00",
+  "hoursRo": "Luni: 08:00–01:00; Marți: 08:00–01:00; Miercuri: 08:00–01:00; Joi: 08:00–01:00; Vineri: 08:00–01:00; Sâmbătă: 08:00–01:00; Duminică: 08:00–01:00",
+  "website": "https://d-card.gr/ln/skipper-perea/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+30 693 465 2770",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Located directly on the beachfront promenade of Perea, Skipper Café Bar is the perfect destination for visitors looking to enjoy the sea in a stylish and relaxed setting. Its wooden deck, comfortable loungers, and stunning views over the Thermaic Gulf create an inviting atmosphere for both daytime relaxation and beautiful sunset moments.\n\nThe menu features a wide selection of coffees, refreshing cocktails, premium drinks, snacks, burgers, pizzas, and desserts, making it suitable for every time of day. With its friendly service, modern seaside ambiance, and prime beachfront location, Skipper Café Bar has become one of the most popular spots in Perea for both locals and visitors alike.",
+  "descriptionRo": "Situat chiar pe promenada și plaja din Perea, Skipper Café Bar este locul ideal pentru cei care doresc să combine relaxarea la malul mării cu o atmosferă modernă și elegantă. Terasa din lemn, șezlongurile confortabile și priveliștea spectaculoasă asupra Golfului Thermaic creează cadrul perfect pentru o zi de vacanță sau o seară liniștită la apus.\n\nMeniul oferă o selecție variată de cafele, cocktailuri răcoritoare, băuturi premium, gustări, burgeri, pizza și deserturi, potrivite pentru orice moment al zilei. Atmosfera relaxată, serviciul prietenos și poziția excelentă pe plajă fac din Skipper Café Bar una dintre cele mai apreciate destinații de pe litoralul din Perea.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/menu3.webp"
+  ],
+  "sunbedPrice": "€10–15",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "sea_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "mediterranean"
+  ]
+}
