@@ -277,5 +277,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "taverna-thalassopoulia",
+    "zone": "Thessaloniki",
+    "beachSlug": "perea-beach",
+    "type": "restaurant",
+    "featured": false,
+    "titleEn": "Taverna Thalassopoulia",
+    "titleRo": "Taverna Thalassopoulia",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/taverna-thalassopoulia1.webp",
+    "lat": 40.50986805011676,
+    "lon": 22.92743152891411,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Taverna Thalassopoulia is one of the most popular seafood taverns in Perea, located directly on the beachfront just a few steps from...",
+    "shortRo": "Taverna Thalassopoulia este una dintre cele mai apreciate taverne pescărești din Perea, situată chiar pe plajă, la câțiva pași de...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ]
   }
 ]
