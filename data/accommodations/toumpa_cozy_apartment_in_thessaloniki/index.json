@@ -11,7 +11,7 @@
   "category": "family_friendly",
   "rating": 9.5,
   "ratingScale": 10.0,
-  "featured": false,
+  "featured": true,
   "guests": 4,
   "sizeSqm": 50,
   "view": "City view",
