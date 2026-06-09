@@ -1,0 +1,115 @@
+{
+  "id": "tsipouradiko-aroma-glykanisou",
+  "zone": "Thessaloniki",
+  "beachSlug": "perea-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Tsipouradiko Aroma Glykanisou",
+  "titleRo": "Tsipouradiko Aroma Glykanisou",
+  "displayAddress": "Ακτής 67, Περαία 570 19, Greece",
+  "gpsCoordinates": "40.508912663574925, 22.924202787557363",
+  "lat": 40.508912663574925,
+  "lon": 22.924202787557363,
+  "openingHoursRaw": "Tuesday\n\t\n\n    12–11:30 pm\n\n\t\nWednesday\n\t\n\n    12–11:30 pm\n\n\t\nThursday\n\t\n\n    12–11:30 pm\n\n\t\nFriday\n\t\n\n    12 pm–12 am\n\n\t\nSaturday\n\t\n\n    12–11 am\n    12–11:30 pm\n\n\t\nSunday\n\t\n\n    12–11:30 pm\n\n\t\nMonday\n\t\n\n    12–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "00:00",
+      "close": "11:00",
+      "labelEn": "00:00–11:00",
+      "labelRo": "00:00–11:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:30; Tuesday: 12:00–23:30; Wednesday: 12:00–23:30; Thursday: 12:00–23:30; Friday: 12:00–00:00; Saturday: 00:00–11:00; Sunday: 12:00–23:30",
+  "hoursRo": "Luni: 12:00–23:30; Marți: 12:00–23:30; Miercuri: 12:00–23:30; Joi: 12:00–23:30; Vineri: 12:00–00:00; Sâmbătă: 00:00–11:00; Duminică: 12:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392022204",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Tsipouradiko Aroma Glykanisou is a traditional Greek taverna located on the seaside promenade of Perea, offering authentic Mediterranean cuisine, fresh seafood, and local specialties in a relaxed beachfront setting. Known for its generous Greek salads, grilled sardines, tender octopus, calamari, and a wide variety of traditional meze dishes, the restaurant provides a genuine taste of Greece. Its shaded terrace and beautiful views across the Thermaic Gulf create the perfect atmosphere for a leisurely lunch or a memorable sunset dinner by the sea.",
+  "descriptionRo": "Tsipouradiko Aroma Glykanisou este o tavernă tradițională grecească situată chiar pe promenada din Perea, oferind o combinație autentică de preparate mediteraneene, fructe de mare proaspete și specialități locale servite într-o atmosferă relaxantă, lângă mare. Restaurantul este apreciat pentru salatele grecești generoase, sardinele și calamarii la grătar, caracatița fragedă și selecția bogată de meze tradiționale. Terasa umbrită și priveliștea asupra Golfului Thermaic transformă fiecare masă într-o experiență autentic grecească, ideală pentru prânzuri liniștite sau cine la apus.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tsipouradiko-aroma-glykanisou/images/tsipouradiko-aroma-glykanisou1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tsipouradiko-aroma-glykanisou/images/tsipouradiko-aroma-glykanisou2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tsipouradiko-aroma-glykanisou/images/tsipouradiko-aroma-glykanisou3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tsipouradiko-aroma-glykanisou/images/tsipouradiko-aroma-glykanisou4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tsipouradiko-aroma-glykanisou/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tsipouradiko-aroma-glykanisou/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tsipouradiko-aroma-glykanisou/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tsipouradiko-aroma-glykanisou/images/menu4.webp"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}

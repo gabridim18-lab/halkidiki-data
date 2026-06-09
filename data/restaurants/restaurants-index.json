@@ -356,5 +356,32 @@
     "cuisineTypes": [
       "mediterranean"
     ]
+  },
+  {
+    "id": "tsipouradiko-aroma-glykanisou",
+    "zone": "Thessaloniki",
+    "beachSlug": "perea-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Tsipouradiko Aroma Glykanisou",
+    "titleRo": "Tsipouradiko Aroma Glykanisou",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tsipouradiko-aroma-glykanisou/images/tsipouradiko-aroma-glykanisou1.webp",
+    "lat": 40.508912663574925,
+    "lon": 22.924202787557363,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Tsipouradiko Aroma Glykanisou is a traditional Greek taverna located on the seaside promenade of Perea, offering authentic...",
+    "shortRo": "Tsipouradiko Aroma Glykanisou este o tavernă tradițională grecească situată chiar pe promenada din Perea, oferind o combinație...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ]
   }
 ]
