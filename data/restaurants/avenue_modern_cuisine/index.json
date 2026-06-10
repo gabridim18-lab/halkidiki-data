@@ -1,209 +1,44 @@
-"heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine1.webp",
-
-"galleryImages": [
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine2.webp",
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine3.webp",
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine4.webp",
-  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine5.webp"
-],
-
-"googleBusinessRaw": "",
-
-"accessibility": [
-  "Wheelchair-accessible entrance",
-  "Wheelchair-accessible seating"
-],
-
-"serviceOptions": [
-  "Outdoor seating",
-  "Takeaway",
-  "Dine-in"
-],
-
-"highlights": [
-  "Live music",
-  "Great cocktails",
-  "Great wine list",
-  "Sea view"
-],
-
-"popularFor": [
-  "Breakfast",
-  "Brunch",
-  "Lunch",
-  "Dinner",
-  "Late-night dining",
-  "Drinks"
-],
-
-"offerings": [
-  "Alcohol",
-  "Beer",
-  "Cocktails",
-  "Coffee",
-  "Wine",
-  "Spirits",
-  "Sushi",
-  "Vegan options"
-],
-
-"diningOptions": [
-  "Breakfast",
-  "Brunch",
-  "Lunch",
-  "Dinner",
-  "Dessert",
-  "Seating",
-  "Table service"
-],
-
-"amenities": [
-  "Wi-Fi",
-  "Full bar",
-  "High chairs available"
-],
-
-"atmosphere": [
-  "Casual",
-  "Modern",
-  "Upscale",
-  "Romantic"
-],
-
-"crowd": [
-  "Groups",
-  "Families",
-  "Tourists",
-  "Business meetings"
-],
-
-"planning": [
-  "Reservations recommended",
-  "Accepts reservations"
-],
-
-"payments": [
-  "Credit cards",
-  "American Express",
-  "Visa",
-  "Mastercard",
-  "Discover"
-],
-
-"children": [
-  "Good for kids",
-  "High chairs available"
-],
-
-"parking": [
-  "Parking available"
-],
-
-"pets": [
-  "Dog friendly"
-],
-
-"musicStyles": [
-  "live_music",
-  "dj"
-],
-
-"cuisineTypes": [
-  "mediterranean",
-  "greek",
-  "sushi",
-  "fusion"
-]{
+{
   "id": "avenue_modern_cuisine",
-  "beachSlug": "thessaloniki",
   "zone": "Thessaloniki",
+  "beachSlug": "thessaloniki",
   "type": "restaurant",
   "featured": true,
   "titleEn": "AVENUE - Modern Cuisine",
   "titleRo": "AVENUE - Modern Cuisine",
-  "address": "JX82+6R Thessaloniki, Greece",
-  "displayAddress": "",
-"openingHoursRaw": "Monday\n\t\n\n    10:00 am–1:30 am\n\n\t\nTuesday\n\t\n\n    10:00 am–1:30 am\n\n\t\nWednesday\n\t\n\n    10:00 am–1:30 am\n\n\t\nThursday\n\t\n\n    10:00 am–1:30 am\n\n\t\nFriday\n\t\n\n    10:00 am–1:30 am\n\n\t\nSaturday\n\t\n\n    10:00 am–1:30 am\n\n\t\nSunday\n\t\n\n    10:00 am–1:30 am",
-
-"openingHours": [
-  {
-    "day": "Monday",
-    "dayRo": "Luni",
-    "closed": false,
-    "open": "10:00",
-    "close": "01:30",
-    "labelEn": "10:00–01:30",
-    "labelRo": "10:00–01:30"
-  },
-  {
-    "day": "Tuesday",
-    "dayRo": "Marți",
-    "closed": false,
-    "open": "10:00",
-    "close": "01:30",
-    "labelEn": "10:00–01:30",
-    "labelRo": "10:00–01:30"
-  },
-  {
-    "day": "Wednesday",
-    "dayRo": "Miercuri",
-    "closed": false,
-    "open": "10:00",
-    "close": "01:30",
-    "labelEn": "10:00–01:30",
-    "labelRo": "10:00–01:30"
-  },
-  {
-    "day": "Thursday",
-    "dayRo": "Joi",
-    "closed": false,
-    "open": "10:00",
-    "close": "01:30",
-    "labelEn": "10:00–01:30",
-    "labelRo": "10:00–01:30"
-  },
-  {
-    "day": "Friday",
-    "dayRo": "Vineri",
-    "closed": false,
-    "open": "10:00",
-    "close": "01:30",
-    "labelEn": "10:00–01:30",
-    "labelRo": "10:00–01:30"
-  },
-  {
-    "day": "Saturday",
-    "dayRo": "Sâmbătă",
-    "closed": false,
-    "open": "10:00",
-    "close": "01:30",
-    "labelEn": "10:00–01:30",
-    "labelRo": "10:00–01:30"
-  },
-  {
-    "day": "Sunday",
-    "dayRo": "Duminică",
-    "closed": false,
-    "open": "10:00",
-    "close": "01:30",
-    "labelEn": "10:00–01:30",
-    "labelRo": "10:00–01:30"
-  }
-],
-
-"hoursEn": "Monday: 10:00–01:30; Tuesday: 10:00–01:30; Wednesday: 10:00–01:30; Thursday: 10:00–01:30; Friday: 10:00–01:30; Saturday: 10:00–01:30; Sunday: 10:00–01:30",
-
-"hoursRo": "Luni: 10:00–01:30; Marți: 10:00–01:30; Miercuri: 10:00–01:30; Joi: 10:00–01:30; Vineri: 10:00–01:30; Sâmbătă: 10:00–01:30; Duminică: 10:00–01:30",
+  "displayAddress": "6 Megalou Alexandrou Avenue, Thessaloniki 54641, Greece",
+  "gpsCoordinates": "",
+  "lat": null,
+  "lon": null,
+  "openingHoursRaw": "Monday\n\t\n\n    10:00 am–1:30 am\n\n\t\nTuesday\n\t\n\n    10:00 am–1:30 am\n\n\t\nWednesday\n\t\n\n    10:00 am–1:30 am\n\n\t\nThursday\n\t\n\n    10:00 am–1:30 am\n\n\t\nFriday\n\t\n\n    10:00 am–1:30 am\n\n\t\nSaturday\n\t\n\n    10:00 am–1:30 am\n\n\t\nSunday\n\t\n\n    10:00 am–1:30 am",
+  "openingHours": [
+    { "day": "Monday", "dayRo": "Luni", "closed": false, "open": "10:00", "close": "01:30", "labelEn": "10:00–01:30", "labelRo": "10:00–01:30" },
+    { "day": "Tuesday", "dayRo": "Marți", "closed": false, "open": "10:00", "close": "01:30", "labelEn": "10:00–01:30", "labelRo": "10:00–01:30" },
+    { "day": "Wednesday", "dayRo": "Miercuri", "closed": false, "open": "10:00", "close": "01:30", "labelEn": "10:00–01:30", "labelRo": "10:00–01:30" },
+    { "day": "Thursday", "dayRo": "Joi", "closed": false, "open": "10:00", "close": "01:30", "labelEn": "10:00–01:30", "labelRo": "10:00–01:30" },
+    { "day": "Friday", "dayRo": "Vineri", "closed": false, "open": "10:00", "close": "01:30", "labelEn": "10:00–01:30", "labelRo": "10:00–01:30" },
+    { "day": "Saturday", "dayRo": "Sâmbătă", "closed": false, "open": "10:00", "close": "01:30", "labelEn": "10:00–01:30", "labelRo": "10:00–01:30" },
+    { "day": "Sunday", "dayRo": "Duminică", "closed": false, "open": "10:00", "close": "01:30", "labelEn": "10:00–01:30", "labelRo": "10:00–01:30" }
+  ],
+  "hoursEn": "Monday: 10:00–01:30; Tuesday: 10:00–01:30; Wednesday: 10:00–01:30; Thursday: 10:00–01:30; Friday: 10:00–01:30; Saturday: 10:00–01:30; Sunday: 10:00–01:30",
+  "hoursRo": "Luni: 10:00–01:30; Marți: 10:00–01:30; Miercuri: 10:00–01:30; Joi: 10:00–01:30; Vineri: 10:00–01:30; Sâmbătă: 10:00–01:30; Duminică: 10:00–01:30",
   "website": "http://avenuethess.gr/",
-  "facebook": "",
-  "instagram": "",
+  "facebook": "https://www.facebook.com/avenueskg/",
+  "instagram": "https://www.instagram.com/avenue_skg/",
   "phone": "+302310841921",
   "price": "$$",
   "rating": 4.5,
-  "descriptionEn": "Located on the beautiful waterfront of Thessaloniki, AVENUE – Modern Cuisine offers a stylish all-day dining experience where modern gastronomy meets the relaxing atmosphere of the sea. With its elegant design, spacious indoor and outdoor areas, and breathtaking views of the Thermaic Gulf, AVENUE has quickly become one of the city’s most popular lifestyle destinations.\n\nThe restaurant combines Mediterranean and modern Greek cuisine with creative presentation, quality ingredients and carefully balanced flavors. From rich brunch options and premium coffee to sophisticated dinner plates, sushi selections, signature cocktails and fine wines, every detail is designed to create a memorable experience.\n\nWhether you are looking for a relaxed brunch by the sea, a romantic dinner at sunset, cocktails with friends, or a modern business meeting spot, AVENUE offers the perfect atmosphere throughout the entire day.\n\nIts prime location on Thessaloniki’s famous seafront promenade makes it ideal both for locals and visitors exploring the city.\n\n✨ Modern Mediterranean cuisine\n🍸 Signature cocktails & wine selection\n🌊 Stunning sea view atmosphere\n🍽 Brunch • Lunch • Dinner • Sushi • Bar\n📍 Leof. Meg. Alexandrou 6, Thessaloniki",
-  "descriptionRo": "Situat chiar pe spectaculoasa faleză a Salonicului, AVENUE – Modern Cuisine oferă o experiență premium de tip all-day dining, unde gastronomia modernă se îmbină perfect cu atmosfera relaxantă a mării. Cu un design elegant, spații generoase indoor și outdoor și o priveliște superbă către Golful Thermaic, AVENUE a devenit rapid unul dintre cele mai apreciate locații lifestyle din oraș.\n\nRestaurantul combină bucătăria mediteraneană și preparatele grecești reinterpretate modern, folosind ingrediente de calitate, plating elegant și combinații rafinate de gusturi. De la brunch-uri consistente și cafea premium până la preparate sofisticate pentru cină, sushi, cocktailuri signature și vinuri atent selecționate, fiecare detaliu este gândit pentru o experiență completă.\n\nFie că îți dorești un brunch relaxant lângă mare, o cină romantică la apus, cocktailuri cu prietenii sau un loc modern pentru întâlniri business, AVENUE oferă atmosfera perfectă în orice moment al zilei.\n\nPoziționarea excelentă pe celebra faleză a Salonicului îl transformă într-o alegere ideală atât pentru localnici, cât și pentru turiști.\n\n✨ Bucătărie mediteraneană modernă\n🍸 Cocktailuri signature & selecție premium de vinuri\n🌊 Atmosferă elegantă cu vedere la mare\n🍽 Brunch • Prânz • Cină • Sushi • Bar\n📍 Leof. Meg. Alexandrou 6, Salonic",
+  "descriptionEn": "Located on the beautiful waterfront of Thessaloniki, AVENUE – Modern Cuisine offers a stylish all-day dining experience where modern gastronomy meets the relaxing atmosphere of the sea. With its elegant design, spacious indoor and outdoor areas, and breathtaking views of the Thermaic Gulf, AVENUE has quickly become one of the city’s most popular lifestyle destinations.\n\nThe restaurant combines Mediterranean and modern Greek cuisine with creative presentation, quality ingredients and carefully balanced flavors. From rich brunch options and premium coffee to sophisticated dinner plates, sushi selections, signature cocktails and fine wines, every detail is designed to create a memorable experience.\n\nWhether you are looking for a relaxed brunch by the sea, a romantic dinner at sunset, cocktails with friends, or a modern business meeting spot, AVENUE offers the perfect atmosphere throughout the entire day.\n\nIts prime location on Thessaloniki’s famous seafront promenade makes it ideal both for locals and visitors exploring the city.",
+  "descriptionRo": "Situat chiar pe spectaculoasa faleză a Salonicului, AVENUE – Modern Cuisine oferă o experiență premium de tip all-day dining, unde gastronomia modernă se îmbină perfect cu atmosfera relaxantă a mării. Cu un design elegant, spații generoase indoor și outdoor și o priveliște superbă către Golful Thermaic, AVENUE a devenit rapid unul dintre cele mai apreciate locații lifestyle din oraș.\n\nRestaurantul combină bucătăria mediteraneană și preparatele grecești reinterpretate modern, folosind ingrediente de calitate, plating elegant și combinații rafinate de gusturi. De la brunch-uri consistente și cafea premium până la preparate sofisticate pentru cină, sushi, cocktailuri signature și vinuri atent selecționate, fiecare detaliu este gândit pentru o experiență completă.\n\nFie că îți dorești un brunch relaxant lângă mare, o cină romantică la apus, cocktailuri cu prietenii sau un loc modern pentru întâlniri business, AVENUE oferă atmosfera perfectă în orice moment al zilei.\n\nPoziționarea excelentă pe celebra faleză a Salonicului îl transformă într-o alegere ideală atât pentru localnici, cât și pentru turiști.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine5.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine4.webp",
@@ -212,12 +47,105 @@
   "menuImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/menu1.webp"
   ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Private dining"
+  ],
+  "highlights": [
+    "Great cocktails",
+    "Great wine list",
+    "Sea view",
+    "Live music"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Drinks"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Wine",
+    "Spirits",
+    "Breakfast-brunch",
+    "Sushi",
+    "Modern Greek cuisine",
+    "Fusion dishes"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Free Wi-Fi",
+    "Bar on site",
+    "Private dining room"
+  ],
+  "atmosphere": [
+    "Modern",
+    "Elegant",
+    "Upscale",
+    "Romantic",
+    "Relaxed"
+  ],
+  "crowd": [
+    "Groups",
+    "Families",
+    "Tourists",
+    "Business meetings"
+  ],
+  "planning": [
+    "Accepts reservations",
+    "Reservations recommended",
+    "Event bookings available"
+  ],
+  "payments": [
+    "Credit cards",
+    "Mastercard"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs available"
+  ],
+  "parking": [
+    "Free private parking",
+    "Parking available"
+  ],
+  "pets": [],
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
-  "musicStyles": [],
+  "musicStyles": [
+    "live_music",
+    "dj"
+  ],
   "features": [
     "restaurant",
     "sea_view",
-    "family_friendly"
+    "sunset_view",
+    "family_friendly",
+    "parking",
+    "live_music"
+  ],
+  "cuisineTypes": [
+    "mediterranean",
+    "greek",
+    "modern_greek",
+    "sushi",
+    "fusion"
   ]
 }
