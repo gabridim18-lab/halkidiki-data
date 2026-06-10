@@ -10,6 +10,141 @@
   "gpsCoordinates": "40.5668799679986, 22.95788473629401",
   "lat": 40.5668799679986,
   "lon": 22.95788473629401,
+  "openingHoursRaw": "Friday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n\t\n\n    1–11 pm\n\n\t\nSunday\n\t\n\n    1–7 pm\n\n\t\nMonday\n\t\n\n    1–11 pm\n\n\t\nTuesday\n\t\n\n    Closed\n\n\t\nWednesday\n\t\n\n    1–11 pm\n\n\t\nThursday\n\t\n\n    1–11 pm",
+  "openingHours": [
+    { "day": "Monday", "dayRo": "Luni", "closed": false, "open": "13:00", "close": "23:00", "labelEn": "13:00–23:00", "labelRo": "13:00–23:00" },
+    { "day": "Tuesday", "dayRo": "Marți", "closed": true, "open": "", "close": "", "labelEn": "Closed", "labelRo": "Închis" },
+    { "day": "Wednesday", "dayRo": "Miercuri", "closed": false, "open": "13:00", "close": "23:00", "labelEn": "13:00–23:00", "labelRo": "13:00–23:00" },
+    { "day": "Thursday", "dayRo": "Joi", "closed": false, "open": "13:00", "close": "23:00", "labelEn": "13:00–23:00", "labelRo": "13:00–23:00" },
+    { "day": "Friday", "dayRo": "Vineri", "closed": false, "open": "13:00", "close": "23:00", "labelEn": "13:00–23:00", "labelRo": "13:00–23:00" },
+    { "day": "Saturday", "dayRo": "Sâmbătă", "closed": false, "open": "13:00", "close": "23:00", "labelEn": "13:00–23:00", "labelRo": "13:00–23:00" },
+    { "day": "Sunday", "dayRo": "Duminică", "closed": false, "open": "13:00", "close": "19:00", "labelEn": "13:00–19:00", "labelRo": "13:00–19:00" }
+  ],
+  "hoursEn": "Monday: 13:00–23:00; Tuesday: Closed; Wednesday: 13:00–23:00; Thursday: 13:00–23:00; Friday: 13:00–23:00; Saturday: 13:00–23:00; Sunday: 13:00–19:00",
+  "hoursRo": "Luni: 13:00–23:00; Marți: Închis; Miercuri: 13:00–23:00; Joi: 13:00–23:00; Vineri: 13:00–23:00; Sâmbătă: 13:00–23:00; Duminică: 13:00–19:00",
+  "website": "https://ouzeri-arodo.gr/",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/ouzeriarodo/",
+  "phone": "+302310444311",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Located on the waterfront of Kalamaria, Aródo offers an authentic Mediterranean dining experience where exceptional flavors meet breathtaking views of the Thermaic Gulf. Its elegant nautical-inspired design creates a warm and inviting atmosphere, making it the perfect destination for leisurely lunches, sunset dinners, and special occasions by the sea.\n\nThe menu focuses on fresh ingredients and carefully crafted dishes, featuring seafood specialties, fresh fish, vibrant salads, traditional appetizers, and modern Greek culinary creations. Every plate is designed to highlight the natural flavors of the Mediterranean while showcasing the restaurant’s passion for quality and hospitality.\n\nWhether you are enjoying a table overlooking the sea, a relaxed brunch with friends, or an evening meal accompanied by fine wine, Aródo combines stunning scenery, authentic Greek hospitality, and memorable cuisine in one of Kalamaria’s most charming seaside locations.",
+  "descriptionRo": "Situat pe malul mării în Kalamaria, Aródo oferă o experiență gastronomică autentică, unde aromele mediteraneene se îmbină perfect cu priveliștile spectaculoase asupra Golfului Thermaic. Decorul elegant, inspirat de tradiția marină grecească, creează o atmosferă relaxantă și primitoare, ideală atât pentru prânzuri liniștite, cât și pentru cine romantice la apus.\n\nMeniul pune accent pe ingrediente proaspete și preparate realizate cu grijă, de la fructe de mare și pește proaspăt până la salate rafinate, aperitive tradiționale și specialități inspirate din bucătăria grecească modernă. Fiecare preparat este pregătit pentru a evidenția gustul autentic al ingredientelor și pasiunea pentru gastronomia mediteraneană.\n\nFie că alegi o masă cu vedere la mare, un brunch relaxant sau o cină în compania unui pahar de vin, Aródo oferă combinația perfectă dintre ospitalitate grecească, preparate de calitate și o locație deosebită pe malul apei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/aródo1.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/aródo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/aródo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/aródo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/aródo4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/aródo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/aródo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/aródo4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aródo/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair accessible",
+    "Disabled amenities"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great service",
+    "Sea view",
+    "Great wine"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Wine",
+    "Ouzo",
+    "Tsipouro",
+    "Seafood",
+    "Fish",
+    "Mediterranean cuisine",
+    "Vegetarian options"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Wi-Fi",
+    "Smoking area"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Nautical interior",
+    "Relaxed"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups"
+  ],
+  "planning": [
+    "Booking",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "AMEX",
+    "VISA",
+    "DINERS",
+    "Mastercard"
+  ],
+  "children": [
+    "Children friendly"
+  ],
+  "parking": [
+    "Parking",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}{
+  "id": "aródo",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-krini-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Aródo",
+  "titleRo": "Aródo",
+  "displayAddress": "Thetidos 25, Θεσσαλονίκη 551 32, Greece",
+  "gpsCoordinates": "40.5668799679986, 22.95788473629401",
+  "lat": 40.5668799679986,
+  "lon": 22.95788473629401,
   "openingHoursRaw": "Friday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n\t\n\n    1–11 pm\n\n\t\nSunday\n\t\n\n    1–7 pm\n\n\t\nMonday\n\t\n\n    1–11 pm\n\n\t\nTuesday\n\t\n\n    Closed\n\n\t\nWednesday\n\t\n\n    1–11 pm\n\n\t\nThursday\n\t\n\n    1–11 pm",
   "openingHours": [
     {
