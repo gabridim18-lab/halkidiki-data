@@ -62,6 +62,167 @@ def make_short_text(text: str, limit: int = 135):
     return clean[:limit].rsplit(" ", 1)[0] + "..."
 
 
+
+# =========================================
+# GOOGLE BUSINESS PROFILE DETAILS
+# =========================================
+
+GOOGLE_PROFILE_FIELDS = {
+    "Accessibility": "accessibility",
+    "Service options": "serviceOptions",
+    "Highlights": "highlights",
+    "Popular for": "popularFor",
+    "Offerings": "offerings",
+    "Dining options": "diningOptions",
+    "Amenities": "amenities",
+    "Atmosphere": "atmosphere",
+    "Crowd": "crowd",
+    "Planning": "planning",
+    "Payments": "payments",
+    "Children": "children",
+    "Parking": "parking",
+    "Pets": "pets"
+}
+
+GOOGLE_CHECK_OPTIONS = {
+    "accessibility": [
+        "Wheelchair-accessible entrance",
+        "Wheelchair-accessible seating",
+        "Wheelchair-accessible toilet"
+    ],
+    "serviceOptions": [
+        "Outdoor seating",
+        "No-contact delivery",
+        "Delivery",
+        "Takeaway",
+        "Dine-in"
+    ],
+    "highlights": [
+        "Great dessert",
+        "Great wine list",
+        "Great beer selection",
+        "Live music"
+    ],
+    "popularFor": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Solo dining"
+    ],
+    "offerings": [
+        "Alcohol",
+        "Beer",
+        "Coffee",
+        "Cocktails",
+        "Late-night food",
+        "Private dining room",
+        "Quick bite",
+        "Small plates",
+        "Spirits",
+        "Wine"
+    ],
+    "diningOptions": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Catering",
+        "Dessert",
+        "Seating",
+        "Table service"
+    ],
+    "amenities": [
+        "Toilet",
+        "Wi-Fi"
+    ],
+    "atmosphere": [
+        "Casual",
+        "Cosy",
+        "Quiet",
+        "Romantic",
+        "Trendy"
+    ],
+    "crowd": [
+        "Groups",
+        "Tourists",
+        "Family friendly"
+    ],
+    "planning": [
+        "Lunch reservations recommended",
+        "Dinner reservations recommended",
+        "Accepts reservations"
+    ],
+    "payments": [
+        "Credit cards",
+        "Debit cards",
+        "NFC mobile payments"
+    ],
+    "children": [
+        "Good for kids",
+        "High chairs",
+        "Kids menu"
+    ],
+    "parking": [
+        "Free of charge street parking",
+        "Free parking lot",
+        "Plenty of parking"
+    ],
+    "pets": [
+        "Dogs allowed"
+    ]
+}
+
+def normalize_google_item(text: str):
+    return (
+        text
+        .replace("", "")
+        .replace("✓", "")
+        .replace("✔", "")
+        .strip()
+    )
+
+def parse_google_business_details(raw_text: str):
+    """
+    Accepts copied Google Business Profile blocks like:
+
+    Accessibility
+      Wheelchair-accessible entrance
+
+    Service options
+      Outdoor seating
+      Dine-in
+
+    Returns JSON-ready grouped arrays:
+    {
+      "accessibility": ["Wheelchair-accessible entrance"],
+      "serviceOptions": ["Outdoor seating", "Dine-in"]
+    }
+    """
+
+    result = {
+        key: []
+        for key in GOOGLE_PROFILE_FIELDS.values()
+    }
+
+    current_key = None
+
+    for line in raw_text.splitlines():
+
+        clean = normalize_google_item(line)
+
+        if not clean:
+            continue
+
+        if clean in GOOGLE_PROFILE_FIELDS:
+            current_key = GOOGLE_PROFILE_FIELDS[clean]
+            continue
+
+        if current_key:
+            if clean not in result[current_key]:
+                result[current_key].append(clean)
+
+    return result
+
+
 DAYS_EN = [
     "Monday",
     "Tuesday",
@@ -368,7 +529,7 @@ class App(tk.Tk):
 
         self.geometry("1450x900")
 
-        self.minsize(1200, 800)
+        self.minsize(1200, 760)
 
         self.repo_root = Path.cwd()
 
@@ -382,6 +543,8 @@ class App(tk.Tk):
             self.rest_root
             / "restaurants-index.json"
         )
+
+        self.hero_image = None
 
         self.business_images = []
 
@@ -619,24 +782,101 @@ class App(tk.Tk):
         # LEFT
         # =========================================
 
-        left = ttk.Frame(root)
+        left = ttk.Frame(
+            root,
+            width=930
+        )
 
         left.pack(
             side="left",
             fill="both",
-            expand=True,
+            expand=False,
             padx=(0, 10)
         )
 
+        left.pack_propagate(False)
+
         # =========================================
-        # RIGHT
+        # RIGHT - SCROLLABLE PANEL
         # =========================================
 
-        right = ttk.Frame(root)
+        right_outer = ttk.Frame(
+            root,
+            width=450
+        )
 
-        right.pack(
+        right_outer.pack(
             side="right",
             fill="y"
+        )
+
+        right_outer.pack_propagate(False)
+
+        right_canvas = tk.Canvas(
+            right_outer,
+            width=430,
+            highlightthickness=0
+        )
+
+        right_scrollbar = ttk.Scrollbar(
+            right_outer,
+            orient="vertical",
+            command=right_canvas.yview
+        )
+
+        right_canvas.configure(
+            yscrollcommand=right_scrollbar.set
+        )
+
+        right_scrollbar.pack(
+            side="right",
+            fill="y"
+        )
+
+        right_canvas.pack(
+            side="left",
+            fill="y",
+            expand=False
+        )
+
+        right = ttk.Frame(right_canvas)
+
+        right_window = right_canvas.create_window(
+            (0, 0),
+            window=right,
+            anchor="nw"
+        )
+
+        def _right_configure(event):
+            right_canvas.configure(
+                scrollregion=right_canvas.bbox("all")
+            )
+
+        def _canvas_configure(event):
+            right_canvas.itemconfigure(
+                right_window,
+                width=event.width
+            )
+
+        right.bind(
+            "<Configure>",
+            _right_configure
+        )
+
+        right_canvas.bind(
+            "<Configure>",
+            _canvas_configure
+        )
+
+        def _mousewheel(event):
+            right_canvas.yview_scroll(
+                int(-1 * (event.delta / 120)),
+                "units"
+            )
+
+        right_canvas.bind_all(
+            "<MouseWheel>",
+            _mousewheel
         )
 
         # =========================================
@@ -650,8 +890,8 @@ class App(tk.Tk):
         )
 
         form.pack(
-            fill="both",
-            expand=True
+            fill="x",
+            expand=False
         )
 
         def row(label, widget, r):
@@ -670,13 +910,13 @@ class App(tk.Tk):
             widget.grid(
                 row=r,
                 column=1,
-                sticky="ew",
+                sticky="w",
                 pady=5
             )
 
             form.grid_columnconfigure(
                 1,
-                weight=1
+                weight=0
             )
 
         # =========================================
@@ -905,13 +1145,14 @@ class App(tk.Tk):
 
         self.txt_opening_hours = tk.Text(
             form,
-            height=7
+            height=4,
+            width=72
         )
 
         self.txt_opening_hours.grid(
             row=10,
             column=1,
-            sticky="ew",
+            sticky="w",
             pady=5
         )
 
@@ -1009,20 +1250,33 @@ class App(tk.Tk):
         # DESCRIPTIONS
         # =========================================
 
-        desc_frame = ttk.LabelFrame(
+        bottom_area = ttk.Frame(left)
 
-            left,
-
-            text="Descriptions",
-
-            padding=10
-
-        )
-
-        desc_frame.pack(
+        bottom_area.pack(
             fill="both",
             expand=True,
             pady=(10, 0)
+        )
+
+        bottom_area.grid_columnconfigure(0, weight=1)
+        bottom_area.grid_columnconfigure(1, weight=1)
+        bottom_area.grid_rowconfigure(0, weight=1)
+
+        desc_frame = ttk.LabelFrame(
+
+            bottom_area,
+
+            text="Descriptions",
+
+            padding=8
+
+        )
+
+        desc_frame.grid(
+            row=0,
+            column=0,
+            sticky="nsew",
+            padx=(0, 5)
         )
 
         desc_frame.grid_columnconfigure(
@@ -1055,12 +1309,12 @@ class App(tk.Tk):
 
         self.txt_en = tk.Text(
             desc_frame,
-            height=10
+            height=7
         )
 
         self.txt_ro = tk.Text(
             desc_frame,
-            height=10
+            height=7
         )
 
         self.txt_en.grid(
@@ -1075,6 +1329,45 @@ class App(tk.Tk):
             column=1,
             sticky="nsew",
             padx=(5, 0)
+        )
+
+        # =========================================
+        # GOOGLE BUSINESS PROFILE DETAILS
+        # =========================================
+
+        google_frame = ttk.LabelFrame(
+
+            bottom_area,
+
+            text="Extra Google Text (optional)",
+
+            padding=8
+
+        )
+
+        google_frame.grid(
+            row=0,
+            column=1,
+            sticky="nsew",
+            padx=(5, 0)
+        )
+
+        self.txt_google_details = tk.Text(
+            google_frame,
+            height=7
+        )
+
+        self.txt_google_details.pack(
+            fill="both",
+            expand=True
+        )
+
+        ttk.Label(
+            google_frame,
+            text="Optional: paste full Google sections here only when needed. Main common options are now checkboxes on the right."
+        ).pack(
+            anchor="w",
+            pady=(6, 0)
         )
 
         # =========================================
@@ -1228,6 +1521,125 @@ class App(tk.Tk):
             )
 
         # =========================================
+        # GOOGLE PROFILE CHECKBOXES
+        # =========================================
+
+        google_checks_box = ttk.LabelFrame(
+            right,
+            text="Google Business Essentials",
+            padding=10
+        )
+
+        google_checks_box.pack(
+            fill="x",
+            pady=(0, 10)
+        )
+
+        self.google_check_vars = {}
+
+        def add_google_group(title, key, options):
+
+            group = ttk.LabelFrame(
+                google_checks_box,
+                text=title,
+                padding=6
+            )
+
+            group.pack(
+                fill="x",
+                pady=(0, 8)
+            )
+
+            self.google_check_vars[key] = {}
+
+            for option in options:
+
+                var = tk.BooleanVar()
+
+                self.google_check_vars[key][option] = var
+
+                ttk.Checkbutton(
+                    group,
+                    text=option,
+                    variable=var
+                ).pack(
+                    anchor="w"
+                )
+
+        add_google_group(
+            "Accessibility",
+            "accessibility",
+            GOOGLE_CHECK_OPTIONS["accessibility"]
+        )
+
+        add_google_group(
+            "Service",
+            "serviceOptions",
+            GOOGLE_CHECK_OPTIONS["serviceOptions"]
+        )
+
+        add_google_group(
+            "Highlights",
+            "highlights",
+            GOOGLE_CHECK_OPTIONS["highlights"]
+        )
+
+        add_google_group(
+            "Popular For",
+            "popularFor",
+            GOOGLE_CHECK_OPTIONS["popularFor"]
+        )
+
+        add_google_group(
+            "Food & Drinks",
+            "offerings",
+            GOOGLE_CHECK_OPTIONS["offerings"]
+        )
+
+        add_google_group(
+            "Dining",
+            "diningOptions",
+            GOOGLE_CHECK_OPTIONS["diningOptions"]
+        )
+
+        add_google_group(
+            "Atmosphere",
+            "atmosphere",
+            GOOGLE_CHECK_OPTIONS["atmosphere"]
+        )
+
+        add_google_group(
+            "Planning",
+            "planning",
+            GOOGLE_CHECK_OPTIONS["planning"]
+        )
+
+        add_google_group(
+            "Payments",
+            "payments",
+            GOOGLE_CHECK_OPTIONS["payments"]
+        )
+
+        add_google_group(
+            "Children",
+            "children",
+            GOOGLE_CHECK_OPTIONS["children"]
+        )
+
+        add_google_group(
+            "Parking",
+            "parking",
+            GOOGLE_CHECK_OPTIONS["parking"]
+        )
+
+        add_google_group(
+            "Pets",
+            "pets",
+            GOOGLE_CHECK_OPTIONS["pets"]
+        )
+
+
+        # =========================================
         # IMAGES
         # =========================================
 
@@ -1246,18 +1658,40 @@ class App(tk.Tk):
 
             image_box,
 
-            text="Select Business Images",
+            text="Select Hero Image",
 
-            command=self.pick_business_images
+            command=self.pick_hero_image
 
         ).pack(
             fill="x",
             pady=5
         )
 
+        self.hero_label = ttk.Label(
+            image_box,
+            text="No hero image selected"
+        )
+
+        self.hero_label.pack(
+            anchor="w"
+        )
+
+        ttk.Button(
+
+            image_box,
+
+            text="Select Gallery Images",
+
+            command=self.pick_business_images
+
+        ).pack(
+            fill="x",
+            pady=10
+        )
+
         self.business_label = ttk.Label(
             image_box,
-            text="0 images selected"
+            text="0 gallery images selected"
         )
 
         self.business_label.pack(
@@ -1361,6 +1795,33 @@ class App(tk.Tk):
         self.var_slug.set(
             slugify(title)
         )
+
+    # =========================================
+    # PICK HERO IMAGE
+    # =========================================
+
+    def pick_hero_image(self):
+
+        file = filedialog.askopenfilename(
+
+            title="Select Hero Image",
+
+            filetypes=[
+                ("Images", "*.jpg *.jpeg *.png *.webp")
+            ]
+
+        )
+
+        if not file:
+            return
+
+        self.hero_image = file
+
+        self.hero_label.config(
+            text=Path(file).name
+        )
+
+        self.load_preview(file)
 
     # =========================================
     # PICK BUSINESS IMAGES
@@ -1507,10 +1968,34 @@ class App(tk.Tk):
 
       
     # =========================================
-    # BUSINESS IMAGES
+    # HERO IMAGE
     # =========================================
 
-        business_urls = []
+        hero_url = ""
+
+        if self.hero_image:
+
+            hero_name = f"{slug}-hero.webp"
+
+            hero_dst = (
+                images_folder
+                / hero_name
+            )
+
+            ensure_1200x800_webp(
+                self.hero_image,
+                hero_dst
+            )
+
+            hero_url = (
+                f"{REPO_RAW_BASE}/data/restaurants/{slug}/images/{hero_name}"
+            )
+
+        # =========================================
+        # GALLERY IMAGES
+        # =========================================
+
+        gallery_urls = []
 
         for i, image in enumerate(self.business_images):
 
@@ -1526,11 +2011,18 @@ class App(tk.Tk):
                 dst
             )
 
-            business_urls.append(
+            gallery_urls.append(
 
                 f"{REPO_RAW_BASE}/data/restaurants/{slug}/images/{name}"
 
             )
+
+        business_urls = []
+
+        if hero_url:
+            business_urls.append(hero_url)
+
+        business_urls.extend(gallery_urls)
 
         # =========================================
         # MENU IMAGES
@@ -1593,6 +2085,28 @@ class App(tk.Tk):
             if value.get():
 
                 cuisine_types.append(key)
+
+        # =========================================
+        # GOOGLE BUSINESS PROFILE DETAILS
+        # =========================================
+
+        google_raw = self.txt_google_details.get(
+            "1.0",
+            tk.END
+        ).strip()
+
+        google_details = parse_google_business_details(
+            google_raw
+        )
+
+        # Merge manual checkbox selections with optional pasted Google text
+        for group_key, options in self.google_check_vars.items():
+
+            for option, var in options.items():
+
+                if var.get() and option not in google_details[group_key]:
+
+                    google_details[group_key].append(option)
 
         # =========================================
         # JSON
@@ -1676,11 +2190,62 @@ class App(tk.Tk):
                     tk.END
                 ).strip(),
 
+            "heroImage":
+                hero_url,
+
             "images":
                 business_urls,
 
+            "galleryImages":
+                gallery_urls,
+
             "menuImages":
                 menu_urls,
+
+            "googleBusinessRaw":
+                google_raw,
+
+            "accessibility":
+                google_details["accessibility"],
+
+            "serviceOptions":
+                google_details["serviceOptions"],
+
+            "highlights":
+                google_details["highlights"],
+
+            "popularFor":
+                google_details["popularFor"],
+
+            "offerings":
+                google_details["offerings"],
+
+            "diningOptions":
+                google_details["diningOptions"],
+
+            "amenities":
+                google_details["amenities"],
+
+            "atmosphere":
+                google_details["atmosphere"],
+
+            "crowd":
+                google_details["crowd"],
+
+            "planning":
+                google_details["planning"],
+
+            "payments":
+                google_details["payments"],
+
+            "children":
+                google_details["children"],
+
+            "parking":
+                google_details["parking"],
+
+            "pets":
+                google_details["pets"],
 
             "sunbedPrice":
                 self.var_sunbed_price.get(),
@@ -1708,9 +2273,9 @@ class App(tk.Tk):
         # UPDATE INDEX
         # =========================================
 
-        main_image = ""
+        main_image = hero_url
 
-        if business_urls:
+        if not main_image and business_urls:
             main_image = business_urls[0]
 
         index_item = {
@@ -1739,6 +2304,9 @@ class App(tk.Tk):
 
             "image":
                 main_image,
+
+            "heroImage":
+                hero_url,
 
             "lat":
                 lat,
@@ -1772,7 +2340,34 @@ class App(tk.Tk):
                 features,
 
             "cuisineTypes":
-                cuisine_types
+                cuisine_types,
+
+            "serviceOptions":
+                google_details["serviceOptions"],
+
+            "highlights":
+                google_details["highlights"],
+
+            "popularFor":
+                google_details["popularFor"],
+
+            "offerings":
+                google_details["offerings"],
+
+            "amenities":
+                google_details["amenities"],
+
+            "atmosphere":
+                google_details["atmosphere"],
+
+            "parking":
+                google_details["parking"],
+
+            "pets":
+                google_details["pets"],
+
+            "accessibility":
+                google_details["accessibility"]
 
         }
 

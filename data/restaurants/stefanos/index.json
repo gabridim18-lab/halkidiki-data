@@ -1,0 +1,188 @@
+{
+  "id": "stefanos",
+  "zone": "Thessaloniki",
+  "beachSlug": "neoi-epivates-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Stefanos",
+  "titleRo": "Stefanos",
+  "displayAddress": "P. Kountouriotou 173, Nei Epivates 570 19, Greece",
+  "gpsCoordinates": "40.50528936057427, 22.91051817301136",
+  "lat": 40.50528936057427,
+  "lon": 22.91051817301136,
+  "openingHoursRaw": "Wednesday\n\t\n\n    11 am–1 am\n\n\t\nThursday\n\t\n\n    11 am–1 am\n\n\t\nFriday\n\t\n\n    11 am–1 am\n\n\t\nSaturday\n\t\n\n    11 am–1 am\n\n\t\nSunday\n\t\n\n    11 am–12 am\n\n\t\nMonday\n\t\n\n    11 am–1 am\n\n\t\nTuesday\n\t\n\n    11 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 11:00–01:00; Tuesday: 11:00–01:00; Wednesday: 11:00–01:00; Thursday: 11:00–01:00; Friday: 11:00–01:00; Saturday: 11:00–01:00; Sunday: 11:00–00:00",
+  "hoursRo": "Luni: 11:00–01:00; Marți: 11:00–01:00; Miercuri: 11:00–01:00; Joi: 11:00–01:00; Vineri: 11:00–01:00; Sâmbătă: 11:00–01:00; Duminică: 11:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392026830",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Stefanos – Fish Tavern & Ouzeri\n\nLocated on the beautiful seafront of Nei Epivates, near Thessaloniki, Stefanos is a traditional Greek fish tavern specializing in fresh seafood and authentic Mediterranean cuisine. Combining genuine Greek hospitality with stunning sea views, it offers a memorable dining experience for locals and visitors alike.\n\nThe menu features freshly grilled fish, calamari, octopus, prawns, mussels, traditional Greek dishes, and a carefully selected range of ouzo and tsipouro. With its relaxed atmosphere, seaside terrace, and occasional live music evenings, Stefanos is the perfect place to enjoy the flavors of Greece by the sea.",
+  "descriptionRo": "Stefanos – Ψαροταβέρνα & Ουζερί\n\nSituată chiar pe malul mării în Nei Epivates, lângă Salonic, Stefanos este o tavernă tradițională grecească specializată în pește proaspăt și fructe de mare. Restaurantul oferă o combinație autentică de gastronomie mediteraneană, ospitalitate grecească și priveliști superbe către Golful Thermaic.\n\nMeniul include pește proaspăt la grătar, calamari, caracatiță, creveți, midii, preparate tradiționale grecești și o selecție de ouzo și tsipouro. Atmosfera relaxată, terasa cu vedere la mare și serile cu muzică live transformă fiecare vizită într-o experiență autentică de vacanță în Grecia.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list",
+    "Live music"
+  ],
+  "popularFor": [
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Private dining room",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "live_music"
+  ],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}

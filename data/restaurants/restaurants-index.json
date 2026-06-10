@@ -409,5 +409,76 @@
       "seafood",
       "greek"
     ]
+  },
+  {
+    "id": "stefanos",
+    "zone": "Thessaloniki",
+    "beachSlug": "neoi-epivates-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Stefanos",
+    "titleRo": "Stefanos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stefanos/images/stefanos-hero.webp",
+    "lat": 40.50528936057427,
+    "lon": 22.91051817301136,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Stefanos – Fish Tavern & Ouzeri Located on the beautiful seafront of Nei Epivates, near Thessaloniki, Stefanos is a traditional Greek...",
+    "shortRo": "Stefanos – Ψαροταβέρνα & Ουζερί Situată chiar pe malul mării în Nei Epivates, lângă Salonic, Stefanos este o tavernă tradițională...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Delivery",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great dessert",
+      "Great wine list",
+      "Live music"
+    ],
+    "popularFor": [
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Late-night food",
+      "Private dining room",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic"
+    ],
+    "parking": [
+      "Free parking lot"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]
