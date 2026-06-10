@@ -10,7 +10,7 @@
   "gpsCoordinates": "40.50986805011676, 22.92743152891411",
   "lat": 40.50986805011676,
   "lon": 22.92743152891411,
-  "openingHoursRaw": "Tuesday\n\t\n\n    11:30 am–1 am\n\n\t\nWednesday\n\t\n\n    11:30 am–1 am\n\n\t\nThursday\n\t\n\n    11:30 am–1 am\n\n\t\nFriday\n\t\n\n    11:30 am–1 am\n\n\t\nSaturday\n\t\n\n    11:30 am–1 am\n\n\t\nSunday\n\t\n\n    11:30 am–1 am\n\n\t\nMonday\n\t\n\n    11:30 am–1 am",
+  "openingHoursRaw": "Tuesday\n\t\n\n    11:30 am–1 am\n\n\t\nWednesday\n\t\n\n    11:30 am–1 am\n\n\t\nThursday\n\t\n\n    11:30 am–1 am\n\n\t\nFriday\n\t\n\n    11:30 am–1 am\n\n\t\nSaturday\n\t\n\n    11:30 am–1 am\n\n\t\nSunday\n\t\n\n    11:30 am–1 am\n\n\t\nMonday\n\t\n\n    11:30 am–1 am",
   "openingHours": [
     {
       "day": "Monday",
@@ -86,8 +86,14 @@
   "rating": 4.4,
   "descriptionEn": "Taverna Thalassopoulia is one of the most popular seafood taverns in Perea, located directly on the beachfront just a few steps from the sea. Its authentic Greek atmosphere, tables set on the sand, and stunning views of the Thermaic Gulf create a relaxing and unforgettable dining experience.\n\nThe restaurant is well known for its fresh seafood and fish dishes, prepared daily using traditional Greek recipes. Guests can enjoy grilled octopus, calamari, mussels, shrimp, fresh catch of the day, and a wide selection of Mediterranean specialties, all served in a welcoming seaside setting.\n\nWith its prime beachfront location and warm hospitality, Taverna Thalassopoulia is an excellent choice for leisurely lunches, romantic sunset dinners, and anyone looking to experience authentic Greek coastal cuisine in Perea.",
   "descriptionRo": "Taverna Thalassopoulia este una dintre cele mai apreciate taverne pescărești din Perea, situată chiar pe plajă, la câțiva pași de mare. Atmosfera autentic grecească, mesele amplasate pe nisip și priveliștea spectaculoasă asupra Golfului Thermaic transformă fiecare masă într-o experiență relaxantă și memorabilă.\n\nRestaurantul este renumit pentru preparatele sale din pește și fructe de mare proaspete, aduse zilnic și gătite după rețete tradiționale grecești. Meniul include caracatiță la grătar, calamari, midii, creveți, pește proaspăt al zilei și numeroase specialități mediteraneene, toate servite într-un decor elegant și primitor.\n\nDatorită amplasării sale excepționale pe malul mării și serviciilor de calitate, Taverna Thalassopoulia este alegerea ideală pentru prânzuri relaxante, cine romantice la apus și experiențe culinare autentice în Perea.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/taverna-thalassopoulia1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/taverna-thalassopoulia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/taverna-thalassopoulia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/taverna-thalassopoulia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/taverna-thalassopoulia4.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/taverna-thalassopoulia2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/taverna-thalassopoulia3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/taverna-thalassopoulia4.webp"
@@ -97,6 +103,74 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/menu2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/menu3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-thalassopoulia/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Takeaway"
+  ],
+  "highlights": [
+    "Sea view",
+    "Beachfront dining",
+    "Fresh seafood"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Groups",
+    "Tourists"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Wine",
+    "Seafood",
+    "Small plates",
+    "Late-night food"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [
+    "Toilet",
+    "Outdoor seating"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cozy",
+    "Traditional"
+  ],
+  "crowd": [
+    "Groups",
+    "Families",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs available"
+  ],
+  "parking": [
+    "Free street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
   ],
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
