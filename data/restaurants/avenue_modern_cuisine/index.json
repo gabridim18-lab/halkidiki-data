@@ -1,4 +1,119 @@
-{
+"heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine1.webp",
+
+"galleryImages": [
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine2.webp",
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine3.webp",
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine4.webp",
+  "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avenue_modern_cuisine/images/avenue_modern_cuisine5.webp"
+],
+
+"googleBusinessRaw": "",
+
+"accessibility": [
+  "Wheelchair-accessible entrance",
+  "Wheelchair-accessible seating"
+],
+
+"serviceOptions": [
+  "Outdoor seating",
+  "Takeaway",
+  "Dine-in"
+],
+
+"highlights": [
+  "Live music",
+  "Great cocktails",
+  "Great wine list",
+  "Sea view"
+],
+
+"popularFor": [
+  "Breakfast",
+  "Brunch",
+  "Lunch",
+  "Dinner",
+  "Late-night dining",
+  "Drinks"
+],
+
+"offerings": [
+  "Alcohol",
+  "Beer",
+  "Cocktails",
+  "Coffee",
+  "Wine",
+  "Spirits",
+  "Sushi",
+  "Vegan options"
+],
+
+"diningOptions": [
+  "Breakfast",
+  "Brunch",
+  "Lunch",
+  "Dinner",
+  "Dessert",
+  "Seating",
+  "Table service"
+],
+
+"amenities": [
+  "Wi-Fi",
+  "Full bar",
+  "High chairs available"
+],
+
+"atmosphere": [
+  "Casual",
+  "Modern",
+  "Upscale",
+  "Romantic"
+],
+
+"crowd": [
+  "Groups",
+  "Families",
+  "Tourists",
+  "Business meetings"
+],
+
+"planning": [
+  "Reservations recommended",
+  "Accepts reservations"
+],
+
+"payments": [
+  "Credit cards",
+  "American Express",
+  "Visa",
+  "Mastercard",
+  "Discover"
+],
+
+"children": [
+  "Good for kids",
+  "High chairs available"
+],
+
+"parking": [
+  "Parking available"
+],
+
+"pets": [
+  "Dog friendly"
+],
+
+"musicStyles": [
+  "live_music",
+  "dj"
+],
+
+"cuisineTypes": [
+  "mediterranean",
+  "greek",
+  "sushi",
+  "fusion"
+]{
   "id": "avenue_modern_cuisine",
   "beachSlug": "thessaloniki",
   "zone": "Thessaloniki",
