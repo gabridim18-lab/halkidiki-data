@@ -10,7 +10,7 @@
   "gpsCoordinates": "40.509072360194885, 22.924587405531344",
   "lat": 40.509072360194885,
   "lon": 22.924587405531344,
-  "openingHoursRaw": "Tuesday\n\t\n\n    8 am–1 am\n\n\t\nWednesday\n\t\n\n    8 am–1 am\n\n\t\nThursday\n\t\n\n    8 am–1 am\n\n\t\nFriday\n\t\n\n    8 am–1 am\n\n\t\nSaturday\n\t\n\n    8 am–1 am\n\n\t\nSunday\n\t\n\n    8 am–1 am\n\n\t\nMonday\n\t\n\n    8 am–1 am",
+  "openingHoursRaw": "Tuesday\n\t\n\n    8 am–1 am\n\n\t\nWednesday\n\t\n\n    8 am–1 am\n\n\t\nThursday\n\t\n\n    8 am–1 am\n\n\t\nFriday\n\t\n\n    8 am–1 am\n\n\t\nSaturday\n\t\n\n    8 am–1 am\n\n\t\nSunday\n\t\n\n    8 am–1 am\n\n\t\nMonday\n\t\n\n    8 am–1 am",
   "openingHours": [
     {
       "day": "Monday",
@@ -86,8 +86,14 @@
   "rating": 4.7,
   "descriptionEn": "Located directly on the beachfront promenade of Perea, Skipper Café Bar is the perfect destination for visitors looking to enjoy the sea in a stylish and relaxed setting. Its wooden deck, comfortable loungers, and stunning views over the Thermaic Gulf create an inviting atmosphere for both daytime relaxation and beautiful sunset moments.\n\nThe menu features a wide selection of coffees, refreshing cocktails, premium drinks, snacks, burgers, pizzas, and desserts, making it suitable for every time of day. With its friendly service, modern seaside ambiance, and prime beachfront location, Skipper Café Bar has become one of the most popular spots in Perea for both locals and visitors alike.",
   "descriptionRo": "Situat chiar pe promenada și plaja din Perea, Skipper Café Bar este locul ideal pentru cei care doresc să combine relaxarea la malul mării cu o atmosferă modernă și elegantă. Terasa din lemn, șezlongurile confortabile și priveliștea spectaculoasă asupra Golfului Thermaic creează cadrul perfect pentru o zi de vacanță sau o seară liniștită la apus.\n\nMeniul oferă o selecție variată de cafele, cocktailuri răcoritoare, băuturi premium, gustări, burgeri, pizza și deserturi, potrivite pentru orice moment al zilei. Atmosfera relaxată, serviciul prietenos și poziția excelentă pe plajă fac din Skipper Café Bar una dintre cele mai apreciate destinații de pe litoralul din Perea.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar4.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/skipper-cafe-bar4.webp"
@@ -96,6 +102,80 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/menu1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/menu2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/skipper-cafe-bar/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great cocktails",
+    "Great coffee",
+    "Sea view",
+    "Beachfront seating"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Drinks"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Pizza",
+    "Burgers",
+    "Desserts",
+    "Wine",
+    "Spirits",
+    "Small plates"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [
+    "Beach sunbeds",
+    "Beach umbrellas",
+    "Toilet",
+    "Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Relaxed",
+    "Trendy",
+    "Beachfront"
+  ],
+  "crowd": [
+    "Families",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
   ],
   "sunbedPrice": "€10–15",
   "sunbedConsumationIncluded": true,
@@ -111,6 +191,9 @@
     "pet_friendly"
   ],
   "cuisineTypes": [
-    "mediterranean"
+    "mediterranean",
+    "cafe",
+    "burgers",
+    "pizza"
   ]
 }
