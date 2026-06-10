@@ -11,19 +11,89 @@
   "lat": 40.509612058969374,
   "lon": 22.926678247991735,
   "openingHoursRaw": "Tuesday\n\t\n\n    Open 24 hours\n\n\t\nWednesday\n\t\n\n    Open 24 hours\n\n\t\nThursday\n\t\n\n    Open 24 hours\n\n\t\nFriday\n\t\n\n    Open 24 hours\n\n\t\nSaturday\n\t\n\n    Open 24 hours\n\n\t\nSunday\n\t\n\n    Open 24 hours\n\n\t\nMonday\n\t\n\n    Open 24 hours",
-  "openingHours": [],
-  "hoursEn": "",
-  "hoursRo": "",
-  "website": "https://playmaker.4ty.gr/el/playmaker?",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "00:00",
+      "close": "23:59",
+      "labelEn": "Open 24 hours",
+      "labelRo": "Deschis non-stop"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "00:00",
+      "close": "23:59",
+      "labelEn": "Open 24 hours",
+      "labelRo": "Deschis non-stop"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "00:00",
+      "close": "23:59",
+      "labelEn": "Open 24 hours",
+      "labelRo": "Deschis non-stop"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "00:00",
+      "close": "23:59",
+      "labelEn": "Open 24 hours",
+      "labelRo": "Deschis non-stop"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "00:00",
+      "close": "23:59",
+      "labelEn": "Open 24 hours",
+      "labelRo": "Deschis non-stop"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "00:00",
+      "close": "23:59",
+      "labelEn": "Open 24 hours",
+      "labelRo": "Deschis non-stop"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "00:00",
+      "close": "23:59",
+      "labelEn": "Open 24 hours",
+      "labelRo": "Deschis non-stop"
+    }
+  ],
+  "hoursEn": "Open 24 hours",
+  "hoursRo": "Deschis non-stop",
+  "website": "https://playmaker.4ty.gr/el/playmaker",
   "facebook": "",
   "instagram": "",
   "phone": "+302392023701",
   "price": "$$",
   "rating": 4.5,
-  "descriptionEn": "Located directly on the waterfront of Perea, Play-Maker Beach Bar is the perfect destination for a relaxing beach day and breathtaking sunsets over the Thermaic Gulf. The venue offers a modern and welcoming atmosphere with comfortable sunbeds, stylish cabanas, and uninterrupted sea views.\n\nThe menu features specialty coffees, refreshing cocktails, cold beverages, light snacks, burgers, Greek favorites, and sweet treats, all served in a laid-back seaside setting. Combined with pleasant music, beach services, and views toward Thessaloniki, every visit becomes a memorable experience.\n\nPlay-Maker is an excellent choice for families, couples, and groups of friends looking to enjoy the perfect mix of beach relaxation, good food, and refreshing drinks. 🌊☕🍹",
+  "descriptionEn": "Located directly on the waterfront of Perea, Play-Maker Beach Bar is the perfect destination for a relaxing beach day and breathtaking sunsets over the Thermaic Gulf. The venue offers a modern and welcoming atmosphere with comfortable sunbeds, stylish cabanas, and uninterrupted sea views.\n\nThe menu features specialty coffees, refreshing cocktails, cold beverages, light snacks, burgers, Greek favorites, and sweet treats, all served in a laid-back seaside setting. Combined with pleasant music, beach services, and views toward Thessaloniki, every visit becomes a memorable experience.\n\nPlay-Maker is an excellent choice for families, couples, and groups of friends looking to enjoy the perfect mix of beach relaxation, good food, and refreshing drinks.",
   "descriptionRo": "Situat chiar pe faleza din Perea, Play-Maker Beach Bar este locul perfect pentru o zi relaxantă la mare sau pentru un apus spectaculos pe malul Golfului Thermaic. Atmosfera este modernă și prietenoasă, cu șezlonguri confortabile, baldachine elegante și vedere directă către apă.\n\nMeniul include cafea de specialitate, cocktailuri răcoritoare, băuturi reci, gustări rapide, burgeri, preparate grecești și deserturi, servite într-un decor relaxat de beach bar. Muzica atent aleasă, serviciile de plajă și priveliștea către orașul Thessaloniki transformă fiecare vizită într-o experiență plăcută.\n\nPlay-Maker este o alegere excelentă pentru familii, cupluri și grupuri de prieteni care doresc să combine relaxarea pe plajă cu mâncare bună și băuturi răcoritoare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/play-maker1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/play-maker1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/play-maker2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/play-maker3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/play-maker4.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/play-maker2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/play-maker3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/play-maker4.webp"
@@ -34,7 +104,83 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/menu3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/play-maker/images/menu4.webp"
   ],
-  "sunbedPrice": "20Euro - consumption",
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great cocktails",
+    "Great coffee",
+    "Sea view",
+    "Sunset view"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Drinks"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Burgers",
+    "Desserts",
+    "Wine",
+    "Spirits",
+    "Small plates"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [
+    "Beach sunbeds",
+    "Beach umbrellas",
+    "Toilet",
+    "Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Relaxed",
+    "Trendy",
+    "Beachfront"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking",
+    "Street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "20€ consumption",
   "sunbedConsumationIncluded": false,
   "musicStyles": [
     "chill",
@@ -45,9 +191,16 @@
     "cocktails",
     "restaurant",
     "parking",
-    "family_friendly"
+    "family_friendly",
+    "sea_view",
+    "sunset_view",
+    "beachfront",
+    "pet_friendly"
   ],
   "cuisineTypes": [
-    "greek"
+    "greek",
+    "burgers",
+    "snacks",
+    "cafe"
   ]
 }
