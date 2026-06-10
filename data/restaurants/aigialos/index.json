@@ -4,13 +4,13 @@
   "beachSlug": "perea-beach",
   "type": "restaurant",
   "featured": true,
-  "titleEn": "Aigialos ",
+  "titleEn": "Aigialos",
   "titleRo": "Aigialos",
   "displayAddress": "P. Kountouriotou 43, Perea 570 19, Greece",
   "gpsCoordinates": "40.51022653818528, 22.927967337269717",
   "lat": 40.51022653818528,
   "lon": 22.927967337269717,
-  "openingHoursRaw": "Monday\n\t\n\n    11:30 am–10 pm\n\n\t\nTuesday\n\t\n\n    11:30 am–10 pm\n\n\t\nWednesday\n\t\n\n    11:30 am–10 pm\n\n\t\nThursday\n\t\n\n    11:30 am–10 pm\n\n\t\nFriday\n\t\n\n    11:30 am–11 pm\n\n\t\nSaturday\n\t\n\n    11:30 am–11 pm\n\n\t\nSunday\n\t\n\n    11:30 am–8 pm",
+  "openingHoursRaw": "Monday\n\t\n\n    11:30 am–10 pm\n\n\t\nTuesday\n\t\n\n    11:30 am–10 pm\n\n\t\nWednesday\n\t\n\n    11:30 am–10 pm\n\n\t\nThursday\n\t\n\n    11:30 am–10 pm\n\n\t\nFriday\n\t\n\n    11:30 am–11 pm\n\n\t\nSaturday\n\t\n\n    11:30 am–11 pm\n\n\t\nSunday\n\t\n\n    11:30 am–8 pm",
   "openingHours": [
     {
       "day": "Monday",
@@ -86,8 +86,14 @@
   "rating": 4.5,
   "descriptionEn": "Aigialos Restaurant is one of the most popular seaside taverns along the Perea waterfront, combining authentic Greek cuisine with stunning views of the Thermaic Gulf. Located directly on the beach promenade, the restaurant offers a relaxing atmosphere, elegant coastal décor, and the warm hospitality for which Greece is famous.\n\nThe menu focuses on fresh ingredients and traditional flavors, featuring locally sourced fish and seafood, Mediterranean salads, grilled octopus, calamari, shrimp, and a variety of classic Greek specialties prepared according to authentic recipes. Its spacious seaside terrace provides the perfect setting for a leisurely lunch by the sea or a romantic dinner while enjoying the beautiful sunset over the gulf.\n\nWhether you are looking to enjoy freshly prepared seafood, carefully selected Greek wines, or simply experience the charm of a traditional Greek seaside restaurant, Aigialos offers a memorable dining experience in the heart of Perea. 🌊🐟🍷☀️",
   "descriptionRo": "Aigialos Restaurant este una dintre cele mai apreciate taverne de pe promenada din Perea, oferind o combinație perfectă între bucătăria grecească autentică și priveliștea spectaculoasă asupra Golfului Thermaic. Situat chiar pe malul mării, restaurantul impresionează prin atmosfera sa relaxată, decorul elegant în nuanțe alb-albastre și serviciul prietenos specific ospitalității grecești.\n\nMeniul pune accent pe ingrediente proaspete și preparate tradiționale, de la pește și fructe de mare pescuite local până la salate mediteraneene, caracatiță la grătar, calamari, creveți și specialități grecești pregătite după rețete autentice. Terasa generoasă oferă un loc ideal pentru un prânz liniștit la malul mării sau pentru o cină romantică în timp ce soarele apune peste apele golfului.\n\nFie că dorești să savurezi fructe de mare proaspete, vinuri grecești atent selecționate sau pur și simplu să te bucuri de atmosfera autentică a litoralului grecesc, Aigialos este o alegere excelentă pentru o experiență culinară memorabilă în Perea.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos4.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/aigialos4.webp"
@@ -98,9 +104,88 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/menu3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aigialos/images/menu4.webp"
   ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great dessert",
+    "Great wine list",
+    "Live music"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Gender-neutral toilet",
+    "Toilet",
+    "Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Lunch reservations recommended",
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Free street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
-  "musicStyles": [],
+  "musicStyles": [
+    "live_music"
+  ],
   "features": [
     "restaurant",
     "parking",
