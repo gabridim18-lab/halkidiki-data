@@ -1,84 +1,83 @@
 {
   "id": "sunset_bay",
-  "beachSlug": "thessaloniki",
   "zone": "Thessaloniki",
+  "beachSlug": "thessaloniki",
   "type": "beach_bar",
   "featured": true,
   "titleEn": "Sunset Bay",
   "titleRo": "Sunset Bay",
-  "address": "HX3H+GM Pylaia, Greece",
   "displayAddress": "Leof. Georgikis Scholis 70, Pilea 555 35, Greece",
+  "gpsCoordinates": "40.56849866877833, 22.95582804367908",
+  "lat": 40.56849866877833,
+  "lon": 22.95582804367908,
   "openingHoursRaw": "Monday\n\t\n\n    5:00 pm–12:00 am\n\n\t\nTuesday\n\t\n\n    5:00 pm–12:00 am\n\n\t\nWednesday\n\t\n\n    5:00 pm–12:00 am\n\n\t\nThursday\n\t\n\n    5:00 pm–12:00 am\n\n\t\nFriday\n\t\n\n    5:00 pm–12:00 am\n\n\t\nSaturday\n\t\n\n    5:00 pm–12:00 am\n\n\t\nSunday\n\t\n\n    5:00 pm–12:00 am",
-
-"openingHours": [
-  {
-    "day": "Monday",
-    "dayRo": "Luni",
-    "closed": false,
-    "open": "17:00",
-    "close": "00:00",
-    "labelEn": "17:00–00:00",
-    "labelRo": "17:00–00:00"
-  },
-  {
-    "day": "Tuesday",
-    "dayRo": "Marți",
-    "closed": false,
-    "open": "17:00",
-    "close": "00:00",
-    "labelEn": "17:00–00:00",
-    "labelRo": "17:00–00:00"
-  },
-  {
-    "day": "Wednesday",
-    "dayRo": "Miercuri",
-    "closed": false,
-    "open": "17:00",
-    "close": "00:00",
-    "labelEn": "17:00–00:00",
-    "labelRo": "17:00–00:00"
-  },
-  {
-    "day": "Thursday",
-    "dayRo": "Joi",
-    "closed": false,
-    "open": "17:00",
-    "close": "00:00",
-    "labelEn": "17:00–00:00",
-    "labelRo": "17:00–00:00"
-  },
-  {
-    "day": "Friday",
-    "dayRo": "Vineri",
-    "closed": false,
-    "open": "17:00",
-    "close": "00:00",
-    "labelEn": "17:00–00:00",
-    "labelRo": "17:00–00:00"
-  },
-  {
-    "day": "Saturday",
-    "dayRo": "Sâmbătă",
-    "closed": false,
-    "open": "17:00",
-    "close": "00:00",
-    "labelEn": "17:00–00:00",
-    "labelRo": "17:00–00:00"
-  },
-  {
-    "day": "Sunday",
-    "dayRo": "Duminică",
-    "closed": false,
-    "open": "17:00",
-    "close": "00:00",
-    "labelEn": "17:00–00:00",
-    "labelRo": "17:00–00:00"
-  }
-],
-
-"hoursEn": "Monday: 17:00–00:00; Tuesday: 17:00–00:00; Wednesday: 17:00–00:00; Thursday: 17:00–00:00; Friday: 17:00–00:00; Saturday: 17:00–00:00; Sunday: 17:00–00:00",
-
-"hoursRo": "Luni: 17:00–00:00; Marți: 17:00–00:00; Miercuri: 17:00–00:00; Joi: 17:00–00:00; Vineri: 17:00–00:00; Sâmbătă: 17:00–00:00; Duminică: 17:00–00:00",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 17:00–00:00; Tuesday: 17:00–00:00; Wednesday: 17:00–00:00; Thursday: 17:00–00:00; Friday: 17:00–00:00; Saturday: 17:00–00:00; Sunday: 17:00–00:00",
+  "hoursRo": "Luni: 17:00–00:00; Marți: 17:00–00:00; Miercuri: 17:00–00:00; Joi: 17:00–00:00; Vineri: 17:00–00:00; Sâmbătă: 17:00–00:00; Duminică: 17:00–00:00",
   "website": "",
   "facebook": "https://www.facebook.com/p/Sunset-Bay-skg-61559870677332/?locale=el_GR",
   "instagram": "",
@@ -87,6 +86,7 @@
   "rating": 4.7,
   "descriptionEn": "Sunset Bay is one of Thessaloniki’s most stylish seaside bars, located on the eastern side of the city near Georgikis Scholis Avenue, close to the airport route and right by the waterfront. The venue quickly became a hotspot thanks to its tropical atmosphere, stunning sunset views, and elegant island-inspired design. Guests can relax on loungers, poufs, sofas, or classic tables while enjoying cocktails, coffee, fresh juices, sushi, burgers, pasta, pizza, and refreshing salads. The combination of sea breeze, ambient lighting, music, and panoramic Thermaikos Gulf views creates a perfect summer-in-the-city experience. Sunset Bay is also known for hosting events, private parties, and sunset gatherings.",
   "descriptionRo": "Sunset Bay este unul dintre cele mai moderne și apreciate beach baruri din partea estică a Salonicului, situat pe Leof. Georgikis Scholis, aproape de mare și pe drumul spre aeroport. Localul a devenit rapid popular datorită atmosferei tropicale, apusurilor spectaculoase și designului elegant cu influențe insulare. Are zonă lounge cu canapele, șezlonguri, pufuri și mese clasice, fiind ideal atât pentru relaxare la apus, cât și pentru seri animate cu muzică și cocktailuri. În meniu găsești cafea, fresh-uri, cocktailuri premium, sushi, burgeri, paste, pizza și salate. De asemenea, organizează frecvent evenimente și petreceri private.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay2.webp",
@@ -95,8 +95,84 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay5.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay6.webp"
   ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunset_bay/images/sunset_bay6.webp"
+  ],
   "menuImages": [],
-  "sunbedPrice": "15",
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great cocktails",
+    "Great coffee",
+    "Sea view",
+    "Sunset view",
+    "Live events"
+  ],
+  "popularFor": [
+    "Drinks",
+    "Dinner",
+    "Groups"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Wine",
+    "Spirits",
+    "Sushi",
+    "Pizza",
+    "Pasta",
+    "Burgers"
+  ],
+  "diningOptions": [
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Beach seating"
+  ],
+  "atmosphere": [
+    "Trendy",
+    "Upscale",
+    "Romantic",
+    "Casual"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "15€",
   "sunbedConsumationIncluded": true,
   "musicStyles": [
     "party"
@@ -106,5 +182,11 @@
     "sea_view",
     "sunset_view",
     "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "international",
+    "sushi",
+    "pizza",
+    "burgers"
   ]
 }
