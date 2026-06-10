@@ -10,7 +10,7 @@
   "gpsCoordinates": "40.51066398591256, 22.929621689215868",
   "lat": 40.51066398591256,
   "lon": 22.929621689215868,
-  "openingHoursRaw": "Sunday\n\t\n\n    12:30–10 pm\n\n\t\nMonday\n\t\n\n    Closed\n\n\t\nTuesday\n\t\n\n    Closed\n\n\t\nWednesday\n\t\n\n    1–10 pm\n\n\t\nThursday\n\t\n\n    1–10 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n\t\n\n    1–11 pm",
+  "openingHoursRaw": "Sunday\n\t\n\n    12:30–10 pm\n\n\t\nMonday\n\t\n\n    Closed\n\n\t\nTuesday\n\t\n\n    Closed\n\n\t\nWednesday\n\t\n\n    1–10 pm\n\n\t\nThursday\n\t\n\n    1–10 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n\t\n\n    1–11 pm",
   "openingHours": [
     {
       "day": "Monday",
@@ -79,15 +79,21 @@
   "hoursEn": "Monday: Closed; Tuesday: Closed; Wednesday: 13:00–22:00; Thursday: 13:00–22:00; Friday: 13:00–23:00; Saturday: 13:00–23:00; Sunday: 12:30–22:00",
   "hoursRo": "Luni: Închis; Marți: Închis; Miercuri: 13:00–22:00; Joi: 13:00–22:00; Vineri: 13:00–23:00; Sâmbătă: 13:00–23:00; Duminică: 12:30–22:00",
   "website": "",
-  "facebook": "",
+  "facebook": "https://www.facebook.com/MythomageiremataMythomageiremata/",
   "instagram": "",
   "phone": "+302392028882",
   "price": "$$",
   "rating": 4.5,
   "descriptionEn": "Mythomageiremata Tavern is a charming seaside restaurant located on the waterfront promenade of Perea, just steps away from the sea. Renowned for its welcoming atmosphere and traditional Greek cuisine, the tavern offers a delightful combination of authentic flavors, fresh ingredients, and beautiful views across the Thermaic Gulf.\n\nThe menu features fresh seafood, grilled fish, Mediterranean specialties, colorful salads, and carefully prepared traditional Greek dishes. Its spacious beachfront terrace provides the perfect setting for a relaxing lunch, a romantic sunset dinner, or a memorable gathering with family and friends.\n\nWith friendly service and a genuine Greek hospitality experience, Mythomageiremata Tavern is considered one of the most popular dining spots in Perea for both locals and visitors alike.",
   "descriptionRo": "Mythomageiremata Tavern este o tavernă elegantă situată pe promenada din Perea, la doar câțiva pași de mare. Cunoscută pentru atmosfera sa relaxată și preparatele inspirate din bucătăria grecească tradițională, restaurantul oferă o combinație perfectă între gusturi autentice, ingrediente proaspete și priveliști superbe către Golful Thermaic.\n\nMeniul include fructe de mare proaspete, pește la grătar, specialități mediteraneene, salate generoase și preparate tradiționale gătite cu atenție la detalii. Terasa spațioasă de pe malul mării transformă fiecare masă într-o experiență plăcută, fie că este vorba despre un prânz relaxant, o cină romantică la apus sau o întâlnire cu familia și prietenii.\n\nCu servicii prietenoase și o atmosferă autentic grecească, Mythomageiremata Tavern reprezintă una dintre cele mai apreciate destinații culinare din Perea.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/mythomageiremata-tavern1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/mythomageiremata-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/mythomageiremata-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/mythomageiremata-tavern3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/mythomageiremata-tavern4.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/mythomageiremata-tavern2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/mythomageiremata-tavern3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/mythomageiremata-tavern4.webp"
@@ -97,6 +103,71 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/menu2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/menu3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mythomageiremata-tavern/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair accessible"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Sea view",
+    "Great service",
+    "Traditional Greek dishes"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Seafood",
+    "Greek meze",
+    "Small plates",
+    "Wine",
+    "Mediterranean cuisine",
+    "Healthy options"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Relaxed",
+    "Seaside"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Booking",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
   ],
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
@@ -110,6 +181,8 @@
   ],
   "cuisineTypes": [
     "seafood",
-    "greek"
+    "greek",
+    "mediterranean",
+    "healthy"
   ]
 }
