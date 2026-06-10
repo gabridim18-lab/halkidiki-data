@@ -10,7 +10,7 @@
   "gpsCoordinates": "40.51054986617014, 22.92940778739626",
   "lat": 40.51054986617014,
   "lon": 22.92940778739626,
-  "openingHoursRaw": "Sunday\n\t\n\n    1–11 pm\n\n\t\nMonday\n\t\n\n    1–11 pm\n\n\t\nTuesday\n\t\n\n    1–11 pm\n\n\t\nWednesday\n\t\n\n    Closed\n\n\t\nThursday\n\t\n\n    1–11 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n\t\n\n    1–11 pm",
+  "openingHoursRaw": "Sunday\n\t\n\n    1–11 pm\n\n\t\nMonday\n\t\n\n    1–11 pm\n\n\t\nTuesday\n\t\n\n    1–11 pm\n\n\t\nWednesday\n\t\n\n    Closed\n\n\t\nThursday\n\t\n\n    1–11 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n\t\n\n    1–11 pm",
   "openingHours": [
     {
       "day": "Monday",
@@ -86,8 +86,14 @@
   "rating": 4.5,
   "descriptionEn": "Προβατίνα χασαποταβέρνα is a traditional Greek tavern located on the seaside promenade of Perea, just a short distance from Thessaloniki. Known for its grilled meat specialties, authentic Greek flavors, and welcoming atmosphere, the restaurant combines rustic wooden décor with a modern dining experience. Guests can enjoy a variety of expertly prepared meat dishes, traditional appetizers, fresh salads, and local recipes while relaxing in a cozy setting near the sea. Its friendly service and authentic tavern character make it a popular choice for both locals and visitors seeking genuine Greek cuisine.",
   "descriptionRo": "Προβατίνα χασαποταβέρνα este o tavernă tradițională grecească situată pe promenada din Perea, lângă mare. Restaurantul este apreciat pentru preparatele sale din carne gătite pe grătar, rețetele autentice grecești și atmosfera relaxată, specifică tavernelor de familie. Interiorul combină elemente rustice din lemn cu un design modern și primitor, iar terasa oferă un cadru plăcut pentru prânzuri și cine cu vedere spre Golful Thermaic. Meniul include specialități din carne, aperitive tradiționale, salate proaspete și preparate pregătite după rețete locale, servite într-un ambient cald și ospitalier.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house4.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/provatina-traditional-grill-house4.webp"
@@ -98,6 +104,68 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/menu3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/provatina-traditional-grill-house/images/menu4.webp"
   ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great meat dishes",
+    "Sea view",
+    "Traditional Greek cuisine"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Groups"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Grilled meat",
+    "Greek meze",
+    "Small plates",
+    "Wine",
+    "Spirits"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Traditional",
+    "Family friendly"
+  ],
+  "crowd": [
+    "Families",
+    "Groups",
+    "Locals"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Street parking"
+  ],
+  "pets": [],
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
   "musicStyles": [],
@@ -109,6 +177,8 @@
   ],
   "cuisineTypes": [
     "greek",
-    "mediterranean"
+    "mediterranean",
+    "grill",
+    "meat"
   ]
 }
