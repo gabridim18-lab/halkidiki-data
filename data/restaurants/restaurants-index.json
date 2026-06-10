@@ -383,5 +383,31 @@
       "seafood",
       "greek"
     ]
+  },
+  {
+    "id": "ostrako",
+    "zone": "Thessaloniki",
+    "beachSlug": "neoi-epivates-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Ostrako",
+    "titleRo": "Ostrako",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ostrako/images/ostrako1.webp",
+    "lat": 40.50546158052919,
+    "lon": 22.911071917966343,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Ostrako Fish Tavern is a welcoming seaside restaurant located in the heart of Neoi Epivates, just a few steps from the Thermaic Gulf....",
+    "shortRo": "Taverna pescărească Ostrako este un restaurant primitor situat pe malul mării, în inima localității Neoi Epivates, la doar câțiva pași...",
+    "features": [
+      "restaurant",
+      "sea_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ]
   }
 ]

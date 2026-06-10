@@ -1,0 +1,116 @@
+{
+  "id": "ostrako",
+  "zone": "Thessaloniki",
+  "beachSlug": "neoi-epivates-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Ostrako",
+  "titleRo": "Ostrako",
+  "displayAddress": "P. Kountouriotou 37, Nei Epivates 570 19, Greece",
+  "gpsCoordinates": "40.50546158052919, 22.911071917966343",
+  "lat": 40.50546158052919,
+  "lon": 22.911071917966343,
+  "openingHoursRaw": "Wednesday\n\t\n\n    11 am–1 am\n\n\t\nThursday\n\t\n\n    11 am–1 am\n\n\t\nFriday\n\t\n\n    11 am–1 am\n\n\t\nSaturday\n\t\n\n    11 am–1 am\n\n\t\nSunday\n\t\n\n    11 am–12 am\n\n\t\nMonday\n\t\n\n    11 am–1 am\n\n\t\nTuesday\n\t\n\n    11 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:00",
+      "close": "01:00",
+      "labelEn": "11:00–01:00",
+      "labelRo": "11:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 11:00–01:00; Tuesday: 11:00–01:00; Wednesday: 11:00–01:00; Thursday: 11:00–01:00; Friday: 11:00–01:00; Saturday: 11:00–01:00; Sunday: 11:00–00:00",
+  "hoursRo": "Luni: 11:00–01:00; Marți: 11:00–01:00; Miercuri: 11:00–01:00; Joi: 11:00–01:00; Vineri: 11:00–01:00; Sâmbătă: 11:00–01:00; Duminică: 11:00–00:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/Ostrako",
+  "instagram": "",
+  "phone": "+302392022245",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Ostrako Fish Tavern is a welcoming seaside restaurant located in the heart of Neoi Epivates, just a few steps from the Thermaic Gulf. Combining traditional Greek hospitality with fresh seafood specialties, Ostrako offers a relaxed atmosphere where guests can enjoy authentic Mediterranean flavors while admiring the beautiful coastal scenery.\n\nThe menu features a wide variety of freshly prepared seafood dishes, grilled fish, octopus, calamari, mussels, shrimp, and traditional Greek appetizers, all made with carefully selected ingredients. Whether you are looking for a leisurely lunch by the sea or a memorable dinner with views of the sparkling lights across the bay, Ostrako provides the perfect setting.\n\nFriendly service, generous portions, and excellent value make Ostrako a favorite choice for both locals and visitors exploring the Thessaloniki Riviera.",
+  "descriptionRo": "Taverna pescărească Ostrako este un restaurant primitor situat pe malul mării, în inima localității Neoi Epivates, la doar câțiva pași de apele Golfului Thermaic. Îmbinând ospitalitatea grecească autentică cu preparate din pește și fructe de mare proaspete, Ostrako oferă o atmosferă relaxantă în care oaspeții se pot bucura de gusturile autentice ale Mediteranei și de priveliștile superbe ale litoralului.\n\nMeniul include o varietate bogată de specialități marine pregătite zilnic, pește proaspăt la grătar, caracatiță, calamari, midii, creveți și numeroase aperitive tradiționale grecești, toate realizate din ingrediente atent selecționate. Fie că alegi un prânz liniștit lângă mare sau o cină specială cu vedere spre luminile orașului de peste golf, Ostrako oferă cadrul ideal pentru o experiență culinară memorabilă.\n\nServirea prietenoasă, porțiile generoase și raportul excelent calitate-preț transformă Ostrako într-o alegere apreciată atât de localnici, cât și de turiștii care descoperă Riviera Thessaloniki.",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ostrako/images/ostrako1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ostrako/images/ostrako2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ostrako/images/ostrako3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ostrako/images/ostrako4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ostrako/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ostrako/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ostrako/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ostrako/images/menu4.webp"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "live_music"
+  ],
+  "features": [
+    "restaurant",
+    "sea_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}
