@@ -4,13 +4,13 @@
   "beachSlug": "perea-beach",
   "type": "beach_bar",
   "featured": true,
-  "titleEn": "Kohyli Beach Bar ",
-  "titleRo": "Kohyli Beach Bar ",
+  "titleEn": "Kohyli Beach Bar",
+  "titleRo": "Kohyli Beach Bar",
   "displayAddress": "P. Kountouriotou 23, Perea 570 19, Greece",
   "gpsCoordinates": "40.510659748580025, 22.93064971855726",
   "lat": 40.510659748580025,
   "lon": 22.93064971855726,
-  "openingHoursRaw": "Sunday\n\t\n\n    8 am–1 am\n\n\t\nMonday\n\t\n\n    8 am–1 am\n\n\t\nTuesday\n\t\n\n    8 am–1 am\n\n\t\nWednesday\n\t\n\n    8 am–1 am\n\n\t\nThursday\n\t\n\n    8 am–1 am\n\n\t\nFriday\n\t\n\n    8 am–1 am\n\n\t\nSaturday\n\t\n\n    8 am–1 am",
+  "openingHoursRaw": "Sunday\n\t\n\n    8 am–1 am\n\n\t\nMonday\n\t\n\n    8 am–1 am\n\n\t\nTuesday\n\t\n\n    8 am–1 am\n\n\t\nWednesday\n\t\n\n    8 am–1 am\n\n\t\nThursday\n\t\n\n    8 am–1 am\n\n\t\nFriday\n\t\n\n    8 am–1 am\n\n\t\nSaturday\n\t\n\n    8 am–1 am",
   "openingHours": [
     {
       "day": "Monday",
@@ -79,15 +79,21 @@
   "hoursEn": "Monday: 08:00–01:00; Tuesday: 08:00–01:00; Wednesday: 08:00–01:00; Thursday: 08:00–01:00; Friday: 08:00–01:00; Saturday: 08:00–01:00; Sunday: 08:00–01:00",
   "hoursRo": "Luni: 08:00–01:00; Marți: 08:00–01:00; Miercuri: 08:00–01:00; Joi: 08:00–01:00; Vineri: 08:00–01:00; Sâmbătă: 08:00–01:00; Duminică: 08:00–01:00",
   "website": "https://kohyli-cafe.gr/",
-  "facebook": "",
-  "instagram": "",
+  "facebook": "https://www.facebook.com/kohylibeachbarperaia/",
+  "instagram": "https://www.instagram.com/kohylibeach/",
   "phone": "+306948325269",
   "price": "$$",
   "rating": 4.4,
-  "descriptionEn": "Kohyli Beach Bar is one of Perea’s most popular beachfront destinations, located directly on the shores of the Thermaic Gulf. Featuring comfortable sunbeds on the sand, traditional straw umbrellas, and a laid-back seaside atmosphere, it provides the perfect setting for a relaxing day by the sea. Guests can enjoy quality coffee, refreshing cocktails, premium drinks, and light meals while taking in beautiful sea views and the area's famous sunsets. With its friendly service, stylish beachfront setting, and carefully selected music, Kohyli is an excellent choice for both daytime relaxation and memorable evenings by the water.",
-  "descriptionRo": "Kohyli Beach Bar este unul dintre cele mai populare beach baruri din Perea, situat chiar pe malul Golfului Thermaic. Cu șezlonguri confortabile pe nisip, umbrele din stuf și o atmosferă relaxată, locația oferă cadrul perfect pentru o zi petrecută la mare. Oaspeții se pot bucura de cafea, cocktailuri răcoritoare, băuturi premium și preparate ușoare, în timp ce admiră priveliștea spectaculoasă asupra mării și apusurile renumite ale zonei. Muzica atent aleasă, serviciile prietenoase și ambianța modernă transformă Kohyli într-o destinație ideală atât pentru relaxare în timpul zilei, cât și pentru seri plăcute pe plajă.",
+  "descriptionEn": "Kohyli Beach Bar is one of Perea’s most popular beachfront destinations, located directly on the shores of the Thermaic Gulf. Featuring comfortable sunbeds on the sand, traditional straw umbrellas, and a laid-back seaside atmosphere, it provides the perfect setting for a relaxing day by the sea. Guests can enjoy quality coffee, refreshing cocktails, premium drinks, beer, ice cream, pizza, salads, snacks and light meals while taking in beautiful sea views and the area's famous sunsets. With its friendly service, stylish beachfront setting, and carefully selected music, Kohyli is an excellent choice for both daytime relaxation and memorable evenings by the water.",
+  "descriptionRo": "Kohyli Beach Bar este unul dintre cele mai populare beach baruri din Perea, situat chiar pe malul Golfului Thermaic. Cu șezlonguri confortabile pe nisip, umbrele din stuf și o atmosferă relaxată, locația oferă cadrul perfect pentru o zi petrecută la mare. Oaspeții se pot bucura de cafea, cocktailuri răcoritoare, băuturi premium, bere, înghețată, pizza, salate, gustări și preparate ușoare, în timp ce admiră priveliștea spectaculoasă asupra mării și apusurile renumite ale zonei. Muzica atent aleasă, serviciile prietenoase și ambianța modernă transformă Kohyli într-o destinație ideală atât pentru relaxare în timpul zilei, cât și pentru seri plăcute pe plajă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/kohyli-beach-bar1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/kohyli-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/kohyli-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/kohyli-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/kohyli-beach-bar4.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/kohyli-beach-bar2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/kohyli-beach-bar3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/kohyli-beach-bar4.webp"
@@ -99,17 +105,100 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/menu4.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kohyli-beach-bar/images/menu5.webp"
   ],
-  "sunbedPrice": "Free ",
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair accessible"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great coffee",
+    "Great service",
+    "Sea view",
+    "Live music"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Drinks"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Ice cream",
+    "Pizza",
+    "Salads",
+    "Snacks",
+    "Small plates"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [
+    "Beach sunbeds",
+    "Beach umbrellas",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Relaxed",
+    "Beachfront"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Booking",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Free",
   "sunbedConsumationIncluded": false,
   "musicStyles": [
-    "chill"
+    "chill",
+    "live_music"
   ],
   "features": [
     "sunbeds",
     "cocktails",
     "sea_view",
+    "sunset_view",
     "family_friendly",
-    "pet_friendly"
+    "pet_friendly",
+    "beachfront",
+    "live_music"
   ],
-  "cuisineTypes": []
+  "cuisineTypes": [
+    "cafe",
+    "snacks",
+    "pizza",
+    "salads"
+  ]
 }
