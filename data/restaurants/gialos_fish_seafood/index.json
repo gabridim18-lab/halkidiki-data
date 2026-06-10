@@ -1,98 +1,187 @@
 {
   "id": "gialos_fish_seafood",
-  "beachSlug": "Nea Krini Beach",
   "zone": "Thessaloniki",
+  "beachSlug": "nea-krini-beach",
   "type": "restaurant",
   "featured": true,
   "titleEn": "Gialos Fish & Seafood",
   "titleRo": "Gialos Fish & Seafood",
-  "address": "40.579583079416544, 22.938501064621956",
-  "displayAddress": "Ν.Πλαστήρα - Μ. Εμβολο - Ν.Α.Ο.Κ, Thessaloniki 551 31, Greece",
+  "displayAddress": "Ν. Πλαστήρα - Μ. Έμβολο - Ν.Α.Ο.Κ, Thessaloniki 551 31, Greece",
+  "gpsCoordinates": "40.579583079416544, 22.938501064621956",
+  "lat": 40.579583079416544,
+  "lon": 22.938501064621956,
   "openingHoursRaw": "Monday\n\t\n\n    Closed\n\n\t\nTuesday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nWednesday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nThursday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nFriday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nSaturday\n\t\n\n    12:30 pm–12:00 am\n\n\t\nSunday\n\t\n\n    12:30 pm–12:00 am",
-
-"openingHours": [
-  {
-    "day": "Monday",
-    "dayRo": "Luni",
-    "closed": true,
-    "labelEn": "Closed",
-    "labelRo": "Închis"
-  },
-  {
-    "day": "Tuesday",
-    "dayRo": "Marți",
-    "closed": false,
-    "open": "12:30",
-    "close": "00:00",
-    "labelEn": "12:30–00:00",
-    "labelRo": "12:30–00:00"
-  },
-  {
-    "day": "Wednesday",
-    "dayRo": "Miercuri",
-    "closed": false,
-    "open": "12:30",
-    "close": "00:00",
-    "labelEn": "12:30–00:00",
-    "labelRo": "12:30–00:00"
-  },
-  {
-    "day": "Thursday",
-    "dayRo": "Joi",
-    "closed": false,
-    "open": "12:30",
-    "close": "00:00",
-    "labelEn": "12:30–00:00",
-    "labelRo": "12:30–00:00"
-  },
-  {
-    "day": "Friday",
-    "dayRo": "Vineri",
-    "closed": false,
-    "open": "12:30",
-    "close": "00:00",
-    "labelEn": "12:30–00:00",
-    "labelRo": "12:30–00:00"
-  },
-  {
-    "day": "Saturday",
-    "dayRo": "Sâmbătă",
-    "closed": false,
-    "open": "12:30",
-    "close": "00:00",
-    "labelEn": "12:30–00:00",
-    "labelRo": "12:30–00:00"
-  },
-  {
-    "day": "Sunday",
-    "dayRo": "Duminică",
-    "closed": false,
-    "open": "12:30",
-    "close": "00:00",
-    "labelEn": "12:30–00:00",
-    "labelRo": "12:30–00:00"
-  }
-],
-
-"hoursEn": "Monday: Closed; Tuesday: 12:30–00:00; Wednesday: 12:30–00:00; Thursday: 12:30–00:00; Friday: 12:30–00:00; Saturday: 12:30–00:00; Sunday: 12:30–00:00",
-
-"hoursRo": "Luni: Închis; Marți: 12:30–00:00; Miercuri: 12:30–00:00; Joi: 12:30–00:00; Vineri: 12:30–00:00; Sâmbătă: 12:30–00:00; Duminică: 12:30–00:00",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    }
+  ],
+  "hoursEn": "Monday: Closed; Tuesday: 12:30–00:00; Wednesday: 12:30–00:00; Thursday: 12:30–00:00; Friday: 12:30–00:00; Saturday: 12:30–00:00; Sunday: 12:30–00:00",
+  "hoursRo": "Luni: Închis; Marți: 12:30–00:00; Miercuri: 12:30–00:00; Joi: 12:30–00:00; Vineri: 12:30–00:00; Sâmbătă: 12:30–00:00; Duminică: 12:30–00:00",
   "website": "http://gialosrestaurant.gr/#katalogos",
-  "facebook": "",
-  "instagram": "",
+  "facebook": "https://www.facebook.com/gialosfishrestaurant/",
+  "instagram": "https://www.instagram.com/gialos_fishrestaurant/",
   "phone": "+302310442121",
   "price": "$$",
   "rating": 4.5,
   "descriptionEn": "Located right by the sea in the beautiful area of Kalamaria, Gialos Fish & Seafood Tavern is one of Thessaloniki’s most loved seafood restaurants. Combining fresh Mediterranean flavors with stunning waterfront views, it offers the perfect setting for a relaxed lunch or a romantic sunset dinner.\n\nThe menu focuses on fresh fish, grilled seafood, traditional Greek meze, crispy calamari, octopus, mussels, and flavorful local recipes prepared with high-quality ingredients. The atmosphere is elegant yet welcoming, with a peaceful seaside vibe that makes every meal feel special.\n\nWhether you want to enjoy authentic Greek seafood, watch the sunset over the Thermaic Gulf, or experience one of the city’s most iconic taverns, Gialos is a fantastic choice for both locals and visitors.",
   "descriptionRo": "Situat chiar pe malul mării, în frumoasa zonă Kalamaria, Gialos Fish & Seafood Tavern este unul dintre cele mai apreciate restaurante cu specific pescăresc din Salonic. Cu preparate mediteraneene proaspete și o priveliște superbă spre mare, restaurantul oferă atmosfera perfectă pentru un prânz relaxant sau o cină romantică la apus.\n\nMeniul este bazat pe pește proaspăt, fructe de mare la grătar, meze tradiționale grecești, calamari crocanți, caracatiță, midii și rețete locale pline de savoare, pregătite din ingrediente de calitate. Atmosfera este elegantă, dar primitoare, iar aerul marin transformă fiecare masă într-o experiență specială.\n\nFie că vrei să încerci preparate autentice grecești, să admiri apusul peste Golful Thermaic sau să descoperi una dintre cele mai cunoscute taverne din oraș, Gialos este o alegere excelentă atât pentru turiști, cât și pentru localnici.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood3.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/gialos_fish_seafood3.webp"
   ],
   "menuImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/menu1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gialos_fish_seafood/images/menu2.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "On-site services"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great dessert",
+    "Great wine list",
+    "Sea view"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Full bar"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy",
+    "Upscale"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments",
+    "Visa",
+    "Mastercard"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs available"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Free off-street parking",
+    "Valet parking",
+    "Validated parking"
+  ],
+  "pets": [
+    "Dogs allowed"
   ],
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
@@ -101,6 +190,13 @@
     "restaurant",
     "parking",
     "sea_view",
+    "sunset_view",
+    "family_friendly",
     "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
   ]
 }
