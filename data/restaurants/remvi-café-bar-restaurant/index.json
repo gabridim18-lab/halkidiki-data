@@ -6,92 +6,96 @@
   "featured": true,
   "titleEn": "Remvi Café Bar Restaurant",
   "titleRo": "Remvi Café Bar Restaurant",
-  "address": "HX94+98 Kalamaria Municipality, Greece",
   "displayAddress": "Kanari 2, Kalamaria 551 32, Greece",
   "gpsCoordinates": "40.56849866877833, 22.95582804367908",
   "lat": 40.56849866877833,
   "lon": 22.95582804367908,
   "openingHoursRaw": "Sunday\n\t\n\n    9:00 am–2:00 am\n\n\t\nMonday\n\t\n\n    9:00 am–2:00 am\n\n\t\nTuesday\n\t\n\n    9:00 am–2:00 am\n\n\t\nWednesday\n\t\n\n    9:00 am–2:00 am\n\n\t\nThursday\n\t\n\n    9:00 am–2:00 am\n\n\t\nFriday\n\t\n\n    9:00 am–4:00 am\n\n\t\nSaturday\n\t\n\n    9:00 am–4:00 am",
-
-"openingHours": [
-  {
-    "day": "Sunday",
-    "dayRo": "Duminică",
-    "closed": false,
-    "open": "09:00",
-    "close": "02:00",
-    "labelEn": "09:00–02:00",
-    "labelRo": "09:00–02:00"
-  },
-  {
-    "day": "Monday",
-    "dayRo": "Luni",
-    "closed": false,
-    "open": "09:00",
-    "close": "02:00",
-    "labelEn": "09:00–02:00",
-    "labelRo": "09:00–02:00"
-  },
-  {
-    "day": "Tuesday",
-    "dayRo": "Marți",
-    "closed": false,
-    "open": "09:00",
-    "close": "02:00",
-    "labelEn": "09:00–02:00",
-    "labelRo": "09:00–02:00"
-  },
-  {
-    "day": "Wednesday",
-    "dayRo": "Miercuri",
-    "closed": false,
-    "open": "09:00",
-    "close": "02:00",
-    "labelEn": "09:00–02:00",
-    "labelRo": "09:00–02:00"
-  },
-  {
-    "day": "Thursday",
-    "dayRo": "Joi",
-    "closed": false,
-    "open": "09:00",
-    "close": "02:00",
-    "labelEn": "09:00–02:00",
-    "labelRo": "09:00–02:00"
-  },
-  {
-    "day": "Friday",
-    "dayRo": "Vineri",
-    "closed": false,
-    "open": "09:00",
-    "close": "04:00",
-    "labelEn": "09:00–04:00",
-    "labelRo": "09:00–04:00"
-  },
-  {
-    "day": "Saturday",
-    "dayRo": "Sâmbătă",
-    "closed": false,
-    "open": "09:00",
-    "close": "04:00",
-    "labelEn": "09:00–04:00",
-    "labelRo": "09:00–04:00"
-  }
-],
-
-"hoursEn": "Sunday: 09:00–02:00; Monday: 09:00–02:00; Tuesday: 09:00–02:00; Wednesday: 09:00–02:00; Thursday: 09:00–02:00; Friday: 09:00–04:00; Saturday: 09:00–04:00",
-
-"hoursRo": "Duminică: 09:00–02:00; Luni: 09:00–02:00; Marți: 09:00–02:00; Miercuri: 09:00–02:00; Joi: 09:00–02:00; Vineri: 09:00–04:00; Sâmbătă: 09:00–04:00",
+  "openingHours": [
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "04:00",
+      "labelEn": "09:00–04:00",
+      "labelRo": "09:00–04:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "04:00",
+      "labelEn": "09:00–04:00",
+      "labelRo": "09:00–04:00"
+    }
+  ],
+  "hoursEn": "Sunday: 09:00–02:00; Monday: 09:00–02:00; Tuesday: 09:00–02:00; Wednesday: 09:00–02:00; Thursday: 09:00–02:00; Friday: 09:00–04:00; Saturday: 09:00–04:00",
+  "hoursRo": "Duminică: 09:00–02:00; Luni: 09:00–02:00; Marți: 09:00–02:00; Miercuri: 09:00–02:00; Joi: 09:00–02:00; Vineri: 09:00–04:00; Sâmbătă: 09:00–04:00",
   "website": "https://remvi-skg.gr/",
   "facebook": "",
   "instagram": "",
   "phone": "+302310433100",
   "price": "$$",
   "rating": 4.4,
-  "descriptionEn": "Contemporary elegance, refined cuisine, and breathtaking sea views\n\nLocated in one of Kalamaria's most desirable waterfront areas, overlooking the beautiful Thermaic Gulf, Remvi Café Bar Restaurant offers a unique combination of stylish dining, premium brunch experiences, and a sophisticated lounge atmosphere.\n\nFrom early morning coffee and freshly prepared brunch dishes to Mediterranean specialties, creative desserts, and expertly crafted cocktails, Remvi provides an all-day culinary experience designed to satisfy every taste. Its modern interior, spacious terraces, and stunning sea views create the perfect setting for relaxing breakfasts, business meetings, family gatherings, romantic dinners, or sunset drinks by the water.\n\nKnown for its welcoming ambiance and attention to detail, Remvi has become one of Kalamaria's favorite destinations for both locals and visitors seeking quality food, exceptional service, and unforgettable views.\n\n✨ Why visit Remvi?\n\n🌊 Spectacular panoramic sea views\n☕ Premium coffee and popular brunch selections\n🍽️ Modern Mediterranean cuisine\n🍸 Signature cocktails, wines, and beverages\n🌅 Elegant atmosphere throughout the day\n⭐ Professional service and contemporary design",
-  "descriptionRo": "Eleganță contemporană, gastronomie rafinată și priveliști spectaculoase asupra mării\n\nSituat într-una dintre cele mai frumoase zone ale Kalamariei, cu vedere panoramică asupra Golfului Thermaic, Remvi Café Bar Restaurant este o destinație apreciată pentru atmosfera sa elegantă, preparatele de calitate și experiența completă pe care o oferă de la primele ore ale dimineții până târziu în seară.\n\nRestaurantul combină armonios conceptul de brunch, restaurant și lounge bar, oferind un meniu variat ce include preparate mediteraneene, brunch-uri generoase, salate proaspete, fructe de mare, deserturi spectaculoase și băuturi atent selecționate. Fie că alegi o cafea aromată la răsărit, un brunch relaxant cu vedere la mare sau o cină într-un decor modern și sofisticat, fiecare vizită la Remvi devine o experiență memorabilă.\n\nInteriorul luminos, terasele elegante și priveliștea impresionantă asupra apei creează cadrul perfect pentru întâlniri de afaceri, ieșiri cu prietenii, cine romantice sau momente de relaxare în timpul vacanței.\n\n✨ De ce să alegi Remvi?\n\n🌊 Priveliște panoramică asupra Golfului Thermaic\n☕ Cafea premium și brunch-uri apreciate\n🍽️ Bucătărie mediteraneană modernă\n🍸 Cocktailuri, vinuri și băuturi atent selecționate\n🌅 Atmosferă elegantă pentru orice moment al zilei\n⭐ Servicii profesioniste și design contemporan",
+  "descriptionEn": "Contemporary elegance, refined cuisine, and breathtaking sea views...",
+  "descriptionRo": "Eleganță contemporană, gastronomie rafinată și priveliști spectaculoase asupra mării...",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant1.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant6.webp"
+  ],
+  "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/remvi-café-bar-restaurant4.webp",
@@ -103,6 +107,85 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/menu2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/menu3.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remvi-café-bar-restaurant/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Live music",
+    "Sea view"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy",
+    "Upscale"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
   ],
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
@@ -120,6 +203,9 @@
     "events"
   ],
   "cuisineTypes": [
-    "international"
+    "international",
+    "mediterranean",
+    "brunch",
+    "cafe"
   ]
 }
