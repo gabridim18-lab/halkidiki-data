@@ -576,5 +576,57 @@
       "Dogs allowed"
     ],
     "accessibility": []
+  },
+  {
+    "id": "mamba-beach-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "neoi-epivates-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Mamba Beach Bar",
+    "titleRo": "Mamba Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mamba-beach-bar/images/mamba-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mamba-beach-bar/images/mamba-beach-bar-hero.webp",
+    "lat": 40.503181194913154,
+    "lon": 22.900159299838478,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Mamba Beach Bar Situat chiar pe malul mării în Nei Epivates, Mamba Beach Bar este locul perfect pentru cei care caută o combinație...",
+    "shortRo": "Mamba Beach Bar Located directly on the beachfront in Nei Epivates, Mamba Beach Bar is the perfect destination for visitors looking to...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Quick bite"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Trendy"
+    ],
+    "parking": [
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": []
   }
 ]
