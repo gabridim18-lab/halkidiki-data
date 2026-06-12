@@ -480,5 +480,53 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "wet-red-rose",
+    "zone": "Thessaloniki",
+    "beachSlug": "neoi-epivates-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Wet Red Rose",
+    "titleRo": "Wet Red Rose",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-red-rose/images/wet-red-rose-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-red-rose/images/wet-red-rose-hero.webp",
+    "lat": 40.503992609590014,
+    "lon": 22.904616980959037,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Wet Red Rose Beach Bar Located directly on the beachfront in Nei Epivates, Wet Red Rose Beach Bar is the perfect destination for...",
+    "shortRo": "Wet Red Rose Beach Bar Situat chiar pe malul mării în Nei Epivates, Wet Red Rose Beach Bar este destinația perfectă pentru cei care...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Quick bite"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Cosy"
+    ],
+    "parking": [
+      "Free parking lot"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": []
   }
 ]
