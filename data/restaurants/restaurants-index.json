@@ -528,5 +528,53 @@
       "Dogs allowed"
     ],
     "accessibility": []
+  },
+  {
+    "id": "carpe-diem-011",
+    "zone": "Thessaloniki",
+    "beachSlug": "neoi-epivates-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Carpe Diem 011",
+    "titleRo": "Carpe Diem 011",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-011-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-011-hero.webp",
+    "lat": 40.50402012654495,
+    "lon": 22.90470720427203,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Carpe Diem 011 Beach Bar Located on the seaside promenade of Nei Epivates, just steps from the beach, Carpe Diem 011 Beach Bar is the...",
+    "shortRo": "Carpe Diem 011 Beach Bar Situat pe promenada din Nei Epivates, chiar lângă mare, Carpe Diem 011 Beach Bar este locul ideal pentru cei...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [],
+    "serviceOptions": [],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": []
   }
 ]

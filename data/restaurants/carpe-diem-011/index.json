@@ -1,0 +1,153 @@
+{
+  "id": "carpe-diem-011",
+  "zone": "Thessaloniki",
+  "beachSlug": "neoi-epivates-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Carpe Diem 011",
+  "titleRo": "Carpe Diem 011",
+  "displayAddress": "P. Kountouriotou 115, Nei Epivates 570 19, Greece",
+  "gpsCoordinates": "40.50402012654495, 22.90470720427203",
+  "lat": 40.50402012654495,
+  "lon": 22.90470720427203,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–12 am\n\n\t\nSaturday\n\t\n\n    9 am–12 am\n\n\t\nSunday\n\t\n\n    9 am–12 am\n\n\t\nMonday\n\t\n\n    9 am–12 am\n\n\t\nTuesday\n\t\n\n    9 am–12 am\n\n\t\nWednesday\n\t\n\n    9 am–12 am\n\n\t\nThursday\n\t\n\n    9 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–00:00; Tuesday: 09:00–00:00; Wednesday: 09:00–00:00; Thursday: 09:00–00:00; Friday: 09:00–00:00; Saturday: 09:00–00:00; Sunday: 09:00–00:00",
+  "hoursRo": "Luni: 09:00–00:00; Marți: 09:00–00:00; Miercuri: 09:00–00:00; Joi: 09:00–00:00; Vineri: 09:00–00:00; Sâmbătă: 09:00–00:00; Duminică: 09:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Carpe Diem 011 Beach Bar\n\nLocated on the seaside promenade of Nei Epivates, just steps from the beach, Carpe Diem 011 Beach Bar is the perfect destination for visitors looking to combine beachfront relaxation with a stylish and modern atmosphere. Featuring comfortable sunbeds, elegant lounge areas, and panoramic views of the Thermaic Gulf, it provides an ideal setting for an unforgettable day by the sea.\n\nGuests can enjoy specialty coffee, creative cocktails, refreshing beverages, and carefully prepared snacks, all served in a Mediterranean-inspired environment. The calm daytime atmosphere gradually evolves into a lively setting, perfect for socializing with friends and enjoying warm summer evenings.\n\nIts contemporary design, direct beach access, and high-quality service make Carpe Diem 011 one of the most attractive beach destinations in Nei Epivates.",
+  "descriptionRo": "Carpe Diem 011 Beach Bar\n\nSituat pe promenada din Nei Epivates, chiar lângă mare, Carpe Diem 011 Beach Bar este locul ideal pentru cei care doresc să combine relaxarea de pe plajă cu o atmosferă modernă și elegantă. Cu șezlonguri confortabile, zone lounge atent amenajate și vedere panoramică asupra Golfului Thermaic, locația oferă cadrul perfect pentru o zi de vacanță petrecută în ritmul mării.\n\nOaspeții se pot bucura de cafea de specialitate, cocktailuri creative, băuturi răcoritoare și gustări pregătite cu atenție, toate servite într-un decor inspirat de stilul mediteranean. Atmosfera relaxată din timpul zilei se transformă treptat într-un ambient vibrant, ideal pentru întâlniri cu prietenii și seri de vară memorabile.\n\nDesignul modern, accesul direct la plajă și serviciile de calitate transformă Carpe Diem 011 într-una dintre cele mai apreciate destinații de pe litoralul din Nei Epivates.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-011-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-011-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-0111.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-0112.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-0113.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-0111.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-0112.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/carpe-diem-0113.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carpe-diem-011/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "1-5Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "sea_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
