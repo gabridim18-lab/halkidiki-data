@@ -1,0 +1,157 @@
+{
+  "id": "akrogiali-fish-tavern",
+  "zone": "Thessaloniki",
+  "beachSlug": "neoi-epivates-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Akrogiali Fish Tavern",
+  "titleRo": "Akrogiali Fish Tavern",
+  "displayAddress": "Nonta Gkelou 1, Ag. Triada 570 19, Greece",
+  "gpsCoordinates": "40.50079782059542, 22.87676358579868",
+  "lat": 40.50079782059542,
+  "lon": 22.87676358579868,
+  "openingHoursRaw": "Saturday\n\t\n\n    11:30 am–10:30 pm\n\n\t\nSunday\n\t\n\n    11:30 am–10:30 pm\n\n\t\nMonday\n\t\n\n    11:30 am–10:30 pm\n\n\t\nTuesday\n\t\n\n    11:30 am–10:30 pm\n\n\t\nWednesday\n\t\n\n    11:30 am–10:30 pm\n\n\t\nThursday\n\t\n\n    11:30 am–10:30 pm\n\n\t\nFriday\n\t\n\n    11:30 am–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:30",
+      "labelEn": "11:30–22:30",
+      "labelRo": "11:30–22:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:30",
+      "labelEn": "11:30–22:30",
+      "labelRo": "11:30–22:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:30",
+      "labelEn": "11:30–22:30",
+      "labelRo": "11:30–22:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:30",
+      "labelEn": "11:30–22:30",
+      "labelRo": "11:30–22:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:30",
+      "labelEn": "11:30–22:30",
+      "labelRo": "11:30–22:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:30",
+      "labelEn": "11:30–22:30",
+      "labelRo": "11:30–22:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:30",
+      "labelEn": "11:30–22:30",
+      "labelRo": "11:30–22:30"
+    }
+  ],
+  "hoursEn": "Monday: 11:30–22:30; Tuesday: 11:30–22:30; Wednesday: 11:30–22:30; Thursday: 11:30–22:30; Friday: 11:30–22:30; Saturday: 11:30–22:30; Sunday: 11:30–22:30",
+  "hoursRo": "Luni: 11:30–22:30; Marți: 11:30–22:30; Miercuri: 11:30–22:30; Joi: 11:30–22:30; Vineri: 11:30–22:30; Sâmbătă: 11:30–22:30; Duminică: 11:30–22:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392051471",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Located directly on the seafront in Agia Triada, Ψαροταβέρνα Ακρογιάλι is one of the area's most beloved traditional fish taverns. With its beautiful waterfront setting, relaxed atmosphere, and stunning views across the Thermaic Gulf, it offers the perfect place to enjoy a leisurely lunch or a memorable sunset dinner. The tavern is renowned for its fresh fish, seafood specialties, grilled dishes, and authentic Greek recipes prepared with quality local ingredients. Friendly service and genuine Greek hospitality make every visit a delightful dining experience by the sea.",
+  "descriptionRo": "Situată chiar pe faleza din Agia Triada, Ψαροταβέρνα Ακρογιάλι este una dintre cele mai apreciate taverne pescărești din zonă. Atmosfera autentic grecească, mesele amplasate lângă mare și priveliștea spectaculoasă asupra Golfului Thermaic creează cadrul perfect pentru un prânz relaxant sau o cină la apus. Restaurantul este cunoscut pentru peștele proaspăt și fructele de mare pregătite după rețete tradiționale, dar și pentru preparatele la grătar, salatele proaspete și ospitalitatea specifică Greciei. Este locul ideal pentru cei care doresc să descopere gusturile autentice ale litoralului grecesc într-un decor elegant și primitor.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}

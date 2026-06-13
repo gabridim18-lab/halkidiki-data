@@ -811,5 +811,55 @@
     ],
     "pets": [],
     "accessibility": []
+  },
+  {
+    "id": "akrogiali-fish-tavern",
+    "zone": "Thessaloniki",
+    "beachSlug": "neoi-epivates-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Akrogiali Fish Tavern",
+    "titleRo": "Akrogiali Fish Tavern",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali-fish-tavern/images/akrogiali-fish-tavern-hero.webp",
+    "lat": 40.50079782059542,
+    "lon": 22.87676358579868,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Located directly on the seafront in Agia Triada, Ψαροταβέρνα Ακρογιάλι is one of the area's most beloved traditional fish taverns....",
+    "shortRo": "Situată chiar pe faleza din Agia Triada, Ψαροταβέρνα Ακρογιάλι este una dintre cele mai apreciate taverne pescărești din zonă....",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Late-night food",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [],
+    "accessibility": []
   }
 ]
