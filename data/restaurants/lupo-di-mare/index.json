@@ -1,0 +1,187 @@
+{
+  "id": "lupo-di-mare",
+  "zone": "Thessaloniki",
+  "beachSlug": "agia-triada-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Lupo di Mare",
+  "titleRo": "Lupo di Mare",
+  "displayAddress": "Oikonomiou 77, Ag. Triada 570 19, Greece",
+  "gpsCoordinates": "40.50078079988903, 22.875480220037137",
+  "lat": 40.50078079988903,
+  "lon": 22.875480220037137,
+  "openingHoursRaw": "Saturday\n\t\n\n    9 am–11:55 pm\n\n\t\nSunday\n\t\n\n    9 am–11:55 pm\n\n\t\nMonday\n\t\n\n    9 am–11:55 pm\n\n\t\nTuesday\n\t\n\n    9 am–11:55 pm\n\n\t\nWednesday\n\t\n\n    9 am–11:55 pm\n\n\t\nThursday\n\t\n\n    9 am–11:55 pm\n\n\t\nFriday\n\t\n\n    9 am–11:55 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:55",
+      "labelEn": "09:00–23:55",
+      "labelRo": "09:00–23:55"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:55",
+      "labelEn": "09:00–23:55",
+      "labelRo": "09:00–23:55"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:55",
+      "labelEn": "09:00–23:55",
+      "labelRo": "09:00–23:55"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:55",
+      "labelEn": "09:00–23:55",
+      "labelRo": "09:00–23:55"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:55",
+      "labelEn": "09:00–23:55",
+      "labelRo": "09:00–23:55"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:55",
+      "labelEn": "09:00–23:55",
+      "labelRo": "09:00–23:55"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:55",
+      "labelEn": "09:00–23:55",
+      "labelRo": "09:00–23:55"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:55; Tuesday: 09:00–23:55; Wednesday: 09:00–23:55; Thursday: 09:00–23:55; Friday: 09:00–23:55; Saturday: 09:00–23:55; Sunday: 09:00–23:55",
+  "hoursRo": "Luni: 09:00–23:55; Marți: 09:00–23:55; Miercuri: 09:00–23:55; Joi: 09:00–23:55; Vineri: 09:00–23:55; Sâmbătă: 09:00–23:55; Duminică: 09:00–23:55",
+  "website": "https://lupodimare-skg.blogspot.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306945859723",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Located directly on the seafront in the heart of Agia Triada, Lupo di Mare Beach Bar & Lounge is the perfect destination for visitors seeking relaxation, stylish surroundings, and breathtaking views over the Thermaic Gulf. Featuring comfortable sunbeds, refreshing cocktails, premium coffee, and delicious food, the venue offers a complete seaside experience, from peaceful mornings by the beach to unforgettable sunset moments.\n\nIts modern design, friendly service, and laid-back atmosphere make every visit special. Whether you're enjoying a chilled cocktail, spending a day under the sun, or sharing an evening with friends by the sea, Lupo di Mare provides the perfect setting for unforgettable memories on the Agia Triada coastline.",
+  "descriptionRo": "Situat chiar pe malul mării, în inima stațiunii Agia Triada, Lupo di Mare Beach Bar & Lounge este locul perfect pentru cei care caută relaxare, atmosferă elegantă și priveliști spectaculoase asupra Golfului Thermaic. Cu șezlonguri confortabile, cocktailuri răcoritoare, cafea excelentă și preparate gustoase, locația oferă o experiență completă de vacanță, de la diminețile liniștite pe plajă până la apusurile romantice deasupra mării.\n\nDesignul modern, serviciile prietenoase și atmosfera relaxată transformă fiecare vizită într-un moment special. Fie că alegi să savurezi un cocktail rece, să te bucuri de o zi la plajă sau să petreci o seară alături de prieteni, Lupo di Mare oferă cadrul ideal pentru amintiri de neuitat pe Riviera din Agia Triada.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great beer selection",
+    "Live music"
+  ],
+  "popularFor": [
+    "Lunch"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

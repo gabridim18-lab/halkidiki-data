@@ -906,5 +906,78 @@
     ],
     "pets": [],
     "accessibility": []
+  },
+  {
+    "id": "lupo-di-mare",
+    "zone": "Thessaloniki",
+    "beachSlug": "agia-triada-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Lupo di Mare",
+    "titleRo": "Lupo di Mare",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lupo-di-mare/images/lupo-di-mare-hero.webp",
+    "lat": 40.50078079988903,
+    "lon": 22.875480220037137,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Located directly on the seafront in the heart of Agia Triada, Lupo di Mare Beach Bar & Lounge is the perfect destination for visitors...",
+    "shortRo": "Situat chiar pe malul mării, în inima stațiunii Agia Triada, Lupo di Mare Beach Bar & Lounge este locul perfect pentru cei care caută...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great dessert",
+      "Great beer selection",
+      "Live music"
+    ],
+    "popularFor": [
+      "Lunch"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Late-night food",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic",
+      "Trendy"
+    ],
+    "parking": [
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible seating"
+    ]
   }
 ]
