@@ -698,5 +698,66 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "somma-beach-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "agia-triada-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Somma Beach Bar",
+    "titleRo": "Somma Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/somma-beach-bar/images/somma-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/somma-beach-bar/images/somma-beach-bar-hero.webp",
+    "lat": 40.50139890648578,
+    "lon": 22.886165429613865,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Somma Beach Bar is one of the most stylish and relaxing beach bars in Agia Triada, located directly on the waterfront just a short...",
+    "shortRo": "Somma Beach Bar este unul dintre cele mai elegante și relaxante beach baruri din Agia Triada, situat chiar pe malul mării, la doar...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great beer selection"
+    ],
+    "popularFor": [],
+    "offerings": [
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Quick bite",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating"
+    ]
   }
 ]
