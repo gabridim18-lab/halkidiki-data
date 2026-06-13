@@ -861,5 +861,50 @@
     ],
     "pets": [],
     "accessibility": []
+  },
+  {
+    "id": "bosporos-greek-cuisine",
+    "zone": "Thessaloniki",
+    "beachSlug": "agia-triada-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Bosporos Greek Cuisine",
+    "titleRo": "Bosporos Greek Cuisine",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine-hero.webp",
+    "lat": 40.500738689377066,
+    "lon": 22.875897269277736,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Bosporos Greek Cuisine is a traditional Greek seaside restaurant located in the heart of Agia Triada. It offers authentic Greek...",
+    "shortRo": "Bosporos Greek Cuisine este o tavernă tradițională grecească situată chiar pe malul mării, în inima stațiunii Agia Triada....",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ],
+    "serviceOptions": [
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [],
+    "accessibility": []
   }
 ]

@@ -1,0 +1,154 @@
+{
+  "id": "bosporos-greek-cuisine",
+  "zone": "Thessaloniki",
+  "beachSlug": "agia-triada-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Bosporos Greek Cuisine",
+  "titleRo": "Bosporos Greek Cuisine",
+  "displayAddress": "Oikonomiou 73, Ag. Triada 570 19, Greece",
+  "gpsCoordinates": "40.500738689377066, 22.875897269277736",
+  "lat": 40.500738689377066,
+  "lon": 22.875897269277736,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–2 am\n\n\t\nSunday\n\t\n\n    10 am–1 am\n\n\t\nMonday\n\t\n\n    10 am–2 am\n\n\t\nTuesday\n\t\n\n    10 am–2 am\n\n\t\nWednesday\n\t\n\n    10 am–2 am\n\n\t\nThursday\n\t\n\n    10 am–2 am\n\n\t\nFriday\n\t\n\n    10 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–02:00; Tuesday: 10:00–02:00; Wednesday: 10:00–02:00; Thursday: 10:00–02:00; Friday: 10:00–02:00; Saturday: 10:00–02:00; Sunday: 10:00–01:00",
+  "hoursRo": "Luni: 10:00–02:00; Marți: 10:00–02:00; Miercuri: 10:00–02:00; Joi: 10:00–02:00; Vineri: 10:00–02:00; Sâmbătă: 10:00–02:00; Duminică: 10:00–01:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/p/%CE%92%CF%8C%CF%83%CF%80%CE%BF%CF%81%CE%BF%CF%82-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE-%CE%9A%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1-61576347707428/",
+  "instagram": "",
+  "phone": "+302392052909",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Bosporos Greek Cuisine is a traditional Greek seaside restaurant located in the heart of Agia Triada. It offers authentic Greek flavors, fresh fish and seafood, grilled meats, traditional salads, and local specialties prepared with care and passion. The relaxing atmosphere, beachfront setting, and stunning views of the Thermaic Gulf create the perfect dining experience. Whether you're enjoying a family meal, a romantic dinner, or a sunset by the sea, Bosporos is an excellent choice for discovering the true taste of Greece.",
+  "descriptionRo": "Bosporos Greek Cuisine este o tavernă tradițională grecească situată chiar pe malul mării, în inima stațiunii Agia Triada. Restaurantul oferă preparate autentice din bucătăria elenă, pește și fructe de mare proaspete, carne la grătar, salate tradiționale și specialități locale pregătite după rețete consacrate. Atmosfera relaxantă, terasa cu vedere la Golful Thermaic și apusurile spectaculoase transformă fiecare masă într-o experiență memorabilă. Este alegerea ideală pentru familii, cupluri și iubitorii gastronomiei grecești autentice.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/bosporos-greek-cuisine3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bosporos-greek-cuisine/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}
