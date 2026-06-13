@@ -1,0 +1,182 @@
+{
+  "id": "gorgona-fish-tavern",
+  "zone": "Thessaloniki",
+  "beachSlug": "neoi-epivates-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Gorgona Fish Tavern",
+  "titleRo": "Gorgona Fish Tavern",
+  "displayAddress": "P. Kountouriotou 171, Nei Epivates 570 19, Greece",
+  "gpsCoordinates": "40.502588023057164, 22.895519930630538",
+  "lat": 40.502588023057164,
+  "lon": 22.895519930630538,
+  "openingHoursRaw": "Saturday\n\t\n\n    12 pm–12 am\n\n\t\nSunday\n\t\n\n    12 pm–12 am\n\n\t\nMonday\n\t\n\n    12 pm–12 am\n\n\t\nTuesday\n\t\n\n    12 pm–12 am\n\n\t\nWednesday\n\t\n\n    12 pm–12 am\n\n\t\nThursday\n\t\n\n    12 pm–12 am\n\n\t\nFriday\n\t\n\n    12 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–00:00; Tuesday: 12:00–00:00; Wednesday: 12:00–00:00; Thursday: 12:00–00:00; Friday: 12:00–00:00; Saturday: 12:00–00:00; Sunday: 12:00–00:00",
+  "hoursRo": "Luni: 12:00–00:00; Marți: 12:00–00:00; Miercuri: 12:00–00:00; Joi: 12:00–00:00; Vineri: 12:00–00:00; Sâmbătă: 12:00–00:00; Duminică: 12:00–00:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/profile.php?id=100063556421624&utm_source=restaurantguru&utm_medium=referral",
+  "instagram": "",
+  "phone": "+302392022479",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Gorgona Fish Tavern\n\nLocated directly by the sea along the beautiful waterfront of Nei Epivates, Gorgona Fish Tavern offers an authentic taste of traditional Greek hospitality and cuisine. With tables set on the sand and stunning views across the Thermaic Gulf, it is an ideal destination for a relaxing lunch or a memorable sunset dinner.\n\nThe tavern is known for its fresh seafood, grilled fish, Greek salads, octopus, mussels, calamari, and a variety of local specialties prepared with traditional recipes and high-quality ingredients. Friendly service and generous portions make every visit enjoyable and welcoming.\n\nWhether you're looking for a family meal, a romantic seaside dinner, or simply a place to enjoy the flavors of Greece after a day at the beach, Gorgona Fish Tavern delivers a genuine Mediterranean dining experience.",
+  "descriptionRo": "Situată chiar pe malul mării, în inima promenadei din Nei Epivates, Gorgona Fish Tavern este locul perfect pentru cei care doresc să descopere gustul autentic al bucătăriei grecești tradiționale. Atmosfera relaxată, mesele amplasate pe nisip și priveliștea superbă asupra Golfului Thermaic creează cadrul ideal pentru un prânz liniștit sau o cină la apus.\n\nRestaurantul este apreciat pentru preparatele sale din pește și fructe de mare proaspete, salatele grecești generoase, caracatița la grătar, midiile, calamarii și specialitățile pregătite după rețete locale. Servirea prietenoasă și porțiile consistente completează experiența autentică de tavernă grecească.\n\nFie că veniți pentru o masă în familie, o cină romantică sau pentru a savura aromele mării după o zi petrecută pe plajă, Gorgona Fish Tavern oferă o experiență culinară memorabilă într-un decor mediteranean autentic.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/gorgona-fish-tavern-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/gorgona-fish-tavern-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/gorgona-fish-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/gorgona-fish-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/gorgona-fish-tavern3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/gorgona-fish-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/gorgona-fish-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/gorgona-fish-tavern3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gorgona-fish-tavern/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Private dining room",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [],
+  "planning": [
+    "Lunch reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}
