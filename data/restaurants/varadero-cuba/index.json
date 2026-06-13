@@ -1,0 +1,157 @@
+{
+  "id": "varadero-cuba",
+  "zone": "Thessaloniki",
+  "beachSlug": "agia-triada-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Varadero Cuba",
+  "titleRo": "Varadero Cuba",
+  "displayAddress": "Theod. Kolokotroni 2, Ag. Triada 570 19, Greece",
+  "gpsCoordinates": "40.50071489205938, 22.878265526950145",
+  "lat": 40.50071489205938,
+  "lon": 22.878265526950145,
+  "openingHoursRaw": "Saturday\n\t\n\n    8 am–9 pm\n\n\t\nSunday\n\t\n\n    8 am–9 pm\n\n\t\nMonday\n\t\n\n    8 am–9 pm\n\n\t\nTuesday\n\t\n\n    8 am–9 pm\n\n\t\nWednesday\n\t\n\n    8 am–9 pm\n\n\t\nThursday\n\t\n\n    8 am–9 pm\n\n\t\nFriday\n\t\n\n    8 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "21:00",
+      "labelEn": "08:00–21:00",
+      "labelRo": "08:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "21:00",
+      "labelEn": "08:00–21:00",
+      "labelRo": "08:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "21:00",
+      "labelEn": "08:00–21:00",
+      "labelRo": "08:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "21:00",
+      "labelEn": "08:00–21:00",
+      "labelRo": "08:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "21:00",
+      "labelEn": "08:00–21:00",
+      "labelRo": "08:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "21:00",
+      "labelEn": "08:00–21:00",
+      "labelRo": "08:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "21:00",
+      "labelEn": "08:00–21:00",
+      "labelRo": "08:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–21:00; Tuesday: 08:00–21:00; Wednesday: 08:00–21:00; Thursday: 08:00–21:00; Friday: 08:00–21:00; Saturday: 08:00–21:00; Sunday: 08:00–21:00",
+  "hoursRo": "Luni: 08:00–21:00; Marți: 08:00–21:00; Miercuri: 08:00–21:00; Joi: 08:00–21:00; Vineri: 08:00–21:00; Sâmbătă: 08:00–21:00; Duminică: 08:00–21:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/p/Varadero-Cuba-beach-bar-61557616321939/",
+  "instagram": "",
+  "phone": "+302392111220",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Varadero Cuba Beach Bar is one of the most relaxing spots on Agia Triada Beach. With sunbeds right by the sea, refreshing cocktails, tasty burgers and a laid-back summer atmosphere, it is the perfect place to spend a day on the Aegean coast. Whether you stop by for an iced coffee, a sunset mojito or a quick snack between swims, Varadero Cuba blends Greek hospitality with a tropical Cuban-inspired beach vibe. 🌴🍹☀️",
+  "descriptionRo": "Varadero Cuba Beach Bar este unul dintre cele mai relaxante locuri de pe plaja din Agia Triada. Cu șezlonguri chiar lângă mare, cocktailuri răcoritoare, burgeri delicioși și muzică de vară, oferă atmosfera perfectă pentru o zi petrecută la malul Mării Egee. Fie că vii pentru o cafea rece dimineața, un mojito la apus sau o gustare între băi de soare, Varadero Cuba combină ospitalitatea grecească cu vibe-ul tropical inspirat de Cuba.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite"
+  ],
+  "diningOptions": [
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "5-10Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}

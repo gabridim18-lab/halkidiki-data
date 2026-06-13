@@ -759,5 +759,57 @@
       "Wheelchair-accessible entrance",
       "Wheelchair-accessible seating"
     ]
+  },
+  {
+    "id": "varadero-cuba",
+    "zone": "Thessaloniki",
+    "beachSlug": "agia-triada-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Varadero Cuba",
+    "titleRo": "Varadero Cuba",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/varadero-cuba/images/varadero-cuba-hero.webp",
+    "lat": 40.50071489205938,
+    "lon": 22.878265526950145,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Varadero Cuba Beach Bar is one of the most relaxing spots on Agia Triada Beach. With sunbeds right by the sea, refreshing cocktails,...",
+    "shortRo": "Varadero Cuba Beach Bar este unul dintre cele mai relaxante locuri de pe plaja din Agia Triada. Cu șezlonguri chiar lângă mare,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Quick bite"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy"
+    ],
+    "parking": [
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [],
+    "accessibility": []
   }
 ]
