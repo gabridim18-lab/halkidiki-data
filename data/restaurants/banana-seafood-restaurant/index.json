@@ -1,0 +1,178 @@
+{
+  "id": "banana-seafood-restaurant",
+  "zone": "Thessaloniki",
+  "beachSlug": "agia-triada-beach",
+  "type": "restaurant",
+  "featured": false,
+  "titleEn": "Banana Seafood Restaurant",
+  "titleRo": "Banana Seafood Restaurant",
+  "displayAddress": "Oikonomiou 79, Ag. Triada 570 19, Greece",
+  "gpsCoordinates": "40.50077616799552, 22.874936749580854",
+  "lat": 40.50077616799552,
+  "lon": 22.874936749580854,
+  "openingHoursRaw": "Monday\n\t\n\n    11 am–8:30 pm\n\n\t\nTuesday\n\t\n\n    11 am–10 pm\n\n\t\nWednesday\n\t\n\n    10 am–9:30 pm\n\n\t\nThursday\n\t\n\n    10 am–10 pm\n\n\t\nFriday\n\t\n\n    10 am–10 pm\n\n\t\nSaturday\n\t\n\n    10 am–10 pm\n\n\t\nSunday\n\t\n\n    10 am–9:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:00",
+      "close": "20:30",
+      "labelEn": "11:00–20:30",
+      "labelRo": "11:00–20:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "11:00",
+      "close": "22:00",
+      "labelEn": "11:00–22:00",
+      "labelRo": "11:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:30",
+      "labelEn": "10:00–21:30",
+      "labelRo": "10:00–21:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:30",
+      "labelEn": "10:00–21:30",
+      "labelRo": "10:00–21:30"
+    }
+  ],
+  "hoursEn": "Monday: 11:00–20:30; Tuesday: 11:00–22:00; Wednesday: 10:00–21:30; Thursday: 10:00–22:00; Friday: 10:00–22:00; Saturday: 10:00–22:00; Sunday: 10:00–21:30",
+  "hoursRo": "Luni: 11:00–20:30; Marți: 11:00–22:00; Miercuri: 10:00–21:30; Joi: 10:00–22:00; Vineri: 10:00–22:00; Sâmbătă: 10:00–22:00; Duminică: 10:00–21:30",
+  "website": "https://bananaseafoodrestaurant.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392052265",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Located directly on the beachfront in Agia Triada, near Thessaloniki, Banana Seafood Restaurant offers an authentic Greek dining experience with breathtaking views over the Thermaic Gulf. Known for its fresh local fish and seafood, the restaurant combines traditional Mediterranean flavors with a relaxed seaside atmosphere, creating the perfect setting for lunch, dinner, or sunset drinks by the sea.\n\nGuests can enjoy specialties such as grilled octopus, calamari, fresh shrimp, mussels, catch-of-the-day fish, and a variety of traditional Greek appetizers, all prepared with high-quality local ingredients. The beachfront terrace and summer sunbeds make Banana a favorite destination for visitors seeking great food and unforgettable sea views.",
+  "descriptionRo": "Situat chiar pe malul mării, în Agia Triada, lângă Salonic, Banana Seafood Restaurant oferă o experiență autentică grecească într-un decor relaxant, cu vedere panoramică asupra Golfului Thermaic. Restaurantul este renumit pentru peștele proaspăt și fructele de mare locale, pregătite după rețete tradiționale mediteraneene și servite într-o atmosferă prietenoasă, la doar câțiva metri de apă.\n\nMeniul include specialități precum caracatiță la grătar, calamari, creveți proaspeți, midii, pește al zilei și numeroase meze grecești, toate completate de vinuri locale și priveliști spectaculoase la apus. Restaurantul dispune de terasă pe plajă și zonă de relaxare cu șezlonguri în sezonul estival.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}

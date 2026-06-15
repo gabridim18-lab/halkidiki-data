@@ -1031,5 +1031,68 @@
     "accessibility": [
       "Wheelchair-accessible entrance"
     ]
+  },
+  {
+    "id": "banana-seafood-restaurant",
+    "zone": "Thessaloniki",
+    "beachSlug": "agia-triada-beach",
+    "type": "restaurant",
+    "featured": false,
+    "titleEn": "Banana Seafood Restaurant",
+    "titleRo": "Banana Seafood Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/banana-seafood-restaurant/images/banana-seafood-restaurant-hero.webp",
+    "lat": 40.50077616799552,
+    "lon": 22.874936749580854,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Located directly on the beachfront in Agia Triada, near Thessaloniki, Banana Seafood Restaurant offers an authentic Greek dining...",
+    "shortRo": "Situat chiar pe malul mării, în Agia Triada, lângă Salonic, Banana Seafood Restaurant oferă o experiență autentică grecească într-un...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Delivery",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Late-night food",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating"
+    ]
   }
 ]
