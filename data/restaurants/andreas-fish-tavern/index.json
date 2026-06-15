@@ -1,0 +1,165 @@
+{
+  "id": "andreas-fish-tavern",
+  "zone": "Thessaloniki",
+  "beachSlug": "agia-triada-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Andreas Fish Tavern",
+  "titleRo": "Andreas Fish Tavern",
+  "displayAddress": "Nonta Gkelou 1, Ag. Triada 570 19, Greece",
+  "gpsCoordinates": "40.50078462505532, 22.876889963013273",
+  "lat": 40.50078462505532,
+  "lon": 22.876889963013273,
+  "openingHoursRaw": "Monday\n\t\n\n    Closed\n\n\t\nTuesday\n\t\n\n    Closed\n\n\t\nWednesday\n\t\n\n    11:30 am–10 pm\n\n\t\nThursday\n\t\n\n    11:30 am–10 pm\n\n\t\nFriday\n\t\n\n    11:30 am–10 pm\n\n\t\nSaturday\n\t\n\n    11:30 am–10 pm\n\n\t\nSunday\n\t\n\n    11:30 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    }
+  ],
+  "hoursEn": "Monday: Closed; Tuesday: Closed; Wednesday: 11:30–22:00; Thursday: 11:30–22:00; Friday: 11:30–22:00; Saturday: 11:30–22:00; Sunday: 11:30–22:00",
+  "hoursRo": "Luni: Închis; Marți: Închis; Miercuri: 11:30–22:00; Joi: 11:30–22:00; Vineri: 11:30–22:00; Sâmbătă: 11:30–22:00; Duminică: 11:30–22:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392051471",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Located directly on the seaside promenade of Agia Triada, just a few steps from the water, Andreas Fish Tavern offers an authentic Greek dining experience in a relaxed and welcoming setting. Known for its fresh seafood and traditional Mediterranean cuisine, the tavern combines quality ingredients, local flavors, and genuine Greek hospitality.\n\nGuests can enjoy freshly grilled fish, octopus, calamari, mussels, and a variety of classic Greek dishes while overlooking the beautiful Thermaic Gulf. Whether you're looking for a leisurely lunch by the sea or a memorable sunset dinner, Andreas Fish Tavern provides the perfect atmosphere to experience the true taste of coastal Greece.",
+  "descriptionRo": "Situată chiar pe promenada din Agia Triada, cu mesele amplasate la doar câțiva pași de mare, Andreas Fish Tavern este una dintre acele taverne tradiționale grecești unde autenticitatea, prospețimea și ospitalitatea locală se întâlnesc într-un cadru relaxant. Restaurantul este renumit pentru peștele și fructele de mare proaspete, preparate după rețete mediteraneene simple, care pun în valoare gustul natural al ingredientelor.\n\nFie că alegi pește la grătar, caracatiță, calamari, midii sau specialități tradiționale grecești, fiecare masă este completată de priveliștea superbă asupra Golfului Thermaic și de atmosfera liniștită a litoralului. Andreas Fish Tavern este locul ideal pentru un prânz relaxant la malul mării sau pentru o cină romantică la apus, în timp ce te bucuri de adevăratele arome ale Greciei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}

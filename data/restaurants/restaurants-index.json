@@ -979,5 +979,57 @@
     "accessibility": [
       "Wheelchair-accessible seating"
     ]
+  },
+  {
+    "id": "andreas-fish-tavern",
+    "zone": "Thessaloniki",
+    "beachSlug": "agia-triada-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Andreas Fish Tavern",
+    "titleRo": "Andreas Fish Tavern",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-fish-tavern/images/andreas-fish-tavern-hero.webp",
+    "lat": 40.50078462505532,
+    "lon": 22.876889963013273,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Located directly on the seaside promenade of Agia Triada, just a few steps from the water, Andreas Fish Tavern offers an authentic...",
+    "shortRo": "Situată chiar pe promenada din Agia Triada, cu mesele amplasate la doar câțiva pași de mare, Andreas Fish Tavern este una dintre acele...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [],
+    "parking": [
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance"
+    ]
   }
 ]
