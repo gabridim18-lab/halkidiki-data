@@ -1,0 +1,159 @@
+{
+  "id": "nema-beach-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "agia-triada-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Nema Beach Bar",
+  "titleRo": "Nema Beach Bar",
+  "displayAddress": "Oikonomiou 127, Thermaikos 570 19, Greece",
+  "gpsCoordinates": "40.50025160966207, 22.86762106883193",
+  "lat": 40.50025160966207,
+  "lon": 22.86762106883193,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–11 pm\n\n\t\nTuesday\n\t\n\n    9 am–11 pm\n\n\t\nWednesday\n\t\n\n    9 am–11 pm\n\n\t\nThursday\n\t\n\n    9 am–11 pm\n\n\t\nFriday\n\t\n\n    9 am–11 pm\n\n\t\nSaturday\n\t\n\n    9 am–11:30 pm\n\n\t\nSunday\n\t\n\n    9 am–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:00; Tuesday: 09:00–23:00; Wednesday: 09:00–23:00; Thursday: 09:00–23:00; Friday: 09:00–23:00; Saturday: 09:00–23:30; Sunday: 09:00–23:30",
+  "hoursRo": "Luni: 09:00–23:00; Marți: 09:00–23:00; Miercuri: 09:00–23:00; Joi: 09:00–23:00; Vineri: 09:00–23:00; Sâmbătă: 09:00–23:30; Duminică: 09:00–23:30",
+  "website": "",
+  "facebook": "https://www.facebook.com/nemabeachbar/?locale=el_GR",
+  "instagram": "",
+  "phone": "+306942842485",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Located directly on the beachfront of Agia Triada in the Thermaikos area, Nema Beach Bar is a popular seaside destination combining beach relaxation, refreshing drinks, and casual dining in a stylish atmosphere. Set on a Blue Flag awarded beach, the venue offers comfortable sunbeds, beautiful views across the Thermaic Gulf, and a laid-back Mediterranean vibe just a short drive from Thessaloniki.\n\nGuests can enjoy coffee, signature cocktails, soft drinks, sandwiches, burgers, salads, pizza, and light meals throughout the day. Whether you're looking for a morning coffee by the sea, a relaxing beach day, or sunset drinks with friends, Nema Beach Bar provides a welcoming setting with friendly service and excellent beachfront views",
+  "descriptionRo": "Situat direct pe plaja din Agia Triada, în zona Thermaikos, Nema Beach Bar este locul ideal pentru cei care caută o combinație între relaxare la malul mării, băuturi răcoritoare și preparate gustoase într-o atmosferă modernă și prietenoasă. Barul beneficiază de acces direct la o plajă distinsă cu Steagul Albastru, oferind șezlonguri confortabile, vedere panoramică asupra Golfului Thermaic și unul dintre cele mai apreciate locuri de relaxare de pe Riviera Thessaloniki.\n\nMeniul include cafea, cocktailuri, băuturi răcoritoare, sandwich-uri, burgeri, salate, pizza și gustări rapide, fiind potrivit atât pentru o zi petrecută la plajă, cât și pentru întâlniri cu prietenii sau seri relaxante la apus. Atmosfera este completată de muzică, servicii prietenoase și o zonă amenajată modern chiar lângă mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Cocktails",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [],
+  "children": [],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "15Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}

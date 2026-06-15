@@ -1094,5 +1094,58 @@
       "Wheelchair-accessible entrance",
       "Wheelchair-accessible seating"
     ]
+  },
+  {
+    "id": "nema-beach-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "agia-triada-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Nema Beach Bar",
+    "titleRo": "Nema Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nema-beach-bar/images/nema-beach-bar-hero.webp",
+    "lat": 40.50025160966207,
+    "lon": 22.86762106883193,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Located directly on the beachfront of Agia Triada in the Thermaikos area, Nema Beach Bar is a popular seaside destination combining...",
+    "shortRo": "Situat direct pe plaja din Agia Triada, în zona Thermaikos, Nema Beach Bar este locul ideal pentru cei care caută o combinație între...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Cocktails",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy"
+    ],
+    "parking": [
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": []
   }
 ]
