@@ -17,67 +17,67 @@
       "dayRo": "Luni",
       "closed": false,
       "open": "09:00",
-      "close": "23:00",
-      "labelEn": "09:00–23:00",
-      "labelRo": "09:00–23:00"
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
     },
     {
       "day": "Tuesday",
       "dayRo": "Marți",
       "closed": false,
       "open": "09:00",
-      "close": "23:00",
-      "labelEn": "09:00–23:00",
-      "labelRo": "09:00–23:00"
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
     },
     {
       "day": "Wednesday",
       "dayRo": "Miercuri",
       "closed": false,
       "open": "09:00",
-      "close": "23:00",
-      "labelEn": "09:00–23:00",
-      "labelRo": "09:00–23:00"
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
     },
     {
       "day": "Thursday",
       "dayRo": "Joi",
       "closed": false,
       "open": "09:00",
-      "close": "23:00",
-      "labelEn": "09:00–23:00",
-      "labelRo": "09:00–23:00"
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
     },
     {
       "day": "Friday",
       "dayRo": "Vineri",
       "closed": false,
       "open": "09:00",
-      "close": "23:00",
-      "labelEn": "09:00–23:00",
-      "labelRo": "09:00–23:00"
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
     },
     {
       "day": "Saturday",
       "dayRo": "Sâmbătă",
       "closed": false,
       "open": "09:00",
-      "close": "23:30",
-      "labelEn": "09:00–23:30",
-      "labelRo": "09:00–23:30"
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
     },
     {
       "day": "Sunday",
       "dayRo": "Duminică",
       "closed": false,
       "open": "09:00",
-      "close": "23:30",
-      "labelEn": "09:00–23:30",
-      "labelRo": "09:00–23:30"
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
     }
   ],
-  "hoursEn": "Monday: 09:00–23:00; Tuesday: 09:00–23:00; Wednesday: 09:00–23:00; Thursday: 09:00–23:00; Friday: 09:00–23:00; Saturday: 09:00–23:30; Sunday: 09:00–23:30",
-  "hoursRo": "Luni: 09:00–23:00; Marți: 09:00–23:00; Miercuri: 09:00–23:00; Joi: 09:00–23:00; Vineri: 09:00–23:00; Sâmbătă: 09:00–23:30; Duminică: 09:00–23:30",
+  "hoursEn": "Monday: 09:00–22:00; Tuesday: 09:00–22:00; Wednesday: 09:00–22:00; Thursday: 09:00–22:00; Friday: 09:00–22:00; Saturday: 09:00–22:00; Sunday: 09:00–22:00",
+  "hoursRo": "Luni: 09:00–22:00; Marți: 09:00–22:00; Miercuri: 09:00–22:00; Joi: 09:00–22:00; Vineri: 09:00–22:00; Sâmbătă: 09:00–22:00; Duminică: 09:00–22:00",
   "website": "",
   "facebook": "https://www.facebook.com/nemabeachbar/?locale=el_GR",
   "instagram": "",
