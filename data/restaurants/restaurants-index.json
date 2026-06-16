@@ -1147,5 +1147,79 @@
       "Dogs allowed"
     ],
     "accessibility": []
+  },
+  {
+    "id": "riviera-beach-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "riviera-virgin-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Riviera Beach Bar",
+    "titleRo": "Riviera Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/riviera-beach-bar/images/riviera-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/riviera-beach-bar/images/riviera-beach-bar-hero.webp",
+    "lat": 40.479854936513355,
+    "lon": 22.81448517465782,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Riviera Beach Bar/Resto is a stylish seaside beach bar located on Touzla Beach, in the Michaniona area, around 30 km from...",
+    "shortRo": "Riviera Beach Bar/Resto este un beach bar elegant și relaxant, situat pe plaja Touzla, în zona Michaniona, la aproximativ 30 km de...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great beer selection",
+      "Live music"
+    ],
+    "popularFor": [
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]
