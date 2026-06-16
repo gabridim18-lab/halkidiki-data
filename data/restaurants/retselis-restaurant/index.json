@@ -1,0 +1,197 @@
+{
+  "id": "retselis-restaurant",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-michaniona-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Retselis Restaurant",
+  "titleRo": "Retselis Restaurant",
+  "displayAddress": "Politechniou 1, Nea Michaniona 570 04, Greece",
+  "gpsCoordinates": "40.46574967267798, 22.856470558165643",
+  "lat": 40.46574967267798,
+  "lon": 22.856470558165643,
+  "openingHoursRaw": "Tuesday\n\t\n\n    Closed\n\n\t\nWednesday\n\t\n\n    12–10 pm\n\n\t\nThursday\n\t\n\n    Closed\n\n\t\nFriday\n\t\n\n    12–10 pm\n\n\t\nSaturday\n\t\n\n    11:30 am–10 pm\n\n\t\nSunday\n\t\n\n    12–10 pm\n\n\t\nMonday\n\t\n\n    12–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "22:00",
+      "labelEn": "12:00–22:00",
+      "labelRo": "12:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "22:00",
+      "labelEn": "12:00–22:00",
+      "labelRo": "12:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "22:00",
+      "labelEn": "12:00–22:00",
+      "labelRo": "12:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:30",
+      "close": "22:00",
+      "labelEn": "11:30–22:00",
+      "labelRo": "11:30–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "22:00",
+      "labelEn": "12:00–22:00",
+      "labelRo": "12:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–22:00; Tuesday: Closed; Wednesday: 12:00–22:00; Thursday: Closed; Friday: 12:00–22:00; Saturday: 11:30–22:00; Sunday: 12:00–22:00",
+  "hoursRo": "Luni: 12:00–22:00; Marți: Închis; Miercuri: 12:00–22:00; Joi: Închis; Vineri: 12:00–22:00; Sâmbătă: 11:30–22:00; Duminică: 12:00–22:00",
+  "website": "http://www.retselis.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392031271",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Located on the seafront of Nea Michaniona, Retselis Restaurant offers an authentic Greek dining experience in an elegant and welcoming setting. Combining traditional Mediterranean flavors with beautiful views of the Thermaic Gulf, it is a popular destination for both locals and visitors.\n\nThe bright dining rooms feature large panoramic windows overlooking the sea, creating a relaxing atmosphere throughout the year. Outdoor areas and garden spaces provide the perfect setting for leisurely lunches, romantic sunset dinners, and special gatherings with family or friends.\n\nThe menu focuses on fresh seafood and classic Greek cuisine, with ingredients sourced daily from local fishermen and regional producers. Guests can enjoy specialties such as lobster, grilled octopus, mussels, fresh fish, seafood pasta, and a variety of traditional Greek appetizers. A carefully selected wine list and homemade desserts complete the dining experience.\n\n✔️ Seafront location\n✔️ Fresh daily seafood\n✔️ Authentic Greek cuisine\n✔️ Family-friendly atmosphere\n✔️ Elegant indoor and outdoor seating\n✔️ Perfect for sunset dining and special occasions",
+  "descriptionRo": "Situat pe malul mării în Nea Michaniona, Retselis Restaurant oferă o experiență gastronomică autentic grecească într-un cadru elegant și relaxant. Restaurantul combină tradiția culinară locală cu priveliști superbe asupra Golfului Thermaic, fiind o alegere apreciată atât de localnici, cât și de turiști.\n\nInteriorul luminos, cu ferestre panoramice orientate spre mare, creează o atmosferă primitoare pe tot parcursul anului, iar terasa și grădina oferă un decor ideal pentru prânzuri liniștite și cine romantice la apus. Spațiile sunt generoase și potrivite atât pentru familii, cât și pentru evenimente private sau întâlniri de grup.\n\nMeniul pune accent pe preparate mediteraneene și fructe de mare proaspete, aduse zilnic de pescarii locali. Printre specialități se regăsesc homar, caracatiță la grătar, midii, pește proaspăt, paste cu fructe de mare și numeroase meze tradiționale grecești. Preparatele sunt completate de vinuri grecești atent selecționate și deserturi clasice.\n\n✔️ Vedere la mare\n✔️ Fructe de mare proaspete\n✔️ Bucătărie grecească autentică\n✔️ Potrivit pentru familii și grupuri\n✔️ Atmosferă elegantă și relaxată\n✔️ Ideal pentru apusuri și cine romantice",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Private dining room",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Lunch reservations recommended",
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly",
+    "events"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

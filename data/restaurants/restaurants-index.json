@@ -1221,5 +1221,81 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "retselis-restaurant",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-michaniona-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Retselis Restaurant",
+    "titleRo": "Retselis Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retselis-restaurant/images/retselis-restaurant-hero.webp",
+    "lat": 40.46574967267798,
+    "lon": 22.856470558165643,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Located on the seafront of Nea Michaniona, Retselis Restaurant offers an authentic Greek dining experience in an elegant and welcoming...",
+    "shortRo": "Situat pe malul mării în Nea Michaniona, Retselis Restaurant oferă o experiență gastronomică autentic grecească într-un cadru elegant...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly",
+      "events"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great dessert",
+      "Great wine list",
+      "Great beer selection"
+    ],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Late-night food",
+      "Private dining room",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]
