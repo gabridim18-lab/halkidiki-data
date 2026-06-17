@@ -1,0 +1,85 @@
+{
+  "id": "porto-mihaniona---provataris",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-michaniona-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Porto Mihaniona - Provataris",
+  "titleRo": "Porto Mihaniona - Provataris",
+  "displayAddress": "Michaniona 570 04, Greece",
+  "gpsCoordinates": "40.46407321735653, 22.857635111078213",
+  "lat": 40.46407321735653,
+  "lon": 22.857635111078213,
+  "openingHoursRaw": "Temporarily closed",
+  "openingHours": [],
+  "hoursEn": "",
+  "hoursRo": "",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392033077",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "",
+  "descriptionRo": "",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/porto-mihaniona---provataris-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/porto-mihaniona---provataris-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/porto-mihaniona---provataris1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/porto-mihaniona---provataris2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/porto-mihaniona---provataris3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/porto-mihaniona---provataris1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/porto-mihaniona---provataris2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/porto-mihaniona---provataris3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-mihaniona---provataris/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
