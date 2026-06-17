@@ -1,0 +1,187 @@
+{
+  "id": "mezedopolio-to-serbeti",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-michaniona-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Mezedopolio To Serbeti",
+  "titleRo": "Mezedopolio To Serbeti",
+  "displayAddress": "Politechniou 59, Nea Michaniona 570 04, Greece",
+  "gpsCoordinates": "40.4633885172478, 22.858826137550523",
+  "lat": 40.4633885172478,
+  "lon": 22.858826137550523,
+  "openingHoursRaw": "Wednesday\n\t\n\n    11 am–11 pm\n\n\t\nThursday\n\t\n\n    11 am–11 pm\n\n\t\nFriday\n\t\n\n    11 am–11:30 pm\n\n\t\nSaturday\n\t\n\n    11 am–11:30 pm\n\n\t\nSunday\n\t\n\n    11 am–11 pm\n\n\t\nMonday\n\t\n\n    11 am–11 pm\n\n\t\nTuesday\n\t\n\n    Closed",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:00",
+      "close": "23:00",
+      "labelEn": "11:00–23:00",
+      "labelRo": "11:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:00",
+      "close": "23:00",
+      "labelEn": "11:00–23:00",
+      "labelRo": "11:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:00",
+      "close": "23:00",
+      "labelEn": "11:00–23:00",
+      "labelRo": "11:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:00",
+      "close": "23:30",
+      "labelEn": "11:00–23:30",
+      "labelRo": "11:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:00",
+      "close": "23:30",
+      "labelEn": "11:00–23:30",
+      "labelRo": "11:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:00",
+      "close": "23:00",
+      "labelEn": "11:00–23:00",
+      "labelRo": "11:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 11:00–23:00; Tuesday: Closed; Wednesday: 11:00–23:00; Thursday: 11:00–23:00; Friday: 11:00–23:30; Saturday: 11:00–23:30; Sunday: 11:00–23:00",
+  "hoursRo": "Luni: 11:00–23:00; Marți: Închis; Miercuri: 11:00–23:00; Joi: 11:00–23:00; Vineri: 11:00–23:30; Sâmbătă: 11:00–23:30; Duminică: 11:00–23:00",
+  "website": "",
+  "facebook": "http://www.facebook.com/pages/category/Local-Service/%CE%9A%CE%B1%CF%86%CE%B5%CE%BD%CE%B5%CE%AF%CE%BF-%CE%A4%CE%BF-%CE%A3%CE%B5%CF%81%CE%BC%CF%80%CE%AD%CF%84%CE%B9--100432731678544/",
+  "instagram": "",
+  "phone": "",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Located at Politechniou 59 in Nea Michaniona, “To Sermpeti” is a traditional Greek meze restaurant known for its welcoming atmosphere, homemade cuisine, and fresh local seafood. Overlooking the Thermaikos Gulf with views toward Mount Olympus, it offers an authentic dining experience featuring fresh fish, mussels, octopus, Greek salads, and a variety of classic Greek meze dishes. Family-owned and operated, the restaurant is celebrated for its generous portions, traditional recipes, and warm Greek hospitality.",
+  "descriptionRo": "Situat pe strada Politechniou 59, în Nea Michaniona, „Το Σερμπέτι” este un mezedopolio tradițional grecesc, apreciat pentru atmosfera sa primitoare, preparatele de casă și peștele proaspăt adus zilnic din Golful Thermaikos. Restaurantul oferă o vedere frumoasă spre mare și spre Muntele Olimp, fiind un loc ideal pentru a savura fructe de mare, pește proaspăt, midii, caracatiță, salate grecești și meze autentice. Afacere de familie, „Το Σερμπέτι” pune accent pe rețete tradiționale, porții generoase și ospitalitate autentică grecească.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/mezedopolio-to-serbeti4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mezedopolio-to-serbeti/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection",
+    "Live music"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Late-night food",
+    "Private dining room",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Lunch reservations recommended",
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids menu"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
