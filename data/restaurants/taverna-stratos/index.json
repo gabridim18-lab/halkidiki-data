@@ -1,0 +1,178 @@
+{
+  "id": "taverna-stratos",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-michaniona-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Taverna Stratos",
+  "titleRo": "Taverna Stratos",
+  "displayAddress": "Εθνικής Αντιστάσεως 3, Michaniona 570 04, Greece",
+  "gpsCoordinates": "40.46400296123398, 22.85857574030148",
+  "lat": 40.46400296123398,
+  "lon": 22.85857574030148,
+  "openingHoursRaw": "Wednesday\n\t\n\n    Closed\n\n\t\nThursday\n\t\n\n    12 am–10:30 pm\n\n\t\nFriday\n\t\n\n    12 am–10:30 pm\n\n\t\nSaturday\n\t\n\n    12 am–10:30 pm\n\n\t\nSunday\n\t\n\n    12 am–10:30 pm\n\n\t\nMonday\n\t\n\n    Closed\n\n\t\nTuesday\n\t\n\n    12 am–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    }
+  ],
+  "hoursEn": "Monday: Closed; Tuesday: 00:00–22:30; Wednesday: Closed; Thursday: 00:00–22:30; Friday: 00:00–22:30; Saturday: 00:00–22:30; Sunday: 00:00–22:30",
+  "hoursRo": "Luni: Închis; Marți: 00:00–22:30; Miercuri: Închis; Joi: 00:00–22:30; Vineri: 00:00–22:30; Sâmbătă: 00:00–22:30; Duminică: 00:00–22:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392033580",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Ταβέρνα Ουζερί «Στράτος» is a well-regarded traditional tavern in Nea Michaniona, located near the town square and the fishing harbor. The restaurant is known for its authentic Greek cuisine, with a strong focus on fresh fish and seafood sourced from the Thermaic Gulf.\n\nThe atmosphere is warm, welcoming, and distinctly Greek, making it suitable for relaxed lunches, family dinners, and gatherings with friends. The menu features grilled fish, calamari, anchovies, sardines, octopus, mussels, traditional salads, and a wide variety of meze dishes that pair perfectly with ouzo or tsipouro.\n\nThe tavern emphasizes fresh ingredients, generous portions, and recipes inspired by local culinary traditions. Visitors frequently praise the excellent value for money and the genuine Greek dining experience offered by the restaurant.\n\nPerfect for:\n\nseafood lovers;\nauthentic Greek dining experiences;\nrelaxed meals in a local setting;\ntasting traditional meze and Greek spirits.",
+  "descriptionRo": "Ταβέρνα Ουζερί «Στράτος» este una dintre tavernele tradiționale apreciate din Nea Michaniona, situată aproape de piața centrală și de zona portului pescăresc. Restaurantul este cunoscut pentru preparatele sale grecești autentice, bazate în special pe pește proaspăt și fructe de mare provenite din Golful Thermaic.\n\nAtmosfera este tipic grecească, relaxată și primitoare, potrivită atât pentru prânzuri liniștite, cât și pentru cine în familie sau cu prietenii. Meniul include o selecție bogată de pește la grătar, calamari, hamsii, sardine, caracatiță, midii, salate tradiționale și diverse meze servite alături de ouzo sau tsipouro.\n\nRestaurantul pune accent pe ingrediente proaspete, porții generoase și preparate realizate după rețete tradiționale locale. Numeroși vizitatori apreciază raportul foarte bun calitate-preț și caracterul autentic al experienței gastronomice oferite aici.\n\nIdeal pentru:\n\niubitorii de pește și fructe de mare;\nexperiențe culinare grecești autentice;\nmese relaxante într-o atmosferă locală;\ndegustarea mezelor tradiționale și a băuturilor specifice Greciei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}

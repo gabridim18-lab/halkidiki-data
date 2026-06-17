@@ -1343,5 +1343,70 @@
     ],
     "pets": [],
     "accessibility": []
+  },
+  {
+    "id": "taverna-stratos",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-michaniona-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Taverna Stratos",
+    "titleRo": "Taverna Stratos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-stratos/images/taverna-stratos-hero.webp",
+    "lat": 40.46400296123398,
+    "lon": 22.85857574030148,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Ταβέρνα Ουζερί «Στράτος» is a well-regarded traditional tavern in Nea Michaniona, located near the town square and the fishing harbor....",
+    "shortRo": "Ταβέρνα Ουζερί «Στράτος» este una dintre tavernele tradiționale apreciate din Nea Michaniona, situată aproape de piața centrală și de...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great wine list",
+      "Great beer selection"
+    ],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Coffee",
+      "Late-night food",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [],
+    "parking": [
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]
