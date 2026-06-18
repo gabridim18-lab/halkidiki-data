@@ -1725,5 +1725,52 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "3-brothers-brews",
+    "zone": "Thessaloniki",
+    "beachSlug": "agistri-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "3 Brothers Brews",
+    "titleRo": "3 Brothers Brews",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews-hero.webp",
+    "lat": 40.40797897838465,
+    "lon": 22.89487750266084,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Located on the seafront of Paralia Epanomi, 3 Brothers Brews is a modern craft brewery and brewpub that blends fresh local beer with a...",
+    "shortRo": "Situat chiar pe malul mării, în Paralia Epanomi, 3 Brothers Brews este un brewpub modern și o microberărie artizanală care combină...",
+    "features": [
+      "cocktails",
+      "parking",
+      "sea_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Private dining room",
+      "Quick bite"
+    ],
+    "amenities": [],
+    "atmosphere": [],
+    "parking": [
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": []
   }
 ]
