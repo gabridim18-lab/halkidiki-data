@@ -1,0 +1,166 @@
+{
+  "id": "tarde-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "agistri-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Tarde Bar",
+  "titleRo": "Tarde Bar",
+  "displayAddress": "Παραλία Επανομής 575 00, Greece",
+  "gpsCoordinates": "40.40863786878947, 22.893401066417518",
+  "lat": 40.40863786878947,
+  "lon": 22.893401066417518,
+  "openingHoursRaw": "Thursday\n\t\n\n    6 pm–2 am\n\n\t\nFriday\n\t\n\n    6 pm–2 am\n\n\t\nSaturday\n\t\n\n    6 pm–2 am\n\n\t\nSunday\n\t\n\n    6 pm–2 am\n\n\t\nMonday\n\t\n\n    6 pm–2 am\n\n\t\nTuesday\n\t\n\n    6 pm–2 am\n\n\t\nWednesday\n\t\n\n    6 pm–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "18:00",
+      "close": "02:00",
+      "labelEn": "18:00–02:00",
+      "labelRo": "18:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "18:00",
+      "close": "02:00",
+      "labelEn": "18:00–02:00",
+      "labelRo": "18:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "18:00",
+      "close": "02:00",
+      "labelEn": "18:00–02:00",
+      "labelRo": "18:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "18:00",
+      "close": "02:00",
+      "labelEn": "18:00–02:00",
+      "labelRo": "18:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "18:00",
+      "close": "02:00",
+      "labelEn": "18:00–02:00",
+      "labelRo": "18:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "18:00",
+      "close": "02:00",
+      "labelEn": "18:00–02:00",
+      "labelRo": "18:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "18:00",
+      "close": "02:00",
+      "labelEn": "18:00–02:00",
+      "labelRo": "18:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 18:00–02:00; Tuesday: 18:00–02:00; Wednesday: 18:00–02:00; Thursday: 18:00–02:00; Friday: 18:00–02:00; Saturday: 18:00–02:00; Sunday: 18:00–02:00",
+  "hoursRo": "Luni: 18:00–02:00; Marți: 18:00–02:00; Miercuri: 18:00–02:00; Joi: 18:00–02:00; Vineri: 18:00–02:00; Sâmbătă: 18:00–02:00; Duminică: 18:00–02:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/tarde.bar",
+  "phone": "+306973236766",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Tarde Bar is one of the newest and most popular seaside venues on Epanomi Beach, located next to the harbor with stunning views across the Thermaic Gulf and, on clear days, Mount Olympus. The venue blends the elegance of a modern cocktail bar with the relaxed atmosphere of a seaside summer escape. Guests can enjoy signature cocktails, carefully selected wines, Italian-style pizzas, fresh pasta dishes and sharing plates, all served in a stylish open-air setting. Sunset is the highlight of the day, while evenings come alive with music, themed events and DJ performances, creating one of the most vibrant nightlife experiences in the Epanomi area.",
+  "descriptionRo": "Tarde Bar este unul dintre cele mai noi și apreciate localuri de pe plaja Epanomi, situat chiar lângă port, cu o priveliște spectaculoasă asupra Golfului Thermaic și a Muntelui Olimp în zilele senine. Atmosfera combină eleganța unui cocktail bar modern cu relaxarea unei seri de vară la malul mării. Localul este cunoscut pentru cocktailurile creative, selecția atentă de vinuri, pizza în stil italian, paste și preparate ideale pentru a fi împărțite cu prietenii. La apus, terasa devine unul dintre cele mai fotografiate locuri din zonă, iar seara atmosfera este completată de muzică, evenimente tematice și DJ set-uri.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge",
+    "party"
+  ],
+  "features": [
+    "cocktails",
+    "sea_view",
+    "sunset_view",
+    "events"
+  ],
+  "cuisineTypes": []
+}

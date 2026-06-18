@@ -1674,5 +1674,56 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "tarde-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "agistri-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Tarde Bar",
+    "titleRo": "Tarde Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tarde-bar/images/tarde-bar-hero.webp",
+    "lat": 40.40863786878947,
+    "lon": 22.893401066417518,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Tarde Bar is one of the newest and most popular seaside venues on Epanomi Beach, located next to the harbor with stunning views across...",
+    "shortRo": "Tarde Bar este unul dintre cele mai noi și apreciate localuri de pe plaja Epanomi, situat chiar lângă port, cu o priveliște...",
+    "features": [
+      "cocktails",
+      "sea_view",
+      "sunset_view",
+      "events"
+    ],
+    "cuisineTypes": [],
+    "serviceOptions": [
+      "Outdoor seating"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]
