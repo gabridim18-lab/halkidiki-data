@@ -1,0 +1,165 @@
+{
+  "id": "nótos",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-michaniona-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Nótos",
+  "titleRo": "Nótos",
+  "displayAddress": "Politechniou 127, Nea Michaniona 570 04, Greece",
+  "gpsCoordinates": "40.4610263019789, 22.860470636593593",
+  "lat": 40.4610263019789,
+  "lon": 22.860470636593593,
+  "openingHoursRaw": "Thursday\n\t\n\n    5 pm–12 am\n\n\t\nFriday\n\t\n\n    5 pm–12 am\n\n\t\nSaturday\n\t\n\n    5 pm–12 am\n\n\t\nSunday\n\t\n\n    10 am–11:30 pm\n\n\t\nMonday\n\t\n\n    5 pm–12 am\n\n\t\nTuesday\n\t\n\n    9 am–5 pm\n\n\t\nWednesday\n\t\n\n    5 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "17:00",
+      "labelEn": "09:00–17:00",
+      "labelRo": "09:00–17:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "17:00",
+      "close": "00:00",
+      "labelEn": "17:00–00:00",
+      "labelRo": "17:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 17:00–00:00; Tuesday: 09:00–17:00; Wednesday: 17:00–00:00; Thursday: 17:00–00:00; Friday: 17:00–00:00; Saturday: 17:00–00:00; Sunday: 10:00–23:30",
+  "hoursRo": "Luni: 17:00–00:00; Marți: 09:00–17:00; Miercuri: 17:00–00:00; Joi: 17:00–00:00; Vineri: 17:00–00:00; Sâmbătă: 17:00–00:00; Duminică: 10:00–23:30",
+  "website": "",
+  "facebook": "https://www.facebook.com/notos.michaniona?_rdr",
+  "instagram": "",
+  "phone": "+302392036740",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Located on the waterfront of Nea Michaniona with beautiful views over the Thermaikos Gulf, Nótos combines the relaxed atmosphere of a seaside café with the quality of a contemporary restaurant. Its stylish terrace and sea-facing setting make it an excellent choice for a casual lunch, a sunset dinner, or a gathering with family and friends.\n\nThe menu features Italian-style pizzas, fresh pasta, gourmet burgers, grilled meats, seafood specialties, colorful salads, and homemade desserts, complemented by a carefully selected range of wines, cocktails, and refreshing beverages. Quality ingredients, generous portions, and modern presentation create a memorable dining experience.\n\nWhether you are enjoying a sunset over the sea, sharing a pizza with friends, or relaxing with a cocktail on the terrace, Nótos offers warm Greek hospitality and a welcoming atmosphere throughout the year.",
+  "descriptionRo": "Situat pe promenada din Nea Michaniona, cu o priveliște superbă asupra Golfului Thermaikos, Nótos oferă o combinație reușită între atmosfera relaxată de cafenea și experiența unui restaurant modern. Cu o terasă elegantă și vedere spre mare, este locul ideal pentru un prânz liniștit, o cină la apus sau o ieșire cu familia și prietenii.\n\nMeniul include pizza preparată în stil italian, paste, burgeri, preparate din carne, salate proaspete, fructe de mare și deserturi, alături de o selecție variată de vinuri, cocktailuri și băuturi răcoritoare. Ingredientele atent alese, porțiile generoase și prezentarea modernă transformă fiecare vizită într-o experiență culinară memorabilă.\n\nFie că alegi să admiri apusul peste mare, să savurezi o pizza autentică sau să petreci o seară relaxantă pe terasă, Nótos te întâmpină cu ospitalitate grecească autentică și o atmosferă primitoare în orice sezon.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean",
+    "international",
+    "pizza"
+  ]
+}

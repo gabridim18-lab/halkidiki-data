@@ -1547,5 +1547,66 @@
       "Wheelchair-accessible entrance",
       "Wheelchair-accessible seating"
     ]
+  },
+  {
+    "id": "nótos",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-michaniona-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Nótos",
+    "titleRo": "Nótos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nótos/images/nótos-hero.webp",
+    "lat": 40.4610263019789,
+    "lon": 22.860470636593593,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Located on the waterfront of Nea Michaniona with beautiful views over the Thermaikos Gulf, Nótos combines the relaxed atmosphere of a...",
+    "shortRo": "Situat pe promenada din Nea Michaniona, cu o priveliște superbă asupra Golfului Thermaikos, Nótos oferă o combinație reușită între...",
+    "features": [
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean",
+      "international",
+      "pizza"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [],
+    "accessibility": []
   }
 ]
