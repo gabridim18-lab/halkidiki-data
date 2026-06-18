@@ -1772,5 +1772,68 @@
       "Dogs allowed"
     ],
     "accessibility": []
+  },
+  {
+    "id": "taverna-tou-psilou",
+    "zone": "Thessaloniki",
+    "beachSlug": "agistri-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Taverna Tou Psilou",
+    "titleRo": "Taverna Tou Psilou",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-tou-psilou/images/taverna-tou-psilou-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-tou-psilou/images/taverna-tou-psilou-hero.webp",
+    "lat": 40.40750897108747,
+    "lon": 22.89580706509529,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Ταβέρνα \"Του Ψηλού\" is a beloved traditional seaside taverna located in Paralia Epanomi, offering an authentic Greek dining experience...",
+    "shortRo": "Ταβέρνα \"Του Ψηλού\" este una dintre tavernele tradiționale apreciate din Paralia Epanomi, situată chiar lângă mare, într-un cadru...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Late-night food",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [],
+    "accessibility": []
   }
 ]
