@@ -1,0 +1,189 @@
+{
+  "id": "nove",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-michaniona-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Nove ",
+  "titleRo": "Nove",
+  "displayAddress": "Politechniou 117, Nea Michaniona 570 04, Greece",
+  "gpsCoordinates": "40.46150660368129, 22.8601533529808",
+  "lat": 40.46150660368129,
+  "lon": 22.8601533529808,
+  "openingHoursRaw": "Wednesday\n\t\n\n    3pm–11:30 pm\n\n\t\nThursday\n\t\n\n    3pm–11:30 pm\n\n\t\nFriday\n\t\n\n    10 am–11:30 pm\n\n\t\nSaturday\n\t\n\n    9 am–11:30 pm\n\n\t\nSunday\n\t\n\n    9 am–11:30 pm\n\n\t\nMonday\n\t\n\n    3pm–11:30 pm\n\n\t\nTuesday\n\t\n\n    3pm–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 15:00–23:30; Tuesday: 15:00–23:30; Wednesday: 15:00–23:30; Thursday: 15:00–23:30; Friday: 10:00–23:30; Saturday: 09:00–23:30; Sunday: 09:00–23:30",
+  "hoursRo": "Luni: 15:00–23:30; Marți: 15:00–23:30; Miercuri: 15:00–23:30; Joi: 15:00–23:30; Vineri: 10:00–23:30; Sâmbătă: 09:00–23:30; Duminică: 09:00–23:30",
+  "website": "",
+  "facebook": "https://www.facebook.com/novemixaniona/",
+  "instagram": "",
+  "phone": "+302392301306",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Located on the waterfront of the Thermaikos Gulf in the charming town of Nea Michaniona, Nove A Quattro offers an elegant dining experience that combines refined Mediterranean cuisine with breathtaking sea views and unforgettable sunsets. The restaurant is known for its contemporary atmosphere, panoramic terrace, and dedication to culinary excellence.\n\nThe menu features fresh seafood, premium fish dishes, handcrafted pasta, creative salads, carefully selected meats, and exquisite desserts, all prepared using high-quality ingredients. A curated wine list showcasing Greek and international labels perfectly complements every meal.\n\nWhether you are enjoying a relaxing lunch by the sea, a romantic sunset dinner, or a gathering with family and friends, Nove A Quattro invites you to experience authentic flavors in a setting inspired by the beauty of the Mediterranean.",
+  "descriptionRo": "Situat pe malul Golfului Thermaikos, în inima localității Nea Michaniona, Nove A Quattro oferă o experiență gastronomică elegantă, combinând preparate mediteraneene rafinate cu priveliști spectaculoase asupra mării și apusurilor de neuitat. Restaurantul se remarcă prin atmosfera sa modernă și relaxată, terasa panoramică și atenția acordată fiecărui detaliu culinar.\n\nMeniul include pește proaspăt, fructe de mare, paste artizanale, salate creative, preparate din carne atent selecționată și deserturi fine, toate pregătite din ingrediente de calitate. Selecția atentă de vinuri grecești și internaționale completează perfect experiența culinară.\n\nFie că alegeți un prânz relaxant cu vedere la mare, o cină romantică la apus sau o întâlnire cu familia și prietenii, Nove A Quattro vă invită să descoperiți gusturi autentice într-un decor inspirat de frumusețea Mediteranei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection",
+    "Live music"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

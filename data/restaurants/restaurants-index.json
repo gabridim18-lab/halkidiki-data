@@ -1477,5 +1477,75 @@
       "Wheelchair-accessible entrance",
       "Wheelchair-accessible seating"
     ]
+  },
+  {
+    "id": "nove",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-michaniona-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Nove ",
+    "titleRo": "Nove",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nove/images/nove-hero.webp",
+    "lat": 40.46150660368129,
+    "lon": 22.8601533529808,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Located on the waterfront of the Thermaikos Gulf in the charming town of Nea Michaniona, Nove A Quattro offers an elegant dining...",
+    "shortRo": "Situat pe malul Golfului Thermaikos, în inima localității Nea Michaniona, Nove A Quattro oferă o experiență gastronomică elegantă,...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great wine list",
+      "Great beer selection",
+      "Live music"
+    ],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Late-night food",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot"
+    ],
+    "pets": [],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating"
+    ]
   }
 ]
