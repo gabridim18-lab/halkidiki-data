@@ -1608,5 +1608,71 @@
     ],
     "pets": [],
     "accessibility": []
+  },
+  {
+    "id": "taverna-pelagos",
+    "zone": "Thessaloniki",
+    "beachSlug": "agistri-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Pelagos Taverna",
+    "titleRo": "Taverna Pelagos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-pelagos/images/taverna-pelagos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-pelagos/images/taverna-pelagos-hero.webp",
+    "lat": 40.409521714906205,
+    "lon": 22.891609585126027,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Located directly by the sea on Epanomi Beach, this traditional Greek fish tavern offers an authentic seaside dining experience with...",
+    "shortRo": "Situată chiar pe malul mării, la plaja Epanomi, această tavernă tradițională oferă o experiență autentică grecească, într-un cadru...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great dessert",
+      "Great beer selection"
+    ],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Private dining room",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]
