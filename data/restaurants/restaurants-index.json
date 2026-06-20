@@ -2189,5 +2189,66 @@
       "Dogs allowed"
     ],
     "accessibility": []
+  },
+  {
+    "id": "baleine-beach",
+    "zone": "Thessaloniki",
+    "beachSlug": "paralia-potami",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Baleine Beach",
+    "titleRo": "Baleine Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach-hero.webp",
+    "lat": 40.38172863484804,
+    "lon": 22.92262292743448,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Baleine Beach Bar is one of the most stylish and contemporary beach destinations on Potamos Beach in Epanomi, offering a relaxed...",
+    "shortRo": "Baleine Beach Bar este una dintre cele mai moderne și elegante destinații de pe plaja Potamos din Epanomi, oferind o atmosferă...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "international"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [
+      "Lunch"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Quick bite",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating"
+    ]
   }
 ]

@@ -1,0 +1,183 @@
+{
+  "id": "baleine-beach",
+  "zone": "Thessaloniki",
+  "beachSlug": "paralia-potami",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Baleine Beach",
+  "titleRo": "Baleine Beach",
+  "displayAddress": "Ποταμός, Epanomi 575 00, Greece",
+  "gpsCoordinates": "40.38172863484804, 22.92262292743448",
+  "lat": 40.38172863484804,
+  "lon": 22.92262292743448,
+  "openingHoursRaw": "Saturday\n\t\n\n    8:30 am–12 am\n\n\t\nSunday\n\t\n\n    9 am–12 am\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:30",
+      "close": "00:00",
+      "labelEn": "08:30–00:00",
+      "labelRo": "08:30–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 08:30–00:00; Sunday: 09:00–00:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 08:30–00:00; Duminică: 09:00–00:00",
+  "website": "http://www.baleine.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306940076500",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Baleine Beach Bar is one of the most stylish and contemporary beach destinations on Potamos Beach in Epanomi, offering a relaxed atmosphere inspired by Mediterranean coastal living. Located directly on the waterfront, the venue combines premium sunbed comfort, quality service, carefully selected music, and beautiful views across the Thermaic Gulf. Guests can enjoy specialty coffee, refreshing cocktails, chilled beverages, and tasty snacks while relaxing beside the crystal-clear waters and sandy shoreline. Throughout the summer season, Baleine becomes a favorite gathering spot for visitors seeking daytime relaxation and a lively sunset ambiance.\n\n☀️ Complimentary sunbeds with minimum consumption.\n\nFacilities:\n\n🏖️ Organized Beach\n🍹 Premium Cocktails & Drinks\n☕ Coffee & Refreshments\n🎵 Lounge Music\n🚿 Showers Available\n🚗 Nearby Parking\n🌅 Stunning Sunset Views\n❤️ Perfect for Couples\n👨‍👩‍👧‍👦 Family Friendly\n👥 Great for Groups",
+  "descriptionRo": "Baleine Beach Bar este una dintre cele mai moderne și elegante destinații de pe plaja Potamos din Epanomi, oferind o atmosferă relaxată într-un decor inspirat de stilul mediteranean. Situat chiar pe malul mării, beach barul combină confortul șezlongurilor premium cu servicii de calitate, muzică atent aleasă și priveliști spectaculoase asupra Golfului Thermaic. Vizitatorii pot savura cafea de specialitate, cocktailuri răcoritoare, băuturi reci și gustări delicioase, în timp ce se bucură de apele limpezi și de nisipul fin al plajei. Pe parcursul verii, Baleine devine un punct de întâlnire popular pentru cei care caută relaxare în timpul zilei și o atmosferă vibrantă la apus.\n\n☀️ Șezlonguri gratuite cu consumație minimă.\n\nFacilități:\n\n🏖️ Plajă organizată\n🍹 Cocktailuri și băuturi premium\n☕ Cafea și răcoritoare\n🎵 Muzică lounge și atmosferă relaxantă\n🚿 Dușuri disponibile\n🚗 Parcare în apropiere\n🌅 Apusuri spectaculoase\n❤️ Ideal pentru cupluri\n👨‍👩‍👧‍👦 Potrivit pentru familii\n👥 Recomandat pentru grupuri de prieteni",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/baleine-beach5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baleine-beach/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "Complimentary sunbeds with minimum consumption.",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "party",
+    "live_music",
+    "dj_sets"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "international"
+  ]
+}
