@@ -2125,5 +2125,69 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "beach-house-by-flamingo",
+    "zone": "Thessaloniki",
+    "beachSlug": "paralia-potami",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Beach House by Flamingo",
+    "titleRo": "Beach House by Flamingo",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo-hero.webp",
+    "lat": 40.381637711372925,
+    "lon": 22.92160489318021,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Beach House by Flamingo is one of the most stylish beach bars on Potamos Beach in Epanomi, combining a relaxing seaside atmosphere...",
+    "shortRo": "Beach House by Flamingo este unul dintre cele mai elegante beach baruri de pe plaja Potamos din Epanomi, oferind o combinație perfectă...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great wine list",
+      "Great beer selection"
+    ],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": []
   }
 ]

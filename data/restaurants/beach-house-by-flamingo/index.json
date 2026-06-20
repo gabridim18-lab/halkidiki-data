@@ -1,0 +1,176 @@
+{
+  "id": "beach-house-by-flamingo",
+  "zone": "Thessaloniki",
+  "beachSlug": "paralia-potami",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Beach House by Flamingo",
+  "titleRo": "Beach House by Flamingo",
+  "displayAddress": "Ποταμός, Epanomi 575 00, Greece",
+  "gpsCoordinates": "40.381637711372925, 22.92160489318021",
+  "lat": 40.381637711372925,
+  "lon": 22.92160489318021,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–7 pm\n\n\t\nSunday\n\t\n\n    10 am–7 pm\n\n\t\nMonday\n\t\n\n    10 am–7 pm\n\n\t\nTuesday\n\t\n\n    10 am–7 pm\n\n\t\nWednesday\n\t\n\n    10 am–7 pm\n\n\t\nThursday\n\t\n\n    10 am–7 pm\n\n\t\nFriday\n\t\n\n    10 am–7 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–19:00; Tuesday: 10:00–19:00; Wednesday: 10:00–19:00; Thursday: 10:00–19:00; Friday: 10:00–19:00; Saturday: 10:00–19:00; Sunday: 10:00–19:00",
+  "hoursRo": "Luni: 10:00–19:00; Marți: 10:00–19:00; Miercuri: 10:00–19:00; Joi: 10:00–19:00; Vineri: 10:00–19:00; Sâmbătă: 10:00–19:00; Duminică: 10:00–19:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/beachhousebyflamingo/",
+  "phone": "+306907105777",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Beach House by Flamingo is one of the most stylish beach bars on Potamos Beach in Epanomi, combining a relaxing seaside atmosphere with the comfort of a modern beach restaurant. Its tropical-inspired design, friendly service, and stunning views over the Thermaic Gulf create the perfect setting for a memorable summer day. The menu features premium coffee, refreshing cocktails, cold beers, burgers, pizzas, and freshly prepared snacks. Guests can relax on comfortable sunbeds right by the sea while enjoying crystal-clear waters and beautiful sunsets. It is an excellent destination for families, couples, and groups of friends looking to spend an entire day by the beach.",
+  "descriptionRo": "Beach House by Flamingo este unul dintre cele mai elegante beach baruri de pe plaja Potamos din Epanomi, oferind o combinație perfectă între relaxarea de pe malul mării și serviciile unui restaurant modern. Decorul tropical, atmosfera prietenoasă și priveliștea spectaculoasă asupra Golfului Thermaic transformă fiecare vizită într-o experiență autentică de vacanță. Meniul include cafea premium, cocktailuri răcoritoare, bere rece, burgeri, pizza și gustări pregătite pe loc. Oaspeții se pot bucura de șezlonguri confortabile direct pe plajă, iar apusurile de soare completează atmosfera relaxată și elegantă. Este alegerea ideală pentru familii, cupluri și grupuri de prieteni care doresc să petreacă o zi întreagă la mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/beach-house-by-flamingo3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-house-by-flamingo/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "15Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "party",
+    "live_music"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
