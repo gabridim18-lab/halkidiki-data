@@ -2055,5 +2055,75 @@
     ],
     "pets": [],
     "accessibility": []
+  },
+  {
+    "id": "carousel-beach-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "paralia-potami",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Carousel Beach Bar",
+    "titleRo": "Carousel Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar-hero.webp",
+    "lat": 40.38153697609544,
+    "lon": 22.91998446081237,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Carousel Beach Bar is one of the most popular beach bars on Potamos Beach in Epanomi, located about 40 km from Thessaloniki. Designed...",
+    "shortRo": "Carousel Beach Bar este unul dintre cele mai populare beach baruri de pe plaja Potamos din Epanomi, situată la aproximativ 40 km de...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "No-contact delivery",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great beer selection",
+      "Live music"
+    ],
+    "popularFor": [
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Romantic",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]

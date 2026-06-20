@@ -1,0 +1,193 @@
+{
+  "id": "carousel-beach-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "paralia-potami",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Carousel Beach Bar",
+  "titleRo": "Carousel Beach Bar",
+  "displayAddress": "Ποταμός, Epanomi 575 00, Greece",
+  "gpsCoordinates": "40.38153697609544, 22.91998446081237",
+  "lat": 40.38153697609544,
+  "lon": 22.91998446081237,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–7 pm\n\n\t\nSunday\n\t\n\n    10 am–7 pm\n\n\t\nMonday\n\t\n\n    10 am–7 pm\n\n\t\nTuesday\n\t\n\n    10 am–7 pm\n\n\t\nWednesday\n\t\n\n    10 am–7 pm\n\n\t\nThursday\n\t\n\n    10 am–7 pm\n\n\t\nFriday\n\t\n\n    10 am–7 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–19:00; Tuesday: 10:00–19:00; Wednesday: 10:00–19:00; Thursday: 10:00–19:00; Friday: 10:00–19:00; Saturday: 10:00–19:00; Sunday: 10:00–19:00",
+  "hoursRo": "Luni: 10:00–19:00; Marți: 10:00–19:00; Miercuri: 10:00–19:00; Joi: 10:00–19:00; Vineri: 10:00–19:00; Sâmbătă: 10:00–19:00; Duminică: 10:00–19:00",
+  "website": "",
+  "facebook": "http://www.facebook.com/CarouselBeach",
+  "instagram": "",
+  "phone": "+306944023940",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Carousel Beach Bar is one of the most popular beach bars on Potamos Beach in Epanomi, located about 40 km from Thessaloniki. Designed in a modern boho-chic style using natural and eco-friendly materials, it offers a relaxing seaside atmosphere where visitors can enjoy sunbeds, refreshing cocktails, coffee, snacks, and seasonal music events. The crystal-clear, shallow waters of Potamos Beach make it an excellent destination for couples, groups of friends, and families with children alike. During sunset, the venue transforms into a vibrant social spot, combining beautiful sea views with music, summer vibes, and beach parties.",
+  "descriptionRo": "Carousel Beach Bar este unul dintre cele mai populare beach baruri de pe plaja Potamos din Epanomi, situată la aproximativ 40 km de Salonic. Amenajat într-un stil boho-chic modern, cu materiale naturale și o atmosferă relaxată, localul oferă combinația perfectă între mare, muzică și relaxare. Vizitatorii se pot bucura de șezlonguri confortabile, cocktailuri răcoritoare, cafea, gustări și evenimente muzicale organizate pe tot parcursul sezonului estival. Apa limpede și puțin adâncă a plajei Potamos îl face potrivit atât pentru cupluri și grupuri de prieteni, cât și pentru familii cu copii. Atmosfera devine mai animată spre seară, când apusurile spectaculoase sunt completate de muzică și petreceri pe plajă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/carousel-beach-bar6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/carousel-beach-bar/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Live music"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Sunbeds available free of charge with consumption.",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "party",
+    "live_music",
+    "dj_sets"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
