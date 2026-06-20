@@ -1,0 +1,128 @@
+{
+  "id": "golden-beach",
+  "zone": "Thessaloniki",
+  "beachSlug": "agistri-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Golden Beach",
+  "titleRo": "Golden Beach",
+  "displayAddress": "Όρμος, Paralia Epanomis 575 00, Greece",
+  "gpsCoordinates": "40.404933065376525, 22.89837374223136",
+  "lat": 40.404933065376525,
+  "lon": 22.89837374223136,
+  "openingHoursRaw": "Saturday\n\t\n\n    9:30 am–9 pm\n\n\t\nSunday\n\t\n\n    9:30 am–9 pm\n\n\t\nMonday\n\t\n\n    9:30 am–9 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–9 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–9 pm\n\n\t\nThursday\n\t\n\n    9:30 am–9 pm\n\n\t\nFriday\n\t\n\n    9:30 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–21:00; Tuesday: 09:30–21:00; Wednesday: 09:30–21:00; Thursday: 09:30–21:00; Friday: 09:30–21:00; Saturday: 09:30–21:00; Sunday: 09:30–21:00",
+  "hoursRo": "Luni: 09:30–21:00; Marți: 09:30–21:00; Miercuri: 09:30–21:00; Joi: 09:30–21:00; Vineri: 09:30–21:00; Sâmbătă: 09:30–21:00; Duminică: 09:30–21:00",
+  "website": "https://digital-cards.gr/golden-beach",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306948943132",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Located directly on the waterfront of Epanomi Bay, Golden Beach is a relaxed beach bar known for its friendly atmosphere, beautiful views of the Thermaic Gulf, and direct beach access. Visitors can enjoy refreshing drinks, coffee, cocktails, light snacks, and casual meals while relaxing on sunbeds just steps from the sea. The natural setting, calm environment, and stunning sunsets make it a perfect destination for a carefree summer day by the water.",
+  "descriptionRo": "Situat chiar pe malul mării în Golful Epanomi, Golden Beach este un beach bar relaxat, apreciat pentru atmosfera sa prietenoasă, priveliștea superbă asupra Golfului Thermaic și accesul direct la plajă. Oaspeții se pot bucura de băuturi răcoritoare, cafea, cocktailuri, gustări rapide și preparate ușoare într-un decor natural, cu șezlonguri și umbrele amplasate lângă apă. Este locul ideal pentru o zi liniștită la plajă, admirând apusurile spectaculoase și briza mării.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [],
+  "parking": [],
+  "pets": [],
+  "sunbedPrice": "10Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

@@ -1979,5 +1979,33 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "golden-beach",
+    "zone": "Thessaloniki",
+    "beachSlug": "agistri-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Golden Beach",
+    "titleRo": "Golden Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach-hero.webp",
+    "lat": 40.404933065376525,
+    "lon": 22.89837374223136,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Located directly on the waterfront of Epanomi Bay, Golden Beach is a relaxed beach bar known for its friendly atmosphere, beautiful...",
+    "shortRo": "Situat chiar pe malul mării în Golful Epanomi, Golden Beach este un beach bar relaxat, apreciat pentru atmosfera sa prietenoasă,...",
+    "features": [],
+    "cuisineTypes": [],
+    "serviceOptions": [],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [],
+    "amenities": [],
+    "atmosphere": [],
+    "parking": [],
+    "pets": [],
+    "accessibility": []
   }
 ]
