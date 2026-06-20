@@ -1,0 +1,180 @@
+{
+  "id": "to-dihti-tavern",
+  "zone": "Thessaloniki",
+  "beachSlug": "agistri-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "To Dihti Tavern",
+  "titleRo": "To Dihti Tavern",
+  "displayAddress": "Παραλία Επανομής 575 00, Greece",
+  "gpsCoordinates": "40.40714331834708, 22.896503834650034",
+  "lat": 40.40714331834708,
+  "lon": 22.896503834650034,
+  "openingHoursRaw": "Saturday\n\t\n\n    1–10 pm\n\n\t\nSunday\n\t\n\n    1–10 pm\n\n\t\nMonday\n\t\n\n    1–10 pm\n\n\t\nTuesday\n\t\n\n    Closed\n\n\t\nWednesday\n\t\n\n    1–10 pm\n\n\t\nThursday\n\t\n\n    1–10 pm\n\n\t\nFriday\n\t\n\n    1–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–22:00; Tuesday: Closed; Wednesday: 13:00–22:00; Thursday: 13:00–22:00; Friday: 13:00–22:00; Saturday: 13:00–22:00; Sunday: 13:00–22:00",
+  "hoursRo": "Luni: 13:00–22:00; Marți: Închis; Miercuri: 13:00–22:00; Joi: 13:00–22:00; Vineri: 13:00–22:00; Sâmbătă: 13:00–22:00; Duminică: 13:00–22:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392044324",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Located directly on the waterfront in Paralia Epanomi, To Dihti Tavern is a traditional Greek fish tavern known for its fresh seafood, authentic flavors, and beautiful seaside setting. With tables overlooking the Thermaic Gulf, guests can enjoy a genuine Greek dining experience while tasting freshly grilled fish, calamari, shrimp, sardines, and classic Greek salads prepared with local ingredients. The restaurant is frequently praised for its quality seafood, friendly service, and relaxed coastal atmosphere.\n\nWhether you're looking for a leisurely lunch by the sea or a sunset dinner with traditional Greek flavors, To Dihti Tavern offers an authentic taste of coastal Greece in one of Epanomi's most charming locations.",
+  "descriptionRo": "Situată chiar pe malul mării, în Paralia Epanomi, To Dihti Tavern este o tavernă tradițională grecească renumită pentru preparatele sale din pește și fructe de mare proaspete. Atmosfera autentică, mesele amplasate la câțiva pași de apă și priveliștea spectaculoasă asupra Golfului Thermaic transformă fiecare masă într-o experiență tipic mediteraneană. Restaurantul este apreciat pentru peștele proaspăt la grătar, calamarii, creveții, sardinele și salatele grecești pregătite după rețete locale. Vizitatorii evidențiază calitatea ingredientelor, serviciul prietenos și atmosfera relaxată de pe litoral.\n\nFie că alegi un prânz în familie sau o cină la apus, această tavernă oferă una dintre cele mai autentice experiențe culinare din zona Epanomi, într-un decor simplu, tradițional și foarte aproape de mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

@@ -1835,5 +1835,75 @@
     ],
     "pets": [],
     "accessibility": []
+  },
+  {
+    "id": "to-dihti-tavern",
+    "zone": "Thessaloniki",
+    "beachSlug": "agistri-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "To Dihti Tavern",
+    "titleRo": "To Dihti Tavern",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-dihti-tavern/images/to-dihti-tavern-hero.webp",
+    "lat": 40.40714331834708,
+    "lon": 22.896503834650034,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Located directly on the waterfront in Paralia Epanomi, To Dihti Tavern is a traditional Greek fish tavern known for its fresh seafood,...",
+    "shortRo": "Situată chiar pe malul mării, în Paralia Epanomi, To Dihti Tavern este o tavernă tradițională grecească renumită pentru preparatele...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great wine list",
+      "Great beer selection"
+    ],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]
