@@ -1,0 +1,190 @@
+{
+  "id": "makis-fresh-fish",
+  "zone": "Thessaloniki",
+  "beachSlug": "agistri-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Makis Fresh Fish",
+  "titleRo": "Makis Fresh Fish",
+  "displayAddress": "Παραλια επανομης, Paralia Epanomis 575 00, Greece",
+  "gpsCoordinates": "40.406748543078095, 22.897026070831306",
+  "lat": 40.406748543078095,
+  "lon": 22.897026070831306,
+  "openingHoursRaw": "Saturday\n\t\n\n    1 pm–12 am\n\n\t\nSunday\n\t\n\n    1 pm–12 am\n\n\t\nMonday\n\t\n\n    1 pm–12 am\n\n\t\nTuesday\n\t\n\n    1 pm–12 am\n\n\t\nWednesday\n\t\n\n    1 pm–12 am\n\n\t\nThursday\n\t\n\n    1 pm–12 am\n\n\t\nFriday\n\t\n\n    1 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–00:00; Tuesday: 13:00–00:00; Wednesday: 13:00–00:00; Thursday: 13:00–00:00; Friday: 13:00–00:00; Saturday: 13:00–00:00; Sunday: 13:00–00:00",
+  "hoursRo": "Luni: 13:00–00:00; Marți: 13:00–00:00; Miercuri: 13:00–00:00; Joi: 13:00–00:00; Vineri: 13:00–00:00; Sâmbătă: 13:00–00:00; Duminică: 13:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392041041",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Located directly on the waterfront in Paralia Epanomi, MAKIS FRESH FISH is one of the area's most popular seafood restaurants. It offers an authentic Greek dining experience, combining freshly caught fish, premium seafood, and traditional Mediterranean recipes in a relaxed seaside setting overlooking the Thermaic Gulf.\n\nThe menu focuses on the freshest daily catch, grilled octopus, shrimp, calamari, lobster, seafood risotto, and a variety of Greek specialties prepared with locally sourced ingredients. Guests can enjoy breathtaking sunsets, warm hospitality, and the genuine atmosphere of a traditional Greek fish tavern. The restaurant operates year-round and is recognized for its quality seafood and generous portions.\n\nPerfect for seafood lovers, families, and couples seeking a memorable meal by the sea, MAKIS FRESH FISH delivers an authentic taste of coastal Greece in one of Epanomi's most scenic locations.",
+  "descriptionRo": "Situat chiar pe malul mării în Paralia Epanomi, MAKIS FRESH FISH este unul dintre cele mai apreciate restaurante cu specific pescăresc din zonă. Restaurantul oferă o experiență autentică grecească, combinând pește proaspăt, fructe de mare atent selecționate și preparate tradiționale mediteraneene servite într-un decor relaxant, cu vedere directă către Golful Thermaic.\n\nMeniul pune accent pe capturile proaspete ale zilei, caracatiță la grătar, creveți, calamari, homari, risotto cu fructe de mare și specialități locale pregătite după rețete grecești autentice. Atmosfera este completată de apusurile spectaculoase de la malul apei și de ospitalitatea tradițională grecească. Restaurantul rămâne deschis pe tot parcursul anului și este cunoscut pentru calitatea ingredientelor și porțiile generoase.\n\nIdeal pentru familii, cupluri și iubitorii de fructe de mare, MAKIS FRESH FISH oferă una dintre cele mai frumoase experiențe culinare din Paralia Epanomi, unde gustul autentic al mării se întâlnește cu peisajele spectaculoase ale coastei grecești.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/makis-fresh-fish-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/makis-fresh-fish-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/makis-fresh-fish1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/makis-fresh-fish2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/makis-fresh-fish3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/makis-fresh-fish1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/makis-fresh-fish2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/makis-fresh-fish3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/makis-fresh-fish/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Live music"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [],
+  "planning": [
+    "Lunch reservations recommended",
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
