@@ -1,0 +1,157 @@
+{
+  "id": "melissa-seaside-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "paralia-potami",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Melissa Seaside Bar",
+  "titleRo": "Melissa Seaside Bar",
+  "displayAddress": "Ποταμός Επανομής, Epanomi 575 00, Greece",
+  "gpsCoordinates": "40.38142776340784, 22.918664673436442",
+  "lat": 40.38142776340784,
+  "lon": 22.918664673436442,
+  "openingHoursRaw": "Saturday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nSunday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nMonday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nThursday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nFriday\n\t\n\n    9:30 am–8:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–20:30; Tuesday: 09:30–20:30; Wednesday: 09:30–20:30; Thursday: 09:30–20:30; Friday: 09:30–20:30; Saturday: 09:30–20:30; Sunday: 09:30–20:30",
+  "hoursRo": "Luni: 09:30–20:30; Marți: 09:30–20:30; Miercuri: 09:30–20:30; Joi: 09:30–20:30; Vineri: 09:30–20:30; Sâmbătă: 09:30–20:30; Duminică: 09:30–20:30",
+  "website": "https://www.melissabar.eu/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306972218338",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Melissa Seaside Bar is one of the most stylish and popular beachfront destinations at Potamos Epanomis, combining seaside relaxation, Mediterranean cuisine, and refreshing cocktails in a stunning coastal setting. Located directly on the sandy beach, the venue features comfortable sunbeds, premium umbrellas, and panoramic views over the Thermaic Gulf, creating the perfect atmosphere for a full day by the sea.\n\nThe menu offers a selection of Greek and Mediterranean specialties, fresh salads, burgers, seafood dishes, beach snacks, and an extensive range of drinks, cocktails, and wines. Whether you're enjoying a relaxing day under the sun, having lunch with a sea view, or watching the sunset with a chilled cocktail in hand, Melissa Seaside Bar delivers a modern and unforgettable beach experience for visitors of all ages.",
+  "descriptionRo": "Melissa Seaside Bar este una dintre cele mai elegante și apreciate destinații de pe plaja Potamos Epanomis, oferind combinația perfectă dintre relaxare la malul mării, gastronomie mediteraneană și cocktailuri răcoritoare. Situat direct pe nisip, cu șezlonguri confortabile, umbrele premium și vedere panoramică asupra Golfului Thermaic, localul creează atmosfera ideală pentru o zi completă de vacanță.\n\nMeniul include preparate inspirate din bucătăria grecească și mediteraneană, salate proaspete, burgeri, fructe de mare, gustări pentru plajă și o selecție variată de băuturi, cocktailuri și vinuri. Fie că alegi să te relaxezi pe șezlong, să savurezi un prânz cu vedere la mare sau să admiri apusul alături de un cocktail rece, Melissa Seaside Bar oferă o experiență modernă și memorabilă pentru toate vârstele.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/melissa-seaside-bar4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/melissa-seaside-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "Free sunbeds (consumption required)",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge",
+    "party"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": []
+}
