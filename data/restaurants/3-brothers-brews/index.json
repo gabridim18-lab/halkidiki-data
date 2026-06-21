@@ -88,10 +88,25 @@
   "descriptionRo": "Situat chiar pe malul mării, în Paralia Epanomi, 3 Brothers Brews este un brewpub modern și o microberărie artizanală care combină berea craft proaspătă cu o atmosferă relaxată de vacanță. Localul dispune de beer garden, terasă exterioară și tasting room, oferind o selecție variată de beri produse local, servite direct de la draft pentru prospețime maximă. Este locul ideal pentru a admira apusul peste Golful Thermaic, savurând o bere artizanală și preparate inspirate din bucătăria internațională. Atmosfera prietenoasă, evenimentele tematice și locația lângă port transformă această destinație într-un punct de atracție pentru iubitorii de bere și turiștii care explorează zona Halkidiki și Thessaloniki.",
   "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews-hero.webp",
   "images": [
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews-hero.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews5.webp"
   ],
-  "galleryImages": [],
-  "menuImages": [],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/3-brothers-brews5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-brothers-brews/images/menu3.webp"
+  ],
   "googleBusinessRaw": "",
   "accessibility": [],
   "serviceOptions": [
