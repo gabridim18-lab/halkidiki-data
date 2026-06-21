@@ -149,6 +149,7 @@ class App(tk.Tk):
         self.var_size = tk.StringVar(value="60")
         self.var_view = tk.StringVar(value="Garden view")
         self.var_bedrooms = tk.StringVar(value="2")
+        self.var_bathrooms = tk.StringVar(value="1")
 
         self.var_owner_id = tk.StringVar()
         self.var_owner_code = tk.StringVar()
@@ -213,6 +214,8 @@ class App(tk.Tk):
         ttk.Entry(facts, textvariable=self.var_size, width=6).pack(side="left", padx=(6,12))
         ttk.Label(facts, text="Bedrooms").pack(side="left")
         ttk.Entry(facts, textvariable=self.var_bedrooms, width=6).pack(side="left", padx=(6,12))
+        ttk.Label(facts, text="Bathrooms").pack(side="left")
+        ttk.Entry(facts, textvariable=self.var_bathrooms, width=6).pack(side="left", padx=(6,12))
         row("Quick facts", facts, 10)
 
         row("View", ttk.Entry(form, textvariable=self.var_view), 11)
@@ -428,7 +431,7 @@ class App(tk.Tk):
             "sizeSqm": parse_int(self.var_size.get(), 0),
             "view": self.var_view.get().strip(),
             "bedrooms": parse_int(self.var_bedrooms.get(), 0),
-
+            "bathrooms": parse_int(self.var_bathrooms.get(), 0),
             "petFriendly": bool(self.var_pet.get()),
             "pool": bool(self.var_pool.get()),
             "wifi": bool(self.var_wifi.get()),
@@ -508,6 +511,10 @@ class App(tk.Tk):
 
             "bedrooms": parse_int(
                 self.var_bedrooms.get(),
+                0
+            ),
+            "bathrooms": parse_int(
+                self.var_bathrooms.get(),
                 0
             )
         }
