@@ -1000,5 +1000,19 @@
     "guests": 8,
     "bedrooms": 2,
     "bathrooms": 2
+  },
+  {
+    "id": "ostria_sea_view_maisonette_in_perea",
+    "zone": "Thessaloniki",
+    "beachSlug": "perea-beach",
+    "titleEn": "Ostria Sea View Maisonette in Perea",
+    "titleRo": "Ostria Sea View Maisonette in Perea",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/ostria_sea_view_maisonette_in_perea/images/ostria_sea_view_maisonette_in_perea.webp",
+    "category": "perfect_for_groups",
+    "rating": 10.0,
+    "featured": false,
+    "guests": 12,
+    "bedrooms": 2,
+    "bathrooms": 1
   }
 ]
