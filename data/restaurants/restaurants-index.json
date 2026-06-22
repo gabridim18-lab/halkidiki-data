@@ -2379,5 +2379,74 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "fish-tavern-fanari",
+    "zone": "Thessaloniki",
+    "beachSlug": "paralia-potami",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Fish Tavern FANARI",
+    "titleRo": "Fish Tavern FANARI",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fish-tavern-fanari/images/fish-tavern-fanari-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fish-tavern-fanari/images/fish-tavern-fanari-hero.webp",
+    "lat": 40.38224663543943,
+    "lon": 22.924492048907275,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "🍽️ Fish Tavern FANARI is a traditional Greek seaside tavern located on the waterfront of Potamos Beach in Epanomi. Known for its fresh...",
+    "shortRo": "🍽️ Fish Tavern FANARI este o tavernă tradițională grecească situată chiar pe malul mării, în zona Potamos din Epanomi. Cunoscută...",
+    "features": [
+      "restaurant",
+      "parking",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great beer selection"
+    ],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Late-night food",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]
