@@ -84,8 +84,9 @@
   "phone": "+306937456552",
   "price": "$$",
   "rating": 4.7,
-  "descriptionEn": "",
-  "descriptionRo": "",
+  "descriptionEn": "Retzíkas is one of the most renowned seaside fish taverns in the Potamos area of Epanomi, offering an authentic Greek dining experience in a beautiful beachfront setting. Part of the Akti Retzika complex, the restaurant focuses on fresh ingredients sourced from local producers and daily-caught fish supplied by local fishermen. Guests can enjoy fresh seafood, traditional Greek specialties, Mediterranean flavors, and family recipes that reflect the culinary heritage of the region. With its relaxed atmosphere, sea-view terrace, and warm Greek hospitality, Retzíkas is an excellent choice for a memorable lunch or dinner by the sea. Whether you're looking for freshly grilled fish, seafood delicacies, or classic Greek meze, every dish is prepared with care and respect for local traditions.",
+
+"descriptionRo": "Retzíkas este una dintre cele mai cunoscute taverne pescărești din zona Potamos – Epanomi, oferind o experiență autentică a gastronomiei grecești într-un decor superb chiar pe malul mării. Parte a complexului Akti Retzika, restaurantul pune accent pe ingrediente proaspete provenite de la producători locali și pește adus zilnic de pescarii din zonă. Oaspeții se pot bucura de fructe de mare proaspete, specialități tradiționale grecești, arome mediteraneene și rețete de familie care reflectă patrimoniul culinar al regiunii. Atmosfera relaxată, terasa cu vedere la mare și ospitalitatea autentică grecească transformă fiecare masă într-o experiență memorabilă. Fie că alegi pește la grătar, delicatese din fructe de mare sau meze tradiționale, fiecare preparat este pregătit cu grijă și respect pentru tradițiile locale.",
   "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas-hero.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas-hero.webp",
