@@ -2448,5 +2448,61 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "retzíkas",
+    "zone": "Thessaloniki",
+    "beachSlug": "paralia-potami",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Retzíkas",
+    "titleRo": "Retzíkas",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas-hero.webp",
+    "lat": 40.38209901953574,
+    "lon": 22.927104688312042,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "",
+    "shortRo": "",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]

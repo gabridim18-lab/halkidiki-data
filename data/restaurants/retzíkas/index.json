@@ -1,0 +1,173 @@
+{
+  "id": "retzíkas",
+  "zone": "Thessaloniki",
+  "beachSlug": "paralia-potami",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Retzíkas",
+  "titleRo": "Retzíkas",
+  "displayAddress": "ΠΟΤΑΜΟΣ, Epanomi 575 00, Greece",
+  "gpsCoordinates": "40.38209901953574, 22.927104688312042",
+  "lat": 40.38209901953574,
+  "lon": 22.927104688312042,
+  "openingHoursRaw": "Monday\n\t\n\n    1–9 pm\n\n\t\nTuesday\n\t\n\n    1–9 pm\n\n\t\nWednesday\n\t\n\n    1–7 pm\n\n\t\nThursday\n\t\n\n    1–9 pm\n\n\t\nFriday\n\t\n\n    1–9 pm\n\n\t\nSaturday\n\t\n\n    1–9 pm\n\n\t\nSunday\n\t\n\n    1–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "21:00",
+      "labelEn": "13:00–21:00",
+      "labelRo": "13:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "21:00",
+      "labelEn": "13:00–21:00",
+      "labelRo": "13:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "19:00",
+      "labelEn": "13:00–19:00",
+      "labelRo": "13:00–19:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "21:00",
+      "labelEn": "13:00–21:00",
+      "labelRo": "13:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "21:00",
+      "labelEn": "13:00–21:00",
+      "labelRo": "13:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "21:00",
+      "labelEn": "13:00–21:00",
+      "labelRo": "13:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "21:00",
+      "labelEn": "13:00–21:00",
+      "labelRo": "13:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–21:00; Tuesday: 13:00–21:00; Wednesday: 13:00–19:00; Thursday: 13:00–21:00; Friday: 13:00–21:00; Saturday: 13:00–21:00; Sunday: 13:00–21:00",
+  "hoursRo": "Luni: 13:00–21:00; Marți: 13:00–21:00; Miercuri: 13:00–19:00; Joi: 13:00–21:00; Vineri: 13:00–21:00; Sâmbătă: 13:00–21:00; Duminică: 13:00–21:00",
+  "website": "https://aktiretzika.sala.gr/reserve",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306937456552",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "",
+  "descriptionRo": "",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/retzíkas6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/retzíkas/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
