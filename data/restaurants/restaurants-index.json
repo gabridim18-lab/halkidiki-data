@@ -2250,5 +2250,66 @@
       "Wheelchair-accessible entrance",
       "Wheelchair-accessible seating"
     ]
+  },
+  {
+    "id": "hacienda-beach",
+    "zone": "Thessaloniki",
+    "beachSlug": "paralia-potami",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Hacienda Beach",
+    "titleRo": "Hacienda Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach-hero.webp",
+    "lat": 40.381672407686864,
+    "lon": 22.92357676270747,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Hacienda Beach Bar is one of the most popular beachside destinations on Potamos Beach in Epanomi, known for its relaxed atmosphere,...",
+    "shortRo": "Hacienda Beach Bar este una dintre cele mai apreciate locații de pe plaja Potamos din Epanomi, renumită pentru atmosfera sa relaxată,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "international"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great beer selection"
+    ],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance"
+    ]
   }
 ]

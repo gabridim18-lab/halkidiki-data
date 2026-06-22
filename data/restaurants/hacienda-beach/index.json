@@ -1,0 +1,176 @@
+{
+  "id": "hacienda-beach",
+  "zone": "Thessaloniki",
+  "beachSlug": "paralia-potami",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Hacienda Beach",
+  "titleRo": "Hacienda Beach",
+  "displayAddress": "Ποταμός, Epanomi 575 00, Greece",
+  "gpsCoordinates": "40.381672407686864, 22.92357676270747",
+  "lat": 40.381672407686864,
+  "lon": 22.92357676270747,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "https://sites.google.com/view/hacienda-beach-bar",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306906065988",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Hacienda Beach Bar is one of the most popular beachside destinations on Potamos Beach in Epanomi, known for its relaxed atmosphere, excellent service, and prime waterfront location. Featuring a modern Mediterranean-inspired design, it provides the perfect setting for a carefree summer day by the sea. Guests can unwind on comfortable sunbeds while enjoying refreshing cocktails, quality coffee, and a variety of light meals and snacks. The clear, shallow waters make it an ideal choice for families with children, couples, and groups of friends alike. As the sun begins to set, Hacienda transforms into a lively seaside spot where visitors can enjoy the stunning views across the Thermaic Gulf.\n\n☀️ Complimentary sunbeds with minimum consumption.\n\nFacilities:\n\n🏖️ Organized Beach\n🍹 Premium Cocktails & Drinks\n☕ Coffee & Refreshments\n🍽️ Light Meals & Snacks\n🚿 Showers Available\n🚗 Nearby Parking\n🌅 Beautiful Sunset Views\n👨‍👩‍👧‍👦 Family Friendly\n❤️ Perfect for Couples\n👥 Great for Groups",
+  "descriptionRo": "Hacienda Beach Bar este una dintre cele mai apreciate locații de pe plaja Potamos din Epanomi, renumită pentru atmosfera sa relaxată, serviciile excelente și poziționarea direct pe malul mării. Decorul modern, influențat de stilul mediteranean, creează cadrul perfect pentru o zi de vacanță petrecută la soare. Vizitatorii se pot bucura de șezlonguri confortabile, cocktailuri răcoritoare, cafea de calitate și o selecție variată de gustări și preparate ușoare. Apele limpezi și puțin adânci ale plajei fac locația potrivită atât pentru familii cu copii, cât și pentru cupluri sau grupuri de prieteni. Spre seară, atmosfera devine mai animată, oferind un loc ideal pentru a admira apusurile spectaculoase ale Golfului Thermaic.\n\n☀️ Șezlonguri gratuite cu consumație minimă.\n\nFacilități:\n\n🏖️ Plajă organizată\n🍹 Cocktailuri și băuturi premium\n☕ Cafea și răcoritoare\n🍽️ Gustări și preparate ușoare\n🚿 Dușuri disponibile\n🚗 Parcare în apropiere\n🌅 Vedere superbă la apus\n👨‍👩‍👧‍👦 Potrivit pentru familii\n❤️ Ideal pentru cupluri\n👥 Recomandat pentru grupuri",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/hacienda-beach4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hacienda-beach/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Complimentary sunbeds with minimum consumption",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "party"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "international"
+  ]
+}
