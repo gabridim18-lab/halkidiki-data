@@ -2311,5 +2311,73 @@
     "accessibility": [
       "Wheelchair-accessible entrance"
     ]
+  },
+  {
+    "id": "valtos-beach-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "paralia-potami",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Valtos Beach Bar",
+    "titleRo": "Valtos Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar-hero.webp",
+    "lat": 40.38158170832117,
+    "lon": 22.92485658519267,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "VALTOS Beach Bar is a welcoming and modern beachfront destination located on Potamos Beach in Epanomi, offering the perfect blend of...",
+    "shortRo": "VALTOS Beach Bar este o destinație modernă și primitoare situată pe frumoasa plajă Potamos din Epanomi, oferind combinația ideală...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "mediterranean",
+      "international"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Delivery",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great beer selection"
+    ],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]

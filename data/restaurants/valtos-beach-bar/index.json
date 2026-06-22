@@ -1,0 +1,179 @@
+{
+  "id": "valtos-beach-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "paralia-potami",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Valtos Beach Bar",
+  "titleRo": "Valtos Beach Bar",
+  "displayAddress": "Ποταμός Επανομής, Epanomi 575 00, Greece",
+  "gpsCoordinates": "40.38158170832117, 22.92485658519267",
+  "lat": 40.38158170832117,
+  "lon": 22.92485658519267,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–8 pm\n\n\t\nTuesday\n\t\n\n    9 am–8 pm\n\n\t\nWednesday\n\t\n\n    9 am–8 pm\n\n\t\nThursday\n\t\n\n    9 am–8 pm\n\n\t\nFriday\n\t\n\n    9 am–8 pm\n\n\t\nSaturday\n\t\n\n    9 am–8 pm\n\n\t\nSunday\n\t\n\n    9 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–20:00; Tuesday: 09:00–20:00; Wednesday: 09:00–20:00; Thursday: 09:00–20:00; Friday: 09:00–20:00; Saturday: 09:00–20:00; Sunday: 09:00–20:00",
+  "hoursRo": "Luni: 09:00–20:00; Marți: 09:00–20:00; Miercuri: 09:00–20:00; Joi: 09:00–20:00; Vineri: 09:00–20:00; Sâmbătă: 09:00–20:00; Duminică: 09:00–20:00",
+  "website": "http://valtosbeachbar.blogspot.gr/?m=1",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302392045234",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "VALTOS Beach Bar is a welcoming and modern beachfront destination located on Potamos Beach in Epanomi, offering the perfect blend of relaxation, comfort, and authentic Greek seaside charm. With sunbeds set directly by the sea, friendly service, and a wide selection of drinks and snacks, VALTOS is an excellent place to spend an entire day on the beach. The crystal-clear, shallow waters of the Thermaic Gulf are ideal for swimming and family-friendly activities, while relaxing music creates the perfect holiday atmosphere. In the evening, guests can enjoy breathtaking sunsets and the peaceful coastal ambiance that makes Potamos Beach so special.\n\n☀️ Complimentary sunbeds with minimum consumption.\n\nFacilities:\n\n🏖️ Organized Beach\n☕ Coffee & Refreshments\n🍹 Cocktails & Drinks\n🍔 Snacks & Light Meals\n🚿 Showers Available\n🚗 Nearby Parking\n🌅 Beautiful Sunset Views\n👨‍👩‍👧‍👦 Family Friendly\n❤️ Perfect for Couples\n👥 Great for Groups\n\nCategory: 🌿 Escape & Relax | 👨‍👩‍👧‍👦 Family Friendly",
+  "descriptionRo": "VALTOS Beach Bar este o destinație modernă și primitoare situată pe frumoasa plajă Potamos din Epanomi, oferind combinația ideală dintre relaxare, confort și atmosfera autentică a litoralului grecesc. Cu șezlonguri amplasate chiar lângă mare, servicii prietenoase și o selecție variată de băuturi și gustări, VALTOS este locul perfect pentru a petrece o zi întreagă la plajă. Apele limpezi și puțin adânci ale Golfului Thermaic sunt ideale pentru înot și activități de familie, iar muzica relaxantă completează experiența de vacanță. Spre seară, vizitatorii se pot bucura de apusuri spectaculoase și de atmosfera liniștită specifică zonei Potamos.\n\n☀️ Șezlonguri gratuite cu consumație minimă.\n\nFacilități:\n\n🏖️ Plajă organizată\n☕ Cafea și băuturi răcoritoare\n🍹 Cocktailuri și băuturi alcoolice\n🍔 Gustări și preparate rapide\n🚿 Dușuri disponibile\n🚗 Parcare în apropiere\n🌅 Vedere excelentă la apus\n👨‍👩‍👧‍👦 Potrivit pentru familii\n❤️ Ideal pentru cupluri\n👥 Recomandat pentru grupuri\n\nCategorie: 🌿 Escape & Relax | 👨‍👩‍👧‍👦 Family Friendly",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/valtos-beach-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/valtos-beach-bar/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Complimentary sunbeds with minimum consumption.",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "mediterranean",
+    "international"
+  ]
+}
