@@ -1,0 +1,172 @@
+{
+  "id": "athos",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-iraklia-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Athos ",
+  "titleRo": "Athos",
+  "displayAddress": "Nea Propontida 630 80, Greece",
+  "gpsCoordinates": "40.34997654158634, 23.0072879210813",
+  "lat": 40.34997654158634,
+  "lon": 23.0072879210813,
+  "openingHoursRaw": "Tuesday\n\t\n\n    12–8 pm\n\n\t\nWednesday\n\t\n\n    12–8 pm\n\n\t\nThursday\n\t\n\n    12–8 pm\n\n\t\nFriday\n\t\n\n    12–8 pm\n\n\t\nSaturday\n\t\n\n    12–8 pm\n\n\t\nSunday\n\t\n\n    12–8 pm\n\n\t\nMonday\n\t\n\n    Closed",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "20:00",
+      "labelEn": "12:00–20:00",
+      "labelRo": "12:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "20:00",
+      "labelEn": "12:00–20:00",
+      "labelRo": "12:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "20:00",
+      "labelEn": "12:00–20:00",
+      "labelRo": "12:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "20:00",
+      "labelEn": "12:00–20:00",
+      "labelRo": "12:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "20:00",
+      "labelEn": "12:00–20:00",
+      "labelRo": "12:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "20:00",
+      "labelEn": "12:00–20:00",
+      "labelRo": "12:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: Closed; Tuesday: 12:00–20:00; Wednesday: 12:00–20:00; Thursday: 12:00–20:00; Friday: 12:00–20:00; Saturday: 12:00–20:00; Sunday: 12:00–20:00",
+  "hoursRo": "Luni: Închis; Marți: 12:00–20:00; Miercuri: 12:00–20:00; Joi: 12:00–20:00; Vineri: 12:00–20:00; Sâmbătă: 12:00–20:00; Duminică: 12:00–20:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/Athos.thegreekbistro/",
+  "instagram": "",
+  "phone": "+302399062444",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Athos Restaurant – Authentic Greek Flavors by the Sea\n\nLocated in the heart of Nea Propontida, Athos Restaurant invites you to experience the true taste of Greece in a warm and welcoming atmosphere. Inspired by the rich culinary traditions of the Aegean Sea, our menu features fresh seafood, grilled specialties, premium meats, and carefully selected local ingredients.\n\nFrom tender grilled octopus and crispy calamari to flavorful mussels, shrimp dishes, and seafood specialties, every plate is prepared with passion and respect for authentic Greek cuisine. Meat lovers can enjoy juicy burgers, traditional souvlaki, grilled chicken fillet, and premium beef cuts cooked to perfection.\n\nWhether you are looking for a relaxed lunch, a romantic dinner, or a memorable gathering with family and friends, Athos Restaurant offers an authentic dining experience enhanced by genuine Greek hospitality and the beautiful atmosphere of Halkidiki.\n\nTaste the spirit of Greece in every bite! 🇬🇷✨",
+  "descriptionRo": "Athos Restaurant – Gust autentic grecesc la malul mării\n\nSituat în inima localității Nea Propontida, Restaurantul Athos vă invită să descoperiți savoarea autentică a bucătăriei grecești într-o atmosferă relaxată și primitoare. Inspirat de bogățiile Mării Egee și de tradițiile gastronomice locale, meniul nostru reunește fructe de mare proaspete, preparate la grătar, specialități din pește și carne atent selecționată.\n\nDe la caracatiță și calamari pregătiți după rețete tradiționale, până la midii aromate, creveți și preparate rafinate cu fructe de mare, fiecare farfurie este pregătită cu pasiune și respect pentru ingredientele locale. Pentru iubitorii preparatelor din carne, oferim burgeri suculenți, souvlaki, file de pui și specialități de vită pregătite perfect.\n\nFie că vă opriți pentru un prânz relaxant, o cină romantică sau o întâlnire cu familia și prietenii, Athos Restaurant vă oferă o experiență culinară autentică, completată de ospitalitatea grecească și de farmecul litoralului din Halkidiki.\n\nSavurați Grecia în fiecare farfurie!",
+  "heroImage": "",
+  "images": [],
+  "galleryImages": [],
+  "menuImages": [],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Lunch reservations recommended",
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

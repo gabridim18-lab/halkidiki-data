@@ -2504,5 +2504,78 @@
       "Dogs allowed"
     ],
     "accessibility": []
+  },
+  {
+    "id": "athos",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-iraklia-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Athos ",
+    "titleRo": "Athos",
+    "image": "",
+    "heroImage": "",
+    "lat": 40.34997654158634,
+    "lon": 23.0072879210813,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Athos Restaurant – Authentic Greek Flavors by the Sea Located in the heart of Nea Propontida, Athos Restaurant invites you to...",
+    "shortRo": "Athos Restaurant – Gust autentic grecesc la malul mării Situat în inima localității Nea Propontida, Restaurantul Athos vă invită să...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great dessert",
+      "Great wine list",
+      "Great beer selection"
+    ],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic",
+      "Trendy"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance"
+    ]
   }
 ]
