@@ -2577,5 +2577,69 @@
     "accessibility": [
       "Wheelchair-accessible entrance"
     ]
+  },
+  {
+    "id": "mastiha-grill-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-iraklia-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Mastiha Grill Bar",
+    "titleRo": "Mastiha Grill Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar-hero.webp",
+    "lat": 40.340633686586365,
+    "lon": 23.017038477857398,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Mastiha Grill Bar – Authentic Greek Flavors by the Sea Nestled in the beautiful coastal village of Nea Irakleia, Halkidiki, Mastiha...",
+    "shortRo": "Mastiha Grill Bar – Gustul autentic al Greciei, la câțiva pași de mare Situat în pitoreasca localitate Nea Irakleia din Halkidiki,...",
+    "features": [
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "events"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great beer selection"
+    ],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Late-night food",
+      "Quick bite",
+      "Small plates",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Trendy"
+    ],
+    "parking": [
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [],
+    "accessibility": []
   }
 ]

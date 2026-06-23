@@ -1,0 +1,180 @@
+{
+  "id": "mastiha-grill-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-iraklia-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Mastiha Grill Bar",
+  "titleRo": "Mastiha Grill Bar",
+  "displayAddress": "82R8+6RF, Nea Irakleia 630 80, Greece",
+  "gpsCoordinates": "40.340633686586365, 23.017038477857398",
+  "lat": 40.340633686586365,
+  "lon": 23.017038477857398,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–1 am\n\n\t\nWednesday\n\t\n\n    9 am–1 am\n\n\t\nThursday\n\t\n\n    9 am–1 am\n\n\t\nFriday\n\t\n\n    9 am–1 am\n\n\t\nSaturday\n\t\n\n    9 am–1 am\n\n\t\nSunday\n\t\n\n    9 am–1 am\n\n\t\nMonday\n\t\n\n    9 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–01:00; Tuesday: 09:00–01:00; Wednesday: 09:00–01:00; Thursday: 09:00–01:00; Friday: 09:00–01:00; Saturday: 09:00–01:00; Sunday: 09:00–01:00",
+  "hoursRo": "Luni: 09:00–01:00; Marți: 09:00–01:00; Miercuri: 09:00–01:00; Joi: 09:00–01:00; Vineri: 09:00–01:00; Sâmbătă: 09:00–01:00; Duminică: 09:00–01:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/mastiha_grill_bar/",
+  "phone": "+306984411640",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Mastiha Grill Bar – Authentic Greek Flavors by the Sea\n\nNestled in the beautiful coastal village of Nea Irakleia, Halkidiki, Mastiha Grill Bar offers a true taste of Greece in a warm and welcoming setting. Combining traditional recipes with fresh local ingredients, we create dishes that celebrate the rich flavors of the Mediterranean.\n\nOur menu features fresh seafood, premium grilled meats, and beloved Greek specialties, including octopus, calamari, mussels, shrimp, souvlaki, and handcrafted burgers. Every dish is prepared with care and passion, bringing together quality, freshness, and authentic Greek culinary traditions.\n\nWhether you're enjoying a leisurely lunch after the beach, a romantic sunset dinner, or a memorable evening with family and friends, Mastiha Grill Bar promises an unforgettable dining experience filled with genuine Greek hospitality.\n\nDiscover the flavors of the Mediterranean and enjoy the spirit of Greece in every bite. 🇬🇷✨",
+  "descriptionRo": "Mastiha Grill Bar – Gustul autentic al Greciei, la câțiva pași de mare\n\nSituat în pitoreasca localitate Nea Irakleia din Halkidiki, Mastiha Grill Bar este locul unde tradiția grecească întâlnește ospitalitatea mediteraneană. Într-o atmosferă relaxată și primitoare, vă invităm să descoperiți preparate pregătite cu grijă, ingrediente proaspete și rețete inspirate din bucătăria locală.\n\nMeniul nostru combină fructe de mare proaspete, specialități la grătar și preparate tradiționale grecești, de la caracatiță și calamari la midii, creveți, souvlaki și burgeri suculenți. Fiecare preparat este gătit cu pasiune pentru a oferi o experiență autentică și memorabilă.\n\nFie că veniți pentru un prânz relaxant după plajă, o cină romantică la apus sau o seară petrecută alături de familie și prieteni, Mastiha Grill Bar vă oferă combinația perfectă dintre gust, atmosferă și ospitalitate grecească.\n\nSavurați aromele Mediteranei și creați amintiri de neuitat în inima Halkidikiului.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/mastiha-grill-bar4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mastiha-grill-bar/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "party"
+  ],
+  "features": [
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "events"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
