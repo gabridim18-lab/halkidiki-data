@@ -2511,12 +2511,12 @@
     "beachSlug": "nea-iraklia-beach",
     "type": "restaurant",
     "featured": true,
-    "titleEn": "Athos ",
+    "titleEn": "Athos",
     "titleRo": "Athos",
-    "image": "",
-    "heroImage": "",
-    "lat": 40.34997654158634,
-    "lon": 23.0072879210813,
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/athos/images/athos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/athos/images/athos-hero.webp",
+    "lat": 40.34982934178976,
+    "lon": 23.00726992624568,
     "rating": 4.6,
     "price": "$$",
     "shortEn": "Athos Restaurant – Authentic Greek Flavors by the Sea Located in the heart of Nea Propontida, Athos Restaurant invites you to...",
@@ -2525,6 +2525,7 @@
       "restaurant",
       "parking",
       "sea_view",
+      "sunset_view",
       "pet_friendly"
     ],
     "cuisineTypes": [
@@ -2540,8 +2541,6 @@
       "Dine-in"
     ],
     "highlights": [
-      "Great dessert",
-      "Great wine list",
       "Great beer selection"
     ],
     "popularFor": [
@@ -2554,29 +2553,24 @@
       "Beer",
       "Coffee",
       "Cocktails",
+      "Quick bite",
       "Small plates",
-      "Spirits",
       "Wine"
     ],
     "amenities": [],
     "atmosphere": [
       "Casual",
       "Cosy",
-      "Quiet",
       "Romantic",
       "Trendy"
     ],
     "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
       "Plenty of parking"
     ],
     "pets": [
       "Dogs allowed"
     ],
-    "accessibility": [
-      "Wheelchair-accessible entrance"
-    ]
+    "accessibility": []
   },
   {
     "id": "mastiha-grill-bar",
