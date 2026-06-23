@@ -2457,5 +2457,52 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "ouzeri-agkyrovoli",
+    "zone": "Thessaloniki",
+    "beachSlug": "paralia-potami",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Ouzeri Agkyrovoli",
+    "titleRo": "Ouzeri Agkyrovoli",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzeri-agkyrovoli/images/ouzeri-agkyrovoli-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzeri-agkyrovoli/images/ouzeri-agkyrovoli-hero.webp",
+    "lat": 40.381549170258516,
+    "lon": 22.929984846929706,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "🍽️ Ouzeri Agkyrovoli is a traditional Greek seafood tavern located in Potamos, Epanomi, renowned for its fresh fish and authentic...",
+    "shortRo": "🍽️ Ouzeri Agkyrovoli este o tavernă tradițională situată în Potamos, Epanomi, apreciată pentru peștele proaspăt și fructele de mare...",
+    "features": [],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [],
+    "popularFor": [],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": []
   }
 ]
