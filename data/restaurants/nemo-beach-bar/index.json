@@ -1,0 +1,176 @@
+{
+  "id": "nemo-beach-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "sahara-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Nemo Beach Bar",
+  "titleRo": "Nemo Beach Bar",
+  "displayAddress": "Θεσσαλονικης 0, Nea Kallikratia 630 80, Greece",
+  "gpsCoordinates": "40.32133359931548, 23.03388448519023",
+  "lat": 40.32133359931548,
+  "lon": 23.03388448519023,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/barbooni2020beach",
+  "instagram": "",
+  "phone": "+306970520583",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "NEMO BEACH BAR – Where the Sea Meets Sophistication\n\nLocated on the beautiful beachfront of Nea Kallikratia, NEMO BEACH BAR offers the perfect blend of relaxation, elegant surroundings, and exceptional hospitality. Whether you're looking for a peaceful morning by the sea, a refreshing afternoon drink, or a romantic evening overlooking the Aegean, Nemo creates the ideal setting for unforgettable moments.\n\nOur carefully selected menu features premium Greek and international wines, sparkling wines, champagne, and refreshing beverages, perfectly suited to accompany the beauty of the Mediterranean coastline. Every glass is served with attention to detail, allowing you to enjoy the authentic flavors of Greece in a relaxed seaside atmosphere.\n\nWith comfortable beachside seating, friendly service, and breathtaking sea views, NEMO BEACH BAR is the perfect place to unwind, celebrate special occasions, or simply enjoy the magic of Halkidiki.\n\nRaise a glass, embrace the sea breeze, and experience the elegance of the Greek coast at NEMO BEACH BAR. 🌊🥂",
+  "descriptionRo": "NEMO BEACH BAR – Eleganță, relaxare și savoare pe malul Mării Egee\n\nSituat pe frumoasa plajă din Nea Kallikratia, NEMO BEACH BAR este destinația perfectă pentru cei care își doresc să îmbine relaxarea de la malul mării cu preparate de calitate și băuturi atent selecționate. Într-o atmosferă modernă și primitoare, fiecare moment petrecut aici devine o experiență autentică de vacanță.\n\nMeniul nostru oferă o selecție de vinuri grecești și internaționale, șampanii, prosecco și vinuri spumante, alături de băuturi răcoritoare și preparate pregătite cu grijă. Fie că savurați un pahar de vin alb rece în timpul zilei, un rosé la apus sau o șampanie pentru o ocazie specială, fiecare alegere este completată de priveliștea spectaculoasă asupra mării.\n\nCu muzică relaxantă, servicii prietenoase și atmosfera inconfundabilă a litoralului din Halkidiki, NEMO BEACH BAR este locul ideal pentru a crea amintiri de neuitat alături de familie, prieteni sau persoana iubită.\n\nLăsați valurile să vă inspire și bucurați-vă de fiecare clipă într-unul dintre cele mai elegante beach baruri din Nea Kallikratia.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/nemo-beach-bar4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nemo-beach-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "30Euro for 2 sunbeds and umbrella",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}

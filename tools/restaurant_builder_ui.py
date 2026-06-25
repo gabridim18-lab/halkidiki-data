@@ -2340,34 +2340,7 @@ class App(tk.Tk):
                 features,
 
             "cuisineTypes":
-                cuisine_types,
-
-            "serviceOptions":
-                google_details["serviceOptions"],
-
-            "highlights":
-                google_details["highlights"],
-
-            "popularFor":
-                google_details["popularFor"],
-
-            "offerings":
-                google_details["offerings"],
-
-            "amenities":
-                google_details["amenities"],
-
-            "atmosphere":
-                google_details["atmosphere"],
-
-            "parking":
-                google_details["parking"],
-
-            "pets":
-                google_details["pets"],
-
-            "accessibility":
-                google_details["accessibility"]
+                cuisine_types
 
         }
 
