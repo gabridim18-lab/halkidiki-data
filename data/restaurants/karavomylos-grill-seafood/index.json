@@ -1,0 +1,185 @@
+{
+  "id": "karavomylos-grill-seafood",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-iraklia-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Karavomylos Grill & Seafood",
+  "titleRo": "Karavomylos Grill & Seafood",
+  "displayAddress": "Παραλία, Nea Irakleia 630 80, Greece",
+  "gpsCoordinates": "40.3401649588607, 23.017195864281444",
+  "lat": 40.3401649588607,
+  "lon": 23.017195864281444,
+  "openingHoursRaw": "Thursday\n\t\n\n    Closed\n\n\t\nFriday\n\t\n\n    12 pm–1 am\n\n\t\nSaturday\n\t\n\n    12 pm–1 am\n\n\t\nSunday\n\t\n\n    12 pm–12:30 am\n\n\t\nMonday\n\t\n\n    1 pm–1 am\n\n\t\nTuesday\n\t\n\n    12 pm–1 am\n\n\t\nWednesday\n\t\n\n    12 pm–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "01:00",
+      "labelEn": "13:00–01:00",
+      "labelRo": "13:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "01:00",
+      "labelEn": "12:00–01:00",
+      "labelRo": "12:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "01:00",
+      "labelEn": "12:00–01:00",
+      "labelRo": "12:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "01:00",
+      "labelEn": "12:00–01:00",
+      "labelRo": "12:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "01:00",
+      "labelEn": "12:00–01:00",
+      "labelRo": "12:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:30",
+      "labelEn": "12:00–00:30",
+      "labelRo": "12:00–00:30"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–01:00; Tuesday: 12:00–01:00; Wednesday: 12:00–01:00; Thursday: Closed; Friday: 12:00–01:00; Saturday: 12:00–01:00; Sunday: 12:00–00:30",
+  "hoursRo": "Luni: 13:00–01:00; Marți: 12:00–01:00; Miercuri: 12:00–01:00; Joi: Închis; Vineri: 12:00–01:00; Sâmbătă: 12:00–01:00; Duminică: 12:00–00:30",
+  "website": "https://digital-cards.gr/karavomylos",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302399061213",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Karavomylos – Authentic Greek Cuisine by the Sea\n\nLocated on the beautiful waterfront of Nea Irakleia, Karavomylos invites you to experience the true flavors of Greece in a warm, welcoming, and relaxing seaside atmosphere.\n\nOur menu celebrates traditional Greek cuisine with fresh seafood, carefully selected fish, classic meze, local cheeses, and Mediterranean specialties prepared daily using quality ingredients and authentic recipes. Every dish reflects the rich culinary heritage of Greece while embracing the freshness and simplicity of coastal cooking.\n\nWhether you're stopping by for a leisurely lunch after the beach, a romantic dinner overlooking the sea, or a memorable meal with family and friends, Karavomylos offers an authentic dining experience where exceptional food meets genuine Greek hospitality.\n\nExperience the taste of the Aegean, the freshness of the Mediterranean, and the timeless spirit of Greek hospitality. 🇬🇷",
+  "descriptionRo": "Karavomylos – Tradiție grecească, gusturi autentice și ospitalitate la malul mării\n\nSituat pe frumoasa faleză din Nea Irakleia, Karavomylos este locul unde tradiția culinară grecească prinde viață prin preparate autentice, ingrediente proaspete și o atmosferă caldă, specifică Mediteranei.\n\nMeniul îmbină cu măiestrie rețete tradiționale, fructe de mare atent selecționate, pește proaspăt, meze grecești și specialități locale pregătite zilnic cu pasiune. De la aperitivele clasice și brânzeturile grecești până la preparatele din pește și fructe de mare, fiecare farfurie reflectă simplitatea și rafinamentul bucătăriei elene.\n\nFie că veniți pentru un prânz relaxant după o zi petrecută pe plajă, o cină romantică la apus sau o masă alături de familie și prieteni, Karavomylos vă oferă o experiență gastronomică autentică, completată de priveliștea mării și de renumita ospitalitate grecească.\n\nBucurați-vă de aromele Greciei, de prospețimea Mediteranei și de momente memorabile în inima Halkidikiului.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}

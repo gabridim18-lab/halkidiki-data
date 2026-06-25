@@ -2635,5 +2635,75 @@
     ],
     "pets": [],
     "accessibility": []
+  },
+  {
+    "id": "karavomylos-grill-seafood",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-iraklia-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Karavomylos Grill & Seafood",
+    "titleRo": "Karavomylos Grill & Seafood",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavomylos-grill-seafood/images/karavomylos-grill-seafood-hero.webp",
+    "lat": 40.3401649588607,
+    "lon": 23.017195864281444,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Karavomylos – Authentic Greek Cuisine by the Sea Located on the beautiful waterfront of Nea Irakleia, Karavomylos invites you to...",
+    "shortRo": "Karavomylos – Tradiție grecească, gusturi autentice și ospitalitate la malul mării Situat pe frumoasa faleză din Nea Irakleia,...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ],
+    "serviceOptions": [
+      "Outdoor seating",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great wine list",
+      "Great beer selection"
+    ],
+    "popularFor": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Late-night food",
+      "Quick bite",
+      "Small plates",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Quiet",
+      "Romantic"
+    ],
+    "parking": [
+      "Free of charge street parking",
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+    ]
   }
 ]
