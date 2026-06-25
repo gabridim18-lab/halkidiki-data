@@ -2705,5 +2705,66 @@
       "Wheelchair-accessible seating",
       "Wheelchair-accessible toilet"
     ]
+  },
+  {
+    "id": "fuego-del-mar",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-iraklia-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Fuego del MAR",
+    "titleRo": "Fuego del MAR",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar-hero.webp",
+    "lat": 40.33645064631861,
+    "lon": 23.019436695334154,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "FUEGO DEL MAR BEACH BAR – Sun, Sea & Summer Flavors Located directly on the beautiful beach of Nea Irakleia, FUEGO DEL MAR BEACH BAR...",
+    "shortRo": "FUEGO DEL MAR BEACH BAR – Relaxare, cocktailuri și gustul verii în Halkidiki Situat chiar pe plaja din Nea Irakleia, FUEGO DEL MAR...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ],
+    "serviceOptions": [
+      "No-contact delivery",
+      "Delivery",
+      "Takeaway",
+      "Dine-in"
+    ],
+    "highlights": [
+      "Great beer selection"
+    ],
+    "popularFor": [
+      "Lunch"
+    ],
+    "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Cocktails",
+      "Quick bite",
+      "Spirits",
+      "Wine"
+    ],
+    "amenities": [],
+    "atmosphere": [
+      "Casual",
+      "Cosy",
+      "Trendy"
+    ],
+    "parking": [
+      "Free parking lot",
+      "Plenty of parking"
+    ],
+    "pets": [
+      "Dogs allowed"
+    ],
+    "accessibility": []
   }
 ]

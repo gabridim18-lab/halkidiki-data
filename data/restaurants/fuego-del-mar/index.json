@@ -1,0 +1,177 @@
+{
+  "id": "fuego-del-mar",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-iraklia-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Fuego del MAR",
+  "titleRo": "Fuego del MAR",
+  "displayAddress": "Νέα Ηράκλεια 630 80, Greece",
+  "gpsCoordinates": "40.33645064631861, 23.019436695334154",
+  "lat": 40.33645064631861,
+  "lon": 23.019436695334154,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "https://sites.google.com/view/fuegodelmarbeachbar/%CE%B1%CF%81%CF%87%CE%B9%CE%BA%CE%AE-%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1?authuser=0",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306944182188",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "FUEGO DEL MAR BEACH BAR – Sun, Sea & Summer Flavors\n\nLocated directly on the beautiful beach of Nea Irakleia, FUEGO DEL MAR BEACH BAR is the perfect destination to relax, unwind, and enjoy the true spirit of the Greek summer. Surrounded by the crystal-clear waters of the Aegean Sea, we offer a welcoming atmosphere where every visit becomes a memorable seaside experience.\n\nOur menu features freshly squeezed natural juices, refreshing cocktails, premium coffees, cold beers, and a delicious selection of Greek appetizers and local specialties. Whether you're starting your morning with a coffee by the sea, cooling off with a fresh juice, or enjoying a sunset cocktail with friends, every moment at FUEGO DEL MAR is made to be unforgettable.\n\nSit back, feel the sea breeze, embrace genuine Greek hospitality, and enjoy the flavors of summer in one of Halkidiki's most relaxing beachside destinations.\n\nFUEGO DEL MAR BEACH BAR – Where every day tastes like summer. ☀️🌊🍹",
+  "descriptionRo": "FUEGO DEL MAR BEACH BAR – Relaxare, cocktailuri și gustul verii în Halkidiki\n\nSituat chiar pe plaja din Nea Irakleia, FUEGO DEL MAR BEACH BAR este locul perfect pentru a vă bucura de soare, mare și atmosfera autentică a verii grecești. Cu o priveliște spectaculoasă asupra Mării Egee și o atmosferă relaxată, vă invităm să petreceți momente de neuitat alături de familie și prieteni.\n\nÎn meniul nostru veți găsi sucuri naturale proaspăt preparate, cocktailuri răcoritoare, beri, cafele aromate și o selecție delicioasă de aperitive și specialități grecești. Fie că începeți ziua cu o cafea pe malul mării, vă răcoriți cu un fresh natural sau încheiați seara cu un cocktail savurat la apus, fiecare moment la FUEGO DEL MAR este o experiență de vacanță.\n\nLăsați-vă purtați de briza mării, bucurați-vă de ospitalitatea grecească și transformați fiecare vizită într-o amintire de neuitat.\n\nFUEGO DEL MAR BEACH BAR – Acolo unde fiecare zi are gust de vară.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/fuego-del-mar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fuego-del-mar/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids menu"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "5-10Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "sea_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}
