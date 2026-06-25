@@ -1,0 +1,151 @@
+{
+  "id": "cavo-nissos",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-iraklia-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Cavo Nissos",
+  "titleRo": "Cavo Nissos",
+  "displayAddress": "Nea, Nea Irakleia, Iraklia 630 80, Greece",
+  "gpsCoordinates": "40.33560597976425, 23.019850845634366",
+  "lat": 40.33560597976425,
+  "lon": 23.019850845634366,
+  "openingHoursRaw": "Thursday\n\t\n\n    10 am–8 pm\n\n\t\nFriday\n\t\n\n    10 am–8 pm\n\n\t\nSaturday\n\t\n\n    10 am–8 pm\n\n\t\nSunday\n\t\n\n    10 am–8 pm\n\n\t\nMonday\n\t\n\n    10 am–8 pm\n\n\t\nTuesday\n\t\n\n    10 am–8 pm\n\n\t\nWednesday\n\t\n\n    10 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–20:00; Tuesday: 10:00–20:00; Wednesday: 10:00–20:00; Thursday: 10:00–20:00; Friday: 10:00–20:00; Saturday: 10:00–20:00; Sunday: 10:00–20:00",
+  "hoursRo": "Luni: 10:00–20:00; Marți: 10:00–20:00; Miercuri: 10:00–20:00; Joi: 10:00–20:00; Vineri: 10:00–20:00; Sâmbătă: 10:00–20:00; Duminică: 10:00–20:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/cavonissosbeach/",
+  "instagram": "",
+  "phone": "+306983859387",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Cavo Nissos Beach Bar – Mediterranean Elegance by the Sea\n\nLocated on the beautiful coastline of Nea Kallikratia, Cavo Nissos Beach Bar offers the perfect combination of relaxation, comfort, and the breathtaking beauty of the Aegean Sea. With stylish beachfront seating, a welcoming atmosphere, and attentive service, it's the ideal place to unwind and enjoy the best of the Greek summer.\n\nOur menu features freshly brewed coffee, refreshing beverages, signature cocktails, and light bites, all prepared to complement your day by the beach. Whether you're soaking up the sun, enjoying a peaceful afternoon by the sea, or watching the sunset with friends, every visit promises unforgettable moments.\n\nExperience genuine Greek hospitality, feel the sea breeze, and create lasting memories in one of Halkidiki's most inviting seaside destinations.\n\nCavo Nissos Beach Bar – Where relaxation meets the sea. 🌊☀️🍹",
+  "descriptionRo": "Cavo Nissos Beach Bar – Eleganță mediteraneană și relaxare pe malul mării\n\nSituat pe litoralul spectaculos din Nea Kallikratia, Cavo Nissos Beach Bar este locul ideal pentru cei care doresc să se bucure de frumusețea Mării Egee într-o atmosferă modernă și relaxantă. Cu șezlonguri confortabile, muzică ambientală și servicii de calitate, fiecare zi petrecută aici devine o adevărată experiență de vacanță.\n\nMeniul oferă o selecție de cafele aromate, băuturi răcoritoare, cocktailuri creative și gustări delicioase, perfecte pentru o zi petrecută la plajă. Fie că vă relaxați sub razele soarelui, admirați apusul sau petreceți timpul alături de familie și prieteni, Cavo Nissos creează cadrul perfect pentru momente memorabile.\n\nLăsați-vă purtați de briza mării, savurați atmosfera mediteraneană și descoperiți farmecul autentic al litoralului din Halkidiki.\n\nCavo Nissos Beach Bar – Locul unde relaxarea întâlnește marea.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "Sunbeds Available with Any Food or Drink Order",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

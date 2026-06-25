@@ -2856,5 +2856,32 @@
     "cuisineTypes": [
       "greek"
     ]
+  },
+  {
+    "id": "cavo-nissos",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-iraklia-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Cavo Nissos",
+    "titleRo": "Cavo Nissos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cavo-nissos/images/cavo-nissos-hero.webp",
+    "lat": 40.33560597976425,
+    "lon": 23.019850845634366,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Cavo Nissos Beach Bar – Mediterranean Elegance by the Sea Located on the beautiful coastline of Nea Kallikratia, Cavo Nissos Beach Bar...",
+    "shortRo": "Cavo Nissos Beach Bar – Eleganță mediteraneană și relaxare pe malul mării Situat pe litoralul spectaculos din Nea Kallikratia, Cavo...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
