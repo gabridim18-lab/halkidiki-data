@@ -816,53 +816,6 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "No-contact delivery",
-      "Delivery",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great dessert",
-      "Great wine list",
-      "Great beer selection"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Cocktails",
-      "Late-night food",
-      "Private dining room",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Quiet",
-      "Romantic",
-      "Trendy"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
     ]
   },
   {
@@ -891,25 +844,7 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating"
-    ],
-    "highlights": [],
-    "popularFor": [],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [],
-    "parking": [
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [],
-    "accessibility": []
+    ]
   },
   {
     "id": "taverna-stratos",
@@ -938,42 +873,6 @@
     "cuisineTypes": [
       "seafood",
       "greek"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great wine list",
-      "Great beer selection"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Coffee",
-      "Late-night food",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [],
-    "parking": [
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
     ]
   },
   {
@@ -1003,46 +902,6 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "No-contact delivery",
-      "Delivery",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great wine list",
-      "Great beer selection",
-      "Live music"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Late-night food",
-      "Private dining room",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [],
-    "parking": [
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating"
     ]
   },
   {
@@ -1070,49 +929,6 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great wine list",
-      "Great beer selection",
-      "Live music"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Cocktails",
-      "Late-night food",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Quiet",
-      "Romantic",
-      "Trendy"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot"
-    ],
-    "pets": [],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating"
     ]
   },
   {
@@ -1144,37 +960,7 @@
       "mediterranean",
       "international",
       "pizza"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "No-contact delivery",
-      "Delivery",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [],
-    "popularFor": [],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Cocktails",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [],
-    "accessibility": []
+    ]
   },
   {
     "id": "taverna-pelagos",
@@ -1199,48 +985,7 @@
       "sunset_view",
       "family_friendly"
     ],
-    "cuisineTypes": [],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great dessert",
-      "Great beer selection"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Private dining room",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Quiet",
-      "Romantic"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
-    ]
+    "cuisineTypes": []
   },
   {
     "id": "tarde-bar",
@@ -1264,34 +1009,7 @@
       "sunset_view",
       "events"
     ],
-    "cuisineTypes": [],
-    "serviceOptions": [
-      "Outdoor seating"
-    ],
-    "highlights": [],
-    "popularFor": [],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Cocktails",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
-    ]
+    "cuisineTypes": []
   },
   {
     "id": "taverna-tou-psilou",
@@ -1320,41 +1038,7 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Late-night food",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Quiet",
-      "Romantic"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [],
-    "accessibility": []
+    ]
   },
   {
     "id": "to-dihti-tavern",
@@ -1382,48 +1066,6 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great wine list",
-      "Great beer selection"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Quiet",
-      "Romantic",
-      "Trendy"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
     ]
   },
   {
@@ -1453,51 +1095,6 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "No-contact delivery",
-      "Delivery",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great dessert",
-      "Live music"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Late-night food",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Quiet",
-      "Romantic"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
     ]
   },
   {
@@ -1517,16 +1114,7 @@
     "shortEn": "Located directly on the waterfront of Epanomi Bay, Golden Beach is a relaxed beach bar known for its friendly atmosphere, beautiful...",
     "shortRo": "Situat chiar pe malul mării în Golful Epanomi, Golden Beach este un beach bar relaxat, apreciat pentru atmosfera sa prietenoasă,...",
     "features": [],
-    "cuisineTypes": [],
-    "serviceOptions": [],
-    "highlights": [],
-    "popularFor": [],
-    "offerings": [],
-    "amenities": [],
-    "atmosphere": [],
-    "parking": [],
-    "pets": [],
-    "accessibility": []
+    "cuisineTypes": []
   },
   {
     "id": "melissa-seaside-bar",
@@ -1555,26 +1143,7 @@
     "serviceOptions": [
       "Outdoor seating",
       "Delivery"
-    ],
-    "highlights": [],
-    "popularFor": [],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Cocktails",
-      "Quick bite",
-      "Small plates",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [],
-    "accessibility": []
+    ]
   },
   {
     "id": "carousel-beach-bar",
@@ -1603,47 +1172,6 @@
     "cuisineTypes": [
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "No-contact delivery",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great beer selection",
-      "Live music"
-    ],
-    "popularFor": [
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Romantic",
-      "Trendy"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
     ]
   },
   {
@@ -1674,41 +1202,7 @@
     "cuisineTypes": [
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great wine list",
-      "Great beer selection"
-    ],
-    "popularFor": [],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Cocktails",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Trendy"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": []
+    ]
   },
   {
     "id": "baleine-beach",
@@ -1736,39 +1230,6 @@
     ],
     "cuisineTypes": [
       "international"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Dine-in"
-    ],
-    "highlights": [],
-    "popularFor": [
-      "Lunch"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Cocktails",
-      "Quick bite",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Trendy"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating"
     ]
   },
   {
@@ -1796,40 +1257,6 @@
     ],
     "cuisineTypes": [
       "international"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great beer selection"
-    ],
-    "popularFor": [],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Cocktails",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Trendy"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance"
     ]
   },
   {
@@ -1859,45 +1286,6 @@
       "seafood",
       "mediterranean",
       "international"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Delivery",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great beer selection"
-    ],
-    "popularFor": [],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Cocktails",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Quiet",
-      "Trendy"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
     ]
   },
   {
@@ -1925,48 +1313,6 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great beer selection"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Late-night food",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Quiet",
-      "Romantic"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
     ]
   },
   {
@@ -1996,33 +1342,6 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [],
-    "popularFor": [],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
     ]
   },
   {
@@ -2046,31 +1365,7 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [],
-    "popularFor": [],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": []
+    ]
   },
   {
     "id": "athos",
@@ -2099,45 +1394,7 @@
       "seafood",
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "No-contact delivery",
-      "Delivery",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great beer selection"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Cocktails",
-      "Quick bite",
-      "Small plates",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Romantic",
-      "Trendy"
-    ],
-    "parking": [
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": []
+    ]
   },
   {
     "id": "mastiha-grill-bar",
@@ -2166,42 +1423,7 @@
     "cuisineTypes": [
       "greek",
       "mediterranean"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great beer selection"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Cocktails",
-      "Late-night food",
-      "Quick bite",
-      "Small plates",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Trendy"
-    ],
-    "parking": [
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [],
-    "accessibility": []
+    ]
   },
   {
     "id": "karavomylos-grill-seafood",
@@ -2228,49 +1450,6 @@
     "cuisineTypes": [
       "seafood",
       "greek"
-    ],
-    "serviceOptions": [
-      "Outdoor seating",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great wine list",
-      "Great beer selection"
-    ],
-    "popularFor": [
-      "Lunch",
-      "Dinner",
-      "Solo dining"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Late-night food",
-      "Quick bite",
-      "Small plates",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Quiet",
-      "Romantic"
-    ],
-    "parking": [
-      "Free of charge street parking",
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": [
-      "Wheelchair-accessible entrance",
-      "Wheelchair-accessible seating",
-      "Wheelchair-accessible toilet"
     ]
   },
   {
@@ -2297,41 +1476,6 @@
     ],
     "cuisineTypes": [
       "greek"
-    ],
-    "serviceOptions": [
-      "No-contact delivery",
-      "Delivery",
-      "Takeaway",
-      "Dine-in"
-    ],
-    "highlights": [
-      "Great beer selection"
-    ],
-    "popularFor": [
-      "Lunch"
-    ],
-    "offerings": [
-      "Alcohol",
-      "Beer",
-      "Coffee",
-      "Cocktails",
-      "Quick bite",
-      "Spirits",
-      "Wine"
-    ],
-    "amenities": [],
-    "atmosphere": [
-      "Casual",
-      "Cosy",
-      "Trendy"
-    ],
-    "parking": [
-      "Free parking lot",
-      "Plenty of parking"
-    ],
-    "pets": [
-      "Dogs allowed"
-    ],
-    "accessibility": []
+    ]
   }
 ]
