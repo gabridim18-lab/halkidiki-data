@@ -1,0 +1,147 @@
+{
+  "id": "ammos-beach-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "sahara-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Ammos Beach Bar",
+  "titleRo": "Ammos Beach Bar",
+  "displayAddress": "Kallikrateia 630 80, Greece",
+  "gpsCoordinates": "40.32008584639164, 23.03671668545858",
+  "lat": 40.32008584639164,
+  "lon": 23.03671668545858,
+  "openingHoursRaw": "Thursday\n\t\n\n    9:30 am–9 pm\n\n\t\nFriday\n\t\n\n    9:30 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9:30 pm\n\n\t\nSunday\n\t\n\n    9 am–9:30 pm\n\n\t\nMonday\n\t\n\n    9:30 am–9 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–9 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–9:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:30",
+      "labelEn": "09:30–21:30",
+      "labelRo": "09:30–21:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:30",
+      "labelEn": "09:00–21:30",
+      "labelRo": "09:00–21:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:30",
+      "labelEn": "09:00–21:30",
+      "labelRo": "09:00–21:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–21:00; Tuesday: 09:30–21:00; Wednesday: 09:30–21:30; Thursday: 09:30–21:00; Friday: 09:30–21:00; Saturday: 09:00–21:30; Sunday: 09:00–21:30",
+  "hoursRo": "Luni: 09:30–21:00; Marți: 09:30–21:00; Miercuri: 09:30–21:30; Joi: 09:30–21:00; Vineri: 09:30–21:00; Sâmbătă: 09:00–21:30; Duminică: 09:00–21:30",
+  "website": "",
+  "facebook": "https://www.facebook.com/pantazidhs",
+  "instagram": "",
+  "phone": "+306976051010",
+  "price": "$$",
+  "rating": 4.0,
+  "descriptionEn": "Ammos Beach Bar – Sun, Sea & Endless Summer Vibes\n\nLocated on the beautiful beach of Nea Kallikrateia, Ammos Beach Bar is the perfect destination to relax and experience the best of the Greek seaside. With a modern beachfront setting, welcoming atmosphere, and friendly service, Ammos invites you to enjoy unforgettable moments by the crystal-clear waters of the Aegean Sea.\n\nWhether you're starting your day with a freshly brewed coffee, cooling off with a refreshing juice, or watching the sunset with a signature cocktail in hand, every visit is designed to capture the true spirit of the Mediterranean summer.\n\nRelax on the beach, enjoy delicious drinks and great company, and let the peaceful seaside atmosphere make your holiday truly unforgettable.\n\nAmmos Beach Bar – Where every day feels like summer. ☀️🌊🍹",
+  "descriptionRo": "Ammos Beach Bar – Relaxare, mare și atmosfera perfectă a verii\n\nSituat pe frumoasa plajă din Nea Kallikrateia, Ammos Beach Bar este destinația ideală pentru cei care doresc să se bucure de soare, mare și ospitalitatea autentică grecească. Cu un decor modern, muzică plăcută și o atmosferă relaxantă, Ammos oferă cadrul perfect pentru o zi de neuitat pe litoralul din Halkidiki.\n\nFie că alegeți să vă începeți dimineața cu o cafea aromată, să vă răcoriți cu un fresh natural sau să savurați un cocktail la apus, fiecare moment petrecut aici este completat de priveliștea spectaculoasă asupra Mării Egee și de serviciile prietenoase ale echipei.\n\nAmmos Beach Bar este locul unde relaxarea se îmbină perfect cu gusturile mediteraneene, transformând fiecare vizită într-o experiență memorabilă.\n\nBucurați-vă de soare, nisip fin și momente de neuitat în inima Halkidikiului!",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/ammos-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/ammos-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/ammos-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/ammos-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/ammos-beach-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/ammos-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/ammos-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/ammos-beach-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-beach-bar/images/menu2.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Quiet"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "Free Sunbeds with Consumption",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}
