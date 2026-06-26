@@ -1,0 +1,144 @@
+{
+  "id": "rasta-beach-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "vergia-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Rasta Beach Bar",
+  "titleRo": "Rasta Beach Bar",
+  "displayAddress": "Παραλια Βεργιας Βεργια, Nea Propontida 630 80, Greece",
+  "gpsCoordinates": "40.29041343296534, 23.124267630263628",
+  "lat": 40.29041343296534,
+  "lon": 23.124267630263628,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–8 pm\n\n\t\nSaturday\n\t\n\n    9 am–8 pm\n\n\t\nSunday\n\t\n\n    9 am–8 pm\n\n\t\nMonday\n\t\n\n    9 am–8 pm\n\n\t\nTuesday\n\t\n\n    9 am–8 pm\n\n\t\nWednesday\n\t\n\n    9 am–8 pm\n\n\t\nThursday\n\t\n\n    9 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–20:00; Tuesday: 09:00–20:00; Wednesday: 09:00–20:00; Thursday: 09:00–20:00; Friday: 09:00–20:00; Saturday: 09:00–20:00; Sunday: 09:00–20:00",
+  "hoursRo": "Luni: 09:00–20:00; Marți: 09:00–20:00; Miercuri: 09:00–20:00; Joi: 09:00–20:00; Vineri: 09:00–20:00; Sâmbătă: 09:00–20:00; Duminică: 09:00–20:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/Rasta.Beach.Bar/?fref=ts",
+  "instagram": "",
+  "phone": "+302373081390",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Rasta Beach Bar – Relaxed Vibes by the Sea\n\nLocated on the beautiful beach of Vergia in Nea Propontida, Rasta Beach Bar is the perfect place to unwind and enjoy the laid-back spirit of the Greek coast. With a stylish beachfront setting, breathtaking views of the Aegean Sea, and a welcoming atmosphere, it's the ideal destination for unforgettable summer days.\n\nEnjoy freshly brewed coffee, refreshing drinks, handcrafted cocktails, and tasty snacks while relaxing under the sun or watching the sunset by the sea. Whether you're spending time with family, meeting friends, or simply enjoying the peaceful beach atmosphere, every visit to Rasta Beach Bar is designed to help you slow down and enjoy the moment.\n\nExperience the sea breeze, warm Greek hospitality, and the vibrant energy that make Rasta Beach Bar a favorite summer destination in Halkidiki.\n\nRasta Beach Bar – Where great vibes, refreshing drinks, and the beauty of the Aegean come together. 🌊☀️🍹",
+  "descriptionRo": "Rasta Beach Bar – Vibe relaxat, cocktailuri și zile perfecte la mare\n\nSituat pe frumoasa plajă din Vergia, în regiunea Nea Propontida, Rasta Beach Bar este locul ideal pentru cei care caută o atmosferă relaxată, muzică bună și momente de neuitat pe malul Mării Egee. Cu un decor modern și o priveliște spectaculoasă asupra mării, beach bar-ul oferă cadrul perfect pentru o zi de vacanță.\n\nAici vă puteți bucura de cafele aromate, băuturi răcoritoare, cocktailuri pregătite cu grijă și gustări delicioase, toate servite într-o atmosferă prietenoasă și primitoare. Fie că vă relaxați pe șezlong, petreceți timpul alături de familie și prieteni sau admirați apusul cu un cocktail în mână, fiecare vizită la Rasta Beach Bar este o experiență memorabilă.\n\nLăsați-vă purtați de briza mării, ritmul verii și ospitalitatea grecească autentică, într-un loc unde fiecare zi este o invitație la relaxare.\n\nRasta Beach Bar – Bucură-te de mare, muzică și atmosfera verii în Halkidiki!",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [
+    "Great beer selection",
+    "Live music"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "Free Sunbeds with Food or Drink Purchase",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}

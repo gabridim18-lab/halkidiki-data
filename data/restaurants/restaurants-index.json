@@ -2909,5 +2909,31 @@
     "cuisineTypes": [
       "greek"
     ]
+  },
+  {
+    "id": "rasta-beach-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "vergia-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Rasta Beach Bar",
+    "titleRo": "Rasta Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rasta-beach-bar/images/rasta-beach-bar-hero.webp",
+    "lat": 40.29041343296534,
+    "lon": 23.124267630263628,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Rasta Beach Bar – Relaxed Vibes by the Sea Located on the beautiful beach of Vergia in Nea Propontida, Rasta Beach Bar is the perfect...",
+    "shortRo": "Rasta Beach Bar – Vibe relaxat, cocktailuri și zile perfecte la mare Situat pe frumoasa plajă din Vergia, în regiunea Nea Propontida,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ]
   }
 ]
