@@ -1,0 +1,164 @@
+{
+  "id": "karpouzi-seaside",
+  "zone": "Thessaloniki",
+  "beachSlug": "vergia-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Karpouzi Seaside",
+  "titleRo": "Karpouzi Seaside",
+  "displayAddress": "Unnamed Road, Nea Kallikratia 630 80, Greece",
+  "gpsCoordinates": "40.290524250878065, 23.124141296668306",
+  "lat": 40.290524250878065,
+  "lon": 23.124141296668306,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–12 am\n\n\t\nSaturday\n\t\n\n    9 am–12 am\n\n\t\nSunday\n\t\n\n    9 am–12 am\n\n\t\nMonday\n\t\n\n    9 am–12 am\n\n\t\nTuesday\n\t\n\n    9 am–12 am\n\n\t\nWednesday\n\t\n\n    9 am–12 am\n\n\t\nThursday\n\t\n\n    9 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–00:00; Tuesday: 09:00–00:00; Wednesday: 09:00–00:00; Thursday: 09:00–00:00; Friday: 09:00–00:00; Saturday: 09:00–00:00; Sunday: 09:00–00:00",
+  "hoursRo": "Luni: 09:00–00:00; Marți: 09:00–00:00; Miercuri: 09:00–00:00; Joi: 09:00–00:00; Vineri: 09:00–00:00; Sâmbătă: 09:00–00:00; Duminică: 09:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/karpouzibeachbar/",
+  "phone": "+302373081070",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Karpouzi Seaside Snack Bar – Fresh Flavors by the Sea\n\nLocated on the beautiful coastline of Nea Kallikratia, Karpouzi Seaside Snack Bar is the perfect place to relax and enjoy the laid-back atmosphere of the Greek seaside. Surrounded by the crystal-clear waters of the Aegean Sea, we offer a welcoming setting where great food, refreshing drinks, and unforgettable views come together.\n\nOur menu features freshly prepared snacks, sandwiches, crisp salads, refreshing beverages, premium coffee, and delicious cocktails—ideal for a relaxing day at the beach. Whether you're stopping by for a morning coffee, a light lunch between swims, or a sunset drink with friends, every visit is designed to capture the spirit of the Mediterranean summer.\n\nEnjoy the sea breeze, friendly service, and the peaceful atmosphere that make Karpouzi Seaside Snack Bar a favorite destination for both locals and visitors.\n\nKarpouzi Seaside Snack Bar – Fresh flavors, beautiful views, and unforgettable summer moments. 🌊☀️🍉",
+  "descriptionRo": "Karpouzi Seaside Snack Bar – Gustul verii, chiar pe malul mării\n\nSituat pe frumoasa coastă din Nea Kallikratia, Karpouzi Seaside Snack Bar este locul perfect pentru o pauză relaxantă în timpul unei zile petrecute la plajă. Cu o atmosferă prietenoasă, priveliști spectaculoase asupra Mării Egee și ospitalitate autentică, vă invităm să vă bucurați de adevăratul farmec al verii grecești.\n\nMeniul nostru oferă o selecție de gustări proaspete, sandwich-uri, salate, băuturi răcoritoare, cafele aromate și cocktailuri perfecte pentru zilele însorite. Fie că vă începeți dimineața cu o cafea pe malul mării, luați un prânz ușor între sesiunile de plajă sau vă relaxați la apus cu o băutură rece, fiecare vizită este o experiență plină de savoare și voie bună.\n\nCu nisipul fin la câțiva pași și sunetul valurilor în fundal, Karpouzi Seaside Snack Bar este locul ideal pentru a vă bucura de momente simple și memorabile alături de familie și prieteni.\n\nDescoperiți gustul verii și bucurați-vă de relaxare la malul Mării Egee!",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "Sunbeds Available with Any Food or Drink Order",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}

@@ -2883,5 +2883,31 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "karpouzi-seaside",
+    "zone": "Thessaloniki",
+    "beachSlug": "vergia-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Karpouzi Seaside",
+    "titleRo": "Karpouzi Seaside",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi-seaside/images/karpouzi-seaside-hero.webp",
+    "lat": 40.290524250878065,
+    "lon": 23.124141296668306,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Karpouzi Seaside Snack Bar – Fresh Flavors by the Sea Located on the beautiful coastline of Nea Kallikratia, Karpouzi Seaside Snack...",
+    "shortRo": "Karpouzi Seaside Snack Bar – Gustul verii, chiar pe malul mării Situat pe frumoasa coastă din Nea Kallikratia, Karpouzi Seaside Snack...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ]
   }
 ]
