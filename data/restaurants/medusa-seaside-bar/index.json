@@ -1,0 +1,178 @@
+{
+  "id": "medusa-seaside-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "vergia-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Medusa Seaside Bar",
+  "titleRo": "Medusa Seaside Bar",
+  "displayAddress": "40.290339,23.124304, Βεργιά 630 80, Greece",
+  "gpsCoordinates": "40.29035033625336, 23.124350005712344",
+  "lat": 40.29035033625336,
+  "lon": 23.124350005712344,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–11:30 pm\n\n\t\nSaturday\n\t\n\n    9 am–11:30 pm\n\n\t\nSunday\n\t\n\n    9 am–11:30 pm\n\n\t\nMonday\n\t\n\n    9 am–11:30 pm\n\n\t\nTuesday\n\t\n\n    9 am–11:30 pm\n\n\t\nWednesday\n\t\n\n    9 am–11:30 pm\n\n\t\nThursday\n\t\n\n    9 am–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:30; Tuesday: 09:00–23:30; Wednesday: 09:00–23:30; Thursday: 09:00–23:30; Friday: 09:00–23:30; Saturday: 09:00–23:30; Sunday: 09:00–23:30",
+  "hoursRo": "Luni: 09:00–23:30; Marți: 09:00–23:30; Miercuri: 09:00–23:30; Joi: 09:00–23:30; Vineri: 09:00–23:30; Sâmbătă: 09:00–23:30; Duminică: 09:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://instagram.com/medusa_beach_bar?igshid=YmMyMTA2M2Y=",
+  "phone": "+306906668868",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Medusa Seaside Bar – Relax by the Aegean Sea\n\nLocated on the beautiful beach of Vergia in Nea Propontida, Medusa Seaside Bar is the perfect destination to unwind and experience the relaxed charm of the Greek coastline. With breathtaking views of the Aegean Sea, a welcoming atmosphere, and friendly service, every visit is an invitation to enjoy the best of summer.\n\nOur menu features a wide selection of freshly brewed coffees, natural juices, refreshing soft drinks, chilled beers, and handcrafted cocktails, making it the perfect place to take a break throughout the day. Whether you're starting your morning with a coffee by the sea, cooling off after a swim, or enjoying a refreshing drink while watching the sunset, Medusa Seaside Bar offers the ideal setting for unforgettable moments.\n\nExperience the sea breeze, warm Greek hospitality, and the peaceful atmosphere that make Medusa Seaside Bar a favorite seaside destination for both locals and visitors.\n\nMedusa Seaside Bar – Where every sip comes with a sea view. 🌊☀️🍹",
+  "descriptionRo": "Medusa Seaside Bar – Relaxare autentică pe malul Mării Egee\n\nSituat pe frumoasa plajă din Vergia, în regiunea Nea Propontida, Medusa Seaside Bar este locul perfect pentru a vă bucura de liniștea mării, soarele Mediteranei și atmosfera relaxată specifică litoralului grecesc. Cu o priveliște spectaculoasă asupra Mării Egee și servicii primitoare, fiecare vizită devine o experiență de vacanță memorabilă.\n\nMeniul nostru oferă o selecție variată de cafele aromate, sucuri naturale, băuturi răcoritoare, beri reci și cocktailuri revigorante, ideale pentru orice moment al zilei. Fie că începeți dimineața cu o cafea pe plajă, vă răcoriți după o baie în mare sau încheiați ziua admirând apusul cu o băutură în mână, Medusa Seaside Bar vă oferă cadrul perfect pentru relaxare.\n\nLăsați-vă purtați de briza mării, bucurați-vă de ospitalitatea grecească și creați amintiri de neuitat într-unul dintre cele mai frumoase colțuri ale Halkidikiului.\n\nMedusa Seaside Bar – Gustul verii, chiar pe malul mării.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Live music"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Free Sunbeds with Any Order",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "live_music"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}

@@ -2935,5 +2935,32 @@
     "cuisineTypes": [
       "greek"
     ]
+  },
+  {
+    "id": "medusa-seaside-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "vergia-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Medusa Seaside Bar",
+    "titleRo": "Medusa Seaside Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/medusa-seaside-bar/images/medusa-seaside-bar-hero.webp",
+    "lat": 40.29035033625336,
+    "lon": 23.124350005712344,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Medusa Seaside Bar – Relax by the Aegean Sea Located on the beautiful beach of Vergia in Nea Propontida, Medusa Seaside Bar is the...",
+    "shortRo": "Medusa Seaside Bar – Relaxare autentică pe malul Mării Egee Situat pe frumoasa plajă din Vergia, în regiunea Nea Propontida, Medusa...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ]
   }
 ]
