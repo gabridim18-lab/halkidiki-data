@@ -1,0 +1,145 @@
+{
+  "id": "4-delfinia",
+  "zone": "Thessaloniki",
+  "beachSlug": "delfinia-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "4 Delfinia",
+  "titleRo": "4 Delfinia",
+  "displayAddress": "Μεγάλου Αλεξάνδρου 4, Nea Propontida 630 80, Greece",
+  "gpsCoordinates": "40.28416482149919, 23.133119933274322",
+  "lat": 40.28416482149919,
+  "lon": 23.133119933274322,
+  "openingHoursRaw": "Friday\n\t\n\n    11 am–12 am\n\n\t\nSaturday\n\t\n\n    11 am–12 am\n\n\t\nSunday\n\t\n\n    11 am–12 am\n\n\t\nMonday\n\t\n\n    11 am–12 am\n\n\t\nTuesday\n\t\n\n    11 am–12 am\n\n\t\nWednesday\n\t\n\n    11 am–12 am\n\n\t\nThursday\n\t\n\n    11 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 11:00–00:00; Tuesday: 11:00–00:00; Wednesday: 11:00–00:00; Thursday: 11:00–00:00; Friday: 11:00–00:00; Saturday: 11:00–00:00; Sunday: 11:00–00:00",
+  "hoursRo": "Luni: 11:00–00:00; Marți: 11:00–00:00; Miercuri: 11:00–00:00; Joi: 11:00–00:00; Vineri: 11:00–00:00; Sâmbătă: 11:00–00:00; Duminică: 11:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302373081375",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "4 Delfinia – Authentic Greek Dining with a Warm Welcome\n\nLocated in Nea Propontida, 4 Delfinia invites you to discover the authentic flavors of Greek cuisine in a relaxed and welcoming atmosphere. Inspired by the rich culinary traditions of the Mediterranean, the restaurant serves freshly prepared dishes made with quality ingredients and great attention to detail.\n\nWhether you choose fresh seafood, grilled specialties, fish, or traditional Greek favorites, every meal is carefully prepared to showcase the genuine tastes of Greece. Friendly service and a comfortable setting make 4 Delfinia an ideal place to enjoy lunch or dinner with family, friends, or someone special.\n\nAfter a day exploring the beautiful coastline of Halkidiki, 4 Delfinia offers the perfect setting to unwind and enjoy a memorable dining experience.\n\n4 Delfinia – Authentic flavors, genuine Greek hospitality, and unforgettable moments. 🇬🇷🍽️",
+  "descriptionRo": "4 Delfinia – Bucătărie grecească autentică într-o atmosferă primitoare\n\nSituat în Nea Propontida, 4 Delfinia este un restaurant care vă invită să descoperiți aromele autentice ale bucătăriei grecești într-un cadru relaxat și prietenos. Inspirat de tradițiile culinare ale Mediteranei, restaurantul oferă preparate pregătite cu ingrediente proaspete și atenție la fiecare detaliu.\n\nFie că alegeți fructe de mare, pește, preparate la grătar sau specialități tradiționale grecești, fiecare farfurie este gătită pentru a evidenția gusturile autentice și ospitalitatea locală. Atmosfera caldă și serviciile atente transformă fiecare masă într-o experiență plăcută, potrivită atât pentru familii, cât și pentru cupluri sau grupuri de prieteni.\n\nDupă o zi petrecută pe plajele din Halkidiki, 4 Delfinia este locul perfect pentru a vă relaxa și a savura preparate inspirate din gastronomia grecească.\n\n4 Delfinia – Gust autentic, ospitalitate grecească și momente de neuitat.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/4-delfinia-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/4-delfinia-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/4-delfinia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/4-delfinia2.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/4-delfinia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/4-delfinia2.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Coffee"
+  ],
+  "diningOptions": [
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

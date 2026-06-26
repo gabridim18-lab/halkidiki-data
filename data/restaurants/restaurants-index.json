@@ -2962,5 +2962,32 @@
     "cuisineTypes": [
       "greek"
     ]
+  },
+  {
+    "id": "4-delfinia",
+    "zone": "Thessaloniki",
+    "beachSlug": "delfinia-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "4 Delfinia",
+    "titleRo": "4 Delfinia",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/4-delfinia-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-delfinia/images/4-delfinia-hero.webp",
+    "lat": 40.28416482149919,
+    "lon": 23.133119933274322,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "4 Delfinia – Authentic Greek Dining with a Warm Welcome Located in Nea Propontida, 4 Delfinia invites you to discover the authentic...",
+    "shortRo": "4 Delfinia – Bucătărie grecească autentică într-o atmosferă primitoare Situat în Nea Propontida, 4 Delfinia este un restaurant care vă...",
+    "features": [
+      "restaurant",
+      "parking",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
