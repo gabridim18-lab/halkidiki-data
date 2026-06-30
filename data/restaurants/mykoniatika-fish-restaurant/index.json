@@ -1,0 +1,172 @@
+{
+  "id": "mykoniatika-fish-restaurant",
+  "zone": "Thessaloniki",
+  "beachSlug": "mykoniatika-secret-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Mykoniatika Fish Restaurant",
+  "titleRo": "Mykoniatika Fish Restaurant",
+  "displayAddress": "Kallikrateia 630 88, Greece",
+  "gpsCoordinates": "40.29995026131616, 23.098953559224398",
+  "lat": 40.29995026131616,
+  "lon": 23.098953559224398,
+  "openingHoursRaw": "Tuesday\n\t\n\n    1–11:30 pm\n\n\t\nWednesday\n\t\n\n    1–11:30 pm\n\n\t\nThursday\n\t\n\n    1–11:30 pm\n\n\t\nFriday\n\t\n\n    1–11:30 pm\n\n\t\nSaturday\n\t\n\n    1–11:30 pm\n\n\t\nSunday\n\t\n\n    1–11:30 pm\n\n\t\nMonday\n\t\n\n    1–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–23:30; Tuesday: 13:00–23:30; Wednesday: 13:00–23:30; Thursday: 13:00–23:30; Friday: 13:00–23:30; Saturday: 13:00–23:30; Sunday: 13:00–23:30",
+  "hoursRo": "Luni: 13:00–23:30; Marți: 13:00–23:30; Miercuri: 13:00–23:30; Joi: 13:00–23:30; Vineri: 13:00–23:30; Sâmbătă: 13:00–23:30; Duminică: 13:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306989159779",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Mykoniatika Fish Tavern – Authentic Greek Seafood by the Sea\n\nLocated in Kallikrateia, Mykoniatika Fish Tavern welcomes you to experience the authentic flavors of Greek cuisine in a warm and relaxing seaside atmosphere. Inspired by the rich culinary traditions of the Mediterranean, the tavern focuses on fresh ingredients, traditional recipes, and genuine Greek hospitality.\n\nOur menu features a wide selection of fresh fish, seafood specialties, grilled dishes, traditional appetizers, crisp salads, and carefully prepared meat dishes, all crafted to highlight the authentic tastes of Greece. Whether you're enjoying a family lunch, a romantic dinner, or a gathering with friends, every visit offers a memorable dining experience.\n\nAt Mykoniatika Fish Tavern, quality, freshness, and hospitality come together to create unforgettable moments on the beautiful coast of Halkidiki.\n\nMykoniatika Fish Tavern – Fresh seafood, authentic Greek flavors, and a warm welcome by the sea. 🇬🇷🐟",
+  "descriptionRo": "Mykoniatika Fish Tavern – Tradiția gustului grecesc la malul mării\n\nSituată în Kallikrateia, Mykoniatika Fish Tavern vă invită să descoperiți autenticitatea bucătăriei grecești într-o atmosferă caldă și relaxantă, inspirată de farmecul Mării Egee. Cu accent pe ingrediente proaspete și rețete tradiționale, taverna oferă o experiență culinară care reflectă bogăția gastronomiei mediteraneene.\n\nMeniul reunește preparate din pește și fructe de mare, specialități la grătar, aperitive tradiționale, salate proaspete și preparate din carne, toate pregătite cu grijă pentru a evidenția aromele autentice ale Greciei. Fie că alegeți o masă în familie, o cină romantică sau o întâlnire cu prietenii, fiecare vizită este completată de ospitalitatea grecească și de atmosfera primitoare a tavernei.\n\nLa Mykoniatika Fish Tavern, fiecare farfurie este pregătită cu pasiune pentru a vă oferi o experiență autentică și memorabilă pe litoralul din Halkidiki.\n\nMykoniatika Fish Tavern – Gusturi autentice, ingrediente proaspete și ospitalitate grecească în fiecare zi.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}

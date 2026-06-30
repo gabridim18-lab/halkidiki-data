@@ -3045,5 +3045,32 @@
       "seafood",
       "greek"
     ]
+  },
+  {
+    "id": "mykoniatika-fish-restaurant",
+    "zone": "Thessaloniki",
+    "beachSlug": "mykoniatika-secret-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Mykoniatika Fish Restaurant",
+    "titleRo": "Mykoniatika Fish Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mykoniatika-fish-restaurant/images/mykoniatika-fish-restaurant-hero.webp",
+    "lat": 40.29995026131616,
+    "lon": 23.098953559224398,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Mykoniatika Fish Tavern – Authentic Greek Seafood by the Sea Located in Kallikrateia, Mykoniatika Fish Tavern welcomes you to...",
+    "shortRo": "Mykoniatika Fish Tavern – Tradiția gustului grecesc la malul mării Situată în Kallikrateia, Mykoniatika Fish Tavern vă invită să...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ]
   }
 ]
