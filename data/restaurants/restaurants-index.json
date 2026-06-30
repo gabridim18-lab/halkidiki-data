@@ -2989,5 +2989,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "mileniko-beach-and-pool-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "sozopoli-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Mileniko Beach and Pool bar",
+    "titleRo": "Mileniko Beach and Pool bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar-hero.webp",
+    "lat": 40.273394557627526,
+    "lon": 23.154708490368616,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Mileniko Beach & Pool Bar – Where the Beach Meets the Pool Located in the beautiful seaside village of Sozopoli, Mileniko Beach & Pool...",
+    "shortRo": "Mileniko Beach & Pool Bar – Relaxare între mare și piscină Situat în frumoasa stațiune Sozopoli, Mileniko Beach & Pool Bar oferă...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

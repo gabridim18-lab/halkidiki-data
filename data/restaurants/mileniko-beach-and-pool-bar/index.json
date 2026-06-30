@@ -1,0 +1,155 @@
+{
+  "id": "mileniko-beach-and-pool-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "sozopoli-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Mileniko Beach and Pool bar",
+  "titleRo": "Mileniko Beach and Pool bar",
+  "displayAddress": "63080, Sozopoli 630 80, Greece",
+  "gpsCoordinates": "40.273394557627526, 23.154708490368616",
+  "lat": 40.273394557627526,
+  "lon": 23.154708490368616,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–12 am\n\n\t\nWednesday\n\t\n\n    9 am–12 am\n\n\t\nThursday\n\t\n\n    9 am–12 am\n\n\t\nFriday\n\t\n\n    9 am–12 am\n\n\t\nSaturday\n\t\n\n    9 am–12 am\n\n\t\nSunday\n\t\n\n    9 am–12 am\n\n\t\nMonday\n\t\n\n    9 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–00:00; Tuesday: 09:00–00:00; Wednesday: 09:00–00:00; Thursday: 09:00–00:00; Friday: 09:00–00:00; Saturday: 09:00–00:00; Sunday: 09:00–00:00",
+  "hoursRo": "Luni: 09:00–00:00; Marți: 09:00–00:00; Miercuri: 09:00–00:00; Joi: 09:00–00:00; Vineri: 09:00–00:00; Sâmbătă: 09:00–00:00; Duminică: 09:00–00:00",
+  "website": "http://milenikobeach.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+359887665432",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Mileniko Beach & Pool Bar – Where the Beach Meets the Pool\n\nLocated in the beautiful seaside village of Sozopoli, Mileniko Beach & Pool Bar offers the perfect blend of beachfront relaxation and stylish poolside comfort. It's the ideal destination for those looking to enjoy the sunshine, the crystal-clear waters of the Aegean Sea, and a laid-back Mediterranean atmosphere.\n\nTreat yourself to freshly brewed coffee, refreshing beverages, handcrafted cocktails, and delicious light bites while enjoying a day by the sea or beside the pool. Whether you're soaking up the sun, cooling off with a swim, or watching the sunset with your favorite drink, every moment at Mileniko is designed to make your holiday truly special.\n\nWith friendly service, elegant surroundings, and breathtaking coastal views, Mileniko Beach & Pool Bar is the perfect place to relax, recharge, and create unforgettable summer memories.\n\nMileniko Beach & Pool Bar – Where every summer moment feels extraordinary. ☀️🌊🏖️🍹",
+  "descriptionRo": "Mileniko Beach & Pool Bar – Relaxare între mare și piscină\n\nSituat în frumoasa stațiune Sozopoli, Mileniko Beach & Pool Bar oferă combinația perfectă între atmosfera relaxantă a plajei și confortul unei zone elegante cu piscină. Este locul ideal pentru cei care doresc să se bucure de soare, de briza Mării Egee și de momente de neuitat într-un decor modern și primitor.\n\nAici vă puteți răsfăța cu cafele aromate, băuturi răcoritoare, cocktailuri pregătite cu grijă și gustări delicioase, perfecte pentru o zi de vacanță. Fie că preferați să vă relaxați pe plajă, lângă piscină sau să admirați apusul cu o băutură în mână, Mileniko Beach & Pool Bar vă oferă atmosfera ideală pentru fiecare moment al zilei.\n\nCu servicii prietenoase, un ambient elegant și priveliști spectaculoase, fiecare vizită devine o experiență memorabilă pe litoralul din Halkidiki.\n\nMileniko Beach & Pool Bar – Locul unde soarele, marea și relaxarea se întâlnesc.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/mileniko-beach-and-pool-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mileniko-beach-and-pool-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "10Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "party"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
