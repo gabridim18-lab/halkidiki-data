@@ -3017,5 +3017,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "τα-κυματα-beach-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "mykoniatika-secret-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "ΤΑ ΚΥΜΑΤΑ Beach bar",
+    "titleRo": "ΤΑ ΚΥΜΑΤΑ Beach bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar-hero.webp",
+    "lat": 40.300104564036886,
+    "lon": 23.096545267464734,
+    "rating": 4.1,
+    "price": "$$",
+    "shortEn": "Ta Kymata Seafood | Beach Bar – The Taste of the Sea in Halkidiki Located on the beautiful beachfront of Nea Kallikratia, Ta Kymata...",
+    "shortRo": "Ta Kymata Seafood | Beach Bar – Gustul mării în inima Halkidikiului Situat chiar pe malul mării, în Nea Kallikratia, Ta Kymata Seafood...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek"
+    ]
   }
 ]

@@ -1,0 +1,175 @@
+{
+  "id": "τα-κυματα-beach-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "mykoniatika-secret-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "ΤΑ ΚΥΜΑΤΑ Beach bar",
+  "titleRo": "ΤΑ ΚΥΜΑΤΑ Beach bar",
+  "displayAddress": "Ιακίνθων 1-Κηπουπολη, Υακίνθου 1, Ν.Καλλικράτεια 630 80, Greece",
+  "gpsCoordinates": "40.300104564036886, 23.096545267464734",
+  "lat": 40.300104564036886,
+  "lon": 23.096545267464734,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–11 pm\n\n\t\nWednesday\n\t\n\n    9 am–11 pm\n\n\t\nThursday\n\t\n\n    9 am–11 pm\n\n\t\nFriday\n\t\n\n    9 am–11 pm\n\n\t\nSaturday\n\t\n\n    9 am–11:30 pm\n\n\t\nSunday\n\t\n\n    9 am–11 pm\n\n\t\nMonday\n\t\n\n    9 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:00; Tuesday: 09:00–23:00; Wednesday: 09:00–23:00; Thursday: 09:00–23:00; Friday: 09:00–23:00; Saturday: 09:00–23:30; Sunday: 09:00–23:00",
+  "hoursRo": "Luni: 09:00–23:00; Marți: 09:00–23:00; Miercuri: 09:00–23:00; Joi: 09:00–23:00; Vineri: 09:00–23:00; Sâmbătă: 09:00–23:30; Duminică: 09:00–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306980927924",
+  "price": "$$",
+  "rating": 4.1,
+  "descriptionEn": "Ta Kymata Seafood | Beach Bar – The Taste of the Sea in Halkidiki\n\nLocated on the beautiful beachfront of Nea Kallikratia, Ta Kymata Seafood | Beach Bar invites you to experience the authentic flavors of Greek coastal cuisine in a relaxed and welcoming seaside setting. With breathtaking views of the Aegean Sea and a warm Mediterranean atmosphere, it is the perfect destination for unforgettable moments with family and friends.\n\nOur menu celebrates the best of the sea, featuring fresh fish, seafood specialties, traditional Greek dishes, crisp salads, and grilled favorites, all prepared with carefully selected ingredients and inspired by local culinary traditions. Whether you're enjoying a light lunch after a swim or a leisurely dinner while watching the sunset, every dish is crafted to showcase the freshness and simplicity of Mediterranean cuisine.\n\nWith attentive service, a peaceful beachfront atmosphere, and the sound of the waves in the background, Ta Kymata Seafood | Beach Bar offers a dining experience that captures the true spirit of the Greek coast.\n\nTa Kymata – Where every wave brings the authentic taste of the Mediterranean. 🌊🦐🇬🇷",
+  "descriptionRo": "Ta Kymata Seafood | Beach Bar – Gustul mării în inima Halkidikiului\n\nSituat chiar pe malul mării, în Nea Kallikratia, Ta Kymata Seafood | Beach Bar este locul ideal pentru cei care doresc să combine relaxarea pe plajă cu savoarea autentică a bucătăriei grecești. Cu o priveliște spectaculoasă asupra Mării Egee și o atmosferă primitoare, restaurantul oferă cadrul perfect pentru momente speciale alături de familie și prieteni.\n\nMeniul pune în valoare preparate din pește și fructe de mare, salate proaspete, specialități tradiționale grecești și preparate la grătar, toate pregătite cu grijă și inspirate din gastronomia mediteraneană. Fie că alegeți un prânz ușor după o zi petrecută la plajă sau o cină relaxantă în timp ce admirați apusul, fiecare preparat este conceput pentru a evidenția prospețimea ingredientelor și gusturile autentice ale Greciei.\n\nÎntr-un ambient relaxat, completat de briza mării și ospitalitatea grecească, Ta Kymata Seafood | Beach Bar vă invită să vă bucurați de o experiență culinară memorabilă pe litoralul din Halkidiki.\n\nTa Kymata – Unde fiecare val aduce gustul autentic al Mediteranei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/τα-κυματα-beach-bar5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/τα-κυματα-beach-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "15Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "live_music"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek"
+  ]
+}
