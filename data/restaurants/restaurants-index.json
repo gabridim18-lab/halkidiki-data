@@ -3098,5 +3098,33 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "kochyli",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-plagia-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Kochyli",
+    "titleRo": "Kochyli",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli-hero.webp",
+    "lat": 40.25831080261786,
+    "lon": 23.201310262307196,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Kochyli Taverna – Authentic Greek Flavors from the Sea Located in Nea Plagia, Halkidiki, Kochyli Taverna welcomes you to experience...",
+    "shortRo": "Kochyli Taverna – Bucătărie grecească autentică, inspirată de mare Situată în Nea Plagia, Halkidiki, Kochyli Taverna vă invită să...",
+    "features": [
+      "restaurant",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

@@ -1,0 +1,185 @@
+{
+  "id": "kochyli",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-plagia-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Kochyli",
+  "titleRo": "Kochyli",
+  "displayAddress": "Nea Plaghia 632 00, Greece",
+  "gpsCoordinates": "40.25831080261786, 23.201310262307196",
+  "lat": 40.25831080261786,
+  "lon": 23.201310262307196,
+  "openingHoursRaw": "Tuesday\n\t\n\n    1–10 pm\n\n\t\nWednesday\n\t\n\n    1–10 pm\n\n\t\nThursday\n\t\n\n    1–10 pm\n\n\t\nFriday\n\t\n\n    1–10 pm\n\n\t\nSaturday\n\t\n\n    1–10 pm\n\n\t\nSunday\n\t\n\n    1–10 pm\n\n\t\nMonday\n\t\n\n    1–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–22:00; Tuesday: 13:00–22:00; Wednesday: 13:00–22:00; Thursday: 13:00–22:00; Friday: 13:00–22:00; Saturday: 13:00–22:00; Sunday: 13:00–22:00",
+  "hoursRo": "Luni: 13:00–22:00; Marți: 13:00–22:00; Miercuri: 13:00–22:00; Joi: 13:00–22:00; Vineri: 13:00–22:00; Sâmbătă: 13:00–22:00; Duminică: 13:00–22:00",
+  "website": "https://www.kochyli.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+30 6973 661629",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Kochyli Taverna – Authentic Greek Flavors from the Sea\n\nLocated in Nea Plagia, Halkidiki, Kochyli Taverna welcomes you to experience the authentic taste of Greek cuisine in a warm and inviting atmosphere. Inspired by the culinary traditions of the Mediterranean and the freshness of the Aegean Sea, the tavern serves carefully prepared dishes made with quality ingredients and traditional recipes.\n\nOur menu features a wide selection of fresh fish, seafood specialties, traditional Greek appetizers, crisp salads, pasta, risotto, grilled dishes, premium meat options, and homemade desserts. Every meal is prepared with care to highlight the natural flavors of fresh ingredients and the rich heritage of Greek gastronomy.\n\nWhether you're enjoying a relaxed lunch after a day at the beach or a memorable dinner with family and friends, Kochyli Taverna offers a genuine dining experience where delicious food meets warm Greek hospitality.\n\nKochyli Taverna – Fresh ingredients, authentic recipes, and the true taste of the Mediterranean. 🇬🇷🐟🍽️",
+  "descriptionRo": "Kochyli Taverna – Bucătărie grecească autentică, inspirată de mare\n\nSituată în Nea Plagia, Halkidiki, Kochyli Taverna vă invită să descoperiți savoarea autentică a bucătăriei grecești într-o atmosferă caldă și primitoare. Inspirată de tradițiile mediteraneene și de bogăția Mării Egee, taverna oferă preparate pregătite cu grijă, folosind ingrediente proaspete și rețete locale.\n\nMeniul include o selecție variată de pește proaspăt, fructe de mare, aperitive tradiționale, salate proaspete, paste, risotto și preparate la grătar, alături de specialități din carne și deserturi delicioase. Fiecare preparat este gătit cu pasiune pentru a pune în valoare aromele autentice ale Greciei și prospețimea ingredientelor.\n\nFie că vă opriți pentru un prânz relaxant după o zi petrecută la plajă sau pentru o cină în compania familiei și a prietenilor, Kochyli Taverna vă oferă o experiență culinară autentică, completată de ospitalitatea grecească și atmosfera liniștită a litoralului din Halkidiki.\n\nKochyli Taverna – Prospețime, tradiție și gustul autentic al Mediteranei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/kochyli4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kochyli/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
