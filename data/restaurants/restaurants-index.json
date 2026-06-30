@@ -3072,5 +3072,31 @@
       "seafood",
       "greek"
     ]
+  },
+  {
+    "id": "copa-cantina",
+    "zone": "Thessaloniki",
+    "beachSlug": "mykoniatika-secret-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Copa Cantina",
+    "titleRo": "Copa Cantina",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/copa-cantina/images/copa-cantina-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/copa-cantina/images/copa-cantina-hero.webp",
+    "lat": 40.29973872676124,
+    "lon": 23.101048180838426,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Copa Cantina Beach Bar – Your Perfect Beach Escape Located on Geoponika Beach in Nea Kallikratia, Copa Cantina Beach Bar is the...",
+    "shortRo": "Copa Cantina Beach Bar – Atmosfera perfectă pentru o zi la mare Situat pe plaja Geoponika din Nea Kallikratia, Copa Cantina Beach Bar...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
