@@ -1,0 +1,149 @@
+{
+  "id": "barracuda-all-day",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-plagia-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Barracuda All Day",
+  "titleRo": "Barracuda All Day",
+  "displayAddress": "Θερμαϊκού 13, Nea Propontida 632 00, Greece",
+  "gpsCoordinates": "40.25780738043392, 23.20491943271246",
+  "lat": 40.25780738043392,
+  "lon": 23.20491943271246,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9 am–11 pm\n\n\t\nThursday\n\t\n\n    9 am–11 pm\n\n\t\nFriday\n\t\n\n    9 am–11 pm\n\n\t\nSaturday\n\t\n\n    9 am–11 pm\n\n\t\nSunday\n\t\n\n    9 am–11 pm\n\n\t\nMonday\n\t\n\n    9 am–11 pm\n\n\t\nTuesday\n\t\n\n    9 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:00; Tuesday: 09:00–23:00; Wednesday: 09:00–23:00; Thursday: 09:00–23:00; Friday: 09:00–23:00; Saturday: 09:00–23:00; Sunday: 09:00–23:00",
+  "hoursRo": "Luni: 09:00–23:00; Marți: 09:00–23:00; Miercuri: 09:00–23:00; Joi: 09:00–23:00; Vineri: 09:00–23:00; Sâmbătă: 09:00–23:00; Duminică: 09:00–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306994888855",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Barracuda All Day Beach Bar – From Sunrise to Sunset\n\nLocated on the beautiful coastline of Nea Propontida, Barracuda All Day Beach Bar is the perfect place to enjoy every moment of your day by the Aegean Sea. From your morning coffee to refreshing afternoon drinks and breathtaking sunsets, the bar offers a relaxed atmosphere where summer memories are made.\n\nStart your day with freshly brewed coffee or a refreshing juice, cool off with signature cocktails and chilled beverages, or enjoy tasty snacks while listening to the sound of the waves. Whether you're looking for a peaceful place to unwind, spend time with friends, or simply enjoy the Greek sunshine, Barracuda All Day Beach Bar offers the perfect setting.\n\nWith friendly service, stunning sea views, and a vibrant beachfront atmosphere, every visit captures the true spirit of a Greek summer.\n\nBarracuda All Day Beach Bar – Relax, refresh, and enjoy every moment by the sea. ☀️🌊🍹",
+  "descriptionRo": "Barracuda All Day Beach Bar – Relaxare și energie pe malul Mării Egee\n\nSituat pe litoralul din Nea Propontida, Barracuda All Day Beach Bar este destinația perfectă pentru cei care doresc să se bucure de fiecare moment al zilei într-o atmosferă modernă și relaxată. De la primele ore ale dimineții până la apus, beach bar-ul oferă cadrul ideal pentru o experiență autentică de vacanță pe malul Mării Egee.\n\nÎncepeți ziua cu o cafea aromată sau un suc proaspăt, răcoriți-vă cu băuturi și cocktailuri pregătite cu grijă sau savurați gustări delicioase în timp ce vă bucurați de soare și de briza mării. Fie că veniți pentru relaxare, muzică bună sau momente petrecute alături de familie și prieteni, Barracuda All Day Beach Bar vă întâmpină cu ospitalitate și o atmosferă plină de energie.\n\nCu priveliști superbe asupra mării, servicii prietenoase și un ambient plăcut, fiecare vizită devine o amintire de neuitat în inima Halkidikiului.\n\nBarracuda All Day Beach Bar – Bucurați-vă de fiecare clipă, de la răsărit până la apus.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Coffee"
+  ],
+  "diningOptions": [
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "20 Euro first row",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

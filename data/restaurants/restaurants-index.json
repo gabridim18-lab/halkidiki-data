@@ -3126,5 +3126,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "barracuda-all-day",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-plagia-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Barracuda All Day",
+    "titleRo": "Barracuda All Day",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barracuda-all-day/images/barracuda-all-day-hero.webp",
+    "lat": 40.25780738043392,
+    "lon": 23.20491943271246,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Barracuda All Day Beach Bar – From Sunrise to Sunset Located on the beautiful coastline of Nea Propontida, Barracuda All Day Beach Bar...",
+    "shortRo": "Barracuda All Day Beach Bar – Relaxare și energie pe malul Mării Egee Situat pe litoralul din Nea Propontida, Barracuda All Day Beach...",
+    "features": [
+      "sunbeds",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
