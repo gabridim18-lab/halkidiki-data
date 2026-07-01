@@ -3180,5 +3180,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "tropicana",
+    "zone": "Thessaloniki",
+    "beachSlug": "flogita-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Tropicana",
+    "titleRo": "Tropicana",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tropicana/images/tropicana-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tropicana/images/tropicana-hero.webp",
+    "lat": 40.25769253142634,
+    "lon": 23.210577133763326,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Tropicana Beach Bar & Cafe – Tropical Vibes by the Aegean Sea Located in Flogita, Halkidiki, Tropicana Beach Bar & Cafe is the perfect...",
+    "shortRo": "Tropicana Beach Bar & Cafe – Atmosferă tropicală pe malul Mării Egee Situat în Flogita, Halkidiki, Tropicana Beach Bar & Cafe este...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
