@@ -3153,5 +3153,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "monkeys-beach-bar",
+    "zone": "Thessaloniki",
+    "beachSlug": "nea-plagia-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Monkey's Beach Bar",
+    "titleRo": "Monkey's Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar-hero.webp",
+    "lat": 40.2583633811445,
+    "lon": 23.20691542051173,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Monkey's Beach Bar – Great Food, Great Drinks, Great Beach Vibes Located in Nea Plagia, Halkidiki, Monkey's Beach Bar is the perfect...",
+    "shortRo": "Monkey's Beach Bar – Gust, relaxare și distracție pe malul mării Situat în Nea Plagia, Halkidiki, Monkey's Beach Bar este locul...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

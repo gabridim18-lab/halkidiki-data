@@ -1,0 +1,175 @@
+{
+  "id": "monkeys-beach-bar",
+  "zone": "Thessaloniki",
+  "beachSlug": "nea-plagia-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Monkey's Beach Bar",
+  "titleRo": "Monkey's Beach Bar",
+  "displayAddress": "Θερμαϊκού, Nea Plagia 632 00, Greece",
+  "gpsCoordinates": "40.2583633811445, 23.20691542051173",
+  "lat": 40.2583633811445,
+  "lon": 23.20691542051173,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9:30 am–2 am\n\n\t\nThursday\n\t\n\n    9:30 am–2 am\n\n\t\nFriday\n\t\n\n    9:30 am–2 am\n\n\t\nSaturday\n\t\n\n    9:30 am–2 am\n\n\t\nSunday\n\t\n\n    9:30 am–2 am\n\n\t\nMonday\n\t\n\n    9:30 am–2 am\n\n\t\nTuesday\n\t\n\n    9:30 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–02:00; Tuesday: 09:30–02:00; Wednesday: 09:30–02:00; Thursday: 09:30–02:00; Friday: 09:30–02:00; Saturday: 09:30–02:00; Sunday: 09:30–02:00",
+  "hoursRo": "Luni: 09:30–02:00; Marți: 09:30–02:00; Miercuri: 09:30–02:00; Joi: 09:30–02:00; Vineri: 09:30–02:00; Sâmbătă: 09:30–02:00; Duminică: 09:30–02:00",
+  "website": "https://drive.google.com/file/d/1TGhzUZIRActXeh8qMne5SpmCnBRyFikV/view?usp=sharing",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306973403318",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Monkey's Beach Bar – Great Food, Great Drinks, Great Beach Vibes\n\nLocated in Nea Plagia, Halkidiki, Monkey's Beach Bar is the perfect place to enjoy delicious food, refreshing drinks, and the relaxed atmosphere of the Greek seaside. Just steps from the beach, it offers the ideal setting to unwind, soak up the sun, and create unforgettable summer memories.\n\nOur menu features juicy burgers, freshly prepared sandwiches, club sandwiches, tasty snacks, and refreshing beverages, making it the perfect stop for a light lunch or a satisfying meal by the sea. Whether you're starting your morning with a coffee, taking a break from swimming, or ending the day with your favorite drink, Monkey's Beach Bar provides a welcoming atmosphere for every occasion.\n\nWith friendly service, a laid-back beach vibe, and beautiful coastal surroundings, Monkey's Beach Bar is the perfect destination to relax and enjoy the best of the Greek summer.\n\nMonkey's Beach Bar – Where every bite, every drink, and every sunset makes your day even better. 🌊☀️🍔🍹",
+  "descriptionRo": "Monkey's Beach Bar – Gust, relaxare și distracție pe malul mării\n\nSituat în Nea Plagia, Halkidiki, Monkey's Beach Bar este locul perfect pentru cei care doresc să combine o zi relaxantă la plajă cu preparate gustoase și o atmosferă plină de energie. Cu vedere la Marea Egee, muzică plăcută și o ambianță prietenoasă, beach bar-ul oferă cadrul ideal pentru a vă bucura de fiecare moment al verii.\n\nMeniul include burgeri suculenți, sandwich-uri și club sandwich-uri proaspăt pregătite, gustări savuroase și băuturi răcoritoare, perfecte pentru o pauză între băile de soare sau pentru o masă relaxată alături de familie și prieteni. Fie că începeți ziua cu o cafea, savurați un prânz pe plajă sau vă răcoriți cu un cocktail la apus, Monkey's Beach Bar vă oferă o experiență autentică de vacanță.\n\nCu servicii prietenoase, un decor modern și atmosfera specifică litoralului grecesc, fiecare vizită este o invitație la relaxare și voie bună.\n\nMonkey's Beach Bar – Mâncare bună, băuturi răcoritoare și zile perfecte la mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/monkeys-beach-bar4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monkeys-beach-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Live music"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "5Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "live_music"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
