@@ -1,0 +1,172 @@
+{
+  "id": "fisheye",
+  "zone": "Thessaloniki",
+  "beachSlug": "dionisiou-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Fisheye",
+  "titleRo": "Fisheye",
+  "displayAddress": "Λεφόρος 1η 29, Paralia Dionisiou 632 00, Greece",
+  "gpsCoordinates": "40.24962547973405, 23.248078748505254",
+  "lat": 40.24962547973405,
+  "lon": 23.248078748505254,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–1 am\n\n\t\nSaturday\n\t\n\n    9 am–1 am\n\n\t\nSunday\n\t\n\n    9 am–1 am\n\n\t\nMonday\n\t\n\n    9 am–1 am\n\n\t\nTuesday\n\t\n\n    9 am–1 am\n\n\t\nWednesday\n\t\n\n    9 am–1 am\n\n\t\nThursday\n\t\n\n    9 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–01:00; Tuesday: 09:00–01:00; Wednesday: 09:00–01:00; Thursday: 09:00–01:00; Friday: 09:00–01:00; Saturday: 09:00–01:00; Sunday: 09:00–01:00",
+  "hoursRo": "Luni: 09:00–01:00; Marți: 09:00–01:00; Miercuri: 09:00–01:00; Joi: 09:00–01:00; Vineri: 09:00–01:00; Sâmbătă: 09:00–01:00; Duminică: 09:00–01:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306944684351",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Fisheye Beach Bar – Relax, Refresh & Enjoy the Greek Summer\n\nLocated in Paralia Dionisiou, Halkidiki, Fisheye Beach Bar is the perfect seaside destination for anyone looking to enjoy delicious food, refreshing drinks, and a laid-back beach atmosphere. Just steps from the crystal-clear waters of the Aegean Sea, it offers everything you need for a memorable summer day.\n\nThe menu features aromatic coffee, signature and classic cocktails, refreshing beverages, beers, smoothies, fresh salads, juicy burgers, club sandwiches, and a variety of tasty snacks, making it the perfect choice from morning until sunset. Whether you're enjoying breakfast by the sea, taking a break from the beach, or sipping your favorite cocktail while watching the sunset, Fisheye Beach Bar creates the perfect summer experience.\n\nWith friendly service, beautiful sea views, and a welcoming atmosphere, Fisheye Beach Bar is the ideal place to relax, unwind, and enjoy the best of Halkidiki.\n\nFisheye Beach Bar – Great food, refreshing cocktails, stunning sea views, and unforgettable summer moments. 🌊☀️🍹🍔",
+  "descriptionRo": "Fisheye Beach Bar – Relaxare, cocktailuri și gustul verii în Halkidiki\n\nSituat în Paralia Dionisiou, Halkidiki, Fisheye Beach Bar este locul perfect pentru a vă bucura de atmosfera autentică a litoralului grecesc. Cu o poziție excelentă chiar lângă mare, muzică relaxantă și un ambient modern, beach bar-ul oferă combinația ideală dintre relaxare, preparate gustoase și băuturi răcoritoare.\n\nMeniul include cafele aromate, cocktailuri clasice și speciale, băuturi răcoritoare, beri, smoothie-uri, salate proaspete, burgeri, club sandwich-uri și alte gustări perfecte pentru o zi petrecută la plajă. Fie că începeți dimineața cu o cafea, luați prânzul pe terasa de lângă mare sau încheiați ziua cu un cocktail admirând apusul, Fisheye Beach Bar vă oferă o experiență de vacanță completă.\n\nCu servicii prietenoase, o atmosferă relaxată și priveliști superbe asupra Mării Egee, Fisheye Beach Bar este destinația ideală pentru momente de neuitat alături de familie și prieteni.\n\nFisheye Beach Bar – Cocktailuri excelente, preparate delicioase și relaxare la malul mării.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "15Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}

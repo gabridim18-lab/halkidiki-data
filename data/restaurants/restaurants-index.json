@@ -3460,5 +3460,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "fisheye",
+    "zone": "Thessaloniki",
+    "beachSlug": "dionisiou-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Fisheye",
+    "titleRo": "Fisheye",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fisheye/images/fisheye-hero.webp",
+    "lat": 40.24962547973405,
+    "lon": 23.248078748505254,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Fisheye Beach Bar – Relax, Refresh & Enjoy the Greek Summer Located in Paralia Dionisiou, Halkidiki, Fisheye Beach Bar is the perfect...",
+    "shortRo": "Fisheye Beach Bar – Relaxare, cocktailuri și gustul verii în Halkidiki Situat în Paralia Dionisiou, Halkidiki, Fisheye Beach Bar este...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ]
   }
 ]
