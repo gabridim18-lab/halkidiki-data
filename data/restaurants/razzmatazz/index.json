@@ -1,0 +1,157 @@
+{
+  "id": "razzmatazz",
+  "zone": "Thessaloniki",
+  "beachSlug": "flogita-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Razzmatazz",
+  "titleRo": "Razzmatazz",
+  "displayAddress": "Παραλία Ν. Φλογητά Χαλκιδικής Ν, Flogita 632 00, Greece",
+  "gpsCoordinates": "40.25723014935208, 23.215470330569666",
+  "lat": 40.25723014935208,
+  "lon": 23.215470330569666,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–2:30 am\n\n\t\nFriday\n\t\n\n    9 am–2:30 am\n\n\t\nSaturday\n\t\n\n    9 am–2:30 am\n\n\t\nSunday\n\t\n\n    9 am–2:30 am\n\n\t\nMonday\n\t\n\n    9 am–2:30 am\n\n\t\nTuesday\n\t\n\n    9 am–2:30 am\n\n\t\nWednesday\n\t\n\n    9 am–2:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:30",
+      "labelEn": "09:00–02:30",
+      "labelRo": "09:00–02:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:30",
+      "labelEn": "09:00–02:30",
+      "labelRo": "09:00–02:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:30",
+      "labelEn": "09:00–02:30",
+      "labelRo": "09:00–02:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:30",
+      "labelEn": "09:00–02:30",
+      "labelRo": "09:00–02:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:30",
+      "labelEn": "09:00–02:30",
+      "labelRo": "09:00–02:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:30",
+      "labelEn": "09:00–02:30",
+      "labelRo": "09:00–02:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:30",
+      "labelEn": "09:00–02:30",
+      "labelRo": "09:00–02:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–02:30; Tuesday: 09:00–02:30; Wednesday: 09:00–02:30; Thursday: 09:00–02:30; Friday: 09:00–02:30; Saturday: 09:00–02:30; Sunday: 09:00–02:30",
+  "hoursRo": "Luni: 09:00–02:30; Marți: 09:00–02:30; Miercuri: 09:00–02:30; Joi: 09:00–02:30; Vineri: 09:00–02:30; Sâmbătă: 09:00–02:30; Duminică: 09:00–02:30",
+  "website": "",
+  "facebook": "https://m.facebook.com/razzmatazzsummerbar/?ref=bookmarks",
+  "instagram": "",
+  "phone": "+306977130068",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Razzmatazz – Great Food, Relaxed Vibes & Seaside Moments\n\nLocated on the beautiful beachfront of Flogita, Razzmatazz is the perfect destination for anyone looking to combine delicious food, refreshing drinks, and the relaxed atmosphere of the Greek coast. With its modern style, friendly service, and vibrant beachside setting, it offers the ideal place to unwind throughout the day.\n\nThe menu features juicy burgers, freshly prepared club sandwiches, pizza, pasta, tasty appetizers, snacks, refreshing beverages, and handcrafted cocktails, all made with quality ingredients and served in a welcoming atmosphere. Whether you're enjoying a leisurely lunch, a relaxed dinner after the beach, or simply watching the sunset with your favorite drink, every visit is designed to create unforgettable memories.\n\nWith beautiful sea views, a lively yet comfortable ambiance, and genuine Greek hospitality, Razzmatazz is the perfect place to experience the best of summer in Halkidiki.\n\nRazzmatazz – Where delicious food, refreshing drinks, and unforgettable beach vibes come together. ☀️🌊🍔🍹",
+  "descriptionRo": "Razzmatazz – Gusturi moderne într-o atmosferă relaxată pe malul mării\n\nSituat pe frumoasa plajă din Flogita, Razzmatazz este locul perfect pentru cei care doresc să combine relaxarea la malul Mării Egee cu preparate gustoase și o atmosferă vibrantă. Cu un decor modern, muzică plăcută și servicii prietenoase, restaurantul și beach bar-ul oferă cadrul ideal pentru momente memorabile alături de familie și prieteni.\n\nMeniul include burgeri suculenți, club sandwich-uri, paste, pizza, aperitive, gustări și o varietate de băuturi răcoritoare și cocktailuri, pregătite cu ingrediente proaspete și atenție la detalii. Fie că vă opriți pentru un prânz relaxant, o cină după o zi petrecută pe plajă sau doar pentru o băutură admirând apusul, fiecare vizită la Razzmatazz promite o experiență plină de savoare.\n\nÎntr-o atmosferă modernă și relaxată, completată de briza mării și ospitalitatea grecească, Razzmatazz este destinația ideală pentru a vă bucura de cele mai frumoase momente ale verii în Halkidiki.\n\nRazzmatazz – Mâncare excelentă, băuturi răcoritoare și atmosfera perfectă pentru zile de neuitat la mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "30Euro per seat on the first row",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

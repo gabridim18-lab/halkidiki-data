@@ -3264,5 +3264,24 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "razzmatazz",
+    "zone": "Thessaloniki",
+    "beachSlug": "flogita-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Razzmatazz",
+    "titleRo": "Razzmatazz",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/razzmatazz/images/razzmatazz-hero.webp",
+    "lat": 40.25723014935208,
+    "lon": 23.215470330569666,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Razzmatazz – Great Food, Relaxed Vibes & Seaside Moments Located on the beautiful beachfront of Flogita, Razzmatazz is the perfect...",
+    "shortRo": "Razzmatazz – Gusturi moderne într-o atmosferă relaxată pe malul mării Situat pe frumoasa plajă din Flogita, Razzmatazz este locul...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
