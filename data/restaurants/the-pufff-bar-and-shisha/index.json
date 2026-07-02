@@ -1,0 +1,143 @@
+{
+  "id": "the-pufff-bar-and-shisha",
+  "zone": "Thessaloniki",
+  "beachSlug": "flogita-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "The Pufff Bar and Shisha",
+  "titleRo": "The Pufff Bar and Shisha",
+  "displayAddress": "Flogita, Nea Moudania 187 55, Greece",
+  "gpsCoordinates": "40.254652988734584, 23.22593986007941",
+  "lat": 40.254652988734584,
+  "lon": 23.22593986007941,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306978263926",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "The Puff Bar & Shisha – Where Summer Nights Come Alive\n\nLocated in Flogita, Halkidiki, The Puff Bar & Shisha is the perfect destination for those looking to enjoy great food, handcrafted cocktails, premium shisha, and a stylish atmosphere by the sea. Combining modern design with a relaxed yet lively vibe, it's the ideal place to unwind during the day or enjoy unforgettable evenings with friends.\n\nThe menu features juicy burgers, delicious waffles, sweet desserts, quick bites, refreshing drinks, signature frappes, handcrafted cocktails, and an extensive selection of premium shisha flavors. Whether you're stopping by for a coffee, enjoying a dessert after the beach, or spending the evening with cocktails and shisha, every visit offers a unique and enjoyable experience.\n\nWith friendly service, a welcoming atmosphere, and a vibrant setting, The Puff Bar & Shisha has become a favorite meeting spot for both locals and visitors looking to enjoy the best of the Greek summer.\n\nThe Puff Bar & Shisha – Great food, premium shisha, handcrafted cocktails, and unforgettable summer vibes. 🌙🍹💨🍔",
+  "descriptionRo": "The Puff Bar & Shisha – Locul unde serile de vară prind viață\n\nSituat în Flogita, Halkidiki, The Puff Bar & Shisha este destinația ideală pentru cei care caută o atmosferă modernă, cocktailuri excelente și seri relaxante petrecute alături de prieteni. Cu un design elegant, muzică bună și o atmosferă vibrantă, localul oferă combinația perfectă între relaxare și distracție pe litoralul grecesc.\n\nMeniul include burgeri savuroși, waffles și deserturi delicioase, gustări rapide, băuturi răcoritoare, frappe-uri, cocktailuri pregătite cu grijă și o selecție variată de shisha premium, disponibile în numeroase arome. Fie că vă opriți pentru o cafea în timpul zilei, un desert după plajă sau o seară relaxantă cu cocktailuri și narghilea, The Puff Bar & Shisha vă oferă o experiență memorabilă într-un ambient modern și primitor.\n\nCu servicii prietenoase, o atmosferă plină de energie și decor elegant, The Puff Bar & Shisha este locul perfect pentru a vă bucura de cele mai frumoase seri de vară din Halkidiki.\n\nThe Puff Bar & Shisha – Cocktailuri excelente, shisha premium și atmosfera perfectă pentru seri de neuitat.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Cocktails"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge",
+    "party"
+  ],
+  "features": [
+    "sunbeds",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": []
+}

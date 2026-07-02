@@ -3377,5 +3377,29 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "the-pufff-bar-and-shisha",
+    "zone": "Thessaloniki",
+    "beachSlug": "flogita-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "The Pufff Bar and Shisha",
+    "titleRo": "The Pufff Bar and Shisha",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-pufff-bar-and-shisha/images/the-pufff-bar-and-shisha-hero.webp",
+    "lat": 40.254652988734584,
+    "lon": 23.22593986007941,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "The Puff Bar & Shisha – Where Summer Nights Come Alive Located in Flogita, Halkidiki, The Puff Bar & Shisha is the perfect destination...",
+    "shortRo": "The Puff Bar & Shisha – Locul unde serile de vară prind viață Situat în Flogita, Halkidiki, The Puff Bar & Shisha este destinația...",
+    "features": [
+      "sunbeds",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": []
   }
 ]
