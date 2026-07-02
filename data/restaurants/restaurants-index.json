@@ -3237,5 +3237,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "luuma",
+    "zone": "Thessaloniki",
+    "beachSlug": "flogita-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Luuma",
+    "titleRo": "Luuma",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma-hero.webp",
+    "lat": 40.25741539784729,
+    "lon": 23.214896339373926,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Luuma – Seaside Elegance in Halkidiki Located in Flogita, Halkidiki, Luuma is the perfect destination for those seeking the ideal...",
+    "shortRo": "Luuma – Eleganță și relaxare pe malul Mării Egee Situat în Flogita, Halkidiki, Luuma este destinația perfectă pentru cei care caută o...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

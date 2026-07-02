@@ -1,0 +1,162 @@
+{
+  "id": "luuma",
+  "zone": "Thessaloniki",
+  "beachSlug": "flogita-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Luuma",
+  "titleRo": "Luuma",
+  "displayAddress": "Χαλκιδικής, Flogita 632 00, Greece",
+  "gpsCoordinates": "40.25741539784729, 23.214896339373926",
+  "lat": 40.25741539784729,
+  "lon": 23.214896339373926,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–2 am\n\n\t\nFriday\n\t\n\n    9 am–3 am\n\n\t\nSaturday\n\t\n\n    9 am–3 am\n\n\t\nSunday\n\t\n\n    9 am–2 am\n\n\t\nMonday\n\t\n\n    9 am–2 am\n\n\t\nTuesday\n\t\n\n    9 am–2 am\n\n\t\nWednesday\n\t\n\n    9 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–02:00; Tuesday: 09:00–02:00; Wednesday: 09:00–02:00; Thursday: 09:00–02:00; Friday: 09:00–03:00; Saturday: 09:00–03:00; Sunday: 09:00–02:00",
+  "hoursRo": "Luni: 09:00–02:00; Marți: 09:00–02:00; Miercuri: 09:00–02:00; Joi: 09:00–02:00; Vineri: 09:00–03:00; Sâmbătă: 09:00–03:00; Duminică: 09:00–02:00",
+  "website": "https://luumabeach.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+30698 20 50 256 ",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Luuma – Seaside Elegance in Halkidiki\n\nLocated in Flogita, Halkidiki, Luuma is the perfect destination for those seeking the ideal blend of modern style, relaxed beach vibes, and authentic Greek hospitality. Set just steps from the Aegean Sea, Luuma provides a welcoming atmosphere where every visit becomes a memorable part of your holiday.\n\nWhether you're starting your day with a freshly brewed coffee, enjoying refreshing drinks under the sun, savoring delicious food, or ending the evening with a handcrafted cocktail while watching the sunset, Luuma offers the perfect setting for every occasion.\n\nWith stylish surroundings, attentive service, and breathtaking sea views, Luuma is a wonderful place to relax, unwind, and experience the beauty of the Greek coast.\n\nLuuma – Where seaside elegance, great flavors, and unforgettable summer moments come together. 🌊☀️🍹",
+  "descriptionRo": "Luuma – Eleganță și relaxare pe malul Mării Egee\n\nSituat în Flogita, Halkidiki, Luuma este destinația perfectă pentru cei care caută o combinație între atmosfera relaxată a unui beach bar și eleganța unei locații moderne de pe litoral. Cu o poziție privilegiată chiar lângă mare și o ambianță primitoare, Luuma oferă cadrul ideal pentru a vă bucura de frumusețea verii grecești.\n\nDe la cafeaua de dimineață și băuturile răcoritoare până la cocktailurile creative și preparatele savuroase, fiecare moment petrecut aici este completat de priveliștea spectaculoasă asupra Mării Egee și de ospitalitatea autentică grecească. Fie că veniți pentru o zi de relaxare pe plajă, un prânz cu familia sau o seară petrecută alături de prieteni, Luuma vă întâmpină cu servicii atente și o atmosferă plină de bună dispoziție.\n\nCu muzică plăcută, decor contemporan și apusuri spectaculoase, Luuma transformă fiecare vizită într-o experiență memorabilă pe litoralul din Halkidiki.\n\nLuuma – Locul unde marea, relaxarea și gusturile autentice se întâlnesc.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/luuma5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/luuma/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating"
+  ],
+  "highlights": [
+    "Live music"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "100Euro for 2 sunbeds, umbrella and a chair in the first row",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "party",
+    "live_music"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
