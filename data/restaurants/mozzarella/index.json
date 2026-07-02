@@ -1,0 +1,178 @@
+{
+  "id": "mozzarella",
+  "zone": "Thessaloniki",
+  "beachSlug": "flogita-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "MOZZARELLA",
+  "titleRo": "MOZZARELLA",
+  "displayAddress": "Πα Παραλία Φλογητών, Flogita 632 00, Greece",
+  "gpsCoordinates": "40.2573514424686, 23.216496145395258",
+  "lat": 40.2573514424686,
+  "lon": 23.216496145395258,
+  "openingHoursRaw": "Thursday\n\t\n\n    10 am–11:30 pm\n\n\t\nFriday\n\t\n\n    10 am–11:30 pm\n\n\t\nSaturday\n\t\n\n    10 am–11:30 pm\n\n\t\nSunday\n\t\n\n    10 am–11:30 pm\n\n\t\nMonday\n\t\n\n    10 am–11:30 pm\n\n\t\nTuesday\n\t\n\n    10 am–11:30 pm\n\n\t\nWednesday\n\t\n\n    10 am–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:30; Tuesday: 10:00–23:30; Wednesday: 10:00–23:30; Thursday: 10:00–23:30; Friday: 10:00–23:30; Saturday: 10:00–23:30; Sunday: 10:00–23:30",
+  "hoursRo": "Luni: 10:00–23:30; Marți: 10:00–23:30; Miercuri: 10:00–23:30; Joi: 10:00–23:30; Vineri: 10:00–23:30; Sâmbătă: 10:00–23:30; Duminică: 10:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306942606060",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Mozzarella – Italian Flavors by the Sea\n\nLocated on the beautiful beachfront of Flogita, Mozzarella combines authentic Italian cuisine with the relaxed atmosphere of the Greek coastline. With its stylish setting, welcoming service, and seaside location, it is the perfect place to enjoy a memorable meal with family, friends, or someone special.\n\nThe menu features a delicious selection of handcrafted pizzas, fresh pasta, gourmet salads, flavorful burgers, and Mediterranean-inspired appetizers, all prepared with carefully selected ingredients to deliver rich and authentic flavors. Every dish reflects a passion for quality and a love for Italian gastronomy.\n\nWhether you're enjoying a traditional pizza, creamy pasta, or a refreshing salad while overlooking the Aegean Sea, Mozzarella offers the perfect setting to relax and savor every bite.\n\nMozzarella – Authentic Italian cuisine, Mediterranean charm, and unforgettable seaside dining. 🍕🍝🌿🇮🇹🌊",
+  "descriptionRo": "Mozzarella – Arome italienești într-un decor mediteranean\n\nSituat pe frumoasa plajă din Flogita, Mozzarella este locul unde bucătăria italiană și atmosfera relaxată a litoralului grecesc se întâlnesc pentru a crea o experiență culinară memorabilă. Cu un ambient elegant și primitor, restaurantul este alegerea perfectă pentru un prânz relaxat sau o cină alături de familie și prieteni.\n\nMeniul oferă o selecție variată de pizza coaptă cu ingrediente atent alese, paste proaspete, salate rafinate, burgeri gustoși și aperitive inspirate din bucătăria mediteraneană. Fiecare preparat este pregătit cu atenție pentru a pune în valoare prospețimea ingredientelor și aromele autentice ale Italiei și Greciei.\n\nFie că savurați o pizza tradițională, o porție de paste cremoase sau o salată proaspătă în timp ce admirați marea, Mozzarella vă oferă o atmosferă relaxată, servicii prietenoase și o experiență gastronomică de care vă veți aminti cu plăcere.\n\nMozzarella – Gust autentic italian, atmosferă mediteraneană și momente speciale la malul mării.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "international",
+    "italian",
+    "pizza"
+  ]
+}

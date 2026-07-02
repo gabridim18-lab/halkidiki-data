@@ -3292,5 +3292,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "mozzarella",
+    "zone": "Thessaloniki",
+    "beachSlug": "flogita-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "MOZZARELLA",
+    "titleRo": "MOZZARELLA",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mozzarella/images/mozzarella-hero.webp",
+    "lat": 40.2573514424686,
+    "lon": 23.216496145395258,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Mozzarella – Italian Flavors by the Sea Located on the beautiful beachfront of Flogita, Mozzarella combines authentic Italian cuisine...",
+    "shortRo": "Mozzarella – Arome italienești într-un decor mediteranean Situat pe frumoasa plajă din Flogita, Mozzarella este locul unde bucătăria...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "international",
+      "italian",
+      "pizza"
+    ]
   }
 ]
