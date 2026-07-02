@@ -1,0 +1,174 @@
+{
+  "id": "ilias-tavern",
+  "zone": "Thessaloniki",
+  "beachSlug": "dionisiou-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "ILIAS Tavern",
+  "titleRo": "ILIAS Tavern",
+  "displayAddress": "1η λεωφόρος Χατζηδημητρίου, Paralia Dionisiou 632 00, Greece",
+  "gpsCoordinates": "40.24999277934848, 23.248280737863926",
+  "lat": 40.24999277934848,
+  "lon": 23.248280737863926,
+  "openingHoursRaw": "Friday\n\t\n\n    12 am–10:30 pm\n\n\t\nSaturday\n\t\n\n    12 am–10:30 pm\n\n\t\nSunday\n\t\n\n    12 am–10:30 pm\n\n\t\nMonday\n\t\n\n    12 am–10:30 pm\n\n\t\nTuesday\n\t\n\n    12 am–10:30 pm\n\n\t\nWednesday\n\t\n\n    12 am–10:30 pm\n\n\t\nThursday\n\t\n\n    12 am–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "00:00",
+      "close": "22:30",
+      "labelEn": "00:00–22:30",
+      "labelRo": "00:00–22:30"
+    }
+  ],
+  "hoursEn": "Monday: 00:00–22:30; Tuesday: 00:00–22:30; Wednesday: 00:00–22:30; Thursday: 00:00–22:30; Friday: 00:00–22:30; Saturday: 00:00–22:30; Sunday: 00:00–22:30",
+  "hoursRo": "Luni: 00:00–22:30; Marți: 00:00–22:30; Miercuri: 00:00–22:30; Joi: 00:00–22:30; Vineri: 00:00–22:30; Sâmbătă: 00:00–22:30; Duminică: 00:00–22:30",
+  "website": "https://www.my-food.gr/#/interactiveCatalogue/XJVZEN",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306934389672",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "ILIAS Tavern – Authentic Greek Cuisine by the Sea\n\nLocated in Paralia Dionisiou, Halkidiki, ILIAS Tavern is a traditional Greek restaurant where authentic hospitality meets the freshest flavors of the Aegean Sea. Just a short walk from the beach, the tavern offers a warm and welcoming atmosphere, making it the perfect place for relaxed lunches and memorable dinners with family and friends.\n\nThe menu showcases fresh fish, seafood specialties, Mediterranean salads, traditional Greek appetizers, and homemade dishes prepared with carefully selected ingredients and time-honored local recipes. Every meal is crafted to highlight the natural flavors and culinary traditions that make Greek cuisine so unique.\n\nWhether you're enjoying a meal after a day by the sea or looking to experience the authentic taste of Greece, ILIAS Tavern welcomes you with friendly service, generous portions, and a genuine seaside atmosphere.\n\nILIAS Tavern – Fresh seafood, traditional Greek recipes, and warm hospitality in the heart of Halkidiki. 🇬🇷🌊🐟🍽️",
+  "descriptionRo": "ILIAS Tavern – Tradiția grecească și prospețimea mării într-un singur loc\n\nSituată în Paralia Dionisiou, Halkidiki, ILIAS Tavern este o tavernă tradițională grecească unde ospitalitatea autentică se îmbină perfect cu preparatele inspirate de bogăția Mării Egee. Într-o atmosferă caldă și relaxantă, la doar câțiva pași de plajă, restaurantul oferă cadrul ideal pentru prânzuri liniștite și cine memorabile alături de familie și prieteni.\n\nMeniul pune accent pe pește proaspăt și fructe de mare, completate de salate mediteraneene, aperitive tradiționale și preparate gătite după rețete grecești autentice. Ingredientele atent selecționate și prepararea cu grijă transformă fiecare masă într-o experiență culinară plină de savoare.\n\nFie că vă bucurați de o masă după o zi petrecută pe plajă sau doriți să descoperiți gusturile autentice ale Greciei, ILIAS Tavern vă întâmpină cu servicii prietenoase, porții generoase și atmosfera specifică tavernelor de pe litoralul Halkidiki.\n\nILIAS Tavern – Gustul autentic al Greciei, prospețimea mării și ospitalitatea care vă face să reveniți.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "sunbeds",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

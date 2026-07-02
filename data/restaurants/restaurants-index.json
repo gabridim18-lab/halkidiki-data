@@ -3430,5 +3430,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "ilias-tavern",
+    "zone": "Thessaloniki",
+    "beachSlug": "dionisiou-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "ILIAS Tavern",
+    "titleRo": "ILIAS Tavern",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ilias-tavern/images/ilias-tavern-hero.webp",
+    "lat": 40.24999277934848,
+    "lon": 23.248280737863926,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "ILIAS Tavern – Authentic Greek Cuisine by the Sea Located in Paralia Dionisiou, Halkidiki, ILIAS Tavern is a traditional Greek...",
+    "shortRo": "ILIAS Tavern – Tradiția grecească și prospețimea mării într-un singur loc Situată în Paralia Dionisiou, Halkidiki, ILIAS Tavern este o...",
+    "features": [
+      "sunbeds",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
