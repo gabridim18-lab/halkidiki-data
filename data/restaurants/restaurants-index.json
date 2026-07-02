@@ -3401,5 +3401,34 @@
       "sunset_view"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "costa-blue-summer",
+    "zone": "Thessaloniki",
+    "beachSlug": "flogita-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Costa Blue Summer",
+    "titleRo": "Costa Blue Summer",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer-hero.webp",
+    "lat": 40.254287685966744,
+    "lon": 23.226520262071723,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Costa Blue Summer Restaurant Cafe – The Taste of Summer by the Sea Located on the beautiful beachfront of Flogita, Costa Blue Summer...",
+    "shortRo": "Costa Blue Summer Restaurant Cafe – Gustul verii, chiar pe malul mării Situat pe frumoasa plajă din Flogita, Costa Blue Summer...",
+    "features": [
+      "sunbeds",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

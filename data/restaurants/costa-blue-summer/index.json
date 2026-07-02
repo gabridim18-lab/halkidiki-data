@@ -1,0 +1,170 @@
+{
+  "id": "costa-blue-summer",
+  "zone": "Thessaloniki",
+  "beachSlug": "flogita-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Costa Blue Summer",
+  "titleRo": "Costa Blue Summer",
+  "displayAddress": "Παραλία Νέων Φλογητών, Flogita 632 00, Greece",
+  "gpsCoordinates": "40.254287685966744, 23.226520262071723",
+  "lat": 40.254287685966744,
+  "lon": 23.226520262071723,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–10:30 pm\n\n\t\nSaturday\n\t\n\n    9 am–10:30 pm\n\n\t\nSunday\n\t\n\n    9 am–10:30 pm\n\n\t\nMonday\n\t\n\n    9 am–10:30 pm\n\n\t\nTuesday\n\t\n\n    9 am–10:30 pm\n\n\t\nWednesday\n\t\n\n    9 am–10:30 pm\n\n\t\nThursday\n\t\n\n    9 am–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:30",
+      "labelEn": "09:00–22:30",
+      "labelRo": "09:00–22:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:30",
+      "labelEn": "09:00–22:30",
+      "labelRo": "09:00–22:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:30",
+      "labelEn": "09:00–22:30",
+      "labelRo": "09:00–22:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:30",
+      "labelEn": "09:00–22:30",
+      "labelRo": "09:00–22:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:30",
+      "labelEn": "09:00–22:30",
+      "labelRo": "09:00–22:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:30",
+      "labelEn": "09:00–22:30",
+      "labelRo": "09:00–22:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:30",
+      "labelEn": "09:00–22:30",
+      "labelRo": "09:00–22:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–22:30; Tuesday: 09:00–22:30; Wednesday: 09:00–22:30; Thursday: 09:00–22:30; Friday: 09:00–22:30; Saturday: 09:00–22:30; Sunday: 09:00–22:30",
+  "hoursRo": "Luni: 09:00–22:30; Marți: 09:00–22:30; Miercuri: 09:00–22:30; Joi: 09:00–22:30; Vineri: 09:00–22:30; Sâmbătă: 09:00–22:30; Duminică: 09:00–22:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306942422676",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Costa Blue Summer Restaurant Cafe – The Taste of Summer by the Sea\n\nLocated on the beautiful beachfront of Flogita, Costa Blue Summer Restaurant Cafe invites you to experience authentic Greek hospitality in an elegant seaside setting. Overlooking the crystal-clear waters of the Aegean Sea, it is the perfect destination for relaxing lunches, memorable dinners, and unforgettable summer moments.\n\nThe menu showcases fresh fish, premium seafood, traditional Greek specialties, carefully prepared meat dishes, and homemade soups, all crafted with high-quality ingredients and inspired by Mediterranean culinary traditions. Whether you're enjoying a leisurely meal after a day at the beach or a romantic dinner while watching the sunset, every dish is designed to celebrate the authentic flavors of Greece.\n\nWith attentive service, a welcoming atmosphere, and breathtaking sea views, Costa Blue Summer Restaurant Cafe offers a dining experience that perfectly captures the beauty and charm of the Halkidiki coastline.\n\nCosta Blue Summer Restaurant Cafe – Fresh seafood, authentic Greek cuisine, and unforgettable moments by the Aegean Sea. 🌊🐟🍽️☀️",
+  "descriptionRo": "Costa Blue Summer Restaurant Cafe – Gustul verii, chiar pe malul mării\n\nSituat pe frumoasa plajă din Flogita, Costa Blue Summer Restaurant Cafe vă invită să descoperiți farmecul autentic al litoralului grecesc într-o atmosferă elegantă și relaxată. Cu o priveliște spectaculoasă asupra Mării Egee și o ospitalitate caldă, restaurantul este locul ideal pentru a vă bucura de momente speciale alături de familie și prieteni.\n\nMeniul pune în valoare peștele proaspăt și fructele de mare, preparatele tradiționale grecești, specialitățile din carne și supele pregătite cu grijă, folosind ingrediente de calitate și rețete inspirate din bucătăria mediteraneană. Fie că alegeți un prânz după o zi petrecută pe plajă sau o cină romantică în timp ce admirați apusul, fiecare preparat este creat pentru a evidenția prospețimea ingredientelor și aromele autentice ale Greciei.\n\nÎntr-un decor elegant, completat de briza mării și de servicii atente, Costa Blue Summer Restaurant Cafe oferă o experiență culinară memorabilă, unde fiecare masă devine parte din vacanța dumneavoastră.\n\nCosta Blue Summer Restaurant Cafe – Prospețime, savoare și priveliști superbe într-un decor mediteranean de excepție.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/costa-blue-summer5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/costa-blue-summer/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "sunbeds",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
