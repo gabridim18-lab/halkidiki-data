@@ -151,7 +151,20 @@
   "pets": [],
   "sunbedPrice": "30Euro per seat on the first row",
   "sunbedConsumationIncluded": true,
-  "musicStyles": [],
-  "features": [],
-  "cuisineTypes": []
+  "musicStyles": [
+    "chill",
+    "party",
+    "live_music"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
 }

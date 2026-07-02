@@ -3281,7 +3281,16 @@
     "price": "$$",
     "shortEn": "Razzmatazz – Great Food, Relaxed Vibes & Seaside Moments Located on the beautiful beachfront of Flogita, Razzmatazz is the perfect...",
     "shortRo": "Razzmatazz – Gusturi moderne într-o atmosferă relaxată pe malul mării Situat pe frumoasa plajă din Flogita, Razzmatazz este locul...",
-    "features": [],
-    "cuisineTypes": []
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
