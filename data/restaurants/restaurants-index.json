@@ -3349,5 +3349,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "la-plage",
+    "zone": "Thessaloniki",
+    "beachSlug": "flogita-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "La Plage",
+    "titleRo": "La Plage",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage-hero.webp",
+    "lat": 40.25491542536648,
+    "lon": 23.224141233640964,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "La Plage Beach Bar – Relax, Refresh & Enjoy the Sea Located on the beautiful coastline of Nea Propontida, La Plage Beach Bar is the...",
+    "shortRo": "La Plage Beach Bar – Eleganță și relaxare pe litoralul din Halkidiki Situat pe malul mării, în Nea Propontida, La Plage Beach Bar este...",
+    "features": [
+      "sunbeds",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

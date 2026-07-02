@@ -1,0 +1,173 @@
+{
+  "id": "la-plage",
+  "zone": "Thessaloniki",
+  "beachSlug": "flogita-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "La Plage",
+  "titleRo": "La Plage",
+  "displayAddress": "Unnamed Road, Nea Propontida 632 00, Greece",
+  "gpsCoordinates": "40.25491542536648, 23.224141233640964",
+  "lat": 40.25491542536648,
+  "lon": 23.224141233640964,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "https://dmpmenu.gr/la-plage-menu",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306982911992",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "La Plage Beach Bar – Relax, Refresh & Enjoy the Sea\n\nLocated on the beautiful coastline of Nea Propontida, La Plage Beach Bar is the perfect destination for those looking to enjoy the relaxed atmosphere of the Greek seaside. With stunning views of the Aegean Sea, stylish surroundings, and a welcoming ambiance, it offers everything you need for an unforgettable beach experience.\n\nStart your day with a freshly brewed coffee, cool off with refreshing drinks, or enjoy a handcrafted cocktail while watching the sunset over the sea. Complement your day with delicious light bites and quality refreshments, all served in a relaxed beachfront setting.\n\nWhether you're spending the day under the sun, meeting friends, or simply enjoying the peaceful sound of the waves, La Plage Beach Bar combines friendly service, great flavors, and beautiful scenery to create the perfect summer escape.\n\nLa Plage Beach Bar – Where sunshine, sea views, and unforgettable summer moments come together. ☀️🌊🍹",
+  "descriptionRo": "La Plage Beach Bar – Eleganță și relaxare pe litoralul din Halkidiki\n\nSituat pe malul mării, în Nea Propontida, La Plage Beach Bar este locul ideal pentru cei care doresc să se bucure de farmecul verii într-o atmosferă modernă și relaxată. Cu priveliști spectaculoase asupra Mării Egee și un ambient primitor, beach bar-ul oferă cadrul perfect pentru momente de neuitat alături de familie și prieteni.\n\nFie că începeți ziua cu o cafea aromată, vă răcoriți cu o băutură rece sau savurați un cocktail în timp ce admirați apusul, La Plage vă oferă o experiență autentică de vacanță. Meniul este completat de gustări ușoare și preparate delicioase, ideale pentru o zi petrecută la plajă.\n\nCu servicii prietenoase, muzică relaxantă și atmosfera specifică litoralului grecesc, La Plage Beach Bar este destinația perfectă pentru relaxare, socializare și momente memorabile la malul mării.\n\nLa Plage Beach Bar – Soare, mare și atmosfera perfectă pentru fiecare zi de vacanță.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/la-plage4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-plage/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "5Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
