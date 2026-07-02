@@ -3320,5 +3320,34 @@
       "italian",
       "pizza"
     ]
+  },
+  {
+    "id": "taverna-votsalo",
+    "zone": "Thessaloniki",
+    "beachSlug": "flogita-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Taverna Votsalo",
+    "titleRo": "Taverna Votsalo",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo-hero.webp",
+    "lat": 40.25728335814252,
+    "lon": 23.216854217792985,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Taverna Votsalo – Authentic Greek Dining by the Sea Located in Flogita, Halkidiki, Taverna Votsalo invites you to experience the...",
+    "shortRo": "Taverna Votsalo – Tradiția Greciei, chiar pe malul mării Situată în Flogita, Halkidiki, Taverna Votsalo este locul ideal pentru a...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

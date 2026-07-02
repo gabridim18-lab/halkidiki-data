@@ -1,0 +1,170 @@
+{
+  "id": "taverna-votsalo",
+  "zone": "Thessaloniki",
+  "beachSlug": "flogita-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Taverna Votsalo",
+  "titleRo": "Taverna Votsalo",
+  "displayAddress": "Νέα, Flogita 632 00, Greece",
+  "gpsCoordinates": "40.25728335814252, 23.216854217792985",
+  "lat": 40.25728335814252,
+  "lon": 23.216854217792985,
+  "openingHoursRaw": "Thursday\n\t\n\n    10 am–11:30 pm\n\n\t\nFriday\n\t\n\n    10 am–11:30 pm\n\n\t\nSaturday\n\t\n\n    10 am–11:30 pm\n\n\t\nSunday\n\t\n\n    10 am–11:30 pm\n\n\t\nMonday\n\t\n\n    10 am–11:30 pm\n\n\t\nTuesday\n\t\n\n    10 am–11:30 pm\n\n\t\nWednesday\n\t\n\n    10 am–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:30; Tuesday: 10:00–23:30; Wednesday: 10:00–23:30; Thursday: 10:00–23:30; Friday: 10:00–23:30; Saturday: 10:00–23:30; Sunday: 10:00–23:30",
+  "hoursRo": "Luni: 10:00–23:30; Marți: 10:00–23:30; Miercuri: 10:00–23:30; Joi: 10:00–23:30; Vineri: 10:00–23:30; Sâmbătă: 10:00–23:30; Duminică: 10:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306937655784",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Taverna Votsalo – Authentic Greek Dining by the Sea\n\nLocated in Flogita, Halkidiki, Taverna Votsalo invites you to experience the authentic flavors of Greek cuisine in a warm and welcoming seaside setting. Just a short walk from the beach, the tavern combines traditional Greek hospitality with freshly prepared dishes inspired by the rich culinary heritage of the Mediterranean.\n\nThe menu features a delicious selection of fresh salads, traditional appetizers, classic fish meze, and carefully prepared Greek specialties, all made with quality ingredients and genuine local recipes. Whether you're stopping by for a leisurely lunch after the beach or enjoying a relaxing dinner with family and friends, every meal is crafted to celebrate the authentic taste of Greece.\n\nWith friendly service, a cozy atmosphere, and the relaxing sound of the nearby sea, Taverna Votsalo offers a memorable dining experience that captures the true spirit of Halkidiki.\n\nTaverna Votsalo – Fresh ingredients, traditional Greek flavors, and unforgettable moments by the sea. 🇬🇷🌊🍽️",
+  "descriptionRo": "Taverna Votsalo – Tradiția Greciei, chiar pe malul mării\n\nSituată în Flogita, Halkidiki, Taverna Votsalo este locul ideal pentru a descoperi gusturile autentice ale bucătăriei grecești într-o atmosferă caldă și relaxantă. Cu o amplasare aproape de plajă și o priveliște minunată asupra Mării Egee, taverna îmbină ospitalitatea tradițională cu preparatele pregătite din ingrediente proaspete și atent selecționate.\n\nMeniul oferă o varietate de salate proaspete, aperitive tradiționale, meze din pește și preparate inspirate din gastronomia mediteraneană, toate gătite cu respect pentru rețetele autentice grecești. Fie că alegeți un prânz după o zi petrecută la mare sau o cină relaxantă alături de cei dragi, fiecare preparat este creat pentru a evidenția prospețimea ingredientelor și aromele locale.\n\nÎntr-un decor primitor, completat de briza mării și de servicii atente, Taverna Votsalo vă invită să vă bucurați de momente speciale și de adevărata ospitalitate grecească.\n\nTaverna Votsalo – Tradiție, prospețime și gusturi autentice în inima Halkidikiului.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/taverna-votsalo4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-votsalo/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Live music"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "live_music"
+  ],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
