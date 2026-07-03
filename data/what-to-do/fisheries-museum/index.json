@@ -1,0 +1,29 @@
+{
+  "id": "fisheries-museum",
+  "type": "what_to_do",
+  "beaches": [
+    "paralia-nea-moudania"
+  ],
+  "titleEn": "Fisheries Museum",
+  "titleRo": "Fisheries Museum",
+  "categoryEn": "museum",
+  "categoryRo": "muzeu",
+  "address": "Βιθυνίας 2, Nea Moudania 632 00, Greece",
+  "hoursEn": "Mo - Fri: 08:00 - 16:00",
+  "hoursRo": "Lu - Vi: 08:00 - 16:00",
+  "website": "https://www.nea-propontida.gr/directory/fisheries-museum/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.24123705207759,
+    "lon": 23.277099528870934
+  },
+  "phone": "+302373026166",
+  "price": "Free",
+  "descriptionEn": "Fisheries Museum – Discover Halkidiki's Maritime Heritage\n\nLocated in Nea Moudania, the Fisheries Museum offers visitors a fascinating journey through the rich maritime history and fishing traditions of Halkidiki. The museum showcases traditional fishing boats, authentic fishing equipment, historical photographs, and a variety of exhibits that illustrate the evolution of local fishing practices over the years.\n\nA visit to the museum provides a unique opportunity to explore the cultural heritage of the region and understand the deep connection between the local communities and the Aegean Sea. Every exhibit tells the story of the fishermen, their craftsmanship, and the way of life that has shaped the coastal identity of Halkidiki.\n\nPerfect for families, history enthusiasts, and anyone interested in Greek maritime culture, the museum offers an engaging and educational experience for visitors of all ages.\n\nFisheries Museum – Explore the traditions, craftsmanship, and maritime history that have shaped the heart of Halkidiki. ⚓🐟🏛️🌊",
+  "descriptionRo": "Muzeul Ambarcațiunilor și Uneltelor de Pescuit – O călătorie în tradițiile maritime ale Halkidikiului\n\nSituat în Nea Moudania, Muzeul Ambarcațiunilor și Uneltelor de Pescuit oferă vizitatorilor o incursiune fascinantă în istoria pescuitului și în tradițiile maritime care au modelat viața comunităților de pe litoralul Halkidikiului. Expozițiile prezintă ambarcațiuni tradiționale, unelte de pescuit autentice, fotografii de epocă și obiecte care ilustrează evoluția acestei ocupații de-a lungul generațiilor.\n\nVizita la muzeu reprezintă o oportunitate excelentă de a descoperi patrimoniul cultural al regiunii și de a înțelege legătura profundă dintre locuitorii zonei și Marea Egee. Fiecare exponat spune o poveste despre munca pescarilor, meșteșugurile locale și modul de viață al comunităților maritime.\n\nPotrivit atât pentru familii, cât și pentru pasionații de istorie, cultură și navigație, muzeul oferă o experiență educativă și captivantă pentru vizitatori de toate vârstele.\n\nMuzeul Ambarcațiunilor și Uneltelor de Pescuit – Descoperă istoria mării și tradițiile care definesc Halkidiki.",
+  "images": [
+    "fisheries-museum1.webp",
+    "fisheries-museum2.webp",
+    "fisheries-museum3.webp"
+  ]
+}

@@ -74,5 +74,12 @@
       "nea-krini-beach",
       "perea-beach"
     ]
+  },
+  {
+    "id": "fisheries-museum",
+    "type": "what_to_do",
+    "beaches": [
+      "paralia-nea-moudania"
+    ]
   }
 ]
