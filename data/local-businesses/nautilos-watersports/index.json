@@ -1,0 +1,38 @@
+{
+  "id": "nautilos-watersports",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "dionisiou-beach",
+    "nea-moudania-beach",
+    "paralia-nea-moudania"
+  ],
+  "titleEn": "Nautilos Watersports",
+  "titleRo": "Nautilos Watersports",
+  "categoryEn": "Watersports",
+  "categoryRo": "Activitati",
+  "phone": "+306946333145",
+  "whatsapp": "+306946333145",
+  "website": "https://www.facebook.com/NAUTILOSWATERSPORTS",
+  "instagram": "",
+  "facebook": "",
+  "address": "Agiou Georgiou, Nea Moudania 632 00, Greece",
+  "lat": 40.24467908815374,
+  "lon": 23.26545104904584,
+  "coordinates": {
+    "lat": 40.24467908815374,
+    "lng": 23.26545104904584
+  },
+  "hours": {
+    "en": "Daily 10:00 - 18:00",
+    "ro": "Zilnic 10:00 - 18:00"
+  },
+  "descriptionEn": "Nautilos Watersports – Adventure Awaits on the Aegean Sea\n\nLocated in Nea Moudania, Halkidiki, Nautilos Watersports is the perfect destination for anyone looking to add excitement and adventure to their seaside holiday. Set on the beautiful shores of the Aegean Sea, it offers unforgettable watersports experiences in a stunning coastal setting.\n\nWhether you're seeking thrilling water activities, fun with family and friends, or simply looking to make the most of your beach day, Nautilos Watersports provides well-maintained equipment and friendly, professional service to ensure a safe and enjoyable experience for visitors of all ages.\n\nCombining beautiful scenery, quality service, and a passion for outdoor adventure, Nautilos Watersports is the perfect place to create unforgettable memories on the water.\n\nNautilos Watersports – Experience the thrill, embrace the sea, and make every summer moment unforgettable! 🌊☀️🚤🏄‍♂️🌅",
+  "descriptionRo": "Nautilos Watersports – Aventură și distracție pe apele Mării Egee\n\nSituat în Nea Moudania, Halkidiki, Nautilos Watersports este destinația ideală pentru iubitorii sporturilor nautice și ai aventurii. Amplasat chiar pe malul mării, centrul oferă experiențe pline de adrenalină și momente memorabile pentru vizitatori de toate vârstele, într-un cadru spectaculos, cu apele cristaline ale Mării Egee.\n\nFie că doriți să încercați activități nautice dinamice, să petreceți timp alături de familie și prieteni sau pur și simplu să adăugați un plus de aventură vacanței dumneavoastră, Nautilos Watersports vă pune la dispoziție echipamente bine întreținute și o echipă prietenoasă, pregătită să vă ofere o experiență sigură și plăcută.\n\nCu profesionalism, servicii de calitate și o atmosferă relaxată, Nautilos Watersports transformă fiecare zi petrecută pe mare într-o experiență de neuitat.\n\nNautilos Watersports – Trăiește aventura, simte libertatea și bucură-te de Marea Egee!",
+  "images": [
+    "nautilos-watersports1.webp",
+    "nautilos-watersports2.webp",
+    "nautilos-watersports3.webp",
+    "nautilos-watersports4.webp"
+  ]
+}

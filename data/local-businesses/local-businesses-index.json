@@ -17,5 +17,14 @@
       "nea_moudania_beach",
       "dionisiou_beach"
     ]
+  },
+  {
+    "id": "nautilos-watersports",
+    "type": "local_business",
+    "beaches": [
+      "dionisiou-beach",
+      "nea-moudania-beach",
+      "paralia-nea-moudania"
+    ]
   }
 ]

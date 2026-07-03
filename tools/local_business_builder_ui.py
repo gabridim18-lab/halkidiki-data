@@ -2,6 +2,7 @@ import os
 import json
 import re
 import customtkinter as ctk
+import subprocess
 from tkinter import filedialog
 from PIL import Image, ImageOps
 
@@ -39,7 +40,7 @@ app = ctk.CTk()
 
 app.title("Local Business Builder")
 
-app.geometry("1280x940")
+app.geometry("1700x1020")
 
 # =========================
 # HELPERS
@@ -62,6 +63,41 @@ def slugify(text):
     )
 
     return text.strip("-")
+
+def auto_git_commit(slug):
+
+    try:
+
+        subprocess.run(
+            [
+                "git",
+                "add",
+                "data/local-businesses",
+                "tools/local_business_builder_ui.py"
+            ],
+            cwd=ROOT_DIR,
+            check=True
+    )
+
+        diff_check = subprocess.run(
+            ["git", "diff", "--cached", "--quiet"],
+            cwd=ROOT_DIR
+        )
+
+        if diff_check.returncode == 0:
+            return "No changes to commit"
+
+        subprocess.run(
+            ["git", "commit", "-m", f"Add local business {slug}"],
+            cwd=ROOT_DIR,
+            check=True
+        )
+
+        return "✅ Business generated and committed.\nRun:\ngit pull --rebase\ngit push"
+
+    except Exception as e:
+
+        return f"Generated, but Git commit failed: {e}"
 
 # =========================
 # IMAGE PICKER
@@ -95,6 +131,35 @@ def validate_business():
     title_en = title_en_entry.get().strip()
 
     beaches = beaches_entry.get().strip()
+
+    address = address_entry.get().strip()
+
+    if not address:
+
+        status_label.configure(
+            text="Missing address",
+            text_color="#ff5a5a"
+        )
+
+        validated = False
+        return
+
+    try:
+
+        float(latitude_entry.get().strip())
+        float(longitude_entry.get().strip())
+
+    except ValueError:
+
+        status_label.configure(
+            text="Invalid GPS coordinates",
+            text_color="#ff5a5a"
+        )
+
+        validated = False
+        return
+    
+    
 
     if not title_en:
 
@@ -188,6 +253,16 @@ def generate_business():
     whatsapp = whatsapp_entry.get().strip()
 
     website = website_entry.get().strip()
+
+    address = address_entry.get().strip()
+
+    latitude = float(
+        latitude_entry.get().strip()
+    )
+
+    longitude = float(
+    longitude_entry.get().strip()
+    )
 
     booking = booking_switch.get()
 
@@ -299,9 +374,14 @@ def generate_business():
 
         "facebook": "",
 
+        "address": address,
+
+        "lat": latitude,
+        "lon": longitude,
+
         "coordinates": {
-            "lat": 0,
-            "lng": 0
+            "lat": latitude,
+            "lng": longitude
         },
 
         "hours": {
@@ -377,8 +457,10 @@ def generate_business():
             indent=2
         )
 
+    git_message = auto_git_commit(slug)
+
     status_label.configure(
-        text="Business generated successfully!",
+        text=git_message,
         text_color="#3ddc84"
     )
 
@@ -417,7 +499,7 @@ main_frame.pack(
 # LEFT
 # =========================
 
-left_frame = ctk.CTkFrame(
+left_frame = ctk.CTkScrollableFrame(
     main_frame
 )
 
@@ -432,7 +514,7 @@ left_frame.pack(
 # RIGHT
 # =========================
 
-right_frame = ctk.CTkFrame(
+right_frame = ctk.CTkScrollableFrame(
     main_frame
 )
 
@@ -514,6 +596,21 @@ whatsapp_entry = create_entry(
 website_entry = create_entry(
     left_frame,
     "Website"
+)
+
+address_entry = create_entry(
+    left_frame,
+    "Address"
+)
+
+latitude_entry = create_entry(
+    left_frame,
+    "Latitude"
+)
+
+longitude_entry = create_entry(
+    left_frame,
+    "Longitude"
 )
 
 hours_en_entry = create_entry(
