@@ -3537,5 +3537,33 @@
     "shortRo": "Diamond Beach Club – Eleganță și relaxare pe malul Mării Egee Situat pe plaja din Nea Moudania, Diamond Beach Club este locul perfect...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "kitchen-aroma",
+    "zone": "Kassandra",
+    "beachSlug": "nea-moudania-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Kitchen Aroma",
+    "titleRo": "Kitchen Aroma",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma-hero.webp",
+    "lat": 40.23966385661224,
+    "lon": 23.28079863107302,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Aroma Kouzinas – The Authentic Taste of Greek Cuisine Located in Nea Moudania, Halkidiki, Aroma Kouzinas is a welcoming restaurant...",
+    "shortRo": "Aroma Kouzinas – Gustul autentic al bucătăriei grecești Situat în Nea Moudania, Halkidiki, Aroma Kouzinas este un restaurant primitor...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

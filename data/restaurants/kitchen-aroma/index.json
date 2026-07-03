@@ -1,0 +1,184 @@
+{
+  "id": "kitchen-aroma",
+  "zone": "Kassandra",
+  "beachSlug": "nea-moudania-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Kitchen Aroma",
+  "titleRo": "Kitchen Aroma",
+  "displayAddress": "Agiou Georgiou, Nea Moudania 632 00, Greece",
+  "gpsCoordinates": "40.23966385661224, 23.28079863107302",
+  "lat": 40.23966385661224,
+  "lon": 23.28079863107302,
+  "openingHoursRaw": "Saturday\n\t\n\n    12–11:30 pm\n\n\t\nSunday\n\t\n\n    12–11:30 pm\n\n\t\nMonday\n\t\n\n    12–11:30 pm\n\n\t\nTuesday\n\t\n\n    12–11:30 pm\n\n\t\nWednesday\n\t\n\n    12–11:30 pm\n\n\t\nThursday\n\t\n\n    12–11:30 pm\n\n\t\nFriday\n\t\n\n    12–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:30; Tuesday: 12:00–23:30; Wednesday: 12:00–23:30; Thursday: 12:00–23:30; Friday: 12:00–23:30; Saturday: 12:00–23:30; Sunday: 12:00–23:30",
+  "hoursRo": "Luni: 12:00–23:30; Marți: 12:00–23:30; Miercuri: 12:00–23:30; Joi: 12:00–23:30; Vineri: 12:00–23:30; Sâmbătă: 12:00–23:30; Duminică: 12:00–23:30",
+  "website": "http://www.aromakouzinas.protasi.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302373065605",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Aroma Kouzinas – The Authentic Taste of Greek Cuisine\n\nLocated in Nea Moudania, Halkidiki, Aroma Kouzinas is a welcoming restaurant where traditional Greek hospitality meets the rich flavors of Mediterranean cuisine. With its warm atmosphere and friendly service, it is the perfect place for family lunches, romantic dinners, or relaxed meals with friends.\n\nThe menu features a delicious selection of grilled meats, fresh seafood, fish specialties, homemade pasta, traditional appetizers, and classic Greek dishes, all prepared with carefully selected ingredients to highlight the authentic flavors of the region.\n\nWhether you're discovering local cuisine for the first time or returning for your favorite Greek specialties, Aroma Kouzinas offers a memorable dining experience that combines quality, freshness, and genuine hospitality.\n\nAroma Kouzinas – Authentic Greek flavors, fresh ingredients, and warm hospitality in the heart of Halkidiki. 🇬🇷🍽️🌿",
+  "descriptionRo": "Aroma Kouzinas – Gustul autentic al bucătăriei grecești\n\nSituat în Nea Moudania, Halkidiki, Aroma Kouzinas este un restaurant primitor care aduce la aceeași masă tradiția gastronomiei grecești și aromele autentice ale Mediteranei. Într-o atmosferă caldă și relaxată, restaurantul este alegerea ideală pentru un prânz în familie, o cină romantică sau o masă alături de prieteni.\n\nMeniul reunește preparate din carne la grătar, fructe de mare și pește proaspăt, paste, aperitive tradiționale și specialități pregătite după rețete grecești autentice. Fiecare preparat este realizat cu ingrediente atent selecționate, pentru a evidenția prospețimea și savoarea bucătăriei locale.\n\nCu ospitalitate autentică, servicii prietenoase și o atmosferă relaxantă, Aroma Kouzinas vă invită să descoperiți adevărata esență a bucătăriei grecești și să vă bucurați de o experiență culinară memorabilă în inima Halkidikiului.\n\nAroma Kouzinas – Tradiție, prospețime și gusturi autentice, servite cu ospitalitate grecească.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/kitchen-aroma3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kitchen-aroma/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
