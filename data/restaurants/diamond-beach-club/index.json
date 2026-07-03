@@ -1,0 +1,157 @@
+{
+  "id": "diamond-beach-club",
+  "zone": "Kassandra",
+  "beachSlug": "nea-moudania-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Diamond Beach Club",
+  "titleRo": "Diamond Beach Club",
+  "displayAddress": "Agiou Georgiou, Nea Moudania 632 00, Greece",
+  "gpsCoordinates": "40.241485474928396, 23.273714843030092",
+  "lat": 40.241485474928396,
+  "lon": 23.273714843030092,
+  "openingHoursRaw": "Saturday\n\t\n\n    8 am–11 pm\n\n\t\nSunday\n\t\n\n    8 am–11 pm\n\n\t\nMonday\n\t\n\n    8 am–11 pm\n\n\t\nTuesday\n\t\n\n    8 am–11 pm\n\n\t\nWednesday\n\t\n\n    8 am–11 pm\n\n\t\nThursday\n\t\n\n    8 am–11 pm\n\n\t\nFriday\n\t\n\n    8 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–23:00; Tuesday: 08:00–23:00; Wednesday: 08:00–23:00; Thursday: 08:00–23:00; Friday: 08:00–23:00; Saturday: 08:00–23:00; Sunday: 08:00–23:00",
+  "hoursRo": "Luni: 08:00–23:00; Marți: 08:00–23:00; Miercuri: 08:00–23:00; Joi: 08:00–23:00; Vineri: 08:00–23:00; Sâmbătă: 08:00–23:00; Duminică: 08:00–23:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/diamondbeachclub.moudania/",
+  "instagram": "",
+  "phone": "+306958005668",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Diamond Beach Club – Relax, Dine & Enjoy the Aegean Coast\n\nLocated on the beautiful beachfront of Nea Moudania, Diamond Beach Club offers the perfect combination of seaside relaxation, delicious cuisine, and a stylish summer atmosphere. With breathtaking views of the Aegean Sea, comfortable beachfront seating, and friendly service, it is an ideal destination for unforgettable moments by the water.\n\nFrom breakfast and freshly brewed coffee to crisp salads, gourmet burgers, sandwiches, pasta, seafood specialties, refreshing cocktails, and delicious desserts, the menu is designed to be enjoyed throughout the day. Whether you're soaking up the sun, having lunch with friends, or enjoying a sunset drink by the sea, Diamond Beach Club provides the perfect setting for every occasion.\n\nCombining elegant surroundings, attentive service, and the relaxed spirit of the Greek coastline, Diamond Beach Club is the ideal place to unwind and experience the best of summer in Halkidiki.\n\nDiamond Beach Club – Great food, refreshing cocktails, stunning sea views, and unforgettable beachside moments. ☀️🌊🍹🍽️",
+  "descriptionRo": "Diamond Beach Club – Eleganță și relaxare pe malul Mării Egee\n\nSituat pe plaja din Nea Moudania, Diamond Beach Club este locul perfect pentru cei care își doresc să îmbine relaxarea cu preparatele delicioase și atmosfera vibrantă a litoralului grecesc. Cu un decor modern, vedere spectaculoasă spre mare și servicii prietenoase, beach club-ul oferă cadrul ideal pentru o zi petrecută sub soarele Halkidikiului.\n\nDe la micul dejun și cafeaua de dimineață până la salate proaspete, burgeri, sandwich-uri, paste, fructe de mare și cocktailuri răcoritoare, meniul este conceput pentru a satisface toate gusturile. Fie că vă relaxați pe șezlong, luați prânzul pe terasa de lângă mare sau petreceți seara admirând apusul, Diamond Beach Club vă oferă o experiență completă de vacanță.\n\nCu muzică plăcută, servicii de calitate și o atmosferă elegantă, Diamond Beach Club este destinația ideală pentru momente memorabile alături de familie și prieteni.\n\nDiamond Beach Club – Soare, mare, preparate delicioase și atmosfera perfectă pentru o zi de neuitat în Halkidiki.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Free Sunbeds with Consumption",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

@@ -3518,5 +3518,24 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "diamond-beach-club",
+    "zone": "Kassandra",
+    "beachSlug": "nea-moudania-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Diamond Beach Club",
+    "titleRo": "Diamond Beach Club",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/diamond-beach-club/images/diamond-beach-club-hero.webp",
+    "lat": 40.241485474928396,
+    "lon": 23.273714843030092,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Diamond Beach Club – Relax, Dine & Enjoy the Aegean Coast Located on the beautiful beachfront of Nea Moudania, Diamond Beach Club...",
+    "shortRo": "Diamond Beach Club – Eleganță și relaxare pe malul Mării Egee Situat pe plaja din Nea Moudania, Diamond Beach Club este locul perfect...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
