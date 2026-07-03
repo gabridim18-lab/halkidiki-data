@@ -1,0 +1,38 @@
+{
+  "id": "petros-mechanic",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "dionisiou-beach",
+    "nea-moudania-beach",
+    "paralia-nea-moudania"
+  ],
+  "titleEn": "Petros mechanic",
+  "titleRo": "Petros mechanic",
+  "categoryEn": "Car rentals, Auto Service",
+  "categoryRo": "Inchirieri auto, Service-auto",
+  "phone": "+306946406233",
+  "whatsapp": "+306946406233",
+  "website": "http://www.rentacarxatzikidis.gr/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Nik. Chatziaggelidi, Nea Moudania 632 00, Greece",
+  "lat": 40.24501665870489,
+  "lon": 23.291403271398007,
+  "coordinates": {
+    "lat": 40.24501665870489,
+    "lng": 23.291403271398007
+  },
+  "hours": {
+    "en": "Mo - Sa: 09:00-19:00",
+    "ro": "Lu - Sa: 09:00-19:00"
+  },
+  "descriptionEn": "Petros Mechanic – Car Service & Car Rental in Nea Moudania\n\nLocated in Nea Moudania, Halkidiki, Petros Mechanic provides both professional vehicle maintenance and car rental services, making it a convenient choice for both residents and visitors. Whether you need reliable automotive repairs or a comfortable rental car to explore the beautiful Halkidiki peninsula, the team is committed to delivering friendly, efficient, and dependable service. The business is listed as both a car service and car rental provider in local business sources and company information.\n\nFocused on quality workmanship, customer satisfaction, and reliable mobility solutions, Petros Mechanic helps ensure that every journey is smooth and worry-free. From vehicle maintenance to rental cars suitable for holidays or business trips, you'll find practical solutions tailored to your needs.\n\nPetros Mechanic – Reliable car service and quality vehicle rentals for a safe and enjoyable journey through Halkidiki.",
+  "descriptionRo": "Petros Mechanic – Service Auto & Închirieri Auto în Nea Moudania\n\nSituat în Nea Moudania, Halkidiki, Petros Mechanic oferă două servicii esențiale pentru localnici și turiști: reparații auto și închirieri de autoturisme. Fie că aveți nevoie de asistență tehnică pentru mașina dumneavoastră sau căutați un autoturism pentru a explora frumusețile Halkidikiului, echipa vă întâmpină cu profesionalism și servicii orientate către client. Activitatea de service și închiriere auto este menționată în surse locale și în informațiile companiei.\n\nCu o abordare bazată pe seriozitate, promptitudine și atenție la detalii, Petros Mechanic își propune să ofere soluții rapide și fiabile, astfel încât fiecare călătorie să fie sigură și fără griji. Flota de autoturisme de închiriat și serviciile de întreținere auto fac din această locație un partener de încredere pentru orice nevoie legată de mobilitate.\n\nPetros Mechanic – Service auto profesionist și închirieri auto pentru călătorii fără griji în Halkidiki.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp"
+  ]
+}

@@ -25,7 +25,8 @@ INDEX_FILE = os.path.join(
     "local-businesses-index.json"
 )
 
-selected_images = []
+hero_image = None
+gallery_images = []
 
 validated = False
 
@@ -103,21 +104,40 @@ def auto_git_commit(slug):
 # IMAGE PICKER
 # =========================
 
-def select_images():
+def select_hero_image():
 
-    global selected_images
+    global hero_image
 
-    selected_images = filedialog.askopenfilenames(
+    hero_image = filedialog.askopenfilename(
 
-        title="Select Images",
+        title="Select Hero Image",
 
         filetypes=[
             ("Images", "*.png *.jpg *.jpeg *.webp")
         ]
     )
 
-    images_label.configure(
-        text=f"{len(selected_images)} images selected"
+    if hero_image:
+
+        hero_label.configure(
+            text="Hero image selected"
+        )
+
+def select_gallery_images():
+
+    global gallery_images
+
+    gallery_images = filedialog.askopenfilenames(
+
+        title="Select Gallery Images",
+
+        filetypes=[
+            ("Images", "*.png *.jpg *.jpeg *.webp")
+        ]
+    )
+
+    gallery_label.configure(
+        text=f"{len(gallery_images)} gallery images selected"
     )
 
 # =========================
@@ -181,10 +201,20 @@ def validate_business():
         validated = False
         return
 
-    if len(selected_images) == 0:
+    if not hero_image:
 
         status_label.configure(
-            text="Select at least 1 image",
+            text="Select Hero Image",
+            text_color="#ff5a5a"
+        )
+
+        validated = False
+        return
+
+    if len(gallery_images) == 0:
+
+        status_label.configure(
+            text="Select Gallery Images",
             text_color="#ff5a5a"
         )
 
@@ -313,20 +343,49 @@ def generate_business():
     # SAVE IMAGES
     # =========================
 
+    # =========================
+    # SAVE HERO
+    # =========================
+
+    hero = Image.open(hero_image).convert("RGB")
+
+    hero = ImageOps.fit(
+        hero,
+        (1200, 800),
+        Image.LANCZOS
+    )
+
+    hero.save(
+        os.path.join(images_dir, "hero.webp"),
+        "WEBP",
+        quality=92
+    )
+
+    # =========================
+    # SAVE THUMBNAIL
+    # =========================
+
+    thumbnail = ImageOps.fit(
+        hero,
+        (600, 400),
+        Image.LANCZOS
+    )
+
+    thumbnail.save(
+        os.path.join(images_dir, "thumbnail.webp"),
+        "WEBP",
+        quality=90
+    )
+
+    # =========================
+    # SAVE GALLERY
+    # =========================
+
     image_names = []
 
-    for index, image_path in enumerate(selected_images):
+    for index, image_path in enumerate(gallery_images):
 
-        image_name = f"{slug}{index+1}.webp"
-
-        output_path = os.path.join(
-            images_dir,
-            image_name
-        )
-
-        image = Image.open(image_path)
-
-        image = image.convert("RGB")
+        image = Image.open(image_path).convert("RGB")
 
         image = ImageOps.fit(
             image,
@@ -334,8 +393,10 @@ def generate_business():
             Image.LANCZOS
         )
 
+        image_name = f"business{index + 1}.webp"
+
         image.save(
-            output_path,
+            os.path.join(images_dir, image_name),
             "WEBP",
             quality=92
         )
@@ -393,7 +454,12 @@ def generate_business():
 
         "descriptionRo": description_ro,
 
+        "heroImage": "hero.webp",
+
+        "thumbnail": "thumbnail.webp",
+
         "images": image_names
+
     }
 
     with open(
@@ -440,7 +506,19 @@ def generate_business():
 
         "type": "local_business",
 
-        "beaches": beaches_list
+        "titleEn": title_en,
+
+        "category": category_en,
+
+        "beaches": beaches_list,
+
+        "lat": latitude,
+
+        "lon": longitude,
+
+        "thumbnail": "thumbnail.webp",
+
+        "heroImage": "hero.webp"
 
     })
 
@@ -690,29 +768,48 @@ booking_switch.pack(
 # IMAGES
 # =========================
 
-images_button = ctk.CTkButton(
-
+hero_button = ctk.CTkButton(
     right_frame,
-
-    text="Select Images",
-
+    text="Select Hero Image",
     height=44,
-
-    command=select_images
+    command=select_hero_image
 )
 
-images_button.pack(
+hero_button.pack(
     padx=20,
     pady=(10, 6),
     fill="x"
 )
 
-images_label = ctk.CTkLabel(
+hero_label = ctk.CTkLabel(
     right_frame,
-    text="No images selected"
+    text="No hero image selected"
 )
 
-images_label.pack(
+hero_label.pack(
+    anchor="w",
+    padx=20
+)
+
+gallery_button = ctk.CTkButton(
+    right_frame,
+    text="Select Gallery Images",
+    height=44,
+    command=select_gallery_images
+)
+
+gallery_button.pack(
+    padx=20,
+    pady=(16, 6),
+    fill="x"
+)
+
+gallery_label = ctk.CTkLabel(
+    right_frame,
+    text="No gallery images selected"
+)
+
+gallery_label.pack(
     anchor="w",
     padx=20
 )

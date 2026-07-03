@@ -26,5 +26,20 @@
       "nea-moudania-beach",
       "paralia-nea-moudania"
     ]
+  },
+  {
+    "id": "petros-mechanic",
+    "type": "local_business",
+    "titleEn": "Petros mechanic",
+    "category": "Car rentals, Auto Service",
+    "beaches": [
+      "dionisiou-beach",
+      "nea-moudania-beach",
+      "paralia-nea-moudania"
+    ],
+    "lat": 40.24501665870489,
+    "lon": 23.291403271398007,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
