@@ -41,5 +41,23 @@
     "lon": 23.291403271398007,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "vida-del-mar-catamarans",
+    "type": "local_business",
+    "titleEn": "Vida Del Mar Catamarans",
+    "category": "Boat rentals",
+    "beaches": [
+      "paralia-nea-moudania",
+      "nea-moudania-beach",
+      "dionisiou-beach",
+      "gremia-beach",
+      "paralia-nea-potidea",
+      "nea-potidea-beach"
+    ],
+    "lat": 40.23883046277239,
+    "lon": 23.27710621953676,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

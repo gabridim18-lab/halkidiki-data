@@ -1,0 +1,42 @@
+{
+  "id": "vida-del-mar-catamarans",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "paralia-nea-moudania",
+    "nea-moudania-beach",
+    "dionisiou-beach",
+    "gremia-beach",
+    "paralia-nea-potidea",
+    "nea-potidea-beach"
+  ],
+  "titleEn": "Vida Del Mar Catamarans",
+  "titleRo": "Vida Del Mar Catamarans",
+  "categoryEn": "Boat rentals",
+  "categoryRo": "Inchirieri barci",
+  "phone": "+306945389534",
+  "whatsapp": "+306945389534",
+  "website": "https://www.instagram.com/vidadelmar_?igsh=eWJpY25zZ3gxdzNh",
+  "instagram": "",
+  "facebook": "",
+  "address": "Port, Nea Moudania 632 00, Greece",
+  "lat": 40.23883046277239,
+  "lon": 23.27710621953676,
+  "coordinates": {
+    "lat": 40.23883046277239,
+    "lng": 23.27710621953676
+  },
+  "hours": {
+    "en": "Daily: 09:00 - 22:00",
+    "ro": "Zilnic: 09:00 - 22:00"
+  },
+  "descriptionEn": "Vida Del Mar Catamarans Rental – Explore Halkidiki from the Sea\n\nLocated at the port of Nea Moudania, Vida Del Mar Catamarans Rental offers an unforgettable way to experience the breathtaking coastline of Halkidiki. Whether you're planning a romantic getaway, a family adventure, or a relaxing day with friends, renting a catamaran allows you to discover hidden bays, secluded beaches, and the crystal-clear waters of the Aegean Sea at your own pace.\n\nWith modern, well-maintained catamarans and a commitment to comfort, safety, and excellent customer service, every trip is designed to create lasting memories. Relax under the Mediterranean sun, swim in turquoise waters, and enjoy spectacular coastal scenery from a unique perspective.\n\nVida Del Mar Catamarans Rental – Experience the freedom of sailing the Aegean Sea and create unforgettable memories on the water. ⛵🌊☀️",
+  "descriptionRo": "Vida Del Mar Catamarans Rental – Descoperă Halkidiki de pe mare\n\nSituat în portul din Nea Moudania, Vida Del Mar Catamarans Rental vă oferă oportunitatea de a explora spectaculoasa coastă a Halkidikiului într-un mod confortabil și memorabil. Fie că plănuiți o escapadă romantică, o ieșire cu familia sau o zi relaxantă alături de prieteni, închirierea unui catamaran vă permite să descoperiți golfuri ascunse, plaje izolate și apele cristaline ale Mării Egee în propriul ritm.\n\nCu ambarcațiuni moderne, bine întreținute și servicii orientate către confortul și siguranța clienților, fiecare excursie devine o experiență de neuitat. Bucurați-vă de soare, înotați în ape limpezi și admirați peisajele spectaculoase ale litoralului grec dintr-o perspectivă unică.\n\nVida Del Mar Catamarans Rental – Libertatea de a explora Marea Egee și de a crea amintiri de neuitat pe apă.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
