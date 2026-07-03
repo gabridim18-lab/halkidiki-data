@@ -3488,5 +3488,35 @@
     "cuisineTypes": [
       "greek"
     ]
+  },
+  {
+    "id": "astra-beach-club",
+    "zone": "Kassandra",
+    "beachSlug": "nea-moudania-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Astra Beach Club",
+    "titleRo": "Astra Beach Club",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club-hero.webp",
+    "lat": 40.24309646909199,
+    "lon": 23.270266405991883,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Astra Beach Club – Stylish Seaside Living in Halkidiki Located on the beautiful beach of Nea Moudania, Halkidiki, Astra Beach Club is...",
+    "shortRo": "Astra Beach Club – Eleganță, relaxare și gustul verii Situat pe plaja din Nea Moudania, Halkidiki, Astra Beach Club este destinația...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

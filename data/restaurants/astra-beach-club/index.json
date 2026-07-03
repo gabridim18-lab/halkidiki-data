@@ -1,0 +1,172 @@
+{
+  "id": "astra-beach-club",
+  "zone": "Kassandra",
+  "beachSlug": "nea-moudania-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Astra Beach Club",
+  "titleRo": "Astra Beach Club",
+  "displayAddress": "Παραλία Μουδανιών, Epar.Od. Neon Moudanion - Neas Kalliktatias, Nea Moudania 632 00, Greece",
+  "gpsCoordinates": "40.24309646909199, 23.270266405991883",
+  "lat": 40.24309646909199,
+  "lon": 23.270266405991883,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–7 pm\n\n\t\nSunday\n\t\n\n    10 am–7 pm\n\n\t\nMonday\n\t\n\n    10 am–7 pm\n\n\t\nTuesday\n\t\n\n    10 am–7 pm\n\n\t\nWednesday\n\t\n\n    10 am–7 pm\n\n\t\nThursday\n\t\n\n    10 am–7 pm\n\n\t\nFriday\n\t\n\n    10 am–7 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–19:00; Tuesday: 10:00–19:00; Wednesday: 10:00–19:00; Thursday: 10:00–19:00; Friday: 10:00–19:00; Saturday: 10:00–19:00; Sunday: 10:00–19:00",
+  "hoursRo": "Luni: 10:00–19:00; Marți: 10:00–19:00; Miercuri: 10:00–19:00; Joi: 10:00–19:00; Vineri: 10:00–19:00; Sâmbătă: 10:00–19:00; Duminică: 10:00–19:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://instagram.com/astra_beachclub?igshid=1r2icspow2gif",
+  "phone": "+306948496675",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Astra Beach Club – Stylish Seaside Living in Halkidiki\n\nLocated on the beautiful beach of Nea Moudania, Halkidiki, Astra Beach Club is the perfect destination for those looking to combine relaxation, great food, and a vibrant beachfront atmosphere. Overlooking the crystal-clear waters of the Aegean Sea, it offers an elegant setting where every visit becomes part of an unforgettable summer holiday.\n\nThe menu features fresh salads, juicy burgers, club sandwiches, tacos, sharing platters, light snacks, fruit desserts, refreshing beverages, handcrafted cocktails, and premium coffee, making it the perfect choice from morning until sunset. Whether you're relaxing on a sunbed, enjoying lunch by the sea, or sipping your favorite cocktail as the sun goes down, Astra Beach Club delivers a complete beachside experience.\n\nWith attentive service, stylish surroundings, and the welcoming spirit of the Greek coast, Astra Beach Club is the perfect place to relax, socialize, and enjoy every moment of summer.\n\nAstra Beach Club – Beautiful sea views, delicious food, refreshing cocktails, and unforgettable days by the Aegean Sea. ☀️🌊🍹🍔",
+  "descriptionRo": "Astra Beach Club – Eleganță, relaxare și gustul verii\n\nSituat pe plaja din Nea Moudania, Halkidiki, Astra Beach Club este destinația perfectă pentru cei care își doresc să petreacă o zi de neuitat într-un decor modern, cu vedere spectaculoasă asupra Mării Egee. Atmosfera elegantă, serviciile de calitate și ambientul relaxat transformă fiecare vizită într-o experiență autentică de vacanță.\n\nMeniul oferă o selecție de salate proaspete, burgeri suculenți, club sandwich-uri, tacos, platouri pentru împărțit, gustări și deserturi cu fructe, alături de băuturi răcoritoare, cocktailuri și cafele aromate. Fie că vă relaxați pe șezlong, luați prânzul pe terasa de lângă mare sau savurați un cocktail la apus, Astra Beach Club vă oferă combinația perfectă între confort, gastronomie și peisaj.\n\nCu muzică plăcută, ospitalitate autentică și o atmosferă vibrantă, Astra Beach Club este locul ideal pentru a vă bucura de cele mai frumoase momente ale verii în Halkidiki.\n\nAstra Beach Club – Relaxare la malul mării, preparate delicioase și cocktailuri savurate sub soarele Greciei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/astra-beach-club4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astra-beach-club/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "40Euro for 2 people",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
