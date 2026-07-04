@@ -3647,5 +3647,31 @@
     "cuisineTypes": [
       "seafood"
     ]
+  },
+  {
+    "id": "elia",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-sani",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Elia",
+    "titleRo": "Elia",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/elia-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/elia-hero.webp",
+    "lat": 40.10072813433412,
+    "lon": 23.311983814156605,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Elia – Authentic Greek Dining at Porto Sani Located in the exclusive Porto Sani at the renowned Sani Resort, Elia is an elegant...",
+    "shortRo": "Elia – Eleganță mediteraneană în Porto Sani Situat în exclusivistul Porto Sani, în cadrul renumitului Sani Resort, Elia este un...",
+    "features": [
+      "restaurant",
+      "parking"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

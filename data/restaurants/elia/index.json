@@ -1,0 +1,109 @@
+{
+  "id": "elia",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-sani",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Elia",
+  "titleRo": "Elia",
+  "displayAddress": "Porto Sani Sani Resort, Kassandra 630 77, Greece",
+  "gpsCoordinates": "40.10072813433412, 23.311983814156605",
+  "lat": 40.10072813433412,
+  "lon": 23.311983814156605,
+  "openingHoursRaw": "",
+  "openingHours": [],
+  "hoursEn": "",
+  "hoursRo": "",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Elia – Authentic Greek Dining at Porto Sani\n\nLocated in the exclusive Porto Sani at the renowned Sani Resort, Elia is an elegant restaurant celebrating the rich flavors of authentic Greek cuisine in a sophisticated marina-side setting. Combining warm hospitality with exceptional service and premium ingredients, Elia offers a truly memorable dining experience.\n\nThe menu features traditional Greek specialties with a contemporary touch, including fresh seafood, locally sourced meats, Mediterranean salads, and carefully crafted dishes prepared with extra virgin olive oil, aromatic herbs, and the finest seasonal ingredients. Whether you're enjoying a leisurely lunch or a romantic dinner overlooking the luxury marina, every meal is enhanced by stunning views and a relaxed atmosphere.\n\nWith its refined ambiance and exceptional cuisine, Elia is a must-visit destination for anyone seeking the authentic taste of Greece in one of Halkidiki's most prestigious locations.\n\nElia – Authentic Greek flavors, Mediterranean elegance, and unforgettable marina-side dining at Porto Sani. 🇬🇷🍷⚓🍽️",
+  "descriptionRo": "Elia – Eleganță mediteraneană în Porto Sani\n\nSituat în exclusivistul Porto Sani, în cadrul renumitului Sani Resort, Elia este un restaurant rafinat care celebrează autenticitatea bucătăriei grecești într-un decor elegant, cu vedere spre portul de agrement. Atmosfera relaxată, serviciile impecabile și ingredientele proaspete transformă fiecare masă într-o experiență culinară deosebită.\n\nMeniul îmbină rețetele tradiționale grecești cu o prezentare modernă, oferind preparate din pește și fructe de mare proaspete, carne atent selecționată, salate mediteraneene și specialități pregătite cu ulei de măsline extravirgin, ierburi aromatice și ingrediente locale de cea mai bună calitate. Fie că alegeți un prânz relaxant sau o cină romantică pe terasa cu vedere spre iahturi, fiecare vizită promite savoare și rafinament.\n\nCu o locație spectaculoasă în inima portului, Elia este alegerea perfectă pentru cei care doresc să descopere gastronomia grecească într-un cadru elegant și primitor.\n\nElia – Bucătărie grecească autentică, eleganță mediteraneană și priveliști superbe asupra portului Porto Sani.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/elia-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/elia-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/elia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/elia2.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/elia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/elia2.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elia/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
