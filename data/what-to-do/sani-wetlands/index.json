@@ -1,0 +1,33 @@
+{
+  "id": "sani-wetlands",
+  "type": "what_to_do",
+  "beaches": [
+    "paralia-nea-potidea",
+    "windsurfers-paradise",
+    "stavronikita-beach",
+    "paralia-sani",
+    "simantro-beach"
+  ],
+  "titleEn": "Sani Wetlands",
+  "titleRo": "Sani Wetlands",
+  "categoryEn": "Natural area",
+  "categoryRo": "Arie naturala",
+  "address": "Unnamed Road, 630 77, Greece",
+  "hoursEn": "",
+  "hoursRo": "",
+  "website": "https://www.visit-halkidiki.gr/el/portfolio-view/sani-wetland/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.111020226762506,
+    "lon": 23.32218944539205
+  },
+  "phone": "",
+  "price": "",
+  "descriptionEn": "Sani Wetlands – A Natural Paradise of Biodiversity in Halkidiki\n\nSani Wetlands is one of Halkidiki's most important protected natural areas and a true haven for wildlife and biodiversity. Covering an extensive landscape of lagoons, marshes, reed beds, and freshwater and saltwater ponds, the wetlands provide a vital habitat for hundreds of species of birds, plants, and other wildlife.\n\nRenowned for its ecological significance, Sani Wetlands is a perfect destination for birdwatching, nature photography, and peaceful walks surrounded by breathtaking scenery. Depending on the season, visitors may spot flamingos, herons, egrets, cormorants, and many other migratory bird species that use the wetlands as a resting and feeding area.\n\nWhether you are a nature enthusiast, photographer, or simply looking for a peaceful escape, Sani Wetlands offers a unique opportunity to experience one of Northern Greece's most remarkable natural ecosystems.\n\nSani Wetlands – Explore the untouched beauty of Halkidiki and discover one of Greece's most important wildlife sanctuaries. 🦩🌿🌊🌾",
+  "descriptionRo": "Sani Wetlands – Un paradis natural al biodiversității din Halkidiki\n\nSani Wetlands (Zona Umedă Sani) este una dintre cele mai valoroase arii naturale protejate din Halkidiki și un adevărat refugiu pentru biodiversitate. Întinzându-se pe o suprafață vastă de lagune, mlaștini, stufărișuri și lacuri de apă dulce și sărată, această zonă umedă găzduiește sute de specii de păsări, plante și animale sălbatice.\n\nRecunoscută pentru importanța sa ecologică, Sani Wetlands reprezintă un loc ideal pentru observarea păsărilor, fotografie de natură și plimbări liniștite în mijlocul unui peisaj spectaculos. În funcție de sezon, vizitatorii pot admira flamingo, stârci, egrete, cormorani și numeroase alte specii migratoare care folosesc această zonă ca loc de popas.\n\nCu peisaje naturale impresionante și o atmosferă liniștită, Sani Wetlands oferă o experiență unică pentru iubitorii de natură și pentru cei care doresc să descopere una dintre cele mai bine conservate zone umede din nordul Greciei.\n\nSani Wetlands – Descoperă frumusețea sălbatică a Halkidikiului și bucură-te de un refugiu natural plin de viață.",
+  "images": [
+    "sani-wetlands1.webp",
+    "sani-wetlands2.webp",
+    "sani-wetlands3.webp"
+  ]
+}

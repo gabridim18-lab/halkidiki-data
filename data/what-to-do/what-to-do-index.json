@@ -109,5 +109,16 @@
       "paralia-nea-potidea",
       "nea-potidea-beach"
     ]
+  },
+  {
+    "id": "sani-wetlands",
+    "type": "what_to_do",
+    "beaches": [
+      "paralia-nea-potidea",
+      "windsurfers-paradise",
+      "stavronikita-beach",
+      "paralia-sani",
+      "simantro-beach"
+    ]
   }
 ]
