@@ -1,0 +1,189 @@
+{
+  "id": "zorka",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-nea-moudania",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "ZORKA",
+  "titleRo": "ZORKA",
+  "displayAddress": "Panagias Korifinis 1, Nea Moudania 632 00, Greece",
+  "gpsCoordinates": "40.238603606108015, 23.286729464428216",
+  "lat": 40.238603606108015,
+  "lon": 23.286729464428216,
+  "openingHoursRaw": "Saturday\n\t\n\n    9 am–11:30 pm\n\n\t\nSunday\n\t\n\n    9 am–11:30 pm\n\n\t\nMonday\n\t\n\n    9 am–11:30 pm\n\n\t\nTuesday\n\t\n\n    9 am–11:30 pm\n\n\t\nWednesday\n\t\n\n    9 am–11:30 pm\n\n\t\nThursday\n\t\n\n    9 am–11:30 pm\n\n\t\nFriday\n\t\n\n    9 am–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:30",
+      "labelEn": "09:00–23:30",
+      "labelRo": "09:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:30; Tuesday: 09:00–23:30; Wednesday: 09:00–23:30; Thursday: 09:00–23:30; Friday: 09:00–23:30; Saturday: 09:00–23:30; Sunday: 09:00–23:30",
+  "hoursRo": "Luni: 09:00–23:30; Marți: 09:00–23:30; Miercuri: 09:00–23:30; Joi: 09:00–23:30; Vineri: 09:00–23:30; Sâmbătă: 09:00–23:30; Duminică: 09:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306977142328",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "ZORKA Restaurant & Bar – Your Perfect Brunch & All-Day Dining Destination\n\nLocated in Nea Moudania, Halkidiki, ZORKA Restaurant & Bar is a stylish and welcoming venue where fresh ingredients, creative recipes, and a relaxed atmosphere come together to create an unforgettable dining experience. It's the perfect place to enjoy a leisurely brunch, a light lunch, or a sweet treat throughout the day.\n\nThe menu features delicious energy bowls, fluffy omelettes, gourmet sandwiches, toasted specialties, handcrafted pancakes, homemade desserts, and freshly brewed coffee, all prepared with carefully selected ingredients and attention to detail. Whether you're starting your morning with a wholesome breakfast or enjoying dessert and coffee with friends, every visit promises comfort and exceptional flavor.\n\nWith modern décor, friendly service, and a warm atmosphere, ZORKA Restaurant & Bar offers the perfect setting to relax, recharge, and enjoy the best of contemporary café dining.\n\nZORKA Restaurant & Bar – Fresh flavors, beautiful brunches, handcrafted desserts, and unforgettable moments in Halkidiki. ☕🥞🥐🍰🌿",
+  "descriptionRo": "ZORKA Restaurant & Bar – Locul perfect pentru brunch, deserturi și momente speciale\n\nSituat în Nea Moudania, Halkidiki, ZORKA Restaurant & Bar este un local modern și primitor, unde preparatele delicioase, atmosfera relaxată și ingredientele de calitate se îmbină pentru a crea o experiență culinară memorabilă. Este alegerea ideală atât pentru un mic dejun târziu sau un brunch savuros, cât și pentru un prânz relaxant ori o întâlnire cu prietenii.\n\nMeniul include o varietate de energy bowls, omlete, sandwich-uri gourmet, toasturi, clătite pufoase, deserturi de casă și cafea aromată, pregătite cu ingrediente proaspete și atenție la fiecare detaliu. Fie că vă începeți ziua cu un brunch energizant sau vă răsfățați cu un desert și o băutură răcoritoare, fiecare vizită la ZORKA este o experiență plină de savoare.\n\nCu un decor elegant, servicii prietenoase și o atmosferă relaxată, ZORKA Restaurant & Bar este locul unde gastronomia modernă se întâlnește cu ospitalitatea grecească.\n\nZORKA Restaurant & Bar – Brunch delicios, deserturi irezistibile și momente frumoase în inima Halkidikiului.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "All you can eat \nHappy-hour drinks\nVegan options\nOrganic dishes",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list",
+    "Great beer selection",
+    "Live music"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "live_music"
+  ],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean",
+    "international",
+    "burger"
+  ]
+}

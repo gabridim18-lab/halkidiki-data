@@ -3565,5 +3565,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "zorka",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-nea-moudania",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "ZORKA",
+    "titleRo": "ZORKA",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zorka/images/zorka-hero.webp",
+    "lat": 40.238603606108015,
+    "lon": 23.286729464428216,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "ZORKA Restaurant & Bar – Your Perfect Brunch & All-Day Dining Destination Located in Nea Moudania, Halkidiki, ZORKA Restaurant & Bar...",
+    "shortRo": "ZORKA Restaurant & Bar – Locul perfect pentru brunch, deserturi și momente speciale Situat în Nea Moudania, Halkidiki, ZORKA...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international",
+      "burger"
+    ]
   }
 ]
