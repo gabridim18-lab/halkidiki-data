@@ -1,0 +1,42 @@
+{
+  "id": "aethria-sea-rental-boats-cruises",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "paralia-nea-moudania",
+    "nea-moudania-beach",
+    "dionisiou-beach",
+    "gremia-beach",
+    "paralia-nea-potidea",
+    "nea-potidea-beach"
+  ],
+  "titleEn": "Aethria Sea Rental Boats & Cruises",
+  "titleRo": "Aethria Sea Rental Boats & Cruises",
+  "categoryEn": "Boat rentals & Cruises",
+  "categoryRo": "Boat rentals & Cruises",
+  "phone": "+306948170283",
+  "whatsapp": "+306948170283",
+  "website": "https://www.aethriasea.gr/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Λιμάνι, Nea Moudania 632 00, Greece",
+  "lat": 40.239581812473055,
+  "lon": 23.27706293599448,
+  "coordinates": {
+    "lat": 40.239581812473055,
+    "lng": 23.27706293599448
+  },
+  "hours": {
+    "en": "Daily: 09:00 - 21:00",
+    "ro": "Zilnic: 09:00 - 21:00"
+  },
+  "descriptionEn": "Aethria Sea Rental Boats & Cruises – Explore the Aegean in Style\n\nLocated at the port of Nea Moudania, Aethria Sea Rental Boats & Cruises offers an unforgettable way to experience the stunning coastline of Halkidiki. Whether you're looking to rent a boat and explore at your own pace or enjoy a relaxing cruise across the crystal-clear waters of the Aegean Sea, every journey promises spectacular views and lasting memories.\n\nDiscover hidden coves, secluded beaches, and breathtaking coastal landscapes while enjoying the freedom of being out on the open sea. Swim in turquoise waters, soak up the Mediterranean sunshine, and experience the beauty of Halkidiki from a unique perspective.\n\nWith modern boats, professional service, and a strong commitment to comfort and safety, Aethria Sea Rental Boats & Cruises provides the perfect setting for romantic escapes, family adventures, and unforgettable days on the water.\n\nAethria Sea Rental Boats & Cruises – Set sail, explore hidden treasures, and experience the magic of the Aegean Sea. ⛵🌊☀️",
+  "descriptionRo": "Aethria Sea Rental Boats & Cruises – Descoperă frumusețea Mării Egee dintr-o nouă perspectivă\n\nSituată în portul din Nea Moudania, Aethria Sea Rental Boats & Cruises vă invită să transformați o zi obișnuită de vacanță într-o experiență memorabilă pe mare. Fie că doriți să închiriați o ambarcațiune pentru a explora în ritmul propriu litoralul Halkidikiului sau să vă bucurați de o croazieră relaxantă, aici veți găsi cadrul perfect pentru momente de neuitat.\n\nNavigați printre golfuri ascunse, plaje cu ape cristaline și peisaje spectaculoase, descoperind frumusețea autentică a Mării Egee. Fiecare ieșire pe mare oferă ocazia de a înota în ape limpezi, de a admira coasta dintr-o perspectivă unică și de a crea amintiri alături de familie, prieteni sau persoana iubită.\n\nCu servicii profesioniste, ambarcațiuni moderne și o atenție deosebită pentru confortul și siguranța oaspeților, Aethria Sea Rental Boats & Cruises este alegerea ideală pentru cei care doresc să exploreze Halkidiki într-un mod elegant și relaxant.\n\nAethria Sea Rental Boats & Cruises – Navighează, explorează și bucură-te de libertatea Mării Egee.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}

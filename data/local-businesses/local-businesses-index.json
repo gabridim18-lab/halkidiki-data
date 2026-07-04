@@ -59,5 +59,23 @@
     "lon": 23.27710621953676,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "aethria-sea-rental-boats-cruises",
+    "type": "local_business",
+    "titleEn": "Aethria Sea Rental Boats & Cruises",
+    "category": "Boat rentals & Cruises",
+    "beaches": [
+      "paralia-nea-moudania",
+      "nea-moudania-beach",
+      "dionisiou-beach",
+      "gremia-beach",
+      "paralia-nea-potidea",
+      "nea-potidea-beach"
+    ],
+    "lat": 40.239581812473055,
+    "lon": 23.27706293599448,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
