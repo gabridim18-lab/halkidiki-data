@@ -3725,5 +3725,33 @@
       "sunset_view"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "elani-taverna",
+    "zone": "Kassandra",
+    "beachSlug": "elani-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Elani Taverna",
+    "titleRo": "Elani Taverna",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna-hero.webp",
+    "lat": 40.04986426627444,
+    "lon": 23.349344131058608,
+    "rating": 3.7,
+    "price": "$$",
+    "shortEn": "Elani Taverna – Authentic Greek Flavors by the Sea Nestled in the beautiful coastal area of Elani, Halkidiki, Elani Taverna invites...",
+    "shortRo": "Elani Taverna – Gustul autentic al Greciei, la malul mării Situată în pitoreasca zonă Elani din Halkidiki, Elani Taverna este locul...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

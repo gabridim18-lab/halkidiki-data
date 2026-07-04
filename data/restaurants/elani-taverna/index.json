@@ -1,0 +1,175 @@
+{
+  "id": "elani-taverna",
+  "zone": "Kassandra",
+  "beachSlug": "elani-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Elani Taverna",
+  "titleRo": "Elani Taverna",
+  "displayAddress": "Unnamed Road, Elani 630 77, Greece",
+  "gpsCoordinates": "40.04986426627444, 23.349344131058608",
+  "lat": 40.04986426627444,
+  "lon": 23.349344131058608,
+  "openingHoursRaw": "Sunday\n\t\n\n    1–10 pm\n\n\t\nMonday\n\t\n\n    1–10 pm\n\n\t\nTuesday\n\t\n\n    1–10 pm\n\n\t\nWednesday\n\t\n\n    1–10 pm\n\n\t\nThursday\n\t\n\n    1–10 pm\n\n\t\nFriday\n\t\n\n    1–10 pm\n\n\t\nSaturday\n\t\n\n    1–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–22:00; Tuesday: 13:00–22:00; Wednesday: 13:00–22:00; Thursday: 13:00–22:00; Friday: 13:00–22:00; Saturday: 13:00–22:00; Sunday: 13:00–22:00",
+  "hoursRo": "Luni: 13:00–22:00; Marți: 13:00–22:00; Miercuri: 13:00–22:00; Joi: 13:00–22:00; Vineri: 13:00–22:00; Sâmbătă: 13:00–22:00; Duminică: 13:00–22:00",
+  "website": "http://www.elaniresort.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302374027498",
+  "price": "$$",
+  "rating": 3.7,
+  "descriptionEn": "Elani Taverna – Authentic Greek Flavors by the Sea\n\nNestled in the beautiful coastal area of Elani, Halkidiki, Elani Taverna invites guests to experience the authentic taste of traditional Greek cuisine in a warm and welcoming atmosphere. Just moments from the sea and surrounded by stunning natural scenery, it is the perfect destination for a relaxing lunch or an unforgettable dinner.\n\nThe menu features a wide selection of fresh seafood, locally caught fish, grilled meats, Mediterranean salads, classic Greek appetizers, and homemade desserts, all prepared with carefully selected ingredients and traditional recipes. Every dish celebrates the rich culinary heritage of Greece and the freshness of local produce.\n\nWith friendly service, a relaxed seaside ambiance, and genuine Greek hospitality, Elani Taverna offers a memorable dining experience for families, couples, and anyone looking to enjoy the true flavors of Halkidiki.\n\nElani Taverna – Fresh seafood, authentic Greek cuisine, and unforgettable moments by the Aegean Sea. 🇬🇷🌊🐟🍷",
+  "descriptionRo": "Elani Taverna – Gustul autentic al Greciei, la malul mării\n\nSituată în pitoreasca zonă Elani din Halkidiki, Elani Taverna este locul perfect pentru cei care doresc să descopere savoarea autentică a bucătăriei grecești într-o atmosferă caldă și relaxată. Înconjurată de frumusețea naturală a coastei și la doar câțiva pași de mare, taverna oferă cadrul ideal pentru un prânz liniștit sau o cină memorabilă.\n\nMeniul include o selecție bogată de fructe de mare și pește proaspăt, preparate tradiționale grecești, carne la grătar, salate mediteraneene, aperitive clasice și deserturi delicioase, toate pregătite cu ingrediente proaspete și rețete autentice. Fiecare preparat reflectă pasiunea pentru gastronomia locală și ospitalitatea grecească.\n\nCu servicii prietenoase, o atmosferă primitoare și priveliști încântătoare, Elani Taverna este destinația perfectă pentru familii, cupluri și iubitorii de bucătărie mediteraneană care doresc să se bucure de o experiență culinară autentică în Halkidiki.\n\nElani Taverna – Tradiție grecească, ingrediente proaspete și momente de neuitat la malul Mării Egee.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/elani-taverna4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elani-taverna/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
