@@ -1,0 +1,36 @@
+{
+  "id": "waveriders",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "skala-fourkas-beach"
+  ],
+  "titleEn": "Waveriders",
+  "titleRo": "Waveriders",
+  "categoryEn": "Watersports",
+  "categoryRo": "Watersports",
+  "phone": "+306947712783",
+  "whatsapp": "+306947712783",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Paralia Fourkas, Fourka 630 77, Greece",
+  "lat": 39.999801365732296,
+  "lon": 23.38267908310444,
+  "coordinates": {
+    "lat": 39.999801365732296,
+    "lng": 23.38267908310444
+  },
+  "hours": {
+    "en": "Daily: 09:00-19:00",
+    "ro": "Zilnic: 09:00-19:00"
+  },
+  "descriptionEn": "Waveriders – Adventure on the Crystal Waters of the Aegean\n\nLocated on the beautiful beach of Fourka, Halkidiki, Waveriders is the perfect destination for anyone looking to enjoy exciting water sports and unforgettable seaside adventures. Whether you're seeking an adrenaline-filled experience or simply want to explore the crystal-clear waters of the Aegean, Waveriders offers activities suitable for all ages.\n\nThe center provides a variety of water-based experiences, from fun recreational rides to exciting activities for families, couples, and groups of friends. With modern equipment and experienced staff, every adventure is designed to be both safe and enjoyable.\n\nSurrounded by stunning coastal scenery and the turquoise waters of Halkidiki, Waveriders is the perfect place to make your summer holiday even more memorable.\n\nWaveriders – Feel the thrill of the sea and create unforgettable memories on the beautiful coastline of Fourka. 🌊🏄‍♂️☀️🚤",
+  "descriptionRo": "Waveriders – Aventură și distracție pe apele Mării Egee\n\nSituat pe plaja din Fourka, Halkidiki, Waveriders este destinația ideală pentru iubitorii de sporturi nautice și aventură. Indiferent dacă sunteți în căutarea unei doze de adrenalină sau pur și simplu doriți să vă bucurați de frumusețea Mării Egee dintr-o perspectivă diferită, aici veți găsi activități potrivite pentru toate vârstele.\n\nCentrul oferă o varietate de experiențe pe apă, de la plimbări cu echipamente nautice și activități recreative până la momente pline de distracție pentru familii, cupluri și grupuri de prieteni. Echipamentele moderne și personalul experimentat contribuie la o experiență sigură și plăcută pentru fiecare vizitator.\n\nCu ape limpezi, peisaje spectaculoase și o atmosferă prietenoasă, Waveriders este locul perfect pentru a adăuga un plus de aventură vacanței dumneavoastră în Halkidiki.\n\nWaveriders – Trăiește emoția sporturilor nautice și creează amintiri de neuitat pe coasta spectaculoasă a Fourkăi.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp"
+  ]
+}

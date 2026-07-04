@@ -90,5 +90,18 @@
     "lon": 23.32018555323669,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "waveriders",
+    "type": "local_business",
+    "titleEn": "Waveriders",
+    "category": "Watersports",
+    "beaches": [
+      "skala-fourkas-beach"
+    ],
+    "lat": 39.999801365732296,
+    "lon": 23.38267908310444,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
