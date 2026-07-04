@@ -1,0 +1,149 @@
+{
+  "id": "alma-beach",
+  "zone": "Kassandra",
+  "beachSlug": "chelona-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Alma Beach",
+  "titleRo": "Alma Beach",
+  "displayAddress": "388R+77, Kassandria 630 77, Greece",
+  "gpsCoordinates": "40.065875807112434, 23.340718540627243",
+  "lat": 40.065875807112434,
+  "lon": 23.340718540627243,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–8 pm\n\n\t\nSunday\n\t\n\n    10 am–8 pm\n\n\t\nMonday\n\t\n\n    10 am–8 pm\n\n\t\nTuesday\n\t\n\n    10 am–8 pm\n\n\t\nWednesday\n\t\n\n    10 am–8 pm\n\n\t\nThursday\n\t\n\n    10 am–8 pm\n\n\t\nFriday\n\t\n\n    10 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–20:00; Tuesday: 10:00–20:00; Wednesday: 10:00–20:00; Thursday: 10:00–20:00; Friday: 10:00–20:00; Saturday: 10:00–20:00; Sunday: 10:00–20:00",
+  "hoursRo": "Luni: 10:00–20:00; Marți: 10:00–20:00; Miercuri: 10:00–20:00; Joi: 10:00–20:00; Vineri: 10:00–20:00; Sâmbătă: 10:00–20:00; Duminică: 10:00–20:00",
+  "website": "https://almabeach.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306945792621",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Alma Beach – Relax, Unwind & Enjoy the Aegean\n\nLocated on the beautiful coastline of Kassandria, Halkidiki, Alma Beach is the perfect destination for those looking to enjoy a relaxing day by the crystal-clear waters of the Aegean Sea. With comfortable sunbeds, a stylish beachfront atmosphere, and breathtaking coastal views, it offers everything you need for a memorable summer escape.\n\nGuests can enjoy freshly brewed coffee, refreshing beverages, handcrafted cocktails, natural juices, and light snacks throughout the day. Whether you're soaking up the sun, swimming in the clear blue sea, or enjoying a sunset drink with friends, Alma Beach provides the perfect blend of comfort, relaxation, and genuine Greek hospitality.\n\nWith attentive service, a welcoming atmosphere, and a stunning seaside setting, Alma Beach is an ideal place to unwind and experience the beauty of Halkidiki.\n\nAlma Beach – Where sunshine, crystal-clear waters, and unforgettable summer moments come together. ☀️🌊🍹🏖️",
+  "descriptionRo": "Alma Beach – Relaxare, confort și atmosfera perfectă a verii\n\nSituat pe frumoasa coastă din Kassandria, Halkidiki, Alma Beach este destinația ideală pentru cei care doresc să se bucure de o zi relaxantă la malul Mării Egee. Cu șezlonguri confortabile, ape cristaline și o atmosferă elegantă, beach bar-ul oferă cadrul perfect pentru momente de neuitat alături de familie, prieteni sau persoana iubită.\n\nMeniul include cafele aromate, băuturi răcoritoare, cocktailuri preparate cu grijă, sucuri naturale și gustări ușoare, ideale pentru o zi petrecută pe plajă. Fie că vă bucurați de soare, admirați marea sau savurați un cocktail la apus, fiecare moment la Alma Beach este completat de ospitalitatea grecească și de atmosfera relaxată a litoralului din Halkidiki.\n\nCu servicii prietenoase, un ambient modern și priveliști spectaculoase asupra Mării Egee, Alma Beach este locul perfect pentru a transforma fiecare zi de vacanță într-o experiență memorabilă.\n\nAlma Beach – Soare, mare și relaxare într-unul dintre cele mai frumoase colțuri ale Halkidikiului.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Spirits"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [],
+  "parking": [],
+  "pets": [],
+  "sunbedPrice": "30Euro for 2 sunbeds and umbrella",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": []
+}

@@ -3701,5 +3701,29 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "alma-beach",
+    "zone": "Kassandra",
+    "beachSlug": "chelona-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Alma Beach",
+    "titleRo": "Alma Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/alma-beach/images/alma-beach-hero.webp",
+    "lat": 40.065875807112434,
+    "lon": 23.340718540627243,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Alma Beach – Relax, Unwind & Enjoy the Aegean Located on the beautiful coastline of Kassandria, Halkidiki, Alma Beach is the perfect...",
+    "shortRo": "Alma Beach – Relaxare, confort și atmosfera perfectă a verii Situat pe frumoasa coastă din Kassandria, Halkidiki, Alma Beach este...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": []
   }
 ]
