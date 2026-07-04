@@ -1,0 +1,31 @@
+{
+  "id": "panoramic-path",
+  "type": "what_to_do",
+  "beaches": [
+    "paralia-sani",
+    "simantro-beach",
+    "paralia-kipsa"
+  ],
+  "titleEn": "Panoramic path",
+  "titleRo": "Panoramic path",
+  "categoryEn": "Hiking",
+  "categoryRo": "Hiking",
+  "address": "38H9+G5, Sani 630 77, Greece",
+  "hoursEn": "",
+  "hoursRo": "",
+  "website": "",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.08117047055646,
+    "lon": 23.318488280889817
+  },
+  "phone": "",
+  "price": "",
+  "descriptionEn": "Panoramic Path – Explore the Natural Beauty of Sani\n\nThe Panoramic Path is one of the most scenic walking trails in the Sani area, offering visitors a wonderful opportunity to experience the natural beauty of Halkidiki at a relaxed pace. Winding through pine forests and peaceful natural surroundings, the trail provides breathtaking views of the Aegean Sea and the surrounding landscape.\n\nPerfect for leisurely walks, light hiking, jogging, or nature photography, the route is suitable for visitors of all ages. Along the way, you'll discover beautiful viewpoints, Mediterranean vegetation, and plenty of spots to pause and enjoy spectacular sunrises or sunsets.\n\nWhether you're looking for a peaceful escape, outdoor exercise, or unforgettable panoramic views, Panoramic Path is one of Sani's most rewarding natural attractions.\n\nPanoramic Path – Walk through nature, enjoy breathtaking views, and experience the peaceful beauty of Halkidiki. 🌿🌊🥾📸",
+  "descriptionRo": "Panoramic Path – Descoperă frumusețea naturală a peninsulei Sani\n\nPanoramic Path este unul dintre cele mai frumoase trasee de promenadă din zona Sani, oferind vizitatorilor ocazia de a descoperi peisajele spectaculoase ale Halkidikiului într-un ritm relaxat. Traseul șerpuiește prin păduri de pini și zone naturale, oferind priveliști impresionante asupra Mării Egee și a împrejurimilor.\n\nIdeal pentru plimbări, drumeții ușoare, alergare sau fotografie, traseul este potrivit pentru toate vârstele și reprezintă o modalitate excelentă de a vă bucura de liniștea naturii. De-a lungul drumului veți descoperi puncte panoramice, vegetație mediteraneană și numeroase locuri perfecte pentru a admira răsăritul sau apusul.\n\nFie că sunteți iubitor de natură, pasionat de fotografie sau pur și simplu doriți o plimbare relaxantă în aer liber, Panoramic Path oferă una dintre cele mai frumoase experiențe naturale din zona Sani.\n\nPanoramic Path – Respirați aerul curat al Mediteranei și bucurați-vă de priveliști care vă vor rămâne în amintire.",
+  "images": [
+    "panoramic-path1.webp",
+    "panoramic-path2.webp",
+    "panoramic-path3.webp"
+  ]
+}

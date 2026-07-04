@@ -120,5 +120,14 @@
       "paralia-sani",
       "simantro-beach"
     ]
+  },
+  {
+    "id": "panoramic-path",
+    "type": "what_to_do",
+    "beaches": [
+      "paralia-sani",
+      "simantro-beach",
+      "paralia-kipsa"
+    ]
   }
 ]
