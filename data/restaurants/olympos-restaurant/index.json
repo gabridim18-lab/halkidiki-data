@@ -1,0 +1,178 @@
+{
+  "id": "olympos-restaurant",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-sani",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Olympos Restaurant",
+  "titleRo": "Olympos Restaurant",
+  "displayAddress": "Sane 630 77, Greece",
+  "gpsCoordinates": "40.09115928522218, 23.309661004323598",
+  "lat": 40.09115928522218,
+  "lon": 23.309661004323598,
+  "openingHoursRaw": "Saturday\n\t\n\n    8 am–11:30 pm\n\n\t\nSunday\n\t\n\n    8 am–11:30 pm\n\n\t\nMonday\n\t\n\n    8 am–11:30 pm\n\n\t\nTuesday\n\t\n\n    8 am–11:30 pm\n\n\t\nWednesday\n\t\n\n    8 am–11:30 pm\n\n\t\nThursday\n\t\n\n    8 am–11:30 pm\n\n\t\nFriday\n\t\n\n    8 am–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:30",
+      "labelEn": "08:00–23:30",
+      "labelRo": "08:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:30",
+      "labelEn": "08:00–23:30",
+      "labelRo": "08:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:30",
+      "labelEn": "08:00–23:30",
+      "labelRo": "08:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:30",
+      "labelEn": "08:00–23:30",
+      "labelRo": "08:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:30",
+      "labelEn": "08:00–23:30",
+      "labelRo": "08:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:30",
+      "labelEn": "08:00–23:30",
+      "labelRo": "08:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:30",
+      "labelEn": "08:00–23:30",
+      "labelRo": "08:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–23:30; Tuesday: 08:00–23:30; Wednesday: 08:00–23:30; Thursday: 08:00–23:30; Friday: 08:00–23:30; Saturday: 08:00–23:30; Sunday: 08:00–23:30",
+  "hoursRo": "Luni: 08:00–23:30; Marți: 08:00–23:30; Miercuri: 08:00–23:30; Joi: 08:00–23:30; Vineri: 08:00–23:30; Sâmbătă: 08:00–23:30; Duminică: 08:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Olympos Restaurant – Mediterranean Fine Dining at Sani Resort\n\nLocated within the prestigious Sani Resort in Halkidiki, Olympos Restaurant offers an elegant dining experience inspired by the authentic flavors of the Mediterranean and the warmth of Greek hospitality. With its sophisticated atmosphere and beautiful surroundings, it is the perfect destination for a relaxed lunch or a memorable evening meal.\n\nThe menu showcases fresh seafood, premium meat selections, Mediterranean salads, and seasonal specialties prepared with carefully selected local ingredients. Every dish is crafted with attention to detail, blending traditional Greek culinary heritage with contemporary techniques to create refined and unforgettable flavors.\n\nWith exceptional service, stylish surroundings, and breathtaking views of the Aegean coast, Olympos Restaurant is the ideal choice for guests seeking outstanding cuisine and an elegant dining experience.\n\nOlympos Restaurant – Mediterranean elegance, exceptional cuisine, and unforgettable moments at Sani Resort. 🌊🍷🍽️",
+  "descriptionRo": "Olympos Restaurant – Fine Dining cu vedere spre Marea Egee\n\nSituat în prestigiosul Sani Resort, Halkidiki, Olympos Restaurant oferă o experiență culinară elegantă, inspirată de aromele autentice ale Mediteranei și de ospitalitatea grecească. Într-un decor rafinat și relaxant, restaurantul este locul ideal pentru un prânz liniștit sau o cină specială într-un cadru spectaculos.\n\nMeniul reunește preparate din pește și fructe de mare proaspete, carne atent selecționată, salate mediteraneene și specialități pregătite cu ingrediente locale și de sezon. Fiecare farfurie este realizată cu atenție la detalii, combinând tradiția gastronomiei grecești cu tehnici culinare moderne pentru a oferi o experiență memorabilă.\n\nCu servicii impecabile, o atmosferă elegantă și priveliști superbe asupra litoralului din Halkidiki, Olympos Restaurant este alegerea perfectă pentru cei care apreciază bucătăria de calitate și momentele speciale petrecute într-un cadru exclusivist.\n\nOlympos Restaurant – Rafinament mediteranean, preparate excepționale și ospitalitate autentică în inima Sani Resort.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}

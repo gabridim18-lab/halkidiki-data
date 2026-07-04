@@ -3673,5 +3673,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "olympos-restaurant",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-sani",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Olympos Restaurant",
+    "titleRo": "Olympos Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympos-restaurant/images/olympos-restaurant-hero.webp",
+    "lat": 40.09115928522218,
+    "lon": 23.309661004323598,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Olympos Restaurant – Mediterranean Fine Dining at Sani Resort Located within the prestigious Sani Resort in Halkidiki, Olympos...",
+    "shortRo": "Olympos Restaurant – Fine Dining cu vedere spre Marea Egee Situat în prestigiosul Sani Resort, Halkidiki, Olympos Restaurant oferă o...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]
