@@ -1,0 +1,37 @@
+{
+  "id": "action-water-sports",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "paralia-nea-potidea"
+  ],
+  "titleEn": "Action Water Sports",
+  "titleRo": "Action Water Sports",
+  "categoryEn": "Watersports",
+  "categoryRo": "Watersports",
+  "phone": "+306979279302",
+  "whatsapp": "+306979279302",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Nea Poteidaia 632 00, Greece",
+  "lat": 40.20653679188487,
+  "lon": 23.32018555323669,
+  "coordinates": {
+    "lat": 40.20653679188487,
+    "lng": 23.32018555323669
+  },
+  "hours": {
+    "en": "Daily: 10:00-19:00",
+    "ro": "Zilnic: 10:00-19:00"
+  },
+  "descriptionEn": "Action Water Sports – Adventure Awaits on the Aegean Sea\n\nLocated on the beautiful beach of Nea Potidea, Action Water Sports is the perfect destination for thrill-seekers and water sports enthusiasts. Offering a wide range of exciting water activities and modern equipment, it provides unforgettable experiences for both beginners and experienced adventurers.\n\nWhether you're looking to speed across the sea on a jet ski, enjoy fun inflatable rides, try exciting towable water sports, or simply make the most of your day on the crystal-clear waters of the Aegean, the experienced and friendly team is committed to providing a safe, enjoyable, and memorable experience.\n\nSurrounded by stunning coastal scenery and warm Mediterranean waters, Action Water Sports is the perfect place to add excitement and adventure to your Halkidiki holiday.\n\nAction Water Sports – Experience the thrill of the Aegean and create unforgettable seaside memories. 🌊🚤☀️🏄",
+  "descriptionRo": "Action Water Sports – Aventură și distracție pe apele Halkidikiului\n\nSituat pe plaja din Nea Potidea, Action Water Sports este destinația ideală pentru iubitorii de sporturi nautice și aventură. Cu o gamă variată de activități pe apă și echipamente moderne, centrul oferă experiențe memorabile atât pentru începători, cât și pentru cei cu experiență.\n\nFie că doriți să simțiți adrenalina pe un jet ski, să vă bucurați de plimbări cu bărcile gonflabile, să încercați activități tractate sau pur și simplu să petreceți câteva ore pline de distracție pe mare, echipa profesionistă vă stă la dispoziție pentru o experiență sigură și plăcută.\n\nCu peisaje spectaculoase, ape limpezi și servicii de calitate, Action Water Sports transformă fiecare zi de vacanță într-o aventură de neuitat pe litoralul Halkidikiului.\n\nAction Water Sports – Adrenalină, distracție și amintiri de neuitat pe Marea Egee.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}

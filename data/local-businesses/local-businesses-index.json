@@ -77,5 +77,18 @@
     "lon": 23.27706293599448,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "action-water-sports",
+    "type": "local_business",
+    "titleEn": "Action Water Sports",
+    "category": "Watersports",
+    "beaches": [
+      "paralia-nea-potidea"
+    ],
+    "lat": 40.20653679188487,
+    "lon": 23.32018555323669,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
