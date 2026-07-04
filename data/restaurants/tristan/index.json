@@ -1,0 +1,155 @@
+{
+  "id": "tristan",
+  "zone": "Kassandra",
+  "beachSlug": "siviri-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "TRISTAN",
+  "titleRo": "TRISTAN",
+  "displayAddress": "Siviri 630 77, Greece",
+  "gpsCoordinates": "40.03666789783064, 23.359636371139626",
+  "lat": 40.03666789783064,
+  "lon": 23.359636371139626,
+  "openingHoursRaw": "Sunday\n\t\n\n    10 am–11 pm\n\n\t\nMonday\n\t\n\n    10 am–11 pm\n\n\t\nTuesday\n\t\n\n    10 am–11 pm\n\n\t\nWednesday\n\t\n\n    10 am–11 pm\n\n\t\nThursday\n\t\n\n    10 am–11 pm\n\n\t\nFriday\n\t\n\n    10 am–11 pm\n\n\t\nSaturday\n\t\n\n    10 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:00; Tuesday: 10:00–23:00; Wednesday: 10:00–23:00; Thursday: 10:00–23:00; Friday: 10:00–23:00; Saturday: 10:00–23:00; Sunday: 10:00–23:00",
+  "hoursRo": "Luni: 10:00–23:00; Marți: 10:00–23:00; Miercuri: 10:00–23:00; Joi: 10:00–23:00; Vineri: 10:00–23:00; Sâmbătă: 10:00–23:00; Duminică: 10:00–23:00",
+  "website": "https://dmpmenu.gr/tristan-menu",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306981870129",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "TRISTAN – Refined Mediterranean Dining in Siviri\n\nLocated in the charming seaside village of Siviri, Halkidiki, TRISTAN is an elegant restaurant where authentic Greek flavors meet contemporary Mediterranean cuisine. With its welcoming atmosphere, attentive service, and carefully selected ingredients, it is the perfect destination for a memorable dining experience.\n\nThe menu features fresh seafood, locally caught fish, creamy pasta and risotto dishes, grilled meats, traditional Greek appetizers, and fresh Mediterranean salads, all prepared with passion and the finest seasonal ingredients. Every dish highlights the rich culinary traditions of Greece while adding a refined modern touch.\n\nWhether you're enjoying a relaxing lunch after a day at the beach or a romantic evening meal with family and friends, TRISTAN promises exceptional flavors, warm hospitality, and unforgettable moments by the Aegean Sea.\n\nTRISTAN – Fresh seafood, Mediterranean elegance, and authentic Greek hospitality in beautiful Siviri. 🌊🍷🐟🍽️",
+  "descriptionRo": "TRISTAN – Bucătărie mediteraneană rafinată în inima Siviri\n\nSituat în fermecătoarea stațiune Siviri, Halkidiki, TRISTAN este un restaurant elegant care îmbină preparatele autentice grecești cu influențe moderne ale bucătăriei mediteraneene. Atmosfera relaxată, serviciile excelente și ingredientele atent selecționate îl transformă într-o alegere perfectă pentru orice moment al zilei.\n\nMeniul oferă o selecție bogată de fructe de mare proaspete, pește pescuit local, paste și risotto cremoase, preparate din carne la grătar, aperitive tradiționale și salate mediteraneene, toate pregătite cu ingrediente proaspete și multă atenție la detalii. Fiecare farfurie reflectă pasiunea pentru gastronomia grecească și respectul pentru aromele autentice.\n\nFie că alegeți un prânz relaxant după o zi petrecută pe plajă sau o cină romantică într-o atmosferă elegantă, TRISTAN vă oferă o experiență culinară memorabilă, completată de ospitalitatea specifică Greciei.\n\nTRISTAN – Gust autentic, ingrediente proaspete și momente speciale la malul Mării Egee.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [],
+  "children": [],
+  "parking": [
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

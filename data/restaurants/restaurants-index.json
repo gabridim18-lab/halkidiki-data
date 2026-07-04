@@ -3753,5 +3753,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "tristan",
+    "zone": "Kassandra",
+    "beachSlug": "siviri-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "TRISTAN",
+    "titleRo": "TRISTAN",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tristan/images/tristan-hero.webp",
+    "lat": 40.03666789783064,
+    "lon": 23.359636371139626,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "TRISTAN – Refined Mediterranean Dining in Siviri Located in the charming seaside village of Siviri, Halkidiki, TRISTAN is an elegant...",
+    "shortRo": "TRISTAN – Bucătărie mediteraneană rafinată în inima Siviri Situat în fermecătoarea stațiune Siviri, Halkidiki, TRISTAN este un...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
