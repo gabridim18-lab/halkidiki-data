@@ -3811,5 +3811,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "chill-out-beach-bar",
+    "zone": "Kassandra",
+    "beachSlug": "skala-fourkas-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Chill Out Beach Bar",
+    "titleRo": "Chill Out Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar-hero.webp",
+    "lat": 40.004148965376494,
+    "lon": 23.381718848996176,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Chill Out Beach Bar – Great Drinks, Good Food & Beachfront Relaxation Located on the beautiful beach of Fourka, Halkidiki, Chill Out...",
+    "shortRo": "Chill Out Beach Bar – Relaxare, cocktailuri și atmosfera perfectă de vacanță Situat pe frumoasa plajă din Fourka, Halkidiki, Chill Out...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

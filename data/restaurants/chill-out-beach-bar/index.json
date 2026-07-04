@@ -1,0 +1,169 @@
+{
+  "id": "chill-out-beach-bar",
+  "zone": "Kassandra",
+  "beachSlug": "skala-fourkas-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Chill Out Beach Bar",
+  "titleRo": "Chill Out Beach Bar",
+  "displayAddress": "Παραλια, Fourka 630 77, Greece",
+  "gpsCoordinates": "40.004148965376494, 23.381718848996176",
+  "lat": 40.004148965376494,
+  "lon": 23.381718848996176,
+  "openingHoursRaw": "Sunday\n\t\n\n    9 am–12 am\n\n\t\nMonday\n\t\n\n    9 am–12 am\n\n\t\nTuesday\n\t\n\n    9 am–12 am\n\n\t\nWednesday\n\t\n\n    9 am–12 am\n\n\t\nThursday\n\t\n\n    9 am–12 am\n\n\t\nFriday\n\t\n\n    9 am–12 am\n\n\t\nSaturday\n\t\n\n    9 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–00:00; Tuesday: 09:00–00:00; Wednesday: 09:00–00:00; Thursday: 09:00–00:00; Friday: 09:00–00:00; Saturday: 09:00–00:00; Sunday: 09:00–00:00",
+  "hoursRo": "Luni: 09:00–00:00; Marți: 09:00–00:00; Miercuri: 09:00–00:00; Joi: 09:00–00:00; Vineri: 09:00–00:00; Sâmbătă: 09:00–00:00; Duminică: 09:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306936070331",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Chill Out Beach Bar – Great Drinks, Good Food & Beachfront Relaxation\n\nLocated on the beautiful beach of Fourka, Halkidiki, Chill Out Beach Bar is the perfect destination for those looking to enjoy the sun, the sea, and a relaxed Mediterranean atmosphere. With comfortable sunbeds, stunning Aegean views, and a vibrant beach vibe, it offers everything you need for an unforgettable day by the water.\n\nThe menu features a wide selection of refreshing cocktails, premium coffee, cold beverages, beers, wines, traditional Greek spirits, fresh salads, pizzas, burgers, club sandwiches, and tasty snacks, making it an excellent choice from morning until late evening.\n\nWhether you're starting your day with a coffee, enjoying lunch by the sea, sipping a signature cocktail at sunset, or spending the evening with friends, Chill Out Beach Bar combines warm Greek hospitality with excellent service and a welcoming atmosphere.\n\nChill Out Beach Bar – Refreshing cocktails, delicious food, crystal-clear waters, and unforgettable summer moments in Fourka. ☀️🍹🌊🏖️",
+  "descriptionRo": "Chill Out Beach Bar – Relaxare, cocktailuri și atmosfera perfectă de vacanță\n\nSituat pe frumoasa plajă din Fourka, Halkidiki, Chill Out Beach Bar este locul ideal pentru cei care doresc să se bucure de soare, mare și o atmosferă relaxată într-un decor modern. Cu șezlonguri confortabile, muzică plăcută și priveliști spectaculoase asupra Mării Egee, beach bar-ul oferă cadrul perfect pentru o zi de neuitat la malul mării.\n\nMeniul include o gamă variată de cocktailuri răcoritoare, cafele aromate, băuturi reci, bere, vinuri, băuturi tradiționale grecești, salate proaspete, pizza, burgeri, club sandwich-uri și gustări delicioase, pregătite pentru a completa perfect o zi petrecută pe plajă.\n\nFie că veniți pentru o cafea de dimineață, un prânz ușor, un cocktail la apus sau o seară alături de prieteni, Chill Out Beach Bar vă întâmpină cu ospitalitate, servicii excelente și o atmosferă relaxantă specifică verii în Halkidiki.\n\nChill Out Beach Bar – Soare, mare, cocktailuri și momente de neuitat pe una dintre cele mai frumoase plaje din Fourka.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/chill-out-beach-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/chill-out-beach-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
