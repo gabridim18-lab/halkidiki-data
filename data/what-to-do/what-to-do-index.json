@@ -81,5 +81,17 @@
     "beaches": [
       "paralia-nea-moudania"
     ]
+  },
+  {
+    "id": "church-of-saint-george",
+    "type": "what_to_do",
+    "beaches": [
+      "paralia-nea-moudania",
+      "nea-moudania-beach",
+      "dionisiou-beach",
+      "gremia-beach",
+      "paralia-nea-potidea",
+      "nea-potidea-beach"
+    ]
   }
 ]
