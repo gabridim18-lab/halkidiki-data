@@ -101,5 +101,13 @@
       "paralia-nea-potidea",
       "nea-potidea-beach"
     ]
+  },
+  {
+    "id": "church-of-agios-georgios",
+    "type": "what_to_do",
+    "beaches": [
+      "paralia-nea-potidea",
+      "nea-potidea-beach"
+    ]
   }
 ]
