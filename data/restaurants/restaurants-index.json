@@ -3593,5 +3593,34 @@
       "international",
       "burger"
     ]
+  },
+  {
+    "id": "surreal-bistro",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-nea-moudania",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Surreal Bistro",
+    "titleRo": "Surreal Bistro",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/surreal-bistro/images/surreal-bistro-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/surreal-bistro/images/surreal-bistro-hero.webp",
+    "lat": 40.238483674027826,
+    "lon": 23.28558394876803,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Surreal Bistro – Modern Brunch & Specialty Coffee in the Heart of Nea Moudania Located in the heart of Nea Moudania, Surreal Bistro is...",
+    "shortRo": "Surreal Bistro – Brunch, cafea de specialitate și preparate moderne în inima Nea Moudania Situat în centrul orașului Nea Moudania,...",
+    "features": [
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]
