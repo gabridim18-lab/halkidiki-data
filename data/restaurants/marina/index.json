@@ -1,0 +1,183 @@
+{
+  "id": "marina",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-nea-potidea",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Marina",
+  "titleRo": "Marina",
+  "displayAddress": "POTIDAIA, Nea Potidea 632 00, Greece",
+  "gpsCoordinates": "40.195563247023145, 23.32383366718388",
+  "lat": 40.195563247023145,
+  "lon": 23.32383366718388,
+  "openingHoursRaw": "Saturday\n\t\n\n    1–10:30 pm\n\n\t\nSunday\n\t\n\n    1–10 pm\n\n\t\nMonday\n\t\n\n    1–10:30 pm\n\n\t\nTuesday\n\t\n\n    1–10:30 pm\n\n\t\nWednesday\n\t\n\n    1–10:30 pm\n\n\t\nThursday\n\t\n\n    1–10:30 pm\n\n\t\nFriday\n\t\n\n    1–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–22:30; Tuesday: 13:00–22:30; Wednesday: 13:00–22:30; Thursday: 13:00–22:30; Friday: 13:00–22:30; Saturday: 13:00–22:30; Sunday: 13:00–22:00",
+  "hoursRo": "Luni: 13:00–22:30; Marți: 13:00–22:30; Miercuri: 13:00–22:30; Joi: 13:00–22:30; Vineri: 13:00–22:30; Sâmbătă: 13:00–22:30; Duminică: 13:00–22:00",
+  "website": "http://www.marina-fish.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302373041570",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Marina Potidaia – Fine Mediterranean Dining by the Sea\n\nLocated in the charming coastal village of Nea Potidea, Marina Potidaia is an elegant seafood restaurant offering an exceptional Mediterranean dining experience. Just a short distance from the marina and the Aegean Sea, it provides the perfect setting for a relaxed lunch, a romantic dinner, or a memorable evening with family and friends.\n\nThe menu features fresh fish, premium seafood, refined carpaccio, marinated specialties, creamy risottos, and Mediterranean-inspired pasta dishes, all prepared with carefully selected ingredients and a passion for authentic Greek cuisine. Every dish highlights freshness, quality, and the rich flavors of the sea.\n\nWith its welcoming atmosphere, attentive service, and sophisticated cuisine, Marina Potidaia is an excellent choice for anyone looking to experience the finest tastes of Halkidiki.\n\nMarina Potidaia – Fresh seafood, Mediterranean elegance, and unforgettable dining by the Aegean Sea. 🌊🦞🍷🍽️",
+  "descriptionRo": "Marina Potidaia – Fine Dining cu savoarea Mării Egee\n\nSituat în pitoreasca localitate Nea Potidea, Marina Potidaia este un restaurant elegant dedicat iubitorilor de fructe de mare și preparatelor mediteraneene rafinate. Cu o atmosferă relaxată și o locație aproape de port și de mare, restaurantul oferă cadrul perfect pentru un prânz liniștit sau o cină deosebită.\n\nMeniul pune accent pe pește proaspăt, fructe de mare atent selecționate, carpaccio, preparate marinate și afumate, risotto cremos și paste cu influențe mediteraneene, toate pregătite cu ingrediente de cea mai bună calitate și respect pentru gastronomia grecească. Fiecare farfurie evidențiază prospețimea ingredientelor și pasiunea pentru bucătăria autentică.\n\nFie că doriți o masă romantică, o întâlnire cu prietenii sau o experiență culinară autentică în timpul vacanței, Marina Potidaia vă întâmpină cu ospitalitate grecească, servicii excelente și preparate care transformă fiecare vizită într-o experiență memorabilă.\n\nMarina Potidaia – Eleganță, fructe de mare proaspete și gustul autentic al Mediteranei, în inima Halkidikiului.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Lunch reservations recommended",
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood"
+  ]
+}

@@ -3622,5 +3622,30 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "marina",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-nea-potidea",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Marina",
+    "titleRo": "Marina",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/marina/images/marina-hero.webp",
+    "lat": 40.195563247023145,
+    "lon": 23.32383366718388,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Marina Potidaia – Fine Mediterranean Dining by the Sea Located in the charming coastal village of Nea Potidea, Marina Potidaia is an...",
+    "shortRo": "Marina Potidaia – Fine Dining cu savoarea Mării Egee Situat în pitoreasca localitate Nea Potidea, Marina Potidaia este un restaurant...",
+    "features": [
+      "restaurant",
+      "parking",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood"
+    ]
   }
 ]
