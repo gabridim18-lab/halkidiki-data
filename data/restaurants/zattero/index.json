@@ -1,0 +1,171 @@
+{
+  "id": "zattero",
+  "zone": "Kassandra",
+  "beachSlug": "skala-fourkas-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "ZATTERO",
+  "titleRo": "ZATTERO",
+  "displayAddress": "Σκάλα Φούρκας 630 77, Greece",
+  "gpsCoordinates": "39.989980244010845, 23.378872681075435",
+  "lat": 39.989980244010845,
+  "lon": 23.378872681075435,
+  "openingHoursRaw": "Sunday\n\t\n\n    10 am–8 pm\n\n\t\nMonday\n\t\n\n    10 am–8 pm\n\n\t\nTuesday\n\t\n\n    10 am–8 pm\n\n\t\nWednesday\n\t\n\n    10 am–8 pm\n\n\t\nThursday\n\t\n\n    10 am–8 pm\n\n\t\nFriday\n\t\n\n    10 am–8 pm\n\n\t\nSaturday\n\t\n\n    10 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–20:00; Tuesday: 10:00–20:00; Wednesday: 10:00–20:00; Thursday: 10:00–20:00; Friday: 10:00–20:00; Saturday: 10:00–20:00; Sunday: 10:00–20:00",
+  "hoursRo": "Luni: 10:00–20:00; Marți: 10:00–20:00; Miercuri: 10:00–20:00; Joi: 10:00–20:00; Vineri: 10:00–20:00; Sâmbătă: 10:00–20:00; Duminică: 10:00–20:00",
+  "website": "https://zattero.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306994451533",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "ZATTERO Beach Bar – Modern Flavors & Beachfront Relaxation\n\nLocated directly on the beautiful beach of Skala Fourkas, Halkidiki, ZATTERO Beach Bar offers a stylish blend of modern cuisine, handcrafted cocktails, and a relaxed seaside atmosphere. With elegant surroundings and stunning views of the Aegean Sea, it is the perfect place to enjoy every moment of your holiday.\n\nThe menu features signature cocktails, refreshing mocktails, Mediterranean and international-inspired dishes, gourmet burgers, tacos, poke bowls, fresh seafood, crisp salads, and delicious snacks, all prepared with carefully selected ingredients and beautifully presented.\n\nWhether you're starting your day with a freshly brewed coffee, enjoying a leisurely beachfront lunch, sipping cocktails at sunset, or spending the evening with friends, ZATTERO Beach Bar delivers an unforgettable dining and beach experience.\n\nZATTERO Beach Bar – Creative cocktails, contemporary cuisine, and unforgettable summer vibes on the beautiful beach of Fourka. 🌊🍹☀️🍽️",
+  "descriptionRo": "ZATTERO Beach Bar – Gusturi moderne și relaxare pe plaja din Fourka\n\nSituat chiar pe malul mării, în Skala Fourkas, Halkidiki, ZATTERO Beach Bar este o destinație modernă care combină preparatele creative, cocktailurile premium și atmosfera relaxată specifică litoralului grecesc. Cu un design elegant și o priveliște superbă asupra Mării Egee, este locul perfect pentru a vă bucura de fiecare moment al vacanței.\n\nMeniul aduce împreună cocktailuri signature, mocktailuri răcoritoare, preparate inspirate din bucătăria mediteraneană și internațională, burgeri gourmet, tacos, poke bowls, fructe de mare, salate proaspete și gustări savuroase, pregătite din ingrediente de calitate și prezentate cu atenție la fiecare detaliu.\n\nIndiferent dacă vă opriți pentru o cafea de dimineață, un prânz cu vedere la mare, un cocktail la apus sau o seară relaxantă alături de prieteni, ZATTERO Beach Bar oferă combinația perfectă între gastronomie, muzică și atmosfera vibrantă a verii.\n\nZATTERO Beach Bar – Cocktailuri creative, preparate moderne și momente memorabile pe una dintre cele mai frumoase plaje din Fourka.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Dancing",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Live music"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Private dining room",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "20Euro for 2 sunbeds",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "live_music"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

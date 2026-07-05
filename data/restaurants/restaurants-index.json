@@ -3896,5 +3896,34 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "zattero",
+    "zone": "Kassandra",
+    "beachSlug": "skala-fourkas-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "ZATTERO",
+    "titleRo": "ZATTERO",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/zattero/images/zattero-hero.webp",
+    "lat": 39.989980244010845,
+    "lon": 23.378872681075435,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "ZATTERO Beach Bar – Modern Flavors & Beachfront Relaxation Located directly on the beautiful beach of Skala Fourkas, Halkidiki,...",
+    "shortRo": "ZATTERO Beach Bar – Gusturi moderne și relaxare pe plaja din Fourka Situat chiar pe malul mării, în Skala Fourkas, Halkidiki, ZATTERO...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
