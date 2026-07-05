@@ -3839,5 +3839,31 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "oslo-seaside-bar",
+    "zone": "Kassandra",
+    "beachSlug": "skala-fourkas-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "OSLO seaside bar",
+    "titleRo": "OSLO seaside bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar-hero.webp",
+    "lat": 39.99856481477387,
+    "lon": 23.382778795770946,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "OSLO Seaside Bar – Stylish Beachfront Relaxation in Fourka Located directly on the beautiful beach of Skala Fourkas, Halkidiki, OSLO...",
+    "shortRo": "OSLO Seaside Bar – Relaxare elegantă pe plaja din Fourka Situat chiar pe malul mării, în frumoasa stațiune Skala Fourkas, Halkidiki,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

@@ -1,0 +1,166 @@
+{
+  "id": "oslo-seaside-bar",
+  "zone": "Kassandra",
+  "beachSlug": "skala-fourkas-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "OSLO seaside bar",
+  "titleRo": "OSLO seaside bar",
+  "displayAddress": "Σκάλα Φούρκας 630 77, Greece",
+  "gpsCoordinates": "39.99856481477387, 23.382778795770946",
+  "lat": 39.99856481477387,
+  "lon": 23.382778795770946,
+  "openingHoursRaw": "Saturday\n\t\n\n    9 am–3 am\n\n\t\nSunday\n\t\n\n    9 am–3 am\n\n\t\nMonday\n\t\n\n    9 am–3 am\n\n\t\nTuesday\n\t\n\n    9 am–3 am\n\n\t\nWednesday\n\t\n\n    9 am–3 am\n\n\t\nThursday\n\t\n\n    9 am–3 am\n\n\t\nFriday\n\t\n\n    9 am–3 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–03:00; Tuesday: 09:00–03:00; Wednesday: 09:00–03:00; Thursday: 09:00–03:00; Friday: 09:00–03:00; Saturday: 09:00–03:00; Sunday: 09:00–03:00",
+  "hoursRo": "Luni: 09:00–03:00; Marți: 09:00–03:00; Miercuri: 09:00–03:00; Joi: 09:00–03:00; Vineri: 09:00–03:00; Sâmbătă: 09:00–03:00; Duminică: 09:00–03:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306986224761",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "OSLO Seaside Bar – Stylish Beachfront Relaxation in Fourka\n\nLocated directly on the beautiful beach of Skala Fourkas, Halkidiki, OSLO Seaside Bar is the perfect destination for those seeking a blend of relaxation, refreshing drinks, and breathtaking Aegean Sea views. With its contemporary design and welcoming atmosphere, it offers an ideal setting to spend the entire day by the sea.\n\nGuests can enjoy freshly brewed coffee, refreshing beverages, handcrafted cocktails, and delicious light bites while relaxing just steps from the crystal-clear water. From morning coffee to sunset drinks, OSLO Seaside Bar creates the perfect summer atmosphere for every visitor.\n\nWhether you're swimming in the turquoise sea, enjoying a signature cocktail, or simply unwinding on a comfortable sunbed, OSLO Seaside Bar delivers an unforgettable beach experience in the heart of Halkidiki.\n\nOSLO Seaside Bar – Great drinks, stunning sea views, and unforgettable summer moments on the beautiful beach of Fourka. ☀️🌊🍹🏖️",
+  "descriptionRo": "OSLO Seaside Bar – Relaxare elegantă pe plaja din Fourka\n\nSituat chiar pe malul mării, în frumoasa stațiune Skala Fourkas, Halkidiki, OSLO Seaside Bar este locul ideal pentru cei care caută combinația perfectă între relaxare, muzică bună și priveliști spectaculoase asupra Mării Egee. Cu un design modern și o atmosferă primitoare, beach bar-ul oferă cadrul perfect pentru a petrece întreaga zi la plajă.\n\nOaspeții se pot bucura de cafele aromate, băuturi răcoritoare, cocktailuri creative și gustări delicioase, toate servite într-un ambient relaxat, chiar lângă mare. De la primele ore ale dimineții până la apus, OSLO Seaside Bar este locul perfect pentru a savura fiecare moment al vacanței.\n\nFie că veniți pentru o baie în apele cristaline, pentru un cocktail răcoritor sau pentru a vă relaxa pe șezlong admirând peisajul, OSLO Seaside Bar vă oferă o experiență autentică de vară în Halkidiki.\n\nOSLO Seaside Bar – Atmosferă modernă, cocktailuri excelente și momente de neuitat pe una dintre cele mai frumoase plaje din Fourka.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/oslo-seaside-bar4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/oslo-seaside-bar/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "5Euro",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "party"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
