@@ -3865,5 +3865,36 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "gozo---dine-and-dance",
+    "zone": "Kassandra",
+    "beachSlug": "skala-fourkas-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Gozo - Dine and Dance",
+    "titleRo": "Gozo - Dine and Dance",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance-hero.webp",
+    "lat": 39.997865772843134,
+    "lon": 23.382735753031877,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "GOZO Dine & Dance – Mediterranean Cuisine & Unforgettable Nights in Fourka Located in the heart of Skala Fourkas, Halkidiki, GOZO Dine...",
+    "shortRo": "GOZO Dine & Dance – Gastronomie mediteraneană și seri memorabile în Fourka Situat în inima stațiunii Skala Fourkas, Halkidiki, GOZO...",
+    "features": [
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]

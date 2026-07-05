@@ -1,0 +1,175 @@
+{
+  "id": "gozo---dine-and-dance",
+  "zone": "Kassandra",
+  "beachSlug": "skala-fourkas-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Gozo - Dine and Dance",
+  "titleRo": "Gozo - Dine and Dance",
+  "displayAddress": "Σκάλα Φούρκας 630 77, Greece",
+  "gpsCoordinates": "39.997865772843134, 23.382735753031877",
+  "lat": 39.997865772843134,
+  "lon": 23.382735753031877,
+  "openingHoursRaw": "Sunday\n\t\n\n    5:30 pm–3 am\n\n\t\nMonday\n\t\n\n    5:30 pm–2:30 am\n\n\t\nTuesday\n\t\n\n    5:30 pm–2:30 am\n\n\t\nWednesday\n\t\n\n    5:30 pm–2:30 am\n\n\t\nThursday\n\t\n\n    5:30 pm–2:30 am\n\n\t\nFriday\n\t\n\n    5:30 pm–3 am\n\n\t\nSaturday\n\t\n\n    5:30 pm–3 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "17:30",
+      "close": "02:30",
+      "labelEn": "17:30–02:30",
+      "labelRo": "17:30–02:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "17:30",
+      "close": "02:30",
+      "labelEn": "17:30–02:30",
+      "labelRo": "17:30–02:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "17:30",
+      "close": "02:30",
+      "labelEn": "17:30–02:30",
+      "labelRo": "17:30–02:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "17:30",
+      "close": "02:30",
+      "labelEn": "17:30–02:30",
+      "labelRo": "17:30–02:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "17:30",
+      "close": "03:00",
+      "labelEn": "17:30–03:00",
+      "labelRo": "17:30–03:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "17:30",
+      "close": "03:00",
+      "labelEn": "17:30–03:00",
+      "labelRo": "17:30–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "17:30",
+      "close": "03:00",
+      "labelEn": "17:30–03:00",
+      "labelRo": "17:30–03:00"
+    }
+  ],
+  "hoursEn": "Monday: 17:30–02:30; Tuesday: 17:30–02:30; Wednesday: 17:30–02:30; Thursday: 17:30–02:30; Friday: 17:30–03:00; Saturday: 17:30–03:00; Sunday: 17:30–03:00",
+  "hoursRo": "Luni: 17:30–02:30; Marți: 17:30–02:30; Miercuri: 17:30–02:30; Joi: 17:30–02:30; Vineri: 17:30–03:00; Sâmbătă: 17:30–03:00; Duminică: 17:30–03:00",
+  "website": "https://gozochalkidiki.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306986681322",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "GOZO Dine & Dance – Mediterranean Cuisine & Unforgettable Nights in Fourka\n\nLocated in the heart of Skala Fourkas, Halkidiki, GOZO Dine & Dance is a stylish restaurant where refined Mediterranean cuisine meets a lively and elegant atmosphere. It is the perfect destination for a relaxing lunch, a romantic dinner, or an unforgettable evening with great music and cocktails.\n\nThe menu features fresh salads, creamy pasta and risotto, premium seafood, grilled meats, gourmet burgers, and delicious desserts, all prepared with carefully selected ingredients and inspired by authentic Mediterranean flavors. Every dish is crafted to deliver freshness, quality, and exceptional taste.\n\nAs the sun sets, GOZO transforms into a vibrant evening venue where guests can enjoy signature cocktails, live music, and memorable moments with friends and family in a beautiful seaside setting.\n\nGOZO Dine & Dance – Exceptional Mediterranean flavors, handcrafted cocktails, and unforgettable evenings by the Aegean Sea. 🌊🍷🍽️✨",
+  "descriptionRo": "GOZO Dine & Dance – Gastronomie mediteraneană și seri memorabile în Fourka\n\nSituat în inima stațiunii Skala Fourkas, Halkidiki, GOZO Dine & Dance este un restaurant modern care îmbină preparatele mediteraneene rafinate cu o atmosferă elegantă și vibrantă. Este locul perfect pentru un prânz relaxant, o cină romantică sau o seară plină de muzică și voie bună.\n\nMeniul reunește salate proaspete, paste și risotto cremoase, preparate din pește și fructe de mare, carne premium, burgeri gourmet și deserturi delicioase, toate pregătite din ingrediente atent selecționate și inspirate din aromele autentice ale Mediteranei. Fiecare preparat este creat cu grijă pentru a oferi un echilibru perfect între gust, prospețime și prezentare.\n\nPe măsură ce soarele apune, GOZO își schimbă atmosfera, devenind locul ideal pentru cocktailuri, muzică și seri de vară petrecute alături de familie și prieteni.\n\nGOZO Dine & Dance – Bucură-te de preparate rafinate, cocktailuri excelente și seri de neuitat la malul Mării Egee.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/gozo---dine-and-dance4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/gozo---dine-and-dance/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}
