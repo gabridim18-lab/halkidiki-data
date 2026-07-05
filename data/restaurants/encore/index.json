@@ -1,0 +1,173 @@
+{
+  "id": "encore",
+  "zone": "Kassandra",
+  "beachSlug": "aigaiopelagitika-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Encore",
+  "titleRo": "Encore",
+  "displayAddress": "Αιγαιοπελαγίτικα, Posidi 630 77, Greece",
+  "gpsCoordinates": "39.977569944326625, 23.37332532090464",
+  "lat": 39.977569944326625,
+  "lon": 23.37332532090464,
+  "openingHoursRaw": "Sunday\n\t\n\n    9:30 am–11:50 pm\n\n\t\nMonday\n\t\n\n    9:30 am–11:50 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–11:50 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–11:50 pm\n\n\t\nThursday\n\t\n\n    9:30 am–11:50 pm\n\n\t\nFriday\n\t\n\n    9:30 am–11:50 pm\n\n\t\nSaturday\n\t\n\n    9:30 am–11:50 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:50",
+      "labelEn": "09:30–23:50",
+      "labelRo": "09:30–23:50"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:50",
+      "labelEn": "09:30–23:50",
+      "labelRo": "09:30–23:50"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:50",
+      "labelEn": "09:30–23:50",
+      "labelRo": "09:30–23:50"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:50",
+      "labelEn": "09:30–23:50",
+      "labelRo": "09:30–23:50"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:50",
+      "labelEn": "09:30–23:50",
+      "labelRo": "09:30–23:50"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:50",
+      "labelEn": "09:30–23:50",
+      "labelRo": "09:30–23:50"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:50",
+      "labelEn": "09:30–23:50",
+      "labelRo": "09:30–23:50"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–23:50; Tuesday: 09:30–23:50; Wednesday: 09:30–23:50; Thursday: 09:30–23:50; Friday: 09:30–23:50; Saturday: 09:30–23:50; Sunday: 09:30–23:50",
+  "hoursRo": "Luni: 09:30–23:50; Marți: 09:30–23:50; Miercuri: 09:30–23:50; Joi: 09:30–23:50; Vineri: 09:30–23:50; Sâmbătă: 09:30–23:50; Duminică: 09:30–23:50",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306976717285",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Encore Beach Bar – Great Food and Relaxation by the Sea\n\nLocated on the beautiful beach of Possidi, Halkidiki, Encore Beach Bar is the perfect place to combine beachfront relaxation with delicious food and refreshing drinks. With its welcoming atmosphere, beautiful Aegean Sea views, and friendly service, it offers everything needed for a memorable summer day.\n\nThe menu features fresh salads, Italian-style pizzas, club sandwiches, burgers, tortillas, light snacks, and a variety of refreshing beverages and cocktails, all prepared with quality ingredients and served in a relaxed seaside setting.\n\nWhether you're enjoying a peaceful morning coffee, a leisurely lunch by the beach, or a refreshing cocktail while watching the sunset, Encore Beach Bar offers the perfect balance of comfort, flavor, and Greek summer hospitality.\n\nEncore Beach Bar – Fresh flavors, refreshing drinks, and unforgettable seaside moments on the beautiful beach of Possidi. 🌊☀️🍕🍹🏖️",
+  "descriptionRo": "Encore Beach Bar – Relaxare și gust autentic pe plaja din Possidi\n\nSituat pe frumoasa plajă din Possidi, Halkidiki, Encore Beach Bar este destinația perfectă pentru cei care doresc să combine relaxarea la malul mării cu preparate delicioase și băuturi răcoritoare. Atmosfera prietenoasă, priveliștea spectaculoasă asupra Mării Egee și serviciile de calitate creează cadrul ideal pentru o zi de vacanță.\n\nMeniul include salate proaspete, pizza pregătită în stil italian, club sandwich-uri, burgeri, tortilla, gustări rapide și preparate ușoare, alături de cafele aromate, băuturi reci și cocktailuri perfecte pentru zilele călduroase de vară. Fiecare preparat este realizat din ingrediente atent alese pentru a oferi prospețime și savoare.\n\nFie că vă relaxați pe șezlong, luați prânzul cu familia sau savurați un cocktail în timp ce admirați apusul, Encore Beach Bar vă oferă o experiență autentică de vară într-una dintre cele mai frumoase zone ale peninsulei Kassandra.\n\nEncore Beach Bar – Marea, soarele, preparatele gustoase și atmosfera relaxată transformă fiecare vizită într-o amintire frumoasă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Monday to Fryday free of charege, Sa & Su 50Euro for 2 sunbeds first row",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

@@ -3925,5 +3925,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "encore",
+    "zone": "Kassandra",
+    "beachSlug": "aigaiopelagitika-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Encore",
+    "titleRo": "Encore",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/encore/images/encore-hero.webp",
+    "lat": 39.977569944326625,
+    "lon": 23.37332532090464,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Encore Beach Bar – Great Food and Relaxation by the Sea Located on the beautiful beach of Possidi, Halkidiki, Encore Beach Bar is the...",
+    "shortRo": "Encore Beach Bar – Relaxare și gust autentic pe plaja din Possidi Situat pe frumoasa plajă din Possidi, Halkidiki, Encore Beach Bar...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
