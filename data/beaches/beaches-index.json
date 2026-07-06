@@ -336,22 +336,6 @@
     "suitableForChildren": true
   },
   {
-    "id": "ntouraki-beach",
-    "zone": "Thessaloniki",
-    "name": {
-      "en": "Ntouraki Beach",
-      "ro": "Plaja Ntouraki"
-    },
-    "previewImage": "ntouraki-beach.webp",
-    "coordinates": {
-      "lat": 40.349592276166746,
-      "lon": 23.00677117674442
-    },
-    "rating": 4.0,
-    "waterTemperature": 24,
-    "suitableForChildren": true
-  },
-  {
     "id": "nea-plagia-beach",
     "zone": "Thessaloniki",
     "name": {
