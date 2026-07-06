@@ -3954,5 +3954,24 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "eldoris-beach-bar",
+    "zone": "Kassandra",
+    "beachSlug": "possidi-west-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Eldoris Beach Bar",
+    "titleRo": "Eldoris Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar-hero.webp",
+    "lat": 39.97134506707908,
+    "lon": 23.368108999996938,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Eldoris Beach Bar Located on the stunning beach of Possidi, Eldoris Beach Bar is the perfect place to relax and enjoy the beauty of...",
+    "shortRo": "Eldoris Beach Bar Situat pe spectaculoasa plajă din Possidi, Eldoris Beach Bar este locul perfect pentru cei care doresc să se bucure...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]

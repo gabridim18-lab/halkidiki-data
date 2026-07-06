@@ -1,0 +1,166 @@
+{
+  "id": "eldoris-beach-bar",
+  "zone": "Kassandra",
+  "beachSlug": "possidi-west-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Eldoris Beach Bar",
+  "titleRo": "Eldoris Beach Bar",
+  "displayAddress": "Possidi 630 77, Greece",
+  "gpsCoordinates": "39.97134506707908, 23.368108999996938",
+  "lat": 39.97134506707908,
+  "lon": 23.368108999996938,
+  "openingHoursRaw": "Monday\n\t\n\n    10 am–11 pm\n\n\t\nTuesday\n\t\n\n    10 am–11 pm\n\n\t\nWednesday\n\t\n\n    10 am–11 pm\n\n\t\nThursday\n\t\n\n    10 am–11 pm\n\n\t\nFriday\n\t\n\n    10 am–11 pm\n\n\t\nSaturday\n\t\n\n    10 am–11 pm\n\n\t\nSunday\n\t\n\n    10 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:00; Tuesday: 10:00–23:00; Wednesday: 10:00–23:00; Thursday: 10:00–23:00; Friday: 10:00–23:00; Saturday: 10:00–23:00; Sunday: 10:00–23:00",
+  "hoursRo": "Luni: 10:00–23:00; Marți: 10:00–23:00; Miercuri: 10:00–23:00; Joi: 10:00–23:00; Vineri: 10:00–23:00; Sâmbătă: 10:00–23:00; Duminică: 10:00–23:00",
+  "website": "http://eldorispossidi.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306986994887",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Eldoris Beach Bar\n\nLocated on the stunning beach of Possidi, Eldoris Beach Bar is the perfect place to relax and enjoy the beauty of Halkidiki. Overlooking the crystal-clear waters of the Aegean Sea, the beach bar combines a laid-back atmosphere with stylish surroundings, creating the ideal setting for an unforgettable summer day.\n\nGuests can enjoy freshly brewed coffee, refreshing cocktails, premium spirits, smoothies, cold beverages, and light snacks while relaxing on comfortable sunbeds just steps from the sea. Friendly service, relaxing music, and breathtaking coastal views make Eldoris Beach Bar a favorite destination for families, couples, and groups of friends alike.\n\nWhether you're watching the sunset with your favorite drink, taking a break after a swim, or simply soaking up the Mediterranean atmosphere, Eldoris Beach Bar offers the perfect blend of relaxation, quality, and authentic Greek summer vibes.",
+  "descriptionRo": "Eldoris Beach Bar\n\nSituat pe spectaculoasa plajă din Possidi, Eldoris Beach Bar este locul perfect pentru cei care doresc să se bucure de soarele Greciei într-o atmosferă relaxată și elegantă. Cu vedere panoramică asupra apelor cristaline ale Mării Egee, beach barul oferă combinația ideală dintre confort, muzică de vară și ospitalitate autentică.\n\nAici poți savura cafea proaspăt preparată, cocktailuri răcoritoare, băuturi premium, smoothie-uri și gustări ușoare, toate pregătite pentru a completa o zi perfectă la plajă. Șezlongurile confortabile, serviciile prietenoase și atmosfera relaxantă transformă Eldoris Beach Bar într-o destinație preferată atât de familii, cât și de cupluri sau grupuri de prieteni.\n\nFie că alegi să admiri apusul cu un cocktail în mână, să te răcorești după o baie în mare sau pur și simplu să te bucuri de sunetul valurilor, Eldoris Beach Bar oferă experiența autentică a verii în Halkidiki.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/eldoris-beach-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/eldoris-beach-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "50Euro - umbrella, 2 beds, chair and cushion",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}
