@@ -1,0 +1,38 @@
+{
+  "id": "aquabros",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "beach-mykoniatika",
+    "nea-plagia-beach",
+    "mykoniatika-secret-beach"
+  ],
+  "titleEn": "AquaBros",
+  "titleRo": "AquaBros",
+  "categoryEn": "Watersports",
+  "categoryRo": "Watersports",
+  "phone": "+306982858581",
+  "whatsapp": "+306982858581",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Μυκωνιατηκα, Nea Kallikratia 630 80, Greece",
+  "lat": 40.30010776455952,
+  "lon": 23.094028935585904,
+  "coordinates": {
+    "lat": 40.30010776455952,
+    "lng": 23.094028935585904
+  },
+  "hours": {
+    "en": "Daily: 11:00 - 20:30",
+    "ro": "Zilnic: 11:00 - 20:30"
+  },
+  "descriptionEn": "AquaBros Water Sports\n\nLocated on the beautiful beach of Mykoniatika, near Nea Kallikrateia, AquaBros Water Sports is the perfect destination for visitors looking to add excitement to their Halkidiki holiday. The center offers a wide range of water sports and fun activities suitable for both beginners and experienced adventure seekers, all in a safe and well-organized environment.\n\nWhether you choose an exhilarating jet ski ride, enjoy the thrill of inflatable tow rides, or try other exciting water activities, you'll experience crystal-clear waters, stunning views of the Thermaic Gulf, and a welcoming atmosphere. Modern, well-maintained equipment and professional guidance ensure that every activity is both safe and unforgettable.\n\nAquaBros Water Sports is an excellent choice for families, couples, and groups of friends looking to turn a relaxing beach day into an unforgettable adventure on the water.",
+  "descriptionRo": "AquaBros Water Sports\n\nSituat pe plaja din Mykoniatika, lângă Nea Kallikratia, AquaBros Water Sports este locul ideal pentru cei care doresc să adauge un plus de adrenalină vacanței lor în Halkidiki. Centrul oferă o gamă variată de activități nautice, potrivite atât pentru începători, cât și pentru cei cu experiență, într-un cadru sigur și bine organizat.\n\nFie că alegi o plimbare cu jet ski-ul, o experiență plină de distracție pe gonflabile tractate sau alte activități pe apă, te vei bucura de ape limpezi, priveliști spectaculoase asupra Golfului Thermaic și de o atmosferă prietenoasă. Echipamentul este modern și bine întreținut, iar personalul oferă instrucțiuni clare pentru ca fiecare experiență să fie sigură și memorabilă.\n\nAquaBros Water Sports este o alegere excelentă pentru familii, cupluri și grupuri de prieteni care vor să transforme o zi obișnuită la plajă într-o experiență plină de energie și distracție.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp"
+  ]
+}

@@ -118,5 +118,20 @@
     "lon": 23.36701922201627,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "aquabros",
+    "type": "local_business",
+    "titleEn": "AquaBros",
+    "category": "Watersports",
+    "beaches": [
+      "beach-mykoniatika",
+      "nea-plagia-beach",
+      "mykoniatika-secret-beach"
+    ],
+    "lat": 40.30010776455952,
+    "lon": 23.094028935585904,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
