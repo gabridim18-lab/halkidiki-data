@@ -1,0 +1,39 @@
+{
+  "id": "aquaspeed",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "possidi-west-beach",
+    "possidi-cape",
+    "aigaiopelagitika-beach"
+  ],
+  "titleEn": "Aquaspeed",
+  "titleRo": "Aquaspeed",
+  "categoryEn": "Watersports",
+  "categoryRo": "Watersports",
+  "phone": "+306932602621",
+  "whatsapp": "+306932602621",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Kassandra 630 77, Greece",
+  "lat": 39.97062894900876,
+  "lon": 23.36701922201627,
+  "coordinates": {
+    "lat": 39.97062894900876,
+    "lng": 23.36701922201627
+  },
+  "hours": {
+    "en": "Daily: 10:00 - 19:00",
+    "ro": "Zilnic: 10:00 - 19:00"
+  },
+  "descriptionEn": "Aquaspeed Watersport – Adventure on the Crystal Waters of Possidi\n\nLocated on the stunning beach of Possidi, Halkidiki, Aquaspeed Watersport is the perfect destination for water sports enthusiasts and anyone looking for an exciting seaside adventure. Surrounded by the crystal-clear waters of the Aegean Sea and breathtaking coastal scenery, it offers unforgettable experiences for visitors of all ages.\n\nThe center provides a wide range of modern water sports activities and equipment suitable for both beginners and experienced adventurers. Whether you're looking for a thrilling ride across the sea or simply want to explore the beautiful coastline from a different perspective, the professional team ensures a safe, enjoyable, and memorable experience.\n\nWith high-quality equipment, friendly service, and a passion for adventure, Aquaspeed Watersport is the ideal place to make your summer holiday in Halkidiki even more exciting.\n\nAquaspeed Watersport – Speed, adventure, and unforgettable moments on the beautiful waters of Possidi. 🌊🚤☀️🏄",
+  "descriptionRo": "Aquaspeed Watersport – Aventură și distracție pe apele cristaline din Possidi\n\nSituat pe spectaculoasa plajă din Possidi, Halkidiki, Aquaspeed Watersport este destinația perfectă pentru iubitorii de sporturi nautice și experiențe pline de adrenalină. Apele limpezi ale Mării Egee și peisajele impresionante creează cadrul ideal pentru o zi activă și distractivă alături de familie sau prieteni.\n\nCentrul oferă o varietate de activități nautice și echipamente moderne, potrivite atât pentru începători, cât și pentru cei cu experiență. Indiferent dacă doriți o plimbare plină de viteză pe apă sau pur și simplu să descoperiți frumusețea litoralului dintr-o perspectivă diferită, echipa Aquaspeed vă asigură o experiență sigură, profesionistă și memorabilă.\n\nCu servicii excelente, echipamente de calitate și o atmosferă prietenoasă, Aquaspeed Watersport este alegerea ideală pentru a adăuga un plus de aventură vacanței dumneavoastră în Halkidiki.\n\nAquaspeed Watersport – Adrenalină, distracție și amintiri de neuitat pe apele spectaculoase ale Mării Egee.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}

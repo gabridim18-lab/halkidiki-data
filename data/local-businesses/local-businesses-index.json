@@ -103,5 +103,20 @@
     "lon": 23.38267908310444,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "aquaspeed",
+    "type": "local_business",
+    "titleEn": "Aquaspeed",
+    "category": "Watersports",
+    "beaches": [
+      "possidi-west-beach",
+      "possidi-cape",
+      "aigaiopelagitika-beach"
+    ],
+    "lat": 39.97062894900876,
+    "lon": 23.36701922201627,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
