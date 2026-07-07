@@ -3973,5 +3973,33 @@
     "shortRo": "Eldoris Beach Bar Situat pe spectaculoasa plajă din Possidi, Eldoris Beach Bar este locul perfect pentru cei care doresc să se bucure...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "cocus-beach-bar",
+    "zone": "Kassandra",
+    "beachSlug": "possidi-west-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Cocus Beach Bar",
+    "titleRo": "Cocus Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar-hero.webp",
+    "lat": 39.969316921358164,
+    "lon": 23.36685971373971,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Located on one of the beautiful beaches of the Kassandra peninsula, Cocus Beach Bar is the perfect destination for visitors looking to...",
+    "shortRo": "Cocus Beach Bar Situat pe una dintre frumoasele plaje ale peninsulei Kassandra, Cocus Beach Bar este destinația ideală pentru cei care...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

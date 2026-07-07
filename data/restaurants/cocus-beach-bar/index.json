@@ -1,0 +1,144 @@
+{
+  "id": "cocus-beach-bar",
+  "zone": "Kassandra",
+  "beachSlug": "possidi-west-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Cocus Beach Bar",
+  "titleRo": "Cocus Beach Bar",
+  "displayAddress": "Unnamed Rd, Κασσανδρεία 630 77, Greece",
+  "gpsCoordinates": "39.969316921358164, 23.36685971373971",
+  "lat": 39.969316921358164,
+  "lon": 23.36685971373971,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/CocusBeach/",
+  "instagram": "",
+  "phone": "+306976888297",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Located on one of the beautiful beaches of the Kassandra peninsula, Cocus Beach Bar is the perfect destination for visitors looking to combine relaxation, comfort, and the authentic spirit of a Greek summer. Set just a few steps from the crystal-clear waters of the Aegean Sea, the beach bar offers stunning seaside views and a stylish atmosphere throughout the day.\n\nGuests can enjoy freshly brewed coffee, handcrafted cocktails, refreshing drinks, cold beers, and delicious light snacks while relaxing on comfortable sunbeds by the beach. Friendly service, relaxing music, and a welcoming atmosphere make every visit enjoyable and unforgettable.\n\nWhether you're starting your morning with a coffee by the sea, spending a sunny afternoon on the beach, or ending the day with a refreshing cocktail while watching the sunset, Cocus Beach Bar provides the perfect setting to experience the beauty and charm of Halkidiki.",
+  "descriptionRo": "Cocus Beach Bar\n\nSituat pe una dintre frumoasele plaje ale peninsulei Kassandra, Cocus Beach Bar este destinația ideală pentru cei care caută combinația perfectă dintre relaxare, confort și atmosfera autentică a verii grecești. Cu o poziție privilegiată chiar lângă mare, beach barul oferă priveliști spectaculoase asupra apelor limpezi ale Mării Egee și un ambient modern, perfect pentru întreaga zi.\n\nOaspeții se pot bucura de cafea aromată, cocktailuri preparate cu grijă, băuturi răcoritoare, bere rece și gustări delicioase, toate servite într-o atmosferă prietenoasă și relaxantă. Șezlongurile confortabile, muzica plăcută și serviciile de calitate transformă fiecare vizită într-o experiență memorabilă.\n\nFie că îți începi dimineața cu o cafea privind răsăritul, petreci după-amiaza la soare sau închei ziua admirând culorile apusului cu un cocktail în mână, Cocus Beach Bar oferă cadrul perfect pentru momente de neuitat pe litoralul din Halkidiki.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/cocus-beach-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cocus-beach-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "10Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
