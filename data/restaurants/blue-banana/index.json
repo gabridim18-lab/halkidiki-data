@@ -1,0 +1,158 @@
+{
+  "id": "blue-banana",
+  "zone": "Kassandra",
+  "beachSlug": "possidi-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Blue Banana",
+  "titleRo": "Blue Banana",
+  "displayAddress": "X966+XH, Aploma 630 77, Greece",
+  "gpsCoordinates": "39.962661676927546, 23.361290786021826",
+  "lat": 39.962661676927546,
+  "lon": 23.361290786021826,
+  "openingHoursRaw": "Tuesday\n    9:30–3:30 am\nWednesday\n    9:30–3:30 am\nThursday\n    9:30–3:30 am\n    Friday\n\t    9:30–3:30 am\n    Saturday\n\n    9:30–6 am\nSunday\n\t9:30–6 am\nMonday\n    9:30–3:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "03:30",
+      "labelEn": "09:30–03:30",
+      "labelRo": "09:30–03:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "03:30",
+      "labelEn": "09:30–03:30",
+      "labelRo": "09:30–03:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "03:30",
+      "labelEn": "09:30–03:30",
+      "labelRo": "09:30–03:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "03:30",
+      "labelEn": "09:30–03:30",
+      "labelRo": "09:30–03:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "03:30",
+      "labelEn": "09:30–03:30",
+      "labelRo": "09:30–03:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "06:00",
+      "labelEn": "09:30–06:00",
+      "labelRo": "09:30–06:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "06:00",
+      "labelEn": "09:30–06:00",
+      "labelRo": "09:30–06:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–03:30; Tuesday: 09:30–03:30; Wednesday: 09:30–03:30; Thursday: 09:30–03:30; Friday: 09:30–03:30; Saturday: 09:30–06:00; Sunday: 09:30–06:00",
+  "hoursRo": "Luni: 09:30–03:30; Marți: 09:30–03:30; Miercuri: 09:30–03:30; Joi: 09:30–03:30; Vineri: 09:30–03:30; Sâmbătă: 09:30–06:00; Duminică: 09:30–06:00",
+  "website": "https://www.bluebanana.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306947268659",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Blue Banana Beach Bar\n\nBlue Banana Beach Bar is one of Possidi's most vibrant summer hotspots, famous for its lively atmosphere and exciting beachfront events. Set on a beautiful sandy beach with crystal-clear Aegean waters, it offers the perfect combination of daytime relaxation and unforgettable nightlife.\n\nThroughout the summer season, the venue hosts beach parties, live DJ performances, themed events, and concerts, attracting visitors from across Halkidiki. During the day, guests can unwind on comfortable sunbeds while enjoying fresh coffee, tropical cocktails, smoothies, and refreshing drinks. As the sun sets, the atmosphere comes alive with music, dancing, and energetic beach parties that continue late into the night.\n\nWhether you're looking for a peaceful day by the sea or an unforgettable summer party under the stars, Blue Banana Beach Bar delivers one of the most exciting beach experiences in Halkidiki.",
+  "descriptionRo": "Blue Banana Beach Bar\n\nBlue Banana Beach Bar este una dintre cele mai vibrante destinații de vară din Possidi, fiind renumit pentru atmosfera sa energică și petrecerile organizate chiar pe malul mării. Situat într-un decor spectaculos, cu nisip fin și ape cristaline, beach barul oferă combinația perfectă între relaxare în timpul zilei și distracție după apus.\n\nPe parcursul sezonului, locația găzduiește beach parties, DJ sets, concerte live și evenimente tematice care atrag atât turiști, cât și localnici din întreaga peninsulă Kassandra. Ziua te poți relaxa pe șezlong cu o cafea, un smoothie sau un cocktail tropical, iar seara atmosfera se transformă într-o adevărată petrecere pe plajă, cu muzică, dans și cocktailuri servite până târziu în noapte.\n\nDacă îți dorești mai mult decât o simplă zi la mare, Blue Banana Beach Bar este locul unde relaxarea, muzica și energia verii grecești se întâlnesc pentru a crea experiențe memorabile.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana4.webp"
+  ],
+  "menuImages": [],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Live music"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Late-night food",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "party",
+    "dj_sets"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "sea_view",
+    "sunset_view",
+    "events"
+  ],
+  "cuisineTypes": [
+    "mediterranean"
+  ]
+}

@@ -4001,5 +4001,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "blue-banana",
+    "zone": "Kassandra",
+    "beachSlug": "possidi-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Blue Banana",
+    "titleRo": "Blue Banana",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-banana/images/blue-banana-hero.webp",
+    "lat": 39.962661676927546,
+    "lon": 23.361290786021826,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Blue Banana Beach Bar Blue Banana Beach Bar is one of Possidi's most vibrant summer hotspots, famous for its lively atmosphere and...",
+    "shortRo": "Blue Banana Beach Bar Blue Banana Beach Bar este una dintre cele mai vibrante destinații de vară din Possidi, fiind renumit pentru...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "sunset_view",
+      "events"
+    ],
+    "cuisineTypes": [
+      "mediterranean"
+    ]
   }
 ]
