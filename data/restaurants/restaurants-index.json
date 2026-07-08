@@ -4253,5 +4253,24 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "kaktus",
+    "zone": "Kassandra",
+    "beachSlug": "nea-skioni-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Kaktus",
+    "titleRo": "Kaktus",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus-hero.webp",
+    "lat": 39.94491418613175,
+    "lon": 23.533154924445544,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Kaktus Beach Bar Located on the beautiful beach of Nea Skioni, Kaktus Beach Bar is the perfect place to enjoy the sun, the sea, and...",
+    "shortRo": "Kaktus Beach Bar Situat pe frumoasa plajă din Nea Skioni, Kaktus Beach Bar este destinația perfectă pentru cei care doresc să se...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]

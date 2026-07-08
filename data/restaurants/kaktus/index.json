@@ -1,0 +1,166 @@
+{
+  "id": "kaktus",
+  "zone": "Kassandra",
+  "beachSlug": "nea-skioni-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Kaktus",
+  "titleRo": "Kaktus",
+  "displayAddress": "N, Nea Skioni 630 85, Greece",
+  "gpsCoordinates": "39.94491418613175, 23.533154924445544",
+  "lat": 39.94491418613175,
+  "lon": 23.533154924445544,
+  "openingHoursRaw": "Thursday\n\t\n\n    10 am–8 pm\n\n\t\nFriday\n\t\n\n    10 am–8 pm\n\n\t\nSaturday\n\t\n\n    10 am–8 pm\n\n\t\nSunday\n\t\n\n    10 am–8 pm\n\n\t\nMonday\n\t\n\n    10 am–8 pm\n\n\t\nTuesday\n\t\n\n    10 am–8 pm\n\n\t\nWednesday\n\t\n\n    10 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–20:00; Tuesday: 10:00–20:00; Wednesday: 10:00–20:00; Thursday: 10:00–20:00; Friday: 10:00–20:00; Saturday: 10:00–20:00; Sunday: 10:00–20:00",
+  "hoursRo": "Luni: 10:00–20:00; Marți: 10:00–20:00; Miercuri: 10:00–20:00; Joi: 10:00–20:00; Vineri: 10:00–20:00; Sâmbătă: 10:00–20:00; Duminică: 10:00–20:00",
+  "website": "https://inmenu.online/kaktus/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306977354524",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Kaktus Beach Bar\n\nLocated on the beautiful beach of Nea Skioni, Kaktus Beach Bar is the perfect place to enjoy the sun, the sea, and the relaxed atmosphere of a Greek summer. With comfortable sunbeds set just a few steps from the crystal-clear waters of the Aegean Sea, the beach bar provides an ideal setting for a memorable day in Halkidiki.\n\nGuests can enjoy freshly brewed coffee, refreshing cocktails, cold beers, natural juices, soft drinks, and light snacks, all served in a welcoming and laid-back environment. Relaxing music, attentive service, and stunning sea views create the perfect atmosphere for unwinding throughout the day.\n\nWhether you're spending the entire day on the beach, enjoying a refreshing drink while watching the sunset, or simply taking a break during your holiday, Kaktus Beach Bar offers the perfect combination of comfort, quality service, and the authentic charm of the Greek coastline.",
+  "descriptionRo": "Kaktus Beach Bar\n\nSituat pe frumoasa plajă din Nea Skioni, Kaktus Beach Bar este destinația perfectă pentru cei care doresc să se bucure de soare, mare și atmosfera relaxată specifică verii grecești. Cu șezlonguri confortabile amplasate chiar lângă apele cristaline ale Mării Egee, beach barul oferă cadrul ideal pentru o zi de neuitat în Halkidiki.\n\nMeniul include cafea proaspăt preparată, cocktailuri răcoritoare, băuturi reci, bere, sucuri naturale și gustări ușoare, toate servite într-o atmosferă prietenoasă și relaxantă. Muzica ambientală, serviciile atente și priveliștea spectaculoasă asupra mării completează experiența, transformând fiecare vizită într-un moment de relaxare autentică.\n\nFie că alegi să petreci întreaga zi pe plajă, să admiri apusul cu un cocktail în mână sau să iei o pauză răcoritoare în timpul vacanței, Kaktus Beach Bar oferă combinația perfectă dintre confort, ospitalitate și farmecul litoralului din Kassandra.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/kaktus4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaktus/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}
