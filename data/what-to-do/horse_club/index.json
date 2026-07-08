@@ -1,0 +1,38 @@
+{
+  "id": "horse_club",
+  "type": "what_to_do",
+  "beaches": [
+    "surfer_beach_angelochori",
+    "riviera_virgin_beach",
+    "oasis_beach",
+    "sand_dunes_beach",
+    "nea_iraklia_beach",
+    "vergia_beach",
+    "sozopoli_beach",
+    "mykoniatika_secret_beach",
+    "ntouraki_beach",
+    "flogita_beach"
+  ],
+  "titleEn": "Horse Club (Thessaloniki Equestrian Center)",
+  "titleRo": "Horse Club (Centrul Ecvestru Thessaloniki)",
+  "categoryEn": "Adventure & Activities",
+  "categoryRo": "Aventură și activități",
+  "address": "GX6W+FH, Neo Risio 570 01, Greece",
+  "hoursEn": "Mon Closed; Tue–Sun 09:00–20:00",
+  "hoursRo": "Lun Închis; Mar–Dum 09:00–20:00",
+  "website": "https://www.horseclub.gr/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.56359290620848,
+    "lon": 22.96508786829792
+  },
+  "phone": "+30 694 845 0147",
+  "price": "",
+  "descriptionEn": "🐎 Thessaloniki Equestrian Center is a modern horseback riding facility offering professional training and outdoor experiences in a natural setting near Thessaloniki.\n\n• 🐎 Riding lessons for all ages and skill levels, from beginners to advanced riders\n• 🌿 Scenic horseback trails through nature and open landscapes\n• 🏆 Competition training, including show jumping and dressage\n• 👧 Summer camps and activities designed especially for children\n• 🏡 Well-maintained stables and facilities with experienced instructors\n\n⭐ An excellent choice for families, sports enthusiasts, and nature lovers seeking an active outdoor experience.",
+  "descriptionRo": "🐎 Centrul Ecvestru Thessaloniki este o bază modernă de echitație, care oferă antrenament profesionist și experiențe în aer liber, într-un cadru natural din apropierea Salonicului.\n\n• 🐎 Lecții de călărie pentru toate vârstele și nivelurile, de la începători la avansați\n• 🌿 Trasee ecvestre prin natură și peisaje deschise\n• 🏆 Pregătire pentru competiții, inclusiv sărituri peste obstacole și dresaj\n• 👧 Tabere de vară și activități dedicate copiilor\n• 🏡 Grajduri și facilități bine întreținute, cu instructori experimentați\n\n⭐ O alegere excelentă pentru familii, pasionați de sport și iubitori de natură.",
+  "images": [
+    "horse_club1.webp",
+    "horse_club2.webp",
+    "horse_club3.webp"
+  ]
+}

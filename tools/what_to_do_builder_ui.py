@@ -3,6 +3,7 @@ import json
 import shutil
 import subprocess
 import re
+import requests
 from pathlib import Path
 
 import customtkinter as ctk
@@ -157,6 +158,67 @@ def set_entry_value(entry, value):
 def set_textbox_value(textbox, value):
     textbox.delete("1.0", "end")
     textbox.insert("1.0", value or "")
+
+# =========================
+# GET COORDINATES
+# =========================
+
+def get_coordinates():
+
+    address = address_entry.get().strip()
+
+    if not address:
+        messagebox.showwarning(
+            "Missing address",
+            "Please enter an address first."
+        )
+        return
+
+    try:
+
+        headers = {
+            "User-Agent": "HalkidikiExplorerBuilder/1.0"
+        }
+
+        response = requests.get(
+            "https://nominatim.openstreetmap.org/search",
+            params={
+                "q": address,
+                "format": "json",
+                "limit": 1
+            },
+            headers=headers,
+            timeout=10
+        )
+
+        response.raise_for_status()
+
+        data = response.json()
+
+        if not data:
+            messagebox.showwarning(
+                "Not found",
+                "No coordinates were found for this address."
+            )
+            return
+
+        lat = data[0]["lat"]
+        lon = data[0]["lon"]
+
+        set_entry_value(lat_entry, lat)
+        set_entry_value(lon_entry, lon)
+
+        messagebox.showinfo(
+            "Coordinates found",
+            f"Latitude: {lat}\nLongitude: {lon}"
+        )
+
+    except Exception as e:
+
+        messagebox.showerror(
+            "Coordinates error",
+            str(e)
+        )
 
 
 # =========================
@@ -560,6 +622,19 @@ ctk.CTkLabel(right2, text="Longitude").pack(anchor="w", padx=10)
 lon_entry = ctk.CTkEntry(right2)
 
 lon_entry.pack(fill="x", padx=10, pady=10)
+
+get_coordinates_button = ctk.CTkButton(
+    right2,
+    text="📍 Get Coordinates",
+    command=get_coordinates,
+    height=40
+)
+
+get_coordinates_button.pack(
+    fill="x",
+    padx=10,
+    pady=(5, 15)
+)
 
 ctk.CTkLabel(right2, text="Phone").pack(anchor="w", padx=10)
 phone_entry = ctk.CTkEntry(right2)

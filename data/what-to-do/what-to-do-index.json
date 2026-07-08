@@ -136,5 +136,21 @@
     "beaches": [
       "nea_krini_beach"
     ]
+  },
+  {
+    "id": "horse_club",
+    "type": "what_to_do",
+    "beaches": [
+      "surfer_beach_angelochori",
+      "riviera_virgin_beach",
+      "oasis_beach",
+      "sand_dunes_beach",
+      "nea_iraklia_beach",
+      "vergia_beach",
+      "sozopoli_beach",
+      "mykoniatika_secret_beach",
+      "ntouraki_beach",
+      "flogita_beach"
+    ]
   }
 ]
