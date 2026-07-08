@@ -4110,5 +4110,34 @@
     "cuisineTypes": [
       "international"
     ]
+  },
+  {
+    "id": "taverna-moshonostimies",
+    "zone": "Kassandra",
+    "beachSlug": "mola-kaliva-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "TAVERNA Mosho...nostimies",
+    "titleRo": "TAVERNA Mosho...nostimies",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies-hero.webp",
+    "lat": 39.971229755594,
+    "lon": 23.454926949054826,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Mosho...nostimies Tavern Located in the charming village of Mola Kalyva, Mosho...nostimies Tavern is a traditional Greek restaurant...",
+    "shortRo": "Mosho...nostimies Tavern Situată în pitoreasca localitate Mola Kalyva, Mosho...nostimies Tavern este o tavernă tradițională grecească...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

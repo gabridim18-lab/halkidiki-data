@@ -1,0 +1,173 @@
+{
+  "id": "taverna-moshonostimies",
+  "zone": "Kassandra",
+  "beachSlug": "mola-kaliva-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "TAVERNA Mosho...nostimies",
+  "titleRo": "TAVERNA Mosho...nostimies",
+  "displayAddress": "Epar.Od. Paliouriou-Afitou 2, Mola Kalyva 630 85, Greece",
+  "gpsCoordinates": "39.971229755594, 23.454926949054826",
+  "lat": 39.971229755594,
+  "lon": 23.454926949054826,
+  "openingHoursRaw": "Wednesday\n\t\n\n    1:30–4:30 pm\n    7–10:30 pm\n\n\t\nThursday\n\t\n\n    1:30–4:30 pm\n    7–10:30 pm\n\n\t\nFriday\n\t\n\n    1:30–4:30 pm\n    7–10:30 pm\n\n\t\nSaturday\n\t\n\n    1:30–4:30 pm\n    7–10:30 pm\n\n\t\nSunday\n\t\n\n    1:30–4:30 pm\n    7–10:30 pm\n\n\t\nMonday\n\t\n\n    1:30–4:30 pm\n    7–10:30 pm\n\n\t\nTuesday\n\t\n\n    1:30–4:30 pm\n    7–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:30",
+      "close": "16:30",
+      "labelEn": "13:30–16:30",
+      "labelRo": "13:30–16:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:30",
+      "close": "16:30",
+      "labelEn": "13:30–16:30",
+      "labelRo": "13:30–16:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:30",
+      "close": "16:30",
+      "labelEn": "13:30–16:30",
+      "labelRo": "13:30–16:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:30",
+      "close": "16:30",
+      "labelEn": "13:30–16:30",
+      "labelRo": "13:30–16:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:30",
+      "close": "16:30",
+      "labelEn": "13:30–16:30",
+      "labelRo": "13:30–16:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:30",
+      "close": "16:30",
+      "labelEn": "13:30–16:30",
+      "labelRo": "13:30–16:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:30",
+      "close": "16:30",
+      "labelEn": "13:30–16:30",
+      "labelRo": "13:30–16:30"
+    }
+  ],
+  "hoursEn": "Monday: 13:30–16:30; Tuesday: 13:30–16:30; Wednesday: 13:30–16:30; Thursday: 13:30–16:30; Friday: 13:30–16:30; Saturday: 13:30–16:30; Sunday: 13:30–16:30",
+  "hoursRo": "Luni: 13:30–16:30; Marți: 13:30–16:30; Miercuri: 13:30–16:30; Joi: 13:30–16:30; Vineri: 13:30–16:30; Sâmbătă: 13:30–16:30; Duminică: 13:30–16:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302374041488",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Mosho...nostimies Tavern\n\nLocated in the charming village of Mola Kalyva, Mosho...nostimies Tavern is a traditional Greek restaurant known for its authentic cuisine, warm hospitality, and welcoming atmosphere. Set in a relaxed Mediterranean environment, it provides the perfect place to experience the rich culinary traditions of Halkidiki.\n\nThe menu features a wide selection of local specialties prepared with fresh, carefully selected ingredients, including grilled meats, traditional Greek dishes, fresh seafood, seasonal salads, and homemade desserts. Every dish is crafted with attention to detail, highlighting the authentic flavors and recipes that make Greek cuisine so beloved.\n\nWhether you're enjoying a family lunch, a romantic dinner, or a relaxing meal with friends after a day by the sea, Mosho...nostimies Tavern offers an unforgettable dining experience, combining excellent service, genuine Greek hospitality, and the authentic taste of Halkidiki.",
+  "descriptionRo": "Mosho...nostimies Tavern\n\nSituată în pitoreasca localitate Mola Kalyva, Mosho...nostimies Tavern este o tavernă tradițională grecească apreciată pentru preparatele autentice, atmosfera primitoare și ospitalitatea specifică Halkidikiului. Într-un decor relaxant, inspirat de stilul mediteranean, restaurantul oferă cadrul ideal pentru a savura bucătăria grecească într-o ambianță caldă și prietenoasă.\n\nMeniul include o varietate de specialități locale, preparate din ingrediente proaspete și atent selecționate, de la carne fragedă la grătar și preparate tradiționale grecești, până la fructe de mare, salate proaspete și deserturi de casă. Fiecare farfurie este pregătită cu grijă, respectând rețetele tradiționale și punând în valoare aromele autentice ale regiunii.\n\nFie că alegi un prânz în familie, o cină romantică sau o masă alături de prieteni după o zi petrecută pe plajă, Mosho...nostimies Tavern oferă o experiență culinară autentică, completată de servicii excelente și atmosfera relaxată care definește ospitalitatea grecească.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/taverna-moshonostimies3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-moshonostimies/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
