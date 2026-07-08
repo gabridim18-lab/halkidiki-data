@@ -4028,5 +4028,32 @@
     "cuisineTypes": [
       "mediterranean"
     ]
+  },
+  {
+    "id": "avli",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-posidi",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Avli",
+    "titleRo": "Avli",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli-hero.webp",
+    "lat": 39.96336187150076,
+    "lon": 23.382016358893473,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Avli Restaurant Located in the heart of Possidi, Avli Restaurant is a place where authentic Greek cuisine meets elegant Mediterranean...",
+    "shortRo": "Avli Restaurant Situat în inima stațiunii Possidi, Avli Restaurant este un loc unde gastronomia grecească autentică întâlnește...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

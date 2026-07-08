@@ -1,0 +1,174 @@
+{
+  "id": "avli",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-posidi",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Avli",
+  "titleRo": "Avli",
+  "displayAddress": "Possidi 630 77, Greece",
+  "gpsCoordinates": "39.96336187150076, 23.382016358893473",
+  "lat": 39.96336187150076,
+  "lon": 23.382016358893473,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9 am–11 pm\n\n\t\nThursday\n\t\n\n    9 am–11 pm\n\n\t\nFriday\n\t\n\n    9 am–11 pm\n\n\t\nSaturday\n\t\n\n    9 am–11 pm\n\n\t\nSunday\n\t\n\n    9 am–11 pm\n\n\t\nMonday\n\t\n\n    9 am–11 pm\n\n\t\nTuesday\n\t\n\n    9 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:00; Tuesday: 09:00–23:00; Wednesday: 09:00–23:00; Thursday: 09:00–23:00; Friday: 09:00–23:00; Saturday: 09:00–23:00; Sunday: 09:00–23:00",
+  "hoursRo": "Luni: 09:00–23:00; Marți: 09:00–23:00; Miercuri: 09:00–23:00; Joi: 09:00–23:00; Vineri: 09:00–23:00; Sâmbătă: 09:00–23:00; Duminică: 09:00–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/avli_.restaurant?igsh=MTJ2a2YzYzRndnU5eg==",
+  "phone": "+306946052662",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Avli Restaurant\n\nLocated in the heart of Possidi, Avli Restaurant is a place where authentic Greek cuisine meets elegant Mediterranean hospitality. Featuring a warm and welcoming atmosphere inspired by traditional Greek courtyards, it provides the perfect setting for a relaxing lunch or an unforgettable dinner with family and friends.\n\nThe menu combines classic Greek flavors with modern Mediterranean influences, prepared using fresh, high-quality ingredients. Guests can enjoy authentic appetizers such as baked feta and tzatziki, fresh seasonal salads, premium meat and seafood dishes, delicious pasta, homemade desserts, and a carefully selected collection of wines and beverages.\n\nWhether you're planning a romantic evening, a family gathering, or simply looking for an authentic dining experience after a day at the beach, Avli Restaurant offers exceptional service, outstanding flavors, and the genuine charm of Greek hospitality in Halkidiki.",
+  "descriptionRo": "Avli Restaurant\n\nSituat în inima stațiunii Possidi, Avli Restaurant este un loc unde gastronomia grecească autentică întâlnește eleganța și ospitalitatea tradițională. Cu o atmosferă caldă și relaxantă, inspirată de curțile mediteraneene, restaurantul oferă cadrul perfect pentru un prânz liniștit sau o cină memorabilă alături de familie și prieteni.\n\nMeniul îmbină preparatele tradiționale grecești cu influențe mediteraneene moderne, folosind ingrediente proaspete și de calitate. Printre specialități se regăsesc aperitive autentice precum feta la cuptor și tzatziki, salate proaspete, preparate din carne și pește, paste savuroase și deserturi de casă, toate completate de o selecție atent aleasă de vinuri și băuturi.\n\nFie că îți dorești o cină romantică, o masă în familie sau o experiență culinară autentică după o zi petrecută pe plajă, Avli Restaurant te întâmpină cu servicii excelente, preparate rafinate și atmosfera autentică a verii din Halkidiki.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/avli5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avli/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "High chairs"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
