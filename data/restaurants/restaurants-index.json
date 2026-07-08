@@ -4224,5 +4224,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "la-veranda",
+    "zone": "Kassandra",
+    "beachSlug": "nea-skioni-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "La Veranda",
+    "titleRo": "La Veranda",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda-hero.webp",
+    "lat": 39.944903905142674,
+    "lon": 23.532796848648378,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "La Veranda Beach Bar Located directly on the beach in Nea Skioni, La Veranda Beach Bar is the perfect destination for visitors looking...",
+    "shortRo": "La Veranda Beach Bar Situat chiar pe plaja din Nea Skioni, La Veranda Beach Bar este locul perfect pentru cei care doresc să combine...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "mediterranean",
+      "international"
+    ]
   }
 ]

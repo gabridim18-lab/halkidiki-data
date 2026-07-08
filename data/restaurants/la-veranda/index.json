@@ -1,0 +1,153 @@
+{
+  "id": "la-veranda",
+  "zone": "Kassandra",
+  "beachSlug": "nea-skioni-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "La Veranda",
+  "titleRo": "La Veranda",
+  "displayAddress": "Nea Skioni 630 85, Greece",
+  "gpsCoordinates": "39.944903905142674, 23.532796848648378",
+  "lat": 39.944903905142674,
+  "lon": 23.532796848648378,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–8 pm\n\n\t\nFriday\n\t\n\n    9 am–8 pm\n\n\t\nSaturday\n\t\n\n    9 am–8 pm\n\n\t\nSunday\n\t\n\n    9 am–8 pm\n\n\t\nMonday\n\t\n\n    9 am–8 pm\n\n\t\nTuesday\n\t\n\n    9 am–8 pm\n\n\t\nWednesday\n\t\n\n    9 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–20:00; Tuesday: 09:00–20:00; Wednesday: 09:00–20:00; Thursday: 09:00–20:00; Friday: 09:00–20:00; Saturday: 09:00–20:00; Sunday: 09:00–20:00",
+  "hoursRo": "Luni: 09:00–20:00; Marți: 09:00–20:00; Miercuri: 09:00–20:00; Joi: 09:00–20:00; Vineri: 09:00–20:00; Sâmbătă: 09:00–20:00; Duminică: 09:00–20:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306983143902",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "La Veranda Beach Bar\n\nLocated directly on the beach in Nea Skioni, La Veranda Beach Bar is the perfect destination for visitors looking to combine seaside relaxation with delicious food and refreshing drinks. With its modern atmosphere, beautiful views of the Aegean Sea, and friendly service, it offers the ideal setting to enjoy every moment of your summer holiday.\n\nThe menu features a wide selection of freshly brewed coffee, classic cocktails, soft drinks, cold beers, and tasty snacks, including club sandwiches, burgers, hot dogs, fresh salads, and desserts. Whether you're starting your day with a coffee by the sea, enjoying a light lunch between swims, or ending the evening with a refreshing cocktail at sunset, every visit is enhanced by the relaxed atmosphere and the beauty of the Halkidiki coastline.\n\nLa Veranda Beach Bar is an excellent choice for families, couples, and groups of friends looking for quality service, great food, refreshing drinks, and the authentic feeling of a Greek beach holiday.",
+  "descriptionRo": "La Veranda Beach Bar\n\nSituat chiar pe plaja din Nea Skioni, La Veranda Beach Bar este locul perfect pentru cei care doresc să combine relaxarea la malul mării cu preparate gustoase și băuturi răcoritoare. Atmosfera modernă, priveliștea spectaculoasă asupra Mării Egee și serviciile prietenoase îl transformă într-o destinație ideală pentru orice moment al zilei.\n\nMeniul oferă o selecție variată de cafea, cocktailuri clasice, băuturi răcoritoare și bere rece, alături de gustări pregătite pe loc, precum club sandwich-uri, burgeri, hot dog, salate proaspete și deserturi. Fie că îți începi dimineața cu o cafea privind marea, iei un prânz ușor între sesiunile de plajă sau închei ziua cu un cocktail la apus, fiecare vizită este completată de atmosfera relaxată și farmecul litoralului din Halkidiki.\n\nLa Veranda Beach Bar este alegerea ideală pentru familii, cupluri și grupuri de prieteni care caută confort, servicii de calitate și o experiență autentică de vacanță pe una dintre cele mai frumoase plaje din Kassandra.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/la-veranda3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-veranda/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Dine-in\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n\n \n \nAmenities\n\n    Toilet\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food"
+  ],
+  "diningOptions": [],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "Sunbeds are complimentary for guests who purchase drinks from the bar.",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "mediterranean",
+    "international"
+  ]
+}
