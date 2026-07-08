@@ -1,0 +1,29 @@
+{
+  "id": "gerovassiliou_winery_agia_triada",
+  "type": "what_to_do",
+  "beaches": [
+    "perea-beach",
+    "neoi-epivates-beach"
+  ],
+  "titleEn": "Ktima Gerovassiliou Winery",
+  "titleRo": "Crama Ktima Gerovassiliou",
+  "categoryEn": "Local Products & Tastings",
+  "categoryRo": "Produse locale și degustări",
+  "address": "Epanomi (slopes near Agia Triada), 57500 Thessaloniki, Greece",
+  "hoursEn": "Mon, Thu, Fri 10:00–16:00; Wed 13:00–19:00; Sat–Sun 11:00–17:00; Tue Closed",
+  "hoursRo": "Lun, Joi, Vin 10:00–16:00; Mie 13:00–19:00; Sâm–Dum 11:00–17:00; Mar Închis",
+  "website": "https://www.gerovassiliou.gr/en/visits",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.449716958310155,
+    "lon": 22.925247076715475
+  },
+  "phone": "+30 23920 44567",
+  "price": "",
+  "descriptionEn": "🍷 Ktima Gerovassiliou is a renowned family-run winery located on the slopes of Epanomi, near Agia Triada, offering an authentic wine and cultural experience close to Thessaloniki.\n\n• 🌿 Founded in 1981, with vineyards set in a scenic coastal landscape\n• 🏭 Guided tours through the vineyards, modern winery, and aging cellars\n• 🍾 Insight into bottling, maturation processes, and wine production\n• 🏛️ Home to the famous Wine Museum showcasing rare exhibits and tools\n• 🍷 Wine tastings featuring Greek and international varieties, including rare vintages\n• 🧀 Tastings often paired with local products and delicacies\n\n⭐ A must-visit destination for wine lovers, culture enthusiasts, and anyone seeking a refined experience near Thessaloniki.",
+  "descriptionRo": "🍷 Ktima Gerovassiliou este o cramă de familie renumită, situată pe versanții din Epanomi, aproape de Agia Triada, oferind o experiență autentică de vin și cultură în apropiere de Salonic.\n\n• 🌿 Înființată în 1981, cu podgorii amplasate într-un peisaj natural deosebit\n• 🏭 Tururi ghidate prin vii, crama modernă și spațiile de învechire\n• 🍾 Prezentarea proceselor de îmbuteliere, maturare și producție a vinului\n• 🏛️ Găzduiește celebrul Muzeu al Vinului, cu exponate rare\n• 🍷 Degustări de vinuri grecești și internaționale, inclusiv ediții speciale\n• 🧀 Degustările sunt adesea însoțite de produse și delicatese locale\n\n⭐ O destinație de neratat pentru pasionații de vin, iubitorii de cultură și cei care caută o experiență rafinată lângă Salonic.",
+  "images": [
+    "gerovassiliou_winery_agia_triada1.webp",
+    "gerovassiliou_winery_agia_triada2.webp"
+  ]
+}

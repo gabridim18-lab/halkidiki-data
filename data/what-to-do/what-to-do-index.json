@@ -160,5 +160,13 @@
       "perea-beach",
       "neoi-epivates-beach"
     ]
+  },
+  {
+    "id": "gerovassiliou_winery_agia_triada",
+    "type": "what_to_do",
+    "beaches": [
+      "perea-beach",
+      "neoi-epivates-beach"
+    ]
   }
 ]
