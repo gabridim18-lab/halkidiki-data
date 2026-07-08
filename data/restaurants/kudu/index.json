@@ -1,0 +1,172 @@
+{
+  "id": "kudu",
+  "zone": "Kassandra",
+  "beachSlug": "mola-kaliva-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Kudu",
+  "titleRo": "Kudu",
+  "displayAddress": "Μολα Καλύβα, Mola Kalyva 630 77, Greece",
+  "gpsCoordinates": "39.97125507939506, 23.45178409331631",
+  "lat": 39.97125507939506,
+  "lon": 23.45178409331631,
+  "openingHoursRaw": "Wednesday\n\t\n\n    10 am–2 am\n\n\t\nThursday\n\t\n\n    10 am–2 am\n\n\t\nFriday\n\t\n\n    10 am–2 am\n\n\t\nSaturday\n\t\n\n    10 am–2 am\n\n\t\nSunday\n\t\n\n    10 am–2 am\n\n\t\nMonday\n\t\n\n    10 am–2 am\n\n\t\nTuesday\n\t\n\n    10 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–02:00; Tuesday: 10:00–02:00; Wednesday: 10:00–02:00; Thursday: 10:00–02:00; Friday: 10:00–02:00; Saturday: 10:00–02:00; Sunday: 10:00–02:00",
+  "hoursRo": "Luni: 10:00–02:00; Marți: 10:00–02:00; Miercuri: 10:00–02:00; Joi: 10:00–02:00; Vineri: 10:00–02:00; Sâmbătă: 10:00–02:00; Duminică: 10:00–02:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306944204876",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Kudu Beach Bar\n\nLocated on the beautiful beach of Mola Kalyva, Kudu Beach Bar is the perfect destination for visitors looking to combine seaside relaxation with delicious food and refreshing drinks. Surrounded by the crystal-clear waters of the Aegean Sea, the beach bar offers a peaceful and welcoming atmosphere, making it an ideal place to unwind during your Halkidiki holiday.\n\nThe menu features freshly brewed coffee, refreshing cocktails, natural juices, cold beers, and a selection of tasty snacks including club sandwiches, fresh salads, pinsa, pancakes, and light desserts, all prepared with carefully selected ingredients. Whether you're enjoying breakfast by the sea, a light lunch after a swim, or a refreshing drink while watching the sunset, every visit is enhanced by stunning coastal views and friendly service.\n\nKudu Beach Bar is an excellent choice for families, couples, and groups of friends looking for a relaxed atmosphere, quality food, refreshing drinks, and the authentic charm of a Greek summer on the Kassandra peninsula.",
+  "descriptionRo": "Kudu Beach Bar\n\nSituat pe frumoasa plajă din Mola Kalyva, Kudu Beach Bar este locul ideal pentru cei care doresc să combine relaxarea de la malul mării cu preparate gustoase și băuturi răcoritoare. Înconjurat de peisajul spectaculos al Mării Egee, beach barul oferă o atmosferă liniștită și primitoare, perfectă pentru o zi de vacanță în Halkidiki.\n\nMeniul include cafea proaspăt preparată, cocktailuri, sucuri naturale, bere rece și o selecție de gustări precum club sandwich, salate, pinsa, clătite și deserturi ușoare, pregătite din ingrediente proaspete și de calitate. Fie că alegi un mic dejun pe plajă, un prânz ușor sau un cocktail răcoritor în timpul apusului, fiecare moment este completat de priveliștea superbă și de serviciile prietenoase.\n\nKudu Beach Bar este alegerea perfectă pentru familii, cupluri și grupuri de prieteni care caută o atmosferă relaxată, muzică plăcută și experiența autentică a verii grecești, într-unul dintre cele mai pitorești colțuri ale peninsulei Kassandra.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "international"
+  ]
+}

@@ -4082,5 +4082,33 @@
     "cuisineTypes": [
       "international"
     ]
+  },
+  {
+    "id": "kudu",
+    "zone": "Kassandra",
+    "beachSlug": "mola-kaliva-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Kudu",
+    "titleRo": "Kudu",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudu/images/kudu-hero.webp",
+    "lat": 39.97125507939506,
+    "lon": 23.45178409331631,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Kudu Beach Bar Located on the beautiful beach of Mola Kalyva, Kudu Beach Bar is the perfect destination for visitors looking to...",
+    "shortRo": "Kudu Beach Bar Situat pe frumoasa plajă din Mola Kalyva, Kudu Beach Bar este locul ideal pentru cei care doresc să combine relaxarea...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "international"
+    ]
   }
 ]
