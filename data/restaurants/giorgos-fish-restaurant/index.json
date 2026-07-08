@@ -1,0 +1,196 @@
+{
+  "id": "giorgos-fish-restaurant",
+  "zone": "Kassandra",
+  "beachSlug": "nea-skioni-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Giorgos Fish Restaurant",
+  "titleRo": "Giorgos Fish Restaurant",
+  "displayAddress": "Παραλία, Nea Skioni 630 85, Greece",
+  "gpsCoordinates": "39.946243845603355, 23.530400786541215",
+  "lat": 39.946243845603355,
+  "lon": 23.530400786541215,
+  "openingHoursRaw": "Thursday\n\t\n\n    1:30–10:30 pm\n\n\t\nFriday\n\t\n\n    1:30–10:30 pm\n\n\t\nSaturday\n\t\n\n    1:30–10:30 pm\n\n\t\nSunday\n\t\n\n    1:30–10:30 pm\n\n\t\nMonday\n\t\n\n    1:30–10:30 pm\n\n\t\nTuesday\n\t\n\n    1:30–10:30 pm\n\n\t\nWednesday\n\t\n\n    1:30–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:30",
+      "close": "22:30",
+      "labelEn": "13:30–22:30",
+      "labelRo": "13:30–22:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:30",
+      "close": "22:30",
+      "labelEn": "13:30–22:30",
+      "labelRo": "13:30–22:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:30",
+      "close": "22:30",
+      "labelEn": "13:30–22:30",
+      "labelRo": "13:30–22:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:30",
+      "close": "22:30",
+      "labelEn": "13:30–22:30",
+      "labelRo": "13:30–22:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:30",
+      "close": "22:30",
+      "labelEn": "13:30–22:30",
+      "labelRo": "13:30–22:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:30",
+      "close": "22:30",
+      "labelEn": "13:30–22:30",
+      "labelRo": "13:30–22:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:30",
+      "close": "22:30",
+      "labelEn": "13:30–22:30",
+      "labelRo": "13:30–22:30"
+    }
+  ],
+  "hoursEn": "Monday: 13:30–22:30; Tuesday: 13:30–22:30; Wednesday: 13:30–22:30; Thursday: 13:30–22:30; Friday: 13:30–22:30; Saturday: 13:30–22:30; Sunday: 13:30–22:30",
+  "hoursRo": "Luni: 13:30–22:30; Marți: 13:30–22:30; Miercuri: 13:30–22:30; Joi: 13:30–22:30; Vineri: 13:30–22:30; Sâmbătă: 13:30–22:30; Duminică: 13:30–22:30",
+  "website": "",
+  "facebook": "https://www.facebook.com/p/%CE%A8%CE%B1%CF%81%CE%BF%CF%84%CE%B1%CE%B2%CE%AD%CF%81%CE%BD%CE%B1-%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF-1917-100042217732180/?locale=el_GR",
+  "instagram": "",
+  "phone": "+306975725713",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Giorgos Fish Restaurant\n\nLocated on the beautiful waterfront promenade of Nea Skioni, overlooking the harbor and the crystal-clear waters of the Aegean Sea, Giorgos Fish Restaurant is a traditional Greek taverna renowned for its fresh seafood and authentic Mediterranean cuisine. Warm hospitality, a relaxed seaside atmosphere, and carefully selected ingredients make every meal a memorable experience.\n\nThe menu showcases the daily catch from local fishermen, featuring a wide variety of fresh fish, grilled octopus, calamari, shrimp, mussels, and other seafood specialties prepared using traditional Greek recipes. Fresh salads, delicious side dishes, and a carefully selected range of Greek wines perfectly complement the rich flavors of the sea.\n\nWhether you're enjoying a leisurely lunch after a day at the beach or a romantic dinner while watching the sunset over Nea Skioni's picturesque harbor, Giorgos Fish Restaurant offers the perfect combination of fresh seafood, exceptional service, and the timeless charm of Greek coastal dining.",
+  "descriptionRo": "Giorgos Fish Restaurant\n\nSituat chiar pe promenada din Nea Skioni, cu vedere directă spre port și Marea Egee, Giorgos Fish Restaurant este o tavernă tradițională renumită pentru preparatele sale din pește proaspăt și fructe de mare. Atmosfera relaxată, ospitalitatea autentică și ingredientele de cea mai bună calitate transformă fiecare vizită într-o adevărată experiență culinară grecească.\n\nMeniul pune în valoare captura zilnică a pescarilor locali și include o varietate de pești proaspeți, calamari, caracatiță, creveți, midii și alte specialități mediteraneene, pregătite după rețete tradiționale. Preparatele sunt completate de salate proaspete, garnituri delicioase și o selecție de vinuri grecești, perfecte pentru a însoți aromele autentice ale mării.\n\nFie că alegi un prânz în timpul unei zile petrecute pe plajă sau o cină romantică admirând apusul peste portul din Nea Skioni, Giorgos Fish Restaurant oferă combinația ideală dintre preparate proaspete, servicii excelente și farmecul autentic al litoralului din Halkidiki.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Organic dishes\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Brunch\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Organic dishes",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

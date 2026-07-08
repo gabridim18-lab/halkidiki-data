@@ -4168,5 +4168,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "giorgos-fish-restaurant",
+    "zone": "Kassandra",
+    "beachSlug": "nea-skioni-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Giorgos Fish Restaurant",
+    "titleRo": "Giorgos Fish Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giorgos-fish-restaurant/images/giorgos-fish-restaurant-hero.webp",
+    "lat": 39.946243845603355,
+    "lon": 23.530400786541215,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Giorgos Fish Restaurant Located on the beautiful waterfront promenade of Nea Skioni, overlooking the harbor and the crystal-clear...",
+    "shortRo": "Giorgos Fish Restaurant Situat chiar pe promenada din Nea Skioni, cu vedere directă spre port și Marea Egee, Giorgos Fish Restaurant...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
