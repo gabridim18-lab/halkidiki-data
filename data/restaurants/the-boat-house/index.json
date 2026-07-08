@@ -1,0 +1,183 @@
+{
+  "id": "the-boat-house",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-posidi",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "The Boat House",
+  "titleRo": "The Boat House",
+  "displayAddress": "Possidi 630 77, Greece",
+  "gpsCoordinates": "39.96305994818759, 23.377312938084458",
+  "lat": 39.96305994818759,
+  "lon": 23.377312938084458,
+  "openingHoursRaw": "Wednesday\n\t\n\n    10 am–8 pm\n\n\t\nThursday\n\t\n\n    10 am–8 pm\n\n\t\nFriday\n\t\n\n    10 am–2 am\n\n\t\nSaturday\n\t\n\n    10 am–2 am\n\n\t\nSunday\n\t\n\n    10 am–2 am\n\n\t\nMonday\n\t\n\n    10 am–8 pm\n\n\t\nTuesday\n\t\n\n    10 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–20:00; Tuesday: 10:00–20:00; Wednesday: 10:00–20:00; Thursday: 10:00–20:00; Friday: 10:00–02:00; Saturday: 10:00–02:00; Sunday: 10:00–02:00",
+  "hoursRo": "Luni: 10:00–20:00; Marți: 10:00–20:00; Miercuri: 10:00–20:00; Joi: 10:00–20:00; Vineri: 10:00–02:00; Sâmbătă: 10:00–02:00; Duminică: 10:00–02:00",
+  "website": "http://www.theboathouse.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306981096399",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "The Boat House\n\nLocated directly on the beautiful beachfront of Possidi, The Boat House offers a unique blend of Mediterranean flavors, relaxed seaside atmosphere, and authentic Greek hospitality. With its stylish setting and panoramic views of the Aegean Sea, it is the perfect place to enjoy breakfast, lunch, dinner, or a refreshing drink by the water.\n\nThe menu features freshly prepared pizzas, crisp salads, sharing platters, delicious snacks, and homemade desserts, complemented by a wide selection of coffee, cocktails, wines, and refreshing beverages. Every dish is prepared using carefully selected ingredients, highlighting the rich flavors of Mediterranean cuisine.\n\nWhether you're enjoying a leisurely breakfast by the sea, a light lunch after a swim, or a romantic dinner while watching the sunset, The Boat House provides the perfect combination of exceptional food, friendly service, and unforgettable coastal scenery, making it one of Possidi's most inviting seaside dining destinations.",
+  "descriptionRo": "The Boat House\n\nSituat chiar pe malul mării, în frumoasa stațiune Possidi, The Boat House oferă o experiență autentică de relaxare și gastronomie mediteraneană într-un decor elegant, inspirat de farmecul litoralului grecesc. Cu o terasă primitoare și o priveliște spectaculoasă asupra Mării Egee, restaurantul este locul ideal pentru orice moment al zilei.\n\nMeniul include pizza preparată pe loc, salate proaspete, platouri pentru împărțit, gustări savuroase și deserturi delicioase, alături de o selecție variată de cafea, cocktailuri, vinuri și băuturi răcoritoare. Preparatele sunt realizate din ingrediente atent alese, punând în valoare aromele autentice ale bucătăriei mediteraneene și grecești.\n\nFie că alegi un mic dejun liniștit cu vedere la mare, un prânz după o zi petrecută pe plajă sau o cină romantică la apus, The Boat House îmbină serviciile excelente, atmosfera relaxată și peisajul spectaculos pentru a crea o experiență memorabilă în Halkidiki.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection",
+    "Live music"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Cocktails",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge",
+    "live_music"
+  ],
+  "features": [
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "international"
+  ]
+}

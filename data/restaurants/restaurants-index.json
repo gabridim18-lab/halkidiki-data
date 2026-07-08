@@ -4055,5 +4055,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "the-boat-house",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-posidi",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "The Boat House",
+    "titleRo": "The Boat House",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-boat-house/images/the-boat-house-hero.webp",
+    "lat": 39.96305994818759,
+    "lon": 23.377312938084458,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "The Boat House Located directly on the beautiful beachfront of Possidi, The Boat House offers a unique blend of Mediterranean flavors,...",
+    "shortRo": "The Boat House Situat chiar pe malul mării, în frumoasa stațiune Possidi, The Boat House oferă o experiență autentică de relaxare și...",
+    "features": [
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "international"
+    ]
   }
 ]
