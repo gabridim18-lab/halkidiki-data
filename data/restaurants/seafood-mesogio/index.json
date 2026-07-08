@@ -1,0 +1,183 @@
+{
+  "id": "seafood-mesogio",
+  "zone": "Kassandra",
+  "beachSlug": "nea-skioni-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Seafood Mesogio ",
+  "titleRo": "Seafood Mesogio ",
+  "displayAddress": "Κεντρικο Δρομο, Nea Skioni 630 85, Greece",
+  "gpsCoordinates": "39.94642671910434, 23.531238976124722",
+  "lat": 39.94642671910434,
+  "lon": 23.531238976124722,
+  "openingHoursRaw": "Thursday\n\t\n\n    12 am–3 pm\n    6 pm–12 am\n\n\t\nFriday\n\t\n\n    12 am–3 pm\n    6 pm–12 am\n\n\t\nSaturday\n\t\n\n    12 am–3 pm\n    6 pm–12 am\n\n\t\nSunday\n\t\n\n    12 am–3 pm\n    6 pm–12 am\n\n\t\nMonday\n\t\n\n    12 am–3 pm\n\n\t\nTuesday\n\t\n\n    8 am–3 pm\n    6 pm–12 am\n\n\t\nWednesday\n\t\n\n    12 am–3 pm\n    6 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "00:00",
+      "close": "15:00",
+      "labelEn": "00:00–15:00",
+      "labelRo": "00:00–15:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "15:00",
+      "labelEn": "08:00–15:00",
+      "labelRo": "08:00–15:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "00:00",
+      "close": "15:00",
+      "labelEn": "00:00–15:00",
+      "labelRo": "00:00–15:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "00:00",
+      "close": "15:00",
+      "labelEn": "00:00–15:00",
+      "labelRo": "00:00–15:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "00:00",
+      "close": "15:00",
+      "labelEn": "00:00–15:00",
+      "labelRo": "00:00–15:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "00:00",
+      "close": "15:00",
+      "labelEn": "00:00–15:00",
+      "labelRo": "00:00–15:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "00:00",
+      "close": "15:00",
+      "labelEn": "00:00–15:00",
+      "labelRo": "00:00–15:00"
+    }
+  ],
+  "hoursEn": "Monday: 00:00–15:00; Tuesday: 08:00–15:00; Wednesday: 00:00–15:00; Thursday: 00:00–15:00; Friday: 00:00–15:00; Saturday: 00:00–15:00; Sunday: 00:00–15:00",
+  "hoursRo": "Luni: 00:00–15:00; Marți: 08:00–15:00; Miercuri: 00:00–15:00; Joi: 00:00–15:00; Vineri: 00:00–15:00; Sâmbătă: 00:00–15:00; Duminică: 00:00–15:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306972157774",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Seafood Mesogio\n\nLocated on the main street of Nea Skioni, Seafood Mesogio is the perfect destination for seafood lovers looking to enjoy the authentic flavors of the Mediterranean. Renowned for its daily selection of fresh fish and high-quality seafood, the restaurant focuses on freshness, simplicity, and traditional Greek recipes.\n\nGuests can personally choose their preferred fish from the fresh display, which is then cooked to order, either grilled or fried. A preparation service is available for an additional €6 per kilogram, allowing visitors to enjoy their seafood exactly the way they like it. The menu also features grilled octopus, calamari, shrimp, mussels, fish soup, and many other Mediterranean specialties prepared with carefully selected ingredients.\n\nWith its welcoming atmosphere, fresh daily catch, and genuine Greek hospitality, Seafood Mesogio offers an authentic seafood experience that perfectly reflects the culinary traditions of Nea Skioni and Halkidiki.",
+  "descriptionRo": "Seafood Mesogio\n\nSituat pe strada principală din Nea Skioni, Seafood Mesogio este locul ideal pentru iubitorii de pește proaspăt și fructe de mare autentice. Restaurantul este cunoscut pentru selecția zilnică de pește mediteranean, oferind o experiență culinară bazată pe prospețime, simplitate și aromele tradiționale ale bucătăriei grecești.\n\nOaspeții își pot alege peștele preferat din vitrina cu produse proaspete, iar acesta este pregătit la comandă, fie la grătar, fie prăjit. Serviciul de preparare este disponibil pentru un cost suplimentar de 6 € pe kilogram, oferind posibilitatea de a savura peștele exact așa cum îți dorești. Meniul este completat de calamari, caracatiță, creveți, midii, supe de pește și alte specialități mediteraneene, toate pregătite din ingrediente atent selecționate.\n\nCu o atmosferă prietenoasă și autentică, Seafood Mesogio este alegerea perfectă pentru cei care doresc să descopere gustul adevărat al mării și ospitalitatea tradițională grecească în inima localității Nea Skioni.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nFrom the business\n\n    Identifies as women-owned\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Late-night food\n    Quick bite\n    Small plates\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "From the business",
+    "Identifies as women-owned"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

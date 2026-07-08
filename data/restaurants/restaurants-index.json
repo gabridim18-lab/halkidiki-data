@@ -4197,5 +4197,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "seafood-mesogio",
+    "zone": "Kassandra",
+    "beachSlug": "nea-skioni-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Seafood Mesogio ",
+    "titleRo": "Seafood Mesogio ",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seafood-mesogio/images/seafood-mesogio-hero.webp",
+    "lat": 39.94642671910434,
+    "lon": 23.531238976124722,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Seafood Mesogio Located on the main street of Nea Skioni, Seafood Mesogio is the perfect destination for seafood lovers looking to...",
+    "shortRo": "Seafood Mesogio Situat pe strada principală din Nea Skioni, Seafood Mesogio este locul ideal pentru iubitorii de pește proaspăt și...",
+    "features": [
+      "restaurant",
+      "parking",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
