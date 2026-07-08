@@ -1,0 +1,29 @@
+{
+  "id": "tenpin_bowling",
+  "type": "what_to_do",
+  "beaches": [
+    "nea_krini_beach"
+  ],
+  "titleEn": "TenPin Bowling",
+  "titleRo": "TenPin Bowling",
+  "categoryEn": "Entertainment",
+  "categoryRo": "Divertisment",
+  "address": "Mitropolitou Kallidou 112, Kalamaria 551 31, Greece",
+  "hoursEn": "Mon–Thu 17:00–01:00, Fri–Sat 17:00–02:00, Sun 17:00–01:00",
+  "hoursRo": "Lun–Joi 17:00–01:00, Vin–Sâm 17:00–02:00, Dum 17:00–01:00",
+  "website": "http://www.tenpin.gr/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 0,
+    "lon": 0
+  },
+  "phone": "+30 2310 421 412",
+  "price": "",
+  "descriptionEn": "🎳 Modern bowling alley in Halkidiki, perfect for families, friends, and groups.\n\n• 🎳 Multiple bowling lanes for casual games or competitive matches\n• 🍹 Full-service bar & snack area with drinks and light bites\n• 🎉 Party & event packages (birthdays, group celebrations)\n• 🌙 Late-night hours (check the current schedule)\n• 🚗 Easy access from Thessaloniki with parking available\n\n⭐ A great choice for a fun evening after the beach or as a rainy-day activity.",
+  "descriptionRo": "🎳 Sală de bowling modernă din Halkidiki, ideală pentru familii, prieteni și grupuri.\n\n• 🎳 Mai multe piste de bowling pentru jocuri relaxate sau competiții\n• 🍹 Bar complet & zonă de gustări, cu băuturi și snack-uri\n• 🎉 Pachete pentru petreceri și evenimente (zile de naștere, grupuri)\n• 🌙 Program prelungit seara (verifică programul actual)\n• 🚗 Acces facil din Salonic, cu parcare disponibilă\n\n⭐ O alegere excelentă pentru o seară distractivă după plajă sau în zilele mai răcoroase.",
+  "images": [
+    "tenpin_bowling1.webp",
+    "tenpin_bowling2.webp",
+    "tenpin_bowling3.webp"
+  ]
+}

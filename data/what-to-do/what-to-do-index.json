@@ -129,5 +129,12 @@
       "simantro-beach",
       "paralia-kipsa"
     ]
+  },
+  {
+    "id": "tenpin_bowling",
+    "type": "what_to_do",
+    "beaches": [
+      "nea_krini_beach"
+    ]
   }
 ]
