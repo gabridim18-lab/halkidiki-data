@@ -144,6 +144,7 @@
       "surfer-beach-angelochori",
       "riviera-virgin-beach",
       "oasis-beach",
+      "hidden-beach",
       "sand-dunes-beach",
       "nea-iraklia-beach",
       "vergia-beach",
@@ -166,6 +167,7 @@
     "type": "what_to_do",
     "beaches": [
       "perea-beach",
+      "hidden-beach",
       "neoi-epivates-beach"
     ]
   }
