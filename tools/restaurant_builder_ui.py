@@ -1362,6 +1362,18 @@ class App(tk.Tk):
             expand=True
         )
 
+        ttk.Button(
+
+            google_frame,
+
+            text="📋 Auto Select Options",
+
+            command=self.auto_select_google_options
+
+        ).pack(
+            pady=(8,0)
+        )
+
         ttk.Label(
             google_frame,
             text="Optional: paste full Google sections here only when needed. Main common options are now checkboxes on the right."
@@ -1796,6 +1808,51 @@ class App(tk.Tk):
             slugify(title)
         )
 
+    def auto_select_google_options(self):
+
+            raw = self.txt_google_details.get(
+                "1.0",
+                tk.END
+            ).strip()
+
+            if not raw:
+
+                messagebox.showwarning(
+                    "Google Text",
+                    "Paste Google Business text first."
+                )
+
+                return
+
+            parsed = parse_google_business_details(raw)
+
+            for group in self.google_check_vars.values():
+
+                for var in group.values():
+
+                    var.set(False)
+
+            found = 0
+
+            for group_key, values in parsed.items():
+
+                if group_key not in self.google_check_vars:
+
+                    continue
+
+                for item in values:
+
+                    if item in self.google_check_vars[group_key]:
+
+                        self.google_check_vars[group_key][item].set(True)
+
+                        found += 1
+
+            messagebox.showinfo(
+                "Done",
+                f"✓ {found} Google options detected."
+            )
+
     # =========================================
     # PICK HERO IMAGE
     # =========================================
@@ -1822,6 +1879,8 @@ class App(tk.Tk):
         )
 
         self.load_preview(file)
+
+
 
     # =========================================
     # PICK BUSINESS IMAGES
@@ -2089,6 +2148,8 @@ class App(tk.Tk):
         # =========================================
         # GOOGLE BUSINESS PROFILE DETAILS
         # =========================================
+
+        self.auto_select_google_options()
 
         google_raw = self.txt_google_details.get(
             "1.0",
