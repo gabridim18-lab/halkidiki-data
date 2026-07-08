@@ -195,6 +195,9 @@ def get_coordinates():
 
         data = response.json()
 
+        print(response.url)
+        print(data)
+
         if not data:
             messagebox.showwarning(
                 "Not found",
@@ -334,12 +337,12 @@ def generate_item():
     item_id = id_entry.get().strip()
 
     beaches = [
-        x.strip()
-        for x in beaches_text.get("1.0", "end")
-        .strip()
-        .splitlines()
-        if x.strip()
-    ]
+    x.strip().replace("_", "-")
+    for x in beaches_text.get("1.0", "end")
+    .strip()
+    .splitlines()
+    if x.strip()
+]
 
     title_en = title_en_entry.get().strip()
     title_ro = title_ro_entry.get().strip()
@@ -451,7 +454,7 @@ def validate_required_fields(show_success=True):
     item_id = id_entry.get().strip()
 
     beaches = [
-        x.strip()
+        x.strip().replace("_", "-")
         for x in beaches_text.get("1.0", "end")
         .strip()
         .splitlines()

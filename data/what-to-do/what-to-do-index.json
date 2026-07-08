@@ -152,5 +152,13 @@
       "ntouraki-beach",
       "flogita-beach"
     ]
+  },
+  {
+    "id": "waterbus_karavakia",
+    "type": "what_to_do",
+    "beaches": [
+      "perea-beach",
+      "neoi-epivates-beach"
+    ]
   }
 ]

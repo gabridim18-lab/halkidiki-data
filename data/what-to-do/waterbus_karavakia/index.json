@@ -1,0 +1,31 @@
+{
+  "id": "waterbus_karavakia",
+  "type": "what_to_do",
+  "beaches": [
+    "perea-beach",
+    "neoi-epivates-beach"
+  ],
+  "titleEn": "Thessaloniki Waterbus (Karavakia)",
+  "titleRo": "Thessaloniki Waterbus (Karavakia)",
+  "categoryEn": "Boat Trips & Sea Transport",
+  "categoryRo": "Excursii cu barca și transport pe mare",
+  "address": "Neoi Epivates Port, Neoi Epivates 57019, Greece",
+  "hoursEn": "Daily 10:00–22:00 (seasonal, Apr–Oct)",
+  "hoursRo": "Zilnic 10:00–22:00 (sezonier, Apr–Oct)",
+  "website": "https://www.karavakia.com/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.50677105423882,
+    "lon": 22.906699201429415
+  },
+  "phone": "+30 697 801 6009",
+  "price": "",
+  "descriptionEn": "⛴️ Thessaloniki Waterbus, known locally as “Karavakia”, offers a scenic and relaxing sea connection between the city center and the nearby beach suburbs.\n\n• 🌊 Direct boat routes linking Thessaloniki with Peraia, Nei Epivates, and Nea Krini\n• ⏱️ Approximately 50-minute cruise along the Thermaic Gulf\n• 🏙️ Beautiful views of Thessaloniki’s waterfront, the White Tower, and Mount Olympus on clear days\n• ☀️ Open deck seating, ideal for sightseeing and photos\n• 🍹 Bar service on board for drinks and refreshments\n• 🚤 Popular with both tourists and locals as transport or a mini-cruise experience\n\n⭐ A unique and enjoyable way to travel by sea while discovering Thessaloniki from a different perspective.",
+  "descriptionRo": "⛴️ Thessaloniki Waterbus, cunoscut sub numele de „Karavakia”, oferă o legătură pe mare relaxantă și pitorească între centrul orașului și zonele de plajă din apropiere.\n\n• 🌊 Rute directe către Peraia, Nei Epivates și Nea Krini\n• ⏱️ Croazieră de aproximativ 50 de minute pe Golful Thermaic\n• 🏙️ Priveliști spectaculoase asupra falezei din Salonic, Turnului Alb și Muntelui Olimp în zilele senine\n• ☀️ Punte deschisă, ideală pentru relaxare și fotografii\n• 🍹 Bar la bord, cu băuturi și gustări\n• 🚤 Preferat atât de turiști, cât și de localnici ca mijloc de transport sau mini-croazieră\n\n⭐ O modalitate specială și plăcută de a călători pe mare și de a vedea Salonicul dintr-o perspectivă diferită.",
+  "images": [
+    "waterbus_karavakia1.webp",
+    "waterbus_karavakia2.webp",
+    "waterbus_karavakia3.webp",
+    "waterbus_karavakia4.webp"
+  ]
+}
