@@ -1264,22 +1264,6 @@
     "suitableForChildren": true
   },
   {
-    "id": "place-de-ninna",
-    "zone": "Kassandra",
-    "name": {
-      "en": "Place de Ninna",
-      "ro": "Place de Ninna"
-    },
-    "previewImage": "place-de-ninna.webp",
-    "coordinates": {
-      "lat": 40.129251091453504,
-      "lon": 23.411958130504132
-    },
-    "rating": 4.0,
-    "waterTemperature": 24,
-    "suitableForChildren": true
-  },
-  {
     "id": "nea-fokea-beach",
     "zone": "Kassandra",
     "name": {
