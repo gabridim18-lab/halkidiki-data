@@ -4316,5 +4316,32 @@
     "shortRo": "Remezzo Beach Bar Situat chiar pe plaja din Loutra, Agia Paraskevi, Remezzo Beach Bar este locul ideal pentru a te relaxa într-un...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "lap-grilhouse",
+    "zone": "Kassandra",
+    "beachSlug": "loutra-agias-paraskevis-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "LAP Grilhouse",
+    "titleRo": "LAP Grilhouse",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse-hero.webp",
+    "lat": 39.92784182106887,
+    "lon": 23.585571776491452,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "L.A.P Grillhouse Located in Loutra, Agia Paraskevi, L.A.P Grillhouse is the perfect destination for anyone who enjoys authentic Greek...",
+    "shortRo": "L.A.P Grillhouse Situat în Loutra, Agia Paraskevi, L.A.P Grillhouse este alegerea ideală pentru iubitorii preparatelor la grătar și ai...",
+    "features": [
+      "restaurant",
+      "parking",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]

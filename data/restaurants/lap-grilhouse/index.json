@@ -1,0 +1,189 @@
+{
+  "id": "lap-grilhouse",
+  "zone": "Kassandra",
+  "beachSlug": "loutra-agias-paraskevis-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "LAP Grilhouse",
+  "titleRo": "LAP Grilhouse",
+  "displayAddress": "Λουτρά, Ag. Paraskevi 630 85, Greece",
+  "gpsCoordinates": "39.92784182106887, 23.585571776491452",
+  "lat": 39.92784182106887,
+  "lon": 23.585571776491452,
+  "openingHoursRaw": "Thursday\n\t\n\n    12–11 pm\n\n\t\nFriday\n\t\n\n    12–11 pm\n\n\t\nSaturday\n\t\n\n    12–11 pm\n\n\t\nSunday\n\t\n\n    12–6 pm\n\n\t\nMonday\n\t\n\n    12–11 pm\n\n\t\nTuesday\n\t\n\n    12–11 pm\n\n\t\nWednesday\n\t\n\n    12–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "18:00",
+      "labelEn": "12:00–18:00",
+      "labelRo": "12:00–18:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:00; Tuesday: 12:00–23:00; Wednesday: 12:00–23:00; Thursday: 12:00–23:00; Friday: 12:00–23:00; Saturday: 12:00–23:00; Sunday: 12:00–18:00",
+  "hoursRo": "Luni: 12:00–23:00; Marți: 12:00–23:00; Miercuri: 12:00–23:00; Joi: 12:00–23:00; Vineri: 12:00–23:00; Sâmbătă: 12:00–23:00; Duminică: 12:00–18:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/share/18SrtWV2P1/",
+  "instagram": "",
+  "phone": "+306933229105",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "L.A.P Grillhouse\n\nLocated in Loutra, Agia Paraskevi, L.A.P Grillhouse is the perfect destination for anyone who enjoys authentic Greek barbecue and freshly grilled specialties. With its relaxed atmosphere and warm hospitality, the restaurant combines traditional recipes with fresh ingredients to create a memorable dining experience in the heart of the Kassandra peninsula.\n\nThe menu features a wide selection of grilled favorites, including gyros, souvlaki, burgers, pork chops, juicy steaks, traditional appetizers, fresh salads, and homemade side dishes. Every meal is carefully prepared and served in generous portions, showcasing the rich flavors of authentic Greek cuisine.\n\nWhether you're stopping by for a quick lunch after the beach or enjoying a leisurely dinner with family and friends, L.A.P Grillhouse offers delicious food, friendly service, and the welcoming atmosphere that makes every visit a pleasure.",
+  "descriptionRo": "L.A.P Grillhouse\n\nSituat în Loutra, Agia Paraskevi, L.A.P Grillhouse este alegerea ideală pentru iubitorii preparatelor la grătar și ai bucătăriei grecești autentice. Cu o atmosferă relaxată și primitoare, restaurantul îmbină rețetele tradiționale cu ingrediente proaspete, oferind o experiență culinară autentică în inima peninsulei Kassandra.\n\nMeniul include o varietate de specialități preparate pe grătar, precum gyros, souvlaki, burgeri, cotlete și fripturi suculente, alături de aperitive tradiționale, salate proaspete și garnituri pregătite zilnic. Fiecare preparat este gătit cu atenție și servit în porții generoase, păstrând aromele autentice ale bucătăriei grecești.\n\nIndiferent dacă alegi un prânz rapid după plajă sau o cină relaxată împreună cu familia și prietenii, L.A.P Grillhouse te întâmpină cu servicii prietenoase, preparate gustoase și atmosfera caldă care face din fiecare masă o experiență memorabilă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/lap-grilhouse3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lap-grilhouse/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    On-site services\n    Takeaway\n    Dine-in\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Private dining room\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Counter service\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "On-site services",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Private dining room",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Counter service",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}
