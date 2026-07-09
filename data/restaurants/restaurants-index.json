@@ -4343,5 +4343,32 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "flegri-grill-tavern",
+    "zone": "Kassandra",
+    "beachSlug": "loutra-agias-paraskevis-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Flegri Grill Tavern",
+    "titleRo": "Flegri Grill Tavern",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern-hero.webp",
+    "lat": 39.927040747057944,
+    "lon": 23.587579317788617,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Flegri Grill Tavern Located in the seaside village of Loutra, Agia Paraskevi, Flegri Grill Tavern is a traditional Greek restaurant...",
+    "shortRo": "Flegri Grill Tavern Situată în stațiunea Loutra, Agia Paraskevi, Flegri Grill Tavern este o tavernă tradițională grecească apreciată...",
+    "features": [
+      "restaurant",
+      "parking",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

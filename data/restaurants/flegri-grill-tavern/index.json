@@ -1,0 +1,182 @@
+{
+  "id": "flegri-grill-tavern",
+  "zone": "Kassandra",
+  "beachSlug": "loutra-agias-paraskevis-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Flegri Grill Tavern",
+  "titleRo": "Flegri Grill Tavern",
+  "displayAddress": "ΛΟΥΤΡΑ, Ag. Paraskevi 630 85, Greece",
+  "gpsCoordinates": "39.927040747057944, 23.587579317788617",
+  "lat": 39.927040747057944,
+  "lon": 23.587579317788617,
+  "openingHoursRaw": "Thursday\n\t\n\n    1 pm–12 am\n\n\t\nFriday\n\t\n\n    1 pm–12 am\n\n\t\nSaturday\n\t\n\n    1 pm–12 am\n\n\t\nSunday\n\t\n\n    1 pm–12 am\n\n\t\nMonday\n\t\n\n    1 pm–12 am\n\n\t\nTuesday\n\t\n\n    1 pm–12 am\n\n\t\nWednesday\n\t\n\n    1 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "00:00",
+      "labelEn": "13:00–00:00",
+      "labelRo": "13:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–00:00; Tuesday: 13:00–00:00; Wednesday: 13:00–00:00; Thursday: 13:00–00:00; Friday: 13:00–00:00; Saturday: 13:00–00:00; Sunday: 13:00–00:00",
+  "hoursRo": "Luni: 13:00–00:00; Marți: 13:00–00:00; Miercuri: 13:00–00:00; Joi: 13:00–00:00; Vineri: 13:00–00:00; Sâmbătă: 13:00–00:00; Duminică: 13:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306976556126",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Flegri Grill Tavern\n\nLocated in the seaside village of Loutra, Agia Paraskevi, Flegri Grill Tavern is a traditional Greek restaurant well known for its delicious grilled specialties, fresh ingredients, and warm hospitality. With its relaxed Mediterranean atmosphere, it is the perfect place to enjoy authentic Greek cuisine after a day at the beach or exploring the beautiful Kassandra peninsula.\n\nThe menu features a wide variety of grilled meats, gyros, souvlaki, juicy steaks, fresh salads, traditional appetizers, and other Greek favorites, all prepared with carefully selected local ingredients and authentic recipes. Every dish is cooked with attention to detail, delivering the rich flavors that make Greek cuisine so popular.\n\nWhether you're dining with family, meeting friends, or enjoying a romantic evening, Flegri Grill Tavern offers generous portions, friendly service, and the genuine hospitality that makes every meal a memorable part of your Halkidiki holiday.",
+  "descriptionRo": "Flegri Grill Tavern\n\nSituată în stațiunea Loutra, Agia Paraskevi, Flegri Grill Tavern este o tavernă tradițională grecească apreciată pentru preparatele sale la grătar, ingredientele proaspete și atmosfera primitoare. Într-un decor relaxat, specific litoralului din Halkidiki, restaurantul oferă locul perfect pentru a savura specialități autentice după o zi petrecută la plajă sau explorând zona.\n\nMeniul include o selecție variată de preparate la grătar, gyros, souvlaki, fripturi, salate proaspete, aperitive tradiționale și alte specialități grecești, pregătite cu ingrediente locale și rețete transmise din generație în generație. Fiecare preparat este gătit cu grijă pentru a evidenția aromele autentice ale bucătăriei mediteraneene.\n\nFie că iei masa împreună cu familia, prietenii sau într-o cină romantică, Flegri Grill Tavern îți oferă servicii prietenoase, porții generoase și ospitalitatea autentică grecească, într-o atmosferă caldă și relaxantă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/flegri-grill-tavern4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/flegri-grill-tavern/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nPopular for\n\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Late-night food\n    Small plates\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed outside",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Late-night food",
+    "Small plates"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
