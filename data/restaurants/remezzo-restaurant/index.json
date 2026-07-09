@@ -1,0 +1,186 @@
+{
+  "id": "remezzo-restaurant",
+  "zone": "Kassandra",
+  "beachSlug": "loutra-agias-paraskevis-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Remezzo Restaurant",
+  "titleRo": "Remezzo Restaurant",
+  "displayAddress": "Loutra, Ag. Paraskevi 630 85, Greece",
+  "gpsCoordinates": "39.92772381766164, 23.584864014985286",
+  "lat": 39.92772381766164,
+  "lon": 23.584864014985286,
+  "openingHoursRaw": "Thursday\n\t\n\n    10 am–1 am\n\n\t\nFriday\n\t\n\n    10 am–1 am\n\n\t\nSaturday\n\t\n\n    10 am–1 am\n\n\t\nSunday\n\t\n\n    10 am–1 am\n\n\t\nMonday\n\t\n\n    10 am–1 am\n\n\t\nTuesday\n\t\n\n    10 am–1 am\n\n\t\nWednesday\n\t\n\n    10 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–01:00; Tuesday: 10:00–01:00; Wednesday: 10:00–01:00; Thursday: 10:00–01:00; Friday: 10:00–01:00; Saturday: 10:00–01:00; Sunday: 10:00–01:00",
+  "hoursRo": "Luni: 10:00–01:00; Marți: 10:00–01:00; Miercuri: 10:00–01:00; Joi: 10:00–01:00; Vineri: 10:00–01:00; Sâmbătă: 10:00–01:00; Duminică: 10:00–01:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306981608001",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Remezzo Restaurant\n\nLocated in the picturesque area of Loutra, near Agia Paraskevi, Remezzo Restaurant is a traditional Greek taverna known for its authentic cuisine, fresh ingredients, and relaxed seaside atmosphere. Its welcoming setting and genuine Greek hospitality provide the perfect place to enjoy an unforgettable dining experience in Halkidiki.\n\nThe menu features a wide selection of Mediterranean specialties, including traditional appetizers, fresh salads, seafood, freshly caught fish, and grilled meat dishes, all prepared using local recipes and carefully selected ingredients. Every meal reflects the rich culinary traditions of Greece while highlighting the fresh flavors of the region.\n\nWhether you're stopping by for a leisurely lunch after the beach or enjoying a relaxing dinner with family and friends, Remezzo Restaurant offers excellent service, delicious homemade dishes, and the warm hospitality that makes dining in Halkidiki such a memorable experience.",
+  "descriptionRo": "Remezzo Restaurant\n\nSituat în pitoreasca zonă Loutra, lângă Agia Paraskevi, Remezzo Restaurant este o tavernă tradițională grecească apreciată pentru preparatele sale autentice, ingredientele proaspete și atmosfera relaxantă de pe malul mării. Decorul primitor și ospitalitatea specifică Greciei creează cadrul perfect pentru o experiență culinară memorabilă în Halkidiki.\n\nMeniul reunește o selecție variată de specialități mediteraneene, de la aperitive tradiționale și salate proaspete până la pește, fructe de mare și preparate din carne pregătite după rețete locale. Fiecare preparat este gătit cu grijă, folosind ingrediente de calitate, pentru a evidenția aromele autentice ale bucătăriei grecești.\n\nIndiferent dacă alegi un prânz după o zi petrecută pe plajă sau o cină liniștită alături de familie și prieteni, Remezzo Restaurant îți oferă servicii excelente, preparate savuroase și atmosfera autentică a ospitalității grecești, într-una dintre cele mai frumoase zone de pe litoralul din Kassandra.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great coffee\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great coffee"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

@@ -4272,5 +4272,30 @@
     "shortRo": "Kaktus Beach Bar Situat pe frumoasa plajă din Nea Skioni, Kaktus Beach Bar este destinația perfectă pentru cei care doresc să se...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "remezzo-restaurant",
+    "zone": "Kassandra",
+    "beachSlug": "loutra-agias-paraskevis-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Remezzo Restaurant",
+    "titleRo": "Remezzo Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-restaurant/images/remezzo-restaurant-hero.webp",
+    "lat": 39.92772381766164,
+    "lon": 23.584864014985286,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Remezzo Restaurant Located in the picturesque area of Loutra, near Agia Paraskevi, Remezzo Restaurant is a traditional Greek taverna...",
+    "shortRo": "Remezzo Restaurant Situat în pitoreasca zonă Loutra, lângă Agia Paraskevi, Remezzo Restaurant este o tavernă tradițională grecească...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
