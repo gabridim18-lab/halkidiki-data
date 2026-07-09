@@ -1,0 +1,175 @@
+{
+  "id": "remezzo-beach-bar",
+  "zone": "Kassandra",
+  "beachSlug": "loutra-agias-paraskevis-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Remezzo Beach Bar",
+  "titleRo": "Remezzo Beach Bar",
+  "displayAddress": "Loutra, Ag. Paraskevi 630 85, Greece",
+  "gpsCoordinates": "39.927771995769795, 23.58475397026349",
+  "lat": 39.927771995769795,
+  "lon": 23.58475397026349,
+  "openingHoursRaw": "Thursday\n\t\n\n    10 am–1 am\n\n\t\nFriday\n\t\n\n    10 am–1 am\n\n\t\nSaturday\n\t\n\n    10 am–1 am\n\n\t\nSunday\n\t\n\n    10 am–1 am\n\n\t\nMonday\n\t\n\n    10 am–1 am\n\n\t\nTuesday\n\t\n\n    10 am–1 am\n\n\t\nWednesday\n\t\n\n    10 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–01:00; Tuesday: 10:00–01:00; Wednesday: 10:00–01:00; Thursday: 10:00–01:00; Friday: 10:00–01:00; Saturday: 10:00–01:00; Sunday: 10:00–01:00",
+  "hoursRo": "Luni: 10:00–01:00; Marți: 10:00–01:00; Miercuri: 10:00–01:00; Joi: 10:00–01:00; Vineri: 10:00–01:00; Sâmbătă: 10:00–01:00; Duminică: 10:00–01:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306981608001",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Remezzo Beach Bar\n\nLocated directly on the beautiful beach of Loutra, Agia Paraskevi, Remezzo Beach Bar is the perfect place to relax while enjoying the crystal-clear waters of the Aegean Sea and the peaceful atmosphere of Halkidiki. Comfortable sunbeds, breathtaking sea views, and genuine Greek hospitality create the ideal setting for a memorable beach day.\n\nGuests can enjoy freshly brewed coffee, refreshing cocktails, premium drinks, cold beers, natural juices, smoothies, and light snacks served throughout the day. Relaxing music, attentive service, and a welcoming atmosphere make Remezzo Beach Bar an excellent destination for families, couples, and anyone looking to unwind by the sea.\n\nWhether you're starting your morning with a coffee by the beach, cooling off with a refreshing cocktail in the afternoon, or watching the sunset over the Aegean, Remezzo Beach Bar offers the perfect combination of relaxation, quality service, and the unforgettable charm of the Greek coastline.",
+  "descriptionRo": "Remezzo Beach Bar\n\nSituat chiar pe plaja din Loutra, Agia Paraskevi, Remezzo Beach Bar este locul ideal pentru a te relaxa într-un decor spectaculos, unde apele cristaline ale Mării Egee întâlnesc atmosfera liniștită și ospitalitatea autentică grecească. Cu șezlonguri confortabile și vedere panoramică asupra mării, beach barul oferă cadrul perfect pentru o zi de vacanță în Halkidiki.\n\nMeniul include cafea proaspăt preparată, cocktailuri răcoritoare, băuturi premium, bere rece, sucuri naturale, smoothie-uri și gustări ușoare, servite pe tot parcursul zilei. Atmosfera relaxantă, muzica ambientală și serviciile prietenoase fac din Remezzo Beach Bar un loc perfect atât pentru familii și cupluri, cât și pentru cei care doresc pur și simplu să se bucure de soare și de mare.\n\nFie că îți începi dimineața cu o cafea pe malul mării, te răcorești cu un cocktail în timpul după-amiezii sau admiri apusul într-o atmosferă liniștită, Remezzo Beach Bar oferă combinația perfectă dintre confort, servicii de calitate și frumusețea naturală a coastei din Halkidiki.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar4.webp"
+  ],
+  "menuImages": [],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great coffee\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great coffee"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "15Euro for 2 sunbeds with umbrella",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

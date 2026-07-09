@@ -4297,5 +4297,24 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "remezzo-beach-bar",
+    "zone": "Kassandra",
+    "beachSlug": "loutra-agias-paraskevis-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Remezzo Beach Bar",
+    "titleRo": "Remezzo Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo-beach-bar/images/remezzo-beach-bar-hero.webp",
+    "lat": 39.927771995769795,
+    "lon": 23.58475397026349,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Remezzo Beach Bar Located directly on the beautiful beach of Loutra, Agia Paraskevi, Remezzo Beach Bar is the perfect place to relax...",
+    "shortRo": "Remezzo Beach Bar Situat chiar pe plaja din Loutra, Agia Paraskevi, Remezzo Beach Bar este locul ideal pentru a te relaxa într-un...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
