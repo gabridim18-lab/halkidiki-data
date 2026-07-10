@@ -4389,5 +4389,24 @@
     "shortRo": "Deep Blue Beach Bar Ascuns într-unul dintre cele mai liniștite golfuri din Halkidiki, Deep Blue Beach Bar este locul perfect pentru...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "navagos",
+    "zone": "Kassandra",
+    "beachSlug": "kanistro-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Navagos Beach Bar & Restaurant",
+    "titleRo": "Navagos Beach Bar & Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos-hero.webp",
+    "lat": 39.936571591857245,
+    "lon": 23.688976773504482,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Navagos Beach Bar Located on one of Paliouri's most beautiful beaches, Navagos Beach Bar is a stylish seaside destination where...",
+    "shortRo": "Navagos Beach Bar Situat pe una dintre cele mai frumoase plaje din Paliouri, Navagos Beach Bar este o destinație elegantă unde...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]

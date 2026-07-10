@@ -1,0 +1,201 @@
+{
+  "id": "navagos",
+  "zone": "Kassandra",
+  "beachSlug": "kanistro-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Navagos Beach Bar & Restaurant",
+  "titleRo": "Navagos Beach Bar & Restaurant",
+  "displayAddress": "Navagos Beach-Restaurant, Paliouri 630 85, Greece",
+  "gpsCoordinates": "39.936571591857245, 23.688976773504482",
+  "lat": 39.936571591857245,
+  "lon": 23.688976773504482,
+  "openingHoursRaw": "Friday\n\t\n\n    10 am–11 pm\n\n\t\nSaturday\n\t\n\n    10 am–11 pm\n\n\t\nSunday\n\t\n\n    10 am–11 pm\n\n\t\nMonday\n\t\n\n    10 am–11 pm\n\n\t\nTuesday\n\t\n\n    10 am–11 pm\n\n\t\nWednesday\n\t\n\n    10 am–11 pm\n\n\t\nThursday\n\t\n\n    10 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:00; Tuesday: 10:00–23:00; Wednesday: 10:00–23:00; Thursday: 10:00–23:00; Friday: 10:00–23:00; Saturday: 10:00–23:00; Sunday: 10:00–23:00",
+  "hoursRo": "Luni: 10:00–23:00; Marți: 10:00–23:00; Miercuri: 10:00–23:00; Joi: 10:00–23:00; Vineri: 10:00–23:00; Sâmbătă: 10:00–23:00; Duminică: 10:00–23:00",
+  "website": "https://navagosbeachbar.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306942040680",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Navagos Beach Bar\n\nLocated on one of Paliouri's most beautiful beaches, Navagos Beach Bar is a stylish seaside destination where relaxation, Mediterranean flavors, and breathtaking sea views come together. With comfortable sunbeds, crystal-clear waters, and an elegant atmosphere, it offers the perfect setting for an unforgettable day in Halkidiki.\n\nThroughout the day, guests can enjoy freshly brewed coffee, premium cocktails, carefully selected wines, champagne, refreshing beverages, and a delicious selection of fresh salads, sandwiches, and light snacks. Whether you're starting your morning by the sea, enjoying a leisurely lunch, or sipping a cocktail while watching the sunset, every moment is enhanced by outstanding service and stunning views of the Aegean Sea.\n\nThe relaxed ambiance, soft music, and genuine Greek hospitality make Navagos Beach Bar an excellent choice for families, couples, and anyone looking to unwind in an elegant beachfront setting.\n\nIf you're looking for turquoise waters, refreshing drinks, quality food, and a peaceful atmosphere by the sea, Navagos Beach Bar is a must-visit destination during your stay in Paliouri.",
+  "descriptionRo": "Navagos Beach Bar\n\nSituat pe una dintre cele mai frumoase plaje din Paliouri, Navagos Beach Bar este o destinație elegantă unde relaxarea, marea și gastronomia mediteraneană se îmbină perfect. Cu șezlonguri confortabile, ape cristaline și o atmosferă rafinată, beach barul oferă cadrul ideal pentru o zi de neuitat pe litoralul din Halkidiki.\n\nPe parcursul zilei, oaspeții se pot bucura de cafea proaspăt preparată, cocktailuri premium, vinuri atent selecționate, șampanie, băuturi răcoritoare și o varietate de gustări proaspete, salate și sandwich-uri. Fie că alegi un mic dejun ușor, un prânz pe malul mării sau un cocktail în timp ce admiri apusul, fiecare moment este completat de serviciile excelente și de peisajul spectaculos al Mării Egee.\n\nAtmosfera relaxată, muzica discretă și ospitalitatea autentică transformă Navagos Beach Bar într-un loc potrivit atât pentru familii și cupluri, cât și pentru cei care doresc să petreacă o zi liniștită într-un cadru exclusivist.\n\nDacă visezi la ape turcoaz, băuturi răcoritoare și momente de relaxare într-un decor elegant, Navagos Beach Bar este una dintre destinațiile care nu trebuie ratate în Paliouri.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/navagos5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagos/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Lunch reservations recommended\n    Dinner reservations recommended\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Lunch reservations recommended",
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Complimentary sunbeds with any drink purchase.",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}
