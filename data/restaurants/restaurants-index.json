@@ -4370,5 +4370,24 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "deep-blue",
+    "zone": "Kassandra",
+    "beachSlug": "agios-nikolaos-kanistro-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Deep Blue",
+    "titleRo": "Deep Blue",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue-hero.webp",
+    "lat": 39.93117569227006,
+    "lon": 23.731498114550234,
+    "rating": 5.0,
+    "price": "$$",
+    "shortEn": "Deep Blue Beach Bar Hidden in one of Halkidiki's most peaceful bays, Deep Blue Beach Bar is the perfect destination for visitors...",
+    "shortRo": "Deep Blue Beach Bar Ascuns într-unul dintre cele mai liniștite golfuri din Halkidiki, Deep Blue Beach Bar este locul perfect pentru...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]

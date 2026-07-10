@@ -1,0 +1,149 @@
+{
+  "id": "deep-blue",
+  "zone": "Kassandra",
+  "beachSlug": "agios-nikolaos-kanistro-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Deep Blue",
+  "titleRo": "Deep Blue",
+  "displayAddress": "Ξυνά 630 85, Greece",
+  "gpsCoordinates": "39.93117569227006, 23.731498114550234",
+  "lat": 39.93117569227006,
+  "lon": 23.731498114550234,
+  "openingHoursRaw": "Friday\n\t\n\n    10 am–8 pm\n\n\t\nSaturday\n\t\n\n    10 am–8 pm\n\n\t\nSunday\n\t\n\n    10 am–8 pm\n\n\t\nMonday\n\t\n\n    10 am–8 pm\n\n\t\nTuesday\n\t\n\n    10 am–8 pm\n\n\t\nWednesday\n\t\n\n    10 am–8 pm\n\n\t\nThursday\n\t\n\n    10 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–20:00; Tuesday: 10:00–20:00; Wednesday: 10:00–20:00; Thursday: 10:00–20:00; Friday: 10:00–20:00; Saturday: 10:00–20:00; Sunday: 10:00–20:00",
+  "hoursRo": "Luni: 10:00–20:00; Marți: 10:00–20:00; Miercuri: 10:00–20:00; Joi: 10:00–20:00; Vineri: 10:00–20:00; Sâmbătă: 10:00–20:00; Duminică: 10:00–20:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306934859957",
+  "price": "$$",
+  "rating": 5.0,
+  "descriptionEn": "Deep Blue Beach Bar\n\nHidden in one of Halkidiki's most peaceful bays, Deep Blue Beach Bar is the perfect destination for visitors looking to experience a truly relaxing Greek summer away from the crowds. Surrounded by crystal-clear turquoise waters and beautiful natural scenery, the beach bar offers a unique combination of comfort, friendly hospitality, and breathtaking seaside views.\n\nThroughout the day, guests can enjoy freshly brewed coffee, traditional Greek frappé, refreshing cocktails, fresh juices, and light snacks while relaxing just steps from the sea. Soft music, a welcoming atmosphere, and attentive service create the perfect setting for spending a few hours—or an entire day—by the beach.\n\nOne of the highlights of Deep Blue Beach Bar is that sunbeds are complimentary for guests who purchase drinks from the bar, making it an excellent choice for a carefree and enjoyable beach day.\n\nIf you're looking for crystal-clear waters, peaceful surroundings, refreshing drinks, and the authentic charm of the Greek coastline, Deep Blue Beach Bar is a hidden gem you'll want to visit again and again.",
+  "descriptionRo": "Deep Blue Beach Bar\n\nAscuns într-unul dintre cele mai liniștite golfuri din Halkidiki, Deep Blue Beach Bar este locul perfect pentru cei care caută o experiență autentică de vară, departe de aglomerație. Cu ape incredibil de limpezi, șezlonguri amplasate chiar pe malul mării și o atmosferă relaxată, beach barul îmbină frumusețea naturii cu ospitalitatea grecească într-un mod aparte.\n\nPe parcursul zilei, oaspeții se pot bucura de cafea aromată, frappe rece, cocktailuri răcoritoare, sucuri naturale și gustări pregătite pe loc, în timp ce admiră nuanțele spectaculoase de albastru ale Mării Egee. Muzica ambientală și serviciile prietenoase creează o atmosferă ideală pentru relaxare, fie că alegi să petreci câteva ore sau întreaga zi pe plajă.\n\nUnul dintre avantajele apreciate de vizitatori este faptul că șezlongurile sunt oferite gratuit clienților care comandă băuturi de la bar, transformând Deep Blue într-o alegere excelentă pentru o zi completă de relaxare la malul mării.\n\nDacă îți dorești ape cristaline, liniște, băuturi excelente și o atmosferă autentică de vacanță, Deep Blue Beach Bar este unul dintre acele locuri pe care vei dori să le vizitezi din nou.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/deep-blue4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Dine-in\n\n \n \nOfferings\n\n    Alcohol\n\n \n \nDining options\n\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol"
+  ],
+  "diningOptions": [
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}
