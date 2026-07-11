@@ -1,0 +1,158 @@
+{
+  "id": "cabana",
+  "zone": "Kassandra",
+  "beachSlug": "golden-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Cabana",
+  "titleRo": "Cabana",
+  "displayAddress": "Paliouri 630 85, Greece",
+  "gpsCoordinates": "39.961844346632034, 23.67563026370314",
+  "lat": 39.961844346632034,
+  "lon": 23.67563026370314,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–11:30 pm\n\n\t\nSunday\n\t\n\n    10 am–11:30 pm\n\n\t\nMonday\n\t\n\n    10 am–9 pm\n\n\t\nTuesday\n\t\n\n    10 am–9 pm\n\n\t\nWednesday\n\t\n\n    10 am–9 pm\n\n\t\nThursday\n\t\n\n    10 am–9 pm\n\n\t\nFriday\n\t\n\n    10 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–21:00; Tuesday: 10:00–21:00; Wednesday: 10:00–21:00; Thursday: 10:00–21:00; Friday: 10:00–21:00; Saturday: 10:00–23:30; Sunday: 10:00–23:30",
+  "hoursRo": "Luni: 10:00–21:00; Marți: 10:00–21:00; Miercuri: 10:00–21:00; Joi: 10:00–21:00; Vineri: 10:00–21:00; Sâmbătă: 10:00–23:30; Duminică: 10:00–23:30",
+  "website": "http://www.cabanabeach.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306955698151",
+  "price": "$$",
+  "rating": 3.9,
+  "descriptionEn": "Cabana Beach Bar\n\nLocated on the stunning beach of Paliouri, Cabana Beach Bar is one of Halkidiki's most stylish beach destinations, combining luxury, relaxation, and Mediterranean lifestyle in a breathtaking seaside setting. Surrounded by golden sand and the crystal-clear waters of the Aegean Sea, the beach club offers the perfect place to unwind during the day and enjoy a vibrant atmosphere into the evening.\n\nGuests can indulge in creative cocktails, premium drinks, carefully selected wines, fresh sushi, Mediterranean cuisine, and gourmet snacks prepared with high-quality ingredients. Beyond its food and drinks, Cabana also offers comfortable sunbeds, massage services, water sports, and facilities for private events, creating a complete beach club experience.\n\nWhether you're looking for a peaceful day by the sea, a refreshing cocktail with friends, or an elegant beachfront venue with music and unforgettable sunsets, Cabana Beach Bar delivers one of the finest beach club experiences in Paliouri and throughout Halkidiki.",
+  "descriptionRo": "Cabana Beach Bar\n\nSituat pe spectaculoasa plajă din Paliouri, Cabana Beach Bar este una dintre cele mai elegante destinații de pe litoralul din Halkidiki, unde confortul, gastronomia și atmosfera exclusivistă se îmbină perfect. Înconjurat de nisip fin și apele cristaline ale Mării Egee, beach barul oferă un decor modern, ideal pentru relaxare pe timpul zilei și pentru seri pline de energie.\n\nMeniul include cocktailuri creative, băuturi premium, vinuri atent selecționate, sushi, preparate mediteraneene și gustări rafinate, toate pregătite din ingrediente de calitate. Pe lângă experiența culinară, oaspeții se pot bucura de șezlonguri confortabile, masaje, sporturi nautice și chiar organizarea de evenimente private, transformând fiecare vizită într-o experiență completă de vacanță.\n\nFie că îți dorești o zi relaxantă la malul mării, un cocktail răcoritor în compania prietenilor sau o atmosferă vibrantă cu muzică și apusuri spectaculoase, Cabana Beach Bar oferă unul dintre cele mai apreciate beach club-uri din Paliouri, unde fiecare moment este creat pentru a fi memorabil.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Laid-back alfresco bar along Golden Beach with sunloungers serving sushi, light bites & cocktails.\n \n \nAccessibility\n\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    On-site services\n\n \n \nAmenities\n\n    Gender-neutral toilets\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    On-site parking\n    Paid multi-storey car park\n    Paid parking lot",
+  "accessibility": [
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "On-site services"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [
+    "Gender-neutral toilets"
+  ],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "On-site parking",
+    "Paid multi-storey car park",
+    "Paid parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "30Euro for a sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge",
+    "live_music",
+    "dj_sets"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "events"
+  ],
+  "cuisineTypes": []
+}

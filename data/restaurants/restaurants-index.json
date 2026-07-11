@@ -4434,5 +4434,30 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "cabana",
+    "zone": "Kassandra",
+    "beachSlug": "golden-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Cabana",
+    "titleRo": "Cabana",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cabana/images/cabana-hero.webp",
+    "lat": 39.961844346632034,
+    "lon": 23.67563026370314,
+    "rating": 3.9,
+    "price": "$$",
+    "shortEn": "Cabana Beach Bar Located on the stunning beach of Paliouri, Cabana Beach Bar is one of Halkidiki's most stylish beach destinations,...",
+    "shortRo": "Cabana Beach Bar Situat pe spectaculoasa plajă din Paliouri, Cabana Beach Bar este una dintre cele mai elegante destinații de pe...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "events"
+    ],
+    "cuisineTypes": []
   }
 ]
