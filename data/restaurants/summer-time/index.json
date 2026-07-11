@@ -1,0 +1,177 @@
+{
+  "id": "summer-time",
+  "zone": "Kassandra",
+  "beachSlug": "glarokavos-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Summer Time",
+  "titleRo": "Summer Time",
+  "displayAddress": "Paliouri 630 85, Greece",
+  "gpsCoordinates": "39.97413133971561, 23.671869436674378Saturday\n\t\n\n    10 am–9 pm\n\n\t\nSunday\n\t\n\n    10 am–9 pm\n\n\t\nMonday\n\t\n\n    10 am–9 pm\n\n\t\nTuesday\n\t\n\n    10 am–9 pm\n\n\t\nWednesday\n\t\n\n    10 am–9 pm\n\n\t\nThursday\n\t\n\n    10 am–9 pm\n\n\t\nFriday\n\t\n\n    10 am–9 pm",
+  "lat": 39.97413133971561,
+  "lon": 23.671869436674378,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–9 pm\n\n\t\nSunday\n\t\n\n    10 am–9 pm\n\n\t\nMonday\n\t\n\n    10 am–9 pm\n\n\t\nTuesday\n\t\n\n    10 am–9 pm\n\n\t\nWednesday\n\t\n\n    10 am–9 pm\n\n\t\nThursday\n\t\n\n    10 am–9 pm\n\n\t\nFriday\n\t\n\n    10 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–21:00; Tuesday: 10:00–21:00; Wednesday: 10:00–21:00; Thursday: 10:00–21:00; Friday: 10:00–21:00; Saturday: 10:00–21:00; Sunday: 10:00–21:00",
+  "hoursRo": "Luni: 10:00–21:00; Marți: 10:00–21:00; Miercuri: 10:00–21:00; Joi: 10:00–21:00; Vineri: 10:00–21:00; Sâmbătă: 10:00–21:00; Duminică: 10:00–21:00",
+  "website": "",
+  "facebook": "http://www.facebook.com/SummerTimeBeachBar",
+  "instagram": "",
+  "phone": "",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Summer Time Beach Bar, located in Paliouri, is a relaxed seaside spot where visitors can enjoy the sun, the sea and the flavours of summer in a casual beach-bar atmosphere. Start your day with hot or cold coffee, fresh juice or a smoothie, and take a break from the beach with sandwiches, burgers, snacks, salads or ice cream.\n\nThe menu also includes cocktails, soft drinks, wine, ouzo and a selection of beers. Its simple and welcoming setting makes it a pleasant choice for a relaxing stop with family or friends, close to the turquoise waters of Paliouri.",
+  "descriptionRo": "Summer Time Beach Bar, situat în Paliouri, este un loc relaxant pentru cei care vor să se bucure de mare, soare și gusturile verii într-o atmosferă autentică de beach bar. Poți începe ziua cu o cafea rece sau caldă, un suc proaspăt ori un smoothie, iar pentru o pauză de la plajă ai la dispoziție sandvișuri, burgeri, gustări, salate și înghețată.\n\nMeniul este completat de cocktailuri, băuturi răcoritoare, vin, ouzo și mai multe sortimente de bere. Atmosfera simplă și prietenoasă îl face potrivit pentru o oprire relaxantă alături de familie sau prieteni, chiar lângă apa turcoaz din Paliouri.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "15Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

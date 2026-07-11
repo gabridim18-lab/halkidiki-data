@@ -4485,5 +4485,30 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "summer-time",
+    "zone": "Kassandra",
+    "beachSlug": "glarokavos-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Summer Time",
+    "titleRo": "Summer Time",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/summer-time/images/summer-time-hero.webp",
+    "lat": 39.97413133971561,
+    "lon": 23.671869436674378,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Summer Time Beach Bar, located in Paliouri, is a relaxed seaside spot where visitors can enjoy the sun, the sea and the flavours of...",
+    "shortRo": "Summer Time Beach Bar, situat în Paliouri, este un loc relaxant pentru cei care vor să se bucure de mare, soare și gusturile verii...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
