@@ -173,5 +173,25 @@
     "lon": 23.68209676469938,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "paliouriboats",
+    "type": "local_business",
+    "titleEn": "PaliouriBoats",
+    "category": "Boat rentals",
+    "beaches": [
+      "porto-valitsa-bay",
+      "paliouri-beach",
+      "xenia-beach",
+      "paralia-chroussou",
+      "golden-beach",
+      "alonaki-beach",
+      "glarokavos-beach",
+      "lagoon-beach"
+    ],
+    "lat": 39.96145799704389,
+    "lon": 23.67597417284811,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

@@ -1,0 +1,44 @@
+{
+  "id": "paliouriboats",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "porto-valitsa-bay",
+    "paliouri-beach",
+    "xenia-beach",
+    "paralia-chroussou",
+    "golden-beach",
+    "alonaki-beach",
+    "glarokavos-beach",
+    "lagoon-beach"
+  ],
+  "titleEn": "PaliouriBoats",
+  "titleRo": "PaliouriBoats",
+  "categoryEn": "Boat rentals",
+  "categoryRo": "Inchirieri Barci",
+  "phone": "+306978219566",
+  "whatsapp": "+306978219566",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Τοπική Κοινότητα Παλιουρίου, Kassandra 630 85, Greece",
+  "lat": 39.96145799704389,
+  "lon": 23.67597417284811,
+  "coordinates": {
+    "lat": 39.96145799704389,
+    "lng": 23.67597417284811
+  },
+  "hours": {
+    "en": "Daily: 09:00 - 18:00",
+    "ro": "Zilnic: 09:00 - 18:00"
+  },
+  "descriptionEn": "PaliouriBoats Rent a Boat\n\nExperience the freedom of exploring Halkidiki from the sea with PaliouriBoats Rent a Boat, a boat rental service based in Paliouri offering unforgettable adventures along the stunning coastline of Kassandra. Whether you choose to captain the boat yourself or enjoy a cruise with a professional skipper, every trip takes you to hidden beaches, secluded coves, and crystal-clear waters that are only accessible by boat.\n\nThe fleet features modern, fully equipped boats available both with and without a boating license. Before departure, guests receive a complete safety briefing, while every boat includes a sunshade, swimming ladder, freshwater shower, cooler with ice, GPS tracking, and recommended route maps for a comfortable and enjoyable day at sea.\n\nWhether you're planning a romantic escape, a family adventure, or a relaxing day with friends, PaliouriBoats Rent a Boat offers one of the best ways to discover the hidden treasures of Kassandra and Sithonia while enjoying the breathtaking beauty of the Aegean Sea.",
+  "descriptionRo": "PaliouriBoats Rent a Boat\n\nTransformă-ți vacanța într-o aventură pe mare alături de PaliouriBoats Rent a Boat, un serviciu de închiriere de bărci situat în zona Paliouri, ideal pentru a descoperi unele dintre cele mai spectaculoase golfuri și plaje ascunse din Halkidiki. Fie că alegi să fii chiar tu căpitanul ambarcațiunii sau preferi o excursie cu skipper, fiecare ieșire promite peisaje impresionante și libertatea de a explora litoralul în propriul ritm.\n\nFlota include bărci moderne și bine echipate, disponibile atât cu, cât și fără permis de conducere, iar înainte de plecare primești toate instrucțiunile necesare pentru o experiență sigură și confortabilă. Ambarcațiunile sunt dotate cu copertină de soare, scară pentru baie, duș cu apă dulce, ladă frigorifică cu gheață, sistem GPS și hartă cu trasee recomandate.\n\nFie că dorești să înoți în ape turcoaz, să faci snorkeling, să descoperi peșteri marine sau pur și simplu să petreci o zi departe de aglomerație, PaliouriBoats Rent a Boat îți oferă una dintre cele mai frumoase modalități de a explora coasta peninsulelor Kassandra și Sithonia și de a crea amintiri de neuitat pe Marea Egee.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
