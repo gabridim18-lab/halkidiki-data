@@ -1,102 +1,104 @@
 {
   "id": "golden-beach",
-  "zone": "Thessaloniki",
-  "beachSlug": "agistri-beach",
+  "zone": "Kassandra",
+  "beachSlug": "glarokavos-beach",
   "type": "beach_bar",
   "featured": true,
   "titleEn": "Golden Beach",
   "titleRo": "Golden Beach",
-  "displayAddress": "Όρμος, Paralia Epanomis 575 00, Greece",
-  "gpsCoordinates": "40.404933065376525, 22.89837374223136",
-  "lat": 40.404933065376525,
-  "lon": 22.89837374223136,
-  "openingHoursRaw": "Saturday\n\t\n\n    9:30 am–9 pm\n\n\t\nSunday\n\t\n\n    9:30 am–9 pm\n\n\t\nMonday\n\t\n\n    9:30 am–9 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–9 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–9 pm\n\n\t\nThursday\n\t\n\n    9:30 am–9 pm\n\n\t\nFriday\n\t\n\n    9:30 am–9 pm",
+  "displayAddress": "Ε.Ο. Κυκλώματος, Paliouri 630 85, Greece",
+  "gpsCoordinates": "39.9768323147572, 23.66856602047255",
+  "lat": 39.9768323147572,
+  "lon": 23.66856602047255,
+  "openingHoursRaw": "Saturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm",
   "openingHours": [
     {
       "day": "Monday",
       "dayRo": "Luni",
       "closed": false,
-      "open": "09:30",
+      "open": "09:00",
       "close": "21:00",
-      "labelEn": "09:30–21:00",
-      "labelRo": "09:30–21:00"
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
     },
     {
       "day": "Tuesday",
       "dayRo": "Marți",
       "closed": false,
-      "open": "09:30",
+      "open": "09:00",
       "close": "21:00",
-      "labelEn": "09:30–21:00",
-      "labelRo": "09:30–21:00"
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
     },
     {
       "day": "Wednesday",
       "dayRo": "Miercuri",
       "closed": false,
-      "open": "09:30",
+      "open": "09:00",
       "close": "21:00",
-      "labelEn": "09:30–21:00",
-      "labelRo": "09:30–21:00"
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
     },
     {
       "day": "Thursday",
       "dayRo": "Joi",
       "closed": false,
-      "open": "09:30",
+      "open": "09:00",
       "close": "21:00",
-      "labelEn": "09:30–21:00",
-      "labelRo": "09:30–21:00"
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
     },
     {
       "day": "Friday",
       "dayRo": "Vineri",
       "closed": false,
-      "open": "09:30",
+      "open": "09:00",
       "close": "21:00",
-      "labelEn": "09:30–21:00",
-      "labelRo": "09:30–21:00"
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
     },
     {
       "day": "Saturday",
       "dayRo": "Sâmbătă",
       "closed": false,
-      "open": "09:30",
+      "open": "09:00",
       "close": "21:00",
-      "labelEn": "09:30–21:00",
-      "labelRo": "09:30–21:00"
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
     },
     {
       "day": "Sunday",
       "dayRo": "Duminică",
       "closed": false,
-      "open": "09:30",
+      "open": "09:00",
       "close": "21:00",
-      "labelEn": "09:30–21:00",
-      "labelRo": "09:30–21:00"
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
     }
   ],
-  "hoursEn": "Monday: 09:30–21:00; Tuesday: 09:30–21:00; Wednesday: 09:30–21:00; Thursday: 09:30–21:00; Friday: 09:30–21:00; Saturday: 09:30–21:00; Sunday: 09:30–21:00",
-  "hoursRo": "Luni: 09:30–21:00; Marți: 09:30–21:00; Miercuri: 09:30–21:00; Joi: 09:30–21:00; Vineri: 09:30–21:00; Sâmbătă: 09:30–21:00; Duminică: 09:30–21:00",
-  "website": "https://digital-cards.gr/golden-beach",
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
   "facebook": "",
   "instagram": "",
-  "phone": "+306948943132",
+  "phone": "+306982481279",
   "price": "$$",
-  "rating": 4.3,
-  "descriptionEn": "Located directly on the waterfront of Epanomi Bay, Golden Beach is a relaxed beach bar known for its friendly atmosphere, beautiful views of the Thermaic Gulf, and direct beach access. Visitors can enjoy refreshing drinks, coffee, cocktails, light snacks, and casual meals while relaxing on sunbeds just steps from the sea. The natural setting, calm environment, and stunning sunsets make it a perfect destination for a carefree summer day by the water.",
-  "descriptionRo": "Situat chiar pe malul mării în Golful Epanomi, Golden Beach este un beach bar relaxat, apreciat pentru atmosfera sa prietenoasă, priveliștea superbă asupra Golfului Thermaic și accesul direct la plajă. Oaspeții se pot bucura de băuturi răcoritoare, cafea, cocktailuri, gustări rapide și preparate ușoare într-un decor natural, cu șezlonguri și umbrele amplasate lângă apă. Este locul ideal pentru o zi liniștită la plajă, admirând apusurile spectaculoase și briza mării.",
+  "rating": 4.0,
+  "descriptionEn": "Golden Beach Beach Bar, located near Paliouri at E.O. Kyklomatos, Paliouri 630 85, Greece, is a pleasant seaside stop where casual food, refreshing drinks and a holiday atmosphere come together. The menu brings together popular beachside choices such as club sandwich, gyros tortilla, burgers and chicken nuggets, along with pizza pinsa, pasta and fresh salads, making it a great option both for a light lunch and for a quick bite between sunbathing sessions.\n\nThe drinks selection includes popular beers, wine, alcoholic drinks and cocktails, while the cocktail suggestions add an extra summer touch to the overall experience. With its simple, relaxed and friendly atmosphere, Golden Beach Beach Bar is a great choice for visitors who want to enjoy good flavours and an easy-going summer vibe close to the beach.",
+  "descriptionRo": "Golden Beach Beach Bar, situat lângă Paliouri, pe E.O. Kyklomatos, Paliouri 630 85, Greece, este un loc plăcut pentru o pauză relaxantă la mare, unde preparatele rapide, băuturile reci și atmosfera de vacanță se întâlnesc perfect. Meniul combină opțiuni apreciate de plajă, de la club sandwich, gyros tortilla, burgeri și chicken nuggets, până la pizza pinsa, paste și salate proaspete, fiind potrivit atât pentru un prânz lejer, cât și pentru o gustare între băi de soare.\n\nOferta de băuturi include beri populare, vin, băuturi alcoolice și cocktailuri, iar selecția de cocktail suggestions adaugă un plus de energie experienței de vacanță. Cu o atmosferă simplă, relaxată și prietenoasă, Golden Beach Beach Bar este o alegere potrivită pentru cei care vor să se bucure de gusturi bune și de vibe-ul verii, aproape de plajă.",
   "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach-hero.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach-hero.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach2.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach3.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach4.webp"
   ],
   "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach2.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach3.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/golden-beach4.webp"
   ],
   "menuImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/menu1.webp",
@@ -105,24 +107,85 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/menu4.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/golden-beach/images/menu5.webp"
   ],
-  "googleBusinessRaw": "",
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    On-site services\n    Takeaway\n    Delivery\n    Dine-in\n\n \n \nHighlights\n\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free multi-storey car park\n    Free of charge street parking\n    Free parking lot\n    On-site parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
   "accessibility": [],
-  "serviceOptions": [],
-  "highlights": [],
-  "popularFor": [],
-  "offerings": [],
-  "diningOptions": [],
-  "amenities": [],
-  "atmosphere": [],
-  "crowd": [],
-  "planning": [],
-  "payments": [],
-  "children": [],
-  "parking": [],
-  "pets": [],
-  "sunbedPrice": "10Euro",
-  "sunbedConsumationIncluded": true,
-  "musicStyles": [],
-  "features": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services",
+    "Takeaway",
+    "Delivery",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free multi-storey car park",
+    "Free of charge street parking",
+    "Free parking lot",
+    "On-site parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
   "cuisineTypes": []
 }
