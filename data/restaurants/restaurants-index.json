@@ -4459,5 +4459,31 @@
       "events"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "leuki-ammos",
+    "zone": "Kassandra",
+    "beachSlug": "xenia-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Leuki Ammos",
+    "titleRo": "Leuki Ammos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos-hero.webp",
+    "lat": 39.96373891686774,
+    "lon": 23.675409031178123,
+    "rating": 3.9,
+    "price": "$$",
+    "shortEn": "Leuki Ammos Beach Bar, located on Xenia Beach near Paliouri, combines the laid-back atmosphere of a seaside escape with the energy of...",
+    "shortRo": "Leuki Ammos Beach Bar se află pe plaja Xenia, în apropiere de Paliouri, și îmbină atmosfera relaxată a unei zile la mare cu energia...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

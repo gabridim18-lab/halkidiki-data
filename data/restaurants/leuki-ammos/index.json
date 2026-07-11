@@ -1,0 +1,187 @@
+{
+  "id": "leuki-ammos",
+  "zone": "Kassandra",
+  "beachSlug": "xenia-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Leuki Ammos",
+  "titleRo": "Leuki Ammos",
+  "displayAddress": "Akti xenia, Paliouri 630 85, Greece",
+  "gpsCoordinates": "39.96373891686774, 23.675409031178123",
+  "lat": 39.96373891686774,
+  "lon": 23.675409031178123,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–11 pm\n\n\t\nSunday\n\t\n\n    10 am–11 pm\n\n\t\nMonday\n\t\n\n    10 am–9 pm\n\n\t\nTuesday\n\t\n\n    10 am–9 pm\n\n\t\nWednesday\n\t\n\n    10 am–9 pm\n\n\t\nThursday\n\t\n\n    10 am–9 pm\n\n\t\nFriday\n\t\n\n    10 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–21:00; Tuesday: 10:00–21:00; Wednesday: 10:00–21:00; Thursday: 10:00–21:00; Friday: 10:00–21:00; Saturday: 10:00–23:00; Sunday: 10:00–23:00",
+  "hoursRo": "Luni: 10:00–21:00; Marți: 10:00–21:00; Miercuri: 10:00–21:00; Joi: 10:00–21:00; Vineri: 10:00–21:00; Sâmbătă: 10:00–23:00; Duminică: 10:00–23:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/LeukiAmmosBeachBar",
+  "instagram": "",
+  "phone": "+306981190191",
+  "price": "$$",
+  "rating": 3.9,
+  "descriptionEn": "Leuki Ammos Beach Bar, located on Xenia Beach near Paliouri, combines the laid-back atmosphere of a seaside escape with the energy of a sunset beach party. Its light-coloured sand, blue waters and Mediterranean setting make it a great choice for both a relaxing beach day and a lively afternoon with friends.\n\nThe menu features fresh salads, signature cocktails, alcohol-free mocktails and options for children. During the summer season, the venue regularly hosts beach parties, sunset events and DJ sets, particularly at weekends, with some events starting after 18:00",
+  "descriptionRo": "Leuki Ammos Beach Bar se află pe plaja Xenia, în apropiere de Paliouri, și îmbină atmosfera relaxată a unei zile la mare cu energia unui beach party la apus. Nisipul deschis la culoare, apa albastră și decorul mediteraneean creează un cadru potrivit atât pentru relaxare pe plajă, cât și pentru o ieșire cu prietenii.\n\nMeniul include salate, cocktailuri, mocktailuri și opțiuni pentru copii. Pe parcursul sezonului estival sunt organizate petreceri, DJ sets și evenimente la apus, în special în weekend, unele începând după ora 18:00.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/leuki-ammos3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/leuki-ammos/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    On-site services\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Paid Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Paid street parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Paid Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Paid street parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "40 Euro for a sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge",
+    "dj_sets"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
