@@ -4408,5 +4408,31 @@
     "shortRo": "Navagos Beach Bar Situat pe una dintre cele mai frumoase plaje din Paliouri, Navagos Beach Bar este o destinație elegantă unde...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "anesea",
+    "zone": "Kassandra",
+    "beachSlug": "paliouri-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Anesea",
+    "titleRo": "Anesea",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea-hero.webp",
+    "lat": 39.95878926260853,
+    "lon": 23.677441448690693,
+    "rating": 3.5,
+    "price": "$$",
+    "shortEn": "Located on one of Pallini's beautiful beaches, Anesea Beach Bar is a stylish seaside destination that combines modern dining with a...",
+    "shortRo": "Anesea Beach Bar Situat pe una dintre cele mai frumoase plaje din Pallini, Anesea Beach Bar este o destinație elegantă care îmbină...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

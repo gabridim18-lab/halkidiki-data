@@ -1,0 +1,182 @@
+{
+  "id": "anesea",
+  "zone": "Kassandra",
+  "beachSlug": "paliouri-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Anesea",
+  "titleRo": "Anesea",
+  "displayAddress": "XM5G+FX, Pallini 630 85, Greece",
+  "gpsCoordinates": "39.95878926260853, 23.677441448690693",
+  "lat": 39.95878926260853,
+  "lon": 23.677441448690693,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–8 pm\n\n\t\nSunday\n\t\n\n    10 am–8 pm\n\n\t\nMonday\n\t\n\n    10 am–8 pm\n\n\t\nTuesday\n\t\n\n    10 am–8 pm\n\n\t\nWednesday\n\t\n\n    10 am–8 pm\n\n\t\nThursday\n\t\n\n    10 am–8 pm\n\n\t\nFriday\n\t\n\n    10 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–20:00; Tuesday: 10:00–20:00; Wednesday: 10:00–20:00; Thursday: 10:00–20:00; Friday: 10:00–20:00; Saturday: 10:00–20:00; Sunday: 10:00–20:00",
+  "hoursRo": "Luni: 10:00–20:00; Marți: 10:00–20:00; Miercuri: 10:00–20:00; Joi: 10:00–20:00; Vineri: 10:00–20:00; Sâmbătă: 10:00–20:00; Duminică: 10:00–20:00",
+  "website": "https://aneseabeach.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306970343418",
+  "price": "$$",
+  "rating": 3.5,
+  "descriptionEn": "Located on one of Pallini's beautiful beaches, Anesea Beach Bar is a stylish seaside destination that combines modern dining with a relaxed Mediterranean atmosphere. Its elegant minimalist design, breathtaking views of the Aegean Sea, and welcoming ambiance make it the perfect place to spend a memorable summer day.\n\nThe menu features a carefully selected range of specialty coffees, fresh juices, homemade lemonade, premium cocktails, wines, and refreshing beverages, complemented by modern favorites such as gourmet burgers, bao buns, and light snacks prepared with high-quality ingredients. Every dish is crafted to deliver a fresh and contemporary dining experience by the sea.\n\nWhether you're relaxing on the beach, enjoying a refreshing cocktail in the afternoon, or sharing a delicious meal with friends while overlooking the crystal-clear waters, Anesea Beach Bar offers excellent service, modern cuisine, and a sophisticated beachfront atmosphere that perfectly captures the spirit of summer in Halkidiki.",
+  "descriptionRo": "Anesea Beach Bar\n\nSituat pe una dintre cele mai frumoase plaje din Pallini, Anesea Beach Bar este o destinație elegantă care îmbină relaxarea de pe malul mării cu preparate moderne și băuturi premium. Designul minimalist, atmosfera rafinată și priveliștea spectaculoasă asupra Mării Egee creează cadrul perfect pentru o zi de vacanță memorabilă.\n\nMeniul oferă o selecție atent aleasă de cafea de specialitate, sucuri naturale, limonadă proaspătă, cocktailuri, băuturi premium și vinuri, alături de preparate moderne precum bao buns, burgeri gourmet și gustări ușoare, pregătite din ingrediente de calitate. Fiecare preparat este realizat cu atenție pentru a oferi o experiență culinară contemporană într-un decor relaxant.\n\nFie că alegi să petreci întreaga zi pe plajă, să te răcorești cu un cocktail sau să savurezi un prânz cu vedere la mare, Anesea Beach Bar oferă servicii excelente, o atmosferă exclusivistă și unul dintre cele mai elegante locuri de relaxare din zona Pallini.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/anesea3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anesea/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    On-site services\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "20Euro for a sunbed",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
