@@ -1,0 +1,40 @@
+{
+  "id": "maxus-motorboat",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "alonaki-beach",
+    "glarokavos-beach",
+    "lagoon-beach",
+    "paralia-pefkochori"
+  ],
+  "titleEn": "MAXUS Motorboat",
+  "titleRo": "MAXUS Motorboat",
+  "categoryEn": "Boat rentals",
+  "categoryRo": "Inchirieri barci",
+  "phone": "+306973263373",
+  "whatsapp": "+306973263373",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "630 85, Glarokavos 630 85, Greece",
+  "lat": 39.979207951042845,
+  "lon": 23.664895623284526,
+  "coordinates": {
+    "lat": 39.979207951042845,
+    "lng": 23.664895623284526
+  },
+  "hours": {
+    "en": "Open: 00:00 - 24:00",
+    "ro": "Deschis: 00:00 - 24:00"
+  },
+  "descriptionEn": "Boat Rental Kassandra – MAXUS Motorboat gives you the freedom to discover the beautiful coastline of the Kassandra peninsula directly from the sea. Enjoy a relaxing cruise across the clear waters of the Aegean, explore peaceful bays, stop for a refreshing swim and admire Halkidiki’s beaches from a completely different perspective.\n\nThis experience is ideal for couples, families or groups of friends looking for a memorable day on the water, away from the busiest beach areas. MAXUS Motorboat combines adventure, relaxation and the freedom to enjoy the journey at your own pace, turning an ordinary holiday day into an authentic seaside experience.\n\nRental conditions, licence requirements, skipper availability, passenger capacity and included equipment should be confirmed directly with the operator before booking, as I could not verify the exact specifications of this particular motorboat. Boat rentals in Kassandra are generally available in several formats, including options with or without a captain and, depending on the boat, with or without a licence.",
+  "descriptionRo": "Boat Rental Kassandra – MAXUS Motorboat îți oferă libertatea de a descoperi litoralul spectaculos al peninsulei Kassandra direct de pe mare. Bucură-te de o plimbare relaxantă pe apele limpezi ale Mării Egee, explorează golfuri liniștite, oprește-te pentru înot și admiră plajele din Halkidiki dintr-o perspectivă complet diferită.\n\nExperiența este potrivită pentru cupluri, familii sau grupuri de prieteni care își doresc o zi memorabilă pe apă, departe de aglomerația plajelor. MAXUS Motorboat combină aventura, relaxarea și libertatea de a-ți organiza traseul în propriul ritm, transformând o simplă zi de vacanță într-o experiență autentică pe mare.\n\nCondițiile de închiriere, necesitatea permisului, disponibilitatea unui skipper, capacitatea ambarcațiunii și echipamentele incluse trebuie confirmate direct cu operatorul înainte de rezervare, deoarece nu am putut verifica public specificațiile exacte ale acestei ambarcațiuni.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}

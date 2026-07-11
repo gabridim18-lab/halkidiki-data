@@ -193,5 +193,21 @@
     "lon": 23.67597417284811,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "maxus-motorboat",
+    "type": "local_business",
+    "titleEn": "MAXUS Motorboat",
+    "category": "Boat rentals",
+    "beaches": [
+      "alonaki-beach",
+      "glarokavos-beach",
+      "lagoon-beach",
+      "paralia-pefkochori"
+    ],
+    "lat": 39.979207951042845,
+    "lon": 23.664895623284526,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
