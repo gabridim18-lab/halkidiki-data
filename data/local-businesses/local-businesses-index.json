@@ -133,5 +133,25 @@
     "lon": 23.094028935585904,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "pantelis-daily-cruises",
+    "type": "local_business",
+    "titleEn": "Pantelis Daily Cruises",
+    "category": "Boat cruises",
+    "beaches": [
+      "porto-valitsa-bay",
+      "paliouri-beach",
+      "xenia-beach",
+      "paralia-chroussou",
+      "golden-beach",
+      "alonaki-beach",
+      "glarokavos-beach",
+      "lagoon-beach"
+    ],
+    "lat": 39.95866876627581,
+    "lon": 23.68209390329712,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

@@ -1,0 +1,45 @@
+{
+  "id": "pantelis-daily-cruises",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "porto-valitsa-bay",
+    "paliouri-beach",
+    "xenia-beach",
+    "paralia-chroussou",
+    "golden-beach",
+    "alonaki-beach",
+    "glarokavos-beach",
+    "lagoon-beach"
+  ],
+  "titleEn": "Pantelis Daily Cruises",
+  "titleRo": "Pantelis Daily Cruises",
+  "categoryEn": "Boat cruises",
+  "categoryRo": "Plimbari cu barca",
+  "phone": "+306948263894",
+  "whatsapp": "+306948263894",
+  "website": "http://www.facebook.com/PantelisDailyCruises/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Unnamed Road, Pefkochori 630 85, Greece",
+  "lat": 39.95866876627581,
+  "lon": 23.68209390329712,
+  "coordinates": {
+    "lat": 39.95866876627581,
+    "lng": 23.68209390329712
+  },
+  "hours": {
+    "en": "Daily: 9:00 - 13:00 / 17:30 - 23",
+    "ro": "Zilnic: 9:00 - 13:00 / 17:30 - 23"
+  },
+  "descriptionEn": "Pantelis Daily Cruises\n\nDiscover the breathtaking beauty of Halkidiki's coastline with Pantelis Daily Cruises, one of the area's most popular boat excursion experiences departing from Paliouri Port. Daily cruises take you to hidden coves, secluded beaches, and crystal-clear turquoise waters that can only be reached by sea, allowing you to experience Halkidiki from a completely different perspective.\n\nDuring the cruise, you'll have the opportunity to swim in pristine waters, enjoy snorkeling, admire the spectacular scenery of the Aegean Sea, and relax on board in a friendly and welcoming atmosphere. The experienced crew ensures that every trip is safe, comfortable, and enjoyable for guests of all ages.\n\nWhether you're planning a romantic escape, a fun family adventure, or a memorable day with friends, Pantelis Daily Cruises offers one of the best ways to explore the stunning coastline of the Kassandra peninsula and discover the hidden treasures of Halkidiki.",
+  "descriptionRo": "Pantelis Daily Cruises\n\nDescoperă frumusețea spectaculoasă a coastelor din Halkidiki alături de Pantelis Daily Cruises, una dintre cele mai apreciate experiențe de croazieră din zona Portului Paliouri. Excursiile zilnice te poartă către golfuri ascunse, plaje izolate și ape turcoaz accesibile doar pe mare, oferindu-ți ocazia de a vedea Halkidiki dintr-o perspectivă complet diferită.\n\nPe parcursul croazierei vei putea înota în ape cristaline, face snorkeling, admira peisajele spectaculoase ale Mării Egee și te bucura de momente de relaxare la bord, într-o atmosferă prietenoasă și primitoare. Echipajul experimentat se asigură că fiecare excursie este sigură, confortabilă și memorabilă pentru toate vârstele.\n\nFie că alegi o escapadă romantică, o zi de aventură alături de familie sau o excursie cu prietenii, Pantelis Daily Cruises oferă una dintre cele mai frumoase modalități de a explora litoralul peninsulei Kassandra și frumusețea ascunsă a Halkidiki.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp",
+    "business4.webp"
+  ]
+}
