@@ -153,5 +153,25 @@
     "lon": 23.68209390329712,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "king-alexander-mediterranean-cruises",
+    "type": "local_business",
+    "titleEn": "King Alexander Mediterranean Cruises",
+    "category": "Boat cruises",
+    "beaches": [
+      "porto-valitsa-bay",
+      "paliouri-beach",
+      "xenia-beach",
+      "paralia-chroussou",
+      "golden-beach",
+      "alonaki-beach",
+      "glarokavos-beach",
+      "lagoon-beach"
+    ],
+    "lat": 39.95876128950568,
+    "lon": 23.68209676469938,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

@@ -1,0 +1,44 @@
+{
+  "id": "king-alexander-mediterranean-cruises",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "porto-valitsa-bay",
+    "paliouri-beach",
+    "xenia-beach",
+    "paralia-chroussou",
+    "golden-beach",
+    "alonaki-beach",
+    "glarokavos-beach",
+    "lagoon-beach"
+  ],
+  "titleEn": "King Alexander Mediterranean Cruises",
+  "titleRo": "King Alexander Mediterranean Cruises",
+  "categoryEn": "Boat cruises",
+  "categoryRo": "Plimbari cu barca",
+  "phone": "+306979228215",
+  "whatsapp": "+306979228215",
+  "website": "https://www.piratecruise.gr/en/",
+  "instagram": "",
+  "facebook": "",
+  "address": "XM5J+FQ, Paliouri 630 85, Greece",
+  "lat": 39.95876128950568,
+  "lon": 23.68209676469938,
+  "coordinates": {
+    "lat": 39.95876128950568,
+    "lng": 23.68209676469938
+  },
+  "hours": {
+    "en": "Daily: 9:30 - 21:30",
+    "ro": "Zilnic: 9:30 - 21:30"
+  },
+  "descriptionEn": "King Alexander Mediterranean Cruises\n\nExperience the beauty of the Aegean Sea with King Alexander Mediterranean Cruises, one of the top-rated cruise operators based in Paliouri. Their cruises are designed for travelers who want to explore Halkidiki's breathtaking coastline, including hidden coves, secluded beaches, and crystal-clear waters that can only be reached by boat.\n\nDuring your cruise, you can relax on board, swim in turquoise waters, enjoy snorkeling, and admire the stunning scenery of the Toroneos Gulf. The experienced crew provides friendly service and a welcoming atmosphere, ensuring a safe, comfortable, and unforgettable experience for couples, families, and groups of friends.\n\nWhether you're looking for a full-day adventure, a relaxing sunset cruise, or the chance to discover Halkidiki's hidden beaches from the sea, King Alexander Mediterranean Cruises offers one of the most memorable ways to experience the natural beauty of the Greek coastline.",
+  "descriptionRo": "King Alexander Mediterranean Cruises\n\nPornește într-o aventură de neuitat pe apele cristaline ale Mării Egee alături de King Alexander Mediterranean Cruises, una dintre cele mai apreciate companii de croaziere din zona Paliouri. Excursiile sunt concepute pentru cei care doresc să descopere frumusețea ascunsă a litoralului din Halkidiki, cu opriri în golfuri spectaculoase, plaje izolate și locuri accesibile doar pe mare.\n\nÎn timpul croazierei te poți relaxa la bord, înota în ape turcoaz, face snorkeling și admira peisajele impresionante ale Golfului Toroneos. Echipajul experimentat oferă o atmosferă prietenoasă și servicii de calitate, transformând fiecare excursie într-o experiență memorabilă pentru cupluri, familii și grupuri de prieteni.\n\nFie că alegi o croazieră de o zi, o escapadă la apus sau o excursie pentru a descoperi plajele ascunse ale Halkidikiului, King Alexander Mediterranean Cruises îți oferă ocazia de a explora unele dintre cele mai spectaculoase peisaje ale Mării Egee într-un mod confortabil și relaxant.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
