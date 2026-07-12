@@ -227,5 +227,23 @@
     "lon": 23.65413818992366,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "speedfun-watersports",
+    "type": "local_business",
+    "titleEn": "SPEEDFUN Watersports",
+    "category": "Water ski",
+    "beaches": [
+      "alonaki-beach",
+      "glarokavos-beach",
+      "lagoon-beach",
+      "paralia-pefkochori",
+      "pefkochori-beach",
+      "hanioti-beach"
+    ],
+    "lat": 39.98291524682527,
+    "lon": 23.6471960925672,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

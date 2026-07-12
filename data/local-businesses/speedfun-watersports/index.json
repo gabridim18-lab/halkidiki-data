@@ -1,0 +1,42 @@
+{
+  "id": "speedfun-watersports",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "alonaki-beach",
+    "glarokavos-beach",
+    "lagoon-beach",
+    "paralia-pefkochori",
+    "pefkochori-beach",
+    "hanioti-beach"
+  ],
+  "titleEn": "SPEEDFUN Watersports",
+  "titleRo": "SPEEDFUN Watersports",
+  "categoryEn": "Water ski",
+  "categoryRo": "Water ski",
+  "phone": "+306945233490",
+  "whatsapp": "+306945233490",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Pefkochori 630 88, Greece",
+  "lat": 39.98291524682527,
+  "lon": 23.6471960925672,
+  "coordinates": {
+    "lat": 39.98291524682527,
+    "lng": 23.6471960925672
+  },
+  "hours": {
+    "en": "Daily: 10:20 - 20:00",
+    "ro": "Zilnic: 10:20 - 20:00"
+  },
+  "descriptionEn": "SPEEDFUN Watersports, located in Pefkochori, is a water sports centre created for visitors who want to add more adventure and excitement to their holiday in Halkidiki. The location combines the energetic atmosphere of water activities with the beautiful coastal scenery of Kassandra, offering a fun and memorable summer experience by the sea.\n\nIt is a suitable choice for couples, families and groups of friends who want to stay active, enjoy the water and discover a more dynamic side of their holiday. Available activities, opening hours, age restrictions and participation conditions may vary depending on the season, weather and sea conditions, so guests should confirm the latest details directly with the operator before visiting.",
+  "descriptionRo": "SPEEDFUN Watersports, situat în Pefkochori, este un centru dedicat activităților și distracției pe apă, potrivit pentru vizitatorii care doresc să adauge puțină aventură vacanței lor în Halkidiki. Locația îmbină atmosfera energică a sporturilor nautice cu peisajul spectaculos al litoralului din Kassandra, oferind o experiență de vară plină de adrenalină și voie bună. Profilurile publice ale operatorului confirmă prezența sa în Pefkochori și activitatea în domeniul sporturilor și recreerii nautice.\n\nEste o alegere potrivită pentru cupluri, familii și grupuri de prieteni care vor să petreacă timp activ pe mare și să descopere o latură mai dinamică a vacanței. Activitățile disponibile, programul, limitele de vârstă și condițiile de participare pot varia în funcție de sezon și de starea mării, de aceea este recomandată confirmarea acestora direct la locație înainte de participare. În zona Pefkochori sunt disponibile, în general, atât activități nautice cu motor, cât și opțiuni recreative potrivite pentru familii.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
