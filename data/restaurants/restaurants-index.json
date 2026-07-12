@@ -4536,5 +4536,31 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "faros-seaside-bar",
+    "zone": "Kassandra",
+    "beachSlug": "lagoon-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Faros Seaside Bar",
+    "titleRo": "Faros Seaside Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/faros-seaside-bar/images/faros-seaside-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/faros-seaside-bar/images/faros-seaside-bar-hero.webp",
+    "lat": 39.98229311394555,
+    "lon": 23.656570593253658,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Faros Seaside Bar, located in Glarokavos, Pefkochori, is a relaxed seaside venue with a distinctive lighthouse-inspired identity and...",
+    "shortRo": "Faros Seaside Bar, situat în Glarokavos, Pefkochori, este un loc relaxant la malul mării, cu o identitate inspirată de faruri și de...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
