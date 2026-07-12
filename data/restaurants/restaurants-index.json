@@ -4508,5 +4508,33 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "amma",
+    "zone": "Kassandra",
+    "beachSlug": "lagoon-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Amma",
+    "titleRo": "Amma",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma-hero.webp",
+    "lat": 39.98233073101872,
+    "lon": 23.654097123855387,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Amma Beach Bar, located in Glarokavos, Pefkochori 630 85, Greece, is a great choice for relaxing seaside moments in a stylish yet...",
+    "shortRo": "Amma Beach Bar, situat în Glarokavos, Pefkochori 630 85, Greece, este un loc potrivit pentru momente relaxante la malul mării, într-o...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

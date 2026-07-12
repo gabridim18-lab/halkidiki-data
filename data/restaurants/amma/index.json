@@ -1,0 +1,166 @@
+{
+  "id": "amma",
+  "zone": "Kassandra",
+  "beachSlug": "lagoon-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Amma",
+  "titleRo": "Amma",
+  "displayAddress": "Glarokavos, Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.98233073101872, 23.654097123855387",
+  "lat": 39.98233073101872,
+  "lon": 23.654097123855387,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "https://www.fluter.gr/menu/17222",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306943942065",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Amma Beach Bar, located in Glarokavos, Pefkochori 630 85, Greece, is a great choice for relaxing seaside moments in a stylish yet easy-going summer setting. Based on the available menu, the venue focuses on refreshing drinks and light beach-bar options, making it a pleasant stop for visitors who want to enjoy the sun, the sea and a refreshing break in a modern coastal atmosphere.\n\nThe menu features a varied selection of beverages and juices, including refreshments, fruit juices and homemade lemonade, along with fresh orange juice and drinks such as homemade sour cherry drink. The offer is further enriched with milkshakes and smoothies, including fruity combinations, as well as premium sodas, energy drinks, mineral and sparkling water. For guests who prefer something classic, the menu also includes cocktails such as Daiquiri.\n\nBased on the information available in the images you provided, I cannot confirm any events, parties or special themed nights at this venue. If you want, I can also create a shorter version, ideal for direct use inside your app.",
+  "descriptionRo": "Amma Beach Bar, situat în Glarokavos, Pefkochori 630 85, Greece, este un loc potrivit pentru momente relaxante la malul mării, într-o atmosferă de vară elegantă și lejeră. Pe baza meniului disponibil, locația pune accent pe băuturi răcoritoare și opțiuni fresh, fiind o alegere foarte bună pentru cei care vor să se bucure de soare, plajă și o pauză plăcută într-un decor de beach bar modern.\n\nMeniul include o selecție variată de băuturi și sucuri, precum refreshment-uri, sucuri de fructe și limonadă de casă, alături de fresh orange juice și băuturi speciale precum homemade sour cherry drink. Oferta este completată de milkshake-uri și smoothie-uri, inclusiv combinații fructate, precum și de premium sodas, băuturi energizante, apă minerală și carbogazoasă. Pentru cei care preferă ceva clasic, meniul include și cocktailuri, precum Daiquiri.\n\nPe baza informațiilor pe care le am din imaginile trimise, nu pot confirma existența unor evenimente, petreceri sau seri speciale la această locație. Dacă vrei, pot să-ți fac și o variantă mai scurtă, perfectă pentru afișare directă în aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/amma3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amma/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Takeaway\n    Dine-in\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "Enjoy complimentary sunbeds with food and beverage consumption.",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
