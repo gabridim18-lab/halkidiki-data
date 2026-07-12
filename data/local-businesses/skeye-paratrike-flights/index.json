@@ -1,0 +1,42 @@
+{
+  "id": "skeye-paratrike-flights",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "alonaki-beach",
+    "glarokavos-beach",
+    "lagoon-beach",
+    "paralia-pefkochori",
+    "pefkochori-beach",
+    "hanioti-beach"
+  ],
+  "titleEn": "Skeye Paratrike Flights",
+  "titleRo": "Skeye Paratrike Flights",
+  "categoryEn": "Aerial Sports center",
+  "categoryRo": "Aerial sports center",
+  "phone": "+306973375819",
+  "whatsapp": "+306973375819",
+  "website": "http://skeye.gr/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Kassandra 630 85, Greece",
+  "lat": 39.98006546891008,
+  "lon": 23.65413818992366,
+  "coordinates": {
+    "lat": 39.98006546891008,
+    "lng": 23.65413818992366
+  },
+  "hours": {
+    "en": "",
+    "ro": ""
+  },
+  "descriptionEn": "SKEYE Paratrike Flights offers an unforgettable aerial experience above the Kassandra peninsula, with impressive views of Halkidiki’s beaches, peaceful bays and blue waters. Flights are operated in tandem with an experienced pilot, using a motorized wheeled paraglider designed for smooth take-offs and landings. No previous flying experience is required, allowing passengers to relax and enjoy the landscape from a unique perspective.\n\nThe flight location is in Glarokavos, approximately 4 km south of Pefkochori on the road towards Paliouri. A typical flight lasts around 20 minutes, although different flight durations may also be arranged. Video recording may be available, giving visitors the opportunity to keep a memorable souvenir of their adventure above Kassandra.\n\nThe activity mainly operates during the summer season, usually from June to September, and all flights depend on suitable weather conditions. Visitors should therefore confirm the departure time and availability directly with the operator before travelling to the location. Transfers to the flight area may also be arranged upon request.",
+  "descriptionRo": "SKEYE Paratrike Flights oferă o experiență spectaculoasă de zbor deasupra peninsulei Kassandra, cu panorame impresionante asupra plajelor, golfurilor și apelor albastre din Halkidiki. Zborul se desfășoară în tandem, alături de un pilot cu experiență, într-un paratrike motorizat cu roți, conceput pentru decolări și aterizări line. Nu este necesară experiență anterioară, pasagerul putând să se relaxeze și să admire peisajul de la înălțime.\n\nLocul de zbor se află în zona Glarokavos, la aproximativ 4 km sud de Pefkochori, pe drumul către Paliouri. Un zbor obișnuit durează aproximativ 20 de minute, însă pot fi organizate și experiențe cu alte durate. Înregistrarea video a aventurii poate fi disponibilă, astfel încât participanții să păstreze o amintire specială a zborului deasupra Kassandrei.\n\nActivitatea este organizată în principal în sezonul estival, de regulă din iunie până în septembrie, iar zborurile depind de condițiile meteorologice. Din acest motiv, ora și disponibilitatea trebuie confirmate direct cu operatorul înainte de deplasare. Transferul către zona de decolare poate fi organizat la cerere.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}

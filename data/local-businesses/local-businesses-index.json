@@ -209,5 +209,23 @@
     "lon": 23.664895623284526,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "skeye-paratrike-flights",
+    "type": "local_business",
+    "titleEn": "Skeye Paratrike Flights",
+    "category": "Aerial Sports center",
+    "beaches": [
+      "alonaki-beach",
+      "glarokavos-beach",
+      "lagoon-beach",
+      "paralia-pefkochori",
+      "pefkochori-beach",
+      "hanioti-beach"
+    ],
+    "lat": 39.98006546891008,
+    "lon": 23.65413818992366,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
