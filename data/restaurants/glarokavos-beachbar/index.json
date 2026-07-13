@@ -1,0 +1,189 @@
+{
+  "id": "glarokavos-beachbar",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-pefkochori",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Glarokavos BeachBar",
+  "titleRo": "Glarokavos BeachBar",
+  "displayAddress": "Παραλία Γλαρόκαβος, Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.982653661778336, 23.643646456360905",
+  "lat": 39.982653661778336,
+  "lon": 23.643646456360905,
+  "openingHoursRaw": "Monday\n\t\n\n    10 am–10 pm\n\n\t\nTuesday\n\t\n\n    10 am–10 pm\n\n\t\nWednesday\n\t\n\n    10 am–10 pm\n\n\t\nThursday\n\t\n\n    10 am–10 pm\n\n\t\nFriday\n\t\n\n    10 am–10 pm\n\n\t\nSaturday\n\t\n\n    10 am–10 pm\n\n\t\nSunday\n\t\n\n    10 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–22:00; Tuesday: 10:00–22:00; Wednesday: 10:00–22:00; Thursday: 10:00–22:00; Friday: 10:00–22:00; Saturday: 10:00–22:00; Sunday: 10:00–22:00",
+  "hoursRo": "Luni: 10:00–22:00; Marți: 10:00–22:00; Miercuri: 10:00–22:00; Joi: 10:00–22:00; Vineri: 10:00–22:00; Sâmbătă: 10:00–22:00; Duminică: 10:00–22:00",
+  "website": "",
+  "facebook": "http://www.facebook.com/glarokavos",
+  "instagram": "",
+  "phone": "+306984489933",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Glarokavos BeachBar, located on Glarokavos Beach near Pefkochori, is a relaxed seaside venue where the holiday atmosphere meets food made for a day by the sea. Its location close to the water and its modern beach-bar style make it a pleasant choice for lunch, a quick snack or a relaxing break between swimming and sunbathing.\n\nThe menu features toast, panini, sandwiches, hot dogs, club sandwiches and easy beachside snacks. For a more substantial meal, guests can choose from grilled dishes such as chicken, pork or beef souvlaki, sausages, meatballs and pancetta. The selection also includes burgers, salads, French fries, feta with olive oil and fresh options such as fruit salad and natural drinks. With its simple, friendly and beach-focused concept, Glarokavos BeachBar is a good choice for couples, families and groups of friends.",
+  "descriptionRo": "Glarokavos BeachBar, situat pe plaja Glarokavos, în apropiere de Pefkochori, este un loc relaxat unde atmosfera de vacanță se îmbină cu preparate potrivite pentru o zi petrecută la mare. Amplasarea aproape de apă și stilul modern al locației îl transformă într-o alegere plăcută pentru o pauză de prânz, o gustare sau câteva momente de relaxare între sesiunile de înot și plajă.\n\nMeniul include toasturi, panini, sandvișuri, hot dog, club sandwich și gustări pentru toate preferințele. Pentru un prânz mai consistent sunt disponibile preparate la grătar, precum souvlaki de pui, porc sau vită, cârnați, chiftele și pancetta. Oferta este completată de burgeri, salate, cartofi prăjiți, feta cu ulei de măsline și opțiuni fresh, precum salata de fructe și băuturile naturale. Cu un concept simplu, prietenos și orientat spre experiența de plajă, Glarokavos BeachBar este potrivit pentru cupluri, familii și grupuri de prieteni.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Live performances\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Paid street parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Live performances"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Paid street parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "30 Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

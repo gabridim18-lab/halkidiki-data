@@ -4562,5 +4562,31 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "glarokavos-beachbar",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-pefkochori",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Glarokavos BeachBar",
+    "titleRo": "Glarokavos BeachBar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/glarokavos-beachbar/images/glarokavos-beachbar-hero.webp",
+    "lat": 39.982653661778336,
+    "lon": 23.643646456360905,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Glarokavos BeachBar, located on Glarokavos Beach near Pefkochori, is a relaxed seaside venue where the holiday atmosphere meets food...",
+    "shortRo": "Glarokavos BeachBar, situat pe plaja Glarokavos, în apropiere de Pefkochori, este un loc relaxat unde atmosfera de vacanță se îmbină...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
