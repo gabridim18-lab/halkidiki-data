@@ -4645,5 +4645,30 @@
     "shortRo": "Thalassa Taverna Restaurant oferă o experiență relaxantă la malul mării, într-un cadru deschis către frumusețea litoralului din...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "amos-mediterran",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-pefkochori",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Amos Mediterran",
+    "titleRo": "Amos Mediterran",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran-hero.webp",
+    "lat": 39.98893500429878,
+    "lon": 23.61954073166595,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Amos Mediterran invites guests to enjoy the flavours of Greece in a relaxed setting directly on the beach of Pefkochori. With the sea...",
+    "shortRo": "Amos Mediterran te invită să descoperi aromele Greciei într-un cadru relaxant, chiar pe plaja din Pefkochori. Cu marea la doar câțiva...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

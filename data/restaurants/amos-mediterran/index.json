@@ -1,0 +1,196 @@
+{
+  "id": "amos-mediterran",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-pefkochori",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Amos Mediterran",
+  "titleRo": "Amos Mediterran",
+  "displayAddress": "Παραλία Πευκοχωρίου, Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.98893500429878, 23.61954073166595",
+  "lat": 39.98893500429878,
+  "lon": 23.61954073166595,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9 am–1 am\n\n\t\nThursday\n\t\n\n    9 am–1 am\n\n\t\nFriday\n\t\n\n    9 am–1 am\n\n\t\nSaturday\n\t\n\n    9 am–1 am\n\n\t\nSunday\n\t\n\n    9 am–1 am\n\n\t\nMonday\n\t\n\n    9 am–1 am\n\n\t\nTuesday\n\t\n\n    9 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–01:00; Tuesday: 09:00–01:00; Wednesday: 09:00–01:00; Thursday: 09:00–01:00; Friday: 09:00–01:00; Saturday: 09:00–01:00; Sunday: 09:00–01:00",
+  "hoursRo": "Luni: 09:00–01:00; Marți: 09:00–01:00; Miercuri: 09:00–01:00; Joi: 09:00–01:00; Vineri: 09:00–01:00; Sâmbătă: 09:00–01:00; Duminică: 09:00–01:00",
+  "website": "",
+  "facebook": "https://m.facebook.com/Amos-mediterranean-cuisine-2433472446678848/",
+  "instagram": "",
+  "phone": "+306907845849",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Amos Mediterran invites guests to enjoy the flavours of Greece in a relaxed setting directly on the beach of Pefkochori. With the sea only a few steps away and open views across the Toroneos Gulf, it is an inviting choice for a peaceful lunch or a sunset dinner by the water.\n\nThe menu draws inspiration from Greek and Mediterranean cuisine, highlighting fresh fish, seafood, salads and dishes prepared with carefully selected ingredients. For a more authentic experience, it is worth asking which fresh fish is available that day and which wine would best complement your chosen dish. Vegetarian-friendly choices are also available.\n\nAfter the meal, the seaside atmosphere can continue on the sun loungers arranged near the beach. A reservation may be helpful during busy periods, particularly for tables close to the water or around sunset. Parking is mainly available along the surrounding streets, so arriving a little earlier may make the visit more convenient.\n\nAmos Mediterran is a lovely choice for Mediterranean food, beautiful sea views and relaxing moments beside the Aegean.",
+  "descriptionRo": "Amos Mediterran te invită să descoperi aromele Greciei într-un cadru relaxant, chiar pe plaja din Pefkochori. Cu marea la doar câțiva pași și o priveliște deschisă asupra Golfului Toroneos, restaurantul este potrivit atât pentru un prânz liniștit, cât și pentru o cină însoțită de culorile apusului.\n\nMeniul este inspirat din bucătăria grecească și mediteraneeană, punând în valoare peștele proaspăt, fructele de mare, salatele și preparatele realizate din ingrediente atent alese. Pentru o experiență cât mai autentică, merită să întrebi care este peștele proaspăt disponibil în ziua vizitei și ce vin se potrivește cel mai bine cu preparatul ales. Sunt disponibile și alternative potrivite pentru vegetarieni.\n\nDupă masă, atmosfera de vacanță poate continua pe șezlongurile amenajate lângă mare. Pentru mesele apropiate de apă sau pentru orele de apus, o rezervare poate fi utilă în perioadele aglomerate. Parcarea se face în principal pe străzile din apropiere, astfel că o sosire puțin mai devreme poate face vizita mai comodă.\n\nAmos Mediterran este o alegere frumoasă pentru cei care își doresc mâncare mediteraneeană, o atmosferă luminoasă și momente relaxante petrecute chiar lângă Marea Egee.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/amos-mediterran3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amos-mediterran/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free parking lot\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
