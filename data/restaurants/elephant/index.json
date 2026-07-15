@@ -1,0 +1,179 @@
+{
+  "id": "elephant",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-pefkochori",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Elephant",
+  "titleRo": "Elephant",
+  "displayAddress": "Peufkohori 630 85, Greece",
+  "gpsCoordinates": "39.98579640633441, 23.62752431997159",
+  "lat": 39.98579640633441,
+  "lon": 23.62752431997159,
+  "openingHoursRaw": "Wednesday\n\t\n\n    10 am–10 pm\n\n\t\nThursday\n\t\n\n    10 am–10 pm\n\n\t\nFriday\n\t\n\n    10 am–10 pm\n\n\t\nSaturday\n\t\n\n    10 am–10 pm\n\n\t\nSunday\n\t\n\n    10 am–10 pm\n\n\t\nMonday\n\t\n\n    10 am–10 pm\n\n\t\nTuesday\n\t\n\n    10 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–22:00; Tuesday: 10:00–22:00; Wednesday: 10:00–22:00; Thursday: 10:00–22:00; Friday: 10:00–22:00; Saturday: 10:00–22:00; Sunday: 10:00–22:00",
+  "hoursRo": "Luni: 10:00–22:00; Marți: 10:00–22:00; Miercuri: 10:00–22:00; Joi: 10:00–22:00; Vineri: 10:00–22:00; Sâmbătă: 10:00–22:00; Duminică: 10:00–22:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/elephantbeachbar/",
+  "instagram": "",
+  "phone": "+306987065570",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "**Elephant Beach Bar** brings a colourful tropical atmosphere to the seaside of Pefkochori. Its exotic décor, relaxing beachfront spaces and location close to the water create an inviting setting for a sunny day by the sea.\n\nGuests can enjoy a refreshing cocktail, a smoothie or a light bite while taking in the views of the Aegean Sea and the lively summer atmosphere of Halkidiki. Some parts of the sea entrance may be rocky, so water shoes can provide additional comfort when entering the water.\n\nDuring busy periods, nearby parking spaces may fill up quickly. Arriving earlier, around opening time, may help make the visit more convenient and relaxed.\n\nElephant Beach Bar is a great choice for unwinding, meeting friends and enjoying a beautiful summer day by the sea.",
+  "descriptionRo": "**Elephant Beach Bar** aduce o atmosferă tropicală și plină de culoare pe litoralul din Pefkochori. Decorul exotic, spațiile amenajate pentru relaxare și apropierea de mare creează cadrul potrivit pentru o zi însorită petrecută pe plajă.\n\nAici te poți bucura de un cocktail răcoritor, un smoothie sau o gustare ușoară, admirând apele Mării Egee și atmosfera vibrantă a verilor din Halkidiki. În anumite porțiuni, accesul în mare poate avea pietre, astfel că încălțămintea specială pentru apă poate oferi mai mult confort la intrarea în apă.\n\nÎn zilele aglomerate, locurile de parcare din apropiere se pot ocupa destul de repede. O sosire mai devreme, în apropierea orei de deschidere, poate fi o alegere inspirată pentru o experiență mai relaxată.\n\nElephant Beach Bar este potrivit pentru momente de relaxare, întâlniri cu prietenii și zile frumoase petrecute la malul mării.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "40Euro person first rows",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

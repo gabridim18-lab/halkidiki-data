@@ -4607,5 +4607,24 @@
     "shortRo": "**Octo Seaside Bar Restaurant** este locul în care aromele mediteraneene, briza mării și atmosfera relaxată de vacanță se întâlnesc...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "elephant",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-pefkochori",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Elephant",
+    "titleRo": "Elephant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/elephant/images/elephant-hero.webp",
+    "lat": 39.98579640633441,
+    "lon": 23.62752431997159,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "**Elephant Beach Bar** brings a colourful tropical atmosphere to the seaside of Pefkochori. Its exotic décor, relaxing beachfront...",
+    "shortRo": "**Elephant Beach Bar** aduce o atmosferă tropicală și plină de culoare pe litoralul din Pefkochori. Decorul exotic, spațiile amenajate...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
