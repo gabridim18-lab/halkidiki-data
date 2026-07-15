@@ -4626,5 +4626,24 @@
     "shortRo": "**Elephant Beach Bar** aduce o atmosferă tropicală și plină de culoare pe litoralul din Pefkochori. Decorul exotic, spațiile amenajate...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "thalassa-taverna",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-pefkochori",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Thalassa Taverna",
+    "titleRo": "Thalassa Taverna",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna-hero.webp",
+    "lat": 39.98824226554202,
+    "lon": 23.62310619330568,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Thalassa Taverna Restaurant offers a relaxing seaside dining experience in the welcoming coastal setting of Pefkochori. Its outdoor...",
+    "shortRo": "Thalassa Taverna Restaurant oferă o experiență relaxantă la malul mării, într-un cadru deschis către frumusețea litoralului din...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]

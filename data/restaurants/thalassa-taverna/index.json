@@ -1,0 +1,172 @@
+{
+  "id": "thalassa-taverna",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-pefkochori",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Thalassa Taverna",
+  "titleRo": "Thalassa Taverna",
+  "displayAddress": "Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.98824226554202, 23.62310619330568",
+  "lat": 39.98824226554202,
+  "lon": 23.62310619330568,
+  "openingHoursRaw": "Wednesday\n\t\n\n    10 am–11:30 pm\n\n\t\nThursday\n\t\n\n    10 am–11:30 pm\n\n\t\nFriday\n\t\n\n    10 am–11:30 pm\n\n\t\nSaturday\n\t\n\n    10 am–11:30 pm\n\n\t\nSunday\n\t\n\n    10 am–11:30 pm\n\n\t\nMonday\n\t\n\n    10 am–11:30 pm\n\n\t\nTuesday\n\t\n\n    10 am–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:30; Tuesday: 10:00–23:30; Wednesday: 10:00–23:30; Thursday: 10:00–23:30; Friday: 10:00–23:30; Saturday: 10:00–23:30; Sunday: 10:00–23:30",
+  "hoursRo": "Luni: 10:00–23:30; Marți: 10:00–23:30; Miercuri: 10:00–23:30; Joi: 10:00–23:30; Vineri: 10:00–23:30; Sâmbătă: 10:00–23:30; Duminică: 10:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306973331331",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Thalassa Taverna Restaurant offers a relaxing seaside dining experience in the welcoming coastal setting of Pefkochori. Its outdoor terrace is an inviting choice for a peaceful lunch or an evening meal accompanied by warm sunset views and the pleasant atmosphere of a summer night in Halkidiki.\n\nThe menu highlights the flavours of Greek cuisine, with fish and seafood dishes, fresh salads and a selection of meat-based options. The choice of fresh fish may vary from day to day, so it is worth asking the staff which options are available and recommended during your visit.\n\nDuring busy evenings, booking a table in advance may be helpful, especially for those hoping to enjoy a more open view of the sea and sunset. Thalassa is a lovely choice for Greek food, an easy-going atmosphere and memorable moments close to the water.\n\nPentru locațiile următoare voi proceda la fel: caut secțiunea mobilă, dar îți spun clar dacă am găsit-o. Când nu este accesibilă, folosesc numai informațiile practice pe care le pot verifica din alte surse și le integrez prudent, fără a copia formulările originale.",
+  "descriptionRo": "Thalassa Taverna Restaurant oferă o experiență relaxantă la malul mării, într-un cadru deschis către frumusețea litoralului din Pefkochori. Terasa sa este potrivită pentru un prânz liniștit sau pentru o cină însoțită de culorile calde ale apusului și de atmosfera plăcută a unei seri de vară în Halkidiki.\n\nMeniul pune în valoare aromele bucătăriei grecești, cu preparate din pește și fructe de mare, salate proaspete și diferite opțiuni din carne. Pentru preparatele din pește, selecția disponibilă poate varia de la o zi la alta, astfel că merită să întrebi personalul care sunt opțiunile proaspete ale zilei.\n\nÎn serile aglomerate, o rezervare prealabilă poate fi utilă, mai ales dacă îți dorești o masă cu vedere cât mai deschisă spre mare și apus. Thalassa este o alegere potrivită pentru cei care caută mâncare grecească, o atmosferă nepretențioasă și momente frumoase petrecute aproape de mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/thalassa-taverna3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-taverna/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}
