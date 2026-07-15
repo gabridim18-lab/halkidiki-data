@@ -1,0 +1,161 @@
+{
+  "id": "shenanigans-irish-bar",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-pefkochori",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Shenanigans Irish Bar",
+  "titleRo": "Shenanigans Irish Bar",
+  "displayAddress": "Pefkochori, 630 85, Greece",
+  "gpsCoordinates": "39.99097973169305, 23.61221625502108",
+  "lat": 39.99097973169305,
+  "lon": 23.61221625502108,
+  "openingHoursRaw": "Wednesday\n\t\n\n    12 pm–2 am\n\n\t\nThursday\n\t\n\n    12 pm–2 am\n\n\t\nFriday\n\t\n\n    12 pm–2 am\n\n\t\nSaturday\n\t\n\n    12 pm–2 am\n\n\t\nSunday\n\t\n\n    12 pm–2 am\n\n\t\nMonday\n\t\n\n    12 pm–2 am\n\n\t\nTuesday\n\t\n\n    12 pm–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–02:00; Tuesday: 12:00–02:00; Wednesday: 12:00–02:00; Thursday: 12:00–02:00; Friday: 12:00–02:00; Saturday: 12:00–02:00; Sunday: 12:00–02:00",
+  "hoursRo": "Luni: 12:00–02:00; Marți: 12:00–02:00; Miercuri: 12:00–02:00; Joi: 12:00–02:00; Vineri: 12:00–02:00; Sâmbătă: 12:00–02:00; Duminică: 12:00–02:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306989936144",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Shenanigans Irish Bar brings the welcoming spirit of an authentic Irish pub to Pefkochori, only a short distance from the sea and the village pier. It is an easy-going place to enjoy a cold beer, a cocktail or a lively evening with friends in a cheerful and informal setting.\n\nThe drinks selection includes Irish favourites such as draught Guinness and Kilkenny, alongside cider, wine, cocktails and a broad range of spirits. Pub-style snacks are also available, with vegetarian and gluten-free choices listed among the options.\n\nFootball, rugby and other sporting events are shown on the pub’s screens, while quiz evenings and darts add a playful, sociable character to the experience. Activity schedules may change throughout the season, so checking the latest programme before visiting can be helpful.\n\nShenanigans is a great choice for anyone looking for good drinks, live sport, friendly games and the warm social atmosphere of an Irish pub in the heart of Pefkochori.",
+  "descriptionRo": "Shenanigans Irish Bar aduce în Pefkochori atmosfera autentică și primitoare a unui pub irlandez, la doar câțiva pași de mare și de ponton. Este un loc relaxat, potrivit pentru o bere rece, un cocktail sau o seară petrecută alături de prieteni, într-un cadru vesel și lipsit de formalități.\n\nSelecția de băuturi include beri irlandeze precum Guinness și Kilkenny, cidru, vinuri, cocktailuri și numeroase băuturi spirtoase. Experiența este completată de gustări în stil pub, iar în meniu pot fi disponibile și variante vegetariene sau fără gluten.\n\nMeciurile de fotbal, rugby și alte competiții sportive sunt urmărite pe ecranele localului, în timp ce serile de quiz și jocurile de darts adaugă o notă distractivă și încurajează o atmosferă prietenoasă între oaspeți. Programul acestor activități poate varia în funcție de sezon, așa că merită verificat înaintea vizitei.\n\nShenanigans este o alegere inspirată pentru cei care caută o seară relaxată, băuturi bune, sport, jocuri și spiritul convivial al unui pub irlandez, chiar în inima stațiunii Pefkochori.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

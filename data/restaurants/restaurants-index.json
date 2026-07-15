@@ -4689,5 +4689,24 @@
     "shortRo": "La Tortuga Seaside Bar aduce energia verii chiar pe malul mării din Pefkochori. Cu o atmosferă relaxată în timpul zilei și un ritm mai...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "shenanigans-irish-bar",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-pefkochori",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Shenanigans Irish Bar",
+    "titleRo": "Shenanigans Irish Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shenanigans-irish-bar/images/shenanigans-irish-bar-hero.webp",
+    "lat": 39.99097973169305,
+    "lon": 23.61221625502108,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Shenanigans Irish Bar brings the welcoming spirit of an authentic Irish pub to Pefkochori, only a short distance from the sea and the...",
+    "shortRo": "Shenanigans Irish Bar aduce în Pefkochori atmosfera autentică și primitoare a unui pub irlandez, la doar câțiva pași de mare și de...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
