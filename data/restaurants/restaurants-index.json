@@ -4588,5 +4588,24 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "octo-seaside",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-pefkochori",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Octo SeaSide",
+    "titleRo": "Octo SeaSide",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside-hero.webp",
+    "lat": 39.984277203925714,
+    "lon": 23.63340755577113,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "**Octo Seaside Bar Restaurant** is where Mediterranean flavours, the sea breeze and the relaxed spirit of summer come together to...",
+    "shortRo": "**Octo Seaside Bar Restaurant** este locul în care aromele mediteraneene, briza mării și atmosfera relaxată de vacanță se întâlnesc...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]

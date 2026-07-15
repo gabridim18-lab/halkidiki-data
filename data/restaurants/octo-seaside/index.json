@@ -1,0 +1,173 @@
+{
+  "id": "octo-seaside",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-pefkochori",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Octo SeaSide",
+  "titleRo": "Octo SeaSide",
+  "displayAddress": "Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.984277203925714, 23.63340755577113",
+  "lat": 39.984277203925714,
+  "lon": 23.63340755577113,
+  "openingHoursRaw": "Wednesday\n\t\n\n    1 am–10 pm\n\n\t\nThursday\n\t\n\n    1 am–10 pm\n\n\t\nFriday\n\t\n\n    1 am–10 pm\n\n\t\nSaturday\n\t\n\n    1–10 pm\n\n\t\nSunday\n\t\n\n    1–10 pm\n\n\t\nMonday\n\t\n\n    1 am–10 pm\n\n\t\nTuesday\n\t\n\n    1 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "01:00",
+      "close": "22:00",
+      "labelEn": "01:00–22:00",
+      "labelRo": "01:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "01:00",
+      "close": "22:00",
+      "labelEn": "01:00–22:00",
+      "labelRo": "01:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "01:00",
+      "close": "22:00",
+      "labelEn": "01:00–22:00",
+      "labelRo": "01:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "01:00",
+      "close": "22:00",
+      "labelEn": "01:00–22:00",
+      "labelRo": "01:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "01:00",
+      "close": "22:00",
+      "labelEn": "01:00–22:00",
+      "labelRo": "01:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 01:00–22:00; Tuesday: 01:00–22:00; Wednesday: 01:00–22:00; Thursday: 01:00–22:00; Friday: 01:00–22:00; Saturday: 13:00–22:00; Sunday: 13:00–22:00",
+  "hoursRo": "Luni: 01:00–22:00; Marți: 01:00–22:00; Miercuri: 01:00–22:00; Joi: 01:00–22:00; Vineri: 01:00–22:00; Sâmbătă: 13:00–22:00; Duminică: 13:00–22:00",
+  "website": "https://www.makosuites.com/mako-bar",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306970592577",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "**Octo Seaside Bar Restaurant** is where Mediterranean flavours, the sea breeze and the relaxed spirit of summer come together to create a memorable dining experience. Located in Pefkochori, within the Mako Sea & Suites complex, the restaurant offers a modern interpretation of Greek and Mediterranean cuisine, with a special focus on fresh fish and seafood.\n\nFresh local ingredients, creative combinations and carefully presented dishes make every meal feel special. Complete your experience with a refreshing cocktail while enjoying the sea views, the warm colours of the sunset and the vibrant summer atmosphere of Halkidiki.\n\nOcto is a wonderful choice for a relaxing seaside lunch, a romantic dinner or a beautiful evening shared with family and friends.",
+  "descriptionRo": "**Octo Seaside Bar Restaurant** este locul în care aromele mediteraneene, briza mării și atmosfera relaxată de vacanță se întâlnesc într-o experiență memorabilă. Situat în Pefkochori, în cadrul complexului Mako Sea & Suites, restaurantul propune preparate moderne inspirate din bucătăria grecească și mediteraneeană, cu un accent special pe pește și fructe de mare.\n\nIngredientele locale proaspete, combinațiile creative și prezentarea atentă transformă fiecare masă într-un moment special. Completează experiența cu un cocktail răcoritor și bucură-te de priveliștea mării, de lumina apusului și de atmosfera vibrantă a verilor din Halkidiki.\n\nOcto este alegerea potrivită pentru un prânz relaxant lângă plajă, o cină romantică sau o seară frumoasă petrecută alături de familie și prieteni.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/octo-seaside4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/octo-seaside/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Late-night food\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}
