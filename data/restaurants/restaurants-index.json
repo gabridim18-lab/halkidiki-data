@@ -4733,5 +4733,37 @@
       "sunset_view"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "fiki-beach",
+    "zone": "Kassandra",
+    "beachSlug": "pefkochori-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Fiki Beach",
+    "titleRo": "Fiki Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach-hero.webp",
+    "lat": 39.99217327157275,
+    "lon": 23.607022088437198,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Fiki Beach & Restaurant is an elegant beachfront venue in Pefkochori, where the relaxed feeling of a day by the sea meets flavourful...",
+    "shortRo": "Fiki Beach & Restaurant este un beach bar elegant din Pefkochori, unde atmosfera relaxată a unei zile la mare se îmbină cu preparate...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

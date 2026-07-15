@@ -1,0 +1,220 @@
+{
+  "id": "fiki-beach",
+  "zone": "Kassandra",
+  "beachSlug": "pefkochori-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Fiki Beach",
+  "titleRo": "Fiki Beach",
+  "displayAddress": "Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.99217327157275, 23.607022088437198",
+  "lat": 39.99217327157275,
+  "lon": 23.607022088437198,
+  "openingHoursRaw": "Wednesday\n\t\n\n    10 am–1 am\n\n\t\nThursday\n\t\n\n    10 am–1 am\n\n\t\nFriday\n\t\n\n    10 am–1 am\n\n\t\nSaturday\n\t\n\n    10 am–1 am\n\n\t\nSunday\n\t\n\n    10 am–1 am\n\n\t\nMonday\n\t\n\n    10 am–1 am\n\n\t\nTuesday\n\t\n\n    10 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:00",
+      "labelEn": "10:00–01:00",
+      "labelRo": "10:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–01:00; Tuesday: 10:00–01:00; Wednesday: 10:00–01:00; Thursday: 10:00–01:00; Friday: 10:00–01:00; Saturday: 10:00–01:00; Sunday: 10:00–01:00",
+  "hoursRo": "Luni: 10:00–01:00; Marți: 10:00–01:00; Miercuri: 10:00–01:00; Joi: 10:00–01:00; Vineri: 10:00–01:00; Sâmbătă: 10:00–01:00; Duminică: 10:00–01:00",
+  "website": "https://www.fikipefkohori.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306979222667",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Fiki Beach & Restaurant is an elegant beachfront venue in Pefkochori, where the relaxed feeling of a day by the sea meets flavourful food, creative cocktails and memorable summer evenings. Golden sand, clear water, comfortable sunbeds and a bright seaside setting make it an inviting choice for a few peaceful hours or an entire day on the beach. As the sun begins to set, the atmosphere becomes livelier, with beautiful Aegean views adding to the experience.\n\nThe menu features classic cocktails and house creations, alcohol-free drinks and a selection of beach-friendly dishes, including salads, sandwiches, burgers and warm snacks. Guests can also choose to enjoy a more relaxed meal in the restaurant area close to the sea.\n\nBooking is recommended for both restaurant tables and beach beds, particularly at weekends and during the busiest summer months. The venue accepts requests for either the beach or restaurant area, while sunbed arrangements and any applicable minimum-spend conditions may change depending on the season and the selected area.\n\nParking options are available in the surrounding area, including nearby street parking, although spaces cannot be guaranteed during peak periods. For a full beach day, arriving close to opening time, at approximately 10:00–10:30 AM, will generally offer a better chance of finding convenient parking and a preferred place on the beach. This is a practical recommendation based on the publicly listed opening time and the venue’s popularity, rather than an official rule.\n\nFamilies travelling with very young children may wish to mention this when making a reservation. Because of the seaside layout, the venue may suggest or allocate a seating area considered more suitable for the comfort and safety of the group.",
+  "descriptionRo": "Fiki Beach & Restaurant este un beach bar elegant din Pefkochori, unde atmosfera relaxată a unei zile la mare se îmbină cu preparate gustoase, cocktailuri creative și seri pline de farmec. Nisipul auriu, apa limpede, șezlongurile confortabile și decorul luminos creează cadrul potrivit pentru câteva ore de relaxare sau pentru o zi întreagă petrecută pe plajă. Pe măsură ce soarele coboară, locația capătă o energie mai vibrantă, iar priveliștea apusului completează experiența de la malul Mării Egee.\n\nMeniul include cocktailuri clasice și creații proprii, băuturi fără alcool și preparate potrivite pentru plajă, de la salate și sandvișuri până la burgeri și gustări calde. Restaurantul oferă și opțiuni pentru cei care preferă să ia masa într-un cadru mai liniștit, aproape de mare.\n\nPentru șezlonguri sau pentru o masă la restaurant este recomandată rezervarea, mai ales în weekend și în lunile aglomerate de vară. Locația acceptă solicitări atât pentru zona de plajă, cât și pentru restaurant, iar condițiile de utilizare a șezlongurilor sau eventualul consum minim pot varia în funcție de sezon și de poziția aleasă.\n\nÎn apropiere există posibilități de parcare, inclusiv pe străzile din zonă, însă disponibilitatea nu este garantată în perioadele foarte aglomerate. Pentru o zi pe plajă, sosirea în jurul orei de deschidere, aproximativ 10:00–10:30, oferă de regulă șanse mai bune de a găsi atât parcare, cât și un loc convenabil pe plajă. Aceasta este o recomandare practică bazată pe programul public și pe popularitatea locației, nu o regulă oficială.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/fiki-beach6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/fiki-beach/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    On-site services\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n    Live music\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list",
+    "Live music"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "70Euro front sunbeds, 50 second and third row, 40 Euro from the forth row",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge",
+    "live_music"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
