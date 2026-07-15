@@ -1,0 +1,192 @@
+{
+  "id": "los-hermanos",
+  "zone": "Kassandra",
+  "beachSlug": "pefkochori-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Los Hermanos",
+  "titleRo": "Los Hermanos",
+  "displayAddress": "Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.99208103212494, 23.607154184461468",
+  "lat": 39.99208103212494,
+  "lon": 23.607154184461468,
+  "openingHoursRaw": "Wednesday\n\t\n\n    10 am–2 am\n\n\t\nThursday\n\t\n\n    10 am–2 am\n\n\t\nFriday\n\t\n\n    10 am–2 am\n\n\t\nSaturday\n\t\n\n    10 am–2 am\n\n\t\nSunday\n\t\n\n    10 am–2 am\n\n\t\nMonday\n\t\n\n    10 am–2 am\n\n\t\nTuesday\n\t\n\n    10 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–02:00; Tuesday: 10:00–02:00; Wednesday: 10:00–02:00; Thursday: 10:00–02:00; Friday: 10:00–02:00; Saturday: 10:00–02:00; Sunday: 10:00–02:00",
+  "hoursRo": "Luni: 10:00–02:00; Marți: 10:00–02:00; Miercuri: 10:00–02:00; Joi: 10:00–02:00; Vineri: 10:00–02:00; Sâmbătă: 10:00–02:00; Duminică: 10:00–02:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/Los-Hermanos-%CE%9B%CE%BF%CF%82-%CE%95%CF%81%CE%BC%CE%AC%CE%BD%CE%BF%CF%82-342882449462060/",
+  "instagram": "",
+  "phone": "+302374062657",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Los Hermanos Beach Bar brings a colourful, Mexican-inspired atmosphere to the beach of Pefkochori. Exotic details, cactus-themed décor, laid-back music and a setting close to the sea create a distinctive summer oasis, ideal for spending a relaxing day in the sun.\n\nSignature cocktails are at the heart of the experience, alongside cold beer, coffee, refreshing drinks and light beach-friendly dishes such as salads and sandwiches. Outdoor seating and comfortable sunbeds provide an inviting place to unwind, while the music maintains an easy-going and carefree holiday mood.\n\nArriving earlier may be helpful during busy periods, as the publicly available information indicates that seating is generally offered on a first-come, first-served basis. Sunbed conditions may change between seasons, so confirming the current arrangement upon arrival is advisable. The venue is also listed as offering parking, wheelchair access and a dog-friendly environment.\n\nLos Hermanos is a great choice for creative cocktails, original décor, relaxing music and a beach day filled with colourful Mexican-inspired summer vibes.",
+  "descriptionRo": "Los Hermanos Beach Bar aduce pe plaja din Pefkochori o atmosferă colorată, inspirată de energia și decorurile Mexicului. Accentele exotice, elementele cu cactuși, muzica relaxantă și apropierea de mare creează o adevărată oază de vară, potrivită pentru ore liniștite petrecute la soare.\n\nCocktailurile distinctive sunt în centrul experienței, alături de bere rece, cafea, băuturi răcoritoare și gustări potrivite pentru o zi pe plajă, precum salate, sandvișuri și alte preparate ușoare. Zona exterioară și șezlongurile oferă un cadru confortabil pentru relaxare, în timp ce muzica păstrează atmosfera plăcută și lipsită de griji.\n\nÎn perioadele aglomerate, este recomandată sosirea mai devreme, deoarece informațiile publice ale locației indică un sistem bazat pe ordinea sosirii, fără garantarea prealabilă a locurilor. Condițiile de utilizare a șezlongurilor se pot modifica de la un sezon la altul, așa că este util să fie confirmate la sosire. Locația este listată cu parcare, acces pentru scaune rulante și posibilitatea de a veni însoțit de animale de companie.\n\nLos Hermanos este alegerea potrivită pentru cei care caută cocktailuri creative, decor original, muzică relaxantă și o zi de plajă cu o notă tropicală și mexicană.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/los-hermanos4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/los-hermanos/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Healthy options\n    Quick bite\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Lunch\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n    University students\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    On-site parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed outside",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Healthy options",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space",
+    "University students"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "On-site parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "20Euro each sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": []
+}
