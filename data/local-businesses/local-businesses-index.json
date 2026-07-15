@@ -245,5 +245,20 @@
     "lon": 23.6471960925672,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "splash-water",
+    "type": "local_business",
+    "titleEn": "Splash Water",
+    "category": "Water park",
+    "beaches": [
+      "paralia-pefkochori",
+      "pefkochori-beach",
+      "hanioti-beach"
+    ],
+    "lat": 39.99239922237235,
+    "lon": 23.607438178441186,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

@@ -1,0 +1,39 @@
+{
+  "id": "splash-water",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "paralia-pefkochori",
+    "pefkochori-beach",
+    "hanioti-beach"
+  ],
+  "titleEn": "Splash Water",
+  "titleRo": "Splash Water",
+  "categoryEn": "Water park",
+  "categoryRo": "Water park",
+  "phone": "+306970520283",
+  "whatsapp": "+306970520283",
+  "website": "https://splashpefkohori.gr/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Pefkochori 630 85, Greece",
+  "lat": 39.99239922237235,
+  "lon": 23.607438178441186,
+  "coordinates": {
+    "lat": 39.99239922237235,
+    "lng": 23.607438178441186
+  },
+  "hours": {
+    "en": "Daily: 10:00 - 20:00",
+    "ro": "Zilnic: 10:00 - 20:00"
+  },
+  "descriptionEn": "Splash Water Park Pefkohori turns an ordinary beach day into an energetic adventure filled with laughter, movement and exciting challenges on the water. Located in the sea beside Pefkochori Beach, the inflatable park features obstacle courses and areas designed for climbing, sliding and balancing, making it an entertaining choice for families, groups of friends and outdoor adventure lovers.\n\nActivities are supervised by trained staff, and the equipment is regularly inspected. Visitors must be able to swim and are required to wear a life jacket while using the park. Children aged 12 and over may enter without an escort, while those between 6 and 11 must be accompanied by an adult; one adult may supervise a maximum of two children.\n\nWatches, jewellery and sharp objects should be left in a secure place before entering, as they could cause injuries or damage the inflatable equipment. The activity is not suitable during pregnancy or for visitors with certain medical conditions, and the instructions provided by the staff should always be followed.",
+  "descriptionRo": "Splash Water Park Pefkohori transformă o zi obișnuită la plajă într-o aventură plină de energie, râsete și provocări pe apă. Amplasat în mare, lângă plaja din Pefkochori, parcul gonflabil oferă trasee cu obstacole, zone pentru cățărare, alunecare și echilibru, fiind o alegere distractivă pentru familii, grupuri de prieteni și iubitorii activităților în aer liber.\n\nActivitățile sunt supravegheate de personal pregătit, iar echipamentul este verificat periodic. Participanții trebuie să știe să înoate și să poarte vestă de salvare pe durata activității. Copiii care au împlinit 12 ani pot intra fără însoțitor, iar cei cu vârste între 6 și 11 ani trebuie însoțiți de un adult; un adult poate supraveghea cel mult doi copii.\n\nÎnainte de intrarea în parc, ceasurile, bijuteriile și obiectele ascuțite trebuie lăsate într-un loc sigur, pentru a evita accidentările sau deteriorarea structurilor gonflabile. Activitatea nu este potrivită în timpul sarcinii sau pentru persoanele cu anumite probleme de sănătate, iar indicațiile personalului trebuie respectate pe tot parcursul experienței.\n\nSplash Water Park este o alegere inspirată pentru cei care vor să combine marea și soarele cu mișcare, aventură și momente memorabile petrecute împreună în Pefkochori.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
