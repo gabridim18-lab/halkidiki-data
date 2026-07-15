@@ -4670,5 +4670,24 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "la-tortuga",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-pefkochori",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "La Tortuga Cocktail bar",
+    "titleRo": "La Tortuga Cocktail bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga-hero.webp",
+    "lat": 39.989524217621295,
+    "lon": 23.61658933528855,
+    "rating": 4.1,
+    "price": "$$",
+    "shortEn": "La Tortuga Seaside Bar brings the energy of summer directly to the waterfront of Pefkochori. Relaxed during the daytime and more...",
+    "shortRo": "La Tortuga Seaside Bar aduce energia verii chiar pe malul mării din Pefkochori. Cu o atmosferă relaxată în timpul zilei și un ritm mai...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]

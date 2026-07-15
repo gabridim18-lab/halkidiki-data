@@ -1,0 +1,169 @@
+{
+  "id": "la-tortuga",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-pefkochori",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "La Tortuga Cocktail bar",
+  "titleRo": "La Tortuga Cocktail bar",
+  "displayAddress": "Παραλία Πευκοχωρίου, Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.989524217621295, 23.61658933528855",
+  "lat": 39.989524217621295,
+  "lon": 23.61658933528855,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9 am–3 am\n\n\t\nThursday\n\t\n\n    9 am–3 am\n\n\t\nFriday\n\t\n\n    9 am–3 am\n\n\t\nSaturday\n\t\n\n    9 am–3 am\n\n\t\nSunday\n\t\n\n    9 am–3 am\n\n\t\nMonday\n\t\n\n    9 am–3 am\n\n\t\nTuesday\n\t\n\n    9 am–3 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–03:00; Tuesday: 09:00–03:00; Wednesday: 09:00–03:00; Thursday: 09:00–03:00; Friday: 09:00–03:00; Saturday: 09:00–03:00; Sunday: 09:00–03:00",
+  "hoursRo": "Luni: 09:00–03:00; Marți: 09:00–03:00; Miercuri: 09:00–03:00; Joi: 09:00–03:00; Vineri: 09:00–03:00; Sâmbătă: 09:00–03:00; Duminică: 09:00–03:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306946639178",
+  "price": "$$",
+  "rating": 4.1,
+  "descriptionEn": "La Tortuga Seaside Bar brings the energy of summer directly to the waterfront of Pefkochori. Relaxed during the daytime and more vibrant as evening arrives, it is an inviting place to enjoy a refreshing cocktail while taking in the colours of the sea and the coastal charm of Halkidiki.\n\nExotic touches, outdoor seating and carefully selected music create a welcoming setting for meeting friends, unwinding or spending an evening close to the waves. From a peaceful break during a walk along the promenade to a lively night filled with music and good company, La Tortuga captures the carefree spirit of a Mediterranean summer.\n\nFor an evening visit, particularly during busy summer periods, checking table availability in advance may make the experience more convenient, as reservations are listed among the available services.",
+  "descriptionRo": "La Tortuga Seaside Bar aduce energia verii chiar pe malul mării din Pefkochori. Cu o atmosferă relaxată în timpul zilei și un ritm mai vibrant odată cu venirea serii, este locul potrivit pentru a savura un cocktail răcoritor, admirând culorile mării și farmecul litoralului din Halkidiki.\n\nDecorul cu accente exotice, spațiul în aer liber și muzica atent aleasă creează un cadru plăcut pentru întâlniri cu prietenii, momente de relaxare sau seri petrecute aproape de valuri. De la o pauză liniștită în timpul unei plimbări pe faleză până la o noapte cu muzică și voie bună, La Tortuga păstrează atmosfera lipsită de griji a vacanțelor de vară.\n\nPentru vizitele de seară, în special în perioadele aglomerate, verificarea disponibilității unei mese în avans poate face experiența mai comodă, locația oferind și posibilitatea rezervării.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/la-tortuga4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-tortuga/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Delivery\n    Drive-through\n    On-site services\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nParking\n\n    Free of charge street parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Drive-through",
+    "On-site services",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}
