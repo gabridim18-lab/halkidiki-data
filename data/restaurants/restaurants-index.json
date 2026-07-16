@@ -5032,5 +5032,35 @@
     "shortRo": "Mourmoura Sea Food Restaurant este un restaurant elegant amplasat direct pe plaja din Polychrono, unde preparatele mediteraneene pot...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "en-plo",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "En Plo",
+    "titleRo": "En Plo",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo-hero.webp",
+    "lat": 40.018192016591,
+    "lon": 23.52822340930643,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "En Plo is a Greek and Mediterranean seaside taverna located close to the beach in the centre of Polychrono. Its relaxed atmosphere,...",
+    "shortRo": "En Plo este o tavernă cu specific grecesc și mediteraneean, amplasată aproape de mare, în centrul stațiunii Polychrono. Atmosfera...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

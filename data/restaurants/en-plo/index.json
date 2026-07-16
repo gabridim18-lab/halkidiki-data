@@ -1,0 +1,207 @@
+{
+  "id": "en-plo",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "En Plo",
+  "titleRo": "En Plo",
+  "displayAddress": "Χαλκιδικής, Polichrono 630 85, Greece",
+  "gpsCoordinates": "40.018192016591, 23.52822340930643",
+  "lat": 40.018192016591,
+  "lon": 23.52822340930643,
+  "openingHoursRaw": "Friday\n\t\n\n    9:30 am–12:30 am\n\n\t\nSaturday\n\t\n\n    9:30 am–12:30 am\n\n\t\nSunday\n\t\n\n    9:30 am–12:30 am\n\n\t\nMonday\n\t\n\n    9:30 am–12:30 am\n\n\t\nTuesday\n\t\n\n    9:30 am–12:30 am\n\n\t\nWednesday\n\t\n\n    9:30 am–12:30 am\n\n\t\nThursday\n\t\n\n    9:30 am–12:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "00:30",
+      "labelEn": "09:30–00:30",
+      "labelRo": "09:30–00:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "00:30",
+      "labelEn": "09:30–00:30",
+      "labelRo": "09:30–00:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "00:30",
+      "labelEn": "09:30–00:30",
+      "labelRo": "09:30–00:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "00:30",
+      "labelEn": "09:30–00:30",
+      "labelRo": "09:30–00:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "00:30",
+      "labelEn": "09:30–00:30",
+      "labelRo": "09:30–00:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "00:30",
+      "labelEn": "09:30–00:30",
+      "labelRo": "09:30–00:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "00:30",
+      "labelEn": "09:30–00:30",
+      "labelRo": "09:30–00:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–00:30; Tuesday: 09:30–00:30; Wednesday: 09:30–00:30; Thursday: 09:30–00:30; Friday: 09:30–00:30; Saturday: 09:30–00:30; Sunday: 09:30–00:30",
+  "hoursRo": "Luni: 09:30–00:30; Marți: 09:30–00:30; Miercuri: 09:30–00:30; Joi: 09:30–00:30; Vineri: 09:30–00:30; Sâmbătă: 09:30–00:30; Duminică: 09:30–00:30",
+  "website": "",
+  "facebook": "https://m.facebook.com/EnploPolichrono/?tsid=0.42385410589082406&source=result",
+  "instagram": "",
+  "phone": "+306985992888",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "En Plo is a Greek and Mediterranean seaside taverna located close to the beach in the centre of Polychrono. Its relaxed atmosphere, outdoor seating and sunset views create an inviting setting for a casual lunch or a summer dinner near the water.\n\nThe menu features fish and seafood, calamari, octopus, prawns, seafood pasta, salads and traditional Greek dishes. Available public feedback particularly highlights the authentic Greek flavours, fresh food, friendly service, good value and pleasant seaside setting.\n\nCurrent public listings show opening hours of approximately 9:00 AM–midnight, and reservations are accepted. Booking ahead may be helpful for sunset dinners, weekends and the busiest weeks of July and August. I could not confirm dedicated private parking, so arriving slightly earlier and allowing extra time to find nearby street parking is advisable. Opening hours should be reconfirmed during the season.",
+  "descriptionRo": "En Plo este o tavernă cu specific grecesc și mediteraneean, amplasată aproape de mare, în centrul stațiunii Polychrono. Atmosfera simplă și prietenoasă, mesele în aer liber și priveliștea către apus creează un cadru plăcut pentru un prânz relaxat sau o cină de vară lângă plajă.\n\nMeniul include pește și fructe de mare, calamari, caracatiță, creveți, paste cu fructe de mare, salate și preparate grecești tradiționale. Feedbackul public disponibil apreciază în special mâncarea grecească autentică, prospețimea preparatelor, servirea prietenoasă, raportul calitate-preț și cadrul de lângă mare.\n\nProgramul publicat în prezent este aproximativ 09:00–00:00, iar locația acceptă rezervări. Pentru o cină la apus, în weekend sau în lunile iulie și august, rezervarea în avans poate fi utilă. Nu am putut confirma existența unei parcări proprii, astfel că este recomandat să ajungi puțin mai devreme și să aloci timp pentru găsirea unui loc pe străzile din apropiere. Programul trebuie reconfirmat sezonier.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/en-plo3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/en-plo/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    All you can eat\n    Beer\n    Cocktails\n    Coffee\n    Happy-hour drinks\n    Happy-hour food\n    Late-night food\n    Organic dishes\n    Private dining room\n    Quick bite\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Difficult to find a space\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "All you can eat",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Happy-hour drinks",
+    "Happy-hour food",
+    "Late-night food",
+    "Organic dishes",
+    "Private dining room",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Difficult to find a space"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
