@@ -290,5 +290,21 @@
     "lon": 23.599221683381348,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "skiboard",
+    "type": "local_business",
+    "titleEn": "Skiboard",
+    "category": "Watersports",
+    "beaches": [
+      "paralia-pefkochori",
+      "pefkochori-beach",
+      "hanioti-beach",
+      "polychrono-beach"
+    ],
+    "lat": 39.99939785721675,
+    "lon": 23.583617978447986,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

@@ -1,0 +1,40 @@
+{
+  "id": "skiboard",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "paralia-pefkochori",
+    "pefkochori-beach",
+    "hanioti-beach",
+    "polychrono-beach"
+  ],
+  "titleEn": "Skiboard",
+  "titleRo": "Skiboard",
+  "categoryEn": "Watersports",
+  "categoryRo": "Watersports",
+  "phone": "+306944845584",
+  "whatsapp": "+306944845584",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "ΧΑΝΙΩΤΗ, Χανιώτη 630 85, Greece",
+  "lat": 39.99939785721675,
+  "lon": 23.583617978447986,
+  "coordinates": {
+    "lat": 39.99939785721675,
+    "lng": 23.583617978447986
+  },
+  "hours": {
+    "en": "Monday: 10:00–19:30\nTuesday: 10:00–19:30\nWednesday: 10:00–19:30\nThursday: 10:00–19:30\nFriday: 10:00–19:30\nSaturday: 10:00–19:30\nSunday: 10:00–19:30",
+    "ro": "Luni: 10:00–19:30\nMarți: 10:00–19:30\nMiercuri: 10:00–19:30\nJoi: 10:00–19:30\nVineri: 10:00–19:30\nSâmbătă: 10:00–19:30\nDuminică: 10:00–19:30"
+  },
+  "descriptionEn": "Skiboard Watersports Chanioti, also known as Axinos Watersports by SkiBoard, is a great option for adding adventure and adrenaline to a beach day in Hanioti. Activities promoted by the centre include jet skiing, waterskiing, wakeboarding, banana and inflatable rides, canoeing and pedal boats, with equipment and guidance suitable for both beginners and more experienced visitors.\n\nChecking availability ahead is advisable for waterskiing, wakeboarding and jet-ski sessions during July and August. Morning visits may offer calmer conditions for beginners, although all activities remain dependent on the wind and sea conditions on the day.\n\nI could not confirm current official opening hours or a dedicated private parking area. Allowing some additional time for public parking in Hanioti and arriving shortly before the agreed session is therefore recommended for the safety briefing and equipment preparation.",
+  "descriptionRo": "Skiboard Watersports Chanioti, cunoscut și ca Axinos Watersports by SkiBoard, este o alegere potrivită pentru cei care vor să adauge puțină adrenalină unei zile petrecute pe plaja din Hanioti. Activitățile promovate includ jet ski, schi nautic, wakeboard, plimbări cu banana și colaci gonflabili, canoe și hidrobiciclete, cu echipamente și îndrumare disponibile inclusiv pentru începători.\n\nPentru schi nautic, wakeboard sau jet ski, este indicat să verifici disponibilitatea în avans în lunile iulie și august. Dimineața poate fi o alegere mai bună pentru începători, când marea este adesea mai liniștită, însă desfășurarea activităților depinde întotdeauna de vânt și de condițiile din ziua respectivă.\n\nNu am putut confirma un program oficial actualizat sau existența unei parcări proprii. Este recomandat să aloci timp suplimentar pentru parcarea publică din Hanioti și să ajungi cu puțin înainte de ora stabilită, pentru instructaj și pregătirea echipamentului.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
