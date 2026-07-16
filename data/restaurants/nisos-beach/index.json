@@ -1,0 +1,149 @@
+{
+  "id": "nisos-beach",
+  "zone": "Kassandra",
+  "beachSlug": "hanioti-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Nisos Beach",
+  "titleRo": "Nisos Beach",
+  "displayAddress": "Nisos Beach, Chaniotis 630 85, Greece",
+  "gpsCoordinates": "39.999564541135, 23.581983076485283",
+  "lat": 39.999564541135,
+  "lon": 23.581983076485283,
+  "openingHoursRaw": "Friday\n\t\n\n    10 am–7 pm\n\n\t\nSaturday\n\t\n\n    10 am–7 pm\n\n\t\nSunday\n\t\n\n    10 am–7 pm\n\n\t\nMonday\n\t\n\n    10 am–7 pm\n\n\t\nTuesday\n\t\n\n    10 am–7 pm\n\n\t\nWednesday\n\t\n\n    10 am–7 pm\n\n\t\nThursday\n\t\n\n    10 am–7 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "19:00",
+      "labelEn": "10:00–19:00",
+      "labelRo": "10:00–19:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–19:00; Tuesday: 10:00–19:00; Wednesday: 10:00–19:00; Thursday: 10:00–19:00; Friday: 10:00–19:00; Saturday: 10:00–19:00; Sunday: 10:00–19:00",
+  "hoursRo": "Luni: 10:00–19:00; Marți: 10:00–19:00; Miercuri: 10:00–19:00; Joi: 10:00–19:00; Vineri: 10:00–19:00; Sâmbătă: 10:00–19:00; Duminică: 10:00–19:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/nisos_beach_halkidiki?igsh=MWRpZGpyZWJ0YjhmYg==",
+  "phone": "+306970520345",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Nisos Beach Halkidiki is a stylish beach club in Hanioti, featuring comfortable sunbeds, private cabanas, a pool, a restaurant and cocktails served in a modern seaside setting. The atmosphere is relaxed during the day, while music and special events bring more energy later in the afternoon and evening.\n\nThe venue is particularly appreciated for its design, comfortable loungers, attentive staff and seafood dishes, including calamari and sushi. Sunbed arrangements and minimum-spend conditions may vary depending on the selected row and the season, so confirming the current terms when booking is advisable.\n\nBooking sunbeds ahead is recommended for weekends and during July and August. Arriving at around 10:00 AM generally offers a quieter experience and a better choice of places. I could not confirm a dedicated private parking area, so allowing a little extra time for access and parking is sensible.",
+  "descriptionRo": "Nisos Beach Halkidiki este un beach club elegant din Hanioti, cu șezlonguri confortabile, cabane, piscină, restaurant și cocktailuri servite într-un decor modern, chiar lângă mare. Atmosfera este relaxată în timpul zilei, iar muzica și evenimentele speciale aduc mai multă energie spre după-amiază și seară.\n\nLocația este apreciată în special pentru design, confort, personalul atent și preparatele din pește și fructe de mare, inclusiv calamari și sushi. Condițiile de utilizare a șezlongurilor și consumul minim pot varia în funcție de rând și de sezon, așa că este bine să fie confirmate la rezervare.\n\nÎn weekend și în lunile iulie–august, rezervarea șezlongurilor este recomandată. Pentru mai multă liniște și o alegere mai bună a locului, sosirea în jurul orei 10:00 este cea mai practică. Nu am găsit o confirmare actuală privind existența unei parcări proprii, astfel că este indicat să aloci puțin timp suplimentar pentru acces și parcare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/menu1.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Paid parking lot",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Paid parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "30Euro/sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": []
+}

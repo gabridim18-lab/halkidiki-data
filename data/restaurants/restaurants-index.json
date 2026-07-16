@@ -4869,5 +4869,31 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "nisos-beach",
+    "zone": "Kassandra",
+    "beachSlug": "hanioti-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Nisos Beach",
+    "titleRo": "Nisos Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nisos-beach/images/nisos-beach-hero.webp",
+    "lat": 39.999564541135,
+    "lon": 23.581983076485283,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Nisos Beach Halkidiki is a stylish beach club in Hanioti, featuring comfortable sunbeds, private cabanas, a pool, a restaurant and...",
+    "shortRo": "Nisos Beach Halkidiki este un beach club elegant din Hanioti, cu șezlonguri confortabile, cabane, piscină, restaurant și cocktailuri...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": []
   }
 ]
