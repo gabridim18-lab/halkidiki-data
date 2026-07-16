@@ -4895,5 +4895,38 @@
       "sunset_view"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "paparouna-cantina",
+    "zone": "Kassandra",
+    "beachSlug": "hanioti-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Paparouna Cantina",
+    "titleRo": "Paparouna Cantina",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina-hero.webp",
+    "lat": 40.00808489839987,
+    "lon": 23.55917786686585,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Paparouna Cantina is a simple and relaxed beach canteen, ideal for visitors looking for a quieter and less formal seaside atmosphere....",
+    "shortRo": "Paparouna Cantina este o cantină de plajă simplă și relaxată, potrivită pentru turiștii care preferă o atmosferă mai liniștită și mai...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]

@@ -1,0 +1,205 @@
+{
+  "id": "paparouna-cantina",
+  "zone": "Kassandra",
+  "beachSlug": "hanioti-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Paparouna Cantina",
+  "titleRo": "Paparouna Cantina",
+  "displayAddress": "Unnamed Road, Kassandra 630 85, Greece",
+  "gpsCoordinates": "40.00808489839987, 23.55917786686585",
+  "lat": 40.00808489839987,
+  "lon": 23.55917786686585,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–11 pm\n\n\t\nSaturday\n\t\n\n    9 am–11 pm\n\n\t\nSunday\n\t\n\n    9 am–11 pm\n\n\t\nMonday\n\t\n\n    9 am–11 pm\n\n\t\nTuesday\n\t\n\n    9 am–11 pm\n\n\t\nWednesday\n\t\n\n    9 am–11 pm\n\n\t\nThursday\n\t\n\n    9 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:00; Tuesday: 09:00–23:00; Wednesday: 09:00–23:00; Thursday: 09:00–23:00; Friday: 09:00–23:00; Saturday: 09:00–23:00; Sunday: 09:00–23:00",
+  "hoursRo": "Luni: 09:00–23:00; Marți: 09:00–23:00; Miercuri: 09:00–23:00; Joi: 09:00–23:00; Vineri: 09:00–23:00; Sâmbătă: 09:00–23:00; Duminică: 09:00–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306980326521",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Paparouna Cantina is a simple and relaxed beach canteen, ideal for visitors looking for a quieter and less formal seaside atmosphere. The beach offers organised sunbeds, while the canteen serves food and drinks for guests wishing to spend several hours beside the sea. Public travel impressions particularly mention the extra space between the loungers and the pleasant food.\n\nIt is an inviting option for families, couples and groups seeking an easy-going beach day, simple grill-style dishes and an authentic local atmosphere.\n\nI could not confirm current official opening hours, a reservation system or dedicated parking. During the busiest summer months, arriving earlier in the morning is a practical choice for finding a convenient beach spot and allowing additional time for parking.",
+  "descriptionRo": "Paparouna Cantina este o cantină de plajă simplă și relaxată, potrivită pentru turiștii care preferă o atmosferă mai liniștită și mai puțin formală. Plaja este amenajată cu șezlonguri, iar cantina oferă mâncare și băuturi pentru cei care vor să petreacă mai multe ore lângă mare. Unele impresii publice apreciază în special spațiul mai generos dintre șezlonguri și bucătăria locației.\n\nEste o alegere plăcută pentru familii, cupluri sau grupuri care caută o zi relaxată, cu preparate simple de tip grill și o atmosferă autentică de plajă.\n\nNu am putut confirma un program oficial actualizat, existența rezervărilor sau o parcare dedicată. În lunile aglomerate, sosirea în prima parte a dimineții este o recomandare practică pentru a găsi mai ușor un loc convenabil pe plajă și pentru a avea suficient timp pentru parcare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/paparouna-cantina4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paparouna-cantina/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Drive-through\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Live music\n    Live performances\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Food\n    Food at bar\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Lunch\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Drive-through",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Live music",
+    "Live performances"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Food",
+    "Food at bar",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "10Euro/sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}
