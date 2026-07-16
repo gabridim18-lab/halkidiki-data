@@ -4784,5 +4784,37 @@
     "shortRo": "Canela Restaurant by Blue Carpet oferă o experiență gastronomică elegantă chiar pe malul mării, în cadrul complexului Blue Carpet...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "agistri-beach",
+    "zone": "Kassandra",
+    "beachSlug": "pefkochori-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Agistri Beach",
+    "titleRo": "Agistri Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agistri-beach/images/agistri-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agistri-beach/images/agistri-beach-hero.webp",
+    "lat": 39.99408161337403,
+    "lon": 23.600501673261707,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Agistri Beach Bar Restaurant is an elegant seaside retreat where the relaxed feeling of a beach day meets Mediterranean dining and the...",
+    "shortRo": "Agistri Beach Bar Restaurant este un refugiu elegant la malul mării, unde atmosfera relaxată a unei zile de plajă se îmbină cu...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]

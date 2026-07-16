@@ -65,6 +65,206 @@ def slugify(text):
 
     return text.strip("-")
 
+
+DAY_ALIASES = {
+    "monday": 0, "mon": 0, "luni": 0, "lun": 0,
+    "tuesday": 1, "tue": 1, "tues": 1, "marti": 1, "marți": 1, "mar": 1,
+    "wednesday": 2, "wed": 2, "miercuri": 2, "mie": 2,
+    "thursday": 3, "thu": 3, "thur": 3, "thurs": 3, "joi": 3,
+    "friday": 4, "fri": 4, "vineri": 4, "vin": 4,
+    "saturday": 5, "sat": 5, "sambata": 5, "sâmbătă": 5, "sam": 5, "sâm": 5,
+    "sunday": 6, "sun": 6, "duminica": 6, "duminică": 6, "dum": 6,
+}
+
+DAY_NAMES_EN = [
+    "Monday", "Tuesday", "Wednesday", "Thursday",
+    "Friday", "Saturday", "Sunday"
+]
+
+DAY_NAMES_RO = [
+    "Luni", "Marți", "Miercuri", "Joi",
+    "Vineri", "Sâmbătă", "Duminică"
+]
+
+
+def parse_coordinates(raw_value):
+    """Extract latitude and longitude from a pasted pair or Google Maps URL."""
+
+    value = raw_value.strip().replace("−", "-")
+
+    patterns = [
+        r"@\s*(-?\d{1,2}(?:\.\d+)?)\s*,\s*(-?\d{1,3}(?:\.\d+)?)",
+        r"!3d\s*(-?\d{1,2}(?:\.\d+)?)\s*!4d\s*(-?\d{1,3}(?:\.\d+)?)",
+        r"(?:q|query|destination)=\s*(-?\d{1,2}(?:\.\d+)?)\s*%2C\s*(-?\d{1,3}(?:\.\d+)?)",
+        r"(?:q|query|destination)=\s*(-?\d{1,2}(?:\.\d+)?)\s*,\s*(-?\d{1,3}(?:\.\d+)?)",
+        r"(-?\d{1,2}(?:\.\d+)?)\s*[,;]\s*(-?\d{1,3}(?:\.\d+)?)",
+        r"(-?\d{1,2}(?:\.\d+)?)\s+(-?\d{1,3}(?:\.\d+)?)",
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, value, flags=re.IGNORECASE)
+
+        if not match:
+            continue
+
+        latitude = float(match.group(1))
+        longitude = float(match.group(2))
+
+        if -90 <= latitude <= 90 and -180 <= longitude <= 180:
+            return latitude, longitude
+
+    raise ValueError(
+        "Use coordinates like 40.123456, 23.123456 or paste a Google Maps link"
+    )
+
+
+def normalize_time_value(value):
+    """Normalize copied opening-hour values to a clean, compact format."""
+
+    value = value.strip()
+    value = value.replace("\u202f", " ").replace("\u00a0", " ")
+    value = re.sub(r"\s+", " ", value)
+
+    status_key = value.casefold().strip(" .")
+
+    closed_values = {
+        "closed", "inchis", "închis", "closed all day",
+        "inchis toata ziua", "închis toată ziua"
+    }
+    always_open_values = {
+        "open 24 hours", "open 24 hrs", "24 hours", "24 hrs", "24/7",
+        "deschis nonstop", "deschis non-stop", "nonstop", "non-stop"
+    }
+
+    if status_key in closed_values:
+        return "closed"
+
+    if status_key in always_open_values:
+        return "24h"
+
+    def convert_ampm(match):
+        hour = int(match.group(1))
+        minute = int(match.group(2) or 0)
+        meridiem = match.group(3).lower()
+
+        if meridiem == "pm" and hour != 12:
+            hour += 12
+        elif meridiem == "am" and hour == 12:
+            hour = 0
+
+        return f"{hour:02d}:{minute:02d}"
+
+    value = re.sub(
+        r"\b(\d{1,2})(?::(\d{2}))?\s*([ap]\.?m\.?)\b",
+        convert_ampm,
+        value,
+        flags=re.IGNORECASE
+    )
+
+    value = re.sub(
+        r"\b(\d):([0-5]\d)\b",
+        lambda match: f"0{match.group(1)}:{match.group(2)}",
+        value
+    )
+
+    value = re.sub(r"\s*(?:-|–|—|to|până la|pana la)\s*", "–", value, flags=re.IGNORECASE)
+    value = re.sub(r"\s*[,;]\s*", ", ", value)
+
+    return value.strip(" ,")
+
+
+def format_hours(raw_value):
+    """Create English and Romanian schedules from one pasted weekly program."""
+
+    value = raw_value.strip()
+
+    if not value:
+        return "", ""
+
+    value = value.replace("\r", "\n")
+    value = value.replace("\u202f", " ").replace("\u00a0", " ")
+
+    day_pattern = "|".join(
+        sorted((re.escape(day) for day in DAY_ALIASES), key=len, reverse=True)
+    )
+
+    # Handles copied text where all days arrive on a single line.
+    value = re.sub(
+        rf"(?i)(?<!^)(?<!\n)\s+(?=({day_pattern})\b\s*:?)",
+        "\n",
+        value
+    )
+
+    lines = [
+        re.sub(r"\s+", " ", line).strip()
+        for line in value.split("\n")
+        if line.strip()
+    ]
+
+    parsed = {}
+    extras = []
+    index = 0
+
+    while index < len(lines):
+        line = lines[index]
+        match = re.match(
+            rf"(?i)^({day_pattern})\b\s*:?\s*(.*)$",
+            line
+        )
+
+        if not match:
+            extras.append(normalize_time_value(line))
+            index += 1
+            continue
+
+        day_key = match.group(1).casefold()
+        day_index = DAY_ALIASES[day_key]
+        day_value = match.group(2).strip()
+
+        if not day_value and index + 1 < len(lines):
+            next_line = lines[index + 1]
+            next_is_day = re.match(rf"(?i)^({day_pattern})\b", next_line)
+
+            if not next_is_day:
+                day_value = next_line
+                index += 1
+
+        parsed[day_index] = normalize_time_value(day_value) if day_value else ""
+        index += 1
+
+    if not parsed:
+        cleaned = "\n".join(extras)
+        return cleaned, cleaned
+
+    lines_en = []
+    lines_ro = []
+
+    for day_index in range(7):
+        if day_index not in parsed:
+            continue
+
+        day_value = parsed[day_index]
+
+        if day_value == "closed":
+            value_en = "Closed"
+            value_ro = "Închis"
+        elif day_value == "24h":
+            value_en = "Open 24 hours"
+            value_ro = "Deschis non-stop"
+        else:
+            value_en = day_value
+            value_ro = day_value
+
+        lines_en.append(f"{DAY_NAMES_EN[day_index]}: {value_en}")
+        lines_ro.append(f"{DAY_NAMES_RO[day_index]}: {value_ro}")
+
+    if extras:
+        lines_en.extend(extras)
+        lines_ro.extend(extras)
+
+    return "\n".join(lines_en), "\n".join(lines_ro)
+
+
 def auto_git_commit(slug):
 
     try:
@@ -166,13 +366,14 @@ def validate_business():
 
     try:
 
-        float(latitude_entry.get().strip())
-        float(longitude_entry.get().strip())
+        parse_coordinates(
+            coordinates_entry.get().strip()
+        )
 
     except ValueError:
 
         status_label.configure(
-            text="Invalid GPS coordinates",
+            text="Invalid GPS coordinates. Use: latitude, longitude",
             text_color="#ff5a5a"
         )
 
@@ -274,9 +475,7 @@ def generate_business():
 
     beaches = beaches_entry.get().strip()
 
-    category_en = category_en_entry.get().strip()
-
-    category_ro = category_ro_entry.get().strip()
+    category = category_entry.get().strip()
 
     phone = phone_entry.get().strip()
 
@@ -286,19 +485,18 @@ def generate_business():
 
     address = address_entry.get().strip()
 
-    latitude = float(
-        latitude_entry.get().strip()
-    )
-
-    longitude = float(
-    longitude_entry.get().strip()
+    latitude, longitude = parse_coordinates(
+        coordinates_entry.get().strip()
     )
 
     booking = booking_switch.get()
 
-    hours_en = hours_en_entry.get().strip()
+    hours_raw = hours_box.get(
+        "1.0",
+        "end"
+    ).strip()
 
-    hours_ro = hours_ro_entry.get().strip()
+    hours_en, hours_ro = format_hours(hours_raw)
 
     description_en = description_en_box.get(
         "1.0",
@@ -421,9 +619,9 @@ def generate_business():
 
         "titleRo": title_ro,
 
-        "categoryEn": category_en,
+        "categoryEn": category,
 
-        "categoryRo": category_ro,
+        "categoryRo": category,
 
         "phone": phone,
 
@@ -508,7 +706,7 @@ def generate_business():
 
         "titleEn": title_en,
 
-        "category": category_en,
+        "category": category,
 
         "beaches": beaches_list,
 
@@ -651,14 +849,9 @@ beaches_entry = create_entry(
     "Beaches (comma separated)"
 )
 
-category_en_entry = create_entry(
+category_entry = create_entry(
     left_frame,
-    "Category EN"
-)
-
-category_ro_entry = create_entry(
-    left_frame,
-    "Category RO"
+    "Category (same for EN and RO)"
 )
 
 phone_entry = create_entry(
@@ -681,24 +874,30 @@ address_entry = create_entry(
     "Address"
 )
 
-latitude_entry = create_entry(
+coordinates_entry = create_entry(
     left_frame,
-    "Latitude"
+    "GPS Coordinates (latitude, longitude or Google Maps link)"
 )
 
-longitude_entry = create_entry(
+hours_label = ctk.CTkLabel(
     left_frame,
-    "Longitude"
+    text="Opening Hours (paste the complete weekly program)"
 )
 
-hours_en_entry = create_entry(
-    left_frame,
-    "Hours EN"
+hours_label.pack(
+    anchor="w",
+    padx=20,
+    pady=(14, 4)
 )
 
-hours_ro_entry = create_entry(
+hours_box = ctk.CTkTextbox(
     left_frame,
-    "Hours RO"
+    width=500,
+    height=150
+)
+
+hours_box.pack(
+    padx=20
 )
 
 # =========================
