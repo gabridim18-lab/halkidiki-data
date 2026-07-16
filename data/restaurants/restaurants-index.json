@@ -4765,5 +4765,24 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "canela-restaurant",
+    "zone": "Kassandra",
+    "beachSlug": "pefkochori-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Canela Restaurant",
+    "titleRo": "Canela Restaurant",
+    "image": "",
+    "heroImage": "",
+    "lat": 39.99359281992584,
+    "lon": 23.601053665450593,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Canela Restaurant by Blue Carpet offers an elegant seaside dining experience within the Blue Carpet Luxury Suites complex in...",
+    "shortRo": "Canela Restaurant by Blue Carpet oferă o experiență gastronomică elegantă chiar pe malul mării, în cadrul complexului Blue Carpet...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
