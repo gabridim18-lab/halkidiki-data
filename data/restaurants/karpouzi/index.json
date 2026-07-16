@@ -1,0 +1,167 @@
+{
+  "id": "karpouzi",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "KARPOUZI",
+  "titleRo": "KARPOUZI",
+  "displayAddress": "Polychrono 630 85, Greece",
+  "gpsCoordinates": "40.018307678061255, 23.528110140033256",
+  "lat": 40.018307678061255,
+  "lon": 23.528110140033256,
+  "openingHoursRaw": "Thursday\n\t\n\n    8 am–2 am\n\n\t\nFriday\n\t\n\n    8 am–2 am\n\n\t\nSaturday\n\t\n\n    8 am–2 am\n\n\t\nSunday\n\t\n\n    8 am–2 am\n\n\t\nMonday\n\t\n\n    8 am–2 am\n\n\t\nTuesday\n\t\n\n    8 am–2 am\n\n\t\nWednesday\n\t\n\n    8 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "02:00",
+      "labelEn": "08:00–02:00",
+      "labelRo": "08:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "02:00",
+      "labelEn": "08:00–02:00",
+      "labelRo": "08:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "02:00",
+      "labelEn": "08:00–02:00",
+      "labelRo": "08:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "02:00",
+      "labelEn": "08:00–02:00",
+      "labelRo": "08:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "02:00",
+      "labelEn": "08:00–02:00",
+      "labelRo": "08:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "02:00",
+      "labelEn": "08:00–02:00",
+      "labelRo": "08:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "02:00",
+      "labelEn": "08:00–02:00",
+      "labelRo": "08:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–02:00; Tuesday: 08:00–02:00; Wednesday: 08:00–02:00; Thursday: 08:00–02:00; Friday: 08:00–02:00; Saturday: 08:00–02:00; Sunday: 08:00–02:00",
+  "hoursRo": "Luni: 08:00–02:00; Marți: 08:00–02:00; Miercuri: 08:00–02:00; Joi: 08:00–02:00; Vineri: 08:00–02:00; Sâmbătă: 08:00–02:00; Duminică: 08:00–02:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306978841681",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "KARPOUZI is a relaxed seaside café-bar located beside Polychrono Beach, suitable for everything from morning coffee and breakfast to evening drinks overlooking the sea. Its menu includes breakfast, light snacks, sandwiches, coffee, juices, beer and cocktails, served in a friendly and informal atmosphere. Breakfast is promoted between 8:00 AM and 2:00 PM, while current public listings show approximate daily hours of 7:30 AM–2:00 AM; seasonal confirmation is advisable.\n\nPublic feedback is highly positive, with a current rating of 4.9 out of 5. Visitors particularly praise the helpful staff, reasonable prices, enjoyable snacks, sunbeds and relaxed sunset atmosphere. Sunbeds may be reserved for the following day, so booking ahead or arriving in the morning is advisable during weekends and the busiest weeks of July and August.\n\nI could not confirm dedicated private parking. During peak periods, allowing additional time to find a space in the surrounding Polychrono area is sensible, while current sunbed arrangements should be checked upon arrival.",
+  "descriptionRo": "KARPOUZI este un café-bar relaxat, amplasat chiar lângă plaja din Polychrono, potrivit de la cafeaua și micul dejun de dimineață până la băuturile savurate seara, cu vedere spre mare. Meniul include mic dejun, gustări, sandvișuri, cafea, sucuri, bere și cocktailuri, într-o atmosferă simplă și prietenoasă. Micul dejun este promovat între 08:00 și 14:00, iar programul public afișat este aproximativ 07:30–02:00, dar orele trebuie reconfirmate sezonier.\n\nImpresiile publice sunt foarte bune: locația are în prezent un scor de 4,9 din 5, iar oaspeții apreciază personalul amabil, prețurile rezonabile, gustările, șezlongurile și atmosfera liniștită de la apus. Șezlongurile pot fi rezervate pentru ziua următoare, iar în iulie, august și în weekend este indicat să ajungi dimineața sau să rezervi din timp.\n\nNu am putut confirma existența unei parcări proprii. În perioadele aglomerate, este prudent să aloci timp suplimentar pentru găsirea unui loc în zona Polychrono și să verifici la sosire condițiile actuale de utilizare a șezlongurilor.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "15Euro per sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "mediterranean"
+  ]
+}

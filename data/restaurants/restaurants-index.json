@@ -5062,5 +5062,31 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "karpouzi",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "KARPOUZI",
+    "titleRo": "KARPOUZI",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karpouzi/images/karpouzi-hero.webp",
+    "lat": 40.018307678061255,
+    "lon": 23.528110140033256,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "KARPOUZI is a relaxed seaside café-bar located beside Polychrono Beach, suitable for everything from morning coffee and breakfast to...",
+    "shortRo": "KARPOUZI este un café-bar relaxat, amplasat chiar lângă plaja din Polychrono, potrivit de la cafeaua și micul dejun de dimineață până...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "mediterranean"
+    ]
   }
 ]
