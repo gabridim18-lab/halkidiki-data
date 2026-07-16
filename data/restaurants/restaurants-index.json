@@ -4816,5 +4816,31 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "da-noi",
+    "zone": "Kassandra",
+    "beachSlug": "pefkochori-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Da NOI ",
+    "titleRo": "Da NOI ",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi-hero.webp",
+    "lat": 39.9955290103961,
+    "lon": 23.5952575108817,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Da Noi Beach Experience brings together seaside relaxation, Mediterranean dining and an elegant summer atmosphere on the beach of...",
+    "shortRo": "Da Noi Beach Experience aduce pe plaja din Pefkochori o combinație elegantă de relaxare, gastronomie și atmosferă mediteraneeană....",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": []
   }
 ]

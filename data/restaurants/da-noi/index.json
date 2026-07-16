@@ -1,0 +1,150 @@
+{
+  "id": "da-noi",
+  "zone": "Kassandra",
+  "beachSlug": "pefkochori-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Da NOI ",
+  "titleRo": "Da NOI ",
+  "displayAddress": "Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.9955290103961, 23.5952575108817",
+  "lat": 39.9955290103961,
+  "lon": 23.5952575108817,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "http://www.danoihalkidiki.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306949449199",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Da Noi Beach Experience brings together seaside relaxation, Mediterranean dining and an elegant summer atmosphere on the beach of Pefkochori. Comfortable sunbeds, clear water and open Aegean views make it an inviting place for a peaceful beach day, followed by cocktails and music as the sun goes down. DJ sessions are also organised during the peak season.\n\nThe restaurant blends Italian and Greek influences, serving fish and seafood, pasta, risotto, grilled dishes and locally sourced ingredients. Beach snacks, signature cocktails, Greek wines and cold beers complete the experience.\n\nCurrent published opening hours are 10:00 AM–8:00 PM daily, with parking available near the entrance. Arriving close to opening time is a practical choice for a quieter atmosphere and a better selection of beach spots. Booking ahead is advisable for weekends, sunset dining and event days;",
+  "descriptionRo": "Da Noi Beach Experience aduce pe plaja din Pefkochori o combinație elegantă de relaxare, gastronomie și atmosferă mediteraneeană. Șezlongurile confortabile, apa limpede și priveliștea deschisă spre Marea Egee creează un cadru potrivit pentru o zi liniștită la plajă, care poate continua cu cocktailuri și muzică la apus. În perioadele de vârf sunt organizate și sesiuni cu DJ.\n\nRestaurantul combină influențe italiene și grecești, cu pește și fructe de mare, paste, risotto, preparate la grătar și ingrediente locale. Oferta este completată de gustări pentru plajă, cocktailuri signature, vinuri grecești și bere rece.\n\nProgramul publicat în prezent este zilnic, între 10:00 și 20:00, iar în apropierea intrării este disponibilă parcare. Pentru mai multă liniște și șanse mai bune de a găsi locurile preferate, este indicată sosirea aproape de deschidere. Pentru weekenduri, mese la apus sau zile cu evenimente, rezervarea în avans este recomandată;",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/da-noi4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/da-noi/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    On-site services\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nParking\n\n    Free parking lot\n    On-site parking",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "On-site services"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free parking lot",
+    "On-site parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "25Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": []
+}
