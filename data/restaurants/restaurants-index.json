@@ -5013,5 +5013,24 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "mourmoura",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Mourmoura",
+    "titleRo": "Mourmoura",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mourmoura/images/mourmoura-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mourmoura/images/mourmoura-hero.webp",
+    "lat": 40.017529068161274,
+    "lon": 23.529636448378245,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Mourmoura Sea Food Restaurant is an elegant beachfront restaurant in Polychrono, offering Mediterranean dining only a few steps from...",
+    "shortRo": "Mourmoura Sea Food Restaurant este un restaurant elegant amplasat direct pe plaja din Polychrono, unde preparatele mediteraneene pot...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
