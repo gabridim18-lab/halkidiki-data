@@ -1,0 +1,188 @@
+{
+  "id": "miracle-beach",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Miracle Beach",
+  "titleRo": "Miracle Beach",
+  "displayAddress": "Χαλκιδική Πολύχρονο, Polichrono 630 85, Greece",
+  "gpsCoordinates": "40.01737514224517, 23.530168784258976",
+  "lat": 40.01737514224517,
+  "lon": 23.530168784258976,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–11 pm\n\n\t\nSaturday\n\t\n\n    9 am–11 pm\n\n\t\nSunday\n\t\n\n    9 am–11 pm\n\n\t\nMonday\n\t\n\n    9 am–11 pm\n\n\t\nTuesday\n\t\n\n    9 am–11 pm\n\n\t\nWednesday\n\t\n\n    9 am–11 pm\n\n\t\nThursday\n\t\n\n    9 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:00; Tuesday: 09:00–23:00; Wednesday: 09:00–23:00; Thursday: 09:00–23:00; Friday: 09:00–23:00; Saturday: 09:00–23:00; Sunday: 09:00–23:00",
+  "hoursRo": "Luni: 09:00–23:00; Marți: 09:00–23:00; Miercuri: 09:00–23:00; Joi: 09:00–23:00; Vineri: 09:00–23:00; Sâmbătă: 09:00–23:00; Duminică: 09:00–23:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/profile.php?id=100063681753701",
+  "instagram": "",
+  "phone": "+306987766739",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Miracle Beach is an all-day beach bar located directly by the sea in the heart of Polychrono. Guests can begin the day with breakfast beside the water, followed by coffee, refreshing drinks and light snacks, before enjoying cocktails and a more relaxed sunset atmosphere later in the day. Recent available feedback highlights friendly, attentive service, well-prepared cocktails and enjoyable food.\n\nThe venue is currently listed as opening at around 9:00 AM. During July and August, arriving between 9:00 and 10:00 AM may provide a quieter experience and a better choice of places. I could not confirm a formal reservation system or dedicated private parking; visitors generally rely on nearby street parking, while vehicle access along the seafront promenade may be restricted during summer. Sunbed arrangements and any minimum-spend conditions should be checked upon arrival, as they may change between seasons.",
+  "descriptionRo": "Miracle Beach este un beach bar all-day situat chiar pe malul mării, în centrul stațiunii Polychrono. Ziua poate începe aici cu un mic dejun lângă apă, urmat de cafea, băuturi răcoritoare și gustări, iar după-amiaza atmosfera devine potrivită pentru cocktailuri și relaxare în lumina apusului. Feedbackul recent disponibil evidențiază servirea prietenoasă și atentă, cocktailurile bine pregătite și mâncarea gustoasă.\n\nLocația este listată cu deschidere în jurul orei 09:00. În iulie și august, sosirea între 09:00 și 10:00 poate oferi mai multă liniște și șanse mai bune de a găsi un loc convenabil. Nu am putut confirma un sistem oficial de rezervare sau o parcare privată; parcarea se găsește în principal pe străzile apropiate, iar accesul auto pe promenadă poate fi restricționat vara. Condițiile șezlongurilor și eventualul consum minim trebuie verificate la sosire, deoarece se pot modifica sezonier",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Bar games\n    Great beer selection\n    Great cocktails\n    Sport\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Bar games",
+    "Great beer selection",
+    "Great cocktails",
+    "Sport"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "50Euro first row; 40Euro for the second row",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

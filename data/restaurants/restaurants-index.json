@@ -4958,5 +4958,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "miracle-beach",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Miracle Beach",
+    "titleRo": "Miracle Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/miracle-beach/images/miracle-beach-hero.webp",
+    "lat": 40.01737514224517,
+    "lon": 23.530168784258976,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Miracle Beach is an all-day beach bar located directly by the sea in the heart of Polychrono. Guests can begin the day with breakfast...",
+    "shortRo": "Miracle Beach este un beach bar all-day situat chiar pe malul mării, în centrul stațiunii Polychrono. Ziua poate începe aici cu un mic...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
