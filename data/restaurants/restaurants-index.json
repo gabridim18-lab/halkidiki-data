@@ -4985,5 +4985,33 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "salty-sea-side",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Salty Sea Side",
+    "titleRo": "Salty Sea Side",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side-hero.webp",
+    "lat": 40.01746076718384,
+    "lon": 23.529771899929887,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Salty Sea Side is a lively beach bar in Polychrono, ideal for a relaxed seaside day that can begin with morning coffee and continue...",
+    "shortRo": "Salty Sea Side este un beach bar animat din Polychrono, potrivit pentru o zi relaxată la mare, de la cafeaua de dimineață până la...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

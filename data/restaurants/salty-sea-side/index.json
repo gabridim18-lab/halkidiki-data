@@ -1,0 +1,181 @@
+{
+  "id": "salty-sea-side",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Salty Sea Side",
+  "titleRo": "Salty Sea Side",
+  "displayAddress": "Polychrono 630 85, Greece",
+  "gpsCoordinates": "40.01746076718384, 23.529771899929887",
+  "lat": 40.01746076718384,
+  "lon": 23.529771899929887,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–4 am\n\n\t\nFriday\n\t\n\n    9 am–4 am\n\n\t\nSaturday\n\t\n\n    9 am–4 am\n\n\t\nSunday\n\t\n\n    9 am–4 am\n\n\t\nMonday\n\t\n\n    9 am–4 am\n\n\t\nTuesday\n\t\n\n    9 am–4 am\n\n\t\nWednesday\n\t\n\n    9 am–4 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "04:00",
+      "labelEn": "09:00–04:00",
+      "labelRo": "09:00–04:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "04:00",
+      "labelEn": "09:00–04:00",
+      "labelRo": "09:00–04:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "04:00",
+      "labelEn": "09:00–04:00",
+      "labelRo": "09:00–04:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "04:00",
+      "labelEn": "09:00–04:00",
+      "labelRo": "09:00–04:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "04:00",
+      "labelEn": "09:00–04:00",
+      "labelRo": "09:00–04:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "04:00",
+      "labelEn": "09:00–04:00",
+      "labelRo": "09:00–04:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "04:00",
+      "labelEn": "09:00–04:00",
+      "labelRo": "09:00–04:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–04:00; Tuesday: 09:00–04:00; Wednesday: 09:00–04:00; Thursday: 09:00–04:00; Friday: 09:00–04:00; Saturday: 09:00–04:00; Sunday: 09:00–04:00",
+  "hoursRo": "Luni: 09:00–04:00; Marți: 09:00–04:00; Miercuri: 09:00–04:00; Joi: 09:00–04:00; Vineri: 09:00–04:00; Sâmbătă: 09:00–04:00; Duminică: 09:00–04:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "http://instagram.com/saltyseasidebar",
+  "phone": "+306971838235",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Salty Sea Side is a lively beach bar in Polychrono, ideal for a relaxed seaside day that can begin with morning coffee and continue with cocktails at sunset. The menu offers beach-friendly food, generous portions, smoothies and refreshing drinks, while recent public feedback frequently praises the friendly staff, attentive service, enjoyable food and welcoming atmosphere.\n\nSunbed reservations are advisable during the busy summer season, especially at weekends. The venue is currently listed as opening at around 9:00 AM, and arriving between 9:00 and 10:00 AM may provide a quieter experience and a better choice of places. Sunbeds can be positioned fairly close together, while minimum-spend or usage conditions may vary and should be confirmed when booking.\n\nThe sea entrance may have a few small stones along the first section before becoming mostly sandy. I could not confirm dedicated private parking, and spaces near the Polychrono promenade may be difficult to find during summer, making an early arrival the most convenient option.",
+  "descriptionRo": "Salty Sea Side este un beach bar animat din Polychrono, potrivit pentru o zi relaxată la mare, de la cafeaua de dimineață până la cocktailurile savurate la apus. Meniul include preparate potrivite pentru plajă, porții generoase, smoothie-uri și băuturi răcoritoare, iar impresiile recente apreciază în special personalul prietenos, servirea atentă, mâncarea și atmosfera.\n\nÎn sezonul aglomerat, rezervarea șezlongurilor este recomandată, mai ales în weekend. Locația este listată cu deschidere în jurul orei 09:00, iar sosirea între 09:00 și 10:00 poate oferi mai multă liniște și o alegere mai bună a locurilor. Șezlongurile sunt amplasate destul de aproape unele de altele, iar condițiile de utilizare sau consumul minim pot varia, fiind bine să fie confirmate la rezervare.\n\nIntrarea în mare poate avea câteva pietre pe prima porțiune, după care fundul devine predominant nisipos. Nu am putut confirma existența unei parcări proprii, iar locurile din apropierea promenadei pot fi greu de găsit vara, astfel că sosirea devreme este cea mai practică alegere.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/salty-sea-side4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/salty-sea-side/images/menu2.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great wine list\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great wine list"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€50 for front seated lounger €40 for others",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
