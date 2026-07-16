@@ -260,5 +260,20 @@
     "lon": 23.607438178441186,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "coast-to-coast",
+    "type": "local_business",
+    "titleEn": "Coast To Coast",
+    "category": "Boat rentals",
+    "beaches": [
+      "pefkochori-beach",
+      "paralia-pefkochori",
+      "hanioti-beach"
+    ],
+    "lat": 39.993439861565406,
+    "lon": 23.60427914232846,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

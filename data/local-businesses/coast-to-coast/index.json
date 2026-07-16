@@ -1,0 +1,39 @@
+{
+  "id": "coast-to-coast",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "pefkochori-beach",
+    "paralia-pefkochori",
+    "hanioti-beach"
+  ],
+  "titleEn": "Coast To Coast",
+  "titleRo": "Coast To Coast",
+  "categoryEn": "Boat rentals",
+  "categoryRo": "Inchiriere Barci",
+  "phone": "+306907733840",
+  "whatsapp": "+306907733840",
+  "website": "http://coast2coast.gr/",
+  "instagram": "",
+  "facebook": "",
+  "address": "beach, Pefkochori 630 85, Greece",
+  "lat": 39.993439861565406,
+  "lon": 23.60427914232846,
+  "coordinates": {
+    "lat": 39.993439861565406,
+    "lng": 23.60427914232846
+  },
+  "hours": {
+    "en": "Daily: 10:00 - 20:00",
+    "ro": "Zilnic: 10:00 - 20:00"
+  },
+  "descriptionEn": "Rent a Boat Coast To Coast offers the freedom to discover the coastline of Halkidiki directly from the sea, departing from the beach in Pefkochori. It is an enjoyable experience for couples, families and groups of friends wishing to reach peaceful bays, hidden beaches and coastal areas that are difficult to access by road. Suggested routes may include Kelifos Island, the secluded beaches near Porto Carras, Neos Marmaras and stops for swimming, snorkelling or lunch beside the sea.\n\nA boating licence is not required for selected boats, and guests receive a short briefing covering boat handling, safety and the recommended route before departure. This makes the experience suitable even for first-time drivers. Fuel is listed as included for offers shown through the official booking system, although the exact conditions should be confirmed for the selected boat and rental duration.\n\nBooking ahead is recommended during the busy summer season. The official website currently allows guests to reserve with a one-third deposit and offers free cancellation up to three days before the scheduled rental. Public opening hours are listed as 9:00 AM to 9:00 PM every day, while the actual departure time depends on the chosen reservation and boat.\n\nArriving a little before the agreed departure time can provide enough time for the safety briefing and preparation without feeling rushed. I could not confirm that the business has its own dedicated parking area, so checking the most convenient access and parking options while making the reservation is advisable.\n\nCoast To Coast is a great choice for combining a boating adventure with swimming, exploration and memorable views between Kassandra and Sithonia.",
+  "descriptionRo": "Rent a Boat Coast To Coast îți oferă libertatea de a descoperi litoralul din Halkidiki direct de pe mare, pornind de pe plaja din Pefkochori. Este o experiență potrivită atât pentru cupluri și familii, cât și pentru grupuri de prieteni care vor să ajungă la golfuri liniștite, plaje ascunse și locuri greu accesibile pe uscat. Traseele pot include insula Kelifos, zonele izolate din apropierea Porto Carras, Neos Marmaras și opriri pentru înot, snorkeling sau prânz lângă mare.\n\nPentru anumite ambarcațiuni nu este necesar permis de conducere, iar înainte de plecare este oferit un scurt instructaj privind manevrarea bărcii, siguranța și traseul recomandat. Experiența este astfel accesibilă și celor care nu au mai condus niciodată o ambarcațiune. Combustibilul este prezentat ca fiind inclus pentru ofertele disponibile prin sistemul oficial de rezervare, dar condițiile exacte trebuie verificate pentru barca și durata alese.\n\nRezervarea în avans este recomandată în timpul sezonului de vară. Pe site-ul oficial, locul poate fi rezervat cu un avans de o treime din valoare, iar anularea este gratuită până cu trei zile înainte, conform condițiilor afișate în prezent. Programul publicat este zilnic, între orele 09:00 și 21:00, însă ora plecării depinde de rezervarea și ambarcațiunea selectată.\n\nPentru o plecare fără grabă, este util să ajungi puțin înainte de ora stabilită, astfel încât să existe suficient timp pentru instructaj și pregătire. Nu am găsit o confirmare publică privind existența unei parcări proprii, așa că merită să întrebi despre cea mai convenabilă zonă de acces și parcare atunci când faci rezervarea.\n\nCoast To Coast este o alegere inspirată pentru cei care vor să combine aventura pe mare cu înotul, explorarea și peisajele spectaculoase dintre Kassandra și Sithonia.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
