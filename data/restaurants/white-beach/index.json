@@ -1,0 +1,190 @@
+{
+  "id": "white-beach",
+  "zone": "Kassandra",
+  "beachSlug": "hanioti-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "White Beach",
+  "titleRo": "White Beach",
+  "displayAddress": "Τ.Θ. 1001, Chaniotis 630 85, Greece",
+  "gpsCoordinates": "39.99893810475473, 23.58456654285149",
+  "lat": 39.99893810475473,
+  "lon": 23.58456654285149,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/whitebeachhanioti/",
+  "phone": "+306985653101",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "White Beach Hanioti is an elegant beach bar designed for a relaxing day beside the clear waters of Hanioti. Comfortable sunbeds, umbrellas, gentle music and beachfront service create an inviting summer setting, complemented by coffee, cocktails, refreshing drinks and light dishes suitable for a full day by the sea.\n\nMany visitors praise the clean water, comfortable loungers, well-made cocktails, friendly service and maintained facilities, including showers and toilets. Opinions about pricing are more mixed, so checking the current sunbed charge and any minimum-spend conditions upon arrival is advisable, as arrangements may change between seasons.\n\nBeach-day reservations are available and may be helpful at weekends or during July and August. Arriving before 10:00 AM generally offers a quieter atmosphere and a better choice of places, while the softer evening light makes the venue pleasant for a cocktail by the water. Parking is reported close to the beach, although availability may become limited during peak periods.",
+  "descriptionRo": "White Beach Hanioti este un beach bar elegant, creat pentru o zi relaxantă lângă apele limpezi ale stațiunii Hanioti. Șezlongurile confortabile, umbrelele, muzica discretă și servirea direct pe plajă completează atmosfera, iar oferta include cafea, cocktailuri, băuturi răcoritoare și preparate ușoare potrivite pentru timpul petrecut la mare.\n\nMulți vizitatori apreciază apa curată, confortul șezlongurilor, cocktailurile, personalul amabil și facilitățile bine întreținute, inclusiv dușurile și toaletele. Părerile despre prețuri sunt însă împărțite, astfel că este recomandat să verifici la sosire tariful șezlongurilor și eventualele condiții de consum, deoarece acestea se pot modifica de la un sezon la altul.\n\nRezervările pentru o zi pe plajă sunt disponibile și pot fi utile în weekend sau în lunile iulie și august. Pentru mai multă liniște și o alegere mai bună a locurilor, este indicată sosirea înainte de ora 10:00; spre seară, atmosfera devine potrivită pentru un cocktail lângă mare. Parcarea este menționată în apropierea plajei, dar locurile pot fi mai greu de găsit în perioadele aglomerate.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Private dining room\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Private dining room",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "20Euro first row; 15Euro second row, 10Euro third row ",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

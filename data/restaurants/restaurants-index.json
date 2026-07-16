@@ -4842,5 +4842,32 @@
       "sunset_view"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "white-beach",
+    "zone": "Kassandra",
+    "beachSlug": "hanioti-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "White Beach",
+    "titleRo": "White Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/white-beach/images/white-beach-hero.webp",
+    "lat": 39.99893810475473,
+    "lon": 23.58456654285149,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "White Beach Hanioti is an elegant beach bar designed for a relaxing day beside the clear waters of Hanioti. Comfortable sunbeds,...",
+    "shortRo": "White Beach Hanioti este un beach bar elegant, creat pentru o zi relaxantă lângă apele limpezi ale stațiunii Hanioti. Șezlongurile...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
