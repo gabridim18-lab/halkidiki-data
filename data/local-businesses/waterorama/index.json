@@ -1,0 +1,39 @@
+{
+  "id": "waterorama",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "paralia-pefkochori",
+    "pefkochori-beach",
+    "hanioti-beach"
+  ],
+  "titleEn": "WaterOrama",
+  "titleRo": "WaterOrama",
+  "categoryEn": "Water sports",
+  "categoryRo": "Water sports",
+  "phone": "+306944745414",
+  "whatsapp": "+306944745414",
+  "website": "http://www.waterorama.gr/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Pefkochori 630 85, Greece",
+  "lat": 39.99471412531298,
+  "lon": 23.599221683381348,
+  "coordinates": {
+    "lat": 39.99471412531298,
+    "lng": 23.599221683381348
+  },
+  "hours": {
+    "en": "Monday: 10:00–20:00\nTuesday: 10:00–20:00\nWednesday: 10:00–20:00\nThursday: 10:00–20:00\nFriday: 10:00–20:00\nSaturday: 10:00–20:00\nSunday: 10:00–20:00",
+    "ro": "Luni: 10:00–20:00\nMarți: 10:00–20:00\nMiercuri: 10:00–20:00\nJoi: 10:00–20:00\nVineri: 10:00–20:00\nSâmbătă: 10:00–20:00\nDuminică: 10:00–20:00"
+  },
+  "descriptionEn": "WaterOrama Pefkochori is a watersports centre for visitors who want to turn an ordinary beach day into an exciting Aegean Sea adventure. Located on the coast of Pefkochori, it offers boat rentals and jet-ski experiences suitable for couples, families, groups of friends and thrill-seekers.\n\nSelected boats can be operated without a boating licence, with a briefing covering handling, navigation and essential safety instructions provided before departure. Boats promoted by WaterOrama include comfort features such as cushioned areas, a sun canopy, a refrigerator and Bluetooth connectivity. Real-time GPS tracking also allows the team to monitor the boat during the trip.\n\nBooking ahead is advisable during the busy summer months, particularly for boat rentals and jet-ski activities. Requests can be made through the venue’s contact system or via WhatsApp. Arriving a little before the scheduled departure allows time for preparation and the safety briefing. The fuel policy should also be confirmed for the selected boat, as the final fuel cost may be calculated separately according to the route.\n\nI could not confirm that the Pefkochori base has its own dedicated parking area or find clearly published official opening hours for this specific location. Asking for the most convenient nearby parking option when booking is therefore recommended. Watersports may also depend on wind and sea conditions, so the departure time should be reconfirmed on the day of the activity.\n\nWaterOrama is a great choice for exploring the coastline at your own pace, enjoying a relaxing boat trip or adding an exciting burst of adrenaline to a summer day in Halkidiki.",
+  "descriptionRo": "WaterOrama Pefkochori este un centru de sporturi nautice potrivit pentru cei care vor să transforme o zi obișnuită la plajă într-o experiență plină de aventură pe Marea Egee. Amplasată pe litoralul din Pefkochori, locația oferă închirieri de ambarcațiuni și activități cu jet ski, fiind potrivită pentru cupluri, familii, grupuri de prieteni și pasionații de adrenalină.\n\nAnumite ambarcațiuni pot fi conduse fără permis nautic, iar înaintea plecării este oferit un instructaj privind manevrarea, traseul și regulile de siguranță. Bărcile promovate de WaterOrama sunt echipate pentru confortul unei excursii pe mare, cu spații pentru relaxare, copertină pentru umbră, frigider și conexiune Bluetooth. Sistemul de monitorizare GPS permite echipei să urmărească ambarcațiunea pe durata călătoriei.\n\nRezervarea în avans este recomandată în lunile aglomerate de vară, mai ales pentru închirierea unei bărci sau pentru activitățile cu jet ski. Solicitările pot fi trimise prin sistemul de contact al locației sau prin WhatsApp. Este util să ajungi puțin înainte de ora stabilită, pentru instructaj și pregătirea echipamentului, iar politica privind combustibilul trebuie verificată pentru ambarcațiunea aleasă, deoarece costul poate fi calculat separat în funcție de traseu.\n\nNu am găsit o confirmare publică privind existența unei parcări proprii și nici un program oficial clar pentru baza din Pefkochori. Pentru acces mai simplu, merită să întrebi despre cea mai apropiată zonă de parcare în momentul rezervării. Activitățile nautice pot depinde de vânt și de starea mării, astfel că ora plecării trebuie reconfirmată în ziua vizitei.\n\nWaterOrama este o alegere inspirată pentru explorarea coastei în propriul ritm, pentru o plimbare relaxantă cu barca sau pentru câteva momente de adrenalină pe valurile din Halkidiki.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}

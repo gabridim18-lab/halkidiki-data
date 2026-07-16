@@ -275,5 +275,20 @@
     "lon": 23.60427914232846,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "waterorama",
+    "type": "local_business",
+    "titleEn": "WaterOrama",
+    "category": "Water sports",
+    "beaches": [
+      "paralia-pefkochori",
+      "pefkochori-beach",
+      "hanioti-beach"
+    ],
+    "lat": 39.99471412531298,
+    "lon": 23.599221683381348,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
