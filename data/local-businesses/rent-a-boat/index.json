@@ -1,0 +1,40 @@
+{
+  "id": "rent-a-boat",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "kryopigi-beach",
+    "kalithea-beach",
+    "paralia-afitos",
+    "plage-liosi"
+  ],
+  "titleEn": "Rent A Boat",
+  "titleRo": "Rent A Boat",
+  "categoryEn": "Boat rentals",
+  "categoryRo": "Boat rentals",
+  "phone": "+306988639656",
+  "whatsapp": "+306988639656",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Καλλιθέα 630 77, Greece",
+  "lat": 40.07119424292699,
+  "lon": 23.453279512119618,
+  "coordinates": {
+    "lat": 40.07119424292699,
+    "lng": 23.453279512119618
+  },
+  "hours": {
+    "en": "Monday: Open 24 hours\nTuesday: Open 24 hours\nWednesday: Open 24 hours\nThursday: Open 24 hours\nFriday: Open 24 hours\nSaturday: Open 24 hours\nSunday: Open 24 hours",
+    "ro": "Luni: Deschis non-stop\nMarți: Deschis non-stop\nMiercuri: Deschis non-stop\nJoi: Deschis non-stop\nVineri: Deschis non-stop\nSâmbătă: Deschis non-stop\nDuminică: Deschis non-stop"
+  },
+  "descriptionEn": "Rent A Boat Kallithea gives visitors the freedom to explore the Kassandra coastline at their own pace, discovering peaceful coves, quieter beaches and crystal-clear waters ideal for swimming and snorkelling. It is a memorable experience for couples, families and groups of friends looking to enjoy a different kind of day on the Aegean Sea.\n\nNo boating licence is required for the available self-drive boats. Before departure, guests receive a complete safety briefing and a practical demonstration covering boat handling and essential navigation rules. Equipment includes a sun canopy, GPS, a cooler with ice and fresh water, a sound system, snorkelling masks, life jackets and emergency gear.\n\nAdvance booking is recommended during the busy summer months, while arriving shortly before the scheduled departure allows enough time for the briefing and preparation. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Rent A Boat Kallithea îți oferă libertatea de a explora litoralul din Kassandra în propriul ritm, descoperind golfuri liniștite, plaje mai puțin aglomerate și ape cristaline potrivite pentru înot și snorkeling. Este o experiență ideală pentru cupluri, familii și grupuri de prieteni care își doresc o zi diferită pe Marea Egee.\n\nPentru ambarcațiunile disponibile nu este necesar permis nautic. Înainte de plecare, participanții primesc un instructaj complet și o demonstrație practică privind conducerea bărcii și regulile de siguranță. Dotările includ copertină pentru umbră, sistem GPS, ladă frigorifică cu gheață și apă, sistem audio, măști pentru snorkeling, veste de salvare și echipament de urgență.\n\nRezervarea din timp este recomandată în lunile aglomerate de vară, iar sosirea puțin înaintea orei stabilite permite desfășurarea instructajului fără grabă. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}

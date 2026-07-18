@@ -336,5 +336,21 @@
     "lon": 23.455813804605715,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "rent-a-boat",
+    "type": "local_business",
+    "titleEn": "Rent A Boat",
+    "category": "Boat rentals",
+    "beaches": [
+      "kryopigi-beach",
+      "kalithea-beach",
+      "paralia-afitos",
+      "plage-liosi"
+    ],
+    "lat": 40.07119424292699,
+    "lon": 23.453279512119618,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
