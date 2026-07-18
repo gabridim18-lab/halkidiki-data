@@ -1,0 +1,203 @@
+{
+  "id": "olivo",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Olivo",
+  "titleRo": "Olivo",
+  "displayAddress": "Polychrono 630 85, Greece",
+  "gpsCoordinates": "40.02091501202629, 23.521491208242516",
+  "lat": 40.02091501202629,
+  "lon": 23.521491208242516,
+  "openingHoursRaw": "Saturday\n\t\n\n    9 am–8 pm\n\n\t\nSunday\n\t\n\n    9 am–8 pm\n\n\t\nMonday\n\t\n\n    9 am–8 pm\n\n\t\nTuesday\n\t\n\n    9 am–8 pm\n\n\t\nWednesday\n\t\n\n    9 am–8 pm\n\n\t\nThursday\n\t\n\n    9 am–8 pm\n\n\t\nFriday\n\t\n\n    9 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–20:00; Tuesday: 09:00–20:00; Wednesday: 09:00–20:00; Thursday: 09:00–20:00; Friday: 09:00–20:00; Saturday: 09:00–20:00; Sunday: 09:00–20:00",
+  "hoursRo": "Luni: 09:00–20:00; Marți: 09:00–20:00; Miercuri: 09:00–20:00; Joi: 09:00–20:00; Vineri: 09:00–20:00; Sâmbătă: 09:00–20:00; Duminică: 09:00–20:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306975849706",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Olivo Sea Side Bar & Restaurant is a stylish and modern retreat on Polychrono Beach, where soft sand, clear water and open sea views create an inviting setting for a relaxing day in Halkidiki. Comfortable sunbeds, carefully designed lounge areas and a peaceful atmosphere make it suitable for couples, families and groups of friends. Pleasant music and attentive beachfront service complete the holiday experience.\n\nThe menu blends Greek, Mediterranean and Italian influences, with breakfast choices, light dishes, salads, pizza and beach-friendly snacks. Coffee, cold refreshments, wines and classic cocktails make it easy to enjoy the venue from morning until evening. Visitors particularly appreciate the seaside setting, thick cushioned loungers, relaxed atmosphere, enjoyable food and helpful service.\n\nA minimum spend applies to the use of sunbeds and umbrellas, with the amount deducted from food and drink orders. Booking is recommended for weekends and busy days in July and August, while arriving earlier in the morning usually provides a quieter atmosphere and a better choice of beach positions. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Olivo Sea Side Bar & Restaurant este un refugiu modern și elegant pe plaja din Polychrono, unde nisipul, apa limpede și priveliștea deschisă spre mare creează decorul perfect pentru o zi relaxantă în Halkidiki. Șezlongurile confortabile, zonele amenajate cu grijă și atmosfera liniștită îl fac potrivit atât pentru cupluri, cât și pentru familii sau grupuri de prieteni. Muzica plăcută și servirea direct pe plajă completează experiența de vacanță.\n\nMeniul combină influențe grecești, mediteraneene și italiene, cu opțiuni pentru mic dejun, preparate ușoare, salate, pizza și gustări potrivite pentru plajă. Cafeaua, băuturile reci, vinurile și cocktailurile clasice permit ca vizita să continue confortabil de dimineață până seara. Oaspeții apreciază în special cadrul de lângă mare, șezlongurile cu saltele groase, atmosfera relaxată, mâncarea și atenția personalului.\n\nUtilizarea șezlongurilor și a umbrelelor presupune un consum minim, care se scade din valoarea comenzilor. Pentru weekenduri și zilele aglomerate din iulie și august, rezervarea este recomandată, iar sosirea în prima parte a dimineții oferă de obicei o atmosferă mai liniștită și o alegere mai bună a locurilor de pe plajă. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€10 per sunbed",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

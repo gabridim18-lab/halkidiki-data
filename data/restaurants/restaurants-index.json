@@ -5195,5 +5195,37 @@
     "shortRo": "Solea Beach Bar este un loc modern și relaxat, amplasat direct pe plaja din Polychrono, unde apa limpede, atmosfera de vară și...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "olivo",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Olivo",
+    "titleRo": "Olivo",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olivo/images/olivo-hero.webp",
+    "lat": 40.02091501202629,
+    "lon": 23.521491208242516,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Olivo Sea Side Bar & Restaurant is a stylish and modern retreat on Polychrono Beach, where soft sand, clear water and open sea views...",
+    "shortRo": "Olivo Sea Side Bar & Restaurant este un refugiu modern și elegant pe plaja din Polychrono, unde nisipul, apa limpede și priveliștea...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
