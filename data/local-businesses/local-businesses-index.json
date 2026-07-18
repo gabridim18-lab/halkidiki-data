@@ -352,5 +352,21 @@
     "lon": 23.453279512119618,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "coralli",
+    "type": "local_business",
+    "titleEn": "Coralli",
+    "category": "Water sports",
+    "beaches": [
+      "kryopigi-beach",
+      "kalithea-beach",
+      "paralia-afitos",
+      "plage-liosi"
+    ],
+    "lat": 40.075033378289504,
+    "lon": 23.450555315998418,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

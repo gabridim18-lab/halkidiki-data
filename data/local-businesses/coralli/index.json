@@ -1,0 +1,40 @@
+{
+  "id": "coralli",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "kryopigi-beach",
+    "kalithea-beach",
+    "paralia-afitos",
+    "plage-liosi"
+  ],
+  "titleEn": "Coralli",
+  "titleRo": "Coralli",
+  "categoryEn": "Water sports",
+  "categoryRo": "Water sports",
+  "phone": "+306909559832",
+  "whatsapp": "+306909559832",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Kallithea - Neos Marmaras, Kallithea 630 77, Greece",
+  "lat": 40.075033378289504,
+  "lon": 23.450555315998418,
+  "coordinates": {
+    "lat": 40.075033378289504,
+    "lng": 23.450555315998418
+  },
+  "hours": {
+    "en": "Monday: 09:00–20:00\nTuesday: 09:00–20:00\nWednesday: 09:00–20:00\nThursday: 09:00–20:00\nFriday: 09:00–20:00\nSaturday: 09:00–20:00\nSunday: 09:00–20:00",
+    "ro": "Luni: 09:00–20:00\nMarți: 09:00–20:00\nMiercuri: 09:00–20:00\nJoi: 09:00–20:00\nVineri: 09:00–20:00\nSâmbătă: 09:00–20:00\nDuminică: 09:00–20:00"
+  },
+  "descriptionEn": "Coralli Water Sports is a great choice for visitors wishing to add excitement and adventure to a beach day in Kallithea. The centre is particularly known for its jet-ski experiences, enjoyed in the clear waters close to the coastline and suitable for both first-time riders and visitors with previous watersports experience.\n\nPublic feedback frequently highlights the friendly team, clear guidance, attention to safety and modern, well-maintained jet skis. The venue currently holds a strong public rating of 4.9 out of 5, based on more than 60 reviews.\n\nMorning hours are generally a good choice for calmer sea conditions, and the venue is currently listed as opening at around 9:00 AM. During July and August, arranging the activity in advance is recommended, as availability and operating conditions may depend on the weather and the state of the sea. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Coralli Water Sports este locul potrivit pentru cei care vor să adauge adrenalină unei zile petrecute pe plaja din Kallithea. Centrul este cunoscut în special pentru experiențele cu jet ski, desfășurate în apele limpezi din apropierea coastei, într-un cadru potrivit atât pentru începători, cât și pentru cei care au mai încercat activități nautice.\n\nImpresiile publice evidențiază frecvent echipa amabilă, explicațiile clare, atenția acordată siguranței și jet ski-urile moderne și bine întreținute. Locația are o evaluare publică foarte bună, de 4,9 din 5, pe baza a peste 60 de evaluări.\n\nPentru condiții mai liniștite pe mare, dimineața este de obicei o alegere potrivită, iar locația este listată cu deschidere în jurul orei 09:00. În lunile iulie și august, este recomandată organizarea activității din timp, deoarece disponibilitatea și desfășurarea sesiunilor depind de vreme și de starea mării. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
