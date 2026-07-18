@@ -1,0 +1,194 @@
+{
+  "id": "koralli",
+  "zone": "Kassandra",
+  "beachSlug": "kalithea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Koralli",
+  "titleRo": "Koralli",
+  "displayAddress": "Epar.Od. Paliouriou-Afitou 2, Kallithea 630 77, Greece",
+  "gpsCoordinates": "40.0752919841897, 23.450195900000004",
+  "lat": 40.0752919841897,
+  "lon": 23.450195900000004,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–6 pm\n\n\t\nSunday\n\t\n\n    10 am–6 pm\n\n\t\nMonday\n\t\n\n    10 am–6 pm\n\n\t\nTuesday\n\t\n\n    10 am–6 pm\n\n\t\nWednesday\n\t\n\n    10 am–6 pm\n\n\t\nThursday\n\t\n\n    10 am–6 pm\n\n\t\nFriday\n\t\n\n    10 am–6 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "18:00",
+      "labelEn": "10:00–18:00",
+      "labelRo": "10:00–18:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "18:00",
+      "labelEn": "10:00–18:00",
+      "labelRo": "10:00–18:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "18:00",
+      "labelEn": "10:00–18:00",
+      "labelRo": "10:00–18:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "18:00",
+      "labelEn": "10:00–18:00",
+      "labelRo": "10:00–18:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "18:00",
+      "labelEn": "10:00–18:00",
+      "labelRo": "10:00–18:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "18:00",
+      "labelEn": "10:00–18:00",
+      "labelRo": "10:00–18:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "18:00",
+      "labelEn": "10:00–18:00",
+      "labelRo": "10:00–18:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–18:00; Tuesday: 10:00–18:00; Wednesday: 10:00–18:00; Thursday: 10:00–18:00; Friday: 10:00–18:00; Saturday: 10:00–18:00; Sunday: 10:00–18:00",
+  "hoursRo": "Luni: 10:00–18:00; Marți: 10:00–18:00; Miercuri: 10:00–18:00; Joi: 10:00–18:00; Vineri: 10:00–18:00; Sâmbătă: 10:00–18:00; Duminică: 10:00–18:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/Korali-Beach-bar-1921444621223043/",
+  "instagram": "",
+  "phone": "+306986643050",
+  "price": "$$",
+  "rating": 3.9,
+  "descriptionEn": "",
+  "descriptionRo": "",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/koralli4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/koralli/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great dessert\n\n \n \nPopular for\n\n    Lunch\n    Solo dining\n    Good for working on laptop\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Quick bite\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Brunch\n    Lunch\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great dessert"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Solo dining",
+    "Good for working on laptop"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Brunch",
+    "Lunch",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
