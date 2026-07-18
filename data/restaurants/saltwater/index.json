@@ -1,0 +1,195 @@
+{
+  "id": "saltwater",
+  "zone": "Kassandra",
+  "beachSlug": "kalithea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Saltwater",
+  "titleRo": "Saltwater",
+  "displayAddress": "Kallithea - Neos Marmaras 0, Kassandria 630 77, Greece",
+  "gpsCoordinates": "40.07348773981139, 23.45139097745581",
+  "lat": 40.07348773981139,
+  "lon": 23.45139097745581,
+  "openingHoursRaw": "Saturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/saltwater.beach?igsh=bW5jMTdjYzhtaTVs",
+  "phone": "+306999426416",
+  "price": "$$",
+  "rating": 4.0,
+  "descriptionEn": "Saltwater Beach Restaurant is a modern beach house in Kallithea, designed for relaxing days beside clear water and memorable summer evenings filled with music, cocktails and vibrant energy. Its organised beach, stylish spaces and direct seaside setting make it suitable for both a few peaceful hours and a complete day by the coast. DJ sessions and special events are organised on selected dates, bringing a livelier atmosphere later in the afternoon and evening.\n\nThe menu highlights Mediterranean flavours, fresh fish and seafood, alongside signature dishes and drinks suitable for lunch, dinner or sunset. The venue opens at approximately 10:00 AM, with the beach menu available from around 11:00 AM and the restaurant from 1:00 PM. Parking is provided, while booking ahead is recommended for weekends, event days and preferred beach positions. Arriving close to opening time generally offers a calmer experience. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Saltwater Beach Restaurant este un beach house modern din Kallithea, creat pentru zile relaxante lângă apa limpede și pentru seri de vară cu muzică, cocktailuri și atmosferă vibrantă. Plaja amenajată, spațiile elegante și apropierea de mare îl fac potrivit atât pentru câteva ore de relaxare, cât și pentru o zi completă petrecută pe litoral. În anumite perioade sunt organizate petreceri și evenimente cu DJ, iar atmosfera devine mai animată spre după-amiază și seară.\n\nMeniul pune în valoare aromele mediteraneene, peștele și fructele de mare, alături de preparate signature și băuturi potrivite pentru prânz, cină sau apus. Locația se deschide în jurul orei 10:00, meniul de plajă este disponibil de la aproximativ 11:00, iar restaurantul de la 13:00. Parcarea este disponibilă, iar pentru weekenduri, zile cu evenimente și locurile preferate de pe plajă este recomandată rezervarea. Sosirea aproape de ora deschiderii oferă, de regulă, o atmosferă mai liniștită. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater7.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater7.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nPopular for\n\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Quick bite\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Difficult to find a space",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Difficult to find a space"
+  ],
+  "pets": [],
+  "sunbedPrice": "40€ for 2 sun loungers",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "dj_sets"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "events"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}

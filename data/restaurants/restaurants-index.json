@@ -5362,5 +5362,38 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "saltwater",
+    "zone": "Kassandra",
+    "beachSlug": "kalithea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Saltwater",
+    "titleRo": "Saltwater",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/saltwater/images/saltwater-hero.webp",
+    "lat": 40.07348773981139,
+    "lon": 23.45139097745581,
+    "rating": 4.0,
+    "price": "$$",
+    "shortEn": "Saltwater Beach Restaurant is a modern beach house in Kallithea, designed for relaxing days beside clear water and memorable summer...",
+    "shortRo": "Saltwater Beach Restaurant este un beach house modern din Kallithea, creat pentru zile relaxante lângă apa limpede și pentru seri de...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "events"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]
