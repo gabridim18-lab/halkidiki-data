@@ -1,0 +1,203 @@
+{
+  "id": "taverna-dias",
+  "zone": "Kassandra",
+  "beachSlug": "kalithea-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Taverna Dias",
+  "titleRo": "Taverna Dias",
+  "displayAddress": "Καλλιθέα Κασσανδρεια, Kassandria 630 77, Greece",
+  "gpsCoordinates": "40.07067492987121, 23.453859483637093",
+  "lat": 40.07067492987121,
+  "lon": 23.453859483637093,
+  "openingHoursRaw": "Saturday\n\t\n\n    3–11:30 pm\n\n\t\nSunday\n\t\n\n    3–11:30 pm\n\n\t\nMonday\n\t\n\n    3–11:30 pm\n\n\t\nTuesday\n\t\n\n    3–11:30 pm\n\n\t\nWednesday\n\t\n\n    3–11:30 pm\n\n\t\nThursday\n\t\n\n    3–11:30 pm\n\n\t\nFriday\n\t\n\n    3–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "15:00",
+      "close": "23:30",
+      "labelEn": "15:00–23:30",
+      "labelRo": "15:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 15:00–23:30; Tuesday: 15:00–23:30; Wednesday: 15:00–23:30; Thursday: 15:00–23:30; Friday: 15:00–23:30; Saturday: 15:00–23:30; Sunday: 15:00–23:30",
+  "hoursRo": "Luni: 15:00–23:30; Marți: 15:00–23:30; Miercuri: 15:00–23:30; Joi: 15:00–23:30; Vineri: 15:00–23:30; Sâmbătă: 15:00–23:30; Duminică: 15:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://instagram.com/dias_restaurant?igshid=MzMyNGUyNmU2YQ==",
+  "phone": "+306981110881",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Taverna Dias is a family-run restaurant set in a peaceful green location above the Kallithea coastline, offering beautiful views across the Toroneos Gulf. Its olive-tree garden, outdoor tables and traditional atmosphere create an inviting setting for a relaxed lunch or a summer dinner overlooking the sea. Families can also enjoy a dedicated children’s area, while private parking is available at the venue.\n\nThe menu focuses on Greek and Mediterranean cuisine, featuring fresh fish, seafood, grilled octopus, prawns, salads and locally sourced meat dishes, including a variety of grilled specialities. Guests particularly appreciate the sea views, generous portions, fish dishes and pleasant garden atmosphere. Booking ahead is recommended for tables closest to the terrace edge and for weekend dinners. Arriving shortly before sunset offers the opportunity to enjoy the scenery in its most beautiful light. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Taverna Dias este un restaurant de familie amplasat într-un cadru verde și liniștit, deasupra coastei din Kallithea, cu priveliști spectaculoase asupra Golfului Toroneos. Grădina cu măslini, mesele în aer liber și atmosfera tradițională creează un loc potrivit pentru un prânz relaxat sau pentru o cină de vară cu vedere spre mare. Familiile beneficiază de un spațiu amenajat pentru copii, iar locația dispune și de parcare privată.\n\nMeniul pune accent pe bucătăria grecească și mediteraneeană, cu pește proaspăt, fructe de mare, caracatiță la grătar, creveți, salate și preparate din carne locală, inclusiv diferite specialități la grătar. Oaspeții apreciază în special priveliștea, porțiile generoase, preparatele din pește și atmosfera plăcută din grădină. Pentru mesele aflate cel mai aproape de marginea terasei și pentru cinele din weekend, rezervarea în avans este recomandată. O sosire puțin înainte de apus permite admirarea peisajului în cea mai frumoasă lumină. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Upmarket\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Dinner reservations recommended\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Upmarket"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}

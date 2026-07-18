@@ -5333,5 +5333,34 @@
     "shortRo": "Agora Beach este un beach bar și restaurant grecesc amplasat într-un cadru natural frumos din Kriopigi, cu apă turcoaz, șezlonguri...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "taverna-dias",
+    "zone": "Kassandra",
+    "beachSlug": "kalithea-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Taverna Dias",
+    "titleRo": "Taverna Dias",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-dias/images/taverna-dias-hero.webp",
+    "lat": 40.07067492987121,
+    "lon": 23.453859483637093,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Taverna Dias is a family-run restaurant set in a peaceful green location above the Kallithea coastline, offering beautiful views...",
+    "shortRo": "Taverna Dias este un restaurant de familie amplasat într-un cadru verde și liniștit, deasupra coastei din Kallithea, cu priveliști...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]
