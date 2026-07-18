@@ -1,0 +1,170 @@
+{
+  "id": "ohana-waves",
+  "zone": "Kassandra",
+  "beachSlug": "kalithea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Ohana Waves",
+  "titleRo": "Ohana Waves",
+  "displayAddress": "Epar.Od. Paliouriou-Afitou 2, Kallithea 630 77, Greece",
+  "gpsCoordinates": "40.074133368394776, 23.45121096831276",
+  "lat": 40.074133368394776,
+  "lon": 23.45121096831276,
+  "openingHoursRaw": "Saturday\n\t\n\n    9 am–9 pm\n\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306973701449",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Ohana Waves Beach Bar offers a relaxed tropical atmosphere on the beach of Kallithea, with sunbeds, comfortable seaside areas and beautiful views across the water. It is well suited to a full beach day, from morning coffee to cocktails, cold drinks and light dishes such as salads and sandwiches. Visitors frequently praise the setting, beach, food, drinks and friendly staff, although a small number of older reviews mention slower service and louder music when the venue becomes particularly busy.\n\nFree parking is available, while reserving sunbeds is advisable at weekends and during July and August. Current listings indicate opening at around 9:00 AM; arriving between 9:00 and 10:00 AM is the most practical choice for a quieter atmosphere and a better selection of places. Sunbed arrangements and any minimum-spend requirement should be confirmed when booking, as conditions may change between seasons.",
+  "descriptionRo": "Ohana Waves Beach Bar oferă o atmosferă tropicală și relaxată pe plaja din Kallithea, cu șezlonguri, spații amenajate aproape de apă și priveliști frumoase spre mare. Este potrivit pentru o zi întreagă de plajă, de la cafeaua de dimineață până la cocktailuri, băuturi reci și preparate ușoare precum salate și sandvișuri. Oaspeții apreciază în special cadrul, apa, mâncarea, băuturile și personalul prietenos, deși unele impresii mai vechi menționează servire mai lentă și muzică puternică atunci când locația este foarte aglomerată.\n\nParcarea gratuită este disponibilă, iar rezervarea șezlongurilor este recomandată în weekend și în lunile iulie–august. Listările actuale indică deschiderea în jurul orei 09:00; pentru o experiență mai liniștită și o alegere mai bună a locurilor, sosirea între 09:00 și 10:00 este cea mai practică. Condițiile șezlongurilor și eventualul consum minim trebuie confirmate la rezervare, deoarece pot varia sezonier.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "20Euro for a sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

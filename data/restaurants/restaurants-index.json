@@ -5088,5 +5088,24 @@
     "cuisineTypes": [
       "mediterranean"
     ]
+  },
+  {
+    "id": "ohana-waves",
+    "zone": "Kassandra",
+    "beachSlug": "kalithea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Ohana Waves",
+    "titleRo": "Ohana Waves",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ohana-waves/images/ohana-waves-hero.webp",
+    "lat": 40.074133368394776,
+    "lon": 23.45121096831276,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Ohana Waves Beach Bar offers a relaxed tropical atmosphere on the beach of Kallithea, with sunbeds, comfortable seaside areas and...",
+    "shortRo": "Ohana Waves Beach Bar oferă o atmosferă tropicală și relaxată pe plaja din Kallithea, cu șezlonguri, spații amenajate aproape de apă...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
