@@ -5454,5 +5454,24 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "cevicheria",
+    "zone": "Kassandra",
+    "beachSlug": "kalithea-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Cevicheria",
+    "titleRo": "Cevicheria",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria-hero.webp",
+    "lat": 40.07546791250477,
+    "lon": 23.449017328571802,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Cevicheria – Spitaki x Cevicheria offers a refined dining experience in Kallithea, inspired by Nikkei cuisine and its distinctive...",
+    "shortRo": "Cevicheria – Spitaki x Cevicheria oferă în Kallithea o experiență gastronomică rafinată, inspirată de bucătăria Nikkei, în care...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]

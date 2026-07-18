@@ -1,0 +1,187 @@
+{
+  "id": "cevicheria",
+  "zone": "Kassandra",
+  "beachSlug": "kalithea-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Cevicheria",
+  "titleRo": "Cevicheria",
+  "displayAddress": "Epar.Od. Paliouriou-Afitou 2, Kallithea 630 77, Greece ",
+  "gpsCoordinates": "40.07546791250477, 23.449017328571802",
+  "lat": 40.07546791250477,
+  "lon": 23.449017328571802,
+  "openingHoursRaw": "Saturday\n\t\n\n    7 pm–2 am\n\n\t\nSunday\n\t\n\n    7 pm–2 am\n\n\t\nMonday\n\t\n\n    7 pm–2 am\n\n\t\nTuesday\n\t\n\n    7 pm–2 am\n\n\t\nWednesday\n\t\n\n    7 pm–2 am\n\n\t\nThursday\n\t\n\n    7 pm–2 am\n\n\t\nFriday\n\t\n\n    7 pm–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "19:00",
+      "close": "02:00",
+      "labelEn": "19:00–02:00",
+      "labelRo": "19:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "19:00",
+      "close": "02:00",
+      "labelEn": "19:00–02:00",
+      "labelRo": "19:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "19:00",
+      "close": "02:00",
+      "labelEn": "19:00–02:00",
+      "labelRo": "19:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "19:00",
+      "close": "02:00",
+      "labelEn": "19:00–02:00",
+      "labelRo": "19:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "19:00",
+      "close": "02:00",
+      "labelEn": "19:00–02:00",
+      "labelRo": "19:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "19:00",
+      "close": "02:00",
+      "labelEn": "19:00–02:00",
+      "labelRo": "19:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "19:00",
+      "close": "02:00",
+      "labelEn": "19:00–02:00",
+      "labelRo": "19:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 19:00–02:00; Tuesday: 19:00–02:00; Wednesday: 19:00–02:00; Thursday: 19:00–02:00; Friday: 19:00–02:00; Saturday: 19:00–02:00; Sunday: 19:00–02:00",
+  "hoursRo": "Luni: 19:00–02:00; Marți: 19:00–02:00; Miercuri: 19:00–02:00; Joi: 19:00–02:00; Vineri: 19:00–02:00; Sâmbătă: 19:00–02:00; Duminică: 19:00–02:00",
+  "website": "https://www.cevicheria.gr/spitaki.html",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306945509969",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Cevicheria – Spitaki x Cevicheria offers a refined dining experience in Kallithea, inspired by Nikkei cuisine and its distinctive combination of Japanese techniques and vibrant Peruvian flavours. The menu highlights ceviche prepared with raw fish, fresh citrus, tropical fruit and aromatic spices, alongside sushi, gyoza, anticucho, noodle salads and meat or fish dishes cooked over a conro grill. Handcrafted cocktails and a carefully selected wine list complete an elegant evening with beautiful sea views.\n\nGuests particularly appreciate the quality of the food, attentive service, romantic atmosphere and modern presentation. The restaurant is suitable for couples, families and small groups, with currently published opening hours from approximately 7:30 PM until 2:00 AM. Reservations apply to the restaurant area and are intended for guests enjoying a full meal, making advance booking advisable at weekends and during busy summer evenings. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Cevicheria – Spitaki x Cevicheria oferă în Kallithea o experiență gastronomică rafinată, inspirată de bucătăria Nikkei, în care aromele japoneze se îmbină cu influențele vibrante ale Peruului. Meniul pune în valoare ceviche preparat cu pește crud, citrice, fructe tropicale și condimente aromate, alături de sushi, gyoza, anticucho, salate cu noodles și preparate din carne sau pește gătite pe grătar conro. Cocktailurile artizanale și selecția de vinuri completează o cină elegantă, într-un decor cu vedere frumoasă spre mare.\n\nOaspeții apreciază în special calitatea preparatelor, servirea atentă, atmosfera romantică și prezentarea modernă a mâncării. Restaurantul este potrivit pentru cupluri, familii și grupuri mici, iar programul publicat începe în jurul orei 19:30 și continuă până la aproximativ 02:00. Rezervarea se aplică zonei de restaurant și presupune servirea unei mese complete, fiind recomandată în special în weekend și în serile aglomerate de vară. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/cevicheria4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cevicheria/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Assistive hearing loop\n    Wheelchair-accessible car park\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n    On-site services\n\n \n \nHighlights\n\n    Great beer selection\n\n \n \nPopular for\n\n    Dinner\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Late-night food\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Assistive hearing loop",
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery",
+    "On-site services"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Dinner"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}
