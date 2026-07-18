@@ -5283,5 +5283,36 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "shy-shark",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Shy Shark",
+    "titleRo": "Shy Shark",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shy-shark/images/shy-shark-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/shy-shark/images/shy-shark-hero.webp",
+    "lat": 40.028447967914126,
+    "lon": 23.5029363553355,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Shy Shark Seaside Bar is an elegant beachfront retreat in Polychrono, where lush greenery, minimalist décor and the natural shade of...",
+    "shortRo": "Shy Shark Seaside Bar este un refugiu elegant de pe plaja din Polychrono, unde vegetația bogată, decorul minimalist și umbra naturală...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]
