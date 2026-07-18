@@ -321,5 +321,20 @@
     "lon": 23.52109424131889,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "horse-ranch-manippos",
+    "type": "local_business",
+    "titleEn": "Horse-Ranch Manippos",
+    "category": "Equestrian facility",
+    "beaches": [
+      "kryopigi-beach",
+      "kalithea-beach",
+      "paralia-afitos"
+    ],
+    "lat": 40.06414418627555,
+    "lon": 23.455813804605715,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

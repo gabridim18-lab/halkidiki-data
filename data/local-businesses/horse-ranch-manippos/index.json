@@ -1,0 +1,39 @@
+{
+  "id": "horse-ranch-manippos",
+  "type": "local_business",
+  "booking": 0,
+  "beaches": [
+    "kryopigi-beach",
+    "kalithea-beach",
+    "paralia-afitos"
+  ],
+  "titleEn": "Horse-Ranch Manippos",
+  "titleRo": "Horse-Ranch Manippos",
+  "categoryEn": "Equestrian facility",
+  "categoryRo": "Equestrian facility",
+  "phone": "",
+  "whatsapp": "",
+  "website": "https://www.ranchmanippos.com/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Horse-Ranch Manippos Halkidiki, Kallithea 630 77, Greece",
+  "lat": 40.06414418627555,
+  "lon": 23.455813804605715,
+  "coordinates": {
+    "lat": 40.06414418627555,
+    "lng": 23.455813804605715
+  },
+  "hours": {
+    "en": "",
+    "ro": ""
+  },
+  "descriptionEn": "Horse-Ranch Manippos Halkidiki offers a memorable way to explore the landscapes of Kassandra on horseback, following trails through olive groves, peaceful forests, scenic hills and beaches near Kallithea. The family-run ranch welcomes both beginners and experienced riders, with each experience beginning with horse matching, basic riding guidance and a short safety briefing.\n\nAvailable experiences:\n\nBeach Trail – €30 per person: a relaxed ride of approximately 30 minutes, suitable for beginners and children, available during May, June, September and October.\nHill & Beach Trail – €70 per person: an approximately 1-hour-and-10-minute route through hills, forest paths and the beach, designed for experienced riders and available throughout the season.\nHill & Beach Trail with bareback riding into the sea – €100 per person: an approximately 1-hour-and-20-minute experience for confident, experienced riders, available during the second half of June, July and August.\nExtended Hill & Beach Trail – €90 per person: an immersive ride lasting more than two hours through hills, beaches, forests and countryside trails, available in May, late September and October.\nPrivate Horse Riding Trail Experience for Two – €200 for two people: a private ride of approximately one hour, adapted to the riders’ experience and available throughout the season.\n\nAll rides operate by appointment, in small groups and under the supervision of experienced guides. During the hottest summer months, sessions take place in the early morning or later in the afternoon to protect the horses from high temperatures. Helmets and bottled water are included, while long trousers and closed shoes are recommended. A general weight limit of 90 kg applies, and minimum age and riding-experience requirements vary according to the selected trail.\n\nPlaces are limited and often book well in advance, particularly during July and August. A 50% deposit is required to confirm the reservation, and punctual arrival is important, as delays of more than 15 minutes may result in the booking being lost. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Horse-Ranch Manippos Halkidiki oferă o modalitate aparte de a descoperi peisajele din Kassandra, călare, printre livezi de măslini, drumuri de pădure, dealuri cu vedere spre mare și plajele din apropierea stațiunii Kallithea. Centrul este administrat de o familie pasionată de cai, iar fiecare tur începe cu alegerea calului potrivit, explicații de bază și un scurt instructaj de siguranță. Sunt disponibile experiențe atât pentru începători și copii, cât și trasee mai dinamice pentru călăreții cu experiență.\n\nExperiențe disponibile:\n\nBeach Trail – 30 € de persoană: plimbare relaxată de aproximativ 30 de minute, potrivită pentru începători și copii, disponibilă în lunile mai, iunie, septembrie și octombrie.\nHill & Beach Trail – 70 € de persoană: traseu de aproximativ 1 oră și 10 minute prin dealuri, pădure și de-a lungul plajei, destinat călăreților cu experiență și disponibil pe tot parcursul sezonului.\nHill & Beach Trail cu mers fără șa în mare – 100 € de persoană: experiență de aproximativ 1 oră și 20 de minute, rezervată călăreților experimentați și disponibilă în a doua jumătate a lunii iunie, în iulie și august.\nExtended Hill & Beach Trail – 90 € de persoană: traseu extins de peste două ore prin dealuri, plajă, pădure și zone rurale, disponibil în mai, la sfârșitul lunii septembrie și în octombrie.\nPrivate Horse Riding Trail Experience for Two – 200 € pentru două persoane: tur privat de aproximativ o oră, adaptat nivelului participanților și disponibil pe tot parcursul sezonului.\n\nToate plimbările se desfășoară numai cu rezervare, în grupuri mici și sub îndrumarea ghizilor. Vara, traseele sunt organizate dimineața devreme sau spre seară, pentru a evita temperaturile ridicate și pentru protejarea cailor. Casca de protecție și apa sunt incluse, iar pantalonii lungi și încălțămintea închisă sunt recomandate. Limita generală este de 90 kg, iar vârsta minimă și experiența necesară diferă în funcție de traseul ales.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
