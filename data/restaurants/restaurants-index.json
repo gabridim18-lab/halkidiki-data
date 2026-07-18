@@ -5227,5 +5227,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "nude",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Nude",
+    "titleRo": "Nude",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude-hero.webp",
+    "lat": 40.02618871196678,
+    "lon": 23.507769696002423,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "NUDE Beach Bar is a modern and relaxed venue on Polychrono Beach, where summer days combine the sea, music, fresh food and creative...",
+    "shortRo": "NUDE Beach Bar este un loc modern și relaxat de pe plaja din Polychrono, unde zilele de vară se petrec între mare, muzică, preparate...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

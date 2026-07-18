@@ -1,0 +1,146 @@
+{
+  "id": "nude",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Nude",
+  "titleRo": "Nude",
+  "displayAddress": "Polychrono 630 85, Greece",
+  "gpsCoordinates": "40.02618871196678, 23.507769696002423",
+  "lat": 40.02618871196678,
+  "lon": 23.507769696002423,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–8 pm\n\n\t\nSunday\n\t\n\n    10 am–8 pm\n\n\t\nMonday\n\t\n\n    10 am–8 pm\n\n\t\nTuesday\n\t\n\n    10 am–8 pm\n\n\t\nWednesday\n\t\n\n    10 am–8 pm\n\n\t\nThursday\n\t\n\n    10 am–8 pm\n\n\t\nFriday\n\t\n\n    10 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–20:00; Tuesday: 10:00–20:00; Wednesday: 10:00–20:00; Thursday: 10:00–20:00; Friday: 10:00–20:00; Saturday: 10:00–20:00; Sunday: 10:00–20:00",
+  "hoursRo": "Luni: 10:00–20:00; Marți: 10:00–20:00; Miercuri: 10:00–20:00; Joi: 10:00–20:00; Vineri: 10:00–20:00; Sâmbătă: 10:00–20:00; Duminică: 10:00–20:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306972676238",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "NUDE Beach Bar is a modern and relaxed venue on Polychrono Beach, where summer days combine the sea, music, fresh food and creative cocktails. The atmosphere is peaceful earlier in the day, with laid-back sounds and direct views of the water, gradually becoming livelier during the afternoon. The selection includes beach-friendly dishes, signature cocktails, refreshing drinks and shisha.\n\nThe venue opens daily at approximately 10:00 AM, with the beach menu available from around 11:00 AM and the restaurant opening at 1:00 PM. Booking ahead is recommended at weekends and during July and August, particularly for sunbeds and larger groups. Arriving close to opening time is a practical choice for a quieter atmosphere and a better selection of places. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "NUDE Beach Bar este un loc modern și relaxat de pe plaja din Polychrono, unde zilele de vară se petrec între mare, muzică, preparate proaspete și cocktailuri creative. Atmosfera este liniștită în prima parte a zilei, cu ritmuri relaxante și vedere directă spre apă, devenind treptat mai animată spre după-amiază. Oferta include gustări și preparate potrivite pentru plajă, cocktailuri signature, băuturi răcoritoare și narghilea.\n\nLocația se deschide zilnic în jurul orei 10:00, meniul de plajă fiind disponibil de la aproximativ 11:00, iar restaurantul de la 13:00. În weekend și în lunile iulie–august, rezervarea este recomandată, mai ales pentru șezlonguri și grupuri mai mari. Pentru o atmosferă mai liniștită și o alegere mai bună a locurilor, este indicată sosirea aproape de ora deschiderii. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/nude3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nude/images/menu2.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free parking lot\n    On-site parking\n    Paid parking lot",
+  "accessibility": [
+    "Wheelchair-accessible car park"
+  ],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free parking lot",
+    "On-site parking",
+    "Paid parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "First row 60€, VIP - 80€, the rest is free only with consummation",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
