@@ -1,0 +1,170 @@
+{
+  "id": "kudo",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Kudo",
+  "titleRo": "Kudo",
+  "displayAddress": "Παραλία Πολυχρόνου, Polichrono 630 85, Greece",
+  "gpsCoordinates": "40.01964969823161, 23.525053181740784",
+  "lat": 40.01964969823161,
+  "lon": 23.525053181740784,
+  "openingHoursRaw": "Saturday\n\t\n\n    9 am–2 am\n\n\t\nSunday\n\t\n\n    9 am–2 am\n\n\t\nMonday\n\t\n\n    9 am–2 am\n\n\t\nTuesday\n\t\n\n    9 am–2 am\n\n\t\nWednesday\n\t\n\n    9 am–2 am\n\n\t\nThursday\n\t\n\n    9 am–2 am\n\n\t\nFriday\n\t\n\n    9 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–02:00; Tuesday: 09:00–02:00; Wednesday: 09:00–02:00; Thursday: 09:00–02:00; Friday: 09:00–02:00; Saturday: 09:00–02:00; Sunday: 09:00–02:00",
+  "hoursRo": "Luni: 09:00–02:00; Marți: 09:00–02:00; Miercuri: 09:00–02:00; Joi: 09:00–02:00; Vineri: 09:00–02:00; Sâmbătă: 09:00–02:00; Duminică: 09:00–02:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306970563978",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Kudo Beach Bar is a relaxed beachfront venue in Polychrono, suitable for everything from morning coffee and a few peaceful hours by the sea to cocktails, music and livelier summer evenings. The menu includes options such as pizza, gyros and light bites, alongside smoothies, drinks and shisha. Public feedback particularly highlights the friendly staff, quick service, pleasant atmosphere and reasonable prices.\n\nCurrent listings show daily opening hours of approximately 9:00 AM–2:00 AM. Arriving between 9:00 and 10:00 AM is a practical choice for a quieter atmosphere and a better selection of places, especially at weekends and during July and August. I could not confirm dedicated private parking or a formal reservation system, so larger groups may wish to check availability ahead and allow extra time to find parking in Polychrono.",
+  "descriptionRo": "Kudo Beach Bar este un loc relaxat de pe plaja din Polychrono, potrivit atât pentru cafeaua de dimineață și câteva ore lângă mare, cât și pentru cocktailuri, muzică și seri petrecute într-o atmosferă mai animată. Meniul include preparate precum pizza, gyros și gustări, alături de smoothie-uri, băuturi și narghilea. Impresiile publice apreciază în special personalul prietenos, servirea rapidă, atmosfera plăcută și prețurile considerate rezonabile.\n\nProgramul este listat în prezent între 09:00 și 02:00, zilnic. Pentru o experiență mai liniștită și o alegere mai bună a locurilor, este indicată sosirea între 09:00 și 10:00, mai ales în weekend și în lunile iulie–august. Nu am putut confirma existența unei parcări proprii sau a unui sistem oficial de rezervare, așa că pentru grupuri mai mari este utilă verificarea disponibilității în avans și alocarea unui timp suplimentar pentru parcarea din Polychrono.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€20 per sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

@@ -5126,5 +5126,24 @@
     "shortRo": "Nefeli Garden Restaurant oferă o experiență mediteraneeană rafinată, într-o grădină verde aflată chiar lângă plaja din Polychrono....",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "kudo",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Kudo",
+    "titleRo": "Kudo",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kudo/images/kudo-hero.webp",
+    "lat": 40.01964969823161,
+    "lon": 23.525053181740784,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Kudo Beach Bar is a relaxed beachfront venue in Polychrono, suitable for everything from morning coffee and a few peaceful hours by...",
+    "shortRo": "Kudo Beach Bar este un loc relaxat de pe plaja din Polychrono, potrivit atât pentru cafeaua de dimineață și câteva ore lângă mare, cât...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
