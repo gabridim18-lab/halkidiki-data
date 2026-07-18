@@ -1,0 +1,221 @@
+{
+  "id": "agora-beach",
+  "zone": "Kassandra",
+  "beachSlug": "kryopigi-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Agora Beach",
+  "titleRo": "Agora Beach",
+  "displayAddress": "Κρυοπηγη Χαλκιδική 630 77, Greece",
+  "gpsCoordinates": "40.05013847651257, 23.471528149648606",
+  "lat": 40.05013847651257,
+  "lon": 23.471528149648606,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–11 pm\n\n\t\nSunday\n\t\n\n    10 am–11 pm\n\n\t\nMonday\n\t\n\n    10 am–11 pm\n\n\t\nTuesday\n\t\n\n    10 am–11 pm\n\n\t\nWednesday\n\t\n\n    10 am–11 pm\n\n\t\nThursday\n\t\n\n    10 am–11 pm\n\n\t\nFriday\n\t\n\n    10 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:00; Tuesday: 10:00–23:00; Wednesday: 10:00–23:00; Thursday: 10:00–23:00; Friday: 10:00–23:00; Saturday: 10:00–23:00; Sunday: 10:00–23:00",
+  "hoursRo": "Luni: 10:00–23:00; Marți: 10:00–23:00; Miercuri: 10:00–23:00; Joi: 10:00–23:00; Vineri: 10:00–23:00; Sâmbătă: 10:00–23:00; Duminică: 10:00–23:00",
+  "website": "https://www.agorabeach.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306986988651",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Agora Beach is a Greek beach bar and restaurant set in a beautiful natural location in Kriopigi, featuring turquoise water, organised sunbeds and a relaxed boho-inspired atmosphere. A visit can begin with swimming and refreshing drinks served directly on the beach, followed by Mediterranean food, cocktails and a meal on the sea-view terrace. The menu focuses on Greek cuisine, freshly prepared snacks, fish and seafood, with the daily fresh-fish selection depending on the available catch.\n\nThe venue opens daily at around 10:00 AM, with the beach food menu available from approximately 11:00 AM and the restaurant opening at 1:00 PM. Online booking is recommended for sunbeds and restaurant tables, particularly at weekends and during the busiest summer months, while reserved places are held for approximately 15 minutes. Parking is available; under the published policy, guests arriving without a reservation receive a €10 food-and-drink voucher connected to parking, redeemable at the beach bar or restaurant. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Agora Beach este un beach bar și restaurant grecesc amplasat într-un cadru natural frumos din Kriopigi, cu apă turcoaz, șezlonguri amenajate și o atmosferă relaxată, cu accente boho. Ziua poate începe cu înot și băuturi răcoritoare servite pe plajă, continuând cu preparate mediteraneene, cocktailuri și o masă pe terasa cu vedere spre mare. Meniul pune accent pe bucătăria grecească, gustări proaspăt pregătite, pește și fructe de mare, iar selecția zilnică de pește depinde de captura disponibilă.\n\nLocația se deschide zilnic în jurul orei 10:00, meniul de plajă fiind disponibil de la aproximativ 11:00, iar restaurantul de la 13:00. Rezervarea online este recomandată pentru șezlonguri și mese, în special în weekend și în lunile aglomerate, iar locul rezervat este păstrat timp de aproximativ 15 minute. Parcarea este disponibilă; pentru vizitatorii fără rezervare, politica publicată prevede un voucher de 10 €, care poate fi folosit pentru comenzile de mâncare și băuturi. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    On-site services\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n    Live music\n    Rooftop seating\n\n \n \nPopular for\n\n    Breakfast\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Happy-hour drinks\n    Happy-hour food\n    Late-night food\n    Organic dishes\n    Private dining room\n    Quick bite\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dinner\n    Catering\n    Counter service\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Reservations required\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Paid street parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list",
+    "Live music",
+    "Rooftop seating"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Happy-hour drinks",
+    "Happy-hour food",
+    "Late-night food",
+    "Organic dishes",
+    "Private dining room",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Counter service",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Reservations required",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Paid street parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "40Euro first row; 30Euro second row",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

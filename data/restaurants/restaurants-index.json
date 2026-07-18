@@ -5314,5 +5314,24 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "agora-beach",
+    "zone": "Kassandra",
+    "beachSlug": "kryopigi-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Agora Beach",
+    "titleRo": "Agora Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/agora-beach/images/agora-beach-hero.webp",
+    "lat": 40.05013847651257,
+    "lon": 23.471528149648606,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Agora Beach is a Greek beach bar and restaurant set in a beautiful natural location in Kriopigi, featuring turquoise water, organised...",
+    "shortRo": "Agora Beach este un beach bar și restaurant grecesc amplasat într-un cadru natural frumos din Kriopigi, cu apă turcoaz, șezlonguri...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
