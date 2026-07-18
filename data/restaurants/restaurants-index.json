@@ -5254,5 +5254,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "amaya",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Amaya",
+    "titleRo": "Amaya",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya-hero.webp",
+    "lat": 40.02648858115648,
+    "lon": 23.507198385459088,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Amaya Beach Club is an elegant seaside retreat on the Polychrono coast, where modern design, comfortable sunbeds and stylish lounge...",
+    "shortRo": "Amaya Beach Club este un refugiu elegant pe litoralul din Polychrono, unde designul modern, șezlongurile confortabile și spațiile...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]

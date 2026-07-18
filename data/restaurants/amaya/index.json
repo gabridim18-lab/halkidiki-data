@@ -1,0 +1,147 @@
+{
+  "id": "amaya",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Amaya",
+  "titleRo": "Amaya",
+  "displayAddress": "2GG4+9J, Pallini 630 85, Greece",
+  "gpsCoordinates": "40.02648858115648, 23.507198385459088",
+  "lat": 40.02648858115648,
+  "lon": 23.507198385459088,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–10 pm\n\n\t\nSunday\n\t\n\n    10 am–10 pm\n\n\t\nMonday\n\t\n\n    10 am–10 pm\n\n\t\nTuesday\n\t\n\n    10 am–10 pm\n\n\t\nWednesday\n\t\n\n    10 am–10 pm\n\n\t\nThursday\n\t\n\n    10 am–10 pm\n\n\t\nFriday\n\t\n\n    10 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–22:00; Tuesday: 10:00–22:00; Wednesday: 10:00–22:00; Thursday: 10:00–22:00; Friday: 10:00–22:00; Saturday: 10:00–22:00; Sunday: 10:00–22:00",
+  "hoursRo": "Luni: 10:00–22:00; Marți: 10:00–22:00; Miercuri: 10:00–22:00; Joi: 10:00–22:00; Vineri: 10:00–22:00; Sâmbătă: 10:00–22:00; Duminică: 10:00–22:00",
+  "website": "https://amayabeach.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306974888915",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Amaya Beach Club is an elegant seaside retreat on the Polychrono coast, where modern design, comfortable sunbeds and stylish lounge areas create a refined setting for a relaxing day by the sea. The atmosphere blends peaceful beachfront moments with carefully selected music and a sophisticated energy, making it equally inviting for daytime relaxation and sunset cocktails.\n\nThe selection includes snacks, refreshing drinks, shisha and signature cocktails designed to complement the beach-club experience. For the 2026 season, a collaboration with Momo Asian Bar introduces Asian-inspired flavours alongside carefully crafted cocktails and contemporary presentation.\n\nEarlier in the day, Amaya offers a calmer atmosphere for seaside relaxation, while the music, lighting and energy become livelier towards the evening. For sunbed reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Amaya Beach Club este un refugiu elegant pe litoralul din Polychrono, unde designul modern, șezlongurile confortabile și spațiile lounge creează un cadru rafinat pentru o zi de relaxare lângă mare. Atmosfera combină liniștea plajei cu muzică atent aleasă și o energie sofisticată, potrivită atât pentru momente petrecute la soare, cât și pentru cocktailuri savurate spre apus.\n\nOferta include gustări, băuturi răcoritoare, narghilea și cocktailuri signature, pregătite pentru a completa experiența de beach club. Pentru sezonul 2026, colaborarea cu Momo Asian Bar aduce și influențe asiatice în selecția culinară, alături de cocktailuri realizate cu atenție și prezentări moderne.\n\nÎn prima parte a zilei, Amaya este potrivit pentru relaxare și o atmosferă mai calmă, în timp ce spre seară muzica, luminile și energia locului creează un cadru mai vibrant. Pentru rezervarea șezlongurilor sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/amaya5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaya/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free parking lot",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "50Euro first row, 40 second row, 30Euro the rest per sunbeds",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}
