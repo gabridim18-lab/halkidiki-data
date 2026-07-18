@@ -5176,5 +5176,24 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "solea",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Solea",
+    "titleRo": "Solea",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea-hero.webp",
+    "lat": 40.02039738648789,
+    "lon": 23.523046889451127,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Solea Beach Bar is a modern and relaxed venue located directly on Polychrono Beach, where clear water, summer atmosphere and open sea...",
+    "shortRo": "Solea Beach Bar este un loc modern și relaxat, amplasat direct pe plaja din Polychrono, unde apa limpede, atmosfera de vară și...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]

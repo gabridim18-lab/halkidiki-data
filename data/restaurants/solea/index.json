@@ -1,0 +1,165 @@
+{
+  "id": "solea",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Solea",
+  "titleRo": "Solea",
+  "displayAddress": "Polychrono 630 85, Greece",
+  "gpsCoordinates": "40.02039738648789, 23.523046889451127",
+  "lat": 40.02039738648789,
+  "lon": 23.523046889451127,
+  "openingHoursRaw": "Saturday\n\t\n\n    9 am–3 am\n\n\t\nSunday\n\t\n\n    9 am–3 am\n\n\t\nMonday\n\t\n\n    9 am–3 am\n\n\t\nTuesday\n\t\n\n    9 am–3 am\n\n\t\nWednesday\n\t\n\n    9 am–3 am\n\n\t\nThursday\n\t\n\n    9 am–3 am\n\n\t\nFriday\n\t\n\n    9 am–3 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–03:00; Tuesday: 09:00–03:00; Wednesday: 09:00–03:00; Thursday: 09:00–03:00; Friday: 09:00–03:00; Saturday: 09:00–03:00; Sunday: 09:00–03:00",
+  "hoursRo": "Luni: 09:00–03:00; Marți: 09:00–03:00; Miercuri: 09:00–03:00; Joi: 09:00–03:00; Vineri: 09:00–03:00; Sâmbătă: 09:00–03:00; Duminică: 09:00–03:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/solea_beachbar?igsh=MWt2eWEwMWt6ZGRxdA==",
+  "phone": "+306979938170",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Solea Beach Bar is a modern and relaxed venue located directly on Polychrono Beach, where clear water, summer atmosphere and open sea views create an inviting setting for a full day by the coast. The selection includes beach-friendly food, refreshing drinks and cocktails served in a bright and welcoming environment.\n\nThe venue has a very strong public rating and stays open until late, making it suitable for both daytime relaxation and evening drinks with music. During the busiest summer periods, arriving earlier in the day may provide a quieter experience. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Solea Beach Bar este un loc modern și relaxat, amplasat direct pe plaja din Polychrono, unde apa limpede, atmosfera de vară și priveliștea spre mare creează cadrul potrivit pentru o zi întreagă de vacanță. Oferta include preparate potrivite pentru plajă, băuturi răcoritoare și cocktailuri, servite într-un decor luminos și primitor.\n\nLocația are o evaluare publică foarte bună și rămâne deschisă până târziu, fiind potrivită atât pentru relaxare în timpul zilei, cât și pentru băuturi și muzică seara. În perioadele aglomerate, sosirea în prima parte a zilei poate oferi o experiență mai liniștită. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/solea4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/solea/images/menu1.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Sport\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Sport"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€20 per sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}
