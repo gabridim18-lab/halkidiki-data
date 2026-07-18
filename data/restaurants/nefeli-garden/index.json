@@ -1,0 +1,197 @@
+{
+  "id": "nefeli-garden",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Nefeli Garden",
+  "titleRo": "Nefeli Garden",
+  "displayAddress": "Παραλία Πολυχρόνου, Polichrono 630 85, Greece",
+  "gpsCoordinates": "40.01853582324504, 23.5273223265098",
+  "lat": 40.01853582324504,
+  "lon": 23.5273223265098,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–11:30 pm\n\n\t\nSunday\n\t\n\n    10 am–11:30 pm\n\n\t\nMonday\n\t\n\n    10 am–11 pm\n\n\t\nTuesday\n\t\n\n    10 am–11 pm\n\n\t\nWednesday\n\t\n\n    10 am–11 pm\n\n\t\nThursday\n\t\n\n    10 am–11 pm\n\n\t\nFriday\n\t\n\n    10 am–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:30",
+      "labelEn": "10:00–23:30",
+      "labelRo": "10:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:00; Tuesday: 10:00–23:00; Wednesday: 10:00–23:00; Thursday: 10:00–23:00; Friday: 10:00–23:30; Saturday: 10:00–23:30; Sunday: 10:00–23:30",
+  "hoursRo": "Luni: 10:00–23:00; Marți: 10:00–23:00; Miercuri: 10:00–23:00; Joi: 10:00–23:00; Vineri: 10:00–23:30; Sâmbătă: 10:00–23:30; Duminică: 10:00–23:30",
+  "website": "http://nefelirestaurant.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306938321556",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Nefeli Garden Restaurant offers a refined Mediterranean dining experience in a lush garden beside Polychrono Beach. Its peaceful atmosphere, outdoor tables and seaside setting make it an inviting choice for both a relaxed lunch and a romantic evening meal. The menu focuses on fresh fish, seafood and lobster, alongside traditional Greek dishes and meat options. Vegetarian, vegan and gluten-free choices are also available.\n\nPublic feedback frequently highlights the quality of the food, authentic Greek flavours, attractive garden and welcoming service. Reservations are accepted and are advisable for dinner, weekends and tables closer to the sea. Current listings show approximate hours of 9:00 AM–midnight, although these may change seasonally. Parking is mainly available on nearby streets, so arriving a little earlier can be helpful during busy summer evenings.",
+  "descriptionRo": "Nefeli Garden Restaurant oferă o experiență mediteraneeană rafinată, într-o grădină verde aflată chiar lângă plaja din Polychrono. Atmosfera liniștită, mesele în aer liber și apropierea de mare îl fac potrivit atât pentru un prânz relaxat, cât și pentru o cină romantică. Meniul pune accent pe pește proaspăt, fructe de mare și homar, alături de preparate grecești tradiționale și opțiuni din carne. Sunt disponibile și preparate vegetariene, vegane sau fără gluten.\n\nImpresiile publice apreciază în special calitatea mâncării, aromele grecești, grădina plăcută și servirea prietenoasă. Restaurantul acceptă rezervări, recomandate pentru cină, weekenduri și mesele apropiate de mare. Programul este listat în prezent aproximativ 09:00–00:00, însă poate varia sezonier. Parcarea se face pe străzile din apropiere, așa că o sosire puțin mai devreme este utilă în serile aglomerate.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible car park\n\n \n \nService options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Organic dishes\n    Quick bite\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n    Upmarket\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible car park"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Organic dishes",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy",
+    "Upmarket"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [],
+  "cuisineTypes": []
+}

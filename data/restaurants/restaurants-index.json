@@ -5107,5 +5107,24 @@
     "shortRo": "Ohana Waves Beach Bar oferă o atmosferă tropicală și relaxată pe plaja din Kallithea, cu șezlonguri, spații amenajate aproape de apă...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "nefeli-garden",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Nefeli Garden",
+    "titleRo": "Nefeli Garden",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nefeli-garden/images/nefeli-garden-hero.webp",
+    "lat": 40.01853582324504,
+    "lon": 23.5273223265098,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Nefeli Garden Restaurant offers a refined Mediterranean dining experience in a lush garden beside Polychrono Beach. Its peaceful...",
+    "shortRo": "Nefeli Garden Restaurant oferă o experiență mediteraneeană rafinată, într-o grădină verde aflată chiar lângă plaja din Polychrono....",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
