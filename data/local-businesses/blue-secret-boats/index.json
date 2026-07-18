@@ -1,0 +1,40 @@
+{
+  "id": "blue-secret-boats",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "hanioti-beach",
+    "polychrono-beach",
+    "kryopigi-beach"
+  ],
+  "titleEn": "Blue Secret Boats",
+  "titleRo": "Blue Secret Boats",
+  "categoryEn": "Water sport",
+  "categoryRo": "Water sport",
+  "phone": "+306932626617",
+  "whatsapp": "+306932626617",
+  "website": "https://bluesecret.gr/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Beach, Polichrono 630 85, Greece",
+  "lat": 40.02144906599891,
+  "lon": 23.52109424131889,
+  "coordinates": {
+    "lat": 40.02144906599891,
+    "lng": 23.52109424131889
+  },
+  "hours": {
+    "en": "Monday: 09:30–20:30\nTuesday: 09:30–20:30\nWednesday: 09:30–20:30\nThursday: 09:30–20:30\nFriday: 09:30–20:30\nSaturday: 09:30–20:30\nSunday: 09:30–20:30",
+    "ro": "Luni: 09:30–20:30\nMarți: 09:30–20:30\nMiercuri: 09:30–20:30\nJoi: 09:30–20:30\nVineri: 09:30–20:30\nSâmbătă: 09:30–20:30\nDuminică: 09:30–20:30"
+  },
+  "descriptionEn": "Blue Secret Boats offers the freedom to explore the Halkidiki coastline at your own pace, departing directly from Polychrono Beach. A private boat allows you to discover peaceful bays, hidden beaches and crystal-clear waters ideal for swimming and snorkelling, away from the busiest parts of the coast. The team can suggest routes towards places such as Kelyfos Island and other beautiful areas between Kassandra and Sithonia.\n\nSelected boats can be operated without a boating licence. Before departure, each driver receives clear instructions covering boat handling, safety rules and permitted routes, while life jackets are included. Guests particularly appreciate the professional team, helpful briefing and clean, well-maintained boats.\n\nAdvance booking is recommended during the summer months. Guests should arrive approximately 20 minutes before departure and bring identification, a beach towel, sunscreen and a hat. Fuel is charged separately according to the distance travelled and consumption, while free parking is available near the meeting point. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Blue Secret Boats oferă posibilitatea de a descoperi coasta din Halkidiki în propriul ritm, pornind direct de pe plaja din Polychrono. Cu o ambarcațiune privată poți explora golfuri liniștite, plaje ascunse și ape cristaline potrivite pentru înot și snorkeling, departe de zonele aglomerate ale litoralului. Echipa poate recomanda trasee către locuri precum insula Kelyfos și alte zone spectaculoase dintre Kassandra și Sithonia.\n\nPentru anumite ambarcațiuni nu este necesar permis nautic. Înainte de plecare, fiecare conducător primește explicații despre manevrarea bărcii, regulile de siguranță și traseele permise, iar vestele de salvare sunt incluse. Oaspeții apreciază în special profesionalismul echipei, instructajul clar și bărcile curate și bine întreținute.\n\nRezervarea în avans este recomandată în lunile de vară. Este bine să ajungi cu aproximativ 20 de minute înainte de plecare, având la tine un document de identitate, prosop, cremă de protecție solară și pălărie. Combustibilul se achită separat, în funcție de distanța parcursă și consum, iar în apropierea punctului de plecare este disponibilă parcare gratuită. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp",
+    "business4.webp"
+  ]
+}

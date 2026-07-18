@@ -306,5 +306,20 @@
     "lon": 23.583617978447986,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "blue-secret-boats",
+    "type": "local_business",
+    "titleEn": "Blue Secret Boats",
+    "category": "Water sport",
+    "beaches": [
+      "hanioti-beach",
+      "polychrono-beach",
+      "kryopigi-beach"
+    ],
+    "lat": 40.02144906599891,
+    "lon": 23.52109424131889,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
