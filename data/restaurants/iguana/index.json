@@ -1,0 +1,180 @@
+{
+  "id": "iguana",
+  "zone": "Kassandra",
+  "beachSlug": "polychrono-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "IGUANA",
+  "titleRo": "IGUANA",
+  "displayAddress": "2G9F+RW, Polichrono 630 85, Greece",
+  "gpsCoordinates": "40.01962206716579, 23.52482054643166",
+  "lat": 40.01962206716579,
+  "lon": 23.52482054643166,
+  "openingHoursRaw": "Saturday\n\t\n\n    9:30 am–2:30 am\n\n\t\nSunday\n\t\n\n    9:30 am–2:30 am\n\n\t\nMonday\n\t\n\n    9:30 am–2:30 am\n\n\t\nTuesday\n\t\n\n    9:30 am–2:30 am\n\n\t\nWednesday\n\t\n\n    9:30 am–2:30 am\n\n\t\nThursday\n\t\n\n    9:30 am–2:30 am\n\n\t\nFriday\n\t\n\n    9:30 am–2:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:30",
+      "labelEn": "09:30–02:30",
+      "labelRo": "09:30–02:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:30",
+      "labelEn": "09:30–02:30",
+      "labelRo": "09:30–02:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:30",
+      "labelEn": "09:30–02:30",
+      "labelRo": "09:30–02:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:30",
+      "labelEn": "09:30–02:30",
+      "labelRo": "09:30–02:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:30",
+      "labelEn": "09:30–02:30",
+      "labelRo": "09:30–02:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:30",
+      "labelEn": "09:30–02:30",
+      "labelRo": "09:30–02:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:30",
+      "labelEn": "09:30–02:30",
+      "labelRo": "09:30–02:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–02:30; Tuesday: 09:30–02:30; Wednesday: 09:30–02:30; Thursday: 09:30–02:30; Friday: 09:30–02:30; Saturday: 09:30–02:30; Sunday: 09:30–02:30",
+  "hoursRo": "Luni: 09:30–02:30; Marți: 09:30–02:30; Miercuri: 09:30–02:30; Joi: 09:30–02:30; Vineri: 09:30–02:30; Sâmbătă: 09:30–02:30; Duminică: 09:30–02:30",
+  "website": "http://qrmenu.touchlink.gr/iguana",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306936422038",
+  "price": "$",
+  "rating": 4.5,
+  "descriptionEn": "Iguana Beach Bar is a relaxed beachfront venue in Polychrono, suitable for everything from morning coffee to cocktails enjoyed late into the evening. Its summer atmosphere, pleasant music and seating close to the sea create a welcoming setting for couples, families and groups of friends.\n\nThe menu includes pizza, hot dogs, sandwiches and other light bites, alongside coffee, beer and cocktails. Public feedback particularly praises the fresh food, polite staff, attentive service and music kept at a comfortable level for conversation.\n\nCurrent listings show approximate daily hours of 9:30 AM–2:30 AM. Arriving between 9:30 and 10:30 AM is a practical choice for a quieter atmosphere and a better selection of beachfront places, particularly at weekends and during peak season.",
+  "descriptionRo": "Iguana Beach Bar este un loc relaxat de pe plaja din Polychrono, potrivit de la cafeaua de dimineață până la cocktailurile savurate târziu în noapte. Atmosfera de vară, muzica plăcută și mesele amplasate aproape de mare creează un cadru primitor pentru cupluri, familii și grupuri de prieteni.\n\nMeniul include pizza, hot dog, sandvișuri și alte gustări, alături de cafea, bere și cocktailuri. Impresiile publice apreciază în special mâncarea proaspătă, personalul politicos, servirea atentă și muzica suficient de echilibrată pentru a permite conversațiile.\n\nProgramul este listat în prezent aproximativ între 09:30 și 02:30. Pentru o atmosferă mai liniștită și o alegere mai bună a locurilor de lângă plajă, sosirea între 09:30 și 10:30 este o opțiune practică, mai ales în weekend și în plin sezon.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Delivery\n    Drive-through\n    Takeaway\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Drive-through",
+    "Takeaway"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€15 per sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}

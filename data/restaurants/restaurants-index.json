@@ -5145,5 +5145,36 @@
     "shortRo": "Kudo Beach Bar este un loc relaxat de pe plaja din Polychrono, potrivit atât pentru cafeaua de dimineață și câteva ore lângă mare, cât...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "iguana",
+    "zone": "Kassandra",
+    "beachSlug": "polychrono-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "IGUANA",
+    "titleRo": "IGUANA",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/iguana/images/iguana-hero.webp",
+    "lat": 40.01962206716579,
+    "lon": 23.52482054643166,
+    "rating": 4.5,
+    "price": "$",
+    "shortEn": "Iguana Beach Bar is a relaxed beachfront venue in Polychrono, suitable for everything from morning coffee to cocktails enjoyed late...",
+    "shortRo": "Iguana Beach Bar este un loc relaxat de pe plaja din Polychrono, potrivit de la cafeaua de dimineață până la cocktailurile savurate...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]
