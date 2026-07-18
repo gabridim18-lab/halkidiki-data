@@ -5473,5 +5473,29 @@
     "shortRo": "Cevicheria – Spitaki x Cevicheria oferă în Kallithea o experiență gastronomică rafinată, inspirată de bucătăria Nikkei, în care...",
     "features": [],
     "cuisineTypes": []
+  },
+  {
+    "id": "spitaki-cocktail-bar",
+    "zone": "Kassandra",
+    "beachSlug": "kalithea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Spitaki Cocktail Bar",
+    "titleRo": "Spitaki Cocktail Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar-hero.webp",
+    "lat": 40.07528326253822,
+    "lon": 23.448933966936668,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Spitaki Cocktail Bar is one of Kallithea’s iconic nightlife venues, known for its open-air setting, beautiful sea views and stylish...",
+    "shortRo": "Spitaki Cocktail Bar este unul dintre locurile emblematice ale vieții de noapte din Kallithea, apreciat pentru decorul său deschis,...",
+    "features": [
+      "cocktails",
+      "sea_view",
+      "sunset_view",
+      "events"
+    ],
+    "cuisineTypes": []
   }
 ]

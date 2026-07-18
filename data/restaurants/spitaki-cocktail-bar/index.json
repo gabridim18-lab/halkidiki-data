@@ -1,0 +1,179 @@
+{
+  "id": "spitaki-cocktail-bar",
+  "zone": "Kassandra",
+  "beachSlug": "kalithea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Spitaki Cocktail Bar",
+  "titleRo": "Spitaki Cocktail Bar",
+  "displayAddress": "Epar.Od. Paliouriou-Afitou 2, Kallithea 630 77, Greece",
+  "gpsCoordinates": "40.07528326253822, 23.448933966936668",
+  "lat": 40.07528326253822,
+  "lon": 23.448933966936668,
+  "openingHoursRaw": "Saturday\n\t\n\n    10 am–4 am\n\n\t\nSunday\n\t\n\n    10 am–4 am\n\n\t\nMonday\n\t\n\n    10 am–4 am\n\n\t\nTuesday\n\t\n\n    10 am–4 am\n\n\t\nWednesday\n\t\n\n    10 am–4 am\n\n\t\nThursday\n\t\n\n    10 am–4 am\n\n\t\nFriday\n\t\n\n    10 am–4 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "04:00",
+      "labelEn": "10:00–04:00",
+      "labelRo": "10:00–04:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "04:00",
+      "labelEn": "10:00–04:00",
+      "labelRo": "10:00–04:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "04:00",
+      "labelEn": "10:00–04:00",
+      "labelRo": "10:00–04:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "04:00",
+      "labelEn": "10:00–04:00",
+      "labelRo": "10:00–04:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "04:00",
+      "labelEn": "10:00–04:00",
+      "labelRo": "10:00–04:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "04:00",
+      "labelEn": "10:00–04:00",
+      "labelRo": "10:00–04:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "04:00",
+      "labelEn": "10:00–04:00",
+      "labelRo": "10:00–04:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–04:00; Tuesday: 10:00–04:00; Wednesday: 10:00–04:00; Thursday: 10:00–04:00; Friday: 10:00–04:00; Saturday: 10:00–04:00; Sunday: 10:00–04:00",
+  "hoursRo": "Luni: 10:00–04:00; Marți: 10:00–04:00; Miercuri: 10:00–04:00; Joi: 10:00–04:00; Vineri: 10:00–04:00; Sâmbătă: 10:00–04:00; Duminică: 10:00–04:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/SpitakiCocktailBar/",
+  "instagram": "",
+  "phone": "+306945509969",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Spitaki Cocktail Bar is one of Kallithea’s iconic nightlife venues, known for its open-air setting, beautiful sea views and stylish summer atmosphere. Handcrafted cocktails, a carefully selected drinks menu and well-chosen music create an inviting setting for relaxed sunset drinks, gradually becoming livelier as the evening continues. Guests particularly appreciate the cocktails, welcoming service, music and distinctive views across the sea.\n\nThe current Spitaki x Cevicheria concept complements the cocktail-bar experience with Nikkei-inspired cuisine, blending Japanese and Peruvian influences through dishes such as sushi and ceviche. The venue operates during the summer season, with published hours of 6:00 PM–2:00 AM from Sunday to Thursday and until 3:00 AM on Fridays and Saturdays. Arriving close to opening time is ideal for sunset and a calmer atmosphere, while advance booking is recommended for busy weekend evenings. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Spitaki Cocktail Bar este unul dintre locurile emblematice ale vieții de noapte din Kallithea, apreciat pentru decorul său deschis, priveliștea spre mare și atmosfera elegantă de vară. Cocktailurile artizanale, selecția atentă de băuturi și muzica creează cadrul potrivit pentru o seară relaxată la apus, care devine treptat mai animată pe măsură ce se apropie noaptea. Oaspeții apreciază în special cocktailurile, serviciile primitoare, muzica și panorama deosebită asupra mării.\n\nConceptul actual Spitaki x Cevicheria completează experiența de cocktail bar cu preparate inspirate din bucătăria Nikkei, combinând influențe japoneze și peruane, sushi și ceviche. Locația funcționează numai în sezonul estival, cu program publicat între 18:00 și 02:00 de duminică până joi, respectiv până la 03:00 vinerea și sâmbăta. Pentru apus și o atmosferă mai liniștită, este potrivită sosirea aproape de ora deschiderii, iar pentru serile de weekend rezervarea din timp este recomandată. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/spitaki-cocktail-bar6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/spitaki-cocktail-bar/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great wine list\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n    Upmarket\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy",
+    "Upmarket"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "party"
+  ],
+  "features": [
+    "cocktails",
+    "sea_view",
+    "sunset_view",
+    "events"
+  ],
+  "cuisineTypes": []
+}
