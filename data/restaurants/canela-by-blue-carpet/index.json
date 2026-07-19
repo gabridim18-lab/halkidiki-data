@@ -1,0 +1,197 @@
+{
+  "id": "canela-by-blue-carpet",
+  "zone": "Kassandra",
+  "beachSlug": "pefkochori-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Canela by Blue Carpet",
+  "titleRo": "Canela by Blue Carpet",
+  "displayAddress": "Παραλία, Pefkochori 630 85, Greece",
+  "gpsCoordinates": "39.993900116577414, 23.601208325612912",
+  "lat": 39.993900116577414,
+  "lon": 23.601208325612912,
+  "openingHoursRaw": "Sunday\n\t\n\n    1–5 pm\n    6–10:30 pm\n\n\t\nMonday\n\t\n\n    1–5 pm\n    6–10:30 pm\n\n\t\nTuesday\n\t\n\n    1–5 pm\n    6–10:30 pm\n\n\t\nWednesday\n\t\n\n    1–5 pm\n    6–10:30 pm\n\n\t\nThursday\n\t\n\n    1–5 pm\n    6–10:30 pm\n\n\t\nFriday\n\t\n\n    1–5 pm\n    6–10:30 pm\n\n\t\nSaturday\n\t\n\n    1–5 pm\n    6–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "17:00",
+      "labelEn": "13:00–17:00",
+      "labelRo": "13:00–17:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "17:00",
+      "labelEn": "13:00–17:00",
+      "labelRo": "13:00–17:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "17:00",
+      "labelEn": "13:00–17:00",
+      "labelRo": "13:00–17:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "17:00",
+      "labelEn": "13:00–17:00",
+      "labelRo": "13:00–17:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "17:00",
+      "labelEn": "13:00–17:00",
+      "labelRo": "13:00–17:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "17:00",
+      "labelEn": "13:00–17:00",
+      "labelRo": "13:00–17:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "17:00",
+      "labelEn": "13:00–17:00",
+      "labelRo": "13:00–17:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–17:00; Tuesday: 13:00–17:00; Wednesday: 13:00–17:00; Thursday: 13:00–17:00; Friday: 13:00–17:00; Saturday: 13:00–17:00; Sunday: 13:00–17:00",
+  "hoursRo": "Luni: 13:00–17:00; Marți: 13:00–17:00; Miercuri: 13:00–17:00; Joi: 13:00–17:00; Vineri: 13:00–17:00; Sâmbătă: 13:00–17:00; Duminică: 13:00–17:00",
+  "website": "https://www.bluecarpetsuites.gr/gastronomia/item/43-estiatorio-dipla-sti-thalassa-wine-on-the-beach",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306973040557",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Canela Restaurant by Blue Carpet offers an elegant dining experience in a beautifully landscaped setting directly beside the beach in Pefkochori. Its sea-view terrace, refined décor and peaceful atmosphere create an inviting choice for a relaxed lunch, a romantic dinner or a special evening accompanied by the colours of the sunset.\n\nThe menu presents a contemporary interpretation of Greek and Mediterranean cuisine, featuring fish, seafood, octopus, tuna and carefully presented dishes, complemented by a selection of wines and cocktails. Guests particularly appreciate the quality of the food, professional service, stylish surroundings and seaside atmosphere.\n\nCurrent service hours are listed as 1:00–5:00 PM and 6:00–10:00 PM, while the complex provides a spacious parking area for restaurant and beach visitors. Advance booking is recommended for dinner, weekends and tables positioned closer to the sea. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Canela Restaurant by Blue Carpet oferă o experiență gastronomică elegantă într-un cadru verde, chiar lângă plaja din Pefkochori. Terasa cu vedere spre mare, decorul rafinat și atmosfera liniștită creează un loc potrivit pentru un prânz relaxat, o cină romantică sau o seară specială petrecută în lumina apusului.\n\nMeniul este inspirat din bucătăria grecească și mediteraneeană contemporană, cu pește, fructe de mare, caracatiță, ton și preparate prezentate cu atenție, completate de vinuri și cocktailuri. Oaspeții apreciază în special calitatea mâncării, servirea profesionistă, decorul și atmosfera de lângă mare.\n\nRestaurantul funcționează în prezent în intervalele 13:00–17:00 și 18:00–22:00, iar complexul dispune de o parcare generoasă pentru vizitatorii restaurantului și ai plajei. Pentru cină, weekenduri sau o masă cât mai aproape de mare, rezervarea în avans este recomandată. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n    Upmarket\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy",
+    "Upmarket"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

@@ -5521,5 +5521,34 @@
       "sunset_view"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "canela-by-blue-carpet",
+    "zone": "Kassandra",
+    "beachSlug": "pefkochori-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Canela by Blue Carpet",
+    "titleRo": "Canela by Blue Carpet",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/canela-by-blue-carpet/images/canela-by-blue-carpet-hero.webp",
+    "lat": 39.993900116577414,
+    "lon": 23.601208325612912,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Canela Restaurant by Blue Carpet offers an elegant dining experience in a beautifully landscaped setting directly beside the beach in...",
+    "shortRo": "Canela Restaurant by Blue Carpet oferă o experiență gastronomică elegantă într-un cadru verde, chiar lângă plaja din Pefkochori....",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
