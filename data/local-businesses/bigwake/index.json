@@ -1,0 +1,40 @@
+{
+  "id": "bigwake",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "kalithea-beach",
+    "paralia-afitos",
+    "plage-liosi",
+    "plage-moudounou"
+  ],
+  "titleEn": "Bigwake",
+  "titleRo": "Bigwake",
+  "categoryEn": "Water sports",
+  "categoryRo": "Water sports",
+  "phone": "+306946657731",
+  "whatsapp": "+306946657731",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Kassandra, Greece",
+  "lat": 40.103872579681145,
+  "lon": 23.435066132193214,
+  "coordinates": {
+    "lat": 40.103872579681145,
+    "lng": 23.435066132193214
+  },
+  "hours": {
+    "en": "Monday: 09:30–20:00\nTuesday: 09:30–20:00\nWednesday: 09:30–20:00\nThursday: 09:30–20:00\nFriday: 09:30–20:00\nSaturday: 09:30–20:00\nSunday: 09:30–20:00",
+    "ro": "Luni: 09:30–20:00\nMarți: 09:30–20:00\nMiercuri: 09:30–20:00\nJoi: 09:30–20:00\nVineri: 09:30–20:00\nSâmbătă: 09:30–20:00\nDuminică: 09:30–20:00"
+  },
+  "descriptionEn": "Bigwake Watersports brings adventure to Varkes Beach in Afytos, offering activities for both beginners and experienced thrill-seekers. The selection includes jet skiing, waterskiing, wakeboarding, kneeboarding, parasailing, inflatable rides, SUP, canoeing and pedal boats, with guidance from a team involved in watersports since 1994.\n\nEarlier hours are generally a good choice for visitors seeking calmer water or trying waterskiing and wakeboarding for the first time. Advance booking is recommended for popular activities during July and August, while all sessions remain dependent on wind and sea conditions. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Bigwake Watersports aduce aventura pe plaja Varkes din Afytos, oferind activități potrivite atât pentru începători, cât și pentru pasionații de adrenalină. Selecția include jet ski, schi nautic, wakeboard, kneeboard, parasailing, plimbări pe colaci gonflabili, SUP, canoe și hidrobiciclete, cu îndrumare din partea unei echipe cu experiență în sporturile nautice încă din 1994.\n\nPrima parte a zilei este de obicei potrivită pentru cei care preferă o mare mai liniștită sau încearcă pentru prima dată schiul nautic și wakeboardul. În iulie și august, rezervarea în avans este recomandată pentru activitățile populare, iar desfășurarea acestora depinde întotdeauna de vânt și de condițiile mării. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}

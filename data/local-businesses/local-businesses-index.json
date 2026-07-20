@@ -368,5 +368,21 @@
     "lon": 23.450555315998418,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "bigwake",
+    "type": "local_business",
+    "titleEn": "Bigwake",
+    "category": "Water sports",
+    "beaches": [
+      "kalithea-beach",
+      "paralia-afitos",
+      "plage-liosi",
+      "plage-moudounou"
+    ],
+    "lat": 40.103872579681145,
+    "lon": 23.435066132193214,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
