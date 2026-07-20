@@ -1,0 +1,153 @@
+{
+  "id": "bluesea-beach",
+  "zone": "Kassandra",
+  "beachSlug": "athytos-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Bluesea beach",
+  "titleRo": "Bluesea beach",
+  "displayAddress": "Αφυτος 630 77, Greece",
+  "gpsCoordinates": "40.10257433448092, 23.437794751009346",
+  "lat": 40.10257433448092,
+  "lon": 23.437794751009346,
+  "openingHoursRaw": "Monday\n\t\n\n    9:30 am–8 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–12 am\n\n\t\nWednesday\n\t\n\n    12–8 am\n    9:30 am–8 pm\n\n\t\nThursday\n\t\n\n    9:30 am–8 pm\n\n\t\nFriday\n\t\n\n    9:30 am–12 am\n\n\t\nSaturday\n\t\n\n    12–8:30 am\n    9:30 am–8 pm\n\n\t\nSunday\n\t\n\n    9:30 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "00:00",
+      "labelEn": "09:30–00:00",
+      "labelRo": "09:30–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "00:00",
+      "close": "08:00",
+      "labelEn": "00:00–08:00",
+      "labelRo": "00:00–08:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "00:00",
+      "labelEn": "09:30–00:00",
+      "labelRo": "09:30–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "00:00",
+      "close": "08:30",
+      "labelEn": "00:00–08:30",
+      "labelRo": "00:00–08:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–20:00; Tuesday: 09:30–00:00; Wednesday: 00:00–08:00; Thursday: 09:30–20:00; Friday: 09:30–00:00; Saturday: 00:00–08:30; Sunday: 09:30–20:00",
+  "hoursRo": "Luni: 09:30–20:00; Marți: 09:30–00:00; Miercuri: 00:00–08:00; Joi: 09:30–20:00; Vineri: 09:30–00:00; Sâmbătă: 00:00–08:30; Duminică: 09:30–20:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306981554613",
+  "price": "$$",
+  "rating": 5.0,
+  "descriptionEn": "Bluesea Beach Bar is a relaxing beachfront venue in Afytos, ideal for spending the day beside the clear waters of the Aegean Sea. Comfortable sunbeds, a peaceful atmosphere and a beautiful natural setting create an inviting place for swimming, unwinding and enjoying unhurried moments by the water.\n\nThe beach bar serves coffee, refreshing drinks and cocktails, completing the experience of an easy-going summer day in a simple and welcoming seaside environment. Earlier hours are ideal for visitors seeking a calmer atmosphere, while the afternoon is a pleasant time for drinks overlooking the sea. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Bluesea Beach Bar este un loc relaxant pe plaja din Afytos, potrivit pentru o zi petrecută aproape de apa limpede a Mării Egee. Șezlongurile confortabile, atmosfera liniștită și cadrul natural oferă un spațiu plăcut pentru înot, odihnă și momente fără grabă la malul mării.\n\nBeach barul servește cafea, băuturi răcoritoare și cocktailuri, completând experiența unei zile de vacanță într-un decor simplu și primitor. Prima parte a zilei este potrivită pentru cei care preferă mai multă liniște, în timp ce după-amiaza oferă o atmosferă plăcută pentru băuturi savurate cu vedere spre mare. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/menu1.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Dine-in\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids",
+  "accessibility": [],
+  "serviceOptions": [
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [],
+  "pets": [],
+  "sunbedPrice": "15-20Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [
+    "sunbeds",
+    "cocktails"
+  ],
+  "cuisineTypes": []
+}

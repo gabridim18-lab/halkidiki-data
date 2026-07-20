@@ -5631,5 +5631,27 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "bluesea-beach",
+    "zone": "Kassandra",
+    "beachSlug": "athytos-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Bluesea beach",
+    "titleRo": "Bluesea beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-beach/images/bluesea-beach-hero.webp",
+    "lat": 40.10257433448092,
+    "lon": 23.437794751009346,
+    "rating": 5.0,
+    "price": "$$",
+    "shortEn": "Bluesea Beach Bar is a relaxing beachfront venue in Afytos, ideal for spending the day beside the clear waters of the Aegean Sea....",
+    "shortRo": "Bluesea Beach Bar este un loc relaxant pe plaja din Afytos, potrivit pentru o zi petrecută aproape de apa limpede a Mării Egee....",
+    "features": [
+      "sunbeds",
+      "cocktails"
+    ],
+    "cuisineTypes": []
   }
 ]
