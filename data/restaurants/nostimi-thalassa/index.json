@@ -1,0 +1,200 @@
+{
+  "id": "nostimi-thalassa",
+  "zone": "Kassandra",
+  "beachSlug": "nea-fokea-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Nostimi Thalassa",
+  "titleRo": "Nostimi Thalassa",
+  "displayAddress": "Nea Fokea 630 77, Greece",
+  "gpsCoordinates": "40.13427835243466, 23.40036619231544",
+  "lat": 40.13427835243466,
+  "lon": 23.40036619231544,
+  "openingHoursRaw": "Monday\n\t\n\n    12–11 pm\n\n\t\nTuesday\n\t\n\n    12–11 pm\n\n\t\nWednesday\n\t\n\n    12–11 pm\n\n\t\nThursday\n\t\n\n    12–11 pm\n\n\t\nFriday\n\t\n\n    12–11 pm\n\n\t\nSaturday\n\t\n\n    12–11 pm\n\n\t\nSunday\n\t\n\n    12–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:00; Tuesday: 12:00–23:00; Wednesday: 12:00–23:00; Thursday: 12:00–23:00; Friday: 12:00–23:00; Saturday: 12:00–23:00; Sunday: 12:00–23:00",
+  "hoursRo": "Luni: 12:00–23:00; Marți: 12:00–23:00; Miercuri: 12:00–23:00; Joi: 12:00–23:00; Vineri: 12:00–23:00; Sâmbătă: 12:00–23:00; Duminică: 12:00–23:00",
+  "website": "https://nostimi-thalassa.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+30 6981 175 829",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Nostimi Thalassa is a Greek and Mediterranean restaurant located directly in the harbour of Nea Fokea, just above the sea, with beautiful views across the Toroneos Gulf and towards the Byzantine Tower. Its elegant terrace and peaceful atmosphere create an inviting setting for a relaxed lunch or an evening meal close to the water.\n\nThe menu focuses on fresh fish and seafood, with choices such as summer fish soup, grilled squid, fried fish and seafood pasta, alongside a selection of meat dishes. Guests particularly appreciate the freshness of the food, attractive views, attentive service and welcoming atmosphere. The restaurant opens around midday and accepts reservations; booking ahead is recommended for sea-view tables and weekend dinners. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Nostimi Thalassa este un restaurant cu specific grecesc și mediteraneean, amplasat chiar în portul din Nea Fokea, deasupra mării, cu vedere spre Golful Toroneos și Turnul Bizantin. Terasa elegantă și atmosfera liniștită creează un cadru potrivit pentru un prânz relaxat sau o cină petrecută aproape de apă.\n\nMeniul pune accent pe pește proaspăt și fructe de mare, cu preparate precum supa de pește de vară, calamari la grătar, pește prăjit și paste cu fructe de mare, alături de opțiuni din carne. Oaspeții apreciază în special prospețimea mâncării, priveliștea, servirea atentă și atmosfera plăcută. Restaurantul se deschide în jurul prânzului și acceptă rezervări; pentru mesele cu vedere spre mare și cinele din weekend, rezervarea în avans este recomandată. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/nostimi-thalassa5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nostimi-thalassa/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    All you can eat\n    Beer\n    Coffee\n    Happy-hour drinks\n    Late-night food\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "All you can eat",
+    "Beer",
+    "Coffee",
+    "Happy-hour drinks",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
