@@ -1,0 +1,191 @@
+{
+  "id": "on-the-rocks",
+  "zone": "Kassandra",
+  "beachSlug": "athytos-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "On the rocks",
+  "titleRo": "On the rocks",
+  "displayAddress": "Ανώνυμος, Afitos 630 77, Greece",
+  "gpsCoordinates": "40.10056336649884, 23.437175624344285",
+  "lat": 40.10056336649884,
+  "lon": 23.437175624344285,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–1 am\n\n\t\nTuesday\n\t\n\n    9 am–1 am\n\n\t\nWednesday\n\t\n\n    9 am–1 am\n\n\t\nThursday\n\t\n\n    9 am–1 am\n\n\t\nFriday\n\t\n\n    9 am–1 am\n\n\t\nSaturday\n\t\n\n    9 am–1 am\n\n\t\nSunday\n\t\n\n    9 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–01:00; Tuesday: 09:00–01:00; Wednesday: 09:00–01:00; Thursday: 09:00–01:00; Friday: 09:00–01:00; Saturday: 09:00–01:00; Sunday: 09:00–01:00",
+  "hoursRo": "Luni: 09:00–01:00; Marți: 09:00–01:00; Miercuri: 09:00–01:00; Joi: 09:00–01:00; Vineri: 09:00–01:00; Sâmbătă: 09:00–01:00; Duminică: 09:00–01:00",
+  "website": "",
+  "facebook": "https://m.facebook.com/pages/On-The-Rocks/398364083557491",
+  "instagram": "",
+  "phone": "+306995338805",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "On the Rocks is an iconic café-bar in Afytos, positioned on the village’s rocky cliffside approximately six metres above the sea. Its terrace offers impressive panoramic views across the Toroneos Gulf towards Sithonia, making it an inviting setting for morning coffee, relaxed daytime drinks or cocktails at sunset. The atmosphere is calm earlier in the day and gradually becomes livelier as evening arrives.\n\nThe menu includes breakfast and brunch, omelettes, traditional Greek strapatsada, sandwiches, bruschetta and homemade pancakes with both sweet and savoury combinations. Cocktails are a highlight, with creative recipes that introduce distinctly Greek flavours through spirits such as tsipouro, mastic liqueur and ouzo.\n\nMorning is ideal for a peaceful brunch and uninterrupted views, while arriving shortly before sunset offers one of the most memorable times to visit. Open from morning until late at night, On the Rocks is a lovely stop during a walk through Afytos and an atmospheric choice for evening music and carefully prepared cocktails.",
+  "descriptionRo": "On the Rocks este un café-bar emblematic din Afytos, amplasat pe marginea stâncoasă a satului, la aproximativ șase metri deasupra mării. Terasa oferă o panoramă spectaculoasă asupra Golfului Toroneos și spre peninsula Sithonia, fiind potrivită atât pentru cafeaua de dimineață, cât și pentru cocktailuri savurate la apus. Atmosfera este calmă și relaxată în timpul zilei, devenind mai animată odată cu venirea serii.\n\nMeniul include mic dejun și brunch, omlete, strapatsada grecească, sandvișuri, bruschete și clătite pregătite în casă, cu variante dulci și sărate. Cocktailurile sunt unul dintre punctele forte ale locației, iar selecția include și creații originale inspirate de aromele Greciei, în care sunt folosite băuturi precum tsipouro, mastică și ouzo.\n\nPentru o experiență mai liniștită, dimineața este potrivită pentru brunch și admirarea priveliștii, în timp ce o sosire puțin înainte de apus oferă unul dintre cele mai frumoase momente ale zilei. Locația funcționează de dimineață până târziu în noapte, fiind o alegere plăcută atât pentru o pauză în timpul explorării satului Afytos, cât și pentru o seară relaxată cu muzică și cocktailuri.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great tea selection\n    Great wine list\n\n \n \nPopular for\n\n    Breakfast\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outsid",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great tea selection",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Breakfast"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outsid"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "lounge",
+    "party"
+  ],
+  "features": [
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly",
+    "events"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

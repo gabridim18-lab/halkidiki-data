@@ -5600,5 +5600,36 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "on-the-rocks",
+    "zone": "Kassandra",
+    "beachSlug": "athytos-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "On the rocks",
+    "titleRo": "On the rocks",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/on-the-rocks/images/on-the-rocks-hero.webp",
+    "lat": 40.10056336649884,
+    "lon": 23.437175624344285,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "On the Rocks is an iconic café-bar in Afytos, positioned on the village’s rocky cliffside approximately six metres above the sea. Its...",
+    "shortRo": "On the Rocks este un café-bar emblematic din Afytos, amplasat pe marginea stâncoasă a satului, la aproximativ șase metri deasupra...",
+    "features": [
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly",
+      "events"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
