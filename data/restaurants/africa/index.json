@@ -1,0 +1,186 @@
+{
+  "id": "africa",
+  "zone": "Kassandra",
+  "beachSlug": "nea-fokea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Africa",
+  "titleRo": "Africa",
+  "displayAddress": "Παραλία, Nea Fokea 630 77, Greece",
+  "gpsCoordinates": "40.133988716558555, 23.400627742822014",
+  "lat": 40.133988716558555,
+  "lon": 23.400627742822014,
+  "openingHoursRaw": "Monday\n\t\n\n    7 am–10 pm\n\n\t\nTuesday\n\t\n\n    7 am–10 pm\n\n\t\nWednesday\n\t\n\n    7 am–10 pm\n\n\t\nThursday\n\t\n\n    7 am–10 pm\n\n\t\nFriday\n\t\n\n    7 am–10 pm\n\n\t\nSaturday\n\t\n\n    7 am–10 pm\n\n\t\nSunday\n\t\n\n    7 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "07:00",
+      "close": "22:00",
+      "labelEn": "07:00–22:00",
+      "labelRo": "07:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "07:00",
+      "close": "22:00",
+      "labelEn": "07:00–22:00",
+      "labelRo": "07:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "07:00",
+      "close": "22:00",
+      "labelEn": "07:00–22:00",
+      "labelRo": "07:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "07:00",
+      "close": "22:00",
+      "labelEn": "07:00–22:00",
+      "labelRo": "07:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "07:00",
+      "close": "22:00",
+      "labelEn": "07:00–22:00",
+      "labelRo": "07:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "07:00",
+      "close": "22:00",
+      "labelEn": "07:00–22:00",
+      "labelRo": "07:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "07:00",
+      "close": "22:00",
+      "labelEn": "07:00–22:00",
+      "labelRo": "07:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 07:00–22:00; Tuesday: 07:00–22:00; Wednesday: 07:00–22:00; Thursday: 07:00–22:00; Friday: 07:00–22:00; Saturday: 07:00–22:00; Sunday: 07:00–22:00",
+  "hoursRo": "Luni: 07:00–22:00; Marți: 07:00–22:00; Miercuri: 07:00–22:00; Joi: 07:00–22:00; Vineri: 07:00–22:00; Sâmbătă: 07:00–22:00; Duminică: 07:00–22:00",
+  "website": "https://africabeachbar.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302374081926",
+  "price": "$$",
+  "rating": 4.1,
+  "descriptionEn": "Africa Beach Bar is a relaxed beachfront venue in Nea Fokea, featuring an organised beach area, sunbeds, seaside service and a central African-inspired lounge. Its welcoming atmosphere and location beside the clear water make it suitable for morning coffee, a few peaceful hours on the beach or an entire day by the sea.\n\nThe selection includes breakfast, snacks, ice cream, light food, coffee, refreshing drinks and cocktails, while the roadside section also offers convenient takeaway options. Guests particularly appreciate the friendly staff, attentive service, pleasant atmosphere and peaceful beach setting.\n\nCurrent published hours are approximately 7:00 AM–8:00 PM daily. Arriving earlier in the morning is a practical choice for a quieter experience and a better selection of places on the beach.",
+  "descriptionRo": "Africa Beach Bar este un loc relaxat de pe plaja din Nea Fokea, cu zonă organizată, șezlonguri, servire la malul mării și un lounge central amenajat în stil african. Atmosfera prietenoasă și apropierea de apa limpede îl fac potrivit pentru cafeaua de dimineață, câteva ore de plajă sau o zi întreagă petrecută lângă mare.\n\nOferta include mic dejun, gustări, înghețată, preparate ușoare, cafea, băuturi și cocktailuri, iar zona dinspre stradă oferă și opțiuni rapide pentru takeaway. Oaspeții apreciază în special personalul amabil, servirea atentă, atmosfera plăcută și cadrul liniștit al plajei.\n\nProgramul publicat este zilnic, aproximativ între 07:00 și 20:00. Pentru mai multă liniște și o alegere mai bună a locurilor pe plajă, prima parte a dimineții este momentul cel mai potrivit pentru sosire.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

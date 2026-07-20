@@ -5774,5 +5774,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "africa",
+    "zone": "Kassandra",
+    "beachSlug": "nea-fokea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Africa",
+    "titleRo": "Africa",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/africa/images/africa-hero.webp",
+    "lat": 40.133988716558555,
+    "lon": 23.400627742822014,
+    "rating": 4.1,
+    "price": "$$",
+    "shortEn": "Africa Beach Bar is a relaxed beachfront venue in Nea Fokea, featuring an organised beach area, sunbeds, seaside service and a central...",
+    "shortRo": "Africa Beach Bar este un loc relaxat de pe plaja din Nea Fokea, cu zonă organizată, șezlonguri, servire la malul mării și un lounge...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
