@@ -5713,5 +5713,36 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "kings-and-queens",
+    "zone": "Kassandra",
+    "beachSlug": "varkes-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "KING'S AND QUEEN'S",
+    "titleRo": "KING'S AND QUEEN'S",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens-hero.webp",
+    "lat": 40.104125525588366,
+    "lon": 23.43260349981036,
+    "rating": 5.0,
+    "price": "$$",
+    "shortEn": "King’s & Queen’s Afitos – Suites With Private Pool is an elegant accommodation in the Varka area, close to Varkes Beach and the...",
+    "shortRo": "King’s & Queen’s Afitos – Suites With Private Pool este o unitate de cazare elegantă din zona Varka, aproape de plaja Varkes și de...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pool"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

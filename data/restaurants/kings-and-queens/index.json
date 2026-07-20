@@ -1,0 +1,193 @@
+{
+  "id": "kings-and-queens",
+  "zone": "Kassandra",
+  "beachSlug": "varkes-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "KING'S AND QUEEN'S",
+  "titleRo": "KING'S AND QUEEN'S",
+  "displayAddress": "THESI VARKA, Afitos 630 77, Greece",
+  "gpsCoordinates": "40.104125525588366, 23.43260349981036",
+  "lat": 40.104125525588366,
+  "lon": 23.43260349981036,
+  "openingHoursRaw": "Monday\n\t\n\n    10 am–10 pm\n\n\t\nTuesday\n\t\n\n    10 am–10 pm\n\n\t\nWednesday\n\t\n\n    10 am–10 pm\n\n\t\nThursday\n\t\n\n    10 am–10 pm\n\n\t\nFriday\n\t\n\n    10 am–10 pm\n\n\t\nSaturday\n\t\n\n    10 am–10 pm\n\n\t\nSunday\n\t\n\n    10 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "22:00",
+      "labelEn": "10:00–22:00",
+      "labelRo": "10:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–22:00; Tuesday: 10:00–22:00; Wednesday: 10:00–22:00; Thursday: 10:00–22:00; Friday: 10:00–22:00; Saturday: 10:00–22:00; Sunday: 10:00–22:00",
+  "hoursRo": "Luni: 10:00–22:00; Marți: 10:00–22:00; Miercuri: 10:00–22:00; Joi: 10:00–22:00; Vineri: 10:00–22:00; Sâmbătă: 10:00–22:00; Duminică: 10:00–22:00",
+  "website": "https://kingsandqueens.com.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306932659486",
+  "price": "$$",
+  "rating": 5.0,
+  "descriptionEn": "King’s & Queen’s Afitos – Suites With Private Pool is an elegant accommodation in the Varka area, close to Varkes Beach and the traditional centre of Afytos. Modern suites, private terraces, landscaped surroundings and private pools create a peaceful setting, particularly suitable for couples and guests seeking additional privacy during their holiday. A shared swimming pool, Wi-Fi and complimentary private parking are also available.\n\nBreakfast is one of the property’s most appreciated features, with a varied selection that can be adjusted to individual dietary preferences and enjoyed in a relaxed setting. Recent guests particularly highlight the cleanliness, comfortable beds, pools, enjoyable breakfast and attentive hospitality.\n\nIts location provides convenient access to both the coast and the restaurants, bars and picturesque streets of Afytos. Booking ahead is advisable for stays in July and August, especially for suites featuring a private pool and sea views.",
+  "descriptionRo": "King’s & Queen’s Afitos – Suites With Private Pool este o unitate de cazare elegantă din zona Varka, aproape de plaja Varkes și de centrul tradițional al satului Afytos. Suitele moderne, terasele, grădina și piscinele private oferă un cadru liniștit, potrivit în special pentru cupluri și pentru cei care își doresc mai multă intimitate în timpul vacanței. Oaspeții au acces și la o piscină comună, Wi-Fi și parcare privată gratuită.\n\nMicul dejun este unul dintre punctele apreciate ale locației, cu mai multe variante care pot fi adaptate preferințelor alimentare și servite într-o atmosferă relaxată. Impresiile recente evidențiază în special curățenia, paturile confortabile, piscinele, micul dejun gustos și atenția personalului.\n\nPoziția oferă acces convenabil atât către mare, cât și către restaurantele, barurile și străduțele pitorești din Afytos. Pentru sejururile din iulie și august, rezervarea din timp este recomandată, mai ales pentru suitele cu piscină privată și vedere spre mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/kings-and-queens3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kings-and-queens/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Assistive hearing loop\n    Wheelchair-accessible car park\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nFrom the business\n\n    Identifies as women-owned\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great coffee\n    Rooftop seating\n\n \n \nPopular for\n\n    Breakfast\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Quick bite\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Family friendly\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Reservations required\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nParking\n\n    Free of charge street parking",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Assistive hearing loop",
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet",
+    "From the business",
+    "Identifies as women-owned"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great coffee",
+    "Rooftop seating"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Family friendly",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Reservations required",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pool"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
