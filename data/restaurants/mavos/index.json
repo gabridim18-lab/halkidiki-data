@@ -1,0 +1,200 @@
+{
+  "id": "mavos",
+  "zone": "Kassandra",
+  "beachSlug": "nea-fokea-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Mavos",
+  "titleRo": "Mavos ",
+  "displayAddress": "Nea Fokea 630 77, Greece",
+  "gpsCoordinates": "40.13388081928159, 23.400849010170692",
+  "lat": 40.13388081928159,
+  "lon": 23.400849010170692,
+  "openingHoursRaw": "Monday\n\t\n\n    10 am–12 am\n\n\t\nTuesday\n\t\n\n    10 am–12 am\n\n\t\nWednesday\n\t\n\n    10 am–12 am\n\n\t\nThursday\n\t\n\n    10 am–12 am\n\n\t\nFriday\n\t\n\n    10 am–12 am\n\n\t\nSaturday\n\t\n\n    10 am–12 am\n\n\t\nSunday\n\t\n\n    10 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–00:00; Tuesday: 10:00–00:00; Wednesday: 10:00–00:00; Thursday: 10:00–00:00; Friday: 10:00–00:00; Saturday: 10:00–00:00; Sunday: 10:00–00:00",
+  "hoursRo": "Luni: 10:00–00:00; Marți: 10:00–00:00; Miercuri: 10:00–00:00; Joi: 10:00–00:00; Vineri: 10:00–00:00; Sâmbătă: 10:00–00:00; Duminică: 10:00–00:00",
+  "website": "https://el-gr.facebook.com/Manosrestorant/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306984697631",
+  "price": "$",
+  "rating": 4.0,
+  "descriptionEn": "Mavos Restaurant is a traditional Greek taverna located near the harbour of Nea Fokea and the Byzantine Tower, offering outdoor seating and a relaxed setting overlooking the sea. The menu focuses on fresh fish, seafood and Mediterranean flavours, with grilled octopus, fish soup, Greek salads and house wine among the frequently mentioned choices.\n\nIts peaceful atmosphere makes it a pleasant option for lunch after the beach or an evening meal close to the water. Current published hours are approximately 10:00 AM–midnight, while booking ahead is advisable at weekends and during busy summer evenings. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Mavos Restaurant este o tavernă grecească situată aproape de portul din Nea Fokea și de Turnul Bizantin, într-un cadru relaxat, cu mese în aer liber și vedere spre mare. Meniul pune accent pe pește proaspăt, fructe de mare și preparate mediteraneene, printre alegerile apreciate numărându-se caracatița la grătar, supa de pește, salatele grecești și vinul casei.\n\nAtmosfera liniștită îl face potrivit pentru un prânz după plajă sau pentru o cină aproape de apă. Programul publicat este aproximativ 10:00–00:00, iar rezervarea este recomandată în weekend și pentru mesele de seară din sezonul aglomerat. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/mavos5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mavos/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great dessert\n    Great wine list\n    Live music\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great dessert",
+    "Great wine list",
+    "Live music"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
