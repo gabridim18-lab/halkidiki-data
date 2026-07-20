@@ -1,0 +1,188 @@
+{
+  "id": "seirines",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-afitos",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Seirines",
+  "titleRo": "Seirines",
+  "displayAddress": "Afytos 630 77, Greece",
+  "gpsCoordinates": "40.10020417420119, 23.437471287907975",
+  "lat": 40.10020417420119,
+  "lon": 23.437471287907975,
+  "openingHoursRaw": "Monday\n\t\n\n    11:30 am–12:30 am\n\n\t\nTuesday\n\t\n\n    11:30 am–12:30 am\n\n\t\nWednesday\n\t\n\n    11:30 am–12:30 am\n\n\t\nThursday\n\t\n\n    11:30 am–12:30 am\n\n\t\nFriday\n\t\n\n    11:30 am–12:30 am\n\n\t\nSaturday\n\t\n\n    11:30 am–12:30 am\n\n\t\nSunday\n\t\n\n    11:30 am–12:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:30",
+      "close": "00:30",
+      "labelEn": "11:30–00:30",
+      "labelRo": "11:30–00:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "11:30",
+      "close": "00:30",
+      "labelEn": "11:30–00:30",
+      "labelRo": "11:30–00:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:30",
+      "close": "00:30",
+      "labelEn": "11:30–00:30",
+      "labelRo": "11:30–00:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:30",
+      "close": "00:30",
+      "labelEn": "11:30–00:30",
+      "labelRo": "11:30–00:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:30",
+      "close": "00:30",
+      "labelEn": "11:30–00:30",
+      "labelRo": "11:30–00:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:30",
+      "close": "00:30",
+      "labelEn": "11:30–00:30",
+      "labelRo": "11:30–00:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:30",
+      "close": "00:30",
+      "labelEn": "11:30–00:30",
+      "labelRo": "11:30–00:30"
+    }
+  ],
+  "hoursEn": "Monday: 11:30–00:30; Tuesday: 11:30–00:30; Wednesday: 11:30–00:30; Thursday: 11:30–00:30; Friday: 11:30–00:30; Saturday: 11:30–00:30; Sunday: 11:30–00:30",
+  "hoursRo": "Luni: 11:30–00:30; Marți: 11:30–00:30; Miercuri: 11:30–00:30; Joi: 11:30–00:30; Vineri: 11:30–00:30; Sâmbătă: 11:30–00:30; Duminică: 11:30–00:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306936182798",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Seirines – Sound of the Sea is an elegant restaurant in Afytos, set on a terrace with panoramic views across the Toroneos Gulf. Its contemporary design, relaxed atmosphere and beautiful sunset colours create an inviting setting for a peaceful lunch or a special seaside dinner.\n\nThe menu combines Mediterranean cuisine with creative interpretations of Greek flavours. Signature choices include traditional Afytos trahanas, octopus bouillabaisse, crab pies, spicy mussels, lobster and prawn pasta, squid carbonara and crab risotto. Meat dishes such as lamb and black pork are also available, alongside vegetarian options.\n\nCurrent published hours are approximately 11:30 AM–12:30 AM daily, and reservations are accepted. Advance booking is recommended for tables with the best views and for sunset dinners, particularly at weekends and during the busiest summer months. For reservations or additional information, please complete the form in the app",
+  "descriptionRo": "Seirines – Sound of the Sea este un restaurant elegant din Afytos, amplasat pe o terasă cu vedere panoramică asupra Golfului Toroneos. Decorul modern, atmosfera relaxată și culorile apusului creează un cadru potrivit pentru un prânz liniștit sau pentru o cină specială lângă mare.\n\nMeniul combină bucătăria mediteraneeană cu interpretări creative ale aromelor grecești. Printre preparatele reprezentative se numără trahanas din Afytos, supă de caracatiță, plăcințele cu crab, midii condimentate, paste cu homar și creveți, carbonara cu calamari și risotto cu crab. Sunt disponibile și preparate din carne, precum miel și porc negru, precum și opțiuni vegetariene.\n\nProgramul publicat este zilnic, aproximativ între 11:30 și 00:30, iar restaurantul acceptă rezervări. Pentru mesele cu cea mai frumoasă vedere și pentru cinele la apus, rezervarea în avans este recomandată, mai ales în weekend și în lunile aglomerate de vară. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/seirines4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/seirines/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Popular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n    Upmarket\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Dinner reservations recommended\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Difficult to find a space\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outside",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy",
+    "Upmarket"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Difficult to find a space"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
