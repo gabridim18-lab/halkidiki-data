@@ -1,0 +1,171 @@
+{
+  "id": "ginger",
+  "zone": "Kassandra",
+  "beachSlug": "athytos-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Ginger",
+  "titleRo": "Ginger",
+  "displayAddress": "Afytos 630 77, Greece",
+  "gpsCoordinates": "40.099543093539936, 23.438103941265908",
+  "lat": 40.099543093539936,
+  "lon": 23.438103941265908,
+  "openingHoursRaw": "Monday\n\t\n\n    7 pm–3 am\n\n\t\nTuesday\n\t\n\n    7 pm–3 am\n\n\t\nWednesday\n\t\n\n    7 pm–3 am\n\n\t\nThursday\n\t\n\n    7 pm–3 am\n\n\t\nFriday\n\t\n\n    7 pm–3 am\n\n\t\nSaturday\n\t\n\n    7 pm–3 am\n\n\t\nSunday\n\t\n\n    7 pm–3 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "19:00",
+      "close": "03:00",
+      "labelEn": "19:00–03:00",
+      "labelRo": "19:00–03:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "19:00",
+      "close": "03:00",
+      "labelEn": "19:00–03:00",
+      "labelRo": "19:00–03:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "19:00",
+      "close": "03:00",
+      "labelEn": "19:00–03:00",
+      "labelRo": "19:00–03:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "19:00",
+      "close": "03:00",
+      "labelEn": "19:00–03:00",
+      "labelRo": "19:00–03:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "19:00",
+      "close": "03:00",
+      "labelEn": "19:00–03:00",
+      "labelRo": "19:00–03:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "19:00",
+      "close": "03:00",
+      "labelEn": "19:00–03:00",
+      "labelRo": "19:00–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "19:00",
+      "close": "03:00",
+      "labelEn": "19:00–03:00",
+      "labelRo": "19:00–03:00"
+    }
+  ],
+  "hoursEn": "Monday: 19:00–03:00; Tuesday: 19:00–03:00; Wednesday: 19:00–03:00; Thursday: 19:00–03:00; Friday: 19:00–03:00; Saturday: 19:00–03:00; Sunday: 19:00–03:00",
+  "hoursRo": "Luni: 19:00–03:00; Marți: 19:00–03:00; Miercuri: 19:00–03:00; Joi: 19:00–03:00; Vineri: 19:00–03:00; Sâmbătă: 19:00–03:00; Duminică: 19:00–03:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306977444140",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Ginger Cocktail Bar is a stylish and relaxed venue in the historic centre of Afytos, set on an elevated spot with beautiful views across the village and towards the sea. Its contemporary design, carefully selected music and cool summer-evening atmosphere make it an inviting choice for sunset cocktails or after-dinner drinks.\n\nThe bar is known for its generous selection of carefully prepared cocktails, complemented by wines, beers and other drinks. Guests particularly appreciate the quality of the cocktails, the welcoming service, the scenery and the overall atmosphere. During busy summer evenings, especially at weekends, arriving a little earlier may provide a better choice of tables.",
+  "descriptionRo": "Ginger Cocktail Bar este un loc elegant și relaxat din centrul vechi al satului Afytos, cu o terasă amplasată într-un punct înalt și priveliști frumoase spre sat și mare. Decorul modern, muzica atent aleasă și atmosfera răcoroasă a serilor de vară îl transformă într-o oprire plăcută pentru un cocktail la apus sau pentru băuturi după cină.\n\nBarul se remarcă printr-o selecție generoasă de cocktailuri pregătite cu atenție, alături de vinuri, bere și alte băuturi. Oaspeții apreciază în special calitatea cocktailurilor, atmosfera, panorama și servirea prietenoasă. În serile aglomerate de vară, mai ales în weekend, este recomandată sosirea puțin mai devreme pentru o alegere mai bună a meselor.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great wine list\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great wine list"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "party"
+  ],
+  "features": [
+    "cocktails",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly",
+    "events"
+  ],
+  "cuisineTypes": []
+}

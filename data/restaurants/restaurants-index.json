@@ -5550,5 +5550,30 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "ginger",
+    "zone": "Kassandra",
+    "beachSlug": "athytos-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Ginger",
+    "titleRo": "Ginger",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ginger/images/ginger-hero.webp",
+    "lat": 40.099543093539936,
+    "lon": 23.438103941265908,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Ginger Cocktail Bar is a stylish and relaxed venue in the historic centre of Afytos, set on an elevated spot with beautiful views...",
+    "shortRo": "Ginger Cocktail Bar este un loc elegant și relaxat din centrul vechi al satului Afytos, cu o terasă amplasată într-un punct înalt și...",
+    "features": [
+      "cocktails",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly",
+      "events"
+    ],
+    "cuisineTypes": []
   }
 ]
