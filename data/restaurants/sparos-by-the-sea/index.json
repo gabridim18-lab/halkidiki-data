@@ -1,0 +1,204 @@
+{
+  "id": "sparos-by-the-sea",
+  "zone": "Kassandra",
+  "beachSlug": "athytos-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Sparos by the Sea",
+  "titleRo": "Sparos by the Sea",
+  "displayAddress": "Neas Palinis 77, Afitos 630 77, Greece",
+  "gpsCoordinates": "40.10274930874474, 23.43714400134361",
+  "lat": 40.10274930874474,
+  "lon": 23.43714400134361,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–12 am\n\n\t\nTuesday\n\t\n\n    9 am–12 am\n\n\t\nWednesday\n\t\n\n    9 am–12 am\n\n\t\nThursday\n\t\n\n    9 am–12 am\n\n\t\nFriday\n\t\n\n    9 am–12 am\n\n\t\nSaturday\n\t\n\n    9 am–12 am\n\n\t\nSunday\n\t\n\n    9 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–00:00; Tuesday: 09:00–00:00; Wednesday: 09:00–00:00; Thursday: 09:00–00:00; Friday: 09:00–00:00; Saturday: 09:00–00:00; Sunday: 09:00–00:00",
+  "hoursRo": "Luni: 09:00–00:00; Marți: 09:00–00:00; Miercuri: 09:00–00:00; Joi: 09:00–00:00; Vineri: 09:00–00:00; Sâmbătă: 09:00–00:00; Duminică: 09:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/sparos_by_the_sea/",
+  "phone": "+306976670775",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Sparos by the Sea is a traditional Greek taverna located directly on Afytos Beach, with tables only a few steps from the water and a relaxed Mediterranean atmosphere. Open Aegean views and beautiful sunset colours make it an inviting choice for both a leisurely lunch and a romantic dinner beside the waves.\n\nThe menu focuses on the fresh catch of the day, seafood and authentic Greek dishes. Sea bream, sea bass, octopus, calamari, prawns, mussels and Mediterranean appetisers are among the popular choices. Guests frequently praise the freshness of the food, generous portions, welcoming service and peaceful beachfront setting.\n\nThe venue opens at approximately 10:00 AM and accepts reservations. During busy periods, arriving before 10:00 AM is recommended for sunbeds and a quieter beach experience, while advance booking is helpful for sunset dining. Free parking options are available nearby. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Sparos by the Sea este o tavernă grecească amplasată direct pe plaja din Afytos, unde mesele sunt servite la câțiva pași de apă, într-o atmosferă relaxată și autentic mediteraneeană. Priveliștea spre Marea Egee și culorile apusului creează un cadru potrivit atât pentru un prânz liniștit, cât și pentru o cină romantică lângă valuri.\n\nMeniul pune accent pe peștele proaspăt al zilei, fructele de mare și preparatele tradiționale grecești. Dorada, bibanul de mare, caracatița, calamarii, creveții, midiile și aperitivele mediteraneene se numără printre alegerile apreciate. Oaspeții evidențiază frecvent prospețimea preparatelor, porțiile generoase, servirea prietenoasă și atmosfera plăcută de pe plajă.\n\nLocația se deschide în jurul orei 10:00 și acceptă rezervări. Pentru șezlonguri și o atmosferă mai liniștită, sosirea înainte de ora 10:00 este recomandată în zilele aglomerate, iar pentru mesele la apus este utilă rezervarea din timp. Sunt disponibile opțiuni de parcare gratuită în apropiere. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea7.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea7.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

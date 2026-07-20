@@ -5683,5 +5683,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "sparos-by-the-sea",
+    "zone": "Kassandra",
+    "beachSlug": "athytos-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Sparos by the Sea",
+    "titleRo": "Sparos by the Sea",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sparos-by-the-sea/images/sparos-by-the-sea-hero.webp",
+    "lat": 40.10274930874474,
+    "lon": 23.43714400134361,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Sparos by the Sea is a traditional Greek taverna located directly on Afytos Beach, with tables only a few steps from the water and a...",
+    "shortRo": "Sparos by the Sea este o tavernă grecească amplasată direct pe plaja din Afytos, unde mesele sunt servite la câțiva pași de apă,...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
