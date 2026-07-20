@@ -1,0 +1,207 @@
+{
+  "id": "bluesea-seafood",
+  "zone": "Kassandra",
+  "beachSlug": "athytos-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Bluesea Seafood",
+  "titleRo": "Bluesea Seafood",
+  "displayAddress": "beach, Άφυτος 63077 Varkes, Afitos 630 77, Greece",
+  "gpsCoordinates": "40.10252216815386, 23.43756599403195",
+  "lat": 40.10252216815386,
+  "lon": 23.43756599403195,
+  "openingHoursRaw": "Monday\n\t\n\n    10 am–11 pm\n\n\t\nTuesday\n\t\n\n    12–11 pm\n\n\t\nWednesday\n\t\n\n    12–11 pm\n\n\t\nThursday\n\t\n\n    12–11 pm\n\n\t\nFriday\n\t\n\n    12–11 pm\n\n\t\nSaturday\n\t\n\n    12–11 pm\n\n\t\nSunday\n\t\n\n    12–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:00; Tuesday: 12:00–23:00; Wednesday: 12:00–23:00; Thursday: 12:00–23:00; Friday: 12:00–23:00; Saturday: 12:00–23:00; Sunday: 12:00–23:00",
+  "hoursRo": "Luni: 10:00–23:00; Marți: 12:00–23:00; Miercuri: 12:00–23:00; Joi: 12:00–23:00; Vineri: 12:00–23:00; Sâmbătă: 12:00–23:00; Duminică: 12:00–23:00",
+  "website": "https://www.bluesearestaurantafitos.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306981554613",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Bluesea Seafood Restaurant is located directly on Varkes Beach in Afytos, offering Mediterranean dining only a few steps from the sea. Open coastal views, the sound of the waves and a peaceful atmosphere make it an inviting choice for a leisurely lunch or a romantic sunset dinner.\n\nThe menu focuses on fresh fish and seafood delivered daily, alongside seafood pasta, Greek appetisers, salads and daily specials. Grilled octopus, prawns and calamari are among the well-regarded choices, while guests frequently highlight the freshness of the food, attentive service and relaxing waterfront setting.\n\nDinner reservations are recommended, particularly at weekends and during the busiest summer periods. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Bluesea Seafood Restaurant este un restaurant amplasat direct pe plaja Varkes din Afytos, unde preparatele mediteraneene sunt servite într-un cadru liniștit, la câțiva pași de mare. Priveliștea, sunetul valurilor și atmosfera relaxată îl transformă într-o alegere potrivită pentru un prânz prelungit sau pentru o cină romantică la apus.\n\nMeniul pune accent pe pește proaspăt și fructe de mare aduse zilnic, alături de paste cu fructe de mare, aperitive grecești, salate și specialități ale zilei. Printre preparatele apreciate se numără caracatița, creveții la grătar și calamarii, iar oaspeții evidențiază frecvent prospețimea mâncării, servirea atentă și atmosfera plăcută de lângă apă.\n\nRezervarea este recomandată pentru cină, în special în weekend și în perioadele aglomerate ale verii. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    On-site services\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great coffee\n    Great dessert\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Brunch\n    Lunch\n    Dinner\n    Catering\n    Counter service\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great coffee",
+    "Great dessert"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Counter service",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

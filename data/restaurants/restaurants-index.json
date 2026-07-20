@@ -5653,5 +5653,35 @@
       "cocktails"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "bluesea-seafood",
+    "zone": "Kassandra",
+    "beachSlug": "athytos-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Bluesea Seafood",
+    "titleRo": "Bluesea Seafood",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/bluesea-seafood/images/bluesea-seafood-hero.webp",
+    "lat": 40.10252216815386,
+    "lon": 23.43756599403195,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Bluesea Seafood Restaurant is located directly on Varkes Beach in Afytos, offering Mediterranean dining only a few steps from the sea....",
+    "shortRo": "Bluesea Seafood Restaurant este un restaurant amplasat direct pe plaja Varkes din Afytos, unde preparatele mediteraneene sunt servite...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
