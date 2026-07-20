@@ -1,0 +1,166 @@
+{
+  "id": "nea-fokea",
+  "zone": "Kassandra",
+  "beachSlug": "nea-fokea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Nea Fokea",
+  "titleRo": "Nea Fokea",
+  "displayAddress": "49PX+W5, Kassandra 630 77, Greece",
+  "gpsCoordinates": "40.137604803982256, 23.397841615712593",
+  "lat": 40.137604803982256,
+  "lon": 23.397841615712593,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–8 pm\n\n\t\nTuesday\n\t\n\n    9 am–8 pm\n\n\t\nWednesday\n\t\n\n    9 am–8 pm\n\n\t\nThursday\n\t\n\n    9 am–8 pm\n\n\t\nFriday\n\t\n\n    9 am–8 pm\n\n\t\nSaturday\n\t\n\n    9 am–8 pm\n\n\t\nSunday\n\t\n\n    9 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–20:00; Tuesday: 09:00–20:00; Wednesday: 09:00–20:00; Thursday: 09:00–20:00; Friday: 09:00–20:00; Saturday: 09:00–20:00; Sunday: 09:00–20:00",
+  "hoursRo": "Luni: 09:00–20:00; Marți: 09:00–20:00; Miercuri: 09:00–20:00; Joi: 09:00–20:00; Vineri: 09:00–20:00; Sâmbătă: 09:00–20:00; Duminică: 09:00–20:00",
+  "website": "https://africabeachbar.gr/vavel-beach-experience/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+30 2374 081 926",
+  "price": "$$",
+  "rating": 4.1,
+  "descriptionEn": "Nea Fokea Beach Bar is a relaxed and welcoming venue located directly on the beach of Nea Fokea. Its outdoor seating and close proximity to the sea create an inviting setting for morning coffee, a few peaceful hours on the beach or a refreshing break in an authentic summer atmosphere.\n\nThe selection includes coffee, beer, wine, cocktails and soft drinks, together with sandwiches and other light beach-friendly food. Visitors particularly appreciate the friendly staff, attentive service and comfortable atmosphere. Toilets are available, while card and contactless payments are accepted.\n\nCurrent published hours are 9:00 AM–8:00 PM daily. Arriving earlier in the morning is a pleasant choice for visitors seeking a quieter experience and a full day beside the sea.",
+  "descriptionRo": "Nea Fokea Beach Bar este un loc relaxat și primitor, amplasat direct pe plaja din Nea Fokea. Terasa în aer liber și apropierea de mare creează cadrul potrivit pentru cafeaua de dimineață, câteva ore de plajă sau o pauză răcoritoare într-o atmosferă simplă și autentică de vacanță.\n\nOferta include cafea, bere, vin, cocktailuri și băuturi răcoritoare, alături de sandvișuri și alte preparate ușoare potrivite pentru o zi la mare. Oaspeții apreciază în special personalul prietenos, servirea atentă și atmosfera confortabilă. Sunt disponibile toalete, iar plățile pot fi efectuate cu cardul sau prin metode contactless.\n\nProgramul publicat este zilnic, între 09:00 și 20:00. Sosirea în prima parte a dimineții este o alegere potrivită pentru cei care preferă mai multă liniște și vor să petreacă întreaga zi lângă mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Delivery\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "10€ per person",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

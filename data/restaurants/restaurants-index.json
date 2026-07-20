@@ -5831,5 +5831,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "nea-fokea",
+    "zone": "Kassandra",
+    "beachSlug": "nea-fokea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Nea Fokea",
+    "titleRo": "Nea Fokea",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nea-fokea/images/nea-fokea-hero.webp",
+    "lat": 40.137604803982256,
+    "lon": 23.397841615712593,
+    "rating": 4.1,
+    "price": "$$",
+    "shortEn": "Nea Fokea Beach Bar is a relaxed and welcoming venue located directly on the beach of Nea Fokea. Its outdoor seating and close...",
+    "shortRo": "Nea Fokea Beach Bar este un loc relaxat și primitor, amplasat direct pe plaja din Nea Fokea. Terasa în aer liber și apropierea de mare...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
