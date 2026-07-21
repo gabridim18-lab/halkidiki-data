@@ -1,0 +1,182 @@
+{
+  "id": "rocaria",
+  "zone": "Kassandra",
+  "beachSlug": "nea-potidea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Rocaria",
+  "titleRo": "Rocaria",
+  "displayAddress": "ΝΕΑ ΠΟΤΙΔΑΙΑ, ΧΑΛΚΙΔΙΚΗ 632 00, Greece",
+  "gpsCoordinates": "40.195785188576046, 23.333471243923185",
+  "lat": 40.195785188576046,
+  "lon": 23.333471243923185,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–1:30 am\n\n\t\nWednesday\n\t\n\n    9 am–1:30 am\n\n\t\nThursday\n\t\n\n    9 am–1:30 am\n\n\t\nFriday\n\t\n\n    9 am–1:30 am\n\n\t\nSaturday\n\t\n\n    9 am–1:30 am\n\n\t\nSunday\n\t\n\n    9 am–1:30 am\n\n\t\nMonday\n\t\n\n    9 am–1:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–01:30; Tuesday: 09:00–01:30; Wednesday: 09:00–01:30; Thursday: 09:00–01:30; Friday: 09:00–01:30; Saturday: 09:00–01:30; Sunday: 09:00–01:30",
+  "hoursRo": "Luni: 09:00–01:30; Marți: 09:00–01:30; Miercuri: 09:00–01:30; Joi: 09:00–01:30; Vineri: 09:00–01:30; Sâmbătă: 09:00–01:30; Duminică: 09:00–01:30",
+  "website": "https://drive.google.com/file/d/1IT9ZdyLbns5FxxM8OjTpmBoq3RbkbXzG/view",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302373041583",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "English\n\nRocaria Beach Bar is one of Nea Potidea’s long-established beachfront venues, welcoming summer visitors since 1992. Its relaxed atmosphere, seaside location and lounge music create an inviting setting for morning coffee, a few peaceful hours on the beach or an enjoyable evening with friends.\n\nThe selection includes exotic cocktails and refreshing drinks, together with homemade pizza, salads, light bites and dishes inspired by Greek cuisine. The mood remains easy-going throughout the day and becomes livelier towards the evening, when music and cocktails bring the energy of a summer night in Halkidiki.\n\nCurrent published opening hours are approximately 9:00 AM–2:00 AM. Earlier hours are ideal for visitors seeking a quieter beach experience, while evenings offer a more vibrant seaside atmosphere.",
+  "descriptionRo": "Rocaria Beach Bar este unul dintre locurile consacrate de pe plaja din Nea Potidea, primind oaspeți încă din 1992. Atmosfera relaxată, apropierea de mare și muzica lounge creează un cadru plăcut pentru cafeaua de dimineață, câteva ore la plajă sau o seară de vară petrecută alături de prieteni.\n\nOferta include cocktailuri exotice și băuturi răcoritoare, alături de pizza pregătită în casă, salate, gustări și preparate inspirate din bucătăria grecească. Pe parcursul zilei, atmosfera rămâne relaxată și potrivită pentru odihnă, devenind mai animată spre seară, când cocktailurile și muzica aduc energia specifică nopților de vară din Halkidiki.\n\nProgramul publicat este aproximativ 09:00–02:00. Sosirea în prima parte a zilei este potrivită pentru cei care preferă mai multă liniște, în timp ce seara oferă o atmosferă mai vibrantă lângă mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rocaria/images/rocaria4.webp"
+  ],
+  "menuImages": [],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Somewhat difficult to find a space\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Somewhat difficult to find a space"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€5–10",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
