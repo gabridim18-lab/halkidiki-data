@@ -5978,5 +5978,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "amaris",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Amaris ",
+    "titleRo": "Amaris ",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaris/images/amaris-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amaris/images/amaris-hero.webp",
+    "lat": 40.19550634063589,
+    "lon": 23.333471243928177,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Amaris Beach Bar is a relaxed beachfront venue in Nea Potidea, where comfortable sunbeds, clear water and a welcoming atmosphere...",
+    "shortRo": "Amaris Beach Bar este un loc relaxat de pe plaja din Nea Potidea, unde șezlongurile confortabile, apa limpede și atmosfera prietenoasă...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
