@@ -5887,5 +5887,36 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "the-german",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "The German",
+    "titleRo": "The German",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german-hero.webp",
+    "lat": 40.19196361418419,
+    "lon": 23.335541920533167,
+    "rating": 4.3,
+    "price": "$",
+    "shortEn": "The German is a welcoming restaurant in Nea Potidea, located close to the Potidea Channel and offering Greek and Mediterranean cuisine...",
+    "shortRo": "The German este un restaurant primitor din Nea Potidea, situat aproape de Canalul Potidea, potrivit pentru cei care caută bucătărie...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]

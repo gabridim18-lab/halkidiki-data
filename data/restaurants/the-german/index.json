@@ -1,0 +1,195 @@
+{
+  "id": "the-german",
+  "zone": "Kassandra",
+  "beachSlug": "nea-potidea-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "The German",
+  "titleRo": "The German",
+  "displayAddress": "Ελευθερίου Βενιζέλου 56, Nea Potidea 632 00, Greece",
+  "gpsCoordinates": "40.19196361418419, 23.335541920533167",
+  "lat": 40.19196361418419,
+  "lon": 23.335541920533167,
+  "openingHoursRaw": "Tuesday\n\t\n\n    12 pm–12 am\n\n\t\nWednesday\n\t\n\n    12 pm–12 am\n\n\t\nThursday\n\t\n\n    12 pm–12 am\n\n\t\nFriday\n\t\n\n    12 pm–12 am\n\n\t\nSaturday\n\t\n\n    12 pm–12 am\n\n\t\nSunday\n\t\n\n    12 pm–12 am\n\n\t\nMonday\n\t\n\n    12 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–00:00; Tuesday: 12:00–00:00; Wednesday: 12:00–00:00; Thursday: 12:00–00:00; Friday: 12:00–00:00; Saturday: 12:00–00:00; Sunday: 12:00–00:00",
+  "hoursRo": "Luni: 12:00–00:00; Marți: 12:00–00:00; Miercuri: 12:00–00:00; Joi: 12:00–00:00; Vineri: 12:00–00:00; Sâmbătă: 12:00–00:00; Duminică: 12:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306948838614",
+  "price": "$",
+  "rating": 4.3,
+  "descriptionEn": "The German is a welcoming restaurant in Nea Potidea, located close to the Potidea Channel and offering Greek and Mediterranean cuisine in a relaxed, informal setting. Despite its name, the venue mainly focuses on local flavours, fresh fish, seafood and meat dishes.\n\nThe menu includes cooked fish, calamari, prawns, mussels, Greek salads and a variety of meat-based options. Visitors frequently appreciate the friendly service, cosy atmosphere and reasonable prices. Outdoor seating and reservations are available, making it a pleasant choice for lunch after the beach or a relaxed meal while exploring the area.\n\nCurrent published hours are approximately 9:00 AM–5:00 PM daily. Booking ahead may be helpful at weekends or for larger groups. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "The German este un restaurant primitor din Nea Potidea, situat aproape de Canalul Potidea, potrivit pentru cei care caută bucătărie grecească și mediteraneeană într-o atmosferă simplă și relaxată. În ciuda numelui, specificul locației este orientat în principal către preparate locale, pește, fructe de mare și carne.\n\nMeniul include pește gătit, calamari, creveți, midii, salate grecești și diferite preparate din carne, iar oaspeții apreciază frecvent servirea amabilă, atmosfera confortabilă și prețurile rezonabile. Restaurantul oferă mese în aer liber și acceptă rezervări, fiind o alegere plăcută pentru un prânz după plajă sau o masă relaxată în timpul explorării zonei.\n\nProgramul publicat în prezent este zilnic, aproximativ între 09:00 și 17:00. Pentru weekenduri sau grupuri mai mari, rezervarea în avans poate fi utilă. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/the-german5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-german/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}
