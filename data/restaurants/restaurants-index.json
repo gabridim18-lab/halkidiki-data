@@ -5858,5 +5858,34 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "stou-michali",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Stou Michali",
+    "titleRo": "Stou Michali",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stou-michali/images/stou-michali-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stou-michali/images/stou-michali-hero.webp",
+    "lat": 40.191867988535016,
+    "lon": 23.335382497090357,
+    "rating": 4.5,
+    "price": "$",
+    "shortEn": "Stou Michali is a traditional taverna and ouzeri in Nea Potidea, located directly by the sea and offering Greek cuisine with...",
+    "shortRo": "Stou Michali este o tavernă-ouzeri tradițională din Nea Potidea, amplasată chiar lângă mare, unde bucătăria grecească și aromele...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
