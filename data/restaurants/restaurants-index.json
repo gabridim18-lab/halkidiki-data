@@ -5935,7 +5935,48 @@
     "price": "$$",
     "shortEn": "Akrogiali is a seafood taverna in Nea Potidea, located directly beside the beach and welcoming guests since 2002. Its relaxed...",
     "shortRo": "Akrogiali este o tavernă cu specific pescăresc din Nea Potidea, amplasată chiar lângă plajă și activă din 2002. Atmosfera relaxată,...",
-    "features": [],
-    "cuisineTypes": []
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
+  },
+  {
+    "id": "anemoni-beach",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Anemoni Beach",
+    "titleRo": "Anemoni Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach-hero.webp",
+    "lat": 40.19550484947005,
+    "lon": 23.334429765820776,
+    "rating": 3.9,
+    "price": "$$",
+    "shortEn": "Anemoni Beach is a lively beach bar in Nea Potidea, set along a golden stretch of sand beside the clear waters of the Toroneos Gulf....",
+    "shortRo": "Anemoni Beach este un beach bar animat din Nea Potidea, amplasat pe o întindere de nisip auriu, aproape de apele limpezi ale Golfului...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

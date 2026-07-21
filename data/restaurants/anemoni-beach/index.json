@@ -1,0 +1,175 @@
+{
+  "id": "anemoni-beach",
+  "zone": "Kassandra",
+  "beachSlug": "nea-potidea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Anemoni Beach",
+  "titleRo": "Anemoni Beach",
+  "displayAddress": "Unnamed Road, Nea Potidea 632 00, Greece",
+  "gpsCoordinates": "40.19550484947005, 23.334429765820776",
+  "lat": 40.19550484947005,
+  "lon": 23.334429765820776,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–1:30 am\n\n\t\nWednesday\n\t\n\n    9 am–1:30 am\n\n\t\nThursday\n\t\n\n    9 am–1:30 am\n\n\t\nFriday\n\t\n\n    9 am–1:30 am\n\n\t\nSaturday\n\t\n\n    9 am–1:30 am\n\n\t\nSunday\n\t\n\n    9 am–1:30 am\n\n\t\nMonday\n\t\n\n    9 am–1:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–01:30; Tuesday: 09:00–01:30; Wednesday: 09:00–01:30; Thursday: 09:00–01:30; Friday: 09:00–01:30; Saturday: 09:00–01:30; Sunday: 09:00–01:30",
+  "hoursRo": "Luni: 09:00–01:30; Marți: 09:00–01:30; Miercuri: 09:00–01:30; Joi: 09:00–01:30; Vineri: 09:00–01:30; Sâmbătă: 09:00–01:30; Duminică: 09:00–01:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "",
+  "price": "$$",
+  "rating": 3.9,
+  "descriptionEn": "Anemoni Beach is a lively beach bar in Nea Potidea, set along a golden stretch of sand beside the clear waters of the Toroneos Gulf. During the day, it offers a relaxed setting for sunbathing, swimming and watersports, with refreshing drinks and light food served close to the sea. Pizza is also available, making it a convenient choice for an enjoyable break between moments on the beach.\n\nEarlier hours are better suited to visitors looking for a calmer beach experience, while the atmosphere becomes more energetic after sunset, with music and lively evening entertainment. Anemoni Beach is an inviting choice for both a relaxing seaside day and a fun night beside the water.",
+  "descriptionRo": "Anemoni Beach este un beach bar animat din Nea Potidea, amplasat pe o întindere de nisip auriu, aproape de apele limpezi ale Golfului Toroneos. În timpul zilei, atmosfera este potrivită pentru relaxare la soare, înot și activități nautice, cu băuturi răcoritoare și preparate ușoare servite aproape de mare. Oferta locației include și pizza, fiind o alegere potrivită pentru o pauză gustoasă între momentele petrecute pe plajă.\n\nPrima parte a zilei este recomandată celor care preferă o experiență mai calmă, în timp ce după apus atmosfera devine mai energică, cu muzică și seri animate. Anemoni Beach este potrivit atât pentru o zi relaxantă lângă mare, cât și pentru cei care doresc să continue distracția după lăsarea serii.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/anemoni-beach5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anemoni-beach/images/menu2.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

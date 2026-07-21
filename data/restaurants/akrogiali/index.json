@@ -172,6 +172,17 @@
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
   "musicStyles": [],
-  "features": [],
-  "cuisineTypes": []
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
 }
