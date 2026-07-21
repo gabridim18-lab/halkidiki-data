@@ -5918,5 +5918,24 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "akrogiali",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Akrogiali",
+    "titleRo": "Akrogiali",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/akrogiali-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/akrogiali-hero.webp",
+    "lat": 40.192081804713546,
+    "lon": 23.335381169619758,
+    "rating": 4.1,
+    "price": "$$",
+    "shortEn": "Akrogiali is a seafood taverna in Nea Potidea, located directly beside the beach and welcoming guests since 2002. Its relaxed...",
+    "shortRo": "Akrogiali este o tavernă cu specific pescăresc din Nea Potidea, amplasată chiar lângă plajă și activă din 2002. Atmosfera relaxată,...",
+    "features": [],
+    "cuisineTypes": []
   }
 ]
