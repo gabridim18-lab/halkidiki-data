@@ -6268,5 +6268,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "the-little-fish",
+    "zone": "Kassandra",
+    "beachSlug": "agios-mamas-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "The Little Fish",
+    "titleRo": "The Little Fish",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-little-fish/images/the-little-fish-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/the-little-fish/images/the-little-fish-hero.webp",
+    "lat": 40.24749426750167,
+    "lon": 23.35458978130942,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Psaroulis – Ο Ψαρούλης is a traditional seafood taverna in the Nea Moudania area, ideal for visitors looking for Greek flavours in a...",
+    "shortRo": "Psaroulis – Ο Ψαρούλης este o tavernă pescărească din zona Nea Moudania, potrivită pentru cei care caută preparate grecești într-o...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
