@@ -3070,5 +3070,21 @@
     "rating": 3.9,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "agios-mamas-beach",
+    "zone": "Kassandra",
+    "name": {
+      "en": "Agios Mamas Beach",
+      "ro": "Plaja Agios Mamas"
+    },
+    "previewImage": "agios-mamas-beach.webp",
+    "coordinates": {
+      "lat": 40.23462121024349,
+      "lon": 23.34402511079462
+    },
+    "rating": 4.5,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   }
 ]

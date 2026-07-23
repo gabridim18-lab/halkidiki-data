@@ -1,0 +1,133 @@
+{
+  "id": "agios-mamas-beach",
+  "slug": "agios-mamas-beach",
+  "name": {
+    "en": "Agios Mamas Beach",
+    "ro": "Plaja Agios Mamas"
+  },
+  "zone": "Kassandra",
+  "beachType": {
+    "en": "Long sandy beach with shallow clear water",
+    "ro": "Plajă lungă cu nisip și apă limpede, puțin adâncă"
+  },
+  "coordinates": {
+    "lat": 40.23462121024349,
+    "lon": 23.34402511079462
+  },
+  "editorChoice": true,
+  "length": 3500,
+  "images": [
+    "agios-mamas-beach.webp",
+    "agios-mamas-beach1.webp",
+    "agios-mamas-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Take me there",
+    "ro": "Du-mă acolo"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy beach access",
+      "ro": "Acces facil către plajă"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate in peak season",
+      "ro": "Moderată în sezon"
+    },
+    "noiseLevel": {
+      "en": "Mostly relaxed",
+      "ro": "În general relaxată"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Spacious and family-friendly",
+      "ro": "Spațioasă și potrivită pentru familii"
+    },
+    "waterEntry": {
+      "en": "Very shallow sandy entry",
+      "ro": "Intrare foarte lină cu nisip"
+    },
+    "waveLevel": {
+      "en": "Usually calm",
+      "ro": "De obicei calmă"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip fin auriu"
+  },
+  "water": {
+    "averageTemperature": 24,
+    "depth": {
+      "en": "0.3 - 1.3m (very gradual)",
+      "ro": "0.3 - 1.3m (pantă foarte lină)"
+    },
+    "clarity": {
+      "en": "Clear",
+      "ro": "Limpede"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "Hidden gem",
+      "family",
+      "relax",
+      "relax"
+    ],
+    "ro": [
+      "Loc ascuns special",
+      "Potrivită pentru familii",
+      "Relaxare la soare",
+      "Relaxare la soare"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "May to September",
+    "ro": "Mai - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Children",
+      "Relaxation",
+      "Casual swimming"
+    ],
+    "ro": [
+      "Familii",
+      "Copii",
+      "Relaxare",
+      "Înot relaxant"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Beach walking"
+    ],
+    "ro": [
+      "Înot",
+      "Plimbări pe plajă"
+    ]
+  },
+  "occupancy": "50-60%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "Varies by beach bar",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.5,
+  "videos": [],
+  "description": {
+    "en": "Agios Mamas Beach is a long and spacious sandy beach located near the village of Agios Mamas, at the northern entrance to the Kassandra peninsula. Extending for approximately 3.5 kilometres along the Toroneos Gulf, the beach is known for its fine golden sand, clear light-blue water, and very shallow entry that creates comfortable conditions for families with children and relaxed swimming. The coastline includes organized sections with sunbeds, umbrellas, and seasonal beach facilities, while longer open stretches remain available for visitors who prefer a quieter and more natural beach experience. Its considerable length provides plenty of space, even during the summer season, although the areas near the organized sections can become busier during peak hours. The calm atmosphere, gradual water depth, and easy coastal access make Agios Mamas Beach a practical choice for families, couples, and visitors looking for a comfortable beach day near Nea Moudania.",
+    "ro": "Plaja Agios Mamas este o plajă lungă și spațioasă cu nisip, situată în apropierea satului Agios Mamas, la intrarea nordică în peninsula Kassandra. Întinzându-se pe aproximativ 3,5 kilometri de-a lungul Golfului Toroneos, plaja este cunoscută pentru nisipul fin auriu, apa limpede de culoare albastru deschis și intrarea foarte lină, care creează condiții confortabile pentru familiile cu copii și pentru înot relaxant. Linia de coastă include porțiuni amenajate cu șezlonguri, umbrele și facilități sezoniere, în timp ce sectoarele mai lungi și mai deschise rămân disponibile pentru vizitatorii care preferă o experiență mai liniștită și mai naturală. Datorită lungimii sale considerabile, plaja oferă suficient spațiu chiar și în sezonul de vară, deși zonele din apropierea sectoarelor amenajate pot deveni mai aglomerate în orele de vârf. Atmosfera calmă, adâncimea progresivă a apei și accesul facil către coastă fac din Plaja Agios Mamas o alegere potrivită pentru familii, cupluri și vizitatorii care caută o zi confortabilă la mare în apropiere de Nea Moudania."
+  },
+  "blueFlag": false
+}
