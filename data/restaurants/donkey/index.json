@@ -1,0 +1,183 @@
+{
+  "id": "donkey",
+  "zone": "Kassandra",
+  "beachSlug": "nea-potidea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Donkey",
+  "titleRo": "Donkey",
+  "displayAddress": "Unnamed Road, Nea Moudania 632 00, Greece",
+  "gpsCoordinates": "40.21047979463434, 23.331096946763953",
+  "lat": 40.21047979463434,
+  "lon": 23.331096946763953,
+  "openingHoursRaw": "Thursday\n\t\n\n    10 am–9 pm\n\n\t\nFriday\n\t\n\n    10 am–9 pm\n\n\t\nSaturday\n\t\n\n    10 am–9 pm\n\n\t\nSunday\n\t\n\n    10 am–9 pm\n\n\t\nMonday\n\t\n\n    10 am–9 pm\n\n\t\nTuesday\n\t\n\n    10 am–9 pm\n\n\t\nWednesday\n\t\n\n    10 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–21:00; Tuesday: 10:00–21:00; Wednesday: 10:00–21:00; Thursday: 10:00–21:00; Friday: 10:00–21:00; Saturday: 10:00–21:00; Sunday: 10:00–21:00",
+  "hoursRo": "Luni: 10:00–21:00; Marți: 10:00–21:00; Miercuri: 10:00–21:00; Joi: 10:00–21:00; Vineri: 10:00–21:00; Sâmbătă: 10:00–21:00; Duminică: 10:00–21:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/Donkey-beach-bar-106667554419662/",
+  "instagram": "",
+  "phone": "+306970523258",
+  "price": "$$",
+  "rating": 4.0,
+  "descriptionEn": "Donkey Beach Bar este un loc relaxat de pe plaja Agios Mamas, în apropiere de Nea Moudania, potrivit pentru familii, cupluri și grupuri de prieteni care vor să petreacă o zi liniștită lângă mare. Atmosfera simplă și prietenoasă este completată de băuturi răcoritoare, cocktailuri și preparate de tip grill, inclusiv gustări și souvlaki. Vizitatorii apreciază în special servirea atentă, mâncarea, băuturile și atmosfera lipsită de formalități.\n\nProgramul publicat este aproximativ 09:00–21:00. Parcarea gratuită este disponibilă pe străzile din apropiere, însă locurile pot fi mai greu de găsit în perioadele aglomerate. Sosirea în prima parte a dimineții este, astfel, o alegere practică pentru mai multă liniște și acces mai ușor.",
+  "descriptionRo": "Donkey Beach Bar este un loc relaxat de pe plaja Agios Mamas, în apropiere de Nea Moudania, potrivit pentru familii, cupluri și grupuri de prieteni care vor să petreacă o zi liniștită lângă mare. Atmosfera simplă și prietenoasă este completată de băuturi răcoritoare, cocktailuri și preparate de tip grill, inclusiv gustări și souvlaki. Vizitatorii apreciază în special servirea atentă, mâncarea, băuturile și atmosfera lipsită de formalități.\n\nProgramul publicat este aproximativ 09:00–21:00. Parcarea gratuită este disponibilă pe străzile din apropiere, însă locurile pot fi mai greu de găsit în perioadele aglomerate. Sosirea în prima parte a dimineții este, astfel, o alegere practică pentru mai multă liniște și acces mai ușor.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "50Euro first two rows of sunbeds",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

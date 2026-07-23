@@ -6207,5 +6207,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "donkey",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Donkey",
+    "titleRo": "Donkey",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/donkey/images/donkey-hero.webp",
+    "lat": 40.21047979463434,
+    "lon": 23.331096946763953,
+    "rating": 4.0,
+    "price": "$$",
+    "shortEn": "Donkey Beach Bar este un loc relaxat de pe plaja Agios Mamas, în apropiere de Nea Moudania, potrivit pentru familii, cupluri și...",
+    "shortRo": "Donkey Beach Bar este un loc relaxat de pe plaja Agios Mamas, în apropiere de Nea Moudania, potrivit pentru familii, cupluri și...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
