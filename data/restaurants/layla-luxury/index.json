@@ -1,0 +1,200 @@
+{
+  "id": "layla-luxury",
+  "zone": "Kassandra",
+  "beachSlug": "agios-mamas-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Layla Luxury",
+  "titleRo": "Layla Luxury",
+  "displayAddress": "Χαλκιδικής, Ag. Mamas 632 00, Greece",
+  "gpsCoordinates": "40.24848189135891, 23.356885521921768",
+  "lat": 40.24848189135891,
+  "lon": 23.356885521921768,
+  "openingHoursRaw": "Thursday\n\t\n\n    9:30 am–9 pm\n\n\t\nFriday\n\t\n\n    9:30 am–9 pm\n\n\t\nSaturday\n\t\n\n    9:30 am–9 pm\n\n\t\nSunday\n\t\n\n    9:30 am–9 pm\n\n\t\nMonday\n\t\n\n    9:30 am–9 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–9 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–21:00; Tuesday: 09:30–21:00; Wednesday: 09:30–21:00; Thursday: 09:30–21:00; Friday: 09:30–21:00; Saturday: 09:30–21:00; Sunday: 09:30–21:00",
+  "hoursRo": "Luni: 09:30–21:00; Marți: 09:30–21:00; Miercuri: 09:30–21:00; Joi: 09:30–21:00; Vineri: 09:30–21:00; Sâmbătă: 09:30–21:00; Duminică: 09:30–21:00",
+  "website": "https://www.laylabeach.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306945197805",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Layla Luxury Beach Experience is a stylish beach bar on Agios Mamas Beach, where soft sand, clear water and comfortable sunbeds create an inviting setting for a full day of seaside relaxation. Carefully designed surroundings, pleasant music and private parking complete the experience, making the venue suitable for couples, groups of friends and families.\n\nThe food and drinks selection covers every part of the day, from brunch and coffee to Mediterranean dishes, light snacks and cocktails prepared by experienced bartenders. Visitors particularly appreciate the friendly service, comfortable loungers, enjoyable food, good coffee and relaxed beachfront atmosphere.\n\nEarlier hours are ideal for guests seeking a calmer experience, while selected afternoons and evenings become livelier with parties, guest artists and DJ sessions. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Layla Luxury Beach Experience este un beach bar elegant de pe plaja Agios Mamas, unde nisipul, apa limpede și șezlongurile confortabile creează cadrul potrivit pentru o zi întreagă de relaxare. Decorul atent amenajat, muzica plăcută și parcarea privată completează experiența, iar atmosfera este potrivită atât pentru cupluri și grupuri de prieteni, cât și pentru familii.\n\nOferta culinară însoțește fiecare moment al zilei, de la brunch și cafea până la preparate mediteraneene, gustări și cocktailuri pregătite de barmani cu experiență. Vizitatorii apreciază în special serviciile prietenoase, confortul șezlongurilor, mâncarea gustoasă, cafeaua bună și atmosfera relaxată de lângă mare.\n\nPrima parte a zilei este potrivită pentru cei care preferă mai multă liniște, în timp ce anumite după-amiezi și seri capătă o energie mai animată prin petreceri, artiști invitați și sesiuni cu DJ. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/layla-luxury4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/layla-luxury/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great wine list\n    Live music\n    Live performances\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Private dining room\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    On-site parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great wine list",
+    "Live music",
+    "Live performances"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Private dining room",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "On-site parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "40€ first row, 30€second, the rest 20€",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
