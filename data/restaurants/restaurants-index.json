@@ -6090,5 +6090,32 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "mallorca",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Mallorca",
+    "titleRo": "Mallorca",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mallorca/images/mallorca-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mallorca/images/mallorca-hero.webp",
+    "lat": 40.205989062636306,
+    "lon": 23.3303988900798,
+    "rating": 4.0,
+    "price": "$$",
+    "shortEn": "Mallorca Beach Bar is a modern beachfront venue in Nea Propontida, ideal for visitors looking to enjoy a relaxed day beside the sea in...",
+    "shortRo": "Mallorca Beach Bar este un beach bar modern din Nea Propontida, potrivit pentru cei care își doresc o zi relaxantă aproape de mare,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
