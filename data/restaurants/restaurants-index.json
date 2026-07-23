@@ -6063,5 +6063,32 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "beach-bar-oasis",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Beach bar Oasis",
+    "titleRo": "Beach bar Oasis",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis-hero.webp",
+    "lat": 40.202155408169,
+    "lon": 23.330161503328714,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Oasis Beach Bar is a relaxed beachfront venue in Nea Potidea, suitable for families, couples and groups wishing to spend the entire...",
+    "shortRo": "Oasis Beach Bar este un loc relaxat de pe plaja din Nea Potidea, potrivit pentru familii, cupluri și grupuri care vor să petreacă...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

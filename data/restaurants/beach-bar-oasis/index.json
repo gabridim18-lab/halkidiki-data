@@ -1,0 +1,189 @@
+{
+  "id": "beach-bar-oasis",
+  "zone": "Kassandra",
+  "beachSlug": "nea-potidea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Beach bar Oasis",
+  "titleRo": "Beach bar Oasis",
+  "displayAddress": "632 00, Epar.Od. Poligirou - Neas Potideas, Nea Potidea 632 00, Greece",
+  "gpsCoordinates": "40.202155408169, 23.330161503328714",
+  "lat": 40.202155408169,
+  "lon": 23.330161503328714,
+  "openingHoursRaw": "Thursday\n\t\n\n    9:30 am–9 pm\n\n\t\nFriday\n\t\n\n    9:30 am–9 pm\n\n\t\nSaturday\n\t\n\n    9:30 am–9 pm\n\n\t\nSunday\n\t\n\n    9:30 am–9 pm\n\n\t\nMonday\n\t\n\n    9:30 am–9 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–9 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–21:00; Tuesday: 09:30–21:00; Wednesday: 09:30–21:00; Thursday: 09:30–21:00; Friday: 09:30–21:00; Saturday: 09:30–21:00; Sunday: 09:30–21:00",
+  "hoursRo": "Luni: 09:30–21:00; Marți: 09:30–21:00; Miercuri: 09:30–21:00; Joi: 09:30–21:00; Vineri: 09:30–21:00; Sâmbătă: 09:30–21:00; Duminică: 09:30–21:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302373042232",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Oasis Beach Bar is a relaxed beachfront venue in Nea Potidea, suitable for families, couples and groups wishing to spend the entire day close to the sea. Its simple and welcoming atmosphere, clean water and beachfront service create an inviting setting for swimming, unwinding and enjoying peaceful moments under the Halkidiki sun.\n\nThe selection includes cold coffee, refreshing drinks and food suitable for a day on the beach. Guests particularly appreciate the fast and polite service, enjoyable food and friendly atmosphere, making it comfortable to spend several hours beside the water.\n\nArriving earlier in the day is recommended for a quieter experience and a better choice of beach positions. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Oasis Beach Bar este un loc relaxat de pe plaja din Nea Potidea, potrivit pentru familii, cupluri și grupuri care vor să petreacă întreaga zi aproape de mare. Atmosfera simplă și primitoare, apa curată și servirea direct pe plajă creează cadrul potrivit pentru înot, odihnă și momente liniștite sub soarele din Halkidiki.\n\nOferta include cafea rece, băuturi răcoritoare și preparate potrivite pentru o zi la plajă. Oaspeții apreciază în special servirea rapidă și politicoasă, mâncarea gustoasă și atmosfera prietenoasă, care permit petrecerea confortabilă a mai multor ore lângă apă.\n\nPentru o experiență mai liniștită și o alegere mai bună a locurilor pe plajă, este recomandată sosirea în prima parte a zilei. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/beach-bar-oasis4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/beach-bar-oasis/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n\n \n \nPopular for\n\n    Lunch\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Food\n    Food at bar\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee"
+  ],
+  "popularFor": [
+    "Lunch"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Food",
+    "Food at bar",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€10 per person",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

@@ -644,6 +644,7 @@ class App(tk.Tk):
                 "savatianos-beach",
                 "wild-sandy-beach",
                 "nea-potidea-beach",
+                "agios-mamas-beach",
                 "paralia-kalivia",
                 "kalyves-beach"
             ],
