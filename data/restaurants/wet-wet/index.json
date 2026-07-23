@@ -1,0 +1,188 @@
+{
+  "id": "wet-wet",
+  "zone": "Kassandra",
+  "beachSlug": "nea-potidea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Wet Wet",
+  "titleRo": "Wet Wet",
+  "displayAddress": "Νέα Ποτιδαια, Ag. Mamas 632 00, Greece",
+  "gpsCoordinates": "40.21189456737333, 23.331050515773725",
+  "lat": 40.21189456737333,
+  "lon": 23.331050515773725,
+  "openingHoursRaw": "Thursday\n\t\n\n    9:30 am–9 pm\n\n\t\nFriday\n\t\n\n    9:30 am–9 pm\n\n\t\nSaturday\n\t\n\n    9:30 am–9 pm\n\n\t\nSunday\n\t\n\n    9:30 am–9 pm\n\n\t\nMonday\n\t\n\n    9:30 am–9 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–9 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "21:00",
+      "labelEn": "09:30–21:00",
+      "labelRo": "09:30–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–21:00; Tuesday: 09:30–21:00; Wednesday: 09:30–21:00; Thursday: 09:30–21:00; Friday: 09:30–21:00; Saturday: 09:30–21:00; Sunday: 09:30–21:00",
+  "hoursRo": "Luni: 09:30–21:00; Marți: 09:30–21:00; Miercuri: 09:30–21:00; Joi: 09:30–21:00; Vineri: 09:30–21:00; Sâmbătă: 09:30–21:00; Duminică: 09:30–21:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306974324559",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Wet Wet Beach Bar is a relaxed and lively venue on Agios Mamas Beach, where golden sand and clear blue water create an inviting setting for a full day by the sea. Comfortable sunbeds and beachfront service complement the experience, with cold coffee, refreshing drinks and carefully prepared cocktails available throughout the day.\n\nEarlier hours offer a calmer atmosphere and a better opportunity to choose a convenient place close to the water. Selected summer days also feature music and DJ sessions, bringing a livelier energy to the beach later in the day. Advance sunbed booking is recommended for weekends and the busiest weeks of July and August. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Wet Wet Beach Bar este un loc relaxat și plin de energie pe plaja Agios Mamas, unde nisipul auriu și apele limpezi creează cadrul potrivit pentru o zi întreagă la mare. Șezlongurile confortabile și servirea pe plajă completează atmosfera, iar oferta include cafea rece, băuturi răcoritoare și cocktailuri pregătite pentru momentele de relaxare sub soarele din Halkidiki.\n\nÎn prima parte a zilei, atmosfera este mai liniștită și este mai ușor să alegi un loc convenabil aproape de apă. Pe parcursul sezonului sunt organizate și zile cu muzică și DJ, când beach barul capătă o energie mai animată. Pentru weekenduri și perioadele aglomerate din iulie și august, rezervarea șezlongurilor din timp este recomandată. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€40 triple sunbed and deckchair + umbrella",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "dj_sets"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly",
+    "events"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

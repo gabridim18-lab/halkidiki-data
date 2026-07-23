@@ -6237,5 +6237,36 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "wet-wet",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Wet Wet",
+    "titleRo": "Wet Wet",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/wet-wet/images/wet-wet-hero.webp",
+    "lat": 40.21189456737333,
+    "lon": 23.331050515773725,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Wet Wet Beach Bar is a relaxed and lively venue on Agios Mamas Beach, where golden sand and clear blue water create an inviting...",
+    "shortRo": "Wet Wet Beach Bar este un loc relaxat și plin de energie pe plaja Agios Mamas, unde nisipul auriu și apele limpezi creează cadrul...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly",
+      "events"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
