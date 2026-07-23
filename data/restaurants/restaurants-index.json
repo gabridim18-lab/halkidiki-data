@@ -6117,5 +6117,35 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "babyblue",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "BABYBLUE",
+    "titleRo": "BABYBLUE",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue-hero.webp",
+    "lat": 40.20694774429888,
+    "lon": 23.3304793563481,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "BABYBLUE Beach Stories is a relaxed beach bar on Agios Mamas Beach, particularly well suited to families with children. The sea is...",
+    "shortRo": "BABYBLUE Beach Stories este un beach bar relaxat de pe plaja Agios Mamas, potrivit în special pentru familiile cu copii. Marea este...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

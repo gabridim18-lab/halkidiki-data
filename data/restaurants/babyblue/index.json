@@ -1,0 +1,179 @@
+{
+  "id": "babyblue",
+  "zone": "Kassandra",
+  "beachSlug": "nea-potidea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "BABYBLUE",
+  "titleRo": "BABYBLUE",
+  "displayAddress": "Άγιος Μάμας, Νέα Ποτίδαια, Nea Moudania 632 00, Greece",
+  "gpsCoordinates": "40.20694774429888, 23.3304793563481",
+  "lat": 40.20694774429888,
+  "lon": 23.3304793563481,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–8:30 pm\n\n\t\nFriday\n\t\n\n    9 am–8:30 pm\n\n\t\nSaturday\n\t\n\n    9 am–8:30 pm\n\n\t\nSunday\n\t\n\n    9 am–8:30 pm\n\n\t\nMonday\n\t\n\n    9 am–8:30 pm\n\n\t\nTuesday\n\t\n\n    9 am–8:30 pm\n\n\t\nWednesday\n\t\n\n    9 am–8:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–20:30; Tuesday: 09:00–20:30; Wednesday: 09:00–20:30; Thursday: 09:00–20:30; Friday: 09:00–20:30; Saturday: 09:00–20:30; Sunday: 09:00–20:30",
+  "hoursRo": "Luni: 09:00–20:30; Marți: 09:00–20:30; Miercuri: 09:00–20:30; Joi: 09:00–20:30; Vineri: 09:00–20:30; Sâmbătă: 09:00–20:30; Duminică: 09:00–20:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306947428323",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "BABYBLUE Beach Stories is a relaxed beach bar on Agios Mamas Beach, particularly well suited to families with children. The sea is clean and shallow close to the shore, while the peaceful atmosphere, gentle music and organised sunbed area create an inviting setting for a full day by the water.\n\nThe selection includes coffee, refreshing drinks and light food, with visitors frequently praising the friendly staff, quick service and reasonable prices. Current published hours are approximately 9:00 AM–8:30 PM; arriving earlier in the morning is recommended for a quieter atmosphere and a better choice of places. The final section of the access road may be unpaved, so careful driving is advisable.",
+  "descriptionRo": "BABYBLUE Beach Stories este un beach bar relaxat de pe plaja Agios Mamas, potrivit în special pentru familiile cu copii. Marea este curată și puțin adâncă în apropierea țărmului, iar atmosfera liniștită, muzica discretă și șezlongurile amenajate creează un cadru plăcut pentru o zi întreagă la plajă.\n\nOferta include cafea, băuturi răcoritoare și preparate ușoare, iar vizitatorii apreciază frecvent personalul amabil, servirea rapidă și prețurile rezonabile. Programul publicat este aproximativ 09:00–20:30; pentru mai multă liniște și o alegere mai bună a locurilor, este recomandată sosirea în prima parte a dimineții. Ultimul segment de acces poate include un drum neasfaltat, astfel că este indicată conducerea cu atenție.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/babyblue3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/babyblue/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Takeaway\n\n \n \nHighlights\n\n    Great beer selection\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "6Euro sunbed set + consumption",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
