@@ -6036,5 +6036,32 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "aqua",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Aqua",
+    "titleRo": "Aqua",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua/images/aqua-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua/images/aqua-hero.webp",
+    "lat": 40.201254388067404,
+    "lon": 23.330757038294596,
+    "rating": 4.5,
+    "price": "$",
+    "shortEn": "Aqua Beach Bar is a relaxed and well-organised venue on Agios Mamas Beach, close to Nea Potidea, ideal for families, couples and...",
+    "shortRo": "Aqua Beach Bar este un loc relaxat și bine organizat pe plaja Agios Mamas, aproape de Nea Potidea, potrivit pentru familii, cupluri și...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
