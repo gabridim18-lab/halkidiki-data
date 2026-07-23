@@ -1,0 +1,187 @@
+{
+  "id": "ammolofos",
+  "zone": "Kassandra",
+  "beachSlug": "nea-potidea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Ammolofos",
+  "titleRo": "Ammolofos",
+  "displayAddress": "683J+75 Πόρτες, Nea Potidea 632 00, Greece",
+  "gpsCoordinates": "40.208252425319706, 23.330338557118854",
+  "lat": 40.208252425319706,
+  "lon": 23.330338557118854,
+  "openingHoursRaw": "Thursday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nFriday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nSaturday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nSunday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nMonday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–8:30 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–8:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:30",
+      "labelEn": "09:30–20:30",
+      "labelRo": "09:30–20:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–20:30; Tuesday: 09:30–20:30; Wednesday: 09:30–20:30; Thursday: 09:30–20:30; Friday: 09:30–20:30; Saturday: 09:30–20:30; Sunday: 09:30–20:30",
+  "hoursRo": "Luni: 09:30–20:30; Marți: 09:30–20:30; Miercuri: 09:30–20:30; Joi: 09:30–20:30; Vineri: 09:30–20:30; Sâmbătă: 09:30–20:30; Duminică: 09:30–20:30",
+  "website": "https://kassandra.discoverhalkidiki.com/beach-bars/ammolofos-seaside-bar",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306949077740",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Ammolofos Seaside Bar is a stylish beachfront venue near Nea Potidea, designed with a boho aesthetic, natural décor, greenery and comfortable spaces for relaxing. Its fine sandy beach and clear water create an inviting setting for swimming and enjoying a peaceful day away from the busier resort areas.\n\nThe selection includes coffee, refreshing drinks, cocktails, shisha and light snacks, served in a relaxed atmosphere with pleasant music. Visitors particularly appreciate the clean beach, comfortable sunbeds, attentive service and food choices such as the club sandwich. Showers and changing facilities are available, with parking provided nearby.\n\nThe final part of the access route may be unpaved and slightly uneven, so careful driving is advisable. At weekends and during busy summer days, arriving earlier in the morning offers a calmer experience and a better choice of places on the beach.",
+  "descriptionRo": "Ammolofos Seaside Bar este un beach bar elegant din zona Nea Potidea, amenajat într-un stil boho, cu vegetație, decor natural și spații confortabile pentru relaxare. Plaja cu nisip fin și apa limpede creează cadrul potrivit pentru înot și pentru o zi liniștită la mare, departe de aglomerația stațiunilor mai mari.\n\nOferta include cafea, băuturi răcoritoare, cocktailuri, narghilea și gustări ușoare, servite într-o atmosferă relaxată, cu muzică plăcută. Vizitatorii apreciază în special curățenia plajei, șezlongurile confortabile, servirea atentă și preparatele precum club sandwich-ul. Sunt disponibile dușuri și spații pentru schimbarea hainelor, iar parcarea se află în apropiere.\n\nUltima parte a drumului poate fi neasfaltată și ușor denivelată, astfel că este recomandată deplasarea cu atenție. În weekend și în zilele aglomerate de vară, sosirea în prima parte a dimineții oferă mai multă liniște și o alegere mai bună a locurilor pe plajă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "50Euro first and second row/person",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

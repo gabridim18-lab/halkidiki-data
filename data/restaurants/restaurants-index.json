@@ -6147,5 +6147,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "ammolofos",
+    "zone": "Kassandra",
+    "beachSlug": "nea-potidea-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Ammolofos",
+    "titleRo": "Ammolofos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammolofos/images/ammolofos-hero.webp",
+    "lat": 40.208252425319706,
+    "lon": 23.330338557118854,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Ammolofos Seaside Bar is a stylish beachfront venue near Nea Potidea, designed with a boho aesthetic, natural décor, greenery and...",
+    "shortRo": "Ammolofos Seaside Bar este un beach bar elegant din zona Nea Potidea, amenajat într-un stil boho, cu vegetație, decor natural și...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
