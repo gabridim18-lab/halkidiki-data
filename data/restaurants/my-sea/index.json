@@ -1,0 +1,189 @@
+{
+  "id": "my-sea",
+  "zone": "Kassandra",
+  "beachSlug": "nea-potidea-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "My Sea",
+  "titleRo": "My Sea",
+  "displayAddress": "Παραλία Αγίου Μάμα, Nea Moudania 632 00, Greece",
+  "gpsCoordinates": "40.209090813160515, 23.330801291994312",
+  "lat": 40.209090813160515,
+  "lon": 23.330801291994312,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–8:30 pm\n\n\t\nFriday\n\t\n\n    9 am–8:30 pm\n\n\t\nSaturday\n\t\n\n    9 am–8:30 pm\n\n\t\nSunday\n\t\n\n    9 am–8:30 pm\n\n\t\nMonday\n\t\n\n    9 am–8:30 pm\n\n\t\nTuesday\n\t\n\n    9 am–8:30 pm\n\n\t\nWednesday\n\t\n\n    9 am–8:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:30",
+      "labelEn": "09:00–20:30",
+      "labelRo": "09:00–20:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–20:30; Tuesday: 09:00–20:30; Wednesday: 09:00–20:30; Thursday: 09:00–20:30; Friday: 09:00–20:30; Saturday: 09:00–20:30; Sunday: 09:00–20:30",
+  "hoursRo": "Luni: 09:00–20:30; Marți: 09:00–20:30; Miercuri: 09:00–20:30; Joi: 09:00–20:30; Vineri: 09:00–20:30; Sâmbătă: 09:00–20:30; Duminică: 09:00–20:30",
+  "website": "",
+  "facebook": "https://www.facebook.com/myseabeachbar",
+  "instagram": "",
+  "phone": "+306972595480",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "MySea Beach Bar is a relaxed venue on Agios Mamas Beach, suitable for families, couples and groups wishing to spend a peaceful day beside the sea. The beachfront area is appreciated for its clean water, gentle entrance and mostly sandy seabed, without significant rocky sections, making it comfortable for families with children.\n\nThe selection includes coffee, refreshing drinks and beach-friendly food, while public feedback frequently highlights the welcoming staff, good coffee, enjoyable dishes and pleasant atmosphere. Sunbeds and parking are available, with places generally offered on a first-come, first-served basis. At weekends and during busy summer days, arriving earlier in the morning provides a better choice of places and a quieter experience.\n\nThe final section of the access route may include an unpaved road, so careful driving is advisable.",
+  "descriptionRo": "MySea Beach Bar este un loc relaxat de pe plaja Agios Mamas, potrivit pentru familii, cupluri și grupuri care vor să petreacă o zi liniștită lângă mare. Zona din fața beach barului este apreciată pentru apa curată, intrarea lină și fundul predominant nisipos, fără porțiuni stâncoase importante, ceea ce o face confortabilă inclusiv pentru familiile cu copii.\n\nOferta include cafea, băuturi răcoritoare și preparate potrivite pentru plajă, iar impresiile publice evidențiază frecvent personalul amabil, cafeaua bună, mâncarea gustoasă și atmosfera plăcută. Sunt disponibile șezlonguri și parcare, iar locurile sunt ocupate, în general, în ordinea sosirii. În weekend și în zilele aglomerate de vară, sosirea în prima parte a dimineții oferă o alegere mai bună a locurilor și o atmosferă mai liniștită.\n\nUltima parte a drumului de acces poate include o porțiune neasfaltată, astfel că este recomandată deplasarea cu atenție.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/my-sea4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/my-sea/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Quick bite\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "10Euro",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
