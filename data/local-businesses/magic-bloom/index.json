@@ -1,0 +1,39 @@
+{
+  "id": "magic-bloom",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "wild-sandy-beach",
+    "nea-potidea-beach",
+    "agios-mamas-beach",
+    "paralia-kalivia"
+  ],
+  "titleEn": "Magic Bloom",
+  "titleRo": "Magic Bloom",
+  "categoryEn": "Waterpark",
+  "categoryRo": "Waterpark",
+  "phone": "+306940747774",
+  "whatsapp": "+306940747774",
+  "website": "https://magicbloom.gr/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Nea Poteidaia 632 00, Greece",
+  "lat": 40.20289988498927,
+  "lon": 23.33025405077224,
+  "coordinates": {
+    "lat": 40.20289988498927,
+    "lng": 23.33025405077224
+  },
+  "hours": {
+    "en": "Monday: 11:00–20:00\nTuesday: 11:00–20:00\nWednesday: 11:00–20:00\nThursday: 11:00–20:00\nFriday: 11:00–20:00\nSaturday: 11:00–20:00\nSunday: 11:00–20:00",
+    "ro": "Luni: 11:00–20:00\nMarți: 11:00–20:00\nMiercuri: 11:00–20:00\nJoi: 11:00–20:00\nVineri: 11:00–20:00\nSâmbătă: 11:00–20:00\nDuminică: 11:00–20:00"
+  },
+  "descriptionEn": "Magic Bloom is a floating inflatable water park set in the clear waters of the Agios Mamas Gulf, close to Nea Potidea. Its offshore course combines slides, climbing areas, balance challenges and exciting obstacles, creating an energetic experience for families, groups of friends and anyone who enjoys active fun on the water. Trained lifeguards supervise the park, while nearby beach bars provide convenient places to rest between sessions.\n\nThe minimum entry age is 6, and children aged 6 to 11 must be accompanied by an adult. During the summer season, the park operates daily from approximately 11:00 AM to 8:00 PM, between June and September, although activities may be suspended when weather or sea conditions do not allow safe operation. Special arrangements are available for groups, birthday celebrations and private events.\n\nFor easier access, visitors are advised to take the local road from the main highway rather than the unpaved route through Agios Mamas. Arriving close to opening time generally offers milder temperatures and a quieter experience. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Magic Bloom este un parc acvatic gonflabil amplasat în apele limpezi ale Golfului Agios Mamas, lângă Nea Potidea. Traseul plutitor combină tobogane, obstacole, zone de cățărare și provocări de echilibru, oferind o experiență plină de mișcare și distracție pentru familii, grupuri de prieteni și iubitorii activităților pe apă. Parcul este supravegheat de salvamari instruiți, iar în apropiere se află beach baruri unde vizitatorii se pot relaxa între sesiunile de joacă.\n\nVârsta minimă de acces este de 6 ani, iar copiii între 6 și 11 ani trebuie să fie însoțiți de un adult. Programul sezonului de vară este zilnic, aproximativ între 11:00 și 20:00, din iunie până în septembrie, însă activitatea poate fi suspendată atunci când vremea sau condițiile mării nu permit funcționarea în siguranță. Pentru grupuri, aniversări și evenimente private sunt disponibile pachete speciale.\n\nPentru acces mai ușor, este recomandată folosirea drumului local care se desprinde din șoseaua principală, evitând traseul neasfaltat dinspre Agios Mamas. Sosirea aproape de ora deschiderii oferă de obicei temperaturi mai plăcute și o atmosferă mai liniștită. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp"
+  ]
+}

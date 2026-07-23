@@ -384,5 +384,21 @@
     "lon": 23.435066132193214,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "magic-bloom",
+    "type": "local_business",
+    "titleEn": "Magic Bloom",
+    "category": "Waterpark",
+    "beaches": [
+      "wild-sandy-beach",
+      "nea-potidea-beach",
+      "agios-mamas-beach",
+      "paralia-kalivia"
+    ],
+    "lat": 40.20289988498927,
+    "lon": 23.33025405077224,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
