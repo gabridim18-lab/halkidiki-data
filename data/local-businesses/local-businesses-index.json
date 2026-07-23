@@ -400,5 +400,21 @@
     "lon": 23.33025405077224,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "frozenwave",
+    "type": "local_business",
+    "titleEn": "Frozenwave",
+    "category": "Waterpark",
+    "beaches": [
+      "wild-sandy-beach",
+      "nea-potidea-beach",
+      "agios-mamas-beach",
+      "paralia-kalivia"
+    ],
+    "lat": 40.20846839319433,
+    "lon": 23.331035629000223,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

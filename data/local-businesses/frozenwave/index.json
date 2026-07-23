@@ -1,0 +1,40 @@
+{
+  "id": "frozenwave",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "wild-sandy-beach",
+    "nea-potidea-beach",
+    "agios-mamas-beach",
+    "paralia-kalivia"
+  ],
+  "titleEn": "Frozenwave",
+  "titleRo": "Frozenwave",
+  "categoryEn": "Waterpark",
+  "categoryRo": "Waterpark",
+  "phone": "+306932381999",
+  "whatsapp": "+306932381999",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Nea Poteidaia 632 00, Greece",
+  "lat": 40.20846839319433,
+  "lon": 23.331035629000223,
+  "coordinates": {
+    "lat": 40.20846839319433,
+    "lng": 23.331035629000223
+  },
+  "hours": {
+    "en": "Monday: 10:00–20:00\nTuesday: 10:00–20:00\nWednesday: 10:00–20:00\nThursday: 10:00–20:00\nFriday: 10:00–20:00\nSaturday: 10:00–20:00\nSunday: 10:00–20:00",
+    "ro": "Luni: 10:00–20:00\nMarți: 10:00–20:00\nMiercuri: 10:00–20:00\nJoi: 10:00–20:00\nVineri: 10:00–20:00\nSâmbătă: 10:00–20:00\nDuminică: 10:00–20:00"
+  },
+  "descriptionEn": "Frozenwave Waterpark Potidaia is a floating inflatable water park designed for an energetic day filled with laughter, movement and seaside adventure in Nea Potidea. Its main attraction is an approximately 15-metre wave-shaped structure where visitors can bounce, climb and slide directly into the sea. It is a fun experience for families and groups of friends looking to add more excitement to their beach day.\n\nEarlier hours may provide a more comfortable experience, with milder temperatures and a calmer seaside atmosphere. The park’s operation may depend on wind and sea conditions, and visitors should follow the staff’s safety instructions throughout the activity.",
+  "descriptionRo": "Frozenwave Waterpark Potidaia este un parc acvatic gonflabil amplasat pe mare, creat pentru o zi plină de mișcare, râsete și aventură în Nea Potidea. Atracția principală este structura plutitoare în formă de val, cu o lungime de aproximativ 15 metri, unde vizitatorii pot sări, se pot cățăra și pot coborî pe tobogan direct spre apa mării. Este o experiență distractivă pentru familii și grupuri de prieteni care vor să adauge mai multă energie unei zile la plajă.\n\nPrima parte a zilei poate fi mai confortabilă pentru activitățile pe apă, datorită temperaturilor mai blânde și atmosferei mai liniștite. Funcționarea parcului poate depinde de vânt și de condițiile mării, iar instrucțiunile personalului trebuie respectate pe întreaga durată a experienței.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp"
+  ]
+}
