@@ -1,0 +1,181 @@
+{
+  "id": "mouragio",
+  "zone": "Sithonia",
+  "beachSlug": "trikorfo-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Mouragio",
+  "titleRo": "Mouragio",
+  "displayAddress": "Polygyros 631 00, Greece",
+  "gpsCoordinates": "40.26979834470361, 23.448037167752755",
+  "lat": 40.26979834470361,
+  "lon": 23.448037167752755,
+  "openingHoursRaw": "Monday\n\t\n\n    12:30–10:30 pm\n\n\t\nTuesday\n\t\n\n    12:30–10:30 pm\n\n\t\nWednesday\n\t\n\n    12:30–10:30 pm\n\n\t\nThursday\n\t\n\n    12:30–10:30 pm\n\n\t\nFriday\n\t\n\n    12:30–10:30 pm\n\n\t\nSaturday\n\t\n\n    12:30–10:30 pm\n\n\t\nSunday\n\t\n\n    12:30–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:30",
+      "close": "22:30",
+      "labelEn": "12:30–22:30",
+      "labelRo": "12:30–22:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:30",
+      "close": "22:30",
+      "labelEn": "12:30–22:30",
+      "labelRo": "12:30–22:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:30",
+      "close": "22:30",
+      "labelEn": "12:30–22:30",
+      "labelRo": "12:30–22:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:30",
+      "close": "22:30",
+      "labelEn": "12:30–22:30",
+      "labelRo": "12:30–22:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:30",
+      "close": "22:30",
+      "labelEn": "12:30–22:30",
+      "labelRo": "12:30–22:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:30",
+      "close": "22:30",
+      "labelEn": "12:30–22:30",
+      "labelRo": "12:30–22:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:30",
+      "close": "22:30",
+      "labelEn": "12:30–22:30",
+      "labelRo": "12:30–22:30"
+    }
+  ],
+  "hoursEn": "Monday: 12:30–22:30; Tuesday: 12:30–22:30; Wednesday: 12:30–22:30; Thursday: 12:30–22:30; Friday: 12:30–22:30; Saturday: 12:30–22:30; Sunday: 12:30–22:30",
+  "hoursRo": "Luni: 12:30–22:30; Marți: 12:30–22:30; Miercuri: 12:30–22:30; Joi: 12:30–22:30; Vineri: 12:30–22:30; Sâmbătă: 12:30–22:30; Duminică: 12:30–22:30",
+  "website": "http://www.gerakini-mouragio.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302371054060",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Mouragio is a traditional taverna in Gerakini, located only a few steps from the beach and set within a leafy, breezy courtyard that preserves the charm of an old Greek neighbourhood. Welcoming guests since 1996, the venue combines the character of a traditional tsipouro and meze house with the varied menu of a seafood taverna, making it ideal for a relaxed lunch or an unhurried dinner with family and friends.\n\nThe menu highlights fresh Halkidiki fish, calamari, grilled octopus, prawns, mussels and traditional Greek appetisers, alongside generous salads and selected meat dishes. Guests particularly appreciate the fresh food, substantial portions, professional service and warm atmosphere. Vegetarian, vegan and gluten-free choices are also available.\n\nCurrent published hours are approximately 12:30 PM–10:30 PM daily. Reservations, outdoor seating and parking are available. Advance booking is recommended for weekend dinners and busy summer evenings. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Mouragio este o tavernă tradițională din Gerakini, aflată la doar câțiva pași de plajă, cu o curte verde și răcoroasă ce păstrează farmecul autentic al unei vechi case grecești. Deschisă din 1996, locația combină atmosfera unui tsipouradiko tradițional cu meniul bogat al unei taverne pescărești, fiind potrivită pentru un prânz relaxat sau o cină liniștită alături de familie și prieteni.\n\nMeniul pune accent pe peștele proaspăt din Halkidiki, calamari, caracatiță la grătar, creveți, midii și aperitive grecești, alături de salate generoase și preparate din carne. Oaspeții apreciază în special prospețimea mâncării, porțiile consistente, serviciile profesioniste și atmosfera primitoare. Sunt disponibile și opțiuni vegetariene, vegane și fără gluten.\n\nProgramul publicat este zilnic, aproximativ între 12:30 și 22:30. Restaurantul acceptă rezervări, oferă mese în aer liber și dispune de parcare. Pentru cinele din weekend și serile aglomerate de vară, rezervarea în avans este recomandată. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Popular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    All you can eat\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "All you can eat",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

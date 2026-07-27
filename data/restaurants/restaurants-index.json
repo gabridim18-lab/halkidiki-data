@@ -6477,5 +6477,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "mouragio",
+    "zone": "Sithonia",
+    "beachSlug": "trikorfo-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Mouragio",
+    "titleRo": "Mouragio",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mouragio/images/mouragio-hero.webp",
+    "lat": 40.26979834470361,
+    "lon": 23.448037167752755,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Mouragio is a traditional taverna in Gerakini, located only a few steps from the beach and set within a leafy, breezy courtyard that...",
+    "shortRo": "Mouragio este o tavernă tradițională din Gerakini, aflată la doar câțiva pași de plajă, cu o curte verde și răcoroasă ce păstrează...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
