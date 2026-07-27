@@ -1,0 +1,191 @@
+{
+  "id": "pasir-all-day",
+  "zone": "Kassandra",
+  "beachSlug": "paralia-kalivia",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Pasir All Day",
+  "titleRo": "Pasir All Day",
+  "displayAddress": "Περιοχη Στομι Kalyves, Beach Ηalkidikis, Poligiros 631 00, Greece",
+  "gpsCoordinates": "40.26725605183287, 23.377709678911884",
+  "lat": 40.26725605183287,
+  "lon": 23.377709678911884,
+  "openingHoursRaw": "Monday\n\t\n\n    10 am–8 pm\n\n\t\nTuesday\n\t\n\n    10 am–8 pm\n\n\t\nWednesday\n\t\n\n    10 am–8 pm\n\n\t\nThursday\n\t\n\n    10 am–8 pm\n\n\t\nFriday\n\t\n\n    10 am–8 pm\n\n\t\nSaturday\n\t\n\n    10 am–8 pm\n\n\t\nSunday\n\t\n\n    10 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "20:00",
+      "labelEn": "10:00–20:00",
+      "labelRo": "10:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–20:00; Tuesday: 10:00–20:00; Wednesday: 10:00–20:00; Thursday: 10:00–20:00; Friday: 10:00–20:00; Saturday: 10:00–20:00; Sunday: 10:00–20:00",
+  "hoursRo": "Luni: 10:00–20:00; Marți: 10:00–20:00; Miercuri: 10:00–20:00; Joi: 10:00–20:00; Vineri: 10:00–20:00; Sâmbătă: 10:00–20:00; Duminică: 10:00–20:00",
+  "website": "http://www.pasirbeachbar.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306945708340",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Pasir All Day Beach Bar & More is a welcoming beachfront venue in Kalyves, set beside a peaceful beach with clear water and a gentle sea entrance. The depth increases gradually, creating comfortable swimming conditions and making the area suitable for families with children. Sunbeds, a shaded lounge area and spacious nearby parking make it easy to spend an entire day by the sea, away from the traffic of busier resorts.\n\nThe day begins with coffee and refreshing drinks, followed by beach-friendly food such as burgers, sandwiches and salads, alongside carefully prepared cocktails. Recent feedback particularly highlights the friendly and professional staff, attentive service, enjoyable food, well-made drinks and good value.\n\nCurrent published hours are approximately 9:00 AM–2:00 AM, with a livelier atmosphere developing towards the evening. Sunbeds may fill quickly at weekends and during the busiest summer months, so arriving earlier in the morning is the most practical choice for a better selection of places. Sunbed arrangements and any applicable fees may vary depending on the season and selected area. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Pasir All Day Beach Bar & More este un beach bar primitor din Kalyves, amplasat pe o plajă liniștită, cu apă limpede și intrare lină în mare. Adâncimea crește treptat, ceea ce face zona confortabilă pentru înot și potrivită inclusiv pentru familiile cu copii. Șezlongurile, spațiul lounge și parcarea generoasă permit petrecerea unei zile întregi aproape de mare, departe de traficul intens al stațiunilor mai aglomerate.\n\nOferta începe dimineața cu cafea și băuturi răcoritoare și continuă cu preparate potrivite pentru plajă, burgeri, sandvișuri, salate și cocktailuri. Impresiile recente evidențiază personalul prietenos și profesionist, servirea atentă, mâncarea gustoasă, cocktailurile bine pregătite și raportul bun dintre calitate și preț.\n\nProgramul publicat este aproximativ 09:00–02:00, atmosfera devenind mai animată spre seară. În weekend și în lunile aglomerate de vară, șezlongurile se pot ocupa rapid, astfel că sosirea în prima parte a dimineții este cea mai practică pentru o alegere mai bună a locurilor. Condițiile și eventualele taxe pentru șezlonguri pot varia în funcție de sezon și de zona aleasă. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Happy-hour drinks\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Happy-hour drinks",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "3€ per person",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

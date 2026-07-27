@@ -1,0 +1,193 @@
+{
+  "id": "mikiverna",
+  "zone": "Kassandra",
+  "beachSlug": "kalyves-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Mikiverna",
+  "titleRo": "Mikiverna",
+  "displayAddress": "Polygyros 631 00, Greece",
+  "gpsCoordinates": "40.27874655512668, 23.39804205607416",
+  "lat": 40.27874655512668,
+  "lon": 23.39804205607416,
+  "openingHoursRaw": "Monday\n\t\n\n    12:30–11 pm\n\n\t\nTuesday\n\t\n\n    12:30–11 pm\n\n\t\nWednesday\n\t\n\n    12:30–11 pm\n\n\t\nThursday\n\t\n\n    12:30–11 pm\n\n\t\nFriday\n\t\n\n    12:30–11 pm\n\n\t\nSaturday\n\t\n\n    12:30–11 pm\n\n\t\nSunday\n\t\n\n    12:30–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:30–23:00; Tuesday: 12:30–23:00; Wednesday: 12:30–23:00; Thursday: 12:30–23:00; Friday: 12:30–23:00; Saturday: 12:30–23:00; Sunday: 12:30–23:00",
+  "hoursRo": "Luni: 12:30–23:00; Marți: 12:30–23:00; Miercuri: 12:30–23:00; Joi: 12:30–23:00; Vineri: 12:30–23:00; Sâmbătă: 12:30–23:00; Duminică: 12:30–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302371053320",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Mikiverna is a welcoming seafood taverna in Kalyves Polygyrou, located directly beside the sea in a peaceful setting with beautiful views across the water. Its outdoor terrace and relaxed atmosphere make it an inviting choice for an unhurried lunch or a Mediterranean dinner with family and friends.\n\nThe menu focuses on fresh fish, seafood and traditional Greek cuisine, complemented by salads, wine and ouzo. Grilled octopus, calamari, fish and fried courgettes are among the popular choices, while visitors frequently praise the generous portions, attentive service, pleasant atmosphere and good value.\n\nThe restaurant is currently open daily from approximately 12:30 PM to 11:00 PM, with parking and reservations available. Booking ahead is recommended for evening meals, weekends and the busiest summer periods. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Mikiverna este o tavernă pescărească primitoare din Kalyves Polygyrou, amplasată chiar lângă mare, într-un cadru liniștit, cu vedere frumoasă asupra apei. Terasa în aer liber și atmosfera relaxată o transformă într-o alegere plăcută pentru un prânz fără grabă sau pentru o cină mediteraneeană alături de familie și prieteni.\n\nMeniul pune accent pe pește proaspăt, fructe de mare și preparate tradiționale grecești, completate de salate, vin și ouzo. Caracatița la grătar, calamarii, peștele și dovleceii prăjiți se numără printre alegerile apreciate, iar vizitatorii evidențiază frecvent porțiile generoase, serviciile atente, atmosfera plăcută și raportul bun dintre calitate și preț.\n\nRestaurantul este deschis zilnic, în prezent de la aproximativ 12:30 până la 23:00, dispune de parcare și acceptă rezervări. Pentru mesele de seară, weekenduri și perioadele aglomerate ale verii, rezervarea în avans este recomandată. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

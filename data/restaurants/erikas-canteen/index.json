@@ -1,0 +1,167 @@
+{
+  "id": "erikas-canteen",
+  "zone": "Kassandra",
+  "beachSlug": "kalyves-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Erika’s Canteen",
+  "titleRo": "Erika’s Canteen",
+  "displayAddress": "79GV+MWJ, Kalives Poligirou 631 00, Greece",
+  "gpsCoordinates": "40.27678292440823, 23.394877770194114",
+  "lat": 40.27678292440823,
+  "lon": 23.394877770194114,
+  "openingHoursRaw": "Monday\n\t\n\n    8:30 am–8:30 pm\n\n\t\nTuesday\n\t\n\n    8:30 am–8:30 pm\n\n\t\nWednesday\n\t\n\n    8:30 am–8:30 pm\n\n\t\nThursday\n\t\n\n    8:30 am–8:30 pm\n\n\t\nFriday\n\t\n\n    8:30 am–8:30 pm\n\n\t\nSaturday\n\t\n\n    8:30 am–8:30 pm\n\n\t\nSunday\n\t\n\n    8:30 am–8:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:30",
+      "close": "20:30",
+      "labelEn": "08:30–20:30",
+      "labelRo": "08:30–20:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:30",
+      "close": "20:30",
+      "labelEn": "08:30–20:30",
+      "labelRo": "08:30–20:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:30",
+      "close": "20:30",
+      "labelEn": "08:30–20:30",
+      "labelRo": "08:30–20:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:30",
+      "close": "20:30",
+      "labelEn": "08:30–20:30",
+      "labelRo": "08:30–20:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:30",
+      "close": "20:30",
+      "labelEn": "08:30–20:30",
+      "labelRo": "08:30–20:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:30",
+      "close": "20:30",
+      "labelEn": "08:30–20:30",
+      "labelRo": "08:30–20:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:30",
+      "close": "20:30",
+      "labelEn": "08:30–20:30",
+      "labelRo": "08:30–20:30"
+    }
+  ],
+  "hoursEn": "Monday: 08:30–20:30; Tuesday: 08:30–20:30; Wednesday: 08:30–20:30; Thursday: 08:30–20:30; Friday: 08:30–20:30; Saturday: 08:30–20:30; Sunday: 08:30–20:30",
+  "hoursRo": "Luni: 08:30–20:30; Marți: 08:30–20:30; Miercuri: 08:30–20:30; Joi: 08:30–20:30; Vineri: 08:30–20:30; Sâmbătă: 08:30–20:30; Duminică: 08:30–20:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306993696267",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Erika’s Canteen – Η Καντίνα της Έρικας is a relaxed beachfront spot in Kalyves Polygyrou, ideal for a simple and enjoyable day beside the sea. Its friendly atmosphere, sunbeds and casual service create an inviting setting for morning coffee, a refreshing break or several peaceful hours on the beach with family and friends.\n\nThe selection includes coffee, cold drinks, cocktails, ice cream, souvlaki, sandwiches and freshly prepared street-food options. Current published hours are approximately 8:30 AM–9:00 PM daily, while arriving earlier in the day is a pleasant choice for a calmer atmosphere and a better selection of beach positions. Card payments are accepted, and the venue is also presented as pet-friendly.",
+  "descriptionRo": "Cantina Erikăi – Η Καντίνα της Έρικας este un loc relaxat de pe plaja din Kalyves Polygyrou, potrivit pentru o zi simplă și plăcută lângă mare. Atmosfera prietenoasă, șezlongurile și servirea informală creează cadrul potrivit pentru cafeaua de dimineață, o pauză răcoritoare sau câteva ore petrecute pe plajă alături de familie și prieteni.\n\nOferta include cafea, băuturi reci, cocktailuri, înghețată, souvlaki, sandvișuri și preparate rapide de tip street food. Programul publicat este zilnic, aproximativ între 08:30 și 21:00, iar sosirea în prima parte a zilei este potrivită pentru cei care preferă o atmosferă mai liniștită și o alegere mai bună a locurilor pe plajă. Sunt acceptate plățile cu cardul, iar locația este prezentată ca fiind potrivită și pentru vizitatorii însoțiți de animale de companie.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/menu2.webp"
+  ],
+  "googleBusinessRaw": "Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Quick bite\n    Wine\n\n \n \nDining options\n\n    Dinner\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n\n \n \nCrowd\n\n    Groups\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Quick bite",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Dinner",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual"
+  ],
+  "crowd": [
+    "Groups"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "5 euros for two sunbeds",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

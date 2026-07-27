@@ -6328,5 +6328,95 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "pasir-all-day",
+    "zone": "Kassandra",
+    "beachSlug": "paralia-kalivia",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Pasir All Day",
+    "titleRo": "Pasir All Day",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/pasir-all-day/images/pasir-all-day-hero.webp",
+    "lat": 40.26725605183287,
+    "lon": 23.377709678911884,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Pasir All Day Beach Bar & More is a welcoming beachfront venue in Kalyves, set beside a peaceful beach with clear water and a gentle...",
+    "shortRo": "Pasir All Day Beach Bar & More este un beach bar primitor din Kalyves, amplasat pe o plajă liniștită, cu apă limpede și intrare lină...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
+  },
+  {
+    "id": "erikas-canteen",
+    "zone": "Kassandra",
+    "beachSlug": "kalyves-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Erika’s Canteen",
+    "titleRo": "Erika’s Canteen",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/erikas-canteen/images/erikas-canteen-hero.webp",
+    "lat": 40.27678292440823,
+    "lon": 23.394877770194114,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Erika’s Canteen – Η Καντίνα της Έρικας is a relaxed beachfront spot in Kalyves Polygyrou, ideal for a simple and enjoyable day beside...",
+    "shortRo": "Cantina Erikăi – Η Καντίνα της Έρικας este un loc relaxat de pe plaja din Kalyves Polygyrou, potrivit pentru o zi simplă și plăcută...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
+  },
+  {
+    "id": "mikiverna",
+    "zone": "Kassandra",
+    "beachSlug": "kalyves-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Mikiverna",
+    "titleRo": "Mikiverna",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mikiverna/images/mikiverna-hero.webp",
+    "lat": 40.27874655512668,
+    "lon": 23.39804205607416,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Mikiverna is a welcoming seafood taverna in Kalyves Polygyrou, located directly beside the sea in a peaceful setting with beautiful...",
+    "shortRo": "Mikiverna este o tavernă pescărească primitoare din Kalyves Polygyrou, amplasată chiar lângă mare, într-un cadru liniștit, cu vedere...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
