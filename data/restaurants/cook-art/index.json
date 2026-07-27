@@ -1,0 +1,163 @@
+{
+  "id": "cook-art",
+  "zone": "Sithonia",
+  "beachSlug": "trikorfo-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Cook Art",
+  "titleRo": "Cook Art",
+  "displayAddress": "Epar.Od. Limenos-Gerakinis, Poligiros 631 00, Greece",
+  "gpsCoordinates": "40.27057678672414, 23.444110774356044",
+  "lat": 40.27057678672414,
+  "lon": 23.444110774356044,
+  "openingHoursRaw": "Monday\n\t\n\n    12:30–11:30 pm\n\n\t\nTuesday\n\t\n\n    12:30–11:30 pm\n\n\t\nWednesday\n\t\n\n    12:30–11:30 pm\n\n\t\nThursday\n\t\n\n    12:30–11:30 pm\n\n\t\nFriday\n\t\n\n    12:30–11:30 pm\n\n\t\nSaturday\n\t\n\n    12:30–11:30 pm\n\n\t\nSunday\n\t\n\n    12:30–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:30",
+      "labelEn": "12:30–23:30",
+      "labelRo": "12:30–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:30",
+      "labelEn": "12:30–23:30",
+      "labelRo": "12:30–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:30",
+      "labelEn": "12:30–23:30",
+      "labelRo": "12:30–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:30",
+      "labelEn": "12:30–23:30",
+      "labelRo": "12:30–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:30",
+      "labelEn": "12:30–23:30",
+      "labelRo": "12:30–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:30",
+      "labelEn": "12:30–23:30",
+      "labelRo": "12:30–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:30",
+      "labelEn": "12:30–23:30",
+      "labelRo": "12:30–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 12:30–23:30; Tuesday: 12:30–23:30; Wednesday: 12:30–23:30; Thursday: 12:30–23:30; Friday: 12:30–23:30; Saturday: 12:30–23:30; Sunday: 12:30–23:30",
+  "hoursRo": "Luni: 12:30–23:30; Marți: 12:30–23:30; Miercuri: 12:30–23:30; Joi: 12:30–23:30; Vineri: 12:30–23:30; Sâmbătă: 12:30–23:30; Duminică: 12:30–23:30",
+  "website": "",
+  "facebook": "https://www.facebook.com/cookartgerakini/?nr",
+  "instagram": "",
+  "phone": "+302371053314",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Cook Art is a welcoming restaurant in Gerakini, ideal for visitors wishing to discover Greek and Mediterranean flavours in a relaxed atmosphere. The menu combines traditional recipes prepared with carefully selected ingredients with popular choices such as moussaka, stuffed vegetables, pasta, pizza and a variety of warm dishes, offering something suitable for the whole family.\n\nCoffee, refreshing drinks, ice cream and snacks are also available throughout the day. Guests particularly appreciate the varied menu, enjoyable food, friendly staff and pleasant surroundings. Booking ahead may be helpful for evening meals, weekends and larger groups. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Cook Art este un restaurant primitor din Gerakini, potrivit pentru cei care doresc să descopere aromele bucătăriei grecești și mediteraneene într-o atmosferă relaxată. Meniul combină rețete tradiționale, pregătite din ingrediente atent alese, cu preparate populare precum moussaka, legume umplute, paste, pizza și diferite feluri calde, oferind opțiuni potrivite pentru întreaga familie.\n\nPe parcursul zilei sunt disponibile și cafea, băuturi, înghețată și gustări. Oaspeții apreciază varietatea meniului, preparatele gustoase, personalul prietenos și ambientul plăcut al locației. Pentru mesele de seară, weekenduri sau grupuri mai mari, rezervarea din timp poate fi utilă. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Atmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

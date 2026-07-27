@@ -6448,5 +6448,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "cook-art",
+    "zone": "Sithonia",
+    "beachSlug": "trikorfo-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Cook Art",
+    "titleRo": "Cook Art",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cook-art/images/cook-art-hero.webp",
+    "lat": 40.27057678672414,
+    "lon": 23.444110774356044,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Cook Art is a welcoming restaurant in Gerakini, ideal for visitors wishing to discover Greek and Mediterranean flavours in a relaxed...",
+    "shortRo": "Cook Art este un restaurant primitor din Gerakini, potrivit pentru cei care doresc să descopere aromele bucătăriei grecești și...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
