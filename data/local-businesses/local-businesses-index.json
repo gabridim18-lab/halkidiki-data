@@ -416,5 +416,21 @@
     "lon": 23.331035629000223,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "wake-to-wake",
+    "type": "local_business",
+    "titleEn": "Wake To Wake",
+    "category": "Watersports",
+    "beaches": [
+      "paralia-kalivia",
+      "kalyves-beach",
+      "trikorfo-beach",
+      "paralia-psakoudia"
+    ],
+    "lat": 40.26615642446462,
+    "lon": 23.451452595242518,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

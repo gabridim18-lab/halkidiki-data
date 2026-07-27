@@ -1,0 +1,39 @@
+{
+  "id": "wake-to-wake",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "paralia-kalivia",
+    "kalyves-beach",
+    "trikorfo-beach",
+    "paralia-psakoudia"
+  ],
+  "titleEn": "Wake To Wake",
+  "titleRo": "Wake To Wake",
+  "categoryEn": "Watersports",
+  "categoryRo": "Watersports",
+  "phone": "+306947424501",
+  "whatsapp": "+306947424501",
+  "website": "https://www.waketowakesports.com/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Ikos Olivia, Gerakini 631 00, Greece",
+  "lat": 40.26615642446462,
+  "lon": 23.451452595242518,
+  "coordinates": {
+    "lat": 40.26615642446462,
+    "lng": 23.451452595242518
+  },
+  "hours": {
+    "en": "Monday: 09:00–18:30\nTuesday: 09:00–18:30\nWednesday: 09:00–18:30\nThursday: 09:00–18:30\nFriday: 09:00–18:30\nSaturday: 09:00–18:30\nSunday: 09:00–18:30",
+    "ro": "Luni: 09:00–18:30\nMarți: 09:00–18:30\nMiercuri: 09:00–18:30\nJoi: 09:00–18:30\nVineri: 09:00–18:30\nSâmbătă: 09:00–18:30\nDuminică: 09:00–18:30"
+  },
+  "descriptionEn": "Wake To Wake Watersports is a watersports centre located on the beach at Ikos Olivia in Gerakini, offering experiences for both beginners and visitors seeking an extra dose of adrenaline. Activities include jet skiing, parasailing, waterskiing, wakeboarding, flyboarding, inflatable rides, sailing, SUP, canoeing, pedal boats and boat rentals for exploring the Toroneos Gulf.\n\nLessons are available for waterskiing, wakeboarding and sailing, with guidance adapted to each participant’s ability. Families and groups looking for a gentler experience can choose canoes, paddleboards or pedal boats, including models equipped with a canopy and slide.\n\nAdvance booking is recommended during July and August, particularly for jet skis, parasailing and individual lessons. Morning sessions may offer calmer conditions for beginners, although all activities remain dependent on the wind and state of the sea. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Wake To Wake Watersports este un centru de sporturi nautice amplasat pe plaja complexului Ikos Olivia din Gerakini, potrivit atât pentru începători, cât și pentru cei care caută mai multă adrenalină. Activitățile disponibile includ jet ski, parasailing, schi nautic, wakeboard, flyboard, plimbări pe gonflabile, navigație cu vele, SUP, canoe, hidrobiciclete și închirieri de ambarcațiuni pentru explorarea Golfului Toroneos.\n\nPentru schi nautic, wakeboard și navigație sunt disponibile lecții adaptate nivelului participanților, iar instructorii oferă îndrumare înainte și pe durata activității. Familiile și grupurile care preferă o experiență mai liniștită pot alege canoe, SUP sau hidrobiciclete, inclusiv modele cu copertină și tobogan.\n\nÎn lunile iulie și august, organizarea activităților din timp este recomandată, în special pentru jet ski, parasailing și lecțiile individuale. Dimineața poate oferi condiții mai calme pentru începători, însă programul activităților depinde întotdeauna de vânt și de starea mării. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp"
+  ]
+}
