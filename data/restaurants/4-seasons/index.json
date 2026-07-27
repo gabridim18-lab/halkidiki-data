@@ -1,0 +1,204 @@
+{
+  "id": "4-seasons",
+  "zone": "Sithonia",
+  "beachSlug": "trikorfo-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "4 Seasons",
+  "titleRo": "4 Seasons",
+  "displayAddress": "Επαρχιακή οδός, Gerakini 631 00, Greece",
+  "gpsCoordinates": "",
+  "lat": null,
+  "lon": null,
+  "openingHoursRaw": "Monday\n\t\n\n    1–10 pm\n\n\t\nTuesday\n\t\n\n    1–10 pm\n\n\t\nWednesday\n\t\n\n    1–10 pm\n\n\t\nThursday\n\t\n\n    1–10 pm\n\n\t\nFriday\n\t\n\n    1–10 pm\n\n\t\nSaturday\n\t\n\n    1–10 pm\n\n\t\nSunday\n\t\n\n    1–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:00",
+      "labelEn": "13:00–22:00",
+      "labelRo": "13:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–22:00; Tuesday: 13:00–22:00; Wednesday: 13:00–22:00; Thursday: 13:00–22:00; Friday: 13:00–22:00; Saturday: 13:00–22:00; Sunday: 13:00–22:00",
+  "hoursRo": "Luni: 13:00–22:00; Marți: 13:00–22:00; Miercuri: 13:00–22:00; Joi: 13:00–22:00; Vineri: 13:00–22:00; Sâmbătă: 13:00–22:00; Duminică: 13:00–22:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302371051150",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "4 Seasons Restaurant is a welcoming Greek restaurant in Gerakini, offering a peaceful atmosphere and outdoor seating suitable for both a relaxed lunch and an evening meal with family or friends. The menu celebrates Mediterranean flavours through fresh fish, prawns, grilled sardines, octopus, salads, meat dishes and vegetarian-friendly choices.\n\nVisitors particularly appreciate the enjoyable food, generous portions, friendly staff, attentive service and good value. Reservations are accepted and complimentary parking is available, while booking ahead is recommended for weekend dinners and busy summer evenings. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "4 Seasons Restaurant este un restaurant grecesc primitor din Gerakini, cu o atmosferă liniștită și mese în aer liber, potrivit atât pentru un prânz relaxat, cât și pentru o cină alături de familie sau prieteni. Meniul pune în valoare aromele mediteraneene prin pește proaspăt, creveți, sardine, caracatiță la grătar, salate, preparate din carne și opțiuni vegetariene.\n\nVizitatorii apreciază în special mâncarea gustoasă, porțiile generoase, personalul prietenos, servirea atentă și raportul bun dintre calitate și preț. Restaurantul acceptă rezervări și dispune de parcare gratuită, iar pentru cinele din weekend și serile aglomerate de vară este recomandată rezervarea din timp. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.4 Seasons Restaurant is a welcoming Greek restaurant in Gerakini, offering a peaceful atmosphere and outdoor seating suitable for both a relaxed lunch and an evening meal with family or friends. The menu celebrates Mediterranean flavours through fresh fish, prawns, grilled sardines, octopus, salads, meat dishes and vegetarian-friendly choices.\n\nVisitors particularly appreciate the enjoyable food, generous portions, friendly staff, attentive service and good value. Reservations are accepted and complimentary parking is available, while booking ahead is recommended for weekend dinners and busy summer evenings. For reservations or additional information, please complete the form in the app.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/4-seasons-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/4-seasons-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/4-seasons1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/4-seasons2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/4-seasons3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/4-seasons1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/4-seasons2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/4-seasons3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/4-seasons/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Quick bite\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
