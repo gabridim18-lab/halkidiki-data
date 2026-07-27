@@ -1,0 +1,196 @@
+{
+  "id": "ouzo-sarantis",
+  "zone": "Kassandra",
+  "beachSlug": "kalyves-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Ouzo SARANTIS",
+  "titleRo": "Ouzo SARANTIS",
+  "displayAddress": "Παραλία Καλυβών, Kalives Poligirou 631 00, Greece",
+  "gpsCoordinates": "40.27998618842012, 23.400284641482322",
+  "lat": 40.27998618842012,
+  "lon": 23.400284641482322,
+  "openingHoursRaw": "Monday\n\t\n\n    12:30–11 pm\n\n\t\nTuesday\n\t\n\n    12:30–11 pm\n\n\t\nWednesday\n\t\n\n    12:30–11 pm\n\n\t\nThursday\n\t\n\n    12:30–11 pm\n\n\t\nFriday\n\t\n\n    12:30–11 pm\n\n\t\nSaturday\n\t\n\n    12:30–11 pm\n\n\t\nSunday\n\t\n\n    12:30–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:30–23:00; Tuesday: 12:30–23:00; Wednesday: 12:30–23:00; Thursday: 12:30–23:00; Friday: 12:30–23:00; Saturday: 12:30–23:00; Sunday: 12:30–23:00",
+  "hoursRo": "Luni: 12:30–23:00; Marți: 12:30–23:00; Miercuri: 12:30–23:00; Joi: 12:30–23:00; Vineri: 12:30–23:00; Sâmbătă: 12:30–23:00; Duminică: 12:30–23:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/sarantis.ikonomoy",
+  "instagram": "",
+  "phone": "+306980938409",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Ouzo Sarantis is a welcoming Greek taverna located close to the sea on Kalyves Polygyrou Beach. Its outdoor seating and relaxed atmosphere create an inviting setting for an unhurried lunch or a summer dinner with family and friends.\n\nThe menu combines fresh fish and seafood with grilled specialities, traditional Greek cooked dishes and sharing-style meze, accompanied by ouzo or tsipouro. Vegetarian-friendly choices are also available. Guests particularly appreciate the fresh food, generous portions, friendly staff, pleasant atmosphere and good value.\n\nAdvance booking is recommended for weekend dinners and busy summer evenings. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Ouzo Sarantis este o tavernă grecească primitoare, amplasată aproape de mare, pe plaja din Kalyves Polygyrou. Terasa în aer liber și atmosfera relaxată creează cadrul potrivit pentru un prânz fără grabă sau pentru o cină de vară alături de familie și prieteni.\n\nMeniul combină peștele și fructele de mare cu preparate la grătar, mâncăruri grecești gătite și mezze potrivite pentru a fi împărțite la masă, alături de ouzo sau tsipouro. Sunt disponibile și opțiuni vegetariene. Oaspeții apreciază în special prospețimea preparatelor, porțiile generoase, personalul prietenos, atmosfera plăcută și raportul bun dintre calitate și preț.\n\nPentru cinele din weekend și serile aglomerate ale verii, rezervarea în avans este recomandată. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/ouzo-sarantis-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/ouzo-sarantis-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/ouzo-sarantis1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/ouzo-sarantis2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/ouzo-sarantis3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/ouzo-sarantis1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/ouzo-sarantis2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/ouzo-sarantis3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-sarantis/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible car park\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Delivery\n    On-site services\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Catering\n    Counter service\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed outside",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "On-site services",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Counter service",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
