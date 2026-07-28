@@ -1,0 +1,197 @@
+{
+  "id": "mesogios",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-psakoudia",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Mesogios",
+  "titleRo": "Mesogios",
+  "displayAddress": "Unnamed Road, Psakoudia 630 71, Greece",
+  "gpsCoordinates": "40.259359631075355, 23.498139168189024",
+  "lat": 40.259359631075355,
+  "lon": 23.498139168189024,
+  "openingHoursRaw": "Tuesday\n\t\n\n    5–11 pm\n\n\t\nWednesday\n\t\n\n    5–11 pm\n\n\t\nThursday\n\t\n\n    5–11 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n\t\n\n    1–11 pm\n\n\t\nSunday\n\t\n\n    1–11 pm\n\n\t\nMonday\n\t\n\n    Closed",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": true,
+      "open": "",
+      "close": "",
+      "labelEn": "Closed",
+      "labelRo": "Închis"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "17:00",
+      "close": "23:00",
+      "labelEn": "17:00–23:00",
+      "labelRo": "17:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "17:00",
+      "close": "23:00",
+      "labelEn": "17:00–23:00",
+      "labelRo": "17:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "17:00",
+      "close": "23:00",
+      "labelEn": "17:00–23:00",
+      "labelRo": "17:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: Closed; Tuesday: 17:00–23:00; Wednesday: 17:00–23:00; Thursday: 17:00–23:00; Friday: 13:00–23:00; Saturday: 13:00–23:00; Sunday: 13:00–23:00",
+  "hoursRo": "Luni: Închis; Marți: 17:00–23:00; Miercuri: 17:00–23:00; Joi: 17:00–23:00; Vineri: 13:00–23:00; Sâmbătă: 13:00–23:00; Duminică: 13:00–23:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/Mesogios-174086572655158/",
+  "instagram": "",
+  "phone": "+306987250659",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Mesogios Mediterranean Food is a welcoming restaurant in Psakoudia, featuring a relaxed terrace and beautiful views towards the sea. Its intimate and peaceful atmosphere makes it an inviting choice for an unhurried lunch or a Mediterranean dinner with family and friends.\n\nThe menu focuses on Greek and Mediterranean cuisine prepared with fresh local ingredients. Popular choices include grilled sardines and octopus, calamari, salads and a selection of fish and seafood dishes, complemented by wines suitable for the meal. Vegetarian and vegan options are also available.\n\nGuests particularly appreciate the fresh food, friendly service, cosy atmosphere and good value. Reservations are accepted, and arranging a table ahead is recommended for weekends and the busiest summer periods. Complimentary parking options are available nearby. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Mesogios Mediterranean Food este un restaurant primitor din Psakoudia, cu o terasă relaxantă și vedere spre mare. Atmosfera intimă și liniștită îl face potrivit pentru un prânz fără grabă sau pentru o cină mediteraneeană alături de familie și prieteni.\n\nMeniul pune accent pe bucătăria grecească și mediteraneeană, folosind ingrediente locale proaspete. Printre preparatele apreciate se numără sardinele și caracatița la grătar, calamarii, salatele și diferite specialități din pește și fructe de mare, completate de vinuri potrivite mesei. Sunt disponibile și opțiuni vegetariene și vegane.\n\nOaspeții apreciază în special prospețimea mâncării, serviciile prietenoase, atmosfera confortabilă și raportul bun dintre calitate și preț. Restaurantul acceptă rezervări, iar pentru weekenduri și perioadele aglomerate ale verii este recomandată organizarea mesei din timp. În apropiere sunt disponibile opțiuni de parcare gratuită. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Organic dishes\n    Quick bite\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Organic dishes",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

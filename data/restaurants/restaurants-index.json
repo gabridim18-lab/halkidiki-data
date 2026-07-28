@@ -6812,5 +6812,31 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "mesogios",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-psakoudia",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Mesogios",
+    "titleRo": "Mesogios",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mesogios/images/mesogios-hero.webp",
+    "lat": 40.259359631075355,
+    "lon": 23.498139168189024,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Mesogios Mediterranean Food is a welcoming restaurant in Psakoudia, featuring a relaxed terrace and beautiful views towards the sea....",
+    "shortRo": "Mesogios Mediterranean Food este un restaurant primitor din Psakoudia, cu o terasă relaxantă și vedere spre mare. Atmosfera intimă și...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
