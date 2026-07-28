@@ -6573,5 +6573,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "kaloeros",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-psakoudia",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Kaloeros",
+    "titleRo": "Kaloeros",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaloeros/images/kaloeros-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kaloeros/images/kaloeros-hero.webp",
+    "lat": 40.26060461457701,
+    "lon": 23.482989888016895,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Kaloeros Beach is a relaxed beach bar in Psakoudia, set on a peaceful stretch of sand beside clear water. The sea entrance is gentle...",
+    "shortRo": "Kaloeros Beach este un beach bar relaxat din Psakoudia, amplasat pe o plajă liniștită, cu nisip și apă limpede. Intrarea în mare este...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
