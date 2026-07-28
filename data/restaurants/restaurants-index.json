@@ -6693,5 +6693,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "ammos-premium",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-psakoudia",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Ammos Premium",
+    "titleRo": "Ammos Premium",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium-hero.webp",
+    "lat": 40.25962413041183,
+    "lon": 23.493424236686394,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Ammos Premium Beach Bar is a relaxed beachfront venue in Psakoudia, suitable for families, couples and groups of friends. The beach is...",
+    "shortRo": "Ammos Premium Beach Bar este un loc relaxat de pe plaja din Psakoudia, potrivit pentru familii, cupluri și grupuri de prieteni. Plaja...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

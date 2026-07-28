@@ -1,0 +1,190 @@
+{
+  "id": "ammos-premium",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-psakoudia",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Ammos Premium",
+  "titleRo": "Ammos Premium",
+  "displayAddress": "Psakoudia 630 71, Greece",
+  "gpsCoordinates": "40.25962413041183, 23.493424236686394",
+  "lat": 40.25962413041183,
+  "lon": 23.493424236686394,
+  "openingHoursRaw": "Tuesday\n\t\n\n    10 am–11 pm\n\n\t\nWednesday\n\t\n\n    10 am–11 pm\n\n\t\nThursday\n\t\n\n    10 am–11 pm\n\n\t\nFriday\n\t\n\n    10 am–11 pm\n\n\t\nSaturday\n\t\n\n    10 am–11 pm\n\n\t\nSunday\n\t\n\n    10 am–11 pm\n\n\t\nMonday\n\t\n\n    10 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "23:00",
+      "labelEn": "10:00–23:00",
+      "labelRo": "10:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–23:00; Tuesday: 10:00–23:00; Wednesday: 10:00–23:00; Thursday: 10:00–23:00; Friday: 10:00–23:00; Saturday: 10:00–23:00; Sunday: 10:00–23:00",
+  "hoursRo": "Luni: 10:00–23:00; Marți: 10:00–23:00; Miercuri: 10:00–23:00; Joi: 10:00–23:00; Vineri: 10:00–23:00; Sâmbătă: 10:00–23:00; Duminică: 10:00–23:00",
+  "website": "https://www.menuflow.gr/ammos-beach-bar",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306972431706",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Ammos Premium Beach Bar is a relaxed beachfront venue in Psakoudia, suitable for families, couples and groups of friends. The beach is mainly sandy, while the water remains shallow close to the shore, providing comfortable swimming conditions and making the area particularly welcoming for families with children. Sunbeds, shaded tables beneath the trees and gentle music create a pleasant setting for a peaceful day by the sea.\n\nThe selection includes coffee, lemonade, refreshing drinks, cocktails and light beach-friendly food. Visitors frequently appreciate the friendly and efficient service, reasonable prices, relaxed atmosphere and the use of sunbeds when ordering food or drinks from the beach bar.\n\nThe venue generally operates between 10:00 AM and 11:00 PM, with complimentary parking options available nearby. Arriving close to opening time or visiting on a weekday is a practical choice for a calmer experience and a better selection of beach positions.",
+  "descriptionRo": "Ammos Premium Beach Bar este un loc relaxat de pe plaja din Psakoudia, potrivit pentru familii, cupluri și grupuri de prieteni. Plaja este predominant nisipoasă, iar apa rămâne puțin adâncă în apropierea țărmului, oferind condiții confortabile pentru înot și pentru familiile cu copii. Șezlongurile, mesele așezate la umbra copacilor și muzica discretă creează o atmosferă plăcută pentru o zi liniștită la mare.\n\nOferta include cafea, limonadă, băuturi răcoritoare, cocktailuri și preparate ușoare potrivite pentru plajă. Vizitatorii apreciază frecvent serviciile prietenoase și rapide, prețurile echilibrate, atmosfera relaxată și posibilitatea de a utiliza șezlongurile atunci când comandă mâncare sau băuturi.\n\nLocația este deschisă, în general, între 10:00 și 23:00, iar în apropiere sunt disponibile locuri de parcare gratuite. Pentru o atmosferă mai calmă și o alegere mai bună a locurilor pe plajă, este recomandată sosirea în jurul orei de deschidere sau vizitarea în timpul săptămânii.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/ammos-premium3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ammos-premium/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Sport\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Sport"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
