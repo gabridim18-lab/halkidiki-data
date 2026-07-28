@@ -1,0 +1,187 @@
+{
+  "id": "road-house",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-psakoudia",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Road House",
+  "titleRo": "Road House",
+  "displayAddress": "Psakoudia 630 71, Greece",
+  "gpsCoordinates": "40.25967406387304, 23.493870887953634",
+  "lat": 40.25967406387304,
+  "lon": 23.493870887953634,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–1 am\n\n\t\nWednesday\n\t\n\n    9 am–1 am\n\n\t\nThursday\n\t\n\n    9 am–1 am\n\n\t\nFriday\n\t\n\n    9 am–1:30 am\n\n\t\nSaturday\n\t\n\n    9 am–2 am\n\n\t\nSunday\n\t\n\n    9 am–1 am\n\n\t\nMonday\n\t\n\n    9 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:30",
+      "labelEn": "09:00–01:30",
+      "labelRo": "09:00–01:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–01:00; Tuesday: 09:00–01:00; Wednesday: 09:00–01:00; Thursday: 09:00–01:00; Friday: 09:00–01:30; Saturday: 09:00–02:00; Sunday: 09:00–01:00",
+  "hoursRo": "Luni: 09:00–01:00; Marți: 09:00–01:00; Miercuri: 09:00–01:00; Joi: 09:00–01:00; Vineri: 09:00–01:30; Sâmbătă: 09:00–02:00; Duminică: 09:00–01:00",
+  "website": "http://www.roadhouse-beachbar.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306936843400",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "Road House Beach Bar is a relaxed and characterful beachfront venue in Psakoudia, known for its motorcycle-inspired décor, well-chosen music and friendly atmosphere. Sunbeds and beachfront service create an inviting setting for morning coffee, an informal lunch or several easy-going hours beside the sea.\n\nThe selection includes coffee, beer, refreshing drinks and beach-friendly food. Guests particularly appreciate the welcoming staff, attentive service, pleasant atmosphere and reasonable prices. Sunbeds are available to customers ordering from the bar, without pressure to maintain a high level of spending.\n\nThe venue opens daily at approximately 9:00 AM and continues until late at night. Morning hours are ideal for a quieter experience and a better choice of places, while evenings bring a livelier atmosphere with music and drinks enjoyed close to the sea.",
+  "descriptionRo": "Road House Beach Bar este un loc relaxat și plin de personalitate pe plaja din Psakoudia, cunoscut pentru decorul său inspirat de cultura motocicletelor, muzica bine aleasă și atmosfera prietenoasă. Șezlongurile și servirea direct pe plajă creează cadrul potrivit pentru cafeaua de dimineață, un prânz informal sau câteva ore petrecute lângă mare.\n\nOferta include cafea, bere, băuturi răcoritoare și preparate potrivite pentru o zi de plajă. Oaspeții apreciază în special personalul amabil, serviciile atente, atmosfera plăcută și prețurile echilibrate. Șezlongurile pot fi utilizate prin comandarea produselor de la bar, fără presiunea unui consum ridicat.\n\nLocația este deschisă zilnic începând cu aproximativ 09:00 și continuă până târziu în noapte. Dimineața este potrivită pentru o experiență mai liniștită și o alegere mai bună a locurilor, în timp ce seara aduce o atmosferă mai animată, cu muzică și băuturi savurate aproape de mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Somewhat difficult to find a space\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Somewhat difficult to find a space"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

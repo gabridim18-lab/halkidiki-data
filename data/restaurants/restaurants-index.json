@@ -6723,5 +6723,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "road-house",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-psakoudia",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Road House",
+    "titleRo": "Road House",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/road-house/images/road-house-hero.webp",
+    "lat": 40.25967406387304,
+    "lon": 23.493870887953634,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Road House Beach Bar is a relaxed and characterful beachfront venue in Psakoudia, known for its motorcycle-inspired décor, well-chosen...",
+    "shortRo": "Road House Beach Bar este un loc relaxat și plin de personalitate pe plaja din Psakoudia, cunoscut pentru decorul său inspirat de...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
