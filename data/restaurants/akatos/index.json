@@ -1,0 +1,191 @@
+{
+  "id": "akatos",
+  "zone": "Sithonia",
+  "beachSlug": "metamorfossi-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Akatos",
+  "titleRo": "Akatos",
+  "displayAddress": "Metamorfosi 630 88, Greece",
+  "gpsCoordinates": "40.22564773502581, 23.58470819894193",
+  "lat": 40.22564773502581,
+  "lon": 23.58470819894193,
+  "openingHoursRaw": "Tuesday\n\t\n\n    8 am–11 pm\n\n\t\nWednesday\n\t\n\n    8 am–11 pm\n\n\t\nThursday\n\t\n\n    8 am–11 pm\n\n\t\nFriday\n\t\n\n    8 am–11 pm\n\n\t\nSaturday\n\t\n\n    8 am–11 pm\n\n\t\nSunday\n\t\n\n    8 am–11 pm\n\n\t\nMonday\n\t\n\n    8 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–23:00; Tuesday: 08:00–23:00; Wednesday: 08:00–23:00; Thursday: 08:00–23:00; Friday: 08:00–23:00; Saturday: 08:00–23:00; Sunday: 08:00–23:00",
+  "hoursRo": "Luni: 08:00–23:00; Marți: 08:00–23:00; Miercuri: 08:00–23:00; Joi: 08:00–23:00; Vineri: 08:00–23:00; Sâmbătă: 08:00–23:00; Duminică: 08:00–23:00",
+  "website": "https://bluecafe.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375061334",
+  "price": "$$",
+  "rating": 4.0,
+  "descriptionEn": "Akatos Taverna is a Mediterranean taverna located directly beside the sea within the Blue Dolphin Resort in Metamorfosi. Its terrace overlooking the Toroneos Gulf, surrounding pine trees and relaxed atmosphere create an inviting setting for a peaceful lunch or a summer dinner close to the water.\n\nThe menu features fresh fish of the day, seafood, pasta, prawn orzo, salads and selected meat dishes, complemented by wines and cocktails. Guests particularly appreciate the seaside location, enjoyable food, attentive service and pleasant atmosphere.\n\nThe restaurant operates daily from lunchtime until the evening, with private parking available within the resort. Advance booking is recommended for weekend dinners and tables offering the most open sea views. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Akatos Taverna este o tavernă mediteraneeană amplasată chiar lângă mare, în cadrul Blue Dolphin Resort din Metamorfosi. Terasa cu vedere asupra Golfului Toroneos, pinii din jur și atmosfera relaxată creează un cadru plăcut pentru un prânz liniștit sau o cină de vară în apropierea apei.\n\nMeniul include pește proaspăt al zilei, fructe de mare, paste, orzo cu creveți, salate și preparate din carne, completate de vinuri și cocktailuri. Oaspeții apreciază în special poziția de lângă mare, mâncarea gustoasă, serviciile atente și atmosfera plăcută.\n\nRestaurantul funcționează zilnic, de la prânz până seara, iar în cadrul complexului este disponibilă parcare privată. Pentru cinele din weekend și mesele cu vedere cât mai deschisă spre mare, rezervarea în avans este recomandată. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Live music\n    Live performances\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Live music",
+    "Live performances"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}

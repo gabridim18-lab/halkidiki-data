@@ -6926,5 +6926,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "akatos",
+    "zone": "Sithonia",
+    "beachSlug": "metamorfossi-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Akatos",
+    "titleRo": "Akatos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akatos/images/akatos-hero.webp",
+    "lat": 40.22564773502581,
+    "lon": 23.58470819894193,
+    "rating": 4.0,
+    "price": "$$",
+    "shortEn": "Akatos Taverna is a Mediterranean taverna located directly beside the sea within the Blue Dolphin Resort in Metamorfosi. Its terrace...",
+    "shortRo": "Akatos Taverna este o tavernă mediteraneeană amplasată chiar lângă mare, în cadrul Blue Dolphin Resort din Metamorfosi. Terasa cu...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]
