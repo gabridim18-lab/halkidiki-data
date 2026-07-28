@@ -1,0 +1,200 @@
+{
+  "id": "giannis",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-psakoudia",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "GIANNIS",
+  "titleRo": "GIANNIS",
+  "displayAddress": "Psakoudia 630 71, Greece",
+  "gpsCoordinates": "40.25932698678054, 23.497690120084243",
+  "lat": 40.25932698678054,
+  "lon": 23.497690120084243,
+  "openingHoursRaw": "Tuesday\n\t\n\n    1–11 pm\n\n\t\nWednesday\n\t\n\n    1–11 pm\n\n\t\nThursday\n\t\n\n    1–11 pm\n\n\t\nFriday\n\t\n\n    1–11:30 pm\n\n\t\nSaturday\n\t\n\n    1–11 pm\n\n\t\nSunday\n\t\n\n    1–11 pm\n\n\t\nMonday\n\t\n\n    1–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–23:00; Tuesday: 13:00–23:00; Wednesday: 13:00–23:00; Thursday: 13:00–23:00; Friday: 13:00–23:30; Saturday: 13:00–23:00; Sunday: 13:00–23:00",
+  "hoursRo": "Luni: 13:00–23:00; Marți: 13:00–23:00; Miercuri: 13:00–23:00; Joi: 13:00–23:00; Vineri: 13:00–23:30; Sâmbătă: 13:00–23:00; Duminică: 13:00–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/giannis_greek_restaurant?igsh=MXU3NGYwZjBrc3FpYg%3D%3D&utm_source=qr",
+  "phone": "+306945551708",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "GIANNIS Greek Restaurant – Taverna O Giannis is a traditional family-run taverna in Psakoudia, serving authentic Greek food since 1988. Its warm atmosphere, outdoor seating and location close to the sea create an inviting setting for a relaxed lunch or an unhurried dinner with family and friends.\n\nThe menu focuses on fresh fish, seafood and meat cooked to order, complemented by Greek appetisers and specialities such as grilled octopus and saganaki. Guests particularly appreciate the fresh ingredients, generous portions, attentive service and welcoming atmosphere.\n\nThe restaurant opens from the early afternoon, while booking ahead is recommended for weekend dinners and busy summer evenings. Parking options are available nearby. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "GIANNIS Greek Restaurant – Taverna O Giannis este o tavernă tradițională de familie din Psakoudia, care servește preparate grecești din 1988. Atmosfera caldă, mesele în aer liber și apropierea de mare creează un cadru plăcut pentru un prânz relaxat sau o cină fără grabă alături de familie și prieteni.\n\nMeniul pune accent pe pește proaspăt, fructe de mare și carne pregătită la comandă, alături de aperitive grecești și specialități precum caracatiță la grătar și saganaki. Oaspeții apreciază în special prospețimea preparatelor, porțiile generoase, serviciile atente și atmosfera primitoare.\n\nRestaurantul este deschis începând cu prima parte a după-amiezii, iar rezervarea este recomandată pentru cinele din weekend și serile aglomerate ale verii. În apropiere sunt disponibile opțiuni de parcare. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/giannis-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/giannis-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/giannis1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/giannis2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/giannis3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/giannis1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/giannis2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/giannis3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/giannis/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
