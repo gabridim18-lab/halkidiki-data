@@ -6987,5 +6987,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "taverna-vasilis",
+    "zone": "Sithonia",
+    "beachSlug": "metamorfossi-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Taverna Vasilis",
+    "titleRo": "Taverna Vasilis",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis-hero.webp",
+    "lat": 40.228467517313106,
+    "lon": 23.60394257126319,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Taverna Vasilis 1985 is a traditional taverna in Metamorfosi, appreciated for its welcoming atmosphere and authentic Greek cuisine....",
+    "shortRo": "Taverna Vasilis 1985 este o tavernă tradițională din Metamorfosi, apreciată pentru atmosfera primitoare și bucătăria grecească...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

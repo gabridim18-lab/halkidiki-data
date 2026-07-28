@@ -1,0 +1,194 @@
+{
+  "id": "taverna-vasilis",
+  "zone": "Sithonia",
+  "beachSlug": "metamorfossi-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Taverna Vasilis",
+  "titleRo": "Taverna Vasilis",
+  "displayAddress": "Unnamed Rd,, Metamorfosi 630 78, Greece",
+  "gpsCoordinates": "40.228467517313106, 23.60394257126319",
+  "lat": 40.228467517313106,
+  "lon": 23.60394257126319,
+  "openingHoursRaw": "Tuesday\n\t\n\n    12:30 pm–12 am\n\n\t\nWednesday\n\t\n\n    12:30 pm–12 am\n\n\t\nThursday\n\t\n\n    12:30 pm–12 am\n\n\t\nFriday\n\t\n\n    12:30 pm–12 am\n\n\t\nSaturday\n\t\n\n    12:30 pm–12 am\n\n\t\nSunday\n\t\n\n    12:30 pm–12 am\n\n\t\nMonday\n\t\n\n    12:30 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:30",
+      "close": "00:00",
+      "labelEn": "12:30–00:00",
+      "labelRo": "12:30–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:30–00:00; Tuesday: 12:30–00:00; Wednesday: 12:30–00:00; Thursday: 12:30–00:00; Friday: 12:30–00:00; Saturday: 12:30–00:00; Sunday: 12:30–00:00",
+  "hoursRo": "Luni: 12:30–00:00; Marți: 12:30–00:00; Miercuri: 12:30–00:00; Joi: 12:30–00:00; Vineri: 12:30–00:00; Sâmbătă: 12:30–00:00; Duminică: 12:30–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375061226",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Taverna Vasilis 1985 is a traditional taverna in Metamorfosi, appreciated for its welcoming atmosphere and authentic Greek cuisine. Established in 1985, it offers outdoor seating and is well suited to both a relaxed lunch and an unhurried dinner with family or friends.\n\nThe menu combines fresh fish and seafood with grilled meats and traditional home-style Greek dishes. Popular choices include calamari, grilled octopus, fresh fish, moussaka, Greek salads and seafood saganaki. Guests frequently praise the generous portions, enjoyable flavours, friendly service and comfortable atmosphere. Vegetarian, vegan and gluten-free choices are also available.\n\nCurrent published hours are approximately 12:30 PM–midnight daily. Reservations and parking are available, while booking ahead is recommended for weekend dinners and busy summer evenings. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Taverna Vasilis 1985 este o tavernă tradițională din Metamorfosi, apreciată pentru atmosfera primitoare și bucătăria grecească autentică. Activă din 1985, locația oferă mese în aer liber și este potrivită atât pentru un prânz relaxat, cât și pentru o cină alături de familie sau prieteni.\n\nMeniul combină pește proaspăt și fructe de mare cu preparate din carne și mâncăruri grecești gătite în stil tradițional. Printre alegerile apreciate se numără calamarii, caracatița la grătar, peștele, moussaka, salatele grecești și saganaki cu fructe de mare. Oaspeții evidențiază frecvent porțiile generoase, gustul preparatelor, serviciile prietenoase și atmosfera confortabilă. Sunt disponibile și opțiuni vegetariene, vegane și fără gluten.\n\nProgramul publicat este zilnic, aproximativ între 12:30 și 00:00. Restaurantul acceptă rezervări și dispune de parcare, iar pentru cinele din weekend și serile aglomerate de vară este recomandată organizarea mesei din timp. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/taverna-vasilis4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-vasilis/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
