@@ -81,7 +81,7 @@
   "website": "http://barukoni.com/",
   "facebook": "",
   "instagram": "",
-  "phone": "",
+  "phone": "+30 2375 061536",
   "price": "$$",
   "rating": 4.6,
   "descriptionEn": "Barukoni Beach Bar is a modern and relaxed beachfront venue in Metamorfosi, offering open sea views and an inviting all-day atmosphere. Mornings are ideal for coffee, brunch and peaceful moments beside the water, while evenings bring a livelier mood with cocktails, music and shisha enjoyed in the sea breeze.\n\nThe menu features pizza, burgers, snacks and other beach-friendly dishes, alongside coffee, refreshing drinks and cocktails. Visitors particularly appreciate the beautiful views, cosy atmosphere, friendly staff, attentive service and reasonable prices. Barukoni is a pleasant choice for both a relaxing seaside day and an easy-going evening with friends.",
@@ -168,7 +168,10 @@
   ],
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
-  "musicStyles": [],
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
   "features": [
     "sunbeds",
     "cocktails",
@@ -178,5 +181,8 @@
     "family_friendly",
     "pet_friendly"
   ],
-  "cuisineTypes": []
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
 }

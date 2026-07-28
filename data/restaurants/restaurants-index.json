@@ -7043,6 +7043,9 @@
       "family_friendly",
       "pet_friendly"
     ],
-    "cuisineTypes": []
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
