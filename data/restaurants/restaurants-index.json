@@ -6661,5 +6661,37 @@
       "international",
       "pizza"
     ]
+  },
+  {
+    "id": "kyma",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-psakoudia",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "KYMA",
+    "titleRo": "KYMA",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma-hero.webp",
+    "lat": 40.259414264745594,
+    "lon": 23.492894134669573,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "KYMA Greek Cuisine & Beach Bar is a welcoming venue located directly on Psakoudia Beach, where Greek cuisine, seaside relaxation and...",
+    "shortRo": "KYMA Greek Cuisine & Beach Bar este o locație primitoare situată chiar pe plaja din Psakoudia, unde bucătăria grecească, relaxarea la...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
