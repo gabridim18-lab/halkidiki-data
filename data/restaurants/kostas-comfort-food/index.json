@@ -1,0 +1,193 @@
+{
+  "id": "kostas-comfort-food",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-psakoudia",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Kostas Comfort Food",
+  "titleRo": "Kostas Comfort Food",
+  "displayAddress": "Psakoudia 630 71, Greece",
+  "gpsCoordinates": "40.25971458955518, 23.494376334081068",
+  "lat": 40.25971458955518,
+  "lon": 23.494376334081068,
+  "openingHoursRaw": "Tuesday\n\t\n\n    12:30–11 pm\n\n\t\nWednesday\n\t\n\n    12:30–11 pm\n\n\t\nThursday\n\t\n\n    12:30–11 pm\n\n\t\nFriday\n\t\n\n    12:30–11 pm\n\n\t\nSaturday\n\t\n\n    12:30–11 pm\n\n\t\nSunday\n\t\n\n    12:30–11 pm\n\n\t\nMonday\n\t\n\n    12–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:30",
+      "close": "23:00",
+      "labelEn": "12:30–23:00",
+      "labelRo": "12:30–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:00; Tuesday: 12:30–23:00; Wednesday: 12:30–23:00; Thursday: 12:30–23:00; Friday: 12:30–23:00; Saturday: 12:30–23:00; Sunday: 12:30–23:00",
+  "hoursRo": "Luni: 12:00–23:00; Marți: 12:30–23:00; Miercuri: 12:30–23:00; Joi: 12:30–23:00; Vineri: 12:30–23:00; Sâmbătă: 12:30–23:00; Duminică: 12:30–23:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/pages/category/greek-restaurant/Kostas-Comfort-Food-235193913287641/",
+  "instagram": "",
+  "phone": "+302371051296",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Kostas Comfort Food is a welcoming Greek restaurant in Psakoudia, located close to the beach and well suited to a relaxed lunch or dinner with family and friends. Its simple and comfortable atmosphere places the focus on warm hospitality and authentic dishes prepared with care.\n\nThe menu brings together traditional Greek specialities, fish and seafood, prawns, salads, meat dishes and comforting home-style recipes. Its varied selection offers something for both a lighter meal and a generous dinner, complemented by a choice of wines.\n\nGuests particularly appreciate the fresh food, generous portions, friendly service, relaxed atmosphere and good value. Outdoor seating and takeaway are available, making Kostas Comfort Food an inviting choice for authentic Greek cuisine in an informal setting.",
+  "descriptionRo": "Kostas Comfort Food este un restaurant grecesc primitor din Psakoudia, situat aproape de plajă și potrivit pentru un prânz relaxat sau o cină alături de familie și prieteni. Atmosfera simplă și confortabilă pune accent pe ospitalitate și pe gustul autentic al preparatelor gătite cu grijă.\n\nMeniul reunește preparate grecești tradiționale, pește și fructe de mare, creveți, salate, carne și mâncăruri gătite în stil casnic. Selecția generoasă permite alegerea unei mese ușoare sau a unor preparate consistente, iar vinurile completează plăcut experiența culinară.\n\nOaspeții apreciază în special prospețimea mâncării, porțiile generoase, serviciile prietenoase, atmosfera relaxată și raportul bun dintre calitate și preț. Restaurantul oferă mese în aer liber și mâncare la pachet, fiind o alegere potrivită pentru cei care caută bucătărie grecească autentică, fără formalități.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/kostas-comfort-food4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kostas-comfort-food/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great coffee\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great coffee"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
