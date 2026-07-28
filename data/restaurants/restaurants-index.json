@@ -6537,5 +6537,37 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "easy",
+    "zone": "Sithonia",
+    "beachSlug": "trikorfo-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Easy",
+    "titleRo": "Easy",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy-hero.webp",
+    "lat": 40.26278131684749,
+    "lon": 23.463129379221208,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Easy Beach Bar & Restaurant is a relaxed beachfront venue in Gerakini, ideal for spending the day close to the sea in a calm and...",
+    "shortRo": "Easy Beach Bar & Restaurant este un loc relaxat din Gerakini, potrivit pentru o zi petrecută aproape de mare, într-o atmosferă calmă...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

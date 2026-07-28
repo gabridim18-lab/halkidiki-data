@@ -1,0 +1,210 @@
+{
+  "id": "easy",
+  "zone": "Sithonia",
+  "beachSlug": "trikorfo-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Easy",
+  "titleRo": "Easy",
+  "displayAddress": "Yerakini 671 00, Greece",
+  "gpsCoordinates": "40.26278131684749, 23.463129379221208",
+  "lat": 40.26278131684749,
+  "lon": 23.463129379221208,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–2 am\n\n\t\nWednesday\n\t\n\n    9 am–2 am\n\n\t\nThursday\n\t\n\n    9 am–2 am\n\n\t\nFriday\n\t\n\n    9 am–2 am\n\n\t\nSaturday\n\t\n\n    9 am–3 am\n\n\t\nSunday\n\t\n\n    9 am–2 am\n\n\t\nMonday\n\t\n\n    9 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–02:00; Tuesday: 09:00–02:00; Wednesday: 09:00–02:00; Thursday: 09:00–02:00; Friday: 09:00–02:00; Saturday: 09:00–03:00; Sunday: 09:00–02:00",
+  "hoursRo": "Luni: 09:00–02:00; Marți: 09:00–02:00; Miercuri: 09:00–02:00; Joi: 09:00–02:00; Vineri: 09:00–02:00; Sâmbătă: 09:00–03:00; Duminică: 09:00–02:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/Easy-Beach-Bar-2307484636041302/",
+  "instagram": "",
+  "phone": "+306987736013",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Easy Beach Bar & Restaurant is a relaxed beachfront venue in Gerakini, ideal for spending the day close to the sea in a calm and welcoming atmosphere. The clean beach, outdoor setting and all-day service create a pleasant environment for families, couples and groups of friends.\n\nThe menu includes coffee, refreshing drinks, ice cream and beach-friendly food such as club sandwiches, Greek salads and appetisers. Visitors particularly appreciate the warm and welcoming staff, enjoyable food, affordable prices and peaceful atmosphere. Card payments are accepted.\n\nThe venue opens at around 9:00 AM and remains open until late. Arriving earlier in the morning is a good choice for a quieter experience, while the evening offers a livelier setting for drinks and relaxing moments beside the sea.",
+  "descriptionRo": "Easy Beach Bar & Restaurant este un loc relaxat din Gerakini, potrivit pentru o zi petrecută aproape de mare, într-o atmosferă calmă și prietenoasă. Plaja curată, spațiul exterior și serviciile oferite pe parcursul zilei creează un cadru plăcut pentru familii, cupluri și grupuri de prieteni.\n\nMeniul include cafea, băuturi răcoritoare, înghețată și preparate potrivite pentru plajă, precum club sandwich-uri, salate grecești și aperitive. Vizitatorii apreciază în special personalul cald și primitor, mâncarea gustoasă, prețurile accesibile și atmosfera liniștită. Plata cu cardul este disponibilă.\n\nLocația se deschide în jurul orei 09:00 și rămâne deschisă până târziu. Sosirea în prima parte a dimineții este potrivită pentru o experiență mai calmă, în timp ce seara oferă o atmosferă mai animată pentru băuturi și momente petrecute lângă mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/easy6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/easy/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great dessert\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Food\n    Food at bar\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Brunch\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great dessert"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Food",
+    "Food at bar",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "5Euro ubrella + two sunbeds",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "party",
+    "live_music"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
