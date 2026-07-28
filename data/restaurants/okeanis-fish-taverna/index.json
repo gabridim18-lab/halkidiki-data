@@ -1,0 +1,199 @@
+{
+  "id": "okeanis-fish-taverna",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-psakoudia",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Okeanis Fish Taverna",
+  "titleRo": "Okeanis Fish Taverna",
+  "displayAddress": "Psakoudia 630 71, Greece",
+  "gpsCoordinates": "40.25899038142343, 23.49936558075295",
+  "lat": 40.25899038142343,
+  "lon": 23.49936558075295,
+  "openingHoursRaw": "Tuesday\n\t\n\n    12–11 pm\n\n\t\nWednesday\n\t\n\n    12–11 pm\n\n\t\nThursday\n\t\n\n    12–11 pm\n\n\t\nFriday\n\t\n\n    12–11 pm\n\n\t\nSaturday\n\t\n\n    12–11 pm\n\n\t\nSunday\n\t\n\n    12–11 pm\n\n\t\nMonday\n\t\n\n    12–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:00; Tuesday: 12:00–23:00; Wednesday: 12:00–23:00; Thursday: 12:00–23:00; Friday: 12:00–23:00; Saturday: 12:00–23:00; Sunday: 12:00–23:00",
+  "hoursRo": "Luni: 12:00–23:00; Marți: 12:00–23:00; Miercuri: 12:00–23:00; Joi: 12:00–23:00; Vineri: 12:00–23:00; Sâmbătă: 12:00–23:00; Duminică: 12:00–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302371053519",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Okeanis Fish Taverna is a traditional seafood taverna in Psakoudia, located close to the water in a relaxed setting with beautiful sea views. Its warm atmosphere and outdoor seating make it an inviting choice for an unhurried lunch or a Mediterranean dinner with family and friends.\n\nThe menu focuses on fresh fish and seafood, complemented by traditional Greek dishes and selected meat options. Guests particularly appreciate the quality of the seafood, authentic flavours, welcoming service and pleasant seaside atmosphere.",
+  "descriptionRo": "Okeanis Fish Taverna este o tavernă pescărească tradițională din Psakoudia, amplasată aproape de apă, într-un cadru relaxat, cu vedere frumoasă spre mare. Atmosfera caldă și mesele în aer liber o transformă într-o alegere potrivită pentru un prânz fără grabă sau pentru o cină mediteraneeană alături de familie și prieteni.\n\nMeniul pune accent pe pește proaspăt și fructe de mare, completate de preparate grecești tradiționale și opțiuni din carne. Oaspeții apreciază în special calitatea preparatelor din pește, aromele autentice, servirea prietenoasă și atmosfera plăcută de lângă mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

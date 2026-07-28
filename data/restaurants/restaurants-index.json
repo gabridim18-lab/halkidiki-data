@@ -6865,5 +6865,35 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "okeanis-fish-taverna",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-psakoudia",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Okeanis Fish Taverna",
+    "titleRo": "Okeanis Fish Taverna",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/okeanis-fish-taverna/images/okeanis-fish-taverna-hero.webp",
+    "lat": 40.25899038142343,
+    "lon": 23.49936558075295,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Okeanis Fish Taverna is a traditional seafood taverna in Psakoudia, located close to the water in a relaxed setting with beautiful sea...",
+    "shortRo": "Okeanis Fish Taverna este o tavernă pescărească tradițională din Psakoudia, amplasată aproape de apă, într-un cadru relaxat, cu vedere...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
