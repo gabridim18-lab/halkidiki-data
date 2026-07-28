@@ -1,0 +1,182 @@
+{
+  "id": "barukoni",
+  "zone": "Sithonia",
+  "beachSlug": "metamorfossi-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Barukoni",
+  "titleRo": "Barukoni",
+  "displayAddress": "Παραλία, Metamorfosi 630 88, Greece",
+  "gpsCoordinates": "40.22790656244902, 23.603464223996554",
+  "lat": 40.22790656244902,
+  "lon": 23.603464223996554,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–2 am\n\n\t\nWednesday\n\t\n\n    9 am–2 am\n\n\t\nThursday\n\t\n\n    9 am–2 am\n\n\t\nFriday\n\t\n\n    9 am–2 am\n\n\t\nSaturday\n\t\n\n    9 am–2 am\n\n\t\nSunday\n\t\n\n    9 am–2 am\n\n\t\nMonday\n\t\n\n    9 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–02:00; Tuesday: 09:00–02:00; Wednesday: 09:00–02:00; Thursday: 09:00–02:00; Friday: 09:00–02:00; Saturday: 09:00–02:00; Sunday: 09:00–02:00",
+  "hoursRo": "Luni: 09:00–02:00; Marți: 09:00–02:00; Miercuri: 09:00–02:00; Joi: 09:00–02:00; Vineri: 09:00–02:00; Sâmbătă: 09:00–02:00; Duminică: 09:00–02:00",
+  "website": "http://barukoni.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Barukoni Beach Bar is a modern and relaxed beachfront venue in Metamorfosi, offering open sea views and an inviting all-day atmosphere. Mornings are ideal for coffee, brunch and peaceful moments beside the water, while evenings bring a livelier mood with cocktails, music and shisha enjoyed in the sea breeze.\n\nThe menu features pizza, burgers, snacks and other beach-friendly dishes, alongside coffee, refreshing drinks and cocktails. Visitors particularly appreciate the beautiful views, cosy atmosphere, friendly staff, attentive service and reasonable prices. Barukoni is a pleasant choice for both a relaxing seaside day and an easy-going evening with friends.",
+  "descriptionRo": "Barukoni Beach Bar este un loc modern și relaxat de pe plaja din Metamorfosi, cu vedere deschisă spre mare și o atmosferă potrivită pentru întreaga zi. Dimineața este ideală pentru cafea, brunch și momente liniștite aproape de apă, iar spre seară locația capătă un aer mai vibrant, cu cocktailuri, muzică și narghilea în briza mării.\n\nMeniul include pizza, burgeri, gustări și preparate potrivite pentru plajă, alături de cafea, băuturi răcoritoare și cocktailuri. Vizitatorii apreciază în special priveliștea, atmosfera confortabilă, personalul prietenos, servirea atentă și prețurile accesibile. Barukoni este o alegere plăcută atât pentru câteva ore de relaxare la mare, cât și pentru o seară liniștită petrecută alături de prieteni.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/barukoni-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/barukoni-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/barukoni1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/barukoni2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/barukoni3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/barukoni1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/barukoni2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/barukoni3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/barukoni/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
