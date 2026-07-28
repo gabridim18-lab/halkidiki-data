@@ -1,0 +1,185 @@
+{
+  "id": "blue-flag",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-psakoudia",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Blue Flag",
+  "titleRo": "Blue Flag",
+  "displayAddress": "Ormylia 630 78, Greece",
+  "gpsCoordinates": "40.22613577363303, 23.58507619749732",
+  "lat": 40.22613577363303,
+  "lon": 23.58507619749732,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–12:30 am\n\n\t\nWednesday\n\t\n\n    9 am–12:30 am\n\n\t\nThursday\n\t\n\n    9 am–12:30 am\n\n\t\nFriday\n\t\n\n    9 am–1 am\n\n\t\nSaturday\n\t\n\n    9 am–1 am\n\n\t\nSunday\n\t\n\n    9 am–12:30 am\n\n\t\nMonday\n\t\n\n    9 am–12:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–00:30; Tuesday: 09:00–00:30; Wednesday: 09:00–00:30; Thursday: 09:00–00:30; Friday: 09:00–01:00; Saturday: 09:00–01:00; Sunday: 09:00–00:30",
+  "hoursRo": "Luni: 09:00–00:30; Marți: 09:00–00:30; Miercuri: 09:00–00:30; Joi: 09:00–00:30; Vineri: 09:00–01:00; Sâmbătă: 09:00–01:00; Duminică: 09:00–00:30",
+  "website": "http://www.bluedolphinhotel.eu/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375061334",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Blue Flag Beach is a relaxed beach bar in the Ormylia area, close to Metamorfosi, set beside a spacious beach with sand and small pebbles, clear water and a peaceful atmosphere. It is well suited to families, couples and groups of friends looking for a comfortable seaside day away from the busiest resort areas.\n\nThe selection includes coffee, cocktails, craft beer and beach-friendly food such as pizza, gyros, calamari, seafood and light snacks. Visitors particularly appreciate the pleasant atmosphere, friendly staff, attentive service and reasonable prices.\n\nPrivate and nearby parking options are available, card payments are accepted, and the venue provides wheelchair access. Booking ahead may be helpful for weekends and busy summer days. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Blue Flag Beach este un beach bar relaxat din zona Ormylia, aproape de Metamorfosi, amplasat pe o plajă spațioasă cu nisip și pietricele, apă limpede și o atmosferă liniștită. Este potrivit pentru familii, cupluri și grupuri de prieteni care vor să petreacă o zi confortabilă la mare, departe de aglomerația celor mai cunoscute stațiuni.\n\nOferta include cafea, cocktailuri, bere artizanală și preparate potrivite pentru plajă, precum pizza, gyros, calamari, fructe de mare și gustări ușoare. Vizitatorii apreciază atmosfera plăcută, personalul prietenos, serviciile atente și prețurile echilibrate.\n\nLocația dispune de parcare proprie și locuri suplimentare în apropiere, acceptă plata cu cardul și oferă acces persoanelor cu mobilitate redusă. Rezervarea poate fi utilă pentru weekenduri și zilele aglomerate ale sezonului estival. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/blue-flag4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/blue-flag/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
