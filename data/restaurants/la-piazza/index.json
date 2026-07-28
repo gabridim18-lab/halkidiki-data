@@ -1,0 +1,195 @@
+{
+  "id": "la-piazza",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-psakoudia",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "La Piazza",
+  "titleRo": "La Piazza",
+  "displayAddress": "Ψακούδια, Psakoudia 630 71, Greece",
+  "gpsCoordinates": "40.25951213918682, 23.492770816812047",
+  "lat": 40.25951213918682,
+  "lon": 23.492770816812047,
+  "openingHoursRaw": "Tuesday\n\t\n\n    10 am–12 am\n\n\t\nWednesday\n\t\n\n    10 am–12 am\n\n\t\nThursday\n\t\n\n    10 am–12 am\n\n\t\nFriday\n\t\n\n    10 am–12 am\n\n\t\nSaturday\n\t\n\n    10 am–12 am\n\n\t\nSunday\n\t\n\n    10 am–12 am\n\n\t\nMonday\n\t\n\n    10 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "00:00",
+      "labelEn": "10:00–00:00",
+      "labelRo": "10:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–00:00; Tuesday: 10:00–00:00; Wednesday: 10:00–00:00; Thursday: 10:00–00:00; Friday: 10:00–00:00; Saturday: 10:00–00:00; Sunday: 10:00–00:00",
+  "hoursRo": "Luni: 10:00–00:00; Marți: 10:00–00:00; Miercuri: 10:00–00:00; Joi: 10:00–00:00; Vineri: 10:00–00:00; Sâmbătă: 10:00–00:00; Duminică: 10:00–00:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/pg/La-Piazza-Psakoudia-354399271332611/about/?ref=page_internal",
+  "instagram": "",
+  "phone": "+306930801329",
+  "price": "$$",
+  "rating": 4.3,
+  "descriptionEn": "La Piazza is an Italian restaurant and beach café located directly beside the beach in Psakoudia. Its outdoor seating, refreshing sea breeze and relaxed atmosphere create an inviting setting for lunch after the beach or an informal dinner with family and friends.\n\nThe venue is particularly known for its thin-crust pizzas and generous portions, alongside pasta, focaccia, burgers and other Italian and Mediterranean-inspired dishes. Visitors frequently praise the flavour of the pizza, reasonable prices, friendly service and pleasant seaside setting. Vegetarian choices, takeaway service, highchairs and wheelchair access are also available.\n\nReservations are available and may be helpful for weekend dinners or larger groups. Earlier evening hours are a pleasant choice for a calmer dining experience. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "La Piazza este un restaurant și beach café cu specific italian, amplasat chiar lângă plaja din Psakoudia. Terasa în aer liber, briza mării și atmosfera relaxată creează un cadru plăcut pentru un prânz după plajă sau pentru o cină informală alături de familie și prieteni.\n\nLocația este cunoscută în special pentru pizza cu blat subțire și porții generoase, alături de paste, focaccia, burgeri și alte preparate inspirate din bucătăria italiană și mediteraneeană. Vizitatorii apreciază frecvent gustul pizzei, prețurile rezonabile, atmosfera de lângă mare și serviciile prietenoase. Sunt disponibile și opțiuni vegetariene, mâncare la pachet, scaune pentru copii și acces pentru persoanele cu mobilitate redusă.\n\nRezervările sunt disponibile și pot fi utile pentru cinele din weekend sau pentru grupurile mai mari. Pentru o atmosferă mai liniștită, începutul serii este un moment potrivit pentru vizită. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.\n\nEnglish",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great dessert\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great dessert"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "international",
+    "pizza"
+  ]
+}

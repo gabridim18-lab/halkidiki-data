@@ -6632,5 +6632,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "la-piazza",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-psakoudia",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "La Piazza",
+    "titleRo": "La Piazza",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/la-piazza/images/la-piazza-hero.webp",
+    "lat": 40.25951213918682,
+    "lon": 23.492770816812047,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "La Piazza is an Italian restaurant and beach café located directly beside the beach in Psakoudia. Its outdoor seating, refreshing sea...",
+    "shortRo": "La Piazza este un restaurant și beach café cu specific italian, amplasat chiar lângă plaja din Psakoudia. Terasa în aer liber, briza...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "international",
+      "pizza"
+    ]
   }
 ]
