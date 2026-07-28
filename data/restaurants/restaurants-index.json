@@ -6602,5 +6602,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "taverna-nikos",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-psakoudia",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Taverna Nikos",
+    "titleRo": "Taverna Nikos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-nikos/images/taverna-nikos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna-nikos/images/taverna-nikos-hero.webp",
+    "lat": 40.25962416266525,
+    "lon": 23.490659602571952,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Taverna Nikos is a traditional Greek taverna in Psakoudia, located close to the beach within a cool garden featuring shaded tables and...",
+    "shortRo": "Taverna Nikos este o tavernă tradițională din Psakoudia, amplasată aproape de plajă, într-o grădină răcoroasă, cu mese sub copaci și...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
