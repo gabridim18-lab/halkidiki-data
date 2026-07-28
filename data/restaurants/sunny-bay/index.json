@@ -1,0 +1,193 @@
+{
+  "id": "sunny-bay",
+  "zone": "Sithonia",
+  "beachSlug": "metamorfossi-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Sunny Bay",
+  "titleRo": "Sunny Bay",
+  "displayAddress": "Metamorfosi 630 88, Greece",
+  "gpsCoordinates": "40.22689797874241, 23.58981576180895",
+  "lat": 40.22689797874241,
+  "lon": 23.58981576180895,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–12:30 am\n\n\t\nWednesday\n\t\n\n    9 am–12:30 am\n\n\t\nThursday\n\t\n\n    9 am–12:30 am\n\n\t\nFriday\n\t\n\n    9 am–1 am\n\n\t\nSaturday\n\t\n\n    9 am–1 am\n\n\t\nSunday\n\t\n\n    9 am–12:30 am\n\n\t\nMonday\n\t\n\n    9 am–12:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:30",
+      "labelEn": "09:00–00:30",
+      "labelRo": "09:00–00:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–00:30; Tuesday: 09:00–00:30; Wednesday: 09:00–00:30; Thursday: 09:00–00:30; Friday: 09:00–01:00; Saturday: 09:00–01:00; Sunday: 09:00–00:30",
+  "hoursRo": "Luni: 09:00–00:30; Marți: 09:00–00:30; Miercuri: 09:00–00:30; Joi: 09:00–00:30; Vineri: 09:00–01:00; Sâmbătă: 09:00–01:00; Duminică: 09:00–00:30",
+  "website": "",
+  "facebook": "https://www.facebook.com/sunnybaygr",
+  "instagram": "",
+  "phone": "+302375061408",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Sunny Bay Beach Bar is a relaxed seaside venue in Metamorfosi, featuring an organised beach area with sunbeds, umbrellas and a peaceful atmosphere suitable for a full summer day. Its position near Sunny Bay Camping, in an area surrounded by pine trees, creates a welcoming setting for families, couples and groups of friends looking for a comfortable beach experience away from busier resorts.\n\nThe selection includes coffee, refreshing drinks, cocktails and beach-friendly food that can be enjoyed close to the water. Visitors particularly appreciate the friendly staff, attentive service, good coffee and calm atmosphere. Outdoor seating, Wi-Fi and wheelchair access are also available.\n\nSunny Bay generally operates daily from approximately 9:00 AM until 1:00 AM. Arriving earlier in the morning is ideal for a quieter experience and a better choice of beach positions, while the evening offers a pleasant setting for cocktails and drinks beside the sea. For reservations or additional information, please complete the form in the app.",
+  "descriptionRo": "Sunny Bay Beach Bar este un loc relaxat din Metamorfosi, amenajat direct lângă mare, cu șezlonguri, umbrele și o atmosferă liniștită, potrivită pentru o zi întreagă de vacanță. Poziția sa în apropierea campingului Sunny Bay, într-o zonă înconjurată de pini, creează un cadru plăcut pentru familii, cupluri și grupuri de prieteni care preferă un beach bar confortabil și lipsit de agitație.\n\nOferta include cafea, băuturi răcoritoare, cocktailuri și preparate potrivite pentru plajă, care pot fi savurate aproape de apă. Vizitatorii apreciază în special personalul prietenos, servirea atentă, cafeaua bună și atmosfera calmă, iar locația oferă și mese în aer liber, Wi-Fi și acces pentru persoanele cu mobilitate redusă.\n\nSunny Bay este deschis, în general, zilnic de la aproximativ 09:00 până la 01:00. Sosirea în prima parte a dimineții este potrivită pentru mai multă liniște și o alegere mai bună a locurilor pe plajă, în timp ce seara oferă un cadru plăcut pentru cocktailuri și băuturi savurate lângă mare. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Live music\n    Live performances\n    Sport\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Outside food allowed\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Live music",
+    "Live performances",
+    "Sport"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Outside food allowed",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "5€ for a sunbed",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

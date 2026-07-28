@@ -6956,5 +6956,36 @@
       "mediterranean",
       "international"
     ]
+  },
+  {
+    "id": "sunny-bay",
+    "zone": "Sithonia",
+    "beachSlug": "metamorfossi-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Sunny Bay",
+    "titleRo": "Sunny Bay",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunny-bay/images/sunny-bay-hero.webp",
+    "lat": 40.22689797874241,
+    "lon": 23.58981576180895,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Sunny Bay Beach Bar is a relaxed seaside venue in Metamorfosi, featuring an organised beach area with sunbeds, umbrellas and a...",
+    "shortRo": "Sunny Bay Beach Bar este un loc relaxat din Metamorfosi, amenajat direct lângă mare, cu șezlonguri, umbrele și o atmosferă liniștită,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
