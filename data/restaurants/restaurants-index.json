@@ -7100,5 +7100,31 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "haven",
+    "zone": "Sithonia",
+    "beachSlug": "nikiti-beach",
+    "type": "bar",
+    "featured": true,
+    "titleEn": "Haven",
+    "titleRo": "Haven",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven-hero.webp",
+    "lat": 40.217806257886515,
+    "lon": 23.664275954668096,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Haven Seaside Bar is a stylish rooftop venue located beside Nikiti Marina, offering panoramic views of the sea, the boats, and...",
+    "shortRo": "Haven Seaside Bar este un rooftop bar elegant situat lângă portul de agrement din Nikiti, cu vedere panoramică spre mare, ambarcațiuni...",
+    "features": [
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

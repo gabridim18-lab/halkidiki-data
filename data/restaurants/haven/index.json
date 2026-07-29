@@ -1,0 +1,182 @@
+{
+  "id": "haven",
+  "zone": "Sithonia",
+  "beachSlug": "nikiti-beach",
+  "type": "bar",
+  "featured": true,
+  "titleEn": "Haven",
+  "titleRo": "Haven",
+  "displayAddress": "Egialou, Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.217806257886515, 23.664275954668096",
+  "lat": 40.217806257886515,
+  "lon": 23.664275954668096,
+  "openingHoursRaw": "Wednesday\n\t\n\n    12 pm–12 am\n\n\t\nThursday\n\t\n\n    12 pm–12 am\n\n\t\nFriday\n\t\n\n    12 pm–12 am\n\n\t\nSaturday\n\t\n\n    12 pm–12 am\n\n\t\nSunday\n\t\n\n    12 pm–12 am\n\n\t\nMonday\n\t\n\n    12 pm–12 am\n\n\t\nTuesday\n\t\n\n    12 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–00:00; Tuesday: 12:00–00:00; Wednesday: 12:00–00:00; Thursday: 12:00–00:00; Friday: 12:00–00:00; Saturday: 12:00–00:00; Sunday: 12:00–00:00",
+  "hoursRo": "Luni: 12:00–00:00; Marți: 12:00–00:00; Miercuri: 12:00–00:00; Joi: 12:00–00:00; Vineri: 12:00–00:00; Sâmbătă: 12:00–00:00; Duminică: 12:00–00:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/haven.nikiti",
+  "instagram": "",
+  "phone": "+306980540944",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Haven Seaside Bar is a stylish rooftop venue located beside Nikiti Marina, offering panoramic views of the sea, the boats, and Sithonia’s beautiful sunsets. Its relaxed atmosphere, modern décor, and lounge music create an inviting setting for daytime coffee or an evening with friends. The drinks menu features signature and classic cocktails, alcohol-free options, wines, beer, coffee, and soft drinks. Haven is an appealing choice for couples and groups looking for creative cocktails and an elegant atmosphere in the heart of Nikiti’s waterfront area.",
+  "descriptionRo": "Haven Seaside Bar este un rooftop bar elegant situat lângă portul de agrement din Nikiti, cu vedere panoramică spre mare, ambarcațiuni și apusurile spectaculoase ale Sithoniei. Atmosfera relaxată, decorul modern și muzica lounge creează cadrul potrivit pentru o cafea în timpul zilei sau pentru o seară petrecută alături de prieteni. Meniul de băuturi include cocktailuri signature și clasice, opțiuni fără alcool, vinuri, bere, cafea și băuturi răcoritoare. Haven este o alegere inspirată pentru cupluri și grupuri care caută cocktailuri creative și o ambianță rafinată, chiar în inima zonei de promenadă din Nikiti.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/haven3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/haven/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Live music\n    Live performances\n    Rooftop seating\n    Sport\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Live music",
+    "Live performances",
+    "Rooftop seating",
+    "Sport"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
