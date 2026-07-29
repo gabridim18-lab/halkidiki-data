@@ -1,0 +1,158 @@
+{
+  "id": "remezzo",
+  "zone": "Sithonia",
+  "beachSlug": "nikiti-beach",
+  "type": "cocktail_bar",
+  "featured": true,
+  "titleEn": "Remezzo ",
+  "titleRo": "Remezzo",
+  "displayAddress": "Egialou, Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.218522132592646, 23.66275905968607",
+  "lat": 40.218522132592646,
+  "lon": 23.66275905968607,
+  "openingHoursRaw": "Wednesday\n\t\n\n    6 pm–4 am\n\n\t\nThursday\n\t\n\n    6 pm–4 am\n\n\t\nFriday\n\t\n\n    6 pm–4 am\n\n\t\nSaturday\n\t\n\n    6 pm–4 am\n\n\t\nSunday\n\t\n\n    6 pm–4 am\n\n\t\nMonday\n\t\n\n    6 pm–4 am\n\n\t\nTuesday\n\t\n\n    6 pm–4 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "18:00",
+      "close": "04:00",
+      "labelEn": "18:00–04:00",
+      "labelRo": "18:00–04:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "18:00",
+      "close": "04:00",
+      "labelEn": "18:00–04:00",
+      "labelRo": "18:00–04:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "18:00",
+      "close": "04:00",
+      "labelEn": "18:00–04:00",
+      "labelRo": "18:00–04:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "18:00",
+      "close": "04:00",
+      "labelEn": "18:00–04:00",
+      "labelRo": "18:00–04:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "18:00",
+      "close": "04:00",
+      "labelEn": "18:00–04:00",
+      "labelRo": "18:00–04:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "18:00",
+      "close": "04:00",
+      "labelEn": "18:00–04:00",
+      "labelRo": "18:00–04:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "18:00",
+      "close": "04:00",
+      "labelEn": "18:00–04:00",
+      "labelRo": "18:00–04:00"
+    }
+  ],
+  "hoursEn": "Monday: 18:00–04:00; Tuesday: 18:00–04:00; Wednesday: 18:00–04:00; Thursday: 18:00–04:00; Friday: 18:00–04:00; Saturday: 18:00–04:00; Sunday: 18:00–04:00",
+  "hoursRo": "Luni: 18:00–04:00; Marți: 18:00–04:00; Miercuri: 18:00–04:00; Joi: 18:00–04:00; Vineri: 18:00–04:00; Sâmbătă: 18:00–04:00; Duminică: 18:00–04:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306988814445",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Remezzo Marine Bar is a stylish gastro bar located at Nikiti harbour, beside the boats of the marina. Its relaxed atmosphere, modern décor, and sea views make it an inviting place to watch the sunset and enjoy an evening in Sithonia. The menu features classic and signature cocktails, a carefully selected wine list, and a variety of street-food and finger-food dishes designed to complement the drinks. Live music on selected evenings adds extra energy to the waterfront setting. Remezzo is an appealing choice for couples, groups of friends, and anyone looking for creative drinks in an elegant seaside atmosphere.",
+  "descriptionRo": "Remezzo Marine Bar este un gastro-bar elegant situat în portul din Nikiti, chiar lângă ambarcațiunile din marină. Atmosfera relaxată, decorul modern și priveliștea către mare îl transformă într-un loc potrivit pentru a admira apusul și pentru a petrece o seară plăcută în Sithonia. Meniul include cocktailuri clasice și signature, vinuri atent selecționate, precum și preparate de tip street food și finger food, concepute pentru a completa experiența de la bar. În anumite seri, muzica live adaugă un plus de energie atmosferei. Remezzo este o alegere inspirată pentru cupluri, grupuri de prieteni și pentru cei care caută băuturi creative într-un cadru rafinat, aproape de mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Crowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge",
+    "party"
+  ],
+  "features": [
+    "cocktails",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}

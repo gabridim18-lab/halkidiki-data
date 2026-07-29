@@ -7076,5 +7076,29 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "remezzo",
+    "zone": "Sithonia",
+    "beachSlug": "nikiti-beach",
+    "type": "cocktail_bar",
+    "featured": true,
+    "titleEn": "Remezzo ",
+    "titleRo": "Remezzo",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/remezzo/images/remezzo-hero.webp",
+    "lat": 40.218522132592646,
+    "lon": 23.66275905968607,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Remezzo Marine Bar is a stylish gastro bar located at Nikiti harbour, beside the boats of the marina. Its relaxed atmosphere, modern...",
+    "shortRo": "Remezzo Marine Bar este un gastro-bar elegant situat în portul din Nikiti, chiar lângă ambarcațiunile din marină. Atmosfera relaxată,...",
+    "features": [
+      "cocktails",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

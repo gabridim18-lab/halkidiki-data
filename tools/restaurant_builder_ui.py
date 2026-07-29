@@ -1087,7 +1087,10 @@ class App(tk.Tk):
 
             values=[
                 "restaurant",
-                "beach_bar"
+                "beach_bar",
+                "taverna",
+                "bar",
+                "cocktail_bar"
             ],
 
             state="readonly"
