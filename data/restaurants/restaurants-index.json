@@ -7126,5 +7126,29 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "loft",
+    "zone": "Sithonia",
+    "beachSlug": "nikiti-beach",
+    "type": "cocktail_bar",
+    "featured": true,
+    "titleEn": "Loft",
+    "titleRo": "Loft",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft-hero.webp",
+    "lat": 40.2172157477541,
+    "lon": 23.66570513478954,
+    "rating": 4.8,
+    "price": "$$",
+    "shortEn": "Loft Cocktail Bar is a rooftop bar in Nikiti, offering a relaxed atmosphere and beautiful views over the harbour and the sea....",
+    "shortRo": "Loft Cocktail Bar este un rooftop bar din Nikiti, cu o atmosferă relaxată și priveliști frumoase către port și mare. Cocktailurile...",
+    "features": [
+      "cocktails",
+      "sea_view",
+      "sunset_view",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

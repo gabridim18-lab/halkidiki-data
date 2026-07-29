@@ -1,0 +1,177 @@
+{
+  "id": "loft",
+  "zone": "Sithonia",
+  "beachSlug": "nikiti-beach",
+  "type": "cocktail_bar",
+  "featured": true,
+  "titleEn": "Loft",
+  "titleRo": "Loft",
+  "displayAddress": "Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.2172157477541, 23.66570513478954",
+  "lat": 40.2172157477541,
+  "lon": 23.66570513478954,
+  "openingHoursRaw": "Wednesday\n\t\n\n    7 pm–5 am\n\n\t\nThursday\n\t\n\n    7 pm–5 am\n\n\t\nFriday\n\t\n\n    7 pm–5 am\n\n\t\nSaturday\n\t\n\n    7 pm–5 am\n\n\t\nSunday\n\t\n\n    7 pm–5 am\n\n\t\nMonday\n\t\n\n    7 pm–5 am\n\n\t\nTuesday\n\t\n\n    7 pm–5 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "19:00",
+      "close": "05:00",
+      "labelEn": "19:00–05:00",
+      "labelRo": "19:00–05:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "19:00",
+      "close": "05:00",
+      "labelEn": "19:00–05:00",
+      "labelRo": "19:00–05:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "19:00",
+      "close": "05:00",
+      "labelEn": "19:00–05:00",
+      "labelRo": "19:00–05:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "19:00",
+      "close": "05:00",
+      "labelEn": "19:00–05:00",
+      "labelRo": "19:00–05:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "19:00",
+      "close": "05:00",
+      "labelEn": "19:00–05:00",
+      "labelRo": "19:00–05:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "19:00",
+      "close": "05:00",
+      "labelEn": "19:00–05:00",
+      "labelRo": "19:00–05:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "19:00",
+      "close": "05:00",
+      "labelEn": "19:00–05:00",
+      "labelRo": "19:00–05:00"
+    }
+  ],
+  "hoursEn": "Monday: 19:00–05:00; Tuesday: 19:00–05:00; Wednesday: 19:00–05:00; Thursday: 19:00–05:00; Friday: 19:00–05:00; Saturday: 19:00–05:00; Sunday: 19:00–05:00",
+  "hoursRo": "Luni: 19:00–05:00; Marți: 19:00–05:00; Miercuri: 19:00–05:00; Joi: 19:00–05:00; Vineri: 19:00–05:00; Sâmbătă: 19:00–05:00; Duminică: 19:00–05:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306992269959",
+  "price": "$$",
+  "rating": 4.8,
+  "descriptionEn": "Loft Cocktail Bar is a rooftop bar in Nikiti, offering a relaxed atmosphere and beautiful views over the harbour and the sea. Carefully prepared cocktails, music, and the open-air terrace create an inviting setting for summer evenings, whether you are planning a night out as a couple or meeting friends. Loft is a great choice for visitors looking to experience Nikiti’s nightlife while enjoying a drink in a modern setting above the waterfront promenade.",
+  "descriptionRo": "Loft Cocktail Bar este un rooftop bar din Nikiti, cu o atmosferă relaxată și priveliști frumoase către port și mare. Cocktailurile atent pregătite, muzica și terasa în aer liber creează un cadru plăcut pentru serile de vară, fie pentru o ieșire în cuplu, fie pentru o întâlnire cu prietenii. Loft este o alegere potrivită pentru cei care doresc să descopere viața de noapte din Nikiti și să savureze o băutură într-o ambianță modernă, deasupra promenadei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/loft4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/loft/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Delivery\n\n \n \nHighlights\n\n    Great cocktails\n    Rooftop seating\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great cocktails",
+    "Rooftop seating"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "cocktails",
+    "sea_view",
+    "sunset_view",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
