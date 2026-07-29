@@ -7150,5 +7150,35 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "olympus-grill",
+    "zone": "Sithonia",
+    "beachSlug": "nikiti-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Olympus Grill ",
+    "titleRo": "Olympus Grill ",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill-hero.webp",
+    "lat": 40.216584880833906,
+    "lon": 23.666280909778777,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Olympus Grill is a relaxed restaurant located along the waterfront promenade beside Nikiti Beach, offering a casual place to enjoy a...",
+    "shortRo": "Olympus Grill este un restaurant cu atmosferă relaxată, situat pe promenada de lângă plaja din Nikiti, potrivit pentru o masă...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean",
+      "international"
+    ]
   }
 ]

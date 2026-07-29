@@ -1,0 +1,201 @@
+{
+  "id": "olympus-grill",
+  "zone": "Sithonia",
+  "beachSlug": "nikiti-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Olympus Grill ",
+  "titleRo": "Olympus Grill ",
+  "displayAddress": "Παραλία Νικήτης, Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.216584880833906, 23.666280909778777",
+  "lat": 40.216584880833906,
+  "lon": 23.666280909778777,
+  "openingHoursRaw": "Wednesday\n\t\n\n    10 am–2 am\n\n\t\nThursday\n\t\n\n    10 am–2 am\n\n\t\nFriday\n\t\n\n    10 am–2 am\n\n\t\nSaturday\n\t\n\n    10 am–2 am\n\n\t\nSunday\n\t\n\n    10 am–2 am\n\n\t\nMonday\n\t\n\n    10 am–2 am\n\n\t\nTuesday\n\t\n\n    10 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "02:00",
+      "labelEn": "10:00–02:00",
+      "labelRo": "10:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–02:00; Tuesday: 10:00–02:00; Wednesday: 10:00–02:00; Thursday: 10:00–02:00; Friday: 10:00–02:00; Saturday: 10:00–02:00; Sunday: 10:00–02:00",
+  "hoursRo": "Luni: 10:00–02:00; Marți: 10:00–02:00; Miercuri: 10:00–02:00; Joi: 10:00–02:00; Vineri: 10:00–02:00; Sâmbătă: 10:00–02:00; Duminică: 10:00–02:00",
+  "website": "https://olympusgrill.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375020412",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Olympus Grill is a relaxed restaurant located along the waterfront promenade beside Nikiti Beach, offering a casual place to enjoy a meal close to the sea. The menu features popular Greek grill and street-food dishes, including pork and chicken gyros, souvlaki, kontosouvli, burgers, club sandwiches, salads, and appetisers. Vegan choices such as falafel and vegetable burgers are also available, together with options designed for children. Coffee, beer, wine, and soft drinks complete the selection, making Olympus Grill a convenient choice for lunch, dinner, or a quick bite after a day at the beach.",
+  "descriptionRo": "Olympus Grill este un restaurant cu atmosferă relaxată, situat pe promenada de lângă plaja din Nikiti, potrivit pentru o masă informală aproape de mare. Meniul include preparate populare din bucătăria grecească de tip grill și street food, precum gyros de porc sau pui, souvlaki, kontosouvli, burgeri, club sandwich-uri, salate și aperitive. Sunt disponibile și preparate vegane, precum falafelul și burgerul de legume, precum și opțiuni pentru copii. Cafeaua, berea, vinul și băuturile răcoritoare completează meniul, făcând din Olympus Grill o alegere practică pentru prânz, cină sau o gustare după o zi petrecută pe plajă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/olympus-grill5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/olympus-grill/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Drive-through\n    Takeaway\n    Dine-in\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Salad bar\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Lunch\n    Dinner\n    Catering\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    Kids' menu\n\n \n \nParking\n\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed inside",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Drive-through",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Salad bar",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed inside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean",
+    "international"
+  ]
+}
