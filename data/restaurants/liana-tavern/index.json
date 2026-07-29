@@ -1,0 +1,193 @@
+{
+  "id": "liana-tavern",
+  "zone": "Sithonia",
+  "beachSlug": "metamorfossi-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Liana Tavern",
+  "titleRo": "Liana Tavern",
+  "displayAddress": "Metamorfosi 630 78, Greece",
+  "gpsCoordinates": "40.22837511344563, 23.60521445476309",
+  "lat": 40.22837511344563,
+  "lon": 23.60521445476309,
+  "openingHoursRaw": "Wednesday\n\t\n\n    11 am–12 am\n\n\t\nThursday\n\t\n\n    11 am–12 am\n\n\t\nFriday\n\t\n\n    11 am–12 am\n\n\t\nSaturday\n\t\n\n    11 am–12 am\n\n\t\nSunday\n\t\n\n    11 am–12 am\n\n\t\nMonday\n\t\n\n    11 am–12 am\n\n\t\nTuesday\n\t\n\n    11 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 11:00–00:00; Tuesday: 11:00–00:00; Wednesday: 11:00–00:00; Thursday: 11:00–00:00; Friday: 11:00–00:00; Saturday: 11:00–00:00; Sunday: 11:00–00:00",
+  "hoursRo": "Luni: 11:00–00:00; Marți: 11:00–00:00; Miercuri: 11:00–00:00; Joi: 11:00–00:00; Vineri: 11:00–00:00; Sâmbătă: 11:00–00:00; Duminică: 11:00–00:00",
+  "website": "https://liana-tavern.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375111346",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Liana Tavern is a family-run Greek taverna in Metamorfosi, ideal for a relaxed lunch or dinner in a warm and authentic setting. Its menu focuses on traditional Greek dishes, fresh fish and seafood, meze, seasonal salads, and grilled meats. Popular choices include calamari, grilled octopus, sardines, fresh fish, feta prepared in several styles, and classic Greek appetisers. The open-air terrace provides a pleasant setting for couples, families, and groups of friends. The taverna is open daily for lunch and dinner from 11:00 AM until midnight, and reservations are recommended during the busy summer season.",
+  "descriptionRo": "Liana Tavern este o tavernă grecească de familie din Metamorfosi, potrivită pentru un prânz relaxat sau o cină într-o atmosferă autentică și primitoare. Meniul pune accent pe preparate tradiționale grecești, pește și fructe de mare proaspete, meze, salate pregătite cu ingrediente de sezon și carne la grătar. Printre opțiunile apreciate se numără calamarii, caracatița la grătar, sardinele, peștele proaspăt, feta preparată în diferite variante și clasicele aperitive grecești. Terasa în aer liber oferă un cadru plăcut pentru cupluri, familii și grupuri de prieteni. Taverna este deschisă zilnic pentru prânz și cină, între orele 11:00 și 00:00, iar în timpul sezonului estival rezervarea este recomandată.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

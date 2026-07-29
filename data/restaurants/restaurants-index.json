@@ -7047,5 +7047,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "liana-tavern",
+    "zone": "Sithonia",
+    "beachSlug": "metamorfossi-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Liana Tavern",
+    "titleRo": "Liana Tavern",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/liana-tavern/images/liana-tavern-hero.webp",
+    "lat": 40.22837511344563,
+    "lon": 23.60521445476309,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Liana Tavern is a family-run Greek taverna in Metamorfosi, ideal for a relaxed lunch or dinner in a warm and authentic setting. Its...",
+    "shortRo": "Liana Tavern este o tavernă grecească de familie din Metamorfosi, potrivită pentru un prânz relaxat sau o cină într-o atmosferă...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
