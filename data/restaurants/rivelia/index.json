@@ -1,0 +1,197 @@
+{
+  "id": "rivelia",
+  "zone": "Sithonia",
+  "beachSlug": "tripotamos-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Rivelia",
+  "titleRo": "Rivelia",
+  "displayAddress": "Epar.Od. Nikitis-Sartis, Sithonia 630 81, Greece",
+  "gpsCoordinates": "40.12527044908622, 23.76463864817835",
+  "lat": 40.12527044908622,
+  "lon": 23.76463864817835,
+  "openingHoursRaw": "Monday\n\t\n\n    1–11 pm\n\n\t\nTuesday\n\t\n\n    1–11 pm\n\n\t\nWednesday\n\t\n\n    1–11 pm\n\n\t\nThursday\n\t\n\n    1–11 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    1–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    1–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–23:00; Tuesday: 13:00–23:00; Wednesday: 13:00–23:00; Thursday: 13:00–23:00; Friday: 13:00–23:00; Saturday: 13:00–23:00; Sunday: 13:00–23:00",
+  "hoursRo": "Luni: 13:00–23:00; Marți: 13:00–23:00; Miercuri: 13:00–23:00; Joi: 13:00–23:00; Vineri: 13:00–23:00; Sâmbătă: 13:00–23:00; Duminică: 13:00–23:00",
+  "website": "https://camping-castello.gr/restaurant-in-chalkidiki/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375440260",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Rivelia Dining Experience is a contemporary seaside restaurant in Sithonia, set in a peaceful beachfront location where sea views and beautiful sunsets form an important part of the dining experience. Its cuisine is centred on modern Greek gastronomy, using mainly local and seasonal ingredients while introducing Asian techniques and influences to create a more inventive style of Mediterranean cooking.\n\nSeafood plays a major role on the menu, with dishes such as sea bass ceviche, langoustine carpaccio, smoked mackerel, steamed mussels, grilled octopus, squid and fresh fish of the day. The selection also includes meat dishes, pasta and risotto, alongside creative interpretations of familiar Greek flavours, from dakos and tarama to bougiourdi and Cretan-style pasta. A carefully selected wine list complements the food, with pairing recommendations available from the restaurant team.\n\nRivelia is an excellent choice for visitors looking for something beyond a traditional taverna: a modern Mediterranean dining experience combining quality ingredients, refined presentation and an elegant yet relaxed atmosphere directly by the sea. The restaurant welcomes both guests of Camping Castello and outside visitors, and reservations are available.",
+  "descriptionRo": "Rivelia Dining Experience este un restaurant contemporan pe malul mării, în Sithonia, amplasat într-un cadru liniștit chiar lângă plajă, unde mesele cu vedere la mare și apusurile completează experiența culinară. Bucătăria este construită în jurul gastronomiei grecești moderne, folosind în principal produse locale și ingrediente de sezon, dar introduce și tehnici și accente asiatice pentru preparate mai creative.\n\nMeniul pune un accent important pe pește și fructe de mare, cu preparate precum ceviche de biban de mare, carpaccio de langustină, macrou afumat, midii, caracatiță la grătar, calamari și pește proaspăt al zilei. Alături de acestea se găsesc preparate din carne, paste și risotto, precum și reinterpretări moderne ale unor gusturi grecești clasice — de la dakos și tarama până la bougiourdi și paste cretane. Selecția de vinuri este gândită pentru asocierea cu preparatele, iar echipa poate recomanda combinații potrivite pentru fiecare masă.\n\nRivelia este potrivit pentru cei care caută mai mult decât o tavernă tradițională: o experiență gastronomică mediteraneană modernă, cu prezentări atent lucrate, ingrediente de calitate și o atmosferă elegantă, dar relaxată, direct lângă mare. Restaurantul primește atât oaspeții complexului Camping Castello, cât și vizitatorii din exterior, iar rezervările sunt disponibile",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

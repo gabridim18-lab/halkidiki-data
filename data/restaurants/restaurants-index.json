@@ -7621,5 +7621,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "rivelia",
+    "zone": "Sithonia",
+    "beachSlug": "tripotamos-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Rivelia",
+    "titleRo": "Rivelia",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/rivelia/images/rivelia-hero.webp",
+    "lat": 40.12527044908622,
+    "lon": 23.76463864817835,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Rivelia Dining Experience is a contemporary seaside restaurant in Sithonia, set in a peaceful beachfront location where sea views and...",
+    "shortRo": "Rivelia Dining Experience este un restaurant contemporan pe malul mării, în Sithonia, amplasat într-un cadru liniștit chiar lângă...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
