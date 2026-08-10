@@ -1,16 +1,16 @@
 {
   "id": "akrogiali",
-  "zone": "Kassandra",
-  "beachSlug": "nea-potidea-beach",
-  "type": "restaurant",
+  "zone": "Sithonia",
+  "beachSlug": "paradisos-beach",
+  "type": "taverna",
   "featured": true,
   "titleEn": "Akrogiali",
   "titleRo": "Akrogiali",
-  "displayAddress": "Nea Poteidaia 632 00, Greece",
-  "gpsCoordinates": "40.192081804713546, 23.335381169619758",
-  "lat": 40.192081804713546,
-  "lon": 23.335381169619758,
-  "openingHoursRaw": "Tuesday\n\t\n\n    12 pm–12 am\n\n\t\nWednesday\n\t\n\n    12 pm–12 am\n\n\t\nThursday\n\t\n\n    12 pm–12 am\n\n\t\nFriday\n\t\n\n    12 pm–12 am\n\n\t\nSaturday\n\t\n\n    12 pm–12 am\n\n\t\nSunday\n\t\n\n    12 pm–12 am\n\n\t\nMonday\n\t\n\n    12 pm–12 am",
+  "displayAddress": "παραδεισος 63081, Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.10491348009724, 23.776079391317303",
+  "lat": 40.10491348009724,
+  "lon": 23.776079391317303,
+  "openingHoursRaw": "Monday\n\t\n\n    12 pm–12 am\n\n\t\nTuesday\n\t\n\n    12 pm–12 am\n\n\t\nWednesday\n\t\n\n    12 pm–12 am\n\n\t\nThursday\n\t\n\n    12 pm–12 am\n\n\t\nFriday\n\t\n\n    12 pm–12 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    12 pm–12 am\n\nHours might differ\n\t\nSunday\n\t\n\n    12 pm–12 am",
   "openingHours": [
     {
       "day": "Monday",
@@ -78,14 +78,14 @@
   ],
   "hoursEn": "Monday: 12:00–00:00; Tuesday: 12:00–00:00; Wednesday: 12:00–00:00; Thursday: 12:00–00:00; Friday: 12:00–00:00; Saturday: 12:00–00:00; Sunday: 12:00–00:00",
   "hoursRo": "Luni: 12:00–00:00; Marți: 12:00–00:00; Miercuri: 12:00–00:00; Joi: 12:00–00:00; Vineri: 12:00–00:00; Sâmbătă: 12:00–00:00; Duminică: 12:00–00:00",
-  "website": "",
+  "website": "http://taverna-akrogiali.webnode.gr/",
   "facebook": "",
   "instagram": "",
-  "phone": "+306976618297",
+  "phone": "+306993605960",
   "price": "$$",
-  "rating": 4.1,
-  "descriptionEn": "Akrogiali is a seafood taverna in Nea Potidea, located directly beside the beach and welcoming guests since 2002. Its relaxed atmosphere, sea-view terrace and waterfront setting create an inviting choice for a peaceful lunch or an open-air Mediterranean dinner.\n\nThe menu draws inspiration from Greek and Mediterranean cuisine, featuring fish, seafood, fresh vegetable salads and sharing-style dishes. Booking ahead is recommended for weekend dinners and busy summer evenings. For reservations or additional information, please complete the form in the app.",
-  "descriptionRo": "Akrogiali este o tavernă cu specific pescăresc din Nea Potidea, amplasată chiar lângă plajă și activă din 2002. Atmosfera relaxată, terasa cu vedere spre mare și apropierea de apă creează un cadru plăcut pentru un prânz liniștit sau o cină mediteraneeană în aer liber.\n\nMeniul este inspirat din bucătăria grecească și mediteraneeană, cu pește, fructe de mare, salate pregătite din legume proaspete și preparate potrivite pentru a fi împărțite la masă. Pentru cinele din weekend și serile aglomerate de vară, rezervarea din timp este recomandată. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "rating": 4.5,
+  "descriptionEn": "Akrogiali is a traditional Greek taverna located right by the sea in the Paradisos area of Neos Marmaras, offering a peaceful and relaxed setting with beautiful coastal and sunset views. Its position towards the quieter end of Paradisos Beach gives it a more laid-back atmosphere than the busier central areas of the resort.\n\nThe cuisine focuses on classic Greek and Mediterranean flavours, with fish and seafood, meze, fresh salads and traditional dishes, including bougiourdi – baked feta with peppers and spices. The uncomplicated seaside atmosphere, tables close to the beach and evening views make Akrogiali an inviting choice for a leisurely lunch or a traditional Greek dinner around sunset, away from the busiest parts of Neos Marmaras.",
+  "descriptionRo": "Akrogiali este o tavernă grecească tradițională aflată chiar lângă mare, în zona Paradisos din Neos Marmaras, într-un cadru liniștit și relaxat, cu vedere frumoasă spre coastă și apus. Poziția sa spre capătul plajei îi oferă o atmosferă mai calmă decât zonele centrale și mai aglomerate ale stațiunii.\n\nBucătăria este axată pe gusturile clasice grecești și mediteraneene, cu pește și fructe de mare, meze, salate și preparate tradiționale, printre care se regăsește și bougiourdi – brânză feta coaptă cu ardei și condimente. Atmosfera simplă și autentică, mesele aproape de plajă și priveliștea de seară fac din Akrogiali o alegere foarte plăcută pentru un prânz fără grabă sau pentru o cină grecească la apus, într-un colț mai liniștit al zonei Neos Marmaras.",
   "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/akrogiali-hero.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/akrogiali-hero.webp",
@@ -106,16 +106,24 @@
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/menu1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/menu2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/menu3.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/menu4.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogiali/images/menu6.webp"
   ],
-  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
-  "accessibility": [],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great dessert\n    Live music\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Counter service\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
   "serviceOptions": [
     "Outdoor seating",
-    "Takeaway",
-    "Dine-in"
+    "Dine-in",
+    "Delivery"
   ],
-  "highlights": [],
+  "highlights": [
+    "Great dessert",
+    "Live music"
+  ],
   "popularFor": [
     "Lunch",
     "Dinner",
@@ -134,6 +142,7 @@
   "diningOptions": [
     "Lunch",
     "Dinner",
+    "Counter service",
     "Dessert",
     "Seating",
     "Table service"
@@ -144,7 +153,8 @@
   "atmosphere": [
     "Casual",
     "Cosy",
-    "Quiet"
+    "Quiet",
+    "Romantic"
   ],
   "crowd": [
     "Groups",
@@ -166,9 +176,7 @@
     "Free parking lot",
     "Plenty of parking"
   ],
-  "pets": [
-    "Dogs allowed"
-  ],
+  "pets": [],
   "sunbedPrice": "",
   "sunbedConsumationIncluded": false,
   "musicStyles": [],
@@ -177,8 +185,7 @@
     "parking",
     "sea_view",
     "sunset_view",
-    "family_friendly",
-    "pet_friendly"
+    "family_friendly"
   ],
   "cuisineTypes": [
     "seafood",
