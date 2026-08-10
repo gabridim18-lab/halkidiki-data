@@ -7443,5 +7443,37 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "baristro",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-elia",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Baristro",
+    "titleRo": "Baristro",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baristro/images/baristro-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baristro/images/baristro-hero.webp",
+    "lat": 40.165086213249836,
+    "lon": 23.725465226627247,
+    "rating": 4.3,
+    "price": "$$",
+    "shortEn": "Baristro Beach & Pool Bar is a relaxed venue located at Acrotel Lily Ann Beach Hotel on Elia Beach, offering a pleasant setting...",
+    "shortRo": "Baristro Beach & Pool Bar este un bar relaxat situat la Acrotel Lily Ann Beach Hotel, pe Elia Beach, într-un cadru plăcut între...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly",
+      "pool"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
