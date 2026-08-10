@@ -7594,5 +7594,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "aqua-heaven",
+    "zone": "Sithonia",
+    "beachSlug": "tripotamos-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Aqua Heaven",
+    "titleRo": "Aqua Heaven",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua-heaven/images/aqua-heaven-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua-heaven/images/aqua-heaven-hero.webp",
+    "lat": 40.131965668734885,
+    "lon": 23.757688982470103,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Aqua Heaven is a relaxed beach bar in the Lagomandra area of Sithonia, ideal for visitors looking to spend a few peaceful hours close...",
+    "shortRo": "Aqua Heaven este un beach bar relaxat din zona Lagomandra, în Sithonia, potrivit pentru cei care vor să petreacă câteva ore liniștite...",
+    "features": [
+      "sunbeds",
+      "parking",
+      "sea_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

@@ -1,0 +1,155 @@
+{
+  "id": "aqua-heaven",
+  "zone": "Sithonia",
+  "beachSlug": "tripotamos-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Aqua Heaven",
+  "titleRo": "Aqua Heaven",
+  "displayAddress": "4QJ5+P3, Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.131965668734885, 23.757688982470103",
+  "lat": 40.131965668734885,
+  "lon": 23.757688982470103,
+  "openingHoursRaw": "Monday\n\t\n\n    8 am–12 am\n\n\t\nTuesday\n\t\n\n    8 am–12 am\n\n\t\nWednesday\n\t\n\n    8 am–12 am\n\n\t\nThursday\n\t\n\n    8 am–12 am\n\n\t\nFriday\n\t\n\n    8 am–12 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    8 am–12 am\n\nHours might differ\n\t\nSunday\n\t\n\n    8 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–00:00; Tuesday: 08:00–00:00; Wednesday: 08:00–00:00; Thursday: 08:00–00:00; Friday: 08:00–00:00; Saturday: 08:00–00:00; Sunday: 08:00–00:00",
+  "hoursRo": "Luni: 08:00–00:00; Marți: 08:00–00:00; Miercuri: 08:00–00:00; Joi: 08:00–00:00; Vineri: 08:00–00:00; Sâmbătă: 08:00–00:00; Duminică: 08:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Aqua Heaven is a relaxed beach bar in the Lagomandra area of Sithonia, ideal for visitors looking to spend a few peaceful hours close to the sea. Its informal holiday atmosphere makes it a pleasant place to take a break between swims, enjoy a coffee or a cold drink, and unwind while taking in the coastal surroundings. Located in an area known for beautiful beaches and clear waters, Aqua Heaven is a convenient stop while exploring Sithonia’s western coastline. It is well suited to couples, families, and groups of friends who prefer a simple and laid-back seaside setting away from the atmosphere of larger, busier beach clubs.",
+  "descriptionRo": "Aqua Heaven este un beach bar relaxat din zona Lagomandra, în Sithonia, potrivit pentru cei care vor să petreacă câteva ore liniștite aproape de mare. Atmosfera este informală și de vacanță, ideală pentru o pauză între băi, o cafea, o băutură rece sau momente de relaxare cu priveliște spre coastă. Poziția sa într-o zonă cunoscută pentru plajele frumoase și apele limpezi îl face o oprire plăcută pentru cei care explorează partea vestică a Sithoniei. Aqua Heaven este potrivit pentru cupluri, familii și grupuri de prieteni care preferă un loc simplu și relaxat, fără atmosfera aglomerată a beach cluburilor mari.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua-heaven/images/aqua-heaven-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua-heaven/images/aqua-heaven-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua-heaven/images/aqua-heaven1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua-heaven/images/aqua-heaven2.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua-heaven/images/aqua-heaven1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua-heaven/images/aqua-heaven2.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aqua-heaven/images/menu1.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great coffee\n\n \n \nOfferings\n\n    Coffee\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great coffee"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Coffee"
+  ],
+  "diningOptions": [],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "parking",
+    "sea_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
