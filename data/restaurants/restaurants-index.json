@@ -7272,5 +7272,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "kukunari",
+    "zone": "Sithonia",
+    "beachSlug": "nikiti-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Kukunari ",
+    "titleRo": "Kukunari ",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari-hero.webp",
+    "lat": 40.20544559893058,
+    "lon": 23.678467102973986,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Kukunari Beach Bar is a modern beachfront bar and restaurant in Nikiti, designed as an all-day seaside destination, from morning...",
+    "shortRo": "Kukunari Beach Bar este un beach bar și restaurant modern situat pe malul mării în Nikiti, conceput pentru a petrece aici întreaga zi,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

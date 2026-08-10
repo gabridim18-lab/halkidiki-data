@@ -1,0 +1,198 @@
+{
+  "id": "kukunari",
+  "zone": "Sithonia",
+  "beachSlug": "nikiti-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Kukunari ",
+  "titleRo": "Kukunari ",
+  "displayAddress": "Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.20544559893058, 23.678467102973986",
+  "lat": 40.20544559893058,
+  "lon": 23.678467102973986,
+  "openingHoursRaw": "Monday\n\t\n\n    9:30 am–8 pm\n\n\t\nTuesday\n\t\n\n    9:30 am–8 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–8 pm\n\n\t\nThursday\n\t\n\n    9:30 am–8 pm\n\n\t\nFriday\n\t\n\n    9:30 am–8 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9:30 am–8 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9:30 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "20:00",
+      "labelEn": "09:30–20:00",
+      "labelRo": "09:30–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–20:00; Tuesday: 09:30–20:00; Wednesday: 09:30–20:00; Thursday: 09:30–20:00; Friday: 09:30–20:00; Saturday: 09:30–20:00; Sunday: 09:30–20:00",
+  "hoursRo": "Luni: 09:30–20:00; Marți: 09:30–20:00; Miercuri: 09:30–20:00; Joi: 09:30–20:00; Vineri: 09:30–20:00; Sâmbătă: 09:30–20:00; Duminică: 09:30–20:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306983791484",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Kukunari Beach Bar is a modern beachfront bar and restaurant in Nikiti, designed as an all-day seaside destination, from morning coffee to evening cocktails. Its beach area, comfortable sunbeds, and relaxed atmosphere provide an inviting setting for spending time by the sea. The menu combines Mediterranean flavours with casual dining options, including fish and seafood, pasta, salads, burgers, pizza, sandwiches, finger food, and brunch choices. Signature cocktails, wines, and other refreshments complete the experience, while its location directly by the water makes Kukunari a great choice for a beach day, a relaxed meal, or drinks around sunset.",
+  "descriptionRo": "Kukunari Beach Bar este un beach bar și restaurant modern situat pe malul mării în Nikiti, conceput pentru a petrece aici întreaga zi, de la cafeaua de dimineață până la cocktailurile de seară. Zona de plajă, cu șezlonguri confortabile și o atmosferă relaxată, oferă un cadru plăcut pentru momente de relaxare lângă mare. Meniul combină influențe mediteraneene cu opțiuni casual și include preparate din pește și fructe de mare, paste, salate, burgeri, pizza, sandwich-uri, finger food și opțiuni pentru brunch. Cocktailurile signature, vinurile și celelalte băuturi completează experiența, iar poziția chiar lângă apă face din Kukunari un loc potrivit atât pentru o zi de plajă, cât și pentru o masă sau o seară relaxată la apus.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/kukunari4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kukunari/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    On-site services\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Outside food allowed\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Reservations required\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Outside food allowed",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Reservations required",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "50 Euros front rows, 20Euros next rows",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
