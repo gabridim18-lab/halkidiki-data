@@ -1,0 +1,202 @@
+{
+  "id": "to-simadi",
+  "zone": "Sithonia",
+  "beachSlug": "paradisos-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "To Simadi",
+  "titleRo": "To Simadi",
+  "displayAddress": "Παράδεισος, Παραδεισος, Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.10313577254851, 23.77611961872422",
+  "lat": 40.10313577254851,
+  "lon": 23.77611961872422,
+  "openingHoursRaw": "Monday\n\t\n\n    1–11 pm\n\n\t\nTuesday\n\t\n\n    1–11 pm\n\n\t\nWednesday\n\t\n\n    1–11 pm\n\n\t\nThursday\n\t\n\n    1–11 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    1–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    1–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–23:00; Tuesday: 13:00–23:00; Wednesday: 13:00–23:00; Thursday: 13:00–23:00; Friday: 13:00–23:00; Saturday: 13:00–23:00; Sunday: 13:00–23:00",
+  "hoursRo": "Luni: 13:00–23:00; Marți: 13:00–23:00; Miercuri: 13:00–23:00; Joi: 13:00–23:00; Vineri: 13:00–23:00; Sâmbătă: 13:00–23:00; Duminică: 13:00–23:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/To-Simadi-Fishtavern-Restaurant-326789484695/",
+  "instagram": "",
+  "phone": "+306972962772",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "To Simadi is a traditional fish taverna set directly on Paradisos Beach in Neos Marmaras, where tables placed just steps from the water and the feeling of sand beneath your feet create a genuinely Greek seaside dining experience. Its waterfront position is particularly attractive in the evening, when the terrace becomes a beautiful spot for watching the sunset over the Toroneos Gulf.\n\nThe cuisine focuses primarily on fresh fish and seafood, alongside Greek and Mediterranean dishes. The selection includes favourites such as calamari, mussels, octopus, marinated anchovies, red mullet, smoked mackerel, fish skewers and other seafood dishes, complemented by salads, Greek appetisers and traditional specialities.\n\nThe atmosphere is relaxed and unpretentious, with the emphasis firmly on good food, the sea and the natural beachfront setting. To Simadi works equally well for families and groups of friends or for a sunset dinner for two. The restaurant is particularly popular during the summer season, so reserving a table is a good idea on busy evenings.",
+  "descriptionRo": "To Simadi este o tavernă de pește situată chiar pe plaja Paradisos, în Neos Marmaras, unde mesele așezate foarte aproape de mare și nisipul sub picioare creează una dintre acele experiențe autentice de vacanță în Grecia. Poziția orientată spre mare este deosebit de plăcută seara, când terasa devine un loc excelent pentru a admira apusul peste Golful Toroneos.\n\nBucătăria este axată în special pe pește și fructe de mare, alături de preparate grecești și mediteraneene. Printre opțiunile întâlnite în meniu se numără calamari, midii, caracatiță, anșoa marinată, barbun, macrou afumat, frigărui de pește și alte preparate din captura disponibilă, completate de salate, aperitive grecești și specialități tradiționale.\n\nAtmosfera este relaxată și fără formalități, punând accentul pe mâncare, mare și cadrul natural al plajei. To Simadi este potrivit atât pentru familii și grupuri de prieteni, cât și pentru o cină în doi la apus. Restaurantul este foarte căutat în sezonul estival, astfel că o rezervare este o idee bună pentru serile aglomerate.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/to-simadi4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/to-simadi/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
