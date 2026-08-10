@@ -1,0 +1,190 @@
+{
+  "id": "stamnagathi",
+  "zone": "Sithonia",
+  "beachSlug": "paradisos-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "STAMNAGATHI",
+  "titleRo": "STAMNAGATHI",
+  "displayAddress": "Παράδεισος, Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.10118045715032, 23.77569148502244",
+  "lat": 40.10118045715032,
+  "lon": 23.77569148502244,
+  "openingHoursRaw": "Monday\n\t\n\n    12–11:30 pm\n\n\t\nTuesday\n\t\n\n    12–11:30 pm\n\n\t\nWednesday\n\t\n\n    12–11:30 pm\n\n\t\nThursday\n\t\n\n    12–11:30 pm\n\n\t\nFriday\n\t\n\n    12–11:30 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    12–11:30 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    12 am–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:30",
+      "labelEn": "12:00–23:30",
+      "labelRo": "12:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "00:00",
+      "close": "23:30",
+      "labelEn": "00:00–23:30",
+      "labelRo": "00:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:30; Tuesday: 12:00–23:30; Wednesday: 12:00–23:30; Thursday: 12:00–23:30; Friday: 12:00–23:30; Saturday: 12:00–23:30; Sunday: 00:00–23:30",
+  "hoursRo": "Luni: 12:00–23:30; Marți: 12:00–23:30; Miercuri: 12:00–23:30; Joi: 12:00–23:30; Vineri: 12:00–23:30; Sâmbătă: 12:00–23:30; Duminică: 00:00–23:30",
+  "website": "",
+  "facebook": "https://web.facebook.com/Stamnagathi/?rf=210461925775429&_rdc=1&_rdr",
+  "instagram": "",
+  "phone": "+302375071874",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Stamnagathi is a Greek and Mediterranean restaurant in the Paradisos area of Neos Marmaras, offering a peaceful atmosphere and outdoor dining close to the sea. Its beachfront surroundings are particularly appealing in the evening, when coastal views and the sunset create a beautiful setting for a relaxed dinner in Sithonia.\n\nThe cuisine has a strong focus on fish and seafood, complemented by traditional Greek and Mediterranean dishes. Grilled calamari, Greek salads and a variety of fish dishes are among the choices closely associated with the restaurant, following an uncomplicated style that allows fresh ingredients and familiar local flavours to take centre stage.\n\nStamnagathi is equally suitable for a leisurely lunch or a sunset dinner and works well for couples, families and groups of friends. Outdoor seating and reservations are available, while vegetarian, vegan and gluten-free options provide useful alternatives for guests with different dietary preferences.",
+  "descriptionRo": "Stamnagathi este un restaurant grecesc și mediteranean din zona Paradisos, Neos Marmaras, cu o atmosferă liniștită și o terasă în aer liber orientată spre mare. Poziția sa aproape de plajă îl face deosebit de plăcut spre seară, când priveliștea către coastă și apus completează experiența unei cine relaxate în Sithonia.\n\nBucătăria pune accent pe pește și fructe de mare, alături de preparate tradiționale grecești și mediteraneene. Calamarii la grătar, salatele grecești și diferitele preparate din pește se numără printre opțiunile asociate frecvent cu restaurantul, într-un stil simplu, concentrat pe ingrediente și gusturile clasice ale bucătăriei locale.\n\nStamnagathi este potrivit atât pentru un prânz fără grabă, cât și pentru o cină la apus, fiind o alegere bună pentru cupluri, familii și grupuri de prieteni. Restaurantul dispune de locuri în aer liber, acceptă rezervări și oferă și opțiuni vegetariene, vegane și fără gluten, ceea ce îl face mai flexibil pentru grupurile cu preferințe alimentare diferite.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": []
+}

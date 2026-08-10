@@ -7705,5 +7705,29 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "stamnagathi",
+    "zone": "Sithonia",
+    "beachSlug": "paradisos-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "STAMNAGATHI",
+    "titleRo": "STAMNAGATHI",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stamnagathi/images/stamnagathi-hero.webp",
+    "lat": 40.10118045715032,
+    "lon": 23.77569148502244,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Stamnagathi is a Greek and Mediterranean restaurant in the Paradisos area of Neos Marmaras, offering a peaceful atmosphere and outdoor...",
+    "shortRo": "Stamnagathi este un restaurant grecesc și mediteranean din zona Paradisos, Neos Marmaras, cu o atmosferă liniștită și o terasă în aer...",
+    "features": [
+      "restaurant",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
