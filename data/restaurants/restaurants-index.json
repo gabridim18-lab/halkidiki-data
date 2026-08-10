@@ -7564,5 +7564,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "lagomandra-tavern",
+    "zone": "Sithonia",
+    "beachSlug": "lagomandra-beach",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "Lagomandra Tavern",
+    "titleRo": "Lagomandra Tavern",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lagomandra-tavern/images/lagomandra-tavern-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lagomandra-tavern/images/lagomandra-tavern-hero.webp",
+    "lat": 40.13606291591415,
+    "lon": 23.747196887279497,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Lagomandra Traditional Tavern is a Greek taverna located directly beside Lagomandra Beach in Sithonia, offering a relaxed setting...",
+    "shortRo": "Lagomandra Traditional Tavern este o tavernă grecească situată chiar lângă plaja Lagomandra, în Sithonia, într-un cadru relaxat unde...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
