@@ -1,0 +1,204 @@
+{
+  "id": "vertigo",
+  "zone": "Sithonia",
+  "beachSlug": "nikiti-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Vertigo",
+  "titleRo": "Vertigo",
+  "displayAddress": "Egialou, Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.212533809047756, 23.671558327950713",
+  "lat": 40.212533809047756,
+  "lon": 23.671558327950713,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–9:30 pm\n\n\t\nTuesday\n\t\n\n    9 am–9:30 pm\n\n\t\nWednesday\n\t\n\n    9 am–9:30 pm\n\n\t\nThursday\n\t\n\n    9 am–9:30 pm\n\n\t\nFriday\n\t\n\n    9 am–3 am\n\n\t\nSaturday\n\t\n    9 am–3 am\n\n\t\nSunday\n\t\n\n    9 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:30",
+      "labelEn": "09:00–21:30",
+      "labelRo": "09:00–21:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:30",
+      "labelEn": "09:00–21:30",
+      "labelRo": "09:00–21:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:30",
+      "labelEn": "09:00–21:30",
+      "labelRo": "09:00–21:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:30",
+      "labelEn": "09:00–21:30",
+      "labelRo": "09:00–21:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "02:00",
+      "labelEn": "09:00–02:00",
+      "labelRo": "09:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:30; Tuesday: 09:00–21:30; Wednesday: 09:00–21:30; Thursday: 09:00–21:30; Friday: 09:00–03:00; Saturday: 09:00–03:00; Sunday: 09:00–02:00",
+  "hoursRo": "Luni: 09:00–21:30; Marți: 09:00–21:30; Miercuri: 09:00–21:30; Joi: 09:00–21:30; Vineri: 09:00–03:00; Sâmbătă: 09:00–03:00; Duminică: 09:00–02:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/vertigo.bar.nikiti",
+  "instagram": "",
+  "phone": "+302375023845",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Vertigo Cafe Bar is a seaside café and beach bar located directly by the waterfront in Nikiti. It is a great choice for both a relaxing beach day with sunbeds and umbrellas and for coffee, a light meal, or evening drinks. The menu includes coffee, fresh juices, cocktails, beer and wine, together with salads, sandwiches, burgers, snacks, and other casual dishes ideal for a day by the sea. Its open-air setting, music, and beachfront location make Vertigo an inviting option for couples, families, and groups of friends looking to combine time at the beach with a relaxed café-bar experience.",
+  "descriptionRo": "Vertigo Cafe Bar este un cafe-bar și beach bar situat chiar lângă mare, pe promenada din Nikiti. Este potrivit atât pentru o zi relaxantă pe plajă, cu șezlonguri și umbrele, cât și pentru o cafea, un prânz ușor sau o băutură seara. Meniul include cafea, sucuri proaspete, cocktailuri, bere și vin, alături de salate, sandwich-uri, burgeri, gustări și alte preparate potrivite pentru o zi petrecută la malul mării. Atmosfera în aer liber, muzica și apropierea de plajă fac din Vertigo o alegere plăcută pentru cupluri, familii și grupuri de prieteni care vor să combine marea cu o experiență relaxată de cafe-bar.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/vertigo4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/vertigo/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great wine list\n    Live performances\n    Sport\n\n \n \nPopular for\n\n    Breakfast\n    Solo dining\n    Good for working on laptop\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n    University students\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free of charge street parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great wine list",
+    "Live performances",
+    "Sport"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Solo dining",
+    "Good for working on laptop"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists",
+    "University students"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "40 Euro first row ",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
