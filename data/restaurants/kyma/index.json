@@ -1,127 +1,121 @@
 {
   "id": "kyma",
   "zone": "Sithonia",
-  "beachSlug": "paralia-psakoudia",
-  "type": "beach_bar",
+  "beachSlug": "agios-ioannis-beach",
+  "type": "restaurant",
   "featured": true,
-  "titleEn": "KYMA",
-  "titleRo": "KYMA",
-  "displayAddress": "Psakoudia 630 71, Greece",
-  "gpsCoordinates": "40.259414264745594, 23.492894134669573",
-  "lat": 40.259414264745594,
-  "lon": 23.492894134669573,
-  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–11:30 pm\n\n\t\nWednesday\n\t\n\n    9 am–11:30 pm\n\n\t\nThursday\n\t\n\n    9 am–11:30 pm\n\n\t\nFriday\n\t\n\n    9 am–11:30 pm\n\n\t\nSaturday\n\t\n\n    9 am–11:30 pm\n\n\t\nSunday\n\t\n\n    9 am–11:30 pm\n\n\t\nMonday\n\t\n\n    9 am–11:30 pm",
+  "titleEn": "Kyma",
+  "titleRo": "Kyma",
+  "displayAddress": "Agios Ioannis Beach, Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.19299443457926, 23.696649762641158",
+  "lat": 40.19299443457926,
+  "lon": 23.696649762641158,
+  "openingHoursRaw": "Monday\n\t\n\n    1–11 pm\n\n\t\nTuesday\n\t\n\n    1–11 pm\n\n\t\nWednesday\n\t\n\n    1–11 pm\n\n\t\nThursday\n\t\n\n    1–11 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    1–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    1–11 pm",
   "openingHours": [
     {
       "day": "Monday",
       "dayRo": "Luni",
       "closed": false,
-      "open": "09:00",
-      "close": "23:30",
-      "labelEn": "09:00–23:30",
-      "labelRo": "09:00–23:30"
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
     },
     {
       "day": "Tuesday",
       "dayRo": "Marți",
       "closed": false,
-      "open": "09:00",
-      "close": "23:30",
-      "labelEn": "09:00–23:30",
-      "labelRo": "09:00–23:30"
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
     },
     {
       "day": "Wednesday",
       "dayRo": "Miercuri",
       "closed": false,
-      "open": "09:00",
-      "close": "23:30",
-      "labelEn": "09:00–23:30",
-      "labelRo": "09:00–23:30"
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
     },
     {
       "day": "Thursday",
       "dayRo": "Joi",
       "closed": false,
-      "open": "09:00",
-      "close": "23:30",
-      "labelEn": "09:00–23:30",
-      "labelRo": "09:00–23:30"
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
     },
     {
       "day": "Friday",
       "dayRo": "Vineri",
       "closed": false,
-      "open": "09:00",
-      "close": "23:30",
-      "labelEn": "09:00–23:30",
-      "labelRo": "09:00–23:30"
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
     },
     {
       "day": "Saturday",
       "dayRo": "Sâmbătă",
       "closed": false,
-      "open": "09:00",
-      "close": "23:30",
-      "labelEn": "09:00–23:30",
-      "labelRo": "09:00–23:30"
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
     },
     {
       "day": "Sunday",
       "dayRo": "Duminică",
       "closed": false,
-      "open": "09:00",
-      "close": "23:30",
-      "labelEn": "09:00–23:30",
-      "labelRo": "09:00–23:30"
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
     }
   ],
-  "hoursEn": "Monday: 09:00–23:30; Tuesday: 09:00–23:30; Wednesday: 09:00–23:30; Thursday: 09:00–23:30; Friday: 09:00–23:30; Saturday: 09:00–23:30; Sunday: 09:00–23:30",
-  "hoursRo": "Luni: 09:00–23:30; Marți: 09:00–23:30; Miercuri: 09:00–23:30; Joi: 09:00–23:30; Vineri: 09:00–23:30; Sâmbătă: 09:00–23:30; Duminică: 09:00–23:30",
-  "website": "https://tokyma-psakoudia.gr/pricelist/",
+  "hoursEn": "Monday: 13:00–23:00; Tuesday: 13:00–23:00; Wednesday: 13:00–23:00; Thursday: 13:00–23:00; Friday: 13:00–23:00; Saturday: 13:00–23:00; Sunday: 13:00–23:00",
+  "hoursRo": "Luni: 13:00–23:00; Marți: 13:00–23:00; Miercuri: 13:00–23:00; Joi: 13:00–23:00; Vineri: 13:00–23:00; Sâmbătă: 13:00–23:00; Duminică: 13:00–23:00",
+  "website": "https://www.ammoa-resort.com/restaurants-bars-chalkidiki/",
   "facebook": "",
   "instagram": "",
-  "phone": "+302371053533",
+  "phone": "+302375022200",
   "price": "$$",
-  "rating": 4.4,
-  "descriptionEn": "KYMA Greek Cuisine & Beach Bar is a welcoming venue located directly on Psakoudia Beach, where Greek cuisine, seaside relaxation and an easy-going holiday atmosphere come together. Its shaded terrace and beachfront sunbeds provide an inviting setting for morning coffee, lunch overlooking the water or several peaceful hours beside the sea.\n\nThe menu includes breakfast and brunch from 9:00 AM to 1:00 PM, alongside fish and seafood, calamari, gyros, Greek salads and dedicated choices for younger guests. Regional ingredients include olive oil and olives from Ormylia, cheese from Ierissos, Halkidiki wines and thyme honey from Arnaia. Visitors particularly appreciate the enjoyable food, generous portions, attentive staff, good value and relaxed beachfront atmosphere.\n\nKYMA opens daily from 9:00 AM. During busy periods, arriving in the morning is recommended for a better choice of places and shorter waiting times. Beach sunbeds are available to guests ordering food or drinks from the venue. For reservations or additional information, please complete the form in the app.",
-  "descriptionRo": "KYMA Greek Cuisine & Beach Bar este o locație primitoare situată chiar pe plaja din Psakoudia, unde bucătăria grecească, relaxarea la malul mării și atmosfera de vacanță se completează armonios. Terasa umbrită și șezlongurile din fața localului oferă cadrul potrivit pentru cafeaua de dimineață, un prânz cu vedere la mare sau câteva ore liniștite petrecute pe plajă.\n\nMeniul include mic dejun și brunch între 09:00 și 13:00, pește și fructe de mare, calamari, gyros, salate grecești și preparate pentru copii. Sunt folosite și produse regionale, precum ulei de măsline și măsline din Ormylia, brânzeturi din Ierissos, vinuri din Halkidiki și miere de cimbru din Arnaia. Oaspeții apreciază în special mâncarea gustoasă, porțiile generoase, personalul atent, prețurile echilibrate și atmosfera relaxată de lângă mare.\n\nKYMA este deschis zilnic începând cu ora 09:00. În perioadele aglomerate, sosirea dimineața este recomandată pentru o alegere mai bună a locurilor și pentru evitarea timpilor mai mari de așteptare. Șezlongurile pot fi folosite de clienții care comandă mâncare sau băuturi. Pentru rezervări sau informații suplimentare, completați formularul din aplicație.",
+  "rating": 4.5,
+  "descriptionEn": "Kyma is a Mediterranean seaside restaurant located directly on Agios Ioannis Beach near Nikiti, within the AMMOA Luxury Hotel & Spa Resort. Its elegant yet relaxed atmosphere is complemented by beautiful Aegean Sea views and outdoor dining close to the water. The cuisine focuses on fish and seafood, Mediterranean flavours, and elements of local Greek gastronomy, presented with a modern and refined approach. It is an inviting choice for a leisurely lunch after a day at the beach or a romantic dinner by the sea. Reservations and parking are available, making it especially convenient during the busy summer season.",
+  "descriptionRo": "Kyma este un restaurant mediteranean situat chiar pe malul mării, pe plaja Agios Ioannis din apropiere de Nikiti, în cadrul AMMOA Luxury Hotel & Spa Resort. Atmosfera elegantă, dar relaxată, este completată de priveliștea spre Marea Egee și de mesele amplasate în aer liber, aproape de apă. Bucătăria pune accent pe pește și fructe de mare, preparate mediteraneene și influențe din gastronomia locală grecească, prezentate într-o manieră modernă și rafinată. Este o alegere potrivită pentru un prânz liniștit după plajă sau pentru o cină romantică la malul mării. Sunt disponibile rezervări și parcare, un avantaj în perioadele aglomerate ale sezonului estival.",
   "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma-hero.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma-hero.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma3.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma4.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma5.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma4.webp"
   ],
   "galleryImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma2.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma3.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma4.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma5.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/kyma4.webp"
   ],
   "menuImages": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/menu1.webp",
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/menu2.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/menu3.webp",
-    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/menu4.webp"
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kyma/images/menu3.webp"
   ],
-  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed outside",
-  "accessibility": [
-    "Wheelchair-accessible entrance",
-    "Wheelchair-accessible seating"
-  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
   "serviceOptions": [
     "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
     "Takeaway",
-    "Dine-in",
-    "Delivery"
+    "Dine-in"
   ],
   "highlights": [
     "Great beer selection",
-    "Great coffee",
     "Great wine list"
   ],
   "popularFor": [
@@ -132,7 +126,6 @@
   "offerings": [
     "Alcohol",
     "Beer",
-    "Cocktails",
     "Coffee",
     "Late-night food",
     "Quick bite",
@@ -148,10 +141,7 @@
     "Table service"
   ],
   "amenities": [
-    "Bar on site",
-    "Toilet",
-    "Wi-Fi",
-    "Free Wi-Fi"
+    "Toilet"
   ],
   "atmosphere": [
     "Casual",
@@ -161,9 +151,7 @@
   "crowd": [
     "Family friendly",
     "Groups",
-    "LGBTQ+ friendly",
-    "Tourists",
-    "Transgender safe space"
+    "Tourists"
   ],
   "planning": [
     "Accepts reservations"
@@ -174,33 +162,23 @@
     "NFC mobile payments"
   ],
   "children": [
-    "Good for kids",
-    "Kids' menu"
+    "Good for kids"
   ],
   "parking": [
     "Free of charge street parking",
     "Free parking lot",
     "Plenty of parking"
   ],
-  "pets": [
-    "Dogs allowed",
-    "Dogs allowed outside"
-  ],
-  "sunbedPrice": "15 Euro",
-  "sunbedConsumationIncluded": true,
-  "musicStyles": [
-    "chill",
-    "lounge"
-  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
   "features": [
-    "sunbeds",
-    "cocktails",
     "restaurant",
     "parking",
     "sea_view",
     "sunset_view",
-    "family_friendly",
-    "pet_friendly"
+    "family_friendly"
   ],
   "cuisineTypes": [
     "seafood",
