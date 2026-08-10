@@ -7388,5 +7388,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "lemoni",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-elia",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Lemoni ",
+    "titleRo": "Lemoni ",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lemoni/images/lemoni-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/lemoni/images/lemoni-hero.webp",
+    "lat": 40.16246146001798,
+    "lon": 23.727266061164794,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Lemoni Restaurant is an elegant dining venue in Akti Elia, located within Acrotel Athena Pallas in a peaceful setting surrounded by...",
+    "shortRo": "Lemoni Restaurant este un restaurant elegant din Akti Elia, situat în cadrul Acrotel Athena Pallas, într-un cadru liniștit printre...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
