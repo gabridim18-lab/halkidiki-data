@@ -1,0 +1,180 @@
+{
+  "id": "palmar",
+  "zone": "Sithonia",
+  "beachSlug": "tripotamos-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Palmar",
+  "titleRo": "Palmar",
+  "displayAddress": "Epar.Od. Nikitis-Sartis, Sithonia 630 81, Greece",
+  "gpsCoordinates": "40.12482710924167, 23.765041026375464",
+  "lat": 40.12482710924167,
+  "lon": 23.765041026375464,
+  "openingHoursRaw": "Monday\n\t\n\n    7 am–12 am\n\n\t\nTuesday\n\t\n\n    7 am–12 am\n\n\t\nWednesday\n\t\n\n    7 am–12 am\n\n\t\nThursday\n\t\n\n    7 am–12 am\n\n\t\nFriday\n\t\n\n    7 am–12 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    7 am–12 am\n\nHours might differ\n\t\nSunday\n\t\n\n    7 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "07:00",
+      "close": "00:00",
+      "labelEn": "07:00–00:00",
+      "labelRo": "07:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "07:00",
+      "close": "00:00",
+      "labelEn": "07:00–00:00",
+      "labelRo": "07:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "07:00",
+      "close": "00:00",
+      "labelEn": "07:00–00:00",
+      "labelRo": "07:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "07:00",
+      "close": "00:00",
+      "labelEn": "07:00–00:00",
+      "labelRo": "07:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "07:00",
+      "close": "00:00",
+      "labelEn": "07:00–00:00",
+      "labelRo": "07:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "07:00",
+      "close": "00:00",
+      "labelEn": "07:00–00:00",
+      "labelRo": "07:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "07:00",
+      "close": "00:00",
+      "labelEn": "07:00–00:00",
+      "labelRo": "07:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 07:00–00:00; Tuesday: 07:00–00:00; Wednesday: 07:00–00:00; Thursday: 07:00–00:00; Friday: 07:00–00:00; Saturday: 07:00–00:00; Sunday: 07:00–00:00",
+  "hoursRo": "Luni: 07:00–00:00; Marți: 07:00–00:00; Miercuri: 07:00–00:00; Joi: 07:00–00:00; Vineri: 07:00–00:00; Sâmbătă: 07:00–00:00; Duminică: 07:00–00:00",
+  "website": "https://camping-castello.gr/beach-bar-chalkidiki/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375440260",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Palmar Beach Bar is an all-day beachfront venue located within Camping Castello in Sithonia and is also open to visitors who are not staying at the complex. Its relaxed Mediterranean atmosphere makes it equally suitable for starting the morning with coffee by the sea, spending a leisurely day on the beach, or enjoying cocktails later in the evening. Drinks and snacks can also be served directly in the beach area, making Palmar a convenient choice for guests who prefer to stay close to the water throughout the day.\n\nThe menu follows a casual holiday style, with coffee, brunch, salads, burgers, pizza, ice cream and snacks, complemented by beer, refreshments, cocktails and signature drinks. As the day moves into evening, the atmosphere naturally shifts from a relaxed daytime beach bar to a pleasant seaside spot for drinks under the night sky. Palmar is a good choice for couples, families and groups of friends looking to combine beach time, casual food and drinks in an easy-going setting right beside the sea.",
+  "descriptionRo": "Palmar Beach Bar este un beach bar all-day situat chiar pe malul mării, în cadrul Camping Castello din Sithonia, dar deschis și vizitatorilor care nu sunt cazați în complex. Atmosfera este relaxată și tipic mediteraneană, potrivită atât pentru începutul zilei cu o cafea lângă mare, cât și pentru orele petrecute pe plajă sau pentru cocktailuri savurate seara. Băuturile și gustările pot fi servite direct în zona de plajă, ceea ce face locația potrivită pentru cei care vor să rămână aproape de apă pe parcursul zilei.\n\nMeniul este variat și orientat spre un stil casual de vacanță, cu cafea, brunch, salate, burgeri, pizza, înghețată și gustări, alături de bere, băuturi răcoritoare, cocktailuri și băuturi signature. Spre seară, atmosfera se schimbă treptat dintr-un beach bar de zi într-un loc plăcut pentru băuturi lângă mare, iar cocktailurile sunt servite până târziu. Palmar este o alegere potrivită pentru cupluri, familii și grupuri de prieteni care caută un loc unde pot combina plaja, mâncarea casual și băuturile într-o atmosferă relaxată, fără să se îndepărteze de mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/palmar5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/palmar/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "€20 minimum spend for 2 loungers + 1 umbrella",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": []
+}
