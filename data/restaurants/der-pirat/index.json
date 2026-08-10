@@ -1,0 +1,191 @@
+{
+  "id": "der-pirat",
+  "zone": "Sithonia",
+  "beachSlug": "lagomandra-beach",
+  "type": "taverna",
+  "featured": true,
+  "titleEn": "Der Pirat",
+  "titleRo": "Der Pirat",
+  "displayAddress": "Ελιά 630 88, Greece",
+  "gpsCoordinates": "40.13937718400598, 23.743238735307468",
+  "lat": 40.13937718400598,
+  "lon": 23.743238735307468,
+  "openingHoursRaw": "Monday\n\t\n\n    1–11 pm\n\n\t\nTuesday\n\t\n\n    1–11 pm\n\n\t\nWednesday\n\t\n\n    1–11 pm\n\n\t\nThursday\n\t\n\n    1–11 pm\n\n\t\nFriday\n\t\n\n    1–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    1–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    1–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–23:00; Tuesday: 13:00–23:00; Wednesday: 13:00–23:00; Thursday: 13:00–23:00; Friday: 13:00–23:00; Saturday: 13:00–23:00; Sunday: 13:00–23:00",
+  "hoursRo": "Luni: 13:00–23:00; Marți: 13:00–23:00; Miercuri: 13:00–23:00; Joi: 13:00–23:00; Vineri: 13:00–23:00; Sâmbătă: 13:00–23:00; Duminică: 13:00–23:00",
+  "website": "",
+  "facebook": "https://m.facebook.com/pages/Taverna-Der-Pirat/1625756121034791",
+  "instagram": "",
+  "phone": "+306977274738",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Taverna Der Pirat is a traditional Greek taverna in the Elia area of Sithonia, known for Mediterranean cooking with a strong focus on fish and seafood. The menu features classic choices such as fresh fish, grilled octopus and squid, sardines and anchovies, together with Greek appetisers, salads, and grilled meat dishes. Its outdoor terrace and coastal setting create a relaxed atmosphere, ideal for lunch after the beach or an unhurried Greek-style dinner. The restaurant serves both lunch and dinner, accepts reservations, and offers vegetarian-friendly choices, making it suitable for families as well. Der Pirat is a great option for visitors looking for an uncomplicated Greek taverna experience centred around Mediterranean flavours, seafood, and the relaxed holiday atmosphere of Sithonia.",
+  "descriptionRo": "Taverna Der Pirat este o tavernă grecească tradițională din zona Elia, Sithonia, apreciată pentru bucătăria mediteraneană și pentru accentul pus pe pește și fructe de mare. Meniul include preparate clasice precum pește proaspăt, caracatiță și calamari la grătar, sardine, anșoa, precum și aperitive grecești, salate și preparate din carne la grătar. Terasa în aer liber și apropierea de coastă creează o atmosferă relaxată, potrivită pentru un prânz după plajă sau pentru o cină liniștită în stil grecesc. Restaurantul oferă atât prânz, cât și cină, acceptă rezervări și dispune de opțiuni vegetariene, fiind potrivit și pentru familii. Der Pirat este o alegere bună pentru cei care caută o tavernă fără pretenții inutile, unde experiența se concentrează pe preparate grecești și mediteraneene, fructe de mare și atmosfera autentică de vacanță din Sithonia.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

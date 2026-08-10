@@ -7534,5 +7534,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "der-pirat",
+    "zone": "Sithonia",
+    "beachSlug": "lagomandra-beach",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "Der Pirat",
+    "titleRo": "Der Pirat",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/der-pirat/images/der-pirat-hero.webp",
+    "lat": 40.13937718400598,
+    "lon": 23.743238735307468,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Taverna Der Pirat is a traditional Greek taverna in the Elia area of Sithonia, known for Mediterranean cooking with a strong focus on...",
+    "shortRo": "Taverna Der Pirat este o tavernă grecească tradițională din zona Elia, Sithonia, apreciată pentru bucătăria mediteraneană și pentru...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
