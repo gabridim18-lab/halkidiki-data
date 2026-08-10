@@ -1,0 +1,212 @@
+{
+  "id": "avra",
+  "zone": "Sithonia",
+  "beachSlug": "nikiti-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "AVRA",
+  "titleRo": "AVRA",
+  "displayAddress": "Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.211072969861306, 23.67330116990512",
+  "lat": 40.211072969861306,
+  "lon": 23.67330116990512,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–12 am\n\n\t\nTuesday\n\t\n\n    9 am–12 am\n\n\t\nWednesday\n\t\n\n    9 am–12 am\n\n\t\nThursday\n\t\n\n    9 am–12 am\n\n\t\nFriday\n\t\n\n    9 am–12 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–12 am\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "00:00",
+      "labelEn": "09:00–00:00",
+      "labelRo": "09:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–00:00; Tuesday: 09:00–00:00; Wednesday: 09:00–00:00; Thursday: 09:00–00:00; Friday: 09:00–00:00; Saturday: 09:00–00:00; Sunday: 09:00–00:00",
+  "hoursRo": "Luni: 09:00–00:00; Marți: 09:00–00:00; Miercuri: 09:00–00:00; Joi: 09:00–00:00; Vineri: 09:00–00:00; Sâmbătă: 09:00–00:00; Duminică: 09:00–00:00",
+  "website": "http://www.avra-restaurant.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306977862971",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "AVRA Restaurant Beach Bar is a beachfront restaurant and beach bar in Nikiti, combining a relaxing day by the sea with lunch, dinner, or drinks just steps from the water. Its beach area features sunbeds and umbrellas, while the sea-view terrace provides an inviting setting, particularly around sunset. The menu focuses on Mediterranean flavours, fresh fish and seafood, alongside pizza, pasta, grilled dishes, and other casual seaside options. Coffee, refreshing drinks, and cocktails complete the beach-bar experience. AVRA is a good choice for couples, groups of friends, and families looking to spend several hours by the sea while having food and drinks conveniently available nearby.",
+  "descriptionRo": "AVRA Restaurant Beach Bar este un restaurant și beach bar situat chiar pe plaja din Nikiti, unde poți combina o zi relaxantă la mare cu prânzul, cina sau o băutură în apropierea apei. Zona de plajă dispune de șezlonguri și umbrele, iar terasa cu vedere spre mare oferă un cadru plăcut mai ales spre apus. Meniul pune accent pe preparate mediteraneene, pește și fructe de mare, alături de pizza, paste, preparate la grătar și alte opțiuni potrivite pentru o masă relaxată la malul mării. Cafeaua, băuturile răcoritoare și cocktailurile completează experiența de beach bar. AVRA este potrivit atât pentru cupluri și grupuri de prieteni, cât și pentru familiile care doresc să petreacă mai multe ore pe plajă fără să se îndepărteze pentru masă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/avra5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/avra/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great wine list\n\n \n \nPopular for\n\n    Breakfast\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€12 per set up to €60 per set",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
