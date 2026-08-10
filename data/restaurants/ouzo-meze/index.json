@@ -1,0 +1,170 @@
+{
+  "id": "ouzo-meze",
+  "zone": "Sithonia",
+  "beachSlug": "neos-marmaras-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Ouzo Meze",
+  "titleRo": "Ouzo Meze",
+  "displayAddress": "Votsi, Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.094018119641, 23.780545434778816",
+  "lat": 40.094018119641,
+  "lon": 23.780545434778816,
+  "openingHoursRaw": "Monday\n\t\n\n    7 am–11 pm\n\n\t\nTuesday\n\t\n\n    7 am–11 pm\n\n\t\nWednesday\n\t\n\n    7 am–11 pm\n\n\t\nThursday\n\t\n\n    7 am–11 pm\n\n\t\nFriday\n\t\n\n    7 am–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    8 am–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    8 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "07:00",
+      "close": "23:00",
+      "labelEn": "07:00–23:00",
+      "labelRo": "07:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "07:00",
+      "close": "23:00",
+      "labelEn": "07:00–23:00",
+      "labelRo": "07:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "07:00",
+      "close": "23:00",
+      "labelEn": "07:00–23:00",
+      "labelRo": "07:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "07:00",
+      "close": "23:00",
+      "labelEn": "07:00–23:00",
+      "labelRo": "07:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "07:00",
+      "close": "23:00",
+      "labelEn": "07:00–23:00",
+      "labelRo": "07:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:00",
+      "labelEn": "08:00–23:00",
+      "labelRo": "08:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 07:00–23:00; Tuesday: 07:00–23:00; Wednesday: 07:00–23:00; Thursday: 07:00–23:00; Friday: 07:00–23:00; Saturday: 08:00–23:00; Sunday: 08:00–23:00",
+  "hoursRo": "Luni: 07:00–23:00; Marți: 07:00–23:00; Miercuri: 07:00–23:00; Joi: 07:00–23:00; Vineri: 07:00–23:00; Sâmbătă: 08:00–23:00; Duminică: 08:00–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306970908424",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Ouzo Meze is a traditional Greek café-ouzeri in Neos Marmaras, offering an appealing option for visitors who want to experience the simpler, more authentic side of Greek food culture. Its concept follows the classic mezedopoleio tradition, where local drinks—especially ouzo—are enjoyed slowly alongside small dishes and meze intended for sharing around the table. The relaxed character makes it a pleasant choice for an informal daytime stop or an easy-going evening centred around food, drinks and conversation at an unhurried Greek pace. It is particularly suited to travellers looking for a local, traditional experience rather than a modern or upscale restaurant setting. Current public sources specifically identify the venue as a Traditional Café Ouzo Meze / mezedopoleio in Neos Marmaras.",
+  "descriptionRo": "Ouzo Meze este un café-ouzeri tradițional din Neos Marmaras, un loc potrivit pentru cei care vor să descopere latura simplă și autentică a gastronomiei grecești. Conceptul urmează stilul clasic al unui mezedopoleio: băuturile tradiționale, în special ouzo, sunt savurate încet alături de mici preparate și meze gândite pentru a fi împărțite la masă. Locația este potrivită mai ales pentru o pauză relaxată în timpul zilei sau pentru o seară fără formalități, cu mâncare, băutură și conversație în ritmul specific vacanțelor grecești. Este o alegere interesantă pentru cei care preferă experiențele locale și atmosfera unei ouzerii tradiționale în locul unui restaurant modern sau sofisticat. Sursele publice actuale identifică locația explicit ca Traditional Café Ouzo Meze / mezedopoleio în Neos Marmaras.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-meze/images/ouzo-meze-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-meze/images/ouzo-meze-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-meze/images/ouzo-meze1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-meze/images/ouzo-meze2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-meze/images/ouzo-meze3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-meze/images/ouzo-meze1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-meze/images/ouzo-meze2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-meze/images/ouzo-meze3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ouzo-meze/images/menu1.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Dinner\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Dinner",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": []
+}
