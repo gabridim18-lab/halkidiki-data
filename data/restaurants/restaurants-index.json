@@ -7328,5 +7328,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "mango",
+    "zone": "Sithonia",
+    "beachSlug": "kalogria-beach",
+    "type": "beach_bar",
+    "featured": false,
+    "titleEn": "Mango",
+    "titleRo": "Mango",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango-hero.webp",
+    "lat": 40.17815549138405,
+    "lon": 23.714332656854317,
+    "rating": 3.9,
+    "price": "$$",
+    "shortEn": "Mango Beach Bar is a popular beachfront venue located on beautiful Kalogria Beach in Sithonia, surrounded by soft sand, clear water,...",
+    "shortRo": "Mango Beach Bar este un beach bar popular situat pe frumoasa plajă Kalogria din Sithonia, într-un cadru cu nisip fin, apă limpede și...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

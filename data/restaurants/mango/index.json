@@ -1,0 +1,187 @@
+{
+  "id": "mango",
+  "zone": "Sithonia",
+  "beachSlug": "kalogria-beach",
+  "type": "beach_bar",
+  "featured": false,
+  "titleEn": "Mango",
+  "titleRo": "Mango",
+  "displayAddress": "Ακτή Καλογριας, Sithonia 630 88, Greece",
+  "gpsCoordinates": "40.17815549138405, 23.714332656854317",
+  "lat": 40.17815549138405,
+  "lon": 23.714332656854317,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–8 pm\n\n\t\nTuesday\n\t\n\n    9 am–8 pm\n\n\t\nWednesday\n\t\n\n    9 am–8 pm\n\n\t\nThursday\n\t\n\n    9 am–8 pm\n\n\t\nFriday\n\t\n\n    9 am–8 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–8 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–20:00; Tuesday: 09:00–20:00; Wednesday: 09:00–20:00; Thursday: 09:00–20:00; Friday: 09:00–20:00; Saturday: 09:00–20:00; Sunday: 09:00–20:00",
+  "hoursRo": "Luni: 09:00–20:00; Marți: 09:00–20:00; Miercuri: 09:00–20:00; Joi: 09:00–20:00; Vineri: 09:00–20:00; Sâmbătă: 09:00–20:00; Duminică: 09:00–20:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375027039",
+  "price": "$$",
+  "rating": 3.9,
+  "descriptionEn": "Mango Beach Bar is a popular beachfront venue located on beautiful Kalogria Beach in Sithonia, surrounded by soft sand, clear water, and Mediterranean scenery. Its organised beach area with sunbeds and umbrellas is ideal for spending an entire day by the sea, while music and a lively summer atmosphere complete the experience. Mango serves coffee, refreshments, cocktails, and casual food options throughout the day. During the busy summer period, arriving early or reserving a spot is recommended, and parking is also available for visitors.",
+  "descriptionRo": "Mango Beach Bar este un beach bar popular situat pe frumoasa plajă Kalogria din Sithonia, într-un cadru cu nisip fin, apă limpede și vegetație mediteraneană. Zona organizată cu șezlonguri și umbrele este potrivită pentru o zi întreagă de relaxare la mare, iar muzica și atmosfera de vară completează experiența. Mango oferă cafea, băuturi răcoritoare, cocktailuri și opțiuni pentru o masă sau o gustare pe parcursul zilei. În perioadele aglomerate este recomandată sosirea mai devreme sau rezervarea unui loc, iar pentru vizitatori este disponibilă și parcare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/mango4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/mango/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Paid parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Paid parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "15 Euros for sun loungers",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
