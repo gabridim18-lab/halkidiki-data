@@ -1,0 +1,209 @@
+{
+  "id": "yialos",
+  "zone": "Sithonia",
+  "beachSlug": "paradisos-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Yialos",
+  "titleRo": "Yialos",
+  "displayAddress": "Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.100826770146746, 23.775750510700124",
+  "lat": 40.100826770146746,
+  "lon": 23.775750510700124,
+  "openingHoursRaw": "Monday\n\t\n\n    9 am–11 pm\n\n\t\nTuesday\n\t\n\n    9 am–11 pm\n\n\t\nWednesday\n\t\n\n    9:30 am–11 pm\n\n\t\nThursday\n\t\n\n    9:30 am–11 pm\n\n\t\nFriday\n\t\n\n    9:30 am–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9:30 am–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:00",
+      "labelEn": "09:30–23:00",
+      "labelRo": "09:30–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:00",
+      "labelEn": "09:30–23:00",
+      "labelRo": "09:30–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:00",
+      "labelEn": "09:30–23:00",
+      "labelRo": "09:30–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "23:00",
+      "labelEn": "09:30–23:00",
+      "labelRo": "09:30–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–23:00; Tuesday: 09:00–23:00; Wednesday: 09:30–23:00; Thursday: 09:30–23:00; Friday: 09:30–23:00; Saturday: 09:30–23:00; Sunday: 09:00–23:00",
+  "hoursRo": "Luni: 09:00–23:00; Marți: 09:00–23:00; Miercuri: 09:30–23:00; Joi: 09:30–23:00; Vineri: 09:30–23:00; Sâmbătă: 09:30–23:00; Duminică: 09:00–23:00",
+  "website": "http://yalostaverna.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306971727781",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Yialos is a relaxed restaurant in Neos Marmaras, well suited to everything from morning coffee and a leisurely lunch to a lively summer dinner. The kitchen combines Greek and Mediterranean flavours with familiar international favourites, offering a varied selection that includes fish and seafood, calamari, pasta, pizza, salads, meat dishes and vegetarian options.\n\nOutdoor seating and an easy-going atmosphere make it a good choice for families, couples and groups of friends alike. On selected evenings, live music adds extra energy and turns dinner into a more vibrant night out. Yialos is a versatile option for visitors looking for Greek flavours, casual dishes and the relaxed holiday atmosphere of Neos Marmaras. Outdoor seating and reservations are available.",
+  "descriptionRo": "Yialos este un restaurant cu atmosferă relaxată din Neos Marmaras, potrivit de la cafeaua de dimineață și un prânz fără grabă până la o cină de vară într-un cadru animat. Bucătăria combină preparatele grecești și mediteraneene cu opțiuni apreciate de publicul internațional, iar meniul este suficient de variat pentru gusturi diferite: pește și fructe de mare, calamari, paste, pizza, salate, preparate din carne și opțiuni vegetariene.\n\nTerasa în aer liber și atmosfera prietenoasă îl fac potrivit atât pentru familii, cât și pentru cupluri sau grupuri de prieteni. În anumite seri, muzica live adaugă o notă mai energică experienței, transformând masa într-o ieșire plăcută de seară. Yialos este o alegere versatilă pentru cei care caută mâncare grecească, preparate casual și o atmosferă de vacanță specifică Neos Marmaras. Sunt disponibile locuri în aer liber și rezervări.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/yialos6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yialos/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Dine-in\n\n \n \nHighlights\n\n    Fireplace\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n    Live music\n    Sport\n\n \n \nPopular for\n\n    Breakfast\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking",
+  "accessibility": [
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Fireplace",
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list",
+    "Live music",
+    "Sport"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": []
+}
