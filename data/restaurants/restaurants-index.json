@@ -7417,5 +7417,31 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "hierion",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-elia",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Hierion",
+    "titleRo": "Hierion",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion-hero.webp",
+    "lat": 40.16189811914737,
+    "lon": 23.727191679878874,
+    "rating": 5.0,
+    "price": "$$",
+    "shortEn": "Hierion Restaurant offers one of Sithonia’s most distinctive dining experiences, within Acrotel Athena Pallas on Elia Beach. The...",
+    "shortRo": "Hierion Restaurant oferă una dintre cele mai originale experiențe gastronomice din Sithonia, în cadrul Acrotel Athena Pallas, pe Elia...",
+    "features": [
+      "restaurant",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

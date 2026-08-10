@@ -1,0 +1,155 @@
+{
+  "id": "hierion",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-elia",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Hierion",
+  "titleRo": "Hierion",
+  "displayAddress": "Elia Beach, Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.16189811914737, 23.727191679878874",
+  "lat": 40.16189811914737,
+  "lon": 23.727191679878874,
+  "openingHoursRaw": "Monday\n\t\n\n    7–11 pm\n\n\t\nTuesday\n\t\n\n    7–11 pm\n\n\t\nWednesday\n\t\n\n    7–11 pm\n\n\t\nThursday\n\t\n\n    7–11 pm\n\n\t\nFriday\n\t\n\n    7–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    7–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    7–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:00",
+      "labelEn": "19:00–23:00",
+      "labelRo": "19:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:00",
+      "labelEn": "19:00–23:00",
+      "labelRo": "19:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:00",
+      "labelEn": "19:00–23:00",
+      "labelRo": "19:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:00",
+      "labelEn": "19:00–23:00",
+      "labelRo": "19:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:00",
+      "labelEn": "19:00–23:00",
+      "labelRo": "19:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:00",
+      "labelEn": "19:00–23:00",
+      "labelRo": "19:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:00",
+      "labelEn": "19:00–23:00",
+      "labelRo": "19:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 19:00–23:00; Tuesday: 19:00–23:00; Wednesday: 19:00–23:00; Thursday: 19:00–23:00; Friday: 19:00–23:00; Saturday: 19:00–23:00; Sunday: 19:00–23:00",
+  "hoursRo": "Luni: 19:00–23:00; Marți: 19:00–23:00; Miercuri: 19:00–23:00; Joi: 19:00–23:00; Vineri: 19:00–23:00; Sâmbătă: 19:00–23:00; Duminică: 19:00–23:00",
+  "website": "https://bit.ly/41VbDLU",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306941510009",
+  "price": "$$",
+  "rating": 5.0,
+  "descriptionEn": "Hierion Restaurant offers one of Sithonia’s most distinctive dining experiences, within Acrotel Athena Pallas on Elia Beach. The restaurant is inspired by Byzantine gastronomy, while its atmospheric interior recreates a medieval setting reminiscent of the portico of a Byzantine monastery. The dishes are based on recipes documented in Byzantine-era texts and are prepared using ingredients similar to those available at the time. The menu may feature fermented bread with olive paste, traditional kakavia fish soup, Athonite-inspired dishes, fish, and monastic desserts such as semolina halva with orange and Chios mastic. Hierion is an excellent choice for visitors looking for more than a conventional dinner, combining gastronomy with history and the cultural heritage of the region. Reservations for lunch or dinner are available.",
+  "descriptionRo": "Hierion Restaurant oferă una dintre cele mai originale experiențe gastronomice din Sithonia, în cadrul Acrotel Athena Pallas, pe Elia Beach. Conceptul restaurantului este inspirat de gastronomia bizantină, iar decorul recreează atmosfera unui spațiu medieval asemănător porticului unei mănăstiri bizantine. Preparatele sunt dezvoltate pornind de la rețete menționate în texte din perioada bizantină și folosesc ingrediente apropiate de cele disponibile în acea epocă. Meniul poate include pâine fermentată cu pastă de măsline, supă tradițională de pește kakavia, preparate inspirate din bucătăria athonită, pește și deserturi monahale precum halva cu portocală și mastic. Hierion este o alegere deosebită pentru cei care caută mai mult decât o simplă cină, combinând gastronomia cu istoria și atmosfera culturală a regiunii. Rezervările pentru prânz sau cină sunt disponibile.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/hierion4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/hierion/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Atmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
