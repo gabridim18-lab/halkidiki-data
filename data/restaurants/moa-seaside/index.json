@@ -1,0 +1,186 @@
+{
+  "id": "moa-seaside",
+  "zone": "Sithonia",
+  "beachSlug": "kalogria-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "MOA Seaside",
+  "titleRo": "MOA Seaside",
+  "displayAddress": "Ακτή Καλογριάς, Nikiti 630 88, Greece",
+  "gpsCoordinates": "40.175054176934566, 23.716733783412884",
+  "lat": 40.175054176934566,
+  "lon": 23.716733783412884,
+  "openingHoursRaw": "Monday\n\t\n\n    10 am–9 pm\n\n\t\nTuesday\n\t\n\n    10 am–9 pm\n\n\t\nWednesday\n\t\n\n    10 am–9 pm\n\n\t\nThursday\n\t\n\n    10 am–9 pm\n\n\t\nFriday\n\t\n\n    10 am–9 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    10 am–9 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    10 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:00",
+      "labelEn": "10:00–21:00",
+      "labelRo": "10:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–21:00; Tuesday: 10:00–21:00; Wednesday: 10:00–21:00; Thursday: 10:00–21:00; Friday: 10:00–21:00; Saturday: 10:00–21:00; Sunday: 10:00–21:00",
+  "hoursRo": "Luni: 10:00–21:00; Marți: 10:00–21:00; Miercuri: 10:00–21:00; Joi: 10:00–21:00; Vineri: 10:00–21:00; Sâmbătă: 10:00–21:00; Duminică: 10:00–21:00",
+  "website": "",
+  "facebook": "https://m.facebook.com/MOA-Seaside-Beach-Bar-109822177373576/?refid=13&__tn__=%2Cg",
+  "instagram": "",
+  "phone": "+302375027137",
+  "price": "$$",
+  "rating": 3.9,
+  "descriptionEn": "MOA Seaside Beach Bar is a stylish beachfront venue located on beautiful Kalogria Beach in Sithonia, surrounded by soft sand and clear turquoise waters. Its modern design, minimalist lines, and natural materials blend harmoniously with the coastal landscape, creating a relaxed yet refined atmosphere by the sea. MOA is ideal for spending an entire day at the beach, offering sunbeds and umbrellas, drinks, cocktails, and light dishes for lunch or dinner. During the peak summer season, reservations are available for the beach area, while sunbed and umbrella sets operate with a minimum-spend policy. It is an excellent choice for couples, families, and groups of friends looking for comfort, music, and a laid-back Mediterranean atmosphere on one of Sithonia’s best-known beaches.",
+  "descriptionRo": "MOA Seaside Beach Bar este un beach bar elegant situat pe frumoasa plajă Kalogria din Sithonia, într-un cadru natural cu nisip fin și ape limpezi, de culoare turcoaz. Designul modern, liniile minimaliste și materialele naturale se integrează armonios în peisaj, creând o atmosferă relaxată și rafinată chiar lângă mare. MOA este potrivit pentru o zi întreagă la plajă, oferind șezlonguri și umbrele, băuturi, cocktailuri și preparate ușoare pentru prânz sau cină. În sezonul turistic de vârf sunt disponibile rezervări pentru zona de plajă, iar seturile de șezlonguri funcționează pe baza unui consum minim. Este o alegere excelentă pentru cupluri, familii și grupuri de prieteni care caută confort, muzică și o atmosferă mediteraneană relaxată pe una dintre cele mai cunoscute plaje din Sithonia.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/moa-seaside5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/moa-seaside/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€50  minimum spend",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
