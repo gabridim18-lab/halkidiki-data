@@ -171,5 +171,15 @@
       "surfer-beach-angelochori",
       "neoi-epivates-beach"
     ]
+  },
+  {
+    "id": "aristotle_tomb",
+    "type": "what_to_do",
+    "beaches": [
+      "Platani Beach",
+      "Vrasna Beach",
+      "Nea Vrasna Beach",
+      "Milies Beach"
+    ]
   }
 ]

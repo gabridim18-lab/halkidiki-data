@@ -1,0 +1,31 @@
+{
+  "id": "aristotle_tomb",
+  "type": "what_to_do",
+  "beaches": [
+    "Platani Beach",
+    "Vrasna Beach",
+    "Nea Vrasna Beach",
+    "Milies Beach"
+  ],
+  "titleEn": "Tomb of Aristotle",
+  "titleRo": "Mormântul lui Aristotel",
+  "categoryEn": "History",
+  "categoryRo": "Loc istoric",
+  "address": "Άκανθος, Stagira 570 14, Grecia",
+  "hoursEn": "Open-air archaeological site (accessible anytime, best during daylight)",
+  "hoursRo": "Sit arheologic în aer liber (accesibil oricând, recomandat pe timp de zi)",
+  "website": "https://axtada.gr/drastiriotites-ax-t-a-d-a/alsos-toy-aristoteli/",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.529533374584545,
+    "lon": 23.748082810595285
+  },
+  "phone": "+302376041327",
+  "price": "",
+  "descriptionEn": "🏛️ The Tomb of Aristotle, discovered in 1996 near Stageira in Olympiada, is believed to mark the burial place of the renowned philosopher and stands as a powerful symbol of his legacy.\n\n• 🧠 Associated with Aristotle, one of the greatest philosophers in history\n• 🏺 Discovered in 1996 near ancient Stageira\n• 🔘 Remains of a circular structure with an altar\n• 🌊 Panoramic views over the bay, matching ancient historical descriptions\n• 📜 Considered a symbolic monument despite ongoing scholarly debate\n\n⭐ A meaningful cultural landmark that honors Aristotle’s enduring influence and connects visitors with the philosophical heritage of Halkidiki.",
+  "descriptionRo": "🏛️ Mormântul lui Aristotel, descoperit în 1996 lângă Stageira, în Olympiada, este considerat locul de înmormântare al renumitului filosof și un simbol puternic al moștenirii sale.\n\n• 🧠 Asociat cu Aristotel, unul dintre cei mai mari filosofi ai istoriei\n• 🏺 Descoperit în 1996, în apropierea vechii Stageira\n• 🔘 Rămășițele unei structuri circulare cu altar\n• 🌊 Priveliști panoramice asupra golfului, conforme descrierilor istorice antice\n• 📜 Considerat un monument simbolic, în ciuda dezbaterilor academice\n\n⭐ Un reper cultural deosebit, care onorează influența durabilă a lui Aristotel și leagă vizitatorii de patrimoniul filosofic al Halkidiki.",
+  "images": [
+    "aristotle_tomb1.webp",
+    "aristotle_tomb2.webp"
+  ]
+}
