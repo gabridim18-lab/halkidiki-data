@@ -1,0 +1,186 @@
+{
+  "id": "sunrise",
+  "zone": "Olympiada",
+  "beachSlug": "vrasna-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Sunrise",
+  "titleRo": "Sunrise",
+  "displayAddress": "Strymonikou Gulf, Paralia Vrasna 570 21, Greece",
+  "gpsCoordinates": "40.69130549413457, 23.695680444776418",
+  "lat": 40.69130549413457,
+  "lon": 23.695680444776418,
+  "openingHoursRaw": "Tuesday\n\t\n\n    8 am–12 am\n\n\t\nWednesday\n\t\n\n    8 am–12 am\n\n\t\nThursday\n\t\n\n    8 am–12 am\n\n\t\nFriday\n\t\n\n    8 am–12 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    8 am–12 am\n\nHours might differ\n\t\nSunday\n\t\n\n    8 am–12 am\n\n\t\nMonday\n\t\n\n    8 am–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "00:00",
+      "labelEn": "08:00–00:00",
+      "labelRo": "08:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–00:00; Tuesday: 08:00–00:00; Wednesday: 08:00–00:00; Thursday: 08:00–00:00; Friday: 08:00–00:00; Saturday: 08:00–00:00; Sunday: 08:00–00:00",
+  "hoursRo": "Luni: 08:00–00:00; Marți: 08:00–00:00; Miercuri: 08:00–00:00; Joi: 08:00–00:00; Vineri: 08:00–00:00; Sâmbătă: 08:00–00:00; Duminică: 08:00–00:00",
+  "website": "https://sunrise-vrasna.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306983089335",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Sunrise is a relaxed café-bar in Paralia Vrasna, suited to almost any moment of a summer day, from morning coffee to an evening drink or casual bite. Its welcoming, easy-going atmosphere and outdoor seating make it a pleasant stop while spending time along the Strymonic Gulf coastline. Coffee is one of the venue’s highlights, complemented by smoothies, refreshing drinks and casual food options, including burgers, chicken dishes and light bites suitable for an informal lunch or dinner.\n\nSunrise works well for couples, families and groups of friends looking for a comfortable and uncomplicated place to take a break between hours spent by the sea. Outdoor seating and takeaway are available, and the venue is wheelchair accessible. With opening hours extending from morning until midnight, it is a versatile choice for both a daytime stop and a laid-back evening in Paralia Vrasna.",
+  "descriptionRo": "Sunrise este un café-bar relaxat din Paralia Vrasna, potrivit pentru orice moment al unei zile de vacanță, de la cafeaua de dimineață până la o băutură sau o gustare seara. Atmosfera este casual și primitoare, iar zona de servire în aer liber îl face o oprire plăcută pentru cei care petrec timpul pe litoralul Golfului Strymonic. Cafeaua este una dintre specialitățile apreciate ale locației, iar oferta este completată de smoothie-uri, băuturi reci și preparate casual, printre care burgeri, pui și gustări potrivite pentru un prânz ușor sau o cină fără formalități.\n\nSunrise este potrivit pentru cupluri, familii și grupuri de prieteni care caută un loc simplu și confortabil unde să se oprească între momentele petrecute la plajă. Sunt disponibile locuri în aer liber și opțiune de takeaway, iar accesul este adaptat și pentru persoanele cu mobilitate redusă. Atmosfera liniștită și programul extins, de dimineața până la miezul nopții, îl fac o alegere versatilă atât pentru o pauză în timpul zilei, cât și pentru o seară relaxată în Paralia Vrasna.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Drive-through\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great coffee\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Drive-through",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great coffee"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "Sunbeds with minimum consumption",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

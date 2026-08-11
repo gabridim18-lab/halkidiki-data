@@ -7989,5 +7989,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "sunrise",
+    "zone": "Olympiada",
+    "beachSlug": "vrasna-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Sunrise",
+    "titleRo": "Sunrise",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunrise/images/sunrise-hero.webp",
+    "lat": 40.69130549413457,
+    "lon": 23.695680444776418,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Sunrise is a relaxed café-bar in Paralia Vrasna, suited to almost any moment of a summer day, from morning coffee to an evening drink...",
+    "shortRo": "Sunrise este un café-bar relaxat din Paralia Vrasna, potrivit pentru orice moment al unei zile de vacanță, de la cafeaua de dimineață...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
