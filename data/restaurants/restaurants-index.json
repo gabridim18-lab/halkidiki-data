@@ -7960,5 +7960,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "macrame",
+    "zone": "Olympiada",
+    "beachSlug": "vrasna-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Macrame",
+    "titleRo": "Macrame",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame-hero.webp",
+    "lat": 40.691704211914896,
+    "lon": 23.6958057487115,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Macrame Beach Bar is a modern beachfront venue in Asprovalta, set directly by the sea in a relaxed and carefully designed summer...",
+    "shortRo": "Macrame Beach Bar este un beach bar modern din Asprovalta, amplasat chiar lângă mare, într-un decor relaxat și atent amenajat pentru...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

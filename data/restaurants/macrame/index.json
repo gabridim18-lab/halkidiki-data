@@ -1,0 +1,160 @@
+{
+  "id": "macrame",
+  "zone": "Olympiada",
+  "beachSlug": "vrasna-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Macrame",
+  "titleRo": "Macrame",
+  "displayAddress": "Strymonikou Gulf, Asprovalta 570 21, Greece",
+  "gpsCoordinates": "40.691704211914896, 23.6958057487115",
+  "lat": 40.691704211914896,
+  "lon": 23.6958057487115,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–1 am\n\n\t\nWednesday\n\t\n\n    9 am–1 am\n\n\t\nThursday\n\t\n\n    9 am–1 am\n\n\t\nFriday\n\t\n\n    9 am–1 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–1 am\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–1 am\n\n\t\nMonday\n\t\n\n    9 am–1 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "01:00",
+      "labelEn": "09:00–01:00",
+      "labelRo": "09:00–01:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–01:00; Tuesday: 09:00–01:00; Wednesday: 09:00–01:00; Thursday: 09:00–01:00; Friday: 09:00–01:00; Saturday: 09:00–01:00; Sunday: 09:00–01:00",
+  "hoursRo": "Luni: 09:00–01:00; Marți: 09:00–01:00; Miercuri: 09:00–01:00; Joi: 09:00–01:00; Vineri: 09:00–01:00; Sâmbătă: 09:00–01:00; Duminică: 09:00–01:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306983000153",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Macrame Beach Bar is a modern beachfront venue in Asprovalta, set directly by the sea in a relaxed and carefully designed summer setting. Its atmosphere blends boho-inspired style with the energy of a contemporary beach bar, making it suitable for everything from morning coffee and long hours by the water to an easy-going evening out.\n\nThe selection includes coffee, refreshing drinks, cocktails and food options for a meal or a casual bite throughout the day, allowing guests to stay close to the beach without interrupting the holiday mood. Cocktails and food are promoted as an important part of the Macrame experience.\n\nMacrame is a good choice for couples, families and groups of friends looking to combine beach time, music, drinks and a laid-back atmosphere. As the day moves into evening, it becomes an inviting place to continue the seaside experience with a cocktail and enjoy the easy pace of a Greek summer night.",
+  "descriptionRo": "Macrame Beach Bar este un beach bar modern din Asprovalta, amplasat chiar lângă mare, într-un decor relaxat și atent amenajat pentru zilele lungi de vară. Atmosfera combină stilul boho cu energia unui beach bar contemporan, fiind potrivită atât pentru cafeaua de dimineață și orele petrecute la plajă, cât și pentru o ieșire spre seară.\n\nOferta include cafea, băuturi răcoritoare, cocktailuri și preparate pentru o masă sau o gustare pe parcursul zilei, astfel încât poți rămâne aproape de mare fără să întrerupi atmosfera de vacanță. Cocktailurile și partea gastronomică sunt promovate ca elemente importante ale experienței Macrame.\n\nEste o alegere potrivită pentru cupluri, familii și grupuri de prieteni care caută o combinație între plajă, muzică, băuturi și o atmosferă relaxată. Pe măsură ce ziua se apropie de seară, Macrame devine un loc plăcut pentru a continua timpul petrecut la mare cu un cocktail și o ieșire fără grabă, în stilul verilor grecești.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/macrame/images/macrame3.webp"
+  ],
+  "menuImages": [],
+  "googleBusinessRaw": "Highlights\n\n    Great beer selection\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [
+    "Great beer selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "Sunbeds with minimum consumption",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
