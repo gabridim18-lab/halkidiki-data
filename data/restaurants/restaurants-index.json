@@ -7870,5 +7870,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "meltemi-sea-side",
+    "zone": "Olympiada",
+    "beachSlug": "nea-vrasna-beach",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "Meltemi Sea Side",
+    "titleRo": "Meltemi Sea Side",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/meltemi-sea-side/images/meltemi-sea-side-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/meltemi-sea-side/images/meltemi-sea-side-hero.webp",
+    "lat": 40.70518952671807,
+    "lon": 23.70089365525482,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Meltemi Sea Side Tavern is a Greek seaside taverna in Nea Vrasna, combining traditional food with the relaxed atmosphere of a day by...",
+    "shortRo": "Meltemi Sea Side Tavern este o tavernă grecească situată chiar lângă mare în Nea Vrasna, unde bucătăria tradițională și atmosfera...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
