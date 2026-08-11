@@ -7900,5 +7900,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "el-greco",
+    "zone": "Olympiada",
+    "beachSlug": "nea-vrasna-beach",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "El Greco",
+    "titleRo": "El Greco",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco-hero.webp",
+    "lat": 40.70374501208217,
+    "lon": 23.6986186410401,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "El Greco Tavern is one of Nea Vrasna’s long-established traditional tavernas, serving Greek food since 1976. It retains the character...",
+    "shortRo": "El Greco Tavern este una dintre tavernele cu tradiție din Nea Vrasna, servind preparate grecești încă din 1976. Atmosfera păstrează...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

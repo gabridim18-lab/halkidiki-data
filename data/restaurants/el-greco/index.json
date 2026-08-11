@@ -1,0 +1,207 @@
+{
+  "id": "el-greco",
+  "zone": "Olympiada",
+  "beachSlug": "nea-vrasna-beach",
+  "type": "taverna",
+  "featured": true,
+  "titleEn": "El Greco",
+  "titleRo": "El Greco",
+  "displayAddress": "2η Παραλιακή 72, 3η, New Vrasna 570 21, Greece",
+  "gpsCoordinates": "40.70374501208217, 23.6986186410401",
+  "lat": 40.70374501208217,
+  "lon": 23.6986186410401,
+  "openingHoursRaw": "Tuesday\n\t\n\n    7–11:30 pm\n\n\t\nWednesday\n\t\n\n    7–11:30 pm\n\n\t\nThursday\n\t\n\n    7–11:30 pm\n\n\t\nFriday\n\t\n\n    7–11:30 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    7–11:30 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    7–11:30 pm\n\n\t\nMonday\n\t\n\n    7–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:30",
+      "labelEn": "19:00–23:30",
+      "labelRo": "19:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:30",
+      "labelEn": "19:00–23:30",
+      "labelRo": "19:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:30",
+      "labelEn": "19:00–23:30",
+      "labelRo": "19:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:30",
+      "labelEn": "19:00–23:30",
+      "labelRo": "19:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:30",
+      "labelEn": "19:00–23:30",
+      "labelRo": "19:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:30",
+      "labelEn": "19:00–23:30",
+      "labelRo": "19:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "19:00",
+      "close": "23:30",
+      "labelEn": "19:00–23:30",
+      "labelRo": "19:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 19:00–23:30; Tuesday: 19:00–23:30; Wednesday: 19:00–23:30; Thursday: 19:00–23:30; Friday: 19:00–23:30; Saturday: 19:00–23:30; Sunday: 19:00–23:30",
+  "hoursRo": "Luni: 19:00–23:30; Marți: 19:00–23:30; Miercuri: 19:00–23:30; Joi: 19:00–23:30; Vineri: 19:00–23:30; Sâmbătă: 19:00–23:30; Duminică: 19:00–23:30",
+  "website": "https://elgrecovrasna.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306989437233",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "El Greco Tavern is one of Nea Vrasna’s long-established traditional tavernas, serving Greek food since 1976. It retains the character of a classic family-style taverna, with a spacious garden and outdoor dining area that make it particularly inviting for a relaxed dinner after a day by the sea. The restaurant places an emphasis on quality ingredients and traditional Greek and Mediterranean cooking in an uncomplicated, authentic setting.\n\nThe menu brings together familiar Greek favourites such as moussaka, grilled meats and souvlaki, meatballs, salads and Greek-style vegetable dishes, alongside fish and seafood, calamari and grilled octopus. Wine and other drinks complete the experience, making El Greco a pleasant place for an unhurried evening meal in the spirit of a traditional Greek taverna.\n\nEl Greco is well suited to couples, families and groups of friends looking for the flavours and hospitality of an established local taverna rather than a modern beach-club dining experience. It currently operates as an evening restaurant, and table reservations are available.",
+  "descriptionRo": "El Greco Tavern este una dintre tavernele cu tradiție din Nea Vrasna, servind preparate grecești încă din 1976. Atmosfera păstrează caracterul unei taverne clasice de familie, cu o grădină spațioasă și mese în aer liber, fiind o alegere potrivită pentru o cină relaxată după o zi petrecută la mare. Restaurantul pune accent pe ingrediente de calitate și pe bucătăria grecească și mediteraneană, într-un stil simplu și autentic.\n\nMeniul reunește preparate tradiționale precum moussaka, carne și frigărui la grătar, chifteluțe, salate și legume pregătite în stil grecesc, alături de pește și fructe de mare, calamari și caracatiță la grătar. Vinul și celelalte băuturi completează atmosfera unei seri petrecute fără grabă, în stilul tavernelor grecești tradiționale.\n\nEl Greco este potrivit pentru cupluri, familii și grupuri de prieteni care caută mai degrabă gusturile și ospitalitatea unei taverne consacrate decât un restaurant modern de tip beach club. În prezent funcționează ca restaurant de seară, iar rezervările sunt disponibile direct prin restaurant.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/el-greco5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/el-greco/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
