@@ -1,0 +1,201 @@
+{
+  "id": "serraios",
+  "zone": "Olympiada",
+  "beachSlug": "vrasna-beach",
+  "type": "taverna",
+  "featured": true,
+  "titleEn": "Serraios",
+  "titleRo": "Serraios",
+  "displayAddress": "Strymonikou Gulf, Volvi 570 21, Greece",
+  "gpsCoordinates": "40.6887981814254, 23.69484155993986",
+  "lat": 40.6887981814254,
+  "lon": 23.69484155993986,
+  "openingHoursRaw": "Tuesday\n\t\n\n    12 pm–12 am\n\n\t\nWednesday\n\t\n\n    12 pm–12 am\n\n\t\nThursday\n\t\n\n    12 pm–12 am\n\n\t\nFriday\n\t\n\n    12 pm–12 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    12 pm–12 am\n\nHours might differ\n\t\nSunday\n\t\n\n    12 pm–12 am\n\n\t\nMonday\n\t\n\n    12 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–00:00; Tuesday: 12:00–00:00; Wednesday: 12:00–00:00; Thursday: 12:00–00:00; Friday: 12:00–00:00; Saturday: 12:00–00:00; Sunday: 12:00–00:00",
+  "hoursRo": "Luni: 12:00–00:00; Marți: 12:00–00:00; Miercuri: 12:00–00:00; Joi: 12:00–00:00; Vineri: 12:00–00:00; Sâmbătă: 12:00–00:00; Duminică: 12:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306970099954",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Taverna Serraios is a Greek taverna in the Paralia Vrasna area, close to the sea and well suited to a relaxed lunch or an easy-going dinner in a traditional coastal setting. The kitchen focuses on Greek cuisine, with fish and seafood playing an important role. Frequently featured choices include fish, calamari, mussels and other seafood dishes, alongside gyros, salads and traditional Greek favourites, complemented by coffee and drinks.\n\nOutdoor seating and the proximity to the beach give Serraios a laid-back holiday atmosphere, making it a good choice for families, couples and groups of friends looking for an informal meal by the coast. Outdoor seating, reservations and takeaway are available, and the venue is also wheelchair accessible.",
+  "descriptionRo": "Taverna Serraios este o tavernă grecească din zona Paralia Vrasna, aproape de mare, potrivită pentru un prânz relaxat sau o cină într-o atmosferă simplă și autentică de litoral. Bucătăria este axată pe preparate grecești, cu un loc important ocupat de pește și fructe de mare. În ofertă se regăsesc frecvent pește, calamari, midii și alte preparate marine, alături de gyros, salate și preparate tradiționale, completate de cafea și băuturi.\n\nTerasa în aer liber și apropierea de plajă contribuie la atmosfera relaxată, făcând din Serraios o alegere potrivită pentru familii, cupluri și grupuri de prieteni care caută o masă fără formalități în timpul vacanței. Sunt disponibile locuri în aer liber, rezervări și takeaway, iar accesul este adaptat și pentru persoanele cu mobilitate redusă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/serraios4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/serraios/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great dessert\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great dessert"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
