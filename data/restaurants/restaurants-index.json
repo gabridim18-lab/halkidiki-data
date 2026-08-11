@@ -8018,5 +8018,36 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "san-vro-christos",
+    "zone": "Olympiada",
+    "beachSlug": "vrasna-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "San Vro – Christos",
+    "titleRo": "San Vro – Christos",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos-hero.webp",
+    "lat": 40.68923268595115,
+    "lon": 23.694987432554957,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "San Vro – Christos is a relaxed Greek restaurant in the Paralia Vrasna area, well suited to a leisurely lunch or a summer dinner close...",
+    "shortRo": "San Vro – Christos este un restaurant grecesc cu atmosferă relaxată, în zona Paralia Vrasna, potrivit pentru un prânz fără grabă sau...",
+    "features": [
+      "sunbeds",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

@@ -1,0 +1,198 @@
+{
+  "id": "san-vro-christos",
+  "zone": "Olympiada",
+  "beachSlug": "vrasna-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "San Vro – Christos",
+  "titleRo": "San Vro – Christos",
+  "displayAddress": "Strymonikou Gulf, Volvi 570 21, Greece",
+  "gpsCoordinates": "40.68923268595115, 23.694987432554957",
+  "lat": 40.68923268595115,
+  "lon": 23.694987432554957,
+  "openingHoursRaw": "Tuesday\n\t\n\n    12 pm–2 am\n\n\t\nWednesday\n\t\n\n    12 pm–2 am\n\n\t\nThursday\n\t\n\n    12–11 pm\n\n\t\nFriday\n\t\n\n    12 pm–2 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    12 pm–2 am\n\nHours might differ\n\t\nSunday\n\t\n\n    12 pm–2 am\n\n\t\nMonday\n\t\n\n    12 pm–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "02:00",
+      "labelEn": "12:00–02:00",
+      "labelRo": "12:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–02:00; Tuesday: 12:00–02:00; Wednesday: 12:00–02:00; Thursday: 12:00–23:00; Friday: 12:00–02:00; Saturday: 12:00–02:00; Sunday: 12:00–02:00",
+  "hoursRo": "Luni: 12:00–02:00; Marți: 12:00–02:00; Miercuri: 12:00–02:00; Joi: 12:00–23:00; Vineri: 12:00–02:00; Sâmbătă: 12:00–02:00; Duminică: 12:00–02:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302397026734",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "San Vro – Christos is a relaxed Greek restaurant in the Paralia Vrasna area, well suited to a leisurely lunch or a summer dinner close to the sea. Outdoor seating and coastal views give the venue the easy-going character of a traditional holiday taverna, with the focus on Greek food, generous portions and an informal dining experience.\n\nThe menu centres on Greek cuisine, combining grilled meats with fish and seafood. Frequently associated choices include pork and chicken gyros, grilled meats, calamari, fish and other seafood, accompanied by salads and familiar side dishes for a casual meal. It is a good option for families, couples and groups of friends looking for straightforward Greek flavours in a relaxed seaside setting.\n\nSan Vro offers outdoor seating, accepts reservations and provides takeaway, while wheelchair-accessible facilities make the venue more convenient for guests with reduced mobility. It works well for both lunch and an unhurried evening meal along the Strymonic Gulf coast.",
+  "descriptionRo": "San Vro – Christos este un restaurant grecesc cu atmosferă relaxată, în zona Paralia Vrasna, potrivit pentru un prânz fără grabă sau pentru o cină de vară aproape de mare. Spațiul în aer liber și priveliștea către coastă îi oferă acel caracter simplu și plăcut al tavernelor de vacanță, unde accentul cade pe mâncare grecească, porții generoase și o experiență informală.\n\nMeniul este orientat spre bucătăria grecească, cu o combinație de preparate din carne și fructe de mare. Printre opțiunile asociate frecvent cu San Vro se numără gyros de porc și pui, carne la grătar, calamari, pește și alte fructe de mare, alături de salate și garnituri potrivite pentru o masă casual. Este o alegere bună pentru familii, cupluri și grupuri de prieteni care caută mâncare familiară și gustoasă într-un cadru relaxat de litoral.\n\nSan Vro dispune de locuri în aer liber, acceptă rezervări și oferă și opțiune de takeaway, iar accesul este adaptat pentru persoanele cu mobilitate redusă. Este potrivit atât pentru masa de prânz, cât și pentru serile petrecute fără grabă pe litoralul Golfului Strymonic.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/san-vro-christos3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/san-vro-christos/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
