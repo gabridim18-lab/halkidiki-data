@@ -7811,5 +7811,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "sophia",
+    "zone": "Olympiada",
+    "beachSlug": "nea-vrasna-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "SOPHIA",
+    "titleRo": "SOPHIA",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia-hero.webp",
+    "lat": 40.70876708045966,
+    "lon": 23.702859313682474,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "SOPHIA Mediterranean Restaurant is a modern seaside restaurant in Nea Vrasna, offering a bright and relaxed atmosphere suited to both...",
+    "shortRo": "SOPHIA Mediterranean Restaurant este un restaurant modern, situat foarte aproape de mare în Nea Vrasna, cu o atmosferă luminoasă și...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "mediterranean"
+    ]
   }
 ]

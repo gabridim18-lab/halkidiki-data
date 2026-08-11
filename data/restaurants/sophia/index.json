@@ -1,0 +1,173 @@
+{
+  "id": "sophia",
+  "zone": "Olympiada",
+  "beachSlug": "nea-vrasna-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "SOPHIA",
+  "titleRo": "SOPHIA",
+  "displayAddress": "1 Παραλιακη, 2η Παραλιακή 27, New Vrasna 570 21, Greece",
+  "gpsCoordinates": "40.70876708045966, 23.702859313682474",
+  "lat": 40.70876708045966,
+  "lon": 23.702859313682474,
+  "openingHoursRaw": "Tuesday\n\t\n\n    8 am–11:55 pm\n\n\t\nWednesday\n\t\n\n    8 am–11:55 pm\n\n\t\nThursday\n\t\n\n    8 am–11:55 pm\n\n\t\nFriday\n\t\n\n    8 am–11:55 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    8 am–11:55 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    8 am–11:55 pm\n\n\t\nMonday\n\t\n\n    8 am–11:55 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:55",
+      "labelEn": "08:00–23:55",
+      "labelRo": "08:00–23:55"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:55",
+      "labelEn": "08:00–23:55",
+      "labelRo": "08:00–23:55"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:55",
+      "labelEn": "08:00–23:55",
+      "labelRo": "08:00–23:55"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:55",
+      "labelEn": "08:00–23:55",
+      "labelRo": "08:00–23:55"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:55",
+      "labelEn": "08:00–23:55",
+      "labelRo": "08:00–23:55"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:55",
+      "labelEn": "08:00–23:55",
+      "labelRo": "08:00–23:55"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "23:55",
+      "labelEn": "08:00–23:55",
+      "labelRo": "08:00–23:55"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–23:55; Tuesday: 08:00–23:55; Wednesday: 08:00–23:55; Thursday: 08:00–23:55; Friday: 08:00–23:55; Saturday: 08:00–23:55; Sunday: 08:00–23:55",
+  "hoursRo": "Luni: 08:00–23:55; Marți: 08:00–23:55; Miercuri: 08:00–23:55; Joi: 08:00–23:55; Vineri: 08:00–23:55; Sâmbătă: 08:00–23:55; Duminică: 08:00–23:55",
+  "website": "http://www.sophiaseaview.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306944101896",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "SOPHIA Mediterranean Restaurant is a modern seaside restaurant in Nea Vrasna, offering a bright and relaxed atmosphere suited to both daytime dining and leisurely summer evenings close to the beach. The venue has been renovated in a contemporary style, while its outdoor setting and proximity to the coast create an inviting Mediterranean holiday atmosphere.\n\nThe kitchen focuses on Greek and Mediterranean cuisine, with an emphasis on carefully selected ingredients. The menu features fresh fish and seafood, salads, grilled meats and a variety of Mediterranean dishes, with the restaurant particularly highlighting fresh fish and quality meat selections. The range works equally well for a casual lunch, while the presentation of the dishes and the seaside setting also make SOPHIA an appealing choice for a more leisurely dinner.\n\nSOPHIA is well suited to couples, families and groups of friends looking for a combination of Mediterranean flavours, modern surroundings and easy access to the beach. Outdoor seating and reservations are available, which can be especially useful during the busier summer period.",
+  "descriptionRo": "SOPHIA Mediterranean Restaurant este un restaurant modern, situat foarte aproape de mare în Nea Vrasna, cu o atmosferă luminoasă și relaxată, potrivită atât pentru mesele din timpul zilei, cât și pentru o cină de vară în apropierea plajei. Spațiul a fost renovat într-un stil contemporan, iar terasa și apropierea de coastă îi oferă acea atmosferă mediteraneană potrivită unei vacanțe la mare.\n\nBucătăria este orientată spre preparate grecești și mediteraneene, cu accent pe ingrediente atent selecționate. Meniul include pește proaspăt și fructe de mare, salate, preparate din carne la grătar și alte opțiuni mediteraneene, iar restaurantul își promovează în mod special selecția de pește proaspăt și carne de calitate. Pentru cei care preferă o masă mai casual, oferta este suficient de variată pentru un prânz relaxat, în timp ce prezentarea preparatelor și cadrul de lângă mare îl fac potrivit și pentru o cină mai specială.\n\nSOPHIA este o alegere potrivită pentru cupluri, familii și grupuri de prieteni care caută o combinație între bucătăria mediteraneană, atmosfera modernă și apropierea de plajă. Restaurantul dispune de locuri în aer liber și acceptă rezervări, un avantaj mai ales în perioadele aglomerate ale sezonului estival.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/sophia5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sophia/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway"
+  ],
+  "highlights": [
+    "Great wine list",
+    "Great beer selection"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating"
+  ],
+  "amenities": [],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "mediterranean"
+  ]
+}
