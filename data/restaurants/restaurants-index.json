@@ -7838,5 +7838,37 @@
     "cuisineTypes": [
       "mediterranean"
     ]
+  },
+  {
+    "id": "navagio",
+    "zone": "Olympiada",
+    "beachSlug": "nea-vrasna-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Navagio",
+    "titleRo": "Navagio",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagio/images/navagio-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/navagio/images/navagio-hero.webp",
+    "lat": 40.706995282513596,
+    "lon": 23.702379043018073,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Navagio Beach Bar is a relaxed beachfront venue in Nea Vrasna, designed for long, easy-going days by the sea. Its casual and friendly...",
+    "shortRo": "Navagio Beach Bar este un beach bar relaxat din Nea Vrasna, amplasat chiar lângă plajă și gândit pentru zile lungi petrecute aproape...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
