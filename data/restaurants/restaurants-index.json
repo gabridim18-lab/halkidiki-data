@@ -7930,5 +7930,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "cafe-orama",
+    "zone": "Olympiada",
+    "beachSlug": "nea-vrasna-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "CAFE ORAMA",
+    "titleRo": "CAFE ORAMA",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama-hero.webp",
+    "lat": 40.69882862675508,
+    "lon": 23.69799551474468,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "CAFE ORAMA is a café and beach bar in Nea Vrasna, offering a relaxed place close to the sea from morning coffee through to...",
+    "shortRo": "CAFE ORAMA este un café și beach bar din Nea Vrasna, potrivit pentru cei care caută un loc relaxat aproape de mare, de la cafeaua de...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

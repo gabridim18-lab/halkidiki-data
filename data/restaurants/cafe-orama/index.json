@@ -1,0 +1,185 @@
+{
+  "id": "cafe-orama",
+  "zone": "Olympiada",
+  "beachSlug": "nea-vrasna-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "CAFE ORAMA",
+  "titleRo": "CAFE ORAMA",
+  "displayAddress": "Strymonikou Gulf, Volvi 570 21, Greece",
+  "gpsCoordinates": "40.69882862675508, 23.69799551474468",
+  "lat": 40.69882862675508,
+  "lon": 23.69799551474468,
+  "openingHoursRaw": "Tuesday\n\t\n\n    10 am–1:30 am\n\n\t\nWednesday\n\t\n\n    10 am–1:30 am\n\n\t\nThursday\n\t\n\n    10 am–1:30 am\n\n\t\nFriday\n\t\n\n    10 am–1:30 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    10 am–1:30 am\n\nHours might differ\n\t\nSunday\n\t\n\n    10 am–1:30 am\n\n\t\nMonday\n\t\n\n    10 am–1:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:30",
+      "labelEn": "10:00–01:30",
+      "labelRo": "10:00–01:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:30",
+      "labelEn": "10:00–01:30",
+      "labelRo": "10:00–01:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:30",
+      "labelEn": "10:00–01:30",
+      "labelRo": "10:00–01:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:30",
+      "labelEn": "10:00–01:30",
+      "labelRo": "10:00–01:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:30",
+      "labelEn": "10:00–01:30",
+      "labelRo": "10:00–01:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:30",
+      "labelEn": "10:00–01:30",
+      "labelRo": "10:00–01:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "01:30",
+      "labelEn": "10:00–01:30",
+      "labelRo": "10:00–01:30"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–01:30; Tuesday: 10:00–01:30; Wednesday: 10:00–01:30; Thursday: 10:00–01:30; Friday: 10:00–01:30; Saturday: 10:00–01:30; Sunday: 10:00–01:30",
+  "hoursRo": "Luni: 10:00–01:30; Marți: 10:00–01:30; Miercuri: 10:00–01:30; Joi: 10:00–01:30; Vineri: 10:00–01:30; Sâmbătă: 10:00–01:30; Duminică: 10:00–01:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306972417688",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "CAFE ORAMA is a café and beach bar in Nea Vrasna, offering a relaxed place close to the sea from morning coffee through to late-evening drinks. The venue officially presents itself as a café-beach bar, while its outdoor setting and peaceful atmosphere give it the easy-going character associated with summer days on the Greek coast.\n\nIt is a pleasant choice for a break after the beach, meeting friends or simply slowing down for a while during the evening. Coffee is one of the venue’s main offerings, and its extended opening hours, continuing well past midnight, make ORAMA suitable for both daytime stops and relaxed nights out. Outdoor seating and reservations are available, making it a convenient option for couples, families and groups of friends looking for an informal and laid-back seaside atmosphere.",
+  "descriptionRo": "CAFE ORAMA este un café și beach bar din Nea Vrasna, potrivit pentru cei care caută un loc relaxat aproape de mare, de la cafeaua de dimineață până la o băutură savurată seara târziu. Locația se prezintă oficial ca café-beach bar, iar spațiul în aer liber și atmosfera liniștită îi conferă acel aer simplu și plăcut specific vacanțelor pe litoralul grecesc.\n\nEste o alegere bună pentru o pauză după plajă, o întâlnire cu prietenii sau pentru câteva momente fără grabă în timpul serii. Cafeaua este una dintre principalele opțiuni ale locației, iar programul extins, până după miezul nopții, face ca ORAMA să funcționeze atât ca oprire de zi, cât și ca loc pentru o ieșire relaxată seara. Terasa în aer liber și posibilitatea rezervării completează experiența, fiind potrivită pentru cupluri, familii și grupuri de prieteni care preferă o atmosferă casual, fără formalități.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/cafe-orama4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/cafe-orama/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great tea selection\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great tea selection"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
