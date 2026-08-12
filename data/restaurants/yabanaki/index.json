@@ -1,0 +1,189 @@
+{
+  "id": "yabanaki",
+  "zone": "Olympiada",
+  "beachSlug": "platani-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Yabanaki",
+  "titleRo": "Yabanaki",
+  "displayAddress": "Epar.Od. Stavrou-Neas Chalkidikis, Stavros 570 14, Greece",
+  "gpsCoordinates": "40.66314598355153, 23.71127005978233",
+  "lat": 40.66314598355153,
+  "lon": 23.71127005978233,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–9 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306977709219",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Yabanaki Beach Bar is a relaxed beachfront venue in Stavros, designed for long summer days spent by the sea. Its beach area features sunbeds, umbrellas and comfortable lounging spaces, creating an inviting setting for swimming, sunbathing and taking things at an easy holiday pace. The concept follows an all-day beach-bar style, from morning coffee and hours in the sun to cocktails later in the day.\n\nThe selection combines coffee and refreshing drinks with cocktails and casual food suited to a day at the beach. Options associated with the menu include burgers, tacos, salads and fruit salads, while the drinks selection covers coffee, fresh juices, beer and a broad range of classic cocktails.\n\nYabanaki is an appealing choice for couples, families and groups of friends looking to combine the beach, casual food and drinks in one place. Rather than a formal dining venue, it offers an easy-going summer setting where the sea, music and cocktails are central to the experience.",
+  "descriptionRo": "Yabanaki Beach Bar este un beach bar relaxat din Stavros, amenajat direct pe plajă pentru zile lungi petrecute lângă mare. Zona cu șezlonguri, umbrele și spații de relaxare creează un cadru confortabil pentru plajă, iar atmosfera este casual, estivală și fără formalități. Locația pune accent pe experiența de all-day beach bar, de la cafeaua de dimineață și orele petrecute la soare până la cocktailurile savurate mai târziu în timpul zilei.\n\nOferta combină cafea și băuturi reci cu cocktailuri și preparate casual, potrivite pentru o zi la plajă. Printre opțiunile asociate meniului se regăsesc burgeri, tacos, salate și salate de fructe, iar selecția de băuturi include cafele, sucuri proaspete, bere și numeroase cocktailuri clasice.\n\nYabanaki este o alegere plăcută pentru cupluri, familii și grupuri de prieteni care vor să combine marea cu mâncare casual și băuturi într-un singur loc. Nu este un restaurant formal, ci mai degrabă un spațiu de vacanță în care ritmul zilei rămâne relaxat, iar plaja, muzica și cocktailurile sunt elementele principale ale experienței.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/yabanaki5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yabanaki/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Quick bite\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Brunch\n    Lunch\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Brunch",
+    "Lunch",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "30Euro for 3 sunbeds + umbrella",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
