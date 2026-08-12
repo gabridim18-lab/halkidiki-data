@@ -1,0 +1,201 @@
+{
+  "id": "amalthia",
+  "zone": "Olympiada",
+  "beachSlug": "platani-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Amalthia",
+  "titleRo": "Amalthia",
+  "displayAddress": "Paleologou 115, Stavros 570 14, Greece",
+  "gpsCoordinates": "40.66280596225711, 23.70818942184466",
+  "lat": 40.66280596225711,
+  "lon": 23.70818942184466,
+  "openingHoursRaw": "Wednesday\n\t\n\n    1:30–11 pm\n\n\t\nThursday\n\t\n\n    1:30–11 pm\n\n\t\nFriday\n\t\n\n    1:30–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    1–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    1–11 pm\n\n\t\nMonday\n\t\n\n    1:30–11 pm\n\n\t\nTuesday\n\t\n\n    1:30–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:30",
+      "close": "23:00",
+      "labelEn": "13:30–23:00",
+      "labelRo": "13:30–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:30",
+      "close": "23:00",
+      "labelEn": "13:30–23:00",
+      "labelRo": "13:30–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:30",
+      "close": "23:00",
+      "labelEn": "13:30–23:00",
+      "labelRo": "13:30–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:30",
+      "close": "23:00",
+      "labelEn": "13:30–23:00",
+      "labelRo": "13:30–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:30",
+      "close": "23:00",
+      "labelEn": "13:30–23:00",
+      "labelRo": "13:30–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:00",
+      "labelEn": "13:00–23:00",
+      "labelRo": "13:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 13:30–23:00; Tuesday: 13:30–23:00; Wednesday: 13:30–23:00; Thursday: 13:30–23:00; Friday: 13:30–23:00; Saturday: 13:00–23:00; Sunday: 13:00–23:00",
+  "hoursRo": "Luni: 13:30–23:00; Marți: 13:30–23:00; Miercuri: 13:30–23:00; Joi: 13:30–23:00; Vineri: 13:30–23:00; Sâmbătă: 13:00–23:00; Duminică: 13:00–23:00",
+  "website": "http://amalthia-stavros.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306997261556",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Amalthia Seafood Restaurant is a family-run taverna in Stavros with a strong focus on fresh fish and seafood, offering a peaceful and welcoming setting just a short walk from the beach. The kitchen emphasises seasonal ingredients, locally sourced fish and shellfish, as well as carefully selected meat, while preserving the authentic character of Greek and Mediterranean cuisine.\n\nThe menu features a generous variety of seafood, including fresh fish, prawns, mussels, calamari, grilled octopus and sardines, alongside salads, meat dishes and other Greek specialities. Vegetarian, vegan and gluten-free options are also available, making Amalthia a flexible choice for groups with different dietary preferences.\n\nIts garden and outdoor dining area create a relaxed setting for an unhurried lunch or a warm summer evening meal. Amalthia is particularly well suited to families, couples and groups of friends looking for a genuine Greek taverna experience centred around fresh seafood and seasonal ingredients. During July and August, booking ahead is recommended as the garden can fill up quickly on busy evenings.",
+  "descriptionRo": "Amalthia Seafood Restaurant este o tavernă de familie din Stavros, dedicată în special peștelui proaspăt și fructelor de mare, într-un cadru liniștit și primitor, la doar câteva minute de plajă. Bucătăria pune accent pe ingrediente de sezon, pește și crustacee provenite din surse locale, dar și pe carne atent selecționată, păstrând caracterul autentic al gastronomiei grecești și mediteraneene.\n\nMeniul oferă o varietate generoasă de preparate marine, de la pește proaspăt, creveți, midii și calamari până la caracatiță la grătar și sardine, alături de salate, preparate din carne și alte specialități grecești. Sunt disponibile și opțiuni vegetariene, vegane și fără gluten, ceea ce face restaurantul potrivit pentru grupuri cu preferințe alimentare diferite.\n\nGrădina cu mese în aer liber oferă o atmosferă plăcută și relaxată pentru un prânz fără grabă sau o cină de vară. Amalthia este o alegere foarte potrivită pentru familii, cupluri și grupuri de prieteni care caută o tavernă grecească axată pe produse marine și ingrediente proaspete. În iulie și august, restaurantul recomandă rezervarea în avans, deoarece grădina se poate ocupa rapid în serile aglomerate.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

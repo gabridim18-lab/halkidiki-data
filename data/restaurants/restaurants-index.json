@@ -8428,5 +8428,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "amalthia",
+    "zone": "Olympiada",
+    "beachSlug": "platani-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Amalthia",
+    "titleRo": "Amalthia",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/amalthia/images/amalthia-hero.webp",
+    "lat": 40.66280596225711,
+    "lon": 23.70818942184466,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Amalthia Seafood Restaurant is a family-run taverna in Stavros with a strong focus on fresh fish and seafood, offering a peaceful and...",
+    "shortRo": "Amalthia Seafood Restaurant este o tavernă de familie din Stavros, dedicată în special peștelui proaspăt și fructelor de mare, într-un...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
