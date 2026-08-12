@@ -1,0 +1,155 @@
+{
+  "id": "omega",
+  "zone": "Olympiada",
+  "beachSlug": "stavros-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Omega",
+  "titleRo": "Omega",
+  "displayAddress": "MM9V+X5, Volvi 570 14, Greece",
+  "gpsCoordinates": "40.671323607931534, 23.693449186132785",
+  "lat": 40.671323607931534,
+  "lon": 23.693449186132785,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9 am–8 pm\n\n\t\nThursday\n\t\n\n    9 am–8 pm\n\n\t\nFriday\n\t\n\n    9 am–8 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–8 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–8 pm\n\n\t\nMonday\n\t\n\n    9 am–8 pm\n\n\t\nTuesday\n\t\n\n    9 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "20:00",
+      "labelEn": "09:00–20:00",
+      "labelRo": "09:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–20:00; Tuesday: 09:00–20:00; Wednesday: 09:00–20:00; Thursday: 09:00–20:00; Friday: 09:00–20:00; Saturday: 09:00–20:00; Sunday: 09:00–20:00",
+  "hoursRo": "Luni: 09:00–20:00; Marți: 09:00–20:00; Miercuri: 09:00–20:00; Joi: 09:00–20:00; Vineri: 09:00–20:00; Sâmbătă: 09:00–20:00; Duminică: 09:00–20:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306909187046",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Omega Beach Bar is a beachfront venue on the western side of Stavros Beach, designed for relaxed days by the sea and easy-going summer evenings. The seasonal venue centres its experience around the beach, music, coffee, drinks and cocktails, all within a casual and contemporary setting. Omega particularly highlights its sunset atmosphere, making the evening a great time to enjoy a cocktail and unwind by the sea.\n\nAlongside coffee, cocktails and other refreshments, shisha is also part of the venue’s concept. Omega is especially suited to couples and groups of friends looking for a youthful, laid-back beach-bar atmosphere where a day by the water can naturally continue into the evening with music, drinks and coastal views.",
+  "descriptionRo": "Omega Beach Bar este un beach bar situat pe partea vestică a plajei din Stavros, creat pentru zile relaxate la mare și seri petrecute într-o atmosferă de vară. Locația funcționează sezonier și pune accent pe combinația dintre plajă, muzică, cafea, băuturi și cocktailuri, într-un decor casual și modern. Omega promovează în mod special atmosfera de la apus, când zona de coastă devine cadrul potrivit pentru un cocktail și câteva ore petrecute fără grabă lângă mare.\n\nPe lângă cafea, cocktailuri și alte băuturi, shisha face parte din conceptul locației. Omega este o alegere potrivită pentru cupluri și grupuri de prieteni care caută un beach bar cu o atmosferă mai tânără și relaxată, unde ziua de plajă poate continua natural până spre seară, cu muzică, băuturi și priveliște spre mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/menu3.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Assistive hearing loop\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    On-site services\n\n \n \nAmenities\n\n    Gender-neutral toilets\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    On-site parking",
+  "accessibility": [
+    "Assistive hearing loop",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "On-site services"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [
+    "Gender-neutral toilets"
+  ],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "On-site parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "Free sunbeds with minimum consumption",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

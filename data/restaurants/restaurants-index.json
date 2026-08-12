@@ -8139,5 +8139,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "omega",
+    "zone": "Olympiada",
+    "beachSlug": "stavros-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Omega",
+    "titleRo": "Omega",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/omega/images/omega-hero.webp",
+    "lat": 40.671323607931534,
+    "lon": 23.693449186132785,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Omega Beach Bar is a beachfront venue on the western side of Stavros Beach, designed for relaxed days by the sea and easy-going summer...",
+    "shortRo": "Omega Beach Bar este un beach bar situat pe partea vestică a plajei din Stavros, creat pentru zile relaxate la mare și seri petrecute...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
