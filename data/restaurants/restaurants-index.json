@@ -8226,5 +8226,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "thalassa-beach",
+    "zone": "Olympiada",
+    "beachSlug": "stavros-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Thalassa beach",
+    "titleRo": "Thalassa beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach-hero.webp",
+    "lat": 40.666645049244735,
+    "lon": 23.69573696951819,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Thalassa Beach is a beach bar located on Stavros Beach, offering a relaxed setting where the sea and the easy-going rhythm of summer...",
+    "shortRo": "Thalassa Beach este un beach bar situat pe plaja din Stavros, într-un cadru relaxat, unde marea și atmosfera de vară sunt în centrul...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

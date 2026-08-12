@@ -1,0 +1,176 @@
+{
+  "id": "thalassa-beach",
+  "zone": "Olympiada",
+  "beachSlug": "stavros-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Thalassa beach",
+  "titleRo": "Thalassa beach",
+  "displayAddress": "Stavros 570 14, Greece",
+  "gpsCoordinates": "40.666645049244735, 23.69573696951819",
+  "lat": 40.666645049244735,
+  "lon": 23.69573696951819,
+  "openingHoursRaw": "Wednesday\n\t\n\n    8:30 am–11 pm\n\n\t\nThursday\n\t\n\n    8:30 am–11 pm\n\n\t\nFriday\n\t\n\n    8:30 am–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    8:30 am–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    8:30 am–11 pm\n\n\t\nMonday\n\t\n\n    8:30 am–11 pm\n\n\t\nTuesday\n\t\n\n    8:30 am–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:30",
+      "close": "23:00",
+      "labelEn": "08:30–23:00",
+      "labelRo": "08:30–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:30",
+      "close": "23:00",
+      "labelEn": "08:30–23:00",
+      "labelRo": "08:30–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:30",
+      "close": "23:00",
+      "labelEn": "08:30–23:00",
+      "labelRo": "08:30–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:30",
+      "close": "23:00",
+      "labelEn": "08:30–23:00",
+      "labelRo": "08:30–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:30",
+      "close": "23:00",
+      "labelEn": "08:30–23:00",
+      "labelRo": "08:30–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:30",
+      "close": "23:00",
+      "labelEn": "08:30–23:00",
+      "labelRo": "08:30–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:30",
+      "close": "23:00",
+      "labelEn": "08:30–23:00",
+      "labelRo": "08:30–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:30–23:00; Tuesday: 08:30–23:00; Wednesday: 08:30–23:00; Thursday: 08:30–23:00; Friday: 08:30–23:00; Saturday: 08:30–23:00; Sunday: 08:30–23:00",
+  "hoursRo": "Luni: 08:30–23:00; Marți: 08:30–23:00; Miercuri: 08:30–23:00; Joi: 08:30–23:00; Vineri: 08:30–23:00; Sâmbătă: 08:30–23:00; Duminică: 08:30–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306973247148",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Thalassa Beach is a beach bar located on Stavros Beach, offering a relaxed setting where the sea and the easy-going rhythm of summer are at the heart of the experience. It is well suited to visitors who want to stay close to the water, take a break between swims or simply enjoy an unhurried day by the coast. Its presence as Thalassa Beach Bar in the Stavros area is confirmed by available local sources.\n\nStavros Beach is known for its sandy shoreline, clear water and surrounding greenery, with an organised beach environment that is also suitable for families. In this setting, Thalassa Beach is an inviting choice for couples, families and groups of friends looking for the simple, laid-back atmosphere of a Greek beach bar just steps from the sea.",
+  "descriptionRo": "Thalassa Beach este un beach bar situat pe plaja din Stavros, într-un cadru relaxat, unde marea și atmosfera de vară sunt în centrul experienței. Locația este potrivită pentru cei care vor să petreacă timpul aproape de apă, să facă o pauză între băi sau pur și simplu să se bucure de o zi fără grabă pe litoral. Existența sa ca Thalassa Beach Bar în zona Stavros este confirmată în sursele locale disponibile.\n\nPlaja din Stavros este cunoscută pentru țărmul nisipos, apa limpede și vegetația bogată din apropiere, fiind o plajă organizată și potrivită inclusiv pentru familii. În acest decor, Thalassa Beach este o alegere plăcută pentru cupluri, familii și grupuri de prieteni care caută atmosfera simplă și relaxată a unui beach bar grecesc, cu marea la câțiva pași.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/thalassa-beach6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/thalassa-beach/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Dine-in\n\n \n \nPopular for\n\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Dinner\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Dinner",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
