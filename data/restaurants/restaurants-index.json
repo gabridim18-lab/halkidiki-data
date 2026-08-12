@@ -8340,5 +8340,33 @@
       "family_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "andreas-restaurant",
+    "zone": "Olympiada",
+    "beachSlug": "stavros-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Andreas Restaurant",
+    "titleRo": "Andreas Restaurant",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-restaurant/images/andreas-restaurant-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/andreas-restaurant/images/andreas-restaurant-hero.webp",
+    "lat": 40.66481799195107,
+    "lon": 23.70138773183309,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Andreas Restaurant is a Greek restaurant in Stavros, well suited to visitors looking for a relaxed dinner with a strong focus on fresh...",
+    "shortRo": "Andreas Restaurant este un restaurant grecesc din Stavros, potrivit pentru cei care caută o cină relaxată cu accent pe pește proaspăt,...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
