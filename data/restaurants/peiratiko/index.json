@@ -1,0 +1,191 @@
+{
+  "id": "peiratiko",
+  "zone": "Olympiada",
+  "beachSlug": "stavros-beach",
+  "type": "taverna",
+  "featured": true,
+  "titleEn": "Peiratiko",
+  "titleRo": "Peiratiko",
+  "displayAddress": "Γ. Σεφέρη, Volvi 570 14, Greece",
+  "gpsCoordinates": "40.66976506088111, 23.693040995278658",
+  "lat": 40.66976506088111,
+  "lon": 23.693040995278658,
+  "openingHoursRaw": "Wednesday\n\t\n\n    12 pm–12 am\n\n\t\nThursday\n\t\n\n    12 pm–12 am\n\n\t\nFriday\n\t\n\n    12 pm–12 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    12 pm–12 am\n\nHours might differ\n\t\nSunday\n\t\n\n    12 pm–12 am\n\n\t\nMonday\n\t\n\n    12 pm–12 am\n\n\t\nTuesday\n\t\n\n    12 pm–12 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "00:00",
+      "labelEn": "12:00–00:00",
+      "labelRo": "12:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–00:00; Tuesday: 12:00–00:00; Wednesday: 12:00–00:00; Thursday: 12:00–00:00; Friday: 12:00–00:00; Saturday: 12:00–00:00; Sunday: 12:00–00:00",
+  "hoursRo": "Luni: 12:00–00:00; Marți: 12:00–00:00; Miercuri: 12:00–00:00; Joi: 12:00–00:00; Vineri: 12:00–00:00; Sâmbătă: 12:00–00:00; Duminică: 12:00–00:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Peiratiko is a traditional Greek taverna-ouzeri in Stavros, located close to the sea on the western side of the resort. Its relaxed and authentic Greek atmosphere makes it well suited to an unhurried lunch or a summer dinner centred around fresh fish, seafood and dishes made for sharing.\n\nThe kitchen has a strong focus on fresh fish and seafood. Dishes promoted by the restaurant include fresh sea bream grilled over charcoal, squid stuffed with feta and tomato, shrimp saganaki and seafood pasta, alongside octopus, calamari and other familiar Greek specialities. As a traditional ouzeri, Peiratiko is also a natural place to share a selection of meze over ouzo or wine.\n\nIts seaside location and outdoor seating complete the easy-going coastal atmosphere. Reservations, takeaway and outdoor dining are available, and the venue is also listed as wheelchair accessible. Peiratiko is a good choice for couples, families and groups of friends looking for seafood and traditional Greek flavours in an informal seaside setting.",
+  "descriptionRo": "Peiratiko este o tavernă-ouzeri tradițională din Stavros, situată aproape de mare, pe partea vestică a stațiunii. Atmosfera este relaxată și autentic grecească, potrivită pentru un prânz fără grabă sau pentru o cină de vară în care peștele, fructele de mare și meze-urile sunt în centrul experienței.\n\nBucătăria pune un accent clar pe pește proaspăt și fructe de mare. Printre preparatele promovate de restaurant se numără dorada proaspătă la grătar pe cărbuni, calamarii umpluți cu feta și roșii, creveții saganaki și pastele cu fructe de mare, alături de caracatiță, calamari și alte preparate grecești clasice. Fiind o ouzeri, este și un loc potrivit pentru a împărți mai multe meze la masă, alături de ouzo sau vin.\n\nPoziția lângă mare și mesele în aer liber completează atmosfera de tavernă de litoral. Sunt disponibile rezervări, takeaway și locuri în aer liber, iar locația este indicată ca fiind accesibilă și persoanelor cu mobilitate redusă. Peiratiko este o alegere potrivită pentru cupluri, familii și grupuri de prieteni care caută fructe de mare și bucătărie grecească într-un cadru informal și autentic.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

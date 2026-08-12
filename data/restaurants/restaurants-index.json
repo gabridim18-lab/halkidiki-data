@@ -8168,5 +8168,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "peiratiko",
+    "zone": "Olympiada",
+    "beachSlug": "stavros-beach",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "Peiratiko",
+    "titleRo": "Peiratiko",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/peiratiko/images/peiratiko-hero.webp",
+    "lat": 40.66976506088111,
+    "lon": 23.693040995278658,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Peiratiko is a traditional Greek taverna-ouzeri in Stavros, located close to the sea on the western side of the resort. Its relaxed...",
+    "shortRo": "Peiratiko este o tavernă-ouzeri tradițională din Stavros, situată aproape de mare, pe partea vestică a stațiunii. Atmosfera este...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
