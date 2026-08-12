@@ -1,0 +1,188 @@
+{
+  "id": "sandybay",
+  "zone": "Olympiada",
+  "beachSlug": "stavros-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "SandyBay",
+  "titleRo": "SandyBay",
+  "displayAddress": "Ναυαρίνου, Stavros 570 14, Greece",
+  "gpsCoordinates": "40.67196012220035, 23.693094925723265",
+  "lat": 40.67196012220035,
+  "lon": 23.693094925723265,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9 am–10 pm\n\n\t\nThursday\n\t\n\n    9 am–10 pm\n\n\t\nFriday\n\t\n\n    9 am–10 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–10 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–10 pm\n\n\t\nMonday\n\t\n\n    9 am–10 pm\n\n\t\nTuesday\n\t\n\n    9 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–22:00; Tuesday: 09:00–22:00; Wednesday: 09:00–22:00; Thursday: 09:00–22:00; Friday: 09:00–22:00; Saturday: 09:00–22:00; Sunday: 09:00–22:00",
+  "hoursRo": "Luni: 09:00–22:00; Marți: 09:00–22:00; Miercuri: 09:00–22:00; Joi: 09:00–22:00; Vineri: 09:00–22:00; Sâmbătă: 09:00–22:00; Duminică: 09:00–22:00",
+  "website": "https://goldmenu.goldapp.gr/sandybayseasidebar",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306977075166",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "SandyBay Seaside Bar is a modern beachfront venue in Stavros, designed for a full day of relaxation by the sea. Its beach area features comfortable sunbeds and umbrellas, while natural materials and a calm, contemporary setting create an inviting atmosphere for morning coffee, long hours in the sun or a cocktail later in the day. The venue describes its concept around coffee, cocktails, bites and sunsets, capturing the easy-going rhythm of a summer day on the Greek coast.\n\nThe food selection follows a casual beachside style, with choices such as pizza, wraps and other light meals and snacks, including vegan options. As evening approaches, cocktails and sea views become part of the experience, making SandyBay a pleasant choice for couples, families and groups of friends looking for a comfortable, stylish and laid-back beach bar in Stavros.",
+  "descriptionRo": "SandyBay Seaside Bar este un beach bar modern situat direct pe plaja din Stavros, conceput pentru o zi întreagă de relaxare la malul mării. Spațiul de plajă este amenajat cu șezlonguri confortabile și umbrele, iar decorul cu materiale naturale și atmosfera calmă creează un cadru plăcut pentru cafeaua de dimineață, orele petrecute la soare sau un cocktail spre seară. Locația își definește conceptul prin combinația de cafea, cocktailuri, gustări și apusuri, într-un stil relaxat și contemporan.\n\nOferta de mâncare este orientată spre preparate casual potrivite pentru plajă, cu opțiuni precum pizza, wraps și alte gustări sau preparate ușoare, fiind disponibile și alternative vegane. Pe măsură ce ziua se apropie de seară, cocktailurile și priveliștea spre mare completează atmosfera, făcând din SandyBay o alegere potrivită pentru cupluri, familii și grupuri de prieteni care caută un beach bar confortabil, modern și relaxat în Stavros.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/sandybay4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sandybay/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "20Euro for 2 sunbeds and umbrella",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

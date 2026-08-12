@@ -757,6 +757,7 @@ class App(tk.Tk):
                 "paralia-stavros",
                 "milies-beach",
                 "platani-beach",
+                "stavros-beach",
                 "vrasna-beach",
                 "nea-vrasna-beach"
             ]
