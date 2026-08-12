@@ -8484,5 +8484,30 @@
       "pet_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "maroi",
+    "zone": "Sithonia",
+    "beachSlug": "neos-marmaras-beach",
+    "type": "cocktail_bar",
+    "featured": true,
+    "titleEn": "MARÓI",
+    "titleRo": "MARÓI",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi-hero.webp",
+    "lat": 40.09435748641778,
+    "lon": 23.784582630146193,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "MARÓI Cocktail Bar is an evening cocktail venue in Neos Marmaras where the setting is an important part of the experience. Positioned...",
+    "shortRo": "MARÓI COCKTAIL BAR este un cocktail bar de seară din Neos Marmaras, cu una dintre acele poziții care transformă simpla ieșire la un...",
+    "features": [
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

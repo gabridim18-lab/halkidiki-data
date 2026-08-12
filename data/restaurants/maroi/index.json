@@ -1,0 +1,179 @@
+{
+  "id": "maroi",
+  "zone": "Sithonia",
+  "beachSlug": "neos-marmaras-beach",
+  "type": "cocktail_bar",
+  "featured": true,
+  "titleEn": "MARÓI",
+  "titleRo": "MARÓI",
+  "displayAddress": "3QVM+PR, Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.09435748641778, 23.784582630146193",
+  "lat": 40.09435748641778,
+  "lon": 23.784582630146193,
+  "openingHoursRaw": "Wednesday\n\t\n\n    8 pm–2 am\n\n\t\nThursday\n\t\n\n    8 pm–2 am\n\n\t\nFriday\n\t\n\n    8 pm–2 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    8 pm–2 am\n\nHours might differ\n\t\nSunday\n\t\n\n    8 pm–2 am\n\n\t\nMonday\n\t\n\n    8 pm–2 am\n\n\t\nTuesday\n\t\n\n    8 pm–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "20:00",
+      "close": "02:00",
+      "labelEn": "20:00–02:00",
+      "labelRo": "20:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "20:00",
+      "close": "02:00",
+      "labelEn": "20:00–02:00",
+      "labelRo": "20:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "20:00",
+      "close": "02:00",
+      "labelEn": "20:00–02:00",
+      "labelRo": "20:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "20:00",
+      "close": "02:00",
+      "labelEn": "20:00–02:00",
+      "labelRo": "20:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "20:00",
+      "close": "02:00",
+      "labelEn": "20:00–02:00",
+      "labelRo": "20:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "20:00",
+      "close": "02:00",
+      "labelEn": "20:00–02:00",
+      "labelRo": "20:00–02:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "20:00",
+      "close": "02:00",
+      "labelEn": "20:00–02:00",
+      "labelRo": "20:00–02:00"
+    }
+  ],
+  "hoursEn": "Monday: 20:00–02:00; Tuesday: 20:00–02:00; Wednesday: 20:00–02:00; Thursday: 20:00–02:00; Friday: 20:00–02:00; Saturday: 20:00–02:00; Sunday: 20:00–02:00",
+  "hoursRo": "Luni: 20:00–02:00; Marți: 20:00–02:00; Miercuri: 20:00–02:00; Joi: 20:00–02:00; Vineri: 20:00–02:00; Sâmbătă: 20:00–02:00; Duminică: 20:00–02:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "https://www.instagram.com/maroi.cocktailbar?igsh=MTVxaTg2aW14aDlvbw==",
+  "phone": "+306980394607",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "MARÓI Cocktail Bar is an evening cocktail venue in Neos Marmaras where the setting is an important part of the experience. Positioned directly by the sea, it stands out for its open water views, beautiful sunsets and a pier extending over the blue sea, creating an atmosphere reminiscent of a stylish Greek island bar.\n\nCocktails are at the heart of the concept, with a selection of signature creations and classic drinks, complemented by local wines and charcuterie platters designed for relaxed evening sharing. Shisha is also available, while evening DJs gradually shift the mood from sunset lounge to a livelier nightlife atmosphere.\n\nMARÓI is particularly well suited to couples and groups of friends looking for creative drinks, music and a more stylish night out after sunset. The seaside outdoor area also provides a more relaxed alternative when the music and energy build indoors, while reservations can be useful during busy summer evenings.",
+  "descriptionRo": "MARÓI COCKTAIL BAR este un cocktail bar de seară din Neos Marmaras, cu una dintre acele poziții care transformă simpla ieșire la un pahar într-o experiență de vacanță. Amplasat chiar lângă mare, localul se remarcă prin priveliștea deschisă spre apă, apusurile spectaculoase și pontonul care înaintează deasupra mării, creând o atmosferă ce amintește de barurile insulare grecești.\n\nCocktailurile sunt în centrul conceptului, cu o selecție de signature cocktails și variante clasice, completate de vinuri locale și platouri de charcuterie potrivite pentru o seară relaxată. Este disponibilă și shisha, iar muzica și DJ-ii de seară schimbă treptat atmosfera de la sunset lounge la un loc mai energic pentru socializare și nightlife.\n\nMARÓI este o alegere foarte potrivită pentru cupluri și grupuri de prieteni care caută cocktailuri bine prezentate, muzică și o atmosferă mai sofisticată după apus. Terasa de lângă mare oferă și o alternativă mai liniștită față de zona interioară atunci când muzica și energia serii cresc, iar rezervarea poate fi utilă în nopțile aglomerate de vară.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/maroi5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/maroi/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n\n \n \nService options\n\n    Outdoor seating\n    Delivery\n    Takeaway\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n    Somewhat difficult to find a space",
+  "accessibility": [
+    "Wheelchair-accessible car park"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Somewhat difficult to find a space"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "lounge"
+  ],
+  "features": [
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": []
+}
