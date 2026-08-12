@@ -1,0 +1,117 @@
+{
+  "id": "jasmine",
+  "zone": "Olympiada",
+  "beachSlug": "stavros-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Jasmine",
+  "titleRo": "Jasmine",
+  "displayAddress": "Stavros, Greece",
+  "gpsCoordinates": "40.6670063202396, 23.702171536515873",
+  "lat": 40.6670063202396,
+  "lon": 23.702171536515873,
+  "openingHoursRaw": "Wednesday\n\t\n\n    Open 24 hours\n\n\t\nThursday\n\t\n\n    Open 24 hours\n\n\t\nFriday\n\t\n\n    Open 24 hours\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    Open 24 hours\n\nHours might differ\n\t\nSunday\n\t\n\n    Open 24 hours\n\n\t\nMonday\n\t\n\n    Open 24 hours\n\n\t\nTuesday\n\t\n\n    Open 24 hours",
+  "openingHours": [],
+  "hoursEn": "",
+  "hoursRo": "",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306937032434",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Jasmine Beach is a beach bar and restaurant in Stavros, set directly by the sea and well suited to a relaxed day combining beach time, coffee and casual dining. The venue is closely associated with Jasmine Beach, one of the recognised seaside areas of Stavros, near the local harbour.\n\nThe atmosphere is informal and welcoming, with outdoor seating and the easy-going feel of a classic Greek beach bar. The selection includes coffee, frappes, drinks and light food, with fish sandwiches and other casual dishes among the options frequently associated with the venue. Reservations are also available.\n\nJasmine Beach is a good choice for couples, families and groups of friends looking to combine a day by the sea with coffee, a snack or a relaxed meal without leaving the beachfront setting.",
+  "descriptionRo": "Jasmine Beach este un beach bar-restaurant din Stavros, amplasat chiar lângă mare și potrivit pentru o zi relaxată petrecută între plajă, cafea și o masă casual. Locația este asociată direct cu zona de plajă Jasmine, una dintre porțiunile cunoscute ale litoralului din Stavros, aflată în apropierea portului local.\n\nAtmosfera este informală și prietenoasă, cu mese în aer liber și un stil tipic de beach bar grecesc. Oferta include cafea, frappe, băuturi și preparate ușoare, iar printre opțiunile menționate frecvent apar sandwich-uri cu pește și alte preparate casual potrivite pentru o pauză între orele petrecute la mare. Sunt disponibile și rezervări.\n\nJasmine Beach este o alegere potrivită pentru cupluri, familii și grupuri de prieteni care vor să combine plaja cu o cafea, o gustare sau o masă într-un cadru relaxat, fără să se îndepărteze de coastă.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

@@ -8284,5 +8284,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "jasmine",
+    "zone": "Olympiada",
+    "beachSlug": "stavros-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Jasmine",
+    "titleRo": "Jasmine",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/jasmine/images/jasmine-hero.webp",
+    "lat": 40.6670063202396,
+    "lon": 23.702171536515873,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Jasmine Beach is a beach bar and restaurant in Stavros, set directly by the sea and well suited to a relaxed day combining beach time,...",
+    "shortRo": "Jasmine Beach este un beach bar-restaurant din Stavros, amplasat chiar lângă mare și potrivit pentru o zi relaxată petrecută între...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
