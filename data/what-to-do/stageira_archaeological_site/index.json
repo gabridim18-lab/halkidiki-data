@@ -1,0 +1,30 @@
+{
+  "id": "stageira_archaeological_site",
+  "type": "what_to_do",
+  "beaches": [
+    "Paralia Stavros",
+    "Olympiada Beach",
+    "Proti Ammoudia Beach"
+  ],
+  "titleEn": "Archaeological Site of Stageira",
+  "titleRo": "Sit Arheologic Stageira",
+  "categoryEn": "History",
+  "categoryRo": "Loc Istoric",
+  "address": "Olympiada, Halkidiki 630 75, Greece",
+  "hoursEn": "Open daily 08:00–20:00 (summer); reduced hours in winter",
+  "hoursRo": "Deschis zilnic 08:00–20:00 (vara); program redus iarna",
+  "website": "-",
+  "facebook": "",
+  "coordinates": {
+    "lat": 40.5914415,
+    "lon": 23.7832144
+  },
+  "phone": "+30 23760 22245",
+  "price": "",
+  "descriptionEn": "🏛️ The Archaeological Site of Stageira, located near Olympiada, is the birthplace of the great philosopher Aristotle and one of the most important ancient cities of Halkidiki.\n\n• 🏺 Founded in the 7th century BC by colonists from Andros and Chalkis\n• 🧠 Birthplace of Aristotle, one of the greatest philosophers in history\n• 🧱 Remains of fortification walls, towers, public buildings, and houses\n• 🌊 Set on a peninsula with stunning views over the Aegean Sea\n• 🚶 Ideal for walking while combining history and nature\n\n⭐ A remarkable archaeological site where ancient history, philosophy, and breathtaking coastal scenery come together.",
+  "descriptionRo": "🏛️ Situl Arheologic Stageira, situat lângă Olympiada, este locul de naștere al marelui filosof Aristotel și unul dintre cele mai importante orașe antice din Halkidiki.\n\n• 🏺 Fondat în secolul al VII-lea î.Hr. de coloniști din Andros și Chalkis\n• 🧠 Locul de naștere al lui Aristotel, unul dintre cei mai mari filosofi ai lumii\n• 🧱 Ziduri de fortificație, turnuri, clădiri publice și locuințe antice\n• 🌊 Așezat pe o peninsulă cu priveliști spectaculoase asupra Mării Egee\n• 🚶 Perfect pentru plimbări ce îmbină istoria cu natura\n\n⭐ Un sit arheologic impresionant, unde patrimoniul istoric se împletește armonios cu frumusețea naturală a litoralului.",
+  "images": [
+    "stageira_archaeological_site1.webp",
+    "stageira_archaeological_site2.webp"
+  ]
+}
