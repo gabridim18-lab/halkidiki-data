@@ -8196,5 +8196,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "caffe-ouzeri-jazz",
+    "zone": "Olympiada",
+    "beachSlug": "stavros-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Caffe Ouzeri Jazz",
+    "titleRo": "Caffe Ouzeri Jazz",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/caffe-ouzeri-jazz/images/caffe-ouzeri-jazz-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/caffe-ouzeri-jazz/images/caffe-ouzeri-jazz-hero.webp",
+    "lat": 40.66712931236936,
+    "lon": 23.695043376015178,
+    "rating": 4.4,
+    "price": "$$",
+    "shortEn": "Caffe Ouzeri Jazz is a relaxed café-ouzeri in Stavros, combining the character of a Greek taverna with the informal atmosphere of a...",
+    "shortRo": "Caffe Ouzeri Jazz este un café-ouzeri cu atmosferă relaxată din Stavros, potrivit pentru cei care vor să combine experiența unei...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
