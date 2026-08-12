@@ -1,0 +1,186 @@
+{
+  "id": "favela",
+  "zone": "Olympiada",
+  "beachSlug": "platani-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Favela",
+  "titleRo": "Favela",
+  "displayAddress": "Epar.Od. Stavrou-Neas Chalkidikis, Volvi 570 14, Greece",
+  "gpsCoordinates": "40.66336029934792, 23.708903638007772",
+  "lat": 40.66336029934792,
+  "lon": 23.708903638007772,
+  "openingHoursRaw": "Wednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–9 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "https://plate.gr/viewCatalogues/catalogue/393fea32-a1ac-4c0a-b4d0-08da542d5375",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306943219022",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Favela Beach & Seaside Restro is a modern beachfront venue in Stavros, combining relaxed beach time with the livelier atmosphere of a contemporary beach club. The beach area features sunbeds and lounge-style seating, while the open-air setting, greenery and immediate proximity to the sea create an inviting environment for a full summer day by the water.\n\nThroughout the day, the experience revolves around coffee, refreshments, cocktails, music and casual food, making it easy to move between swimming, relaxing and stopping for something to eat or drink. Favela particularly highlights its cocktails and music-driven atmosphere, which becomes livelier as the day moves into evening.\n\nSelected evenings also feature DJ events and beach parties, allowing the mood to shift from laid-back daytime relaxation to a more energetic night by the sea. Favela is a good choice for couples, families and groups of friends looking for beach comfort, music and a venue where a day by the water can naturally continue with cocktails and summer nightlife after sunset.",
+  "descriptionRo": "Favela Beach & Seaside Restro este un beach bar modern din Stavros, amplasat direct pe coastă și conceput pentru a combina relaxarea pe plajă cu atmosfera mai energică a unui beach club. Zona este amenajată cu șezlonguri și spații lounge, iar decorul în aer liber, vegetația și apropierea imediată de mare creează un cadru plăcut pentru o zi întreagă de vară.\n\nPe parcursul zilei, experiența gravitează în jurul cafelei, băuturilor, cocktailurilor, muzicii și preparatelor casual, astfel încât poți alterna ușor între înot, relaxare și o pauză pentru ceva de mâncare sau de băut. Favela își promovează în mod special cocktailurile și atmosfera muzicală, iar spre seară localul capătă un caracter mai animat.\n\nÎn anumite seri sunt organizate și evenimente sau petreceri cu DJ, ceea ce face ca atmosfera să varieze de la relaxată în timpul zilei la mult mai energică după apus. Favela este o alegere potrivită pentru cupluri, familii și grupuri de prieteni care caută confort pe plajă, muzică și un loc în care ziua la mare poate continua natural cu cocktailuri și distracție seara.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/favela4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/favela/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Free sunbeds with miminum consumption",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "party"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
