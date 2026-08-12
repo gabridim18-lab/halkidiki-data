@@ -1,0 +1,138 @@
+{
+  "id": "stavros-beach",
+  "slug": "stavros-beach",
+  "name": {
+    "en": "Stavros Beach",
+    "ro": "Plaja Stavros"
+  },
+  "zone": "Olympiada",
+  "beachType": {
+    "en": "Long organized sandy beach with shallow clear water",
+    "ro": "Plajă lungă și amenajată cu nisip și apă limpede, puțin adâncă"
+  },
+  "coordinates": {
+    "lat": 40.67083588323015,
+    "lon": 23.693655709357177
+  },
+  "editorChoice": true,
+  "length": 7000,
+  "images": [
+    "stavros-beach.webp",
+    "stavros-beach1.webp",
+    "stavros-beach2.webp"
+  ],
+  "googleMapsLabel": {
+    "en": "Navigate to beach",
+    "ro": "Navighează către plajă"
+  },
+  "quickFacts": {
+    "walkingDistance": {
+      "en": "Easy access from Stavros",
+      "ro": "Acces ușor din Stavros"
+    },
+    "parkingDifficulty": {
+      "en": "Moderate during peak summer hours",
+      "ro": "Moderată în orele aglomerate din sezon"
+    },
+    "noiseLevel": {
+      "en": "Relaxed with livelier organized sections",
+      "ro": "Relaxată, cu zone amenajate mai animate"
+    }
+  },
+  "beachInfo": {
+    "vibe": {
+      "en": "Family-friendly, organized and lively",
+      "ro": "Potrivită pentru familii, amenajată și animată"
+    },
+    "waterEntry": {
+      "en": "Shallow sandy entry with gentle slope",
+      "ro": "Intrare cu nisip, apă puțin adâncă și pantă lină"
+    },
+    "waveLevel": {
+      "en": "Usually calm with occasional light waves",
+      "ro": "De obicei calmă, cu valuri ușoare ocazionale"
+    }
+  },
+  "sand": {
+    "en": "Fine golden sand",
+    "ro": "Nisip fin auriu"
+  },
+  "water": {
+    "averageTemperature": 25,
+    "depth": {
+      "en": "0.3 - 1.5m (gradual entry)",
+      "ro": "0.3 - 1.5m (intrare progresivă)"
+    },
+    "clarity": {
+      "en": "Clear turquoise-blue",
+      "ro": "Limpede, albastru-turcoaz"
+    }
+  },
+  "suitableForChildren": true,
+  "highlights": {
+    "en": [
+      "family",
+      "Hidden gem",
+      "sports",
+      "walking"
+    ],
+    "ro": [
+      "Potrivită pentru familii",
+      "Loc ascuns special",
+      "Sporturi pe plajă",
+      "Promenadă pentru plimbări"
+    ]
+  },
+  "bestTimeToVisit": {
+    "en": "June to September",
+    "ro": "Iunie - Septembrie"
+  },
+  "sunsetView": false,
+  "idealFor": {
+    "en": [
+      "Families",
+      "Children",
+      "Swimming",
+      "Water sports"
+    ],
+    "ro": [
+      "Familii",
+      "Copii",
+      "Înot",
+      "Sporturi nautice"
+    ]
+  },
+  "activities": {
+    "en": [
+      "Swimming",
+      "Water sports",
+      "Beach volleyball",
+      "Beach walking"
+    ],
+    "ro": [
+      "Înot",
+      "Sporturi nautice",
+      "Volei pe plajă",
+      "Plimbări pe plajă"
+    ]
+  },
+  "occupancy": "60-80%",
+  "facilities": {
+    "sunbeds": true,
+    "sunbedPrice": "Varies by beach bar",
+    "towelAllowed": true,
+    "campingAvailable": false,
+    "toiletsAvailable": true,
+    "accessible": true,
+    "parkingAvailable": true
+  },
+  "servicePriceCategory": "$$",
+  "recommendationRating": 4.6,
+  "badge": "Family Friendly",
+  "videos": [],
+  "description": {
+    "en": "Stavros Beach stretches along the Strymonian Gulf beside the seaside town of Stavros in the Municipality of Volvi. The area is known for its long golden sandy coastline, clear blue water and shallow sea entry, creating comfortable conditions for families with children and relaxed swimming.\n\nThe seabed slopes gradually and the water remains relatively shallow close to shore, making this part of the coast particularly popular with families. Morning conditions are often calm, while light waves can occasionally develop later in the day.\n\nStavros combines an organized seaside atmosphere with the natural scenery of the surrounding green hills and forests. Several sections of the coastline offer umbrellas, sunbeds, cafés, beach bars and tavernas, while other stretches provide more open space for visitors who prefer to place their own towel on the sand.\n\nSwimming is the main attraction, but the area also offers opportunities for water sports, beach volleyball, walking along the coast and fishing. The long shoreline gives visitors plenty of room to choose between more active organized sections and quieter areas.\n\nStavros is also a practical destination for a full beach day, with the town, restaurants and other visitor services located close to the waterfront.\n\nWith its shallow water, sandy shore and combination of facilities and natural surroundings, Stavros Beach is an excellent choice for families, couples and travelers looking for a comfortable seaside experience on the Strymonian Gulf.",
+    "ro": "Plaja Stavros se întinde de-a lungul Golfului Strymonian, lângă localitatea de coastă Stavros din municipalitatea Volvi. Zona este cunoscută pentru linia lungă de coastă cu nisip auriu, apa limpede și intrarea lină în mare, oferind condiții confortabile pentru familiile cu copii și pentru înot relaxant.\n\nFundul mării coboară progresiv, iar apa rămâne relativ puțin adâncă în apropierea malului, motiv pentru care această parte a coastei este apreciată în special de familii. Diminețile sunt de obicei calme, iar mai târziu în timpul zilei pot apărea ocazional valuri ușoare.\n\nStavros combină atmosfera unei plaje amenajate cu peisajul natural al dealurilor și pădurilor verzi din împrejurimi. Mai multe sectoare ale coastei oferă umbrele, șezlonguri, cafenele, beach bar-uri și taverne, în timp ce alte porțiuni rămân mai deschise pentru vizitatorii care preferă să stea direct pe nisip cu propriul prosop.\n\nÎnotul este principala activitate, dar zona oferă și posibilități pentru sporturi nautice, volei pe plajă, plimbări de-a lungul coastei și pescuit. Linia lungă a plajei permite alegerea între sectoare amenajate și mai animate sau zone mai liniștite.\n\nStavros este și o destinație practică pentru o zi întreagă la mare, deoarece localitatea, restaurantele și alte servicii pentru vizitatori se află aproape de mal.\n\nPrin apa puțin adâncă, nisipul fin și combinația dintre facilități și natură, Plaja Stavros este o alegere foarte bună pentru familii, cupluri și călătorii care caută o experiență confortabilă la mare în Golful Strymonian."
+  },
+  "blueFlag": false
+}

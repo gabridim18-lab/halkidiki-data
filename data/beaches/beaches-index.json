@@ -3086,5 +3086,21 @@
     "rating": 3.9,
     "waterTemperature": 25,
     "suitableForChildren": true
+  },
+  {
+    "id": "stavros-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Stavros Beach",
+      "ro": "Plaja Stavros"
+    },
+    "previewImage": "stavros-beach.webp",
+    "coordinates": {
+      "lat": 40.67083588323015,
+      "lon": 23.693655709357177
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
   }
 ]
