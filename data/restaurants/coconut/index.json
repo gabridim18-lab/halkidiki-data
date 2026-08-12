@@ -1,0 +1,191 @@
+{
+  "id": "coconut",
+  "zone": "Olympiada",
+  "beachSlug": "platani-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Coconut",
+  "titleRo": "Coconut",
+  "displayAddress": "Paleologou 115, Stavros 570 14, Greece",
+  "gpsCoordinates": "40.664125911046014, 23.706942922113896",
+  "lat": 40.664125911046014,
+  "lon": 23.706942922113896,
+  "openingHoursRaw": "Wednesday\n\t\n\n    8 am–3 am\n\n\t\nThursday\n\t\n\n    8 am–3 am\n\n\t\nFriday\n\t\n\n    8 am–3 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    8 am–3 am\n\nHours might differ\n\t\nSunday\n\t\n\n    8 am–3 am\n\n\t\nMonday\n\t\n\n    8 am–3 am\n\n\t\nTuesday\n\t\n\n    8 am–3 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "03:00",
+      "labelEn": "08:00–03:00",
+      "labelRo": "08:00–03:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "03:00",
+      "labelEn": "08:00–03:00",
+      "labelRo": "08:00–03:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "03:00",
+      "labelEn": "08:00–03:00",
+      "labelRo": "08:00–03:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "03:00",
+      "labelEn": "08:00–03:00",
+      "labelRo": "08:00–03:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "03:00",
+      "labelEn": "08:00–03:00",
+      "labelRo": "08:00–03:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "03:00",
+      "labelEn": "08:00–03:00",
+      "labelRo": "08:00–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "03:00",
+      "labelEn": "08:00–03:00",
+      "labelRo": "08:00–03:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–03:00; Tuesday: 08:00–03:00; Wednesday: 08:00–03:00; Thursday: 08:00–03:00; Friday: 08:00–03:00; Saturday: 08:00–03:00; Sunday: 08:00–03:00",
+  "hoursRo": "Luni: 08:00–03:00; Marți: 08:00–03:00; Miercuri: 08:00–03:00; Joi: 08:00–03:00; Vineri: 08:00–03:00; Sâmbătă: 08:00–03:00; Duminică: 08:00–03:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302397061599",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Coconut Beach – The Lounge Bar is a beachfront lounge bar in Stavros, set directly beside the sea and surrounded by mature plane trees providing generous natural shade, one of the features that gives the venue its distinctive character. The setting combines a beach area with an open-air lounge in a relaxed yet stylish atmosphere, making it suitable for spending several hours here, from morning coffee through to evening drinks.\n\nThroughout the day, Coconut offers coffee, fresh juices, drinks, wine and casual food, all served in a comfortable seaside setting. The beach area and naturally shaded spaces make it easy to alternate between swimming, relaxing and stopping for food or refreshments without leaving the waterfront.\n\nAs evening approaches, the atmosphere becomes livelier, with cocktails and music turning Coconut into an inviting place for socialising and enjoying a summer night by the water. It is an appealing choice for couples, families and groups of friends looking for more than a simple beach bar: natural shade, the sea, lounge-style surroundings, drinks and an easy-going atmosphere that continues well into the evening.",
+  "descriptionRo": "Coconut Beach – The Lounge Bar este un beach lounge bar din Stavros, amplasat chiar lângă mare și înconjurat de platani maturi care oferă umbră naturală generoasă, unul dintre elementele care dau locației atmosfera sa aparte. Spațiul combină zona de plajă cu un lounge în aer liber, amenajat într-un stil relaxat și elegant, fiind potrivit pentru a petrece aici mai multe ore, de la cafeaua de dimineață până la băuturile de seară.\n\nPe parcursul zilei, Coconut oferă cafea, sucuri proaspete, băuturi, vin și preparate casual, într-un cadru confortabil cu vedere spre mare. Zona de plajă și spațiile umbrite permit alternarea între înot, relaxare și o pauză pentru ceva de mâncare sau de băut, fără să fie nevoie să părăsești litoralul.\n\nSpre seară, atmosfera devine mai animată, iar cocktailurile și muzica transformă Coconut într-un loc potrivit pentru socializare și seri de vară lângă apă. Este o alegere atractivă pentru cupluri, familii și grupuri de prieteni care caută mai mult decât un simplu beach bar: umbră naturală, mare, lounge, băuturi și o atmosferă relaxată care continuă până târziu.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

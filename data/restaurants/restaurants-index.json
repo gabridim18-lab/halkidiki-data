@@ -8368,5 +8368,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "coconut",
+    "zone": "Olympiada",
+    "beachSlug": "platani-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Coconut",
+    "titleRo": "Coconut",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coconut/images/coconut-hero.webp",
+    "lat": 40.664125911046014,
+    "lon": 23.706942922113896,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Coconut Beach – The Lounge Bar is a beachfront lounge bar in Stavros, set directly beside the sea and surrounded by mature plane trees...",
+    "shortRo": "Coconut Beach – The Lounge Bar este un beach lounge bar din Stavros, amplasat chiar lângă mare și înconjurat de platani maturi care...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
