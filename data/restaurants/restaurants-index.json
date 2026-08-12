@@ -8314,5 +8314,31 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "coachella-beach-bar",
+    "zone": "Olympiada",
+    "beachSlug": "stavros-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Coachella Beach Bar",
+    "titleRo": "Coachella Beach Bar",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coachella-beach-bar/images/coachella-beach-bar-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/coachella-beach-bar/images/coachella-beach-bar-hero.webp",
+    "lat": 40.666391198299664,
+    "lon": 23.702136622112107,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Coachella Beach Bar is a relaxed beachfront venue in Stavros, well suited to a full day by the sea, from morning coffee to a light...",
+    "shortRo": "Coachella Beach Bar este un beach bar relaxat din Stavros, potrivit pentru o zi petrecută aproape de mare, de la cafeaua de dimineață...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]
