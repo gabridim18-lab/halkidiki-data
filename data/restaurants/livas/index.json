@@ -1,0 +1,188 @@
+{
+  "id": "livas",
+  "zone": "Sithonia",
+  "beachSlug": "neos-marmaras-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Livas",
+  "titleRo": "Livas",
+  "displayAddress": "Karra, Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.087023334836594, 23.792663845772484",
+  "lat": 40.087023334836594,
+  "lon": 23.792663845772484,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–10 pm\n\n\t\nFriday\n\t\n\n    9 am–10 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–10 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–10 pm\n\n\t\nMonday\n\t\n\n    9 am–10 pm\n\n\t\nTuesday\n\t\n\n    9 am–10 pm\n\n\t\nWednesday\n\t\n\n    9 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–22:00; Tuesday: 09:00–22:00; Wednesday: 09:00–22:00; Thursday: 09:00–22:00; Friday: 09:00–22:00; Saturday: 09:00–22:00; Sunday: 09:00–22:00",
+  "hoursRo": "Luni: 09:00–22:00; Marți: 09:00–22:00; Miercuri: 09:00–22:00; Joi: 09:00–22:00; Vineri: 09:00–22:00; Sâmbătă: 09:00–22:00; Duminică: 09:00–22:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/LivasBeachBar/",
+  "instagram": "",
+  "phone": "+30 694 537 1221",
+  "price": "$$",
+  "rating": 4.2,
+  "descriptionEn": "Livas Beach Bar is one of the long-established beach bars in Neos Marmaras, located directly on the town beach and known for its laid-back atmosphere, summer music and open sea views. It is an inviting place to spend several hours by the water, from morning coffee through to cocktails around sunset, all in an informal and friendly seaside setting.\n\nThe selection includes coffee, cocktails, refreshing drinks and casual beach food, with snack options such as burgers, wraps, crispy calamari, spring rolls and truffle fries. Sandwiches, salads and other light dishes are also available, making it easy to enjoy an informal lunch between swims.\n\nThe beach area features sunbeds and umbrellas, while a beach-volleyball court nearby adds to the active and sociable summer atmosphere. Livas is a good choice for couples, families and groups of friends looking for an established beach bar with casual food, cocktails and an easy-going atmosphere on the shores of Neos Marmaras.",
+  "descriptionRo": "Livas Beach Bar este unul dintre beach barurile cu tradiție din Neos Marmaras, amplasat direct pe plaja localității și cunoscut pentru atmosfera relaxată, muzica de vară și priveliștea spre mare. Este un loc potrivit pentru a petrece mai multe ore pe plajă, de la cafeaua de dimineață până la cocktailurile savurate spre apus, într-un cadru informal și prietenos.\n\nOferta include cafea, cocktailuri, băuturi răcoritoare și preparate casual de plajă, iar meniul de gustări cuprinde opțiuni precum burgeri, wraps, calamari crocanți, spring rolls și cartofi cu trufe. Sunt disponibile și sandwich-uri, salate și alte preparate ușoare, potrivite pentru un prânz fără formalități între două reprize de înot.\n\nZona este amenajată cu șezlonguri și umbrele, iar în apropierea barului există și un teren de beach volley, element care contribuie la atmosfera activă și sociabilă a locului. Livas este o alegere potrivită pentru cupluri, familii și grupuri de prieteni care caută un beach bar autentic, cu mâncare casual, cocktailuri și o atmosferă plăcută pe una dintre plajele din Neos Marmaras.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n\n \n \nService options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€5 per person for every 3 hours",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

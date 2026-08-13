@@ -8655,5 +8655,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "livas",
+    "zone": "Sithonia",
+    "beachSlug": "neos-marmaras-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Livas",
+    "titleRo": "Livas",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/livas/images/livas-hero.webp",
+    "lat": 40.087023334836594,
+    "lon": 23.792663845772484,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "Livas Beach Bar is one of the long-established beach bars in Neos Marmaras, located directly on the town beach and known for its...",
+    "shortRo": "Livas Beach Bar este unul dintre beach barurile cu tradiție din Neos Marmaras, amplasat direct pe plaja localității și cunoscut pentru...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
