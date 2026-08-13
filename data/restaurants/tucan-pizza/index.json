@@ -1,0 +1,222 @@
+{
+  "id": "tucan-pizza",
+  "zone": "Sithonia",
+  "beachSlug": "neos-marmaras-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Tucan Pizza",
+  "titleRo": "Tucan Pizza",
+  "displayAddress": "Neos Marmaras - Pefkochori, Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.08918657550945, 23.794347333542525",
+  "lat": 40.08918657550945,
+  "lon": 23.794347333542525,
+  "openingHoursRaw": "Thursday\n\t\n\n    11 am–2 am\n\n\t\nFriday\n\t\n\n    11 am–2 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    11 am–4 am\n\nHours might differ\n\t\nSunday\n\t\n\n    11 am–12 am\n\n\t\nMonday\n\t\n\n    11 am–2 am\n\n\t\nTuesday\n\t\n\n    11 am–2 am\n\n\t\nWednesday\n\t\n\n    11 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "11:00",
+      "close": "02:00",
+      "labelEn": "11:00–02:00",
+      "labelRo": "11:00–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "11:00",
+      "close": "02:00",
+      "labelEn": "11:00–02:00",
+      "labelRo": "11:00–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "11:00",
+      "close": "02:00",
+      "labelEn": "11:00–02:00",
+      "labelRo": "11:00–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "11:00",
+      "close": "02:00",
+      "labelEn": "11:00–02:00",
+      "labelRo": "11:00–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "11:00",
+      "close": "02:00",
+      "labelEn": "11:00–02:00",
+      "labelRo": "11:00–02:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "11:00",
+      "close": "04:00",
+      "labelEn": "11:00–04:00",
+      "labelRo": "11:00–04:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "11:00",
+      "close": "00:00",
+      "labelEn": "11:00–00:00",
+      "labelRo": "11:00–00:00"
+    }
+  ],
+  "hoursEn": "Monday: 11:00–02:00; Tuesday: 11:00–02:00; Wednesday: 11:00–02:00; Thursday: 11:00–02:00; Friday: 11:00–02:00; Saturday: 11:00–04:00; Sunday: 11:00–00:00",
+  "hoursRo": "Luni: 11:00–02:00; Marți: 11:00–02:00; Miercuri: 11:00–02:00; Joi: 11:00–02:00; Vineri: 11:00–02:00; Sâmbătă: 11:00–04:00; Duminică: 11:00–00:00",
+  "website": "",
+  "facebook": "https://www.facebook.com/laverapizzeria2004",
+  "instagram": "",
+  "phone": "+302375072024",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Tucan Pizza Bar Restaurant is an Italian and Mediterranean-inspired restaurant in Neos Marmaras, offering a modern and welcoming atmosphere suited to both relaxed family meals and livelier evenings with friends. The venue operates throughout the year, while the summer season also brings Greek live-music nights.\n\nPizza is one of the restaurant’s main specialities and is baked in a wood-fired oven, with extra-large 50 cm options also available. The menu goes well beyond pizza, featuring pasta, Mediterranean dishes, grilled meats, prawns, calamari, octopus, salads and appetisers, complemented by wines, beer and cocktails. Vegan choices are available, and a recent local food feature also highlights 48-hour fermented pizza dough and gluten-free options.\n\nA particularly useful feature for families is the dedicated children’s play area, which operates during selected hours with supervision, allowing parents to enjoy their meal more comfortably. Tucan is therefore a versatile choice for families, couples and groups of friends, bringing together pizza, Mediterranean cooking, cocktails and a lively musical atmosphere in one venue.",
+  "descriptionRo": "Tucan Pizza Bar Restaurant este un restaurant cu influențe italiene și mediteraneene din Neos Marmaras, cu o atmosferă modernă și prietenoasă, potrivit atât pentru o masă relaxată în familie, cât și pentru o seară mai animată cu prietenii. Locația funcționează pe tot parcursul anului, iar în lunile de vară organizează și seri cu muzică live grecească.\n\nPizza este una dintre specialitățile casei și este coaptă în cuptor cu lemne, fiind disponibile inclusiv variante foarte mari, de 50 cm. Meniul merge însă mult dincolo de pizza și include paste, preparate mediteraneene, carne la grătar, creveți, calamari, caracatiță, salate și aperitive, alături de vinuri, bere și cocktailuri. Sunt disponibile și opțiuni vegane, iar o sursă gastronomică recentă menționează inclusiv pizza cu aluat maturat 48 de ore și alternative fără gluten.\n\nUn avantaj important pentru familii este zona special amenajată pentru copii, care funcționează în anumite intervale și beneficiază de supraveghere, permițând părinților să se bucure mai liniștiți de masă. Tucan este astfel o alegere foarte versatilă pentru familii, cupluri și grupuri de prieteni, combinând pizza, bucătăria mediteraneană, cocktailurile și atmosfera muzicală într-un singur loc.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nFrom the business\n\n    Identifies as women-owned\n\n \n \nService options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n    Live music\n\n \n \nPopular for\n\n    Breakfast\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Private dining room\n    Quick bite\n    Small plates\n    Spirits\n    Vegan options\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dinner\n    Catering\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Dinner reservations recommended\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    Good for kids birthday\n    High chairs\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet",
+    "From the business",
+    "Identifies as women-owned"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list",
+    "Live music"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Private dining room",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegan options",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Dinner reservations recommended",
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "Good for kids birthday",
+    "High chairs",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "live_music"
+  ],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly",
+    "events"
+  ],
+  "cuisineTypes": [
+    "mediterranean",
+    "pizza"
+  ]
+}

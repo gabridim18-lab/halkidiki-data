@@ -8596,5 +8596,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "tucan-pizza",
+    "zone": "Sithonia",
+    "beachSlug": "neos-marmaras-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Tucan Pizza",
+    "titleRo": "Tucan Pizza",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/tucan-pizza/images/tucan-pizza-hero.webp",
+    "lat": 40.08918657550945,
+    "lon": 23.794347333542525,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Tucan Pizza Bar Restaurant is an Italian and Mediterranean-inspired restaurant in Neos Marmaras, offering a modern and welcoming...",
+    "shortRo": "Tucan Pizza Bar Restaurant este un restaurant cu influențe italiene și mediteraneene din Neos Marmaras, cu o atmosferă modernă și...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly",
+      "events"
+    ],
+    "cuisineTypes": [
+      "mediterranean",
+      "pizza"
+    ]
   }
 ]
