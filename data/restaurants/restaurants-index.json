@@ -8626,5 +8626,34 @@
       "mediterranean",
       "pizza"
     ]
+  },
+  {
+    "id": "anna-maria",
+    "zone": "Sithonia",
+    "beachSlug": "neos-marmaras-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Anna Maria",
+    "titleRo": "Anna Maria",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria-hero.webp",
+    "lat": 40.08789405742028,
+    "lon": 23.7924021879674,
+    "rating": 3.9,
+    "price": "$$",
+    "shortEn": "Anna Maria Beach Bar & Cocktail Bar is a relaxed beachfront venue in Neos Marmaras, ideal for visitors who want to combine time by the...",
+    "shortRo": "Anna Maria Beach Bar & Cocktail Bar este un beach bar relaxat din Neos Marmaras, amplasat chiar lângă mare și potrivit pentru cei care...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

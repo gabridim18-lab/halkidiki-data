@@ -1,0 +1,189 @@
+{
+  "id": "anna-maria",
+  "zone": "Sithonia",
+  "beachSlug": "neos-marmaras-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Anna Maria",
+  "titleRo": "Anna Maria",
+  "displayAddress": "Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.08789405742028, 23.7924021879674",
+  "lat": 40.08789405742028,
+  "lon": 23.7924021879674,
+  "openingHoursRaw": "Thursday\n\t\n\n    9 am–9 pm\n\n\t\nFriday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–9 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306994231423",
+  "price": "$$",
+  "rating": 3.9,
+  "descriptionEn": "Anna Maria Beach Bar & Cocktail Bar is a relaxed beachfront venue in Neos Marmaras, ideal for visitors who want to combine time by the sea with coffee, a refreshing drink or a cocktail without leaving the beach area. The venue operates as a beach and cocktail bar, with outdoor seating and an easy-going atmosphere suited to summer days in Sithonia.\n\nThe selection focuses mainly on coffee and drinks, with espresso, cappuccino, wine and cocktails such as mojitos among the options mentioned, together with choices suitable for a casual lunch break. Its beachfront setting makes it easy to move from swimming and sunbathing to a quieter moment with a drink close to the water. Reservations are also available, which can be useful during the busier summer period.\n\nAnna Maria is a pleasant choice for couples, families and groups of friends looking for a simple, laid-back beach-bar experience centred around the sea, refreshments and an easy summer atmosphere rather than the style of a large, upscale beach club.",
+  "descriptionRo": "Anna Maria Beach Bar & Cocktail Bar este un beach bar relaxat din Neos Marmaras, amplasat chiar lângă mare și potrivit pentru cei care vor să combine plaja cu o cafea, o băutură rece sau un cocktail fără să se îndepărteze de apă. Locația funcționează ca beach & cocktail bar, cu spații de servire în aer liber și o atmosferă casual, specifică zilelor de vară din Sithonia.\n\nOferta pune accent pe cafea și băuturi, fiind menționate espresso, cappuccino, vin și cocktailuri precum mojito, alături de opțiuni pentru o pauză de prânz. Poziția pe plajă permite trecerea naturală de la orele petrecute la soare și înot la momente mai liniștite cu o băutură în apropierea mării. Sunt disponibile și rezervări, utile mai ales în perioadele aglomerate ale sezonului estival.\n\nAnna Maria este o alegere potrivită pentru cupluri, familii și grupuri de prieteni care caută un beach bar simplu și relaxat, mai degrabă pentru confort, mare și atmosfera de vacanță decât pentru experiența unui beach club sofisticat.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/anna-maria5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/anna-maria/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Delivery\n    Drive-through\n    On-site services\n    Takeaway\n    Dine-in\n\n \n \nOfferings\n\n    Alcohol\n    Arcade games\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Food at bar\n    Happy-hour drinks\n    Happy-hour food\n    Private dining room\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Drive-through",
+    "On-site services",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Arcade games",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Food at bar",
+    "Happy-hour drinks",
+    "Happy-hour food",
+    "Private dining room",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "20€ per set",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
