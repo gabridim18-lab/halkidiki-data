@@ -8564,5 +8564,37 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "astri",
+    "zone": "Sithonia",
+    "beachSlug": "neos-marmaras-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Astri",
+    "titleRo": "Astri",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astri/images/astri-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astri/images/astri-hero.webp",
+    "lat": 40.088306687062776,
+    "lon": 23.792332695477498,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Astri Beach Bar Restaurant is an all-day beachfront venue in Neos Marmaras, combining a day by the sea with coffee, food and drinks...",
+    "shortRo": "Astri Beach Bar Restaurant este o locație all-day situată direct pe plaja din Neos Marmaras, unde poți combina o zi la mare cu cafea,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
