@@ -8534,5 +8534,35 @@
       "family_friendly"
     ],
     "cuisineTypes": []
+  },
+  {
+    "id": "deep-blue-beach",
+    "zone": "Sithonia",
+    "beachSlug": "neos-marmaras-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Deep Blue Beach",
+    "titleRo": "Deep Blue Beach",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach-hero.webp",
+    "lat": 40.08861038247017,
+    "lon": 23.792499599502133,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Deep Blue Beach Bar is a relaxed beachfront venue in Neos Marmaras, ideal for visitors who want to spend an entire day close to the...",
+    "shortRo": "Deep Blue Beach Bar este un beach bar relaxat situat direct pe plaja din Neos Marmaras, potrivit pentru cei care vor să petreacă o zi...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

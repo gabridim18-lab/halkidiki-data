@@ -1,0 +1,182 @@
+{
+  "id": "deep-blue-beach",
+  "zone": "Sithonia",
+  "beachSlug": "neos-marmaras-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Deep Blue Beach",
+  "titleRo": "Deep Blue Beach",
+  "displayAddress": "Kampos Grigoriou, Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.08861038247017, 23.792499599502133",
+  "lat": 40.08861038247017,
+  "lon": 23.792499599502133,
+  "openingHoursRaw": "Thursday\n\t\n\n    8:30 am–9 pm\n\n\t\nFriday\n\t\n\n    8:30 am–9 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    8:30 am–9 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    8:30 am–9 pm\n\n\t\nMonday\n\t\n\n    8:30 am–9 pm\n\n\t\nTuesday\n\t\n\n    8:30 am–9 pm\n\n\t\nWednesday\n\t\n\n    8:30 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:30",
+      "close": "21:00",
+      "labelEn": "08:30–21:00",
+      "labelRo": "08:30–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:30",
+      "close": "21:00",
+      "labelEn": "08:30–21:00",
+      "labelRo": "08:30–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:30",
+      "close": "21:00",
+      "labelEn": "08:30–21:00",
+      "labelRo": "08:30–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:30",
+      "close": "21:00",
+      "labelEn": "08:30–21:00",
+      "labelRo": "08:30–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:30",
+      "close": "21:00",
+      "labelEn": "08:30–21:00",
+      "labelRo": "08:30–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:30",
+      "close": "21:00",
+      "labelEn": "08:30–21:00",
+      "labelRo": "08:30–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:30",
+      "close": "21:00",
+      "labelEn": "08:30–21:00",
+      "labelRo": "08:30–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:30–21:00; Tuesday: 08:30–21:00; Wednesday: 08:30–21:00; Thursday: 08:30–21:00; Friday: 08:30–21:00; Saturday: 08:30–21:00; Sunday: 08:30–21:00",
+  "hoursRo": "Luni: 08:30–21:00; Marți: 08:30–21:00; Miercuri: 08:30–21:00; Joi: 08:30–21:00; Vineri: 08:30–21:00; Sâmbătă: 08:30–21:00; Duminică: 08:30–21:00",
+  "website": "",
+  "facebook": "https://m.facebook.com/deepbluegreece/",
+  "instagram": "",
+  "phone": "+30 2375 072745",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Deep Blue Beach Bar is a relaxed beachfront venue in Neos Marmaras, ideal for visitors who want to spend an entire day close to the sea. The venue combines sunbeds and umbrellas with beachside food and drink service, in an informal setting overlooking the waters of the Toroneos Gulf.\n\nThe selection follows a casual beach-bar style, with coffee, refreshing drinks, beer, cocktails and light food or snacks suited to a day by the water. Service extends to the beach area, making it easy to move between swimming, relaxing and stopping for something to eat or drink without leaving the seaside setting.\n\nDeep Blue is a good choice for couples, families and groups of friends who prefer a laid-back and uncomplicated beach bar rather than a loud beach-club atmosphere. This stretch of Neos Marmaras Beach is known for clear water and a gentle entry into the sea, adding to its appeal for relaxed family beach days.",
+  "descriptionRo": "Deep Blue Beach Bar este un beach bar relaxat situat direct pe plaja din Neos Marmaras, potrivit pentru cei care vor să petreacă o zi întreagă aproape de mare. Locația combină șezlongurile și umbrelele de pe plajă cu serviciul de bar și mâncare, într-un cadru informal, cu vedere deschisă spre apele Golfului Toroneos.\n\nOferta este orientată spre stilul casual de beach bar, cu cafea, băuturi răcoritoare, bere, cocktailuri și preparate rapide sau gustări potrivite pentru timpul petrecut la plajă. Servirea se face și în zona șezlongurilor, astfel încât poți alterna ușor între înot, relaxare și o pauză pentru ceva de mâncare sau de băut.\n\nDeep Blue este potrivit pentru cupluri, familii și grupuri de prieteni care preferă un beach bar liniștit și nepretențios, mai degrabă orientat spre relaxare decât spre atmosfera unui beach club zgomotos. Plaja din această parte a Neos Marmaras are apă limpede și intrare lină în mare, ceea ce o face plăcută și pentru zilele petrecute în familie.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/deep-blue-beach3.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/deep-blue-beach/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    On-site services\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€10 for two sunbeds",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
