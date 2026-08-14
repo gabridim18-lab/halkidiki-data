@@ -9096,5 +9096,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "ble-akrogiali",
+    "zone": "Olympiada",
+    "beachSlug": "milies-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Ble Akrogiali",
+    "titleRo": "Ble Akrogiali",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali-hero.webp",
+    "lat": 40.66190082576069,
+    "lon": 23.720334264681874,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Ble Akrogiali Beach Bar & Restaurant is an all-day seaside venue in the Milies area near Stavros, combining a beach bar, restaurant...",
+    "shortRo": "Ble Akrogiali Beach Bar & Restaurant este o locație all-day din zona Milies, aproape de Stavros, care combină plaja, restaurantul și...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

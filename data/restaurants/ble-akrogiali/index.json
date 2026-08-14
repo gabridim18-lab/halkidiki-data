@@ -1,0 +1,217 @@
+{
+  "id": "ble-akrogiali",
+  "zone": "Olympiada",
+  "beachSlug": "milies-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Ble Akrogiali",
+  "titleRo": "Ble Akrogiali",
+  "displayAddress": "Epar.Od. Stavrou-Neas Chalkidikis, Milies 570 14, Greece",
+  "gpsCoordinates": "40.66190082576069, 23.720334264681874",
+  "lat": 40.66190082576069,
+  "lon": 23.720334264681874,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–10 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–10 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–10 pm\n\n\t\nMonday\n\t\n\n    9 am–10 pm\n\n\t\nTuesday\n\t\n\n    9 am–10 pm\n\n\t\nWednesday\n\t\n\n    9 am–10 pm\n\n\t\nThursday\n\t\n\n    9 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–22:00; Tuesday: 09:00–22:00; Wednesday: 09:00–22:00; Thursday: 09:00–22:00; Friday: 09:00–22:00; Saturday: 09:00–22:00; Sunday: 09:00–22:00",
+  "hoursRo": "Luni: 09:00–22:00; Marți: 09:00–22:00; Miercuri: 09:00–22:00; Joi: 09:00–22:00; Vineri: 09:00–22:00; Sâmbătă: 09:00–22:00; Duminică: 09:00–22:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302397061591",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Ble Akrogiali Beach Bar & Restaurant is an all-day seaside venue in the Milies area near Stavros, combining a beach bar, restaurant and café in a peaceful setting right by the sea. Its relaxed atmosphere works well for a full day on the coast, from morning coffee and beach time to lunch or dinner overlooking the water. The venue centres its concept around local food and easy-going seaside dining.\n\nThe menu focuses on Greek and Mediterranean flavours, with fish and seafood, Greek salads, meat dishes, burgers and other casual choices, complemented by coffee and drinks. The beach area also features sunbeds, making it easy to combine swimming and relaxing with food and refreshments without leaving the waterfront.\n\nBle Akrogiali is a pleasant choice for families, couples and groups of friends looking for a calmer and more natural seaside atmosphere away from the busier centre of Stavros. Open-air dining, sea views and the peaceful character of the Milies area make it equally suitable for a relaxed beach day or an unhurried meal beside the water.",
+  "descriptionRo": "Ble Akrogiali Beach Bar & Restaurant este o locație all-day din zona Milies, aproape de Stavros, care combină plaja, restaurantul și cafeneaua într-un cadru liniștit, chiar lângă mare. Atmosfera este relaxată și potrivită pentru o zi întreagă pe coastă: cafea dimineața, câteva ore la plajă, apoi prânz sau cină cu vedere spre apă. Locația își promovează conceptul în jurul gastronomiei locale și al experienței de seaside dining.\n\nMeniul pune accent pe bucătăria grecească și mediteraneană, cu pește și fructe de mare, salate grecești, preparate din carne, burgeri și alte opțiuni casual, alături de cafea și băuturi. Zona de plajă dispune de șezlonguri, astfel încât masa și timpul petrecut la mare pot fi combinate ușor în aceeași locație.\n\nBle Akrogiali este o alegere potrivită pentru familii, cupluri și grupuri de prieteni care preferă o atmosferă mai calmă și naturală, departe de agitația centrului din Stavros. Priveliștea spre mare, mesele în aer liber și caracterul relaxat al zonei Milies îl fac potrivit atât pentru o zi liniștită de plajă, cât și pentru o masă fără grabă la malul mării.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/ble-akrogiali5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ble-akrogiali/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Breakfast\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Quick bite\n    Salad bar\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dinner\n    Catering\n    Counter service\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Gender-neutral toilets\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Quick bite",
+    "Salad bar",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Counter service",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Gender-neutral toilets",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
