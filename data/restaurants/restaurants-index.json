@@ -9006,5 +9006,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "3-generations",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-toroni",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "3 Generations",
+    "titleRo": "3 Generations",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-generations/images/3-generations-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/3-generations/images/3-generations-hero.webp",
+    "lat": 39.98244823159671,
+    "lon": 23.90486784284819,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "3 Generations (3 ΓΕΝΙΕΣ) is a traditional Greek taverna and fish restaurant in Toroni, ideal for visitors looking for an informal and...",
+    "shortRo": "3 Generations (3 ΓΕΝΙΕΣ) este o tavernă grecească și pescărească din Toroni, potrivită pentru cei care caută o masă tradițională, fără...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
