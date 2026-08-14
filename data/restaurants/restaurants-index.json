@@ -8891,5 +8891,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "dark-paradise",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-toroni",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Dark Paradise",
+    "titleRo": "Dark Paradise",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise-hero.webp",
+    "lat": 39.99026700404304,
+    "lon": 23.8950059939748,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Dark Paradise is a relaxed beach bar in Toroni, set directly on the beach and well suited to visitors looking for a peaceful day by...",
+    "shortRo": "Dark Paradise este un beach bar relaxat din Toroni, amplasat direct pe plajă și potrivit pentru cei care caută o zi liniștită la mare,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": []
   }
 ]

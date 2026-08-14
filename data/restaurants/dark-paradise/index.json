@@ -1,0 +1,189 @@
+{
+  "id": "dark-paradise",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-toroni",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Dark Paradise",
+  "titleRo": "Dark Paradise",
+  "displayAddress": "Toroni 630 72, Greece",
+  "gpsCoordinates": "39.99026700404304, 23.8950059939748",
+  "lat": 39.99026700404304,
+  "lon": 23.8950059939748,
+  "openingHoursRaw": "Friday\n\t\n\n    10 am–9:30 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    10 am–9:30 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    10 am–9:30 pm\n\n\t\nMonday\n\t\n\n    10 am–9:30 pm\n\n\t\nTuesday\n\t\n\n    10 am–9:30 pm\n\n\t\nWednesday\n\t\n\n    10 am–9:30 pm\n\n\t\nThursday\n\t\n\n    10 am–9:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:30",
+      "labelEn": "10:00–21:30",
+      "labelRo": "10:00–21:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:30",
+      "labelEn": "10:00–21:30",
+      "labelRo": "10:00–21:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:30",
+      "labelEn": "10:00–21:30",
+      "labelRo": "10:00–21:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:30",
+      "labelEn": "10:00–21:30",
+      "labelRo": "10:00–21:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:30",
+      "labelEn": "10:00–21:30",
+      "labelRo": "10:00–21:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:30",
+      "labelEn": "10:00–21:30",
+      "labelRo": "10:00–21:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "10:00",
+      "close": "21:30",
+      "labelEn": "10:00–21:30",
+      "labelRo": "10:00–21:30"
+    }
+  ],
+  "hoursEn": "Monday: 10:00–21:30; Tuesday: 10:00–21:30; Wednesday: 10:00–21:30; Thursday: 10:00–21:30; Friday: 10:00–21:30; Saturday: 10:00–21:30; Sunday: 10:00–21:30",
+  "hoursRo": "Luni: 10:00–21:30; Marți: 10:00–21:30; Miercuri: 10:00–21:30; Joi: 10:00–21:30; Vineri: 10:00–21:30; Sâmbătă: 10:00–21:30; Duminică: 10:00–21:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306986961703",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Dark Paradise is a relaxed beach bar in Toroni, set directly on the beach and well suited to visitors looking for a peaceful day by the sea without the crowded atmosphere of a large beach club. The venue offers sunbeds and umbrellas, while the music is generally kept pleasant and unobtrusive, creating a calm setting for families, couples and groups of friends.\n\nThe selection includes coffee, drinks and casual food, making it easy to spend several hours on the beach without leaving for a snack or light lunch. Recent visitor information also mentions a minimum-spend style arrangement connected to sunbed use, although exact conditions may vary between seasons.\n\nIts position on Toroni Beach, with very clear water and beautiful sunset views, makes Dark Paradise particularly appealing to visitors who prefer relaxation, moderate music and a slower holiday rhythm. The venue has recently introduced a refreshed “Next Chapter” concept while retaining its core identity as a beach bar centred around summer, the sea and laid-back beach time.",
+  "descriptionRo": "Dark Paradise este un beach bar relaxat din Toroni, amplasat direct pe plajă și potrivit pentru cei care caută o zi liniștită la mare, fără atmosfera aglomerată a unui beach club mare. Locația oferă șezlonguri și umbrele, iar muzica este păstrată într-un registru plăcut și discret, ceea ce contribuie la o atmosferă calmă și confortabilă pentru familii, cupluri și grupuri de prieteni.\n\nOferta include cafea, băuturi și mâncare casual, suficientă pentru a petrece mai multe ore pe plajă fără să fie nevoie să pleci pentru o gustare sau un prânz ușor. Sursele recente menționează și un sistem de consum asociat seturilor de șezlonguri, însă condițiile pot varia de la un sezon la altul.\n\nPoziția pe plaja din Toroni, cu apă foarte limpede și priveliști frumoase spre apus, face din Dark Paradise o alegere potrivită pentru cei care preferă relaxarea, muzica la volum moderat și un ritm mai lent al zilei. Locația și-a relansat recent conceptul sub mesajul „The Next Chapter”, păstrând însă caracterul de beach bar orientat spre experiența de vară și mare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/dark-paradise4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dark-paradise/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Food at bar\n    Happy-hour food\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Food at bar",
+    "Happy-hour food",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "€25-30 per set ",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": []
+}
