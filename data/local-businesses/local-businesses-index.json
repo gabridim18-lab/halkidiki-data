@@ -432,5 +432,23 @@
     "lon": 23.451452595242518,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "wapitos-diving-center",
+    "type": "local_business",
+    "titleEn": "Wapitos Diving Center",
+    "category": "SCUBA instructor",
+    "beaches": [
+      "neos-marmaras-beach",
+      "porto-carras-beach",
+      "kohi-beach",
+      "koutsoupia-beach",
+      "diaporti-beach",
+      "likithos-beach"
+    ],
+    "lat": 40.0243111049509,
+    "lon": 23.833096507823424,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

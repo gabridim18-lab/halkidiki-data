@@ -1,0 +1,43 @@
+{
+  "id": "wapitos-diving-center",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "neos-marmaras-beach",
+    "porto-carras-beach",
+    "kohi-beach",
+    "koutsoupia-beach",
+    "diaporti-beach",
+    "likithos-beach"
+  ],
+  "titleEn": "Wapitos Diving Center",
+  "titleRo": "Wapitos Diving Center",
+  "categoryEn": "SCUBA instructor",
+  "categoryRo": "SCUBA instructor",
+  "phone": "+306983394804",
+  "whatsapp": "+306983394804",
+  "website": "http://www.wapitosdivingcenter.com/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Beach, Poseidon Sea Resort Azapiko, Neos Marmaras 630 81, Greece",
+  "lat": 40.0243111049509,
+  "lon": 23.833096507823424,
+  "coordinates": {
+    "lat": 40.0243111049509,
+    "lng": 23.833096507823424
+  },
+  "hours": {
+    "en": "Monday: 09:00–18:00\nTuesday: 09:00–18:00\nWednesday: 09:00–18:00\nThursday: 09:00–18:00\nFriday: 09:00–18:00\nSaturday: (Dormition of the Mother of God)\nSunday: 09:00–18:00\n09:00–18:00\nHours might differ",
+    "ro": "Luni: 09:00–18:00\nMarți: 09:00–18:00\nMiercuri: 09:00–18:00\nJoi: 09:00–18:00\nVineri: 09:00–18:00\nSâmbătă: (Dormition of the Mother of God)\nDuminică: 09:00–18:00\n09:00–18:00\nHours might differ"
+  },
+  "descriptionEn": "Wapitos Diving Center Beach is a beachfront diving centre located on Azapiko Beach, within the Poseidon Sea Resort area, surrounded by a peaceful natural setting with calm water, reefs and plenty of shade from the coastal trees. It welcomes both complete beginners discovering the underwater world for the first time and certified divers looking to explore the dive sites along this part of Sithonia.\n\nBeginners can join the Try Scuba / Discover Scuba Diving programme with no previous diving experience required, while those wishing to progress can take Open Water, Advanced Open Water and Divemaster courses. The centre provides diving equipment, personal guidance for different experience levels, shore and boat diving, as well as snorkelling activities.\n\nOne of the highlights is the easy access to reef diving close to the beach, in an area known for calm conditions and clear Aegean waters. The atmosphere is relaxed and close to nature, with the diving facilities set beneath the trees, making it a particularly pleasant option for families spending the day by the sea while one or more members take part in diving activities. SUP boards are also available to rent for visitors who prefer exploring above the surface.",
+  "descriptionRo": "Wapitos Diving Center Beach este un centru de scufundări amplasat chiar pe plaja Azapiko, în zona Poseidon Sea Resort, într-un cadru natural liniștit, cu mare calmă, recife și umbră oferită de copacii de pe coastă. Centrul este potrivit atât pentru cei care vor să descopere pentru prima dată lumea subacvatică, cât și pentru scafandri certificați care doresc să exploreze siturile de scufundare din această parte a Sithoniei.\n\nPentru începători este disponibil programul Try Scuba / Discover Scuba Diving, conceput pentru persoane fără experiență anterioară, iar cei care vor să continue pot urma cursuri Open Water, Advanced Open Water și Divemaster. Centrul oferă echipament de scufundare, ghidaj pentru diferite niveluri de experiență și acces atât la scufundări de la mal, cât și la activități cu barca și snorkeling.\n\nUnul dintre avantajele locației este accesul rapid la zone de recif direct din apropierea plajei, într-o mare cunoscută aici pentru condițiile calme și vizibilitatea bună. Atmosfera este relaxată și apropiată de natură, cu facilitățile centrului amenajate sub copaci, ceea ce face experiența potrivită și pentru familiile care vor să petreacă o zi la mare în timp ce unul sau mai mulți membri participă la activități de diving. Pentru cei care preferă să rămână la suprafață, sunt disponibile și plăci SUP pentru închiriere.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp",
+    "business4.webp"
+  ]
+}
