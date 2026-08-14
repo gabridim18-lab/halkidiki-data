@@ -9066,5 +9066,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "yolo",
+    "zone": "Olympiada",
+    "beachSlug": "milies-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "YOLO",
+    "titleRo": "YOLO",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yolo/images/yolo-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/yolo/images/yolo-hero.webp",
+    "lat": 40.66388575648199,
+    "lon": 23.715368713970427,
+    "rating": 3.9,
+    "price": "$$",
+    "shortEn": "YOLO Beach is a long-established beach bar in the Milies area of Stavros, welcoming summer visitors since 2003. Its concept is simple...",
+    "shortRo": "YOLO Beach este un beach bar cu tradiție în zona Milies din Stavros, activ din 2003, conceput pentru zile relaxate petrecute aproape...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
