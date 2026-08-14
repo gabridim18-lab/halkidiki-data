@@ -1,0 +1,195 @@
+{
+  "id": "ethnik",
+  "zone": "Sithonia",
+  "beachSlug": "tristinika-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Ethnik",
+  "titleRo": "Ethnik",
+  "displayAddress": "Τριστινικα 630 72, Greece",
+  "gpsCoordinates": "39.99663014380643, 23.87258684093991",
+  "lat": 39.99663014380643,
+  "lon": 23.87258684093991,
+  "openingHoursRaw": "Friday\n\t\n\n    9:30 am–4 am\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9:30 am–4 am\n\nHours might differ\n\t\nSunday\n\t\n\n    9:30 am–3 am\n\n\t\nMonday\n\t\n\n    9:30 am–2 am\n\n\t\nTuesday\n\t\n\n    9:30 am–2 am\n\n\t\nWednesday\n\t\n\n    9:30 am–2 am\n\n\t\nThursday\n\t\n\n    9:30 am–2 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:30",
+      "close": "02:00",
+      "labelEn": "09:30–02:00",
+      "labelRo": "09:30–02:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:30",
+      "close": "04:00",
+      "labelEn": "09:30–04:00",
+      "labelRo": "09:30–04:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:30",
+      "close": "04:00",
+      "labelEn": "09:30–04:00",
+      "labelRo": "09:30–04:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:30",
+      "close": "03:00",
+      "labelEn": "09:30–03:00",
+      "labelRo": "09:30–03:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:30–02:00; Tuesday: 09:30–02:00; Wednesday: 09:30–02:00; Thursday: 09:30–02:00; Friday: 09:30–04:00; Saturday: 09:30–04:00; Sunday: 09:30–03:00",
+  "hoursRo": "Luni: 09:30–02:00; Marți: 09:30–02:00; Miercuri: 09:30–02:00; Joi: 09:30–02:00; Vineri: 09:30–04:00; Sâmbătă: 09:30–04:00; Duminică: 09:30–03:00",
+  "website": "https://visitsithonia.com/lifestyle/food-drink/bars-beach-bars/ethnik-beach-bar-tristinika/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306937380554",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Ethnik Beach Bar is one of Sithonia’s iconic beach venues, welcoming visitors on Tristinika Beach since 1996. Set in a more secluded natural location on a small seaside headland, Ethnik stands out for its colourful character, bohemian atmosphere and beautiful open views across the sea. The mood changes naturally throughout the day, from peaceful beach hours and chilled music to livelier evenings beneath the open sky.\n\nSunset is one of the venue’s signature experiences, complemented by cocktails, coffee and refreshing drinks. Casual food and snacks are also available for guests who want to spend several hours here without leaving the beach. Music is an important part of Ethnik’s identity, with styles ranging from reggae and rock to house and Latin rhythms.\n\nAfter sunset, the atmosphere can become much more energetic, with Ethnik known for its barefoot parties on the sand, music-filled evenings and special nights under the stars or full moon. At the same time, its secluded position and natural surroundings preserve a character very different from a conventional commercial beach club. Ethnik is particularly appealing to couples and groups of friends, as well as anyone looking to combine the beach, nature, cocktails, music and one of the most memorable sunsets on this side of Sithonia.",
+  "descriptionRo": "Ethnik Beach Bar este unul dintre beach barurile emblematice ale Sithoniei, prezent pe Tristinika Beach încă din 1996. Amplasat într-un cadru natural mai retras, pe o mică promontorie lângă plajă, Ethnik se remarcă prin decorul său colorat, atmosfera boemă și priveliștile spectaculoase spre mare. Este un loc în care ritmul zilei se schimbă natural: de la ore liniștite de plajă și muzică chill până la seri animate sub cerul liber.\n\nApusul este una dintre marile atracții ale locației, iar cocktailurile, cafeaua și băuturile răcoritoare completează experiența. Sunt disponibile și gustări și preparate casual pentru cei care vor să petreacă mai multe ore aici fără să părăsească plaja. Muzica face parte din identitatea Ethnik, cu influențe care merg de la reggae și rock până la house și latin.\n\nDupă apus, atmosfera poate deveni mult mai energică, Ethnik fiind cunoscut pentru petrecerile desculț pe nisip, serile cu muzică și evenimentele organizate sub cerul înstelat sau în nopțile cu lună plină. În același timp, poziția izolată și cadrul natural păstrează senzația unui loc diferit de beach cluburile comerciale obișnuite. Ethnik este o alegere excelentă pentru cupluri și grupuri de prieteni, dar și pentru oricine caută combinația dintre plajă, natură, cocktailuri, muzică și unul dintre cele mai frumoase apusuri din această parte a Sithoniei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/menu6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/menu7.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Dancing\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Dancing",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Free sunbeds with minimum consumption",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge",
+    "party"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

@@ -8800,5 +8800,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "ethnik",
+    "zone": "Sithonia",
+    "beachSlug": "tristinika-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Ethnik",
+    "titleRo": "Ethnik",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/ethnik/images/ethnik-hero.webp",
+    "lat": 39.99663014380643,
+    "lon": 23.87258684093991,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Ethnik Beach Bar is one of Sithonia’s iconic beach venues, welcoming visitors on Tristinika Beach since 1996. Set in a more secluded...",
+    "shortRo": "Ethnik Beach Bar este unul dintre beach barurile emblematice ale Sithoniei, prezent pe Tristinika Beach încă din 1996. Amplasat...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
