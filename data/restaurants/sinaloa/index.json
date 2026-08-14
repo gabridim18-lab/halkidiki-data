@@ -1,0 +1,155 @@
+{
+  "id": "sinaloa",
+  "zone": "Sithonia",
+  "beachSlug": "azapiko-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Sinaloa",
+  "titleRo": "Sinaloa",
+  "displayAddress": "Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.02453595626969, 23.83469819523388",
+  "lat": 40.02453595626969,
+  "lon": 23.83469819523388,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–10 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–10 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–10 pm\n\n\t\nMonday\n\t\n\n    9 am–10 pm\n\n\t\nTuesday\n\t\n\n    9 am–10 pm\n\n\t\nWednesday\n\t\n\n    9 am–10 pm\n\n\t\nThursday\n\t\n\n    9 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–22:00; Tuesday: 09:00–22:00; Wednesday: 09:00–22:00; Thursday: 09:00–22:00; Friday: 09:00–22:00; Saturday: 09:00–22:00; Sunday: 09:00–22:00",
+  "hoursRo": "Luni: 09:00–22:00; Marți: 09:00–22:00; Miercuri: 09:00–22:00; Joi: 09:00–22:00; Vineri: 09:00–22:00; Sâmbătă: 09:00–22:00; Duminică: 09:00–22:00",
+  "website": "http://www.sinaloa.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306975422442",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Sinaloa Beach Club is a modern beach club located on Azapiko Beach, along Sithonia’s western coast, in an area known for its more natural scenery and clear Aegean waters. The venue blends relaxed beach time with a lounge-style atmosphere, featuring a distinctive design inspired by natural tones and desert influences that gives Sinaloa its own recognisable character.\n\nSinaloa is designed as an all-day destination, allowing guests to move easily between swimming, relaxing around the club, enjoying drinks and making use of its restaurant experience. The venue itself highlights a combination of relaxation, fun and Aegean summer vibes, and guests can reserve their spot in advance when planning a beach day.\n\nDuring the summer season, Sinaloa also hosts daytime music events and DJ sessions, allowing the mood to shift from laid-back beach relaxation to a livelier and more social atmosphere later in the day. It is particularly appealing to couples and groups of friends looking for a stylish beach-club experience in a quieter part of Sithonia, where the beach, music and lounge atmosphere come together in one setting.",
+  "descriptionRo": "Sinaloa Beach Club este un beach club modern situat pe Azapiko Beach, pe coasta vestică a Sithoniei, într-o zonă cunoscută pentru peisajul mai sălbatic și apele limpezi ale Mării Egee. Conceptul locației combină relaxarea la plajă cu atmosfera de lounge, într-un decor distinctiv inspirat de tonuri naturale și accente „desert”, care îi conferă o identitate vizuală aparte.\n\nSinaloa este gândit ca o destinație pentru întreaga zi, unde poți alterna timpul petrecut la mare cu momente de relaxare în zona clubului, băuturi și experiența de restaurant. Locația promovează în mod special combinația dintre relaxare, distracție și atmosfera de vară a Mării Egee, iar rezervarea unui loc este disponibilă pentru cei care vor să-și organizeze din timp ziua la plajă.\n\nPe parcursul sezonului sunt organizate și day events cu muzică și DJ, astfel că atmosfera poate evolua de la liniștită și relaxată în prima parte a zilei la mai energică și socială după-amiaza. Sinaloa este o alegere potrivită pentru cupluri și grupuri de prieteni care caută un beach club stilat, într-o zonă mai retrasă a Sithoniei, unde plaja, muzica și atmosfera de lounge fac parte din aceeași experiență.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa6.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa6.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot"
+  ],
+  "pets": [],
+  "sunbedPrice": "Sunbeds free of charge",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

@@ -8742,5 +8742,33 @@
     "cuisineTypes": [
       "greek"
     ]
+  },
+  {
+    "id": "sinaloa",
+    "zone": "Sithonia",
+    "beachSlug": "azapiko-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Sinaloa",
+    "titleRo": "Sinaloa",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sinaloa/images/sinaloa-hero.webp",
+    "lat": 40.02453595626969,
+    "lon": 23.83469819523388,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Sinaloa Beach Club is a modern beach club located on Azapiko Beach, along Sithonia’s western coast, in an area known for its more...",
+    "shortRo": "Sinaloa Beach Club este un beach club modern situat pe Azapiko Beach, pe coasta vestică a Sithoniei, într-o zonă cunoscută pentru...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
