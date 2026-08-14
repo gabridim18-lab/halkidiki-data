@@ -467,5 +467,20 @@
     "lon": 23.79158984197115,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "fun-park-panos",
+    "type": "local_business",
+    "titleEn": "Fun Park Panos",
+    "category": "Entertainment",
+    "beaches": [
+      "luka-beach",
+      "paralia-toroni",
+      "porto-koufo-beach"
+    ],
+    "lat": 39.98511241130879,
+    "lon": 23.903402979163427,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]

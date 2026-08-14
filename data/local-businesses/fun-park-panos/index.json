@@ -1,0 +1,38 @@
+{
+  "id": "fun-park-panos",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "luka-beach",
+    "paralia-toroni",
+    "porto-koufo-beach"
+  ],
+  "titleEn": "Fun Park Panos",
+  "titleRo": "Fun Park Panos",
+  "categoryEn": "Entertainment",
+  "categoryRo": "Entertainment",
+  "phone": "",
+  "whatsapp": "",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "address": "Toroni 630 72, Greece",
+  "lat": 39.98511241130879,
+  "lon": 23.903402979163427,
+  "coordinates": {
+    "lat": 39.98511241130879,
+    "lng": 23.903402979163427
+  },
+  "hours": {
+    "en": "Monday: 19:00–00:00\nTuesday: 19:00–00:00\nWednesday: 19:00–00:00\nThursday: 19:00–00:00\nFriday: 19:00–00:00\nSaturday: (Dormition of the Mother of God)\nSunday: 19:00–00:00\n19:00–00:00\nHours might differ",
+    "ro": "Luni: 19:00–00:00\nMarți: 19:00–00:00\nMiercuri: 19:00–00:00\nJoi: 19:00–00:00\nVineri: 19:00–00:00\nSâmbătă: (Dormition of the Mother of God)\nDuminică: 19:00–00:00\n19:00–00:00\nHours might differ"
+  },
+  "descriptionEn": "Fun Park Panos is a small amusement and arcade venue in Toroni, particularly suited to families with children looking for an evening activity after a day at the beach. The atmosphere is casual and playful, centred around arcade-style entertainment and games. The venue currently operates mainly in the evening, making it a convenient stop after dinner or for some extra fun before the day comes to an end.\n\nFun Park Panos is a good choice for families and children, as well as teenagers or groups looking for a simple and entertaining activity in Toroni beyond the beach and restaurants.",
+  "descriptionRo": "Fun Park Panos este un mic centru de distracții și jocuri arcade din Toroni, potrivit în special pentru familiile cu copii care caută o activitate de seară după o zi petrecută la plajă. Locația are o atmosferă informală și veselă, cu jocuri și divertisment într-un spațiu dedicat relaxării și distracției. În prezent funcționează în principal seara, ceea ce îl face o oprire potrivită după cină sau pentru câteva momente de joacă înainte de încheierea zilei.\n\nFun Park Panos este o alegere potrivită pentru familii și copii, dar și pentru adolescenți sau grupuri care vor o activitate simplă și distractivă în Toroni, diferită de plajă și restaurante.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp"
+  ]
+}
