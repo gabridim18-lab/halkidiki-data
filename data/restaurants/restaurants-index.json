@@ -8948,5 +8948,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "porto-marina-2",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-toroni",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "Porto Marina 2",
+    "titleRo": "Porto Marina 2",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-2-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-2-hero.webp",
+    "lat": 39.98545561869063,
+    "lon": 23.90334665277562,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Porto Marina 2 is a Greek restaurant in Toroni, located just a few steps from the beach and offering a welcoming, relaxed setting for...",
+    "shortRo": "Porto Marina 2 este un restaurant grecesc din Toroni, situat la doar câțiva pași de plajă, cu o atmosferă relaxată și primitoare,...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

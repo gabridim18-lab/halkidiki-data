@@ -1,0 +1,186 @@
+{
+  "id": "porto-marina-2",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-toroni",
+  "type": "taverna",
+  "featured": true,
+  "titleEn": "Porto Marina 2",
+  "titleRo": "Porto Marina 2",
+  "displayAddress": "Toroni 630 72, Greece",
+  "gpsCoordinates": "39.98545561869063, 23.90334665277562",
+  "lat": 39.98545561869063,
+  "lon": 23.90334665277562,
+  "openingHoursRaw": "Friday\n\t\n\n    12–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    12–11 pm\n\n\t\nMonday\n\t\n\n    12–11 pm\n\n\t\nTuesday\n\t\n\n    12–11 pm\n\n\t\nWednesday\n\t\n\n    12–11 pm\n\n\t\nThursday\n\t\n\n    12–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "23:00",
+      "labelEn": "09:00–23:00",
+      "labelRo": "09:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:00; Tuesday: 12:00–23:00; Wednesday: 12:00–23:00; Thursday: 12:00–23:00; Friday: 12:00–23:00; Saturday: 09:00–23:00; Sunday: 12:00–23:00",
+  "hoursRo": "Luni: 12:00–23:00; Marți: 12:00–23:00; Miercuri: 12:00–23:00; Joi: 12:00–23:00; Vineri: 12:00–23:00; Sâmbătă: 09:00–23:00; Duminică: 12:00–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375051156",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Porto Marina 2 is a Greek restaurant in Toroni, located just a few steps from the beach and offering a welcoming, relaxed setting for an unhurried lunch or dinner after a day by the sea. The kitchen focuses on traditional Greek cuisine and home-style cooked dishes, complemented by grilled meats, fish and seafood.\n\nHighlighted dishes include papoutsaki – baked stuffed aubergine –, slow-cooked beef in tomato sauce, freshly grilled meats and seafood. One of the restaurant’s featured specialities is its rich and aromatic shrimp pasta. Porto Marina 2 is a good choice for visitors looking for familiar Greek flavours and a casual meal close to Toroni Beach rather than a formal fine-dining experience.",
+  "descriptionRo": "Porto Marina 2 este un restaurant grecesc din Toroni, situat la doar câțiva pași de plajă, cu o atmosferă relaxată și primitoare, potrivită pentru un prânz fără grabă sau o cină după o zi petrecută la mare. Bucătăria pune accent pe preparate grecești tradiționale și mâncare gătită în stil de casă, alături de carne la grătar, pește și fructe de mare.\n\nPrintre preparatele evidențiate de locație se numără papoutsaki – vinete umplute și coapte –, vită gătită în sos de roșii, diferite preparate de carne la grătar și fructe de mare proaspete. Una dintre specialitățile casei este pasta cu creveți, bogată și aromată. Porto Marina 2 este o alegere potrivită pentru cei care caută gusturi grecești familiare și o masă relaxată aproape de plaja din Toroni, fără formalitatea unui restaurant sofisticat.Porto Marina 2 is a Greek restaurant in Toroni, located just a few steps from the beach and offering a welcoming, relaxed setting for an unhurried lunch or dinner after a day by the sea. The kitchen focuses on traditional Greek cuisine and home-style cooked dishes, complemented by grilled meats, fish and seafood.\n\nHighlighted dishes include papoutsaki – baked stuffed aubergine –, slow-cooked beef in tomato sauce, freshly grilled meats and seafood. One of the restaurant’s featured specialities is its rich and aromatic shrimp pasta. Porto Marina 2 is a good choice for visitors looking for familiar Greek flavours and a casual meal close to Toroni Beach rather than a formal fine-dining experience.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-2-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-2-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-21.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-22.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-23.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-24.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-21.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-22.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-23.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/porto-marina-24.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/porto-marina-2/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great coffee\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Quick bite\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great coffee"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
