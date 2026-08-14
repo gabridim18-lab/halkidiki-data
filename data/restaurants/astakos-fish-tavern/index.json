@@ -1,0 +1,186 @@
+{
+  "id": "astakos-fish-tavern",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-toroni",
+  "type": "taverna",
+  "featured": true,
+  "titleEn": "Astakos Fish Tavern",
+  "titleRo": "Astakos Fish Tavern",
+  "displayAddress": "Παραλία Τορώνης, Toroni 630 72, Greece",
+  "gpsCoordinates": "39.98282361229324, 23.90459422841056",
+  "lat": 39.98282361229324,
+  "lon": 23.90459422841056,
+  "openingHoursRaw": "Friday\n\t\n\n    12–11 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    12–11 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    12–11 pm\n\n\t\nMonday\n\t\n\n    12–11 pm\n\n\t\nTuesday\n\t\n\n    12–11 pm\n\n\t\nWednesday\n\t\n\n    12–11 pm\n\n\t\nThursday\n\t\n\n    12–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:00; Tuesday: 12:00–23:00; Wednesday: 12:00–23:00; Thursday: 12:00–23:00; Friday: 12:00–23:00; Saturday: 12:00–23:00; Sunday: 12:00–23:00",
+  "hoursRo": "Luni: 12:00–23:00; Marți: 12:00–23:00; Miercuri: 12:00–23:00; Joi: 12:00–23:00; Vineri: 12:00–23:00; Sâmbătă: 12:00–23:00; Duminică: 12:00–23:00",
+  "website": "http://astakosfishtavern.com/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375051531",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Astakos Fish Tavern is a fish and seafood restaurant set directly beside Toroni Beach, offering an elegant yet relaxed atmosphere with open views across the sea. Its concept combines Greek culinary tradition with a more contemporary approach, while the beachfront setting becomes particularly attractive in the evening when sunset forms part of the dining experience.\n\nThe menu focuses on fresh fish and seafood, alongside Greek and Mediterranean dishes. Options documented at the restaurant include mussels, seafood pasta, Greek salads and a variety of fish dishes, with selections naturally varying according to season and availability.\n\nThe sea breeze, outdoor dining and beautiful coastal setting make Astakos a pleasant choice for couples, families and groups of friends looking for a seafood dinner in a slightly more refined setting than a conventional traditional taverna.",
+  "descriptionRo": "Astakos Fish Tavern este un restaurant de pește și fructe de mare situat chiar lângă plaja din Toroni, într-un cadru elegant, dar relaxat, cu vedere deschisă spre mare. Conceptul combină tradiția gastronomiei grecești cu o abordare mai modernă, iar poziția pe litoral face locația deosebit de plăcută spre seară, când apusul devine parte din experiența cinei.\n\nMeniul este orientat spre pește proaspăt și fructe de mare, alături de preparate grecești și mediteraneene. Printre opțiunile întâlnite se numără midii, paste cu fructe de mare, salate grecești și diferite preparate din pește, iar selecția poate varia în funcție de sezon și disponibilitatea ingredientelor.\n\nAtmosfera de lângă apă, briza mării și posibilitatea de a lua masa în aer liber fac din Astakos o alegere potrivită pentru cupluri, familii și grupuri de prieteni care caută o cină cu fructe de mare într-un decor mai rafinat decât cel al unei taverne tradiționale obișnuite.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great dessert\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Late-night food\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great dessert"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

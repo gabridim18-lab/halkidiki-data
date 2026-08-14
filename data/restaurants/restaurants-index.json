@@ -8977,5 +8977,34 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "astakos-fish-tavern",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-toroni",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "Astakos Fish Tavern",
+    "titleRo": "Astakos Fish Tavern",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/astakos-fish-tavern/images/astakos-fish-tavern-hero.webp",
+    "lat": 39.98282361229324,
+    "lon": 23.90459422841056,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Astakos Fish Tavern is a fish and seafood restaurant set directly beside Toroni Beach, offering an elegant yet relaxed atmosphere with...",
+    "shortRo": "Astakos Fish Tavern este un restaurant de pește și fructe de mare situat chiar lângă plaja din Toroni, într-un cadru elegant, dar...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
