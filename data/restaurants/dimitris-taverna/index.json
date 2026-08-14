@@ -1,0 +1,189 @@
+{
+  "id": "dimitris-taverna",
+  "zone": "Sithonia",
+  "beachSlug": "tristinika-beach",
+  "type": "taverna",
+  "featured": true,
+  "titleEn": "Dimitris Taverna",
+  "titleRo": "Dimitris Taverna",
+  "displayAddress": "Τριστινικα Τορώνη, Sithonia 630 72, Greece",
+  "gpsCoordinates": "39.99677493560512, 23.877287481740023",
+  "lat": 39.99677493560512,
+  "lon": 23.877287481740023,
+  "openingHoursRaw": "Friday\n\t\n\n    1–11:30 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    1–11:30 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    1–11:30 pm\n\n\t\nMonday\n\t\n\n    1–11:30 pm\n\n\t\nTuesday\n\t\n\n    1–11:30 pm\n\n\t\nWednesday\n\t\n\n    1–11:30 pm\n\n\t\nThursday\n\t\n\n    1–11:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "23:30",
+      "labelEn": "13:00–23:30",
+      "labelRo": "13:00–23:30"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–23:30; Tuesday: 13:00–23:30; Wednesday: 13:00–23:30; Thursday: 13:00–23:30; Friday: 13:00–23:30; Saturday: 13:00–23:30; Sunday: 13:00–23:30",
+  "hoursRo": "Luni: 13:00–23:30; Marți: 13:00–23:30; Miercuri: 13:00–23:30; Joi: 13:00–23:30; Vineri: 13:00–23:30; Sâmbătă: 13:00–23:30; Duminică: 13:00–23:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302375051166",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Dimitris Taverna is a traditional Greek taverna set directly by the sea in the Tristinika–Toroni area, surrounded by a peaceful and natural setting away from the busier resort centres. Its position beside the wide sandy beach of Tristinika creates an authentic Greek holiday atmosphere, making it an inviting choice for lunch after the beach or an unhurried dinner overlooking the sea.\n\nThe kitchen centres on traditional Greek home-style cooking, with fresh fish, meat dishes, cooked specialities and ouzo meze forming an important part of the offering. The taverna itself highlights these categories, giving guests a choice between fresh seafood flavours, classic Greek meat dishes and small plates designed to be shared around the table. Breakfast is also served.\n\nThe atmosphere is simple, informal and genuinely suited to its seaside surroundings. Dimitris is a good choice for families, couples and groups of friends looking for local Greek food and a quieter dining experience in a less commercial part of Sithonia. The taverna serves lunch and dinner, offers wine and beer, accepts card payments and has parking available.",
+  "descriptionRo": "Dimitris Taverna este o tavernă grecească tradițională situată chiar lângă mare, în zona Tristinika–Toroni, într-un cadru liniștit și natural, departe de aglomerația stațiunilor mari. Poziția aproape de plaja largă și nisipoasă din Tristinika îi oferă o atmosferă autentică de vacanță, potrivită pentru un prânz după plajă sau pentru o cină relaxată cu marea în față.\n\nBucătăria este construită în jurul preparatelor grecești gătite tradițional, cu pește proaspăt, preparate din carne, mâncare gătită și ouzo-meze. Taverna își prezintă chiar ea oferta prin aceste categorii, ceea ce o face potrivită atât pentru cei care caută pește și gusturi marine, cât și pentru cei care preferă preparatele clasice grecești din carne sau mai multe meze împărțite la masă. Este disponibil și micul dejun.\n\nAtmosfera este simplă și fără formalități, exact în spiritul unei taverne grecești de litoral. Dimitris este o alegere potrivită pentru familii, cupluri și grupuri de prieteni care caută mâncare locală și liniște într-un decor mai puțin comercial al Sithoniei. Restaurantul servește prânz și cină, oferă vin și bere, acceptă plata cu cardul și dispune de parcare.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Quick bite\n    Small plates\n    Spirits\n    Vegetarian options\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    On-site parking\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Vegetarian options",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "On-site parking",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

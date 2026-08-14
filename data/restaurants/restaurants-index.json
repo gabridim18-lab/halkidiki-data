@@ -8830,5 +8830,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "dimitris-taverna",
+    "zone": "Sithonia",
+    "beachSlug": "tristinika-beach",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "Dimitris Taverna",
+    "titleRo": "Dimitris Taverna",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/dimitris-taverna/images/dimitris-taverna-hero.webp",
+    "lat": 39.99677493560512,
+    "lon": 23.877287481740023,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Dimitris Taverna is a traditional Greek taverna set directly by the sea in the Tristinika–Toroni area, surrounded by a peaceful and...",
+    "shortRo": "Dimitris Taverna este o tavernă grecească tradițională situată chiar lângă mare, în zona Tristinika–Toroni, într-un cadru liniștit și...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
