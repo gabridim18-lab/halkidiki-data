@@ -8860,5 +8860,36 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "emirato",
+    "zone": "Sithonia",
+    "beachSlug": "ema-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Emirato",
+    "titleRo": "Emirato",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato-hero.webp",
+    "lat": 39.99126199019214,
+    "lon": 23.89274206746274,
+    "rating": 4.9,
+    "price": "$$",
+    "shortEn": "Emirato is a relaxed beach venue on Korakas Beach, near Toroni, set in one of the quieter and more natural stretches of Sithonia’s...",
+    "shortRo": "Emirato este o locație de plajă relaxată pe Korakas Beach, în apropiere de Toroni, într-unul dintre colțurile mai naturale și...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

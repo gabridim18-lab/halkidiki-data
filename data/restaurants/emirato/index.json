@@ -1,0 +1,105 @@
+{
+  "id": "emirato",
+  "zone": "Sithonia",
+  "beachSlug": "ema-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Emirato",
+  "titleRo": "Emirato",
+  "displayAddress": "Korakas beach, Toroni 630 72, Greece",
+  "gpsCoordinates": "39.99126199019214, 23.89274206746274",
+  "lat": 39.99126199019214,
+  "lon": 23.89274206746274,
+  "openingHoursRaw": "Friday\n\t\n\n    Open 24 hours\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    Open 24 hours\n\nHours might differ\n\t\nSunday\n\t\n\n    Open 24 hours\n\n\t\nMonday\n\t\n\n    Open 24 hours\n\n\t\nTuesday\n\t\n\n    Open 24 hours\n\n\t\nWednesday\n\t\n\n    Open 24 hours\n\n\t\nThursday\n\t\n\n    Open 24 hours",
+  "openingHours": [],
+  "hoursEn": "",
+  "hoursRo": "",
+  "website": "http://emirato.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306931256182",
+  "price": "$$",
+  "rating": 4.9,
+  "descriptionEn": "Emirato is a relaxed beach venue on Korakas Beach, near Toroni, set in one of the quieter and more natural stretches of Sithonia’s western coastline. The area is known for its sandy shore, clear water and sandy seabed, while the more sheltered side of the bay has a gentler entry into the sea, making it pleasant for families as well. The rocky sections nearby also provide an appealing setting for snorkelling.\n\nEmirato focuses primarily on relaxed beach time, with sunbeds arranged by the sea and the opportunity to explore the water on a stand-up paddle board (SUP). It is particularly suited to visitors who prefer a peaceful day surrounded by natural scenery rather than the busier atmosphere of a large beach club.\n\nIts position on Korakas Beach, close to the small rocky formation that gives this part of the coast its distinctive character, makes Emirato an appealing choice for couples, families and groups of friends looking to combine swimming, sunbathing, snorkelling and some time on the water in a more secluded corner of Sithonia.",
+  "descriptionRo": "Emirato este o locație de plajă relaxată pe Korakas Beach, în apropiere de Toroni, într-unul dintre colțurile mai naturale și liniștite ale coastei vestice a Sithoniei. Zona este cunoscută pentru nisip, apă limpede și fund marin nisipos, iar partea mai adăpostită a golfului are intrare mai lină în mare, ceea ce o face plăcută inclusiv pentru familii. În apropierea stâncilor, apa oferă și condiții interesante pentru snorkeling.\n\nEmirato pune accent în primul rând pe relaxarea la mare, cu șezlonguri amenajate pe plajă și posibilitatea de a ieși pe apă cu stand-up paddle board (SUP). Este genul de loc potrivit pentru cei care preferă o zi liniștită, cu mai mult spațiu și natură în jur, în locul atmosferei aglomerate a unui beach club mare.\n\nPoziția pe Korakas Beach, aproape de mica formațiune stâncoasă care dă personalitate zonei, face din Emirato o alegere atrăgătoare pentru cupluri, familii și grupuri de prieteni care vor să combine înotul, statul la soare, snorkelingul și câteva momente active pe apă într-un decor mai retras al Sithoniei.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/emirato4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/emirato/images/menu1.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    On-site services\n\n \n \nOfferings\n\n    Alcohol\n    Dancing\n    Food\n\n \n \nDining options\n\n    Seating\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Romantic\n\n \n \nCrowd\n\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free multi-storey car park\n    Free of charge street parking\n    Free parking lot\n    On-site parking\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services"
+  ],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Dancing",
+    "Food"
+  ],
+  "diningOptions": [
+    "Seating"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Romantic"
+  ],
+  "crowd": [
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free multi-storey car park",
+    "Free of charge street parking",
+    "Free parking lot",
+    "On-site parking",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "25Euro per sunbed",
+  "sunbedConsumationIncluded": true,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
