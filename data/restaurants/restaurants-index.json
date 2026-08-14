@@ -9126,5 +9126,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "stavraki",
+    "zone": "Olympiada",
+    "beachSlug": "milies-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Stavraki",
+    "titleRo": "Stavraki",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki-hero.webp",
+    "lat": 40.66165253867122,
+    "lon": 23.720630897552038,
+    "rating": 5.0,
+    "price": "$$",
+    "shortEn": "Stavraki Beach Bar is a relaxed beachfront venue in the Milies area near Stavros, set along a quieter stretch of coastline and well...",
+    "shortRo": "Stavraki Beach Bar este un beach bar relaxat din zona Milies, aproape de Stavros, amplasat într-o parte mai liniștită a litoralului și...",
+    "features": [
+      "sunbeds",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "mediterranean"
+    ]
   }
 ]

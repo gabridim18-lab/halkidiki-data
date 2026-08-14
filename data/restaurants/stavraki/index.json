@@ -1,0 +1,143 @@
+{
+  "id": "stavraki",
+  "zone": "Olympiada",
+  "beachSlug": "milies-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Stavraki",
+  "titleRo": "Stavraki",
+  "displayAddress": "Epar.Od. Stavrou-Neas Chalkidikis, Stavros 570 14, Greece",
+  "gpsCoordinates": "40.66165253867122, 23.720630897552038",
+  "lat": 40.66165253867122,
+  "lon": 23.720630897552038,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–9 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–9 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–9 pm\n\n\t\nMonday\n\t\n\n    9 am–9 pm\n\n\t\nTuesday\n\t\n\n    9 am–9 pm\n\n\t\nWednesday\n\t\n\n    9 am–9 pm\n\n\t\nThursday\n\t\n\n    9 am–9 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "21:00",
+      "labelEn": "09:00–21:00",
+      "labelRo": "09:00–21:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–21:00; Tuesday: 09:00–21:00; Wednesday: 09:00–21:00; Thursday: 09:00–21:00; Friday: 09:00–21:00; Saturday: 09:00–21:00; Sunday: 09:00–21:00",
+  "hoursRo": "Luni: 09:00–21:00; Marți: 09:00–21:00; Miercuri: 09:00–21:00; Joi: 09:00–21:00; Vineri: 09:00–21:00; Sâmbătă: 09:00–21:00; Duminică: 09:00–21:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306982053143",
+  "price": "$$",
+  "rating": 5.0,
+  "descriptionEn": "Stavraki Beach Bar is a relaxed beachfront venue in the Milies area near Stavros, set along a quieter stretch of coastline and well suited to visitors looking for an unhurried day close to the sea. The venue operates as a beach club with dine-in service and outdoor seating, while reservations are available for guests who prefer to plan their beach day in advance.\n\nThe atmosphere is simple and welcoming, with the focus more on relaxed beach time, the sea and casual food than on an upscale beach-club experience. Food associated with the venue includes pork and chicken gyros, alongside drinks and casual options suited to a break during the day. Stavraki is a pleasant choice for families, couples and groups of friends looking for a quieter coastal setting where swimming, relaxation and an informal meal can easily be enjoyed in the same place.",
+  "descriptionRo": "Stavraki Beach Bar este un beach bar relaxat din zona Milies, aproape de Stavros, amplasat într-o parte mai liniștită a litoralului și potrivit pentru cei care vor să petreacă o zi fără grabă aproape de mare. Locația funcționează ca beach club cu servire la masă și spații în aer liber, iar rezervările sunt disponibile pentru cei care preferă să își organizeze din timp ziua de plajă.\n\nAtmosfera este simplă și prietenoasă, orientată mai mult spre relaxare, mare și mâncare casual decât spre stilul unui beach club sofisticat. În oferta asociată locației apar gyros de porc și pui, alături de băuturi și opțiuni potrivite pentru o pauză în timpul zilei. Stavraki este o alegere plăcută pentru familii, cupluri și grupuri de prieteni care preferă o zonă de coastă mai liniștită și un beach bar informal, unde pot combina înotul, relaxarea și o masă simplă într-un singur loc.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki3.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/stavraki/images/stavraki3.webp"
+  ],
+  "menuImages": [],
+  "googleBusinessRaw": "",
+  "accessibility": [],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee"
+  ],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [
+    "Casual"
+  ],
+  "crowd": [],
+  "planning": [],
+  "payments": [],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill"
+  ],
+  "features": [
+    "sunbeds",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "mediterranean"
+  ]
+}
