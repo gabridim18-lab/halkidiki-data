@@ -1,0 +1,42 @@
+{
+  "id": "palm3-waterpark",
+  "type": "local_business",
+  "booking": 1,
+  "beaches": [
+    "koutsoupia-beach",
+    "kohi-beach",
+    "kohi-beach",
+    "neos-marmaras-beach",
+    "peaceful-beach"
+  ],
+  "titleEn": "Palm3 Waterpark",
+  "titleRo": "Palm3 Waterpark",
+  "categoryEn": "Waterpark",
+  "categoryRo": "Waterpark",
+  "phone": "+306980153914",
+  "whatsapp": "+306980153914",
+  "website": "https://www.palm3waterpark.gr/",
+  "instagram": "",
+  "facebook": "",
+  "address": "Neos Marmaras 630 81, Greece",
+  "lat": 40.08437580694937,
+  "lon": 23.79158984197115,
+  "coordinates": {
+    "lat": 40.08437580694937,
+    "lng": 23.79158984197115
+  },
+  "hours": {
+    "en": "Monday: 10:30–20:00\nTuesday: 10:30–20:00\nWednesday: 10:30–20:00\nThursday: 10:30–20:00\nFriday: 10:30–20:00\nSaturday: (Dormition of the Mother of God)\nSunday: 10:30–20:00\n10:30–20:00\nHours might differ",
+    "ro": "Luni: 10:30–20:00\nMarți: 10:30–20:00\nMiercuri: 10:30–20:00\nJoi: 10:30–20:00\nVineri: 10:30–20:00\nSâmbătă: (Dormition of the Mother of God)\nDuminică: 10:30–20:00\n10:30–20:00\nHours might differ"
+  },
+  "descriptionEn": "Palm3 Waterpark is a floating inflatable water park set directly in the sea on Neos Marmaras Beach, close to Porto Carras, and is one of the most entertaining options for families and anyone looking to add some adventure to a beach day. The floating course combines water slides, inflatable obstacles, climbing sections and different water games, turning a simple swim into an active and energetic seaside experience.\n\nThe park is designed for children, teenagers and adults, with safety forming an important part of the experience. Palm3 states that its inflatable equipment meets required safety standards and that activities are supervised by experienced staff and trained lifeguards. Life jackets are provided and regularly disinfected.\n\nIts position directly in Sithonia’s clear waters makes the experience particularly enjoyable: visitors can run, climb, jump, tackle obstacles and race down slides before inevitably splashing back into the sea. Palm3 also hosts children’s parties and private events, while special discounts are offered for large families and groups. Card payments are accepted.\n\nPalm3 Waterpark is an excellent choice for families looking to add some action to a beach day, as well as groups of friends searching for a fun and different activity while staying in Neos Marmaras.",
+  "descriptionRo": "Palm3 Waterpark este un parc acvatic gonflabil amplasat direct în mare, pe plaja din Neos Marmaras, aproape de Porto Carras, și este una dintre cele mai distractive opțiuni pentru familii și pentru cei care vor puțină aventură între orele petrecute pe plajă. Circuitul plutitor este format din tobogane, obstacole gonflabile, zone de cățărare și diferite jocuri pe apă, transformând înotul într-o experiență activă și plină de energie.\n\nParcul este conceput pentru copii, adolescenți și adulți, iar siguranța este o parte importantă a conceptului. Palm3 precizează că instalațiile gonflabile respectă standardele de siguranță, iar activitățile sunt supravegheate de personal experimentat și salvamari instruiți. Sunt folosite veste de salvare, iar acestea sunt igienizate în mod regulat.\n\nPoziția direct în apele limpezi ale Sithoniei face experiența cu atât mai spectaculoasă: poți să alergi, să sari, să te cațări, să aluneci pe tobogane și, inevitabil, să ajungi din nou în mare. Palm3 oferă și posibilitatea organizării de petreceri pentru copii și evenimente private, iar pentru familiile numeroase și grupurile mari sunt anunțate reduceri speciale. Plata cu cardul este disponibilă.\n\nPalm3 Waterpark este o alegere excelentă pentru familiile care vor să adauge puțină acțiune unei zile de plajă, dar și pentru grupurile de prieteni care caută o activitate amuzantă și diferită în Neos Marmaras.",
+  "heroImage": "hero.webp",
+  "thumbnail": "thumbnail.webp",
+  "images": [
+    "business1.webp",
+    "business2.webp",
+    "business3.webp",
+    "business4.webp"
+  ]
+}

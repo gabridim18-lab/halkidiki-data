@@ -450,5 +450,22 @@
     "lon": 23.833096507823424,
     "thumbnail": "thumbnail.webp",
     "heroImage": "hero.webp"
+  },
+  {
+    "id": "palm3-waterpark",
+    "type": "local_business",
+    "titleEn": "Palm3 Waterpark",
+    "category": "Waterpark",
+    "beaches": [
+      "koutsoupia-beach",
+      "kohi-beach",
+      "kohi-beach",
+      "neos-marmaras-beach",
+      "peaceful-beach"
+    ],
+    "lat": 40.08437580694937,
+    "lon": 23.79158984197115,
+    "thumbnail": "thumbnail.webp",
+    "heroImage": "hero.webp"
   }
 ]
