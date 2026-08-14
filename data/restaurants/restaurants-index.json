@@ -9036,5 +9036,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "monte-cristo",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-toroni",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Monte Cristo",
+    "titleRo": "Monte Cristo",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monte-cristo/images/monte-cristo-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/monte-cristo/images/monte-cristo-hero.webp",
+    "lat": 39.97982531295828,
+    "lon": 23.904860258700303,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Monte Cristo Beach Bar is an all-day beachfront venue in Toroni, operating since 2019 and designed for spending a full, relaxed day by...",
+    "shortRo": "Monte Cristo Beach Bar este un beach bar all-day din Toroni, activ din 2019, amplasat chiar lângă mare și potrivit pentru o zi...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
