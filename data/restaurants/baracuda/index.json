@@ -1,0 +1,194 @@
+{
+  "id": "baracuda",
+  "zone": "Sithonia",
+  "beachSlug": "paralia-toroni",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Baracuda",
+  "titleRo": "Baracuda",
+  "displayAddress": "Toroni 630 72, Greece",
+  "gpsCoordinates": "39.98860691759027, 23.8986577629162",
+  "lat": 39.98860691759027,
+  "lon": 23.8986577629162,
+  "openingHoursRaw": "Friday\n\t\n\n    8 am–8 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    8 am–8 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    8 am–8 pm\n\n\t\nMonday\n\t\n\n    8 am–8 pm\n\n\t\nTuesday\n\t\n\n    8 am–8 pm\n\n\t\nWednesday\n\t\n\n    8 am–8 pm\n\n\t\nThursday\n\t\n\n    8 am–8 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "08:00",
+      "close": "20:00",
+      "labelEn": "08:00–20:00",
+      "labelRo": "08:00–20:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "08:00",
+      "close": "20:00",
+      "labelEn": "08:00–20:00",
+      "labelRo": "08:00–20:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "08:00",
+      "close": "20:00",
+      "labelEn": "08:00–20:00",
+      "labelRo": "08:00–20:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "08:00",
+      "close": "20:00",
+      "labelEn": "08:00–20:00",
+      "labelRo": "08:00–20:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "08:00",
+      "close": "20:00",
+      "labelEn": "08:00–20:00",
+      "labelRo": "08:00–20:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "08:00",
+      "close": "20:00",
+      "labelEn": "08:00–20:00",
+      "labelRo": "08:00–20:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "08:00",
+      "close": "20:00",
+      "labelEn": "08:00–20:00",
+      "labelRo": "08:00–20:00"
+    }
+  ],
+  "hoursEn": "Monday: 08:00–20:00; Tuesday: 08:00–20:00; Wednesday: 08:00–20:00; Thursday: 08:00–20:00; Friday: 08:00–20:00; Saturday: 08:00–20:00; Sunday: 08:00–20:00",
+  "hoursRo": "Luni: 08:00–20:00; Marți: 08:00–20:00; Miercuri: 08:00–20:00; Joi: 08:00–20:00; Vineri: 08:00–20:00; Sâmbătă: 08:00–20:00; Duminică: 08:00–20:00",
+  "website": "https://barracudabeachbar.wixsite.com/toroni",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306973923436",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Baracuda Beach Bar is a relaxed beachfront venue in Toroni, designed for long and easy-going days by the sea. The beach area features comfortable sunbeds, while a soundtrack influenced by reggae, jazz and Latin rhythms creates a calm and inviting atmosphere. It is equally suited to morning coffee, leisurely hours in the sun or a cocktail enjoyed with open views across the sea.\n\nThe selection includes traditional breakfast, salads, snacks, sandwiches, burgers, casual dishes and ice cream, complemented by coffee, smoothies, beer and cocktails. The atmosphere works well for couples, families and groups of friends, and the venue officially describes itself as suitable for all ages and pet-friendly. Baracuda is an appealing choice for visitors looking for comfortable beach time, laid-back music, casual food and an unhurried summer atmosphere on Toroni Beach.",
+  "descriptionRo": "Baracuda Beach Bar este un beach bar relaxat din Toroni, amplasat direct pe plajă și conceput pentru zile lungi petrecute aproape de mare. Zona este amenajată cu șezlonguri confortabile, iar muzica în ritmuri de reggae, jazz și latin contribuie la atmosfera calmă și plăcută. Este un loc potrivit atât pentru cafeaua de dimineață, cât și pentru ore de relaxare la soare sau pentru un cocktail savurat cu marea în față.\n\nOferta include mic dejun tradițional, salate, gustări, sandwich-uri, burgeri, preparate casual și înghețată, alături de cafea, smoothie-uri, bere și cocktailuri. Atmosfera este potrivită pentru cupluri, familii și grupuri de prieteni, iar locația se prezintă oficial ca fiind potrivită pentru toate vârstele și pet-friendly. Baracuda este o alegere plăcută pentru cei care caută confort, muzică relaxată, mâncare casual și o zi fără grabă pe frumoasa plajă din Toroni.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/baracuda4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/baracuda/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    On-site services\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Sport\n\n \n \nPopular for\n\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Happy-hour drinks\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    LGBTQ+ friendly\n    Tourists\n    Transgender safe space\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "On-site services",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Sport"
+  ],
+  "popularFor": [
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Happy-hour drinks",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists",
+    "Transgender safe space"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "15Euro first row, 5Euro last rows per set",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}
