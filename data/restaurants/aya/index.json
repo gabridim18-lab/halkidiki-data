@@ -1,0 +1,150 @@
+{
+  "id": "aya",
+  "zone": "Sithonia",
+  "beachSlug": "neos-marmaras-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Aya",
+  "titleRo": "Aya",
+  "displayAddress": "Karra, Neos Marmaras 630 81, Greece",
+  "gpsCoordinates": "40.08515015011463, 23.792556446691105",
+  "lat": 40.08515015011463,
+  "lon": 23.792556446691105,
+  "openingHoursRaw": "Friday\n\t\n\n    9 am–10 pm\n\n\t\nSaturday\n(Dormition of the Mother of God)\n\t\n\n    9 am–10 pm\n\nHours might differ\n\t\nSunday\n\t\n\n    9 am–10 pm\n\n\t\nMonday\n\t\n\n    9 am–10 pm\n\n\t\nTuesday\n\t\n\n    9 am–10 pm\n\n\t\nWednesday\n\t\n\n    9 am–10 pm\n\n\t\nThursday\n\t\n\n    9 am–10 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "22:00",
+      "labelEn": "09:00–22:00",
+      "labelRo": "09:00–22:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–22:00; Tuesday: 09:00–22:00; Wednesday: 09:00–22:00; Thursday: 09:00–22:00; Friday: 09:00–22:00; Saturday: 09:00–22:00; Sunday: 09:00–22:00",
+  "hoursRo": "Luni: 09:00–22:00; Marți: 09:00–22:00; Miercuri: 09:00–22:00; Joi: 09:00–22:00; Vineri: 09:00–22:00; Sâmbătă: 09:00–22:00; Duminică: 09:00–22:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306980660177",
+  "price": "$$",
+  "rating": 4.6,
+  "descriptionEn": "Aya Beach Bar is a modern beachfront venue in Neos Marmaras, designed as an all-day destination combining relaxation, food and cocktails by the sea. Its organised beach area with sunbeds, contemporary setting and open sea views create a stylish yet laid-back atmosphere where guests can comfortably spend several hours. One of Aya’s more distinctive features is its two hot tubs, adding an extra touch to the beach-lounge experience.\n\nThe food offering goes beyond simple beach snacks and includes burgers, salads and other dishes suited to a day by the sea, complemented by a strong drinks selection featuring signature cocktails. Shisha is also available, while towards evening the atmosphere becomes especially inviting for drinks and socialising with the sea and sunset as a backdrop. Aya is particularly appealing to couples and groups of friends, as well as anyone looking for a more stylish beach-bar experience where the beach, food and lounge atmosphere come together in one place.",
+  "descriptionRo": "Aya Beach Bar este un beach bar modern din Neos Marmaras, amplasat direct lângă mare și conceput ca un loc all-day pentru relaxare, mâncare și cocktailuri. Zona de plajă cu șezlonguri, decorul contemporan și priveliștea deschisă spre mare creează o atmosferă elegantă, dar relaxată, potrivită pentru a petrece aici mai multe ore. Un element mai neobișnuit al locației îl reprezintă cele două jacuzzi-uri, care completează experiența de beach lounge.\n\nOferta gastronomică depășește nivelul unui simplu snack bar și include burgeri, salate și alte preparate potrivite pentru o zi la plajă, alături de o selecție importantă de cocktailuri, inclusiv signature cocktails. Este disponibilă și shisha, iar spre seară atmosfera devine ideală pentru băuturi și socializare, cu marea și apusul în fundal. Aya este o alegere foarte potrivită pentru cupluri și grupuri de prieteni, dar și pentru cei care caută un beach bar mai stilat, unde plaja, gastronomia și atmosfera de lounge se întâlnesc într-un singur loc.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance"
+  ],
+  "serviceOptions": [],
+  "highlights": [],
+  "popularFor": [],
+  "offerings": [],
+  "diningOptions": [],
+  "amenities": [],
+  "atmosphere": [],
+  "crowd": [],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [],
+  "parking": [],
+  "pets": [],
+  "sunbedPrice": "€20 consumation per sunbed",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "lounge"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view"
+  ],
+  "cuisineTypes": [
+    "greek"
+  ]
+}

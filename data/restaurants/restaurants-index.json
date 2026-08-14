@@ -8715,5 +8715,32 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "aya",
+    "zone": "Sithonia",
+    "beachSlug": "neos-marmaras-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Aya",
+    "titleRo": "Aya",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/aya/images/aya-hero.webp",
+    "lat": 40.08515015011463,
+    "lon": 23.792556446691105,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Aya Beach Bar is a modern beachfront venue in Neos Marmaras, designed as an all-day destination combining relaxation, food and...",
+    "shortRo": "Aya Beach Bar este un beach bar modern din Neos Marmaras, amplasat direct lângă mare și conceput ca un loc all-day pentru relaxare,...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view"
+    ],
+    "cuisineTypes": [
+      "greek"
+    ]
   }
 ]
