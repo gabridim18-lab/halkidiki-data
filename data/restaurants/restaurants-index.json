@@ -9153,5 +9153,35 @@
     "cuisineTypes": [
       "mediterranean"
     ]
+  },
+  {
+    "id": "nero---beach-cantene",
+    "zone": "Kassandra",
+    "beachSlug": "lagoon-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Nero - Beach Cantene",
+    "titleRo": "Nero - Beach Cantene",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nero---beach-cantene/images/nero---beach-cantene-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/nero---beach-cantene/images/nero---beach-cantene-hero.webp",
+    "lat": 39.982494843616784,
+    "lon": 23.658438290208153,
+    "rating": 4.6,
+    "price": "$$",
+    "shortEn": "Nero – Beach Cantene is a laid-back beach venue in the beautiful Glarokavos area, one of the most distinctive natural coastal settings...",
+    "shortRo": "Nero – Beach Cantene este o locație de plajă cu atmosferă simplă și relaxată, în spectaculoasa zonă Glarokavos, unul dintre cele mai...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
