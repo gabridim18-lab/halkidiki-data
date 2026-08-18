@@ -9213,5 +9213,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "perroquet",
+    "zone": "Olympiada",
+    "beachSlug": "olympiada-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Perroquet",
+    "titleRo": "Perroquet",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/perroquet/images/perroquet-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/perroquet/images/perroquet-hero.webp",
+    "lat": 40.59293474341681,
+    "lon": 23.78320203814151,
+    "rating": 4.6,
+    "price": "$",
+    "shortEn": "Perroquet All Day Beach Bar & Restaurant is one of Olympiada Beach’s long-established seaside venues, operating since 1987 and...",
+    "shortRo": "Perroquet All Day Beach Bar & Restaurant este una dintre locațiile cu tradiție de pe plaja din Olympiada, activă încă din 1987 și...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
