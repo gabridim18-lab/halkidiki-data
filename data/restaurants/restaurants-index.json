@@ -9303,5 +9303,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "karavopetra",
+    "zone": "Olympiada",
+    "beachSlug": "olympiada-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Karavopetra",
+    "titleRo": "Karavopetra",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavopetra/images/karavopetra-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/karavopetra/images/karavopetra-hero.webp",
+    "lat": 40.59156495985229,
+    "lon": 23.784420150071114,
+    "rating": 4.7,
+    "price": "$",
+    "shortEn": "Karavopetra Seafood Restaurant is a fish taverna in Olympiada, set very close to the sea and ideal for visitors looking for an...",
+    "shortRo": "Karavopetra Seafood Restaurant este o tavernă de pește din Olympiada, amplasată foarte aproape de mare și potrivită pentru cei care...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
