@@ -1,0 +1,185 @@
+{
+  "id": "apoplous",
+  "zone": "Olympiada",
+  "beachSlug": "olympiada-beach",
+  "type": "beach_bar",
+  "featured": true,
+  "titleEn": "Apoplous",
+  "titleRo": "Apoplous",
+  "displayAddress": "Unnamed Road, Olimpiada 570 14, Greece",
+  "gpsCoordinates": "40.59394819486906, 23.78197240489558",
+  "lat": 40.59394819486906,
+  "lon": 23.78197240489558,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–3:30 am\n\n\t\nWednesday\n\t\n\n    9 am–3:30 am\n\n\t\nThursday\n\t\n\n    9 am–3:30 am\n\n\t\nFriday\n\t\n\n    9 am–3:30 am\n\n\t\nSaturday\n\t\n\n    9 am–3:30 am\n\n\t\nSunday\n\t\n\n    9 am–3:30 am\n\n\t\nMonday\n\t\n\n    9 am–3:30 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:30",
+      "labelEn": "09:00–03:30",
+      "labelRo": "09:00–03:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:30",
+      "labelEn": "09:00–03:30",
+      "labelRo": "09:00–03:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:30",
+      "labelEn": "09:00–03:30",
+      "labelRo": "09:00–03:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:30",
+      "labelEn": "09:00–03:30",
+      "labelRo": "09:00–03:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:30",
+      "labelEn": "09:00–03:30",
+      "labelRo": "09:00–03:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:30",
+      "labelEn": "09:00–03:30",
+      "labelRo": "09:00–03:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:30",
+      "labelEn": "09:00–03:30",
+      "labelRo": "09:00–03:30"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–03:30; Tuesday: 09:00–03:30; Wednesday: 09:00–03:30; Thursday: 09:00–03:30; Friday: 09:00–03:30; Saturday: 09:00–03:30; Sunday: 09:00–03:30",
+  "hoursRo": "Luni: 09:00–03:30; Marți: 09:00–03:30; Miercuri: 09:00–03:30; Joi: 09:00–03:30; Vineri: 09:00–03:30; Sâmbătă: 09:00–03:30; Duminică: 09:00–03:30",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306972469463",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Apoplous – All Day Beach Bar is an all-day venue set directly on the sandy beach of Olympiada, overlooking the Strymonic Gulf and offering an atmosphere that naturally changes throughout the day. Mornings and afternoons are ideal for swimming, coffee and relaxed beach time, while evenings bring a livelier setting for cocktails and music.\n\nThe menu follows a casual beach-bar style, featuring burgers, club sandwiches, gyros, souvlaki and other finger-food options, complemented by coffee and refreshing cocktails. Weekends regularly bring DJ sessions, live music and themed events, allowing Apoplous to combine laid-back seaside relaxation with a more energetic atmosphere after sunset.\n\nIt is a great choice for visitors who want to spend several hours in one place, moving easily from swimming and lunch to evening cocktails and music. A practical advantage is the ample parking area available beside the beach bar.",
+  "descriptionRo": "Apoplous – All Day Beach Bar este o locație all-day amplasată direct pe plaja cu nisip din Olympiada, cu vedere spre Golful Strymonic și o atmosferă care se schimbă natural de-a lungul zilei. Dimineața și după-amiaza este potrivit pentru înot, cafea și relaxare lângă mare, iar spre seară devine un loc mai animat pentru cocktailuri și muzică.\n\nMeniul urmează stilul casual al unui beach bar și include burgeri, club sandwich-uri, gyros, souvlaki și alte opțiuni de finger food, alături de cafea și cocktailuri răcoritoare. În weekend sunt organizate periodic seri cu DJ, muzică live și evenimente tematice, ceea ce face ca Apoplous să combine atmosfera relaxată de plajă cu o latură mai energică după apus.\n\nEste o alegere potrivită pentru cei care vor să petreacă mai multe ore într-un singur loc, trecând fără grabă de la plajă și prânz la cocktailuri și muzică seara. Un avantaj practic este zona generoasă de parcare disponibilă lângă beach bar.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Food\n    Food at bar\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Trendy\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails"
+  ],
+  "popularFor": [],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Food",
+    "Food at bar",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Trendy"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "Free sunbeds",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [
+    "chill",
+    "party",
+    "dj_sets"
+  ],
+  "features": [
+    "sunbeds",
+    "cocktails",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean"
+  ]
+}

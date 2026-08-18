@@ -9183,5 +9183,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "apoplous",
+    "zone": "Olympiada",
+    "beachSlug": "olympiada-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Apoplous",
+    "titleRo": "Apoplous",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/apoplous/images/apoplous-hero.webp",
+    "lat": 40.59394819486906,
+    "lon": 23.78197240489558,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Apoplous – All Day Beach Bar is an all-day venue set directly on the sandy beach of Olympiada, overlooking the Strymonic Gulf and...",
+    "shortRo": "Apoplous – All Day Beach Bar este o locație all-day amplasată direct pe plaja cu nisip din Olympiada, cu vedere spre Golful Strymonic...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
