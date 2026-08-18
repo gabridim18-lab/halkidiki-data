@@ -1,0 +1,210 @@
+{
+  "id": "kuzina",
+  "zone": "Olympiada",
+  "beachSlug": "olympiada-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Kuzina",
+  "titleRo": "Kuzina",
+  "displayAddress": "Ολυμπιάδα 570 14, Greece",
+  "gpsCoordinates": "40.591970808475494, 23.783864295406747",
+  "lat": 40.591970808475494,
+  "lon": 23.783864295406747,
+  "openingHoursRaw": "Tuesday\n\t\n\n    9 am–3 am\n\n\t\nWednesday\n\t\n\n    9 am–3 am\n\n\t\nThursday\n\t\n\n    9 am–3 am\n\n\t\nFriday\n\t\n\n    9 am–3 am\n\n\t\nSaturday\n\t\n\n    9 am–3 am\n\n\t\nSunday\n\t\n\n    9 am–3 am\n\n\t\nMonday\n\t\n\n    9 am–3 am",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "09:00",
+      "close": "03:00",
+      "labelEn": "09:00–03:00",
+      "labelRo": "09:00–03:00"
+    }
+  ],
+  "hoursEn": "Monday: 09:00–03:00; Tuesday: 09:00–03:00; Wednesday: 09:00–03:00; Thursday: 09:00–03:00; Friday: 09:00–03:00; Saturday: 09:00–03:00; Sunday: 09:00–03:00",
+  "hoursRo": "Luni: 09:00–03:00; Marți: 09:00–03:00; Miercuri: 09:00–03:00; Joi: 09:00–03:00; Vineri: 09:00–03:00; Sâmbătă: 09:00–03:00; Duminică: 09:00–03:00",
+  "website": "https://aristotelia-gi.gr/index.php",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306980866474",
+  "price": "$$",
+  "rating": 4.4,
+  "descriptionEn": "Kuzina is an all-day beach bar and restaurant set directly on Olympiada Beach, where the day can begin with breakfast and coffee, continue with relaxed hours by the sea and flow naturally into lunch, dinner or sunset cocktails. Direct beach access, sunbeds and umbrellas, and open views across the Aegean make it an inviting place to spend an entire summer day close to the water.\n\nThe kitchen combines Greek and Mediterranean flavours with a contemporary approach, offering a varied menu that ranges from appetisers, salads and burgers to more elaborate dishes. Documented menu choices also include Olympiada mussels with prawns, tomato, basil and virgin olive oil, reflecting the restaurant’s connection with the seafood traditions of the area.\n\nTowards evening, Kuzina takes on a more refined seaside-bar atmosphere, with cocktails, wines and desserts enjoyed against the backdrop of the Aegean sunset. The venue also hosts music nights, events and private celebrations, making it a versatile choice for couples, families and groups of friends looking to combine beach time, dining and evening drinks in one stylish seaside setting.",
+  "descriptionRo": "Kuzina este un all-day beach bar & restaurant situat chiar pe plaja din Olympiada, unde poți începe ziua cu micul dejun și cafeaua, continua cu ore de relaxare la mare și rămâne pentru prânz, cină sau cocktailuri la apus. Accesul direct la plajă, șezlongurile și umbrelele și priveliștea spre Marea Egee transformă locația într-un loc potrivit pentru o zi întreagă petrecută aproape de apă.\n\nBucătăria combină aromele grecești și mediteraneene cu influențe contemporane, iar meniul este suficient de variat pentru diferite momente ale zilei, cu aperitive, salate, burgeri și preparate mai elaborate. Printre opțiunile documentate în meniul locației se regăsesc și preparate cu midii din Olympiada, creveți, roșii, busuioc și ulei de măsline, punând în valoare legătura restaurantului cu gastronomia marină a zonei.\n\nSpre seară, Kuzina capătă o atmosferă mai elegantă de seaside bar, cu cocktailuri, vinuri și deserturi, iar apusul completează experiența. Locația găzduiește și evenimente, seri cu muzică și evenimente private, fiind potrivită pentru cupluri, familii și grupuri de prieteni care caută mai mult decât un simplu beach bar: plajă, gastronomie și atmosferă de seară într-un singur loc.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/kuzina4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/kuzina/images/menu6.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    No-contact delivery\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great cocktails\n    Great coffee\n    Great dessert\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Cocktails\n    Coffee\n    Late-night food\n    Private dining room\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Breakfast\n    Brunch\n    Lunch\n    Dinner\n    Catering\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Bar on site\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n    Trendy\n\n \n \nCrowd\n\n    Family friendly\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "No-contact delivery",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great cocktails",
+    "Great coffee",
+    "Great dessert",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Cocktails",
+    "Coffee",
+    "Late-night food",
+    "Private dining room",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Breakfast",
+    "Brunch",
+    "Lunch",
+    "Dinner",
+    "Catering",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Bar on site",
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic",
+    "Trendy"
+  ],
+  "crowd": [
+    "Family friendly",
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "greek",
+    "mediterranean",
+    "italian"
+  ]
+}
