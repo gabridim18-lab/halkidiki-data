@@ -9273,5 +9273,35 @@
       "mediterranean",
       "italian"
     ]
+  },
+  {
+    "id": "passepartout",
+    "zone": "Olympiada",
+    "beachSlug": "olympiada-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "PassePartout",
+    "titleRo": "PassePartout",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/passepartout/images/passepartout-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/passepartout/images/passepartout-hero.webp",
+    "lat": 40.59167816675418,
+    "lon": 23.784312354572304,
+    "rating": 4.2,
+    "price": "$$",
+    "shortEn": "PassePartOut Coffee & Bar is a relaxed seaside café-bar in Olympiada, well suited to both laid-back daytime stops and evenings by the...",
+    "shortRo": "PassePartout Coffee & Bar este un café-bar de pe malul mării din Olympiada, potrivit atât pentru momente relaxate în timpul zilei, cât...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
