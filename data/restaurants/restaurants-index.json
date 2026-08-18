@@ -9363,5 +9363,37 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "paraty",
+    "zone": "Olympiada",
+    "beachSlug": "stratoni-beach",
+    "type": "beach_bar",
+    "featured": true,
+    "titleEn": "Paraty",
+    "titleRo": "Paraty",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paraty/images/paraty-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/paraty/images/paraty-hero.webp",
+    "lat": 40.5103305603928,
+    "lon": 23.826547335629133,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Paraty – All Day Beach Bar is a beachfront venue located on the central beach of Stratoni, operating since 2009 and designed as an...",
+    "shortRo": "Paraty – All Day Beach Bar este un beach bar situat chiar pe plaja centrală din Stratoni, activ din 2009 și conceput ca o locație...",
+    "features": [
+      "sunbeds",
+      "cocktails",
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
