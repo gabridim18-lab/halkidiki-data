@@ -9333,5 +9333,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "akrogialio",
+    "zone": "Olympiada",
+    "beachSlug": "olympiada-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Akrogiáli",
+    "titleRo": "Akrogiáli",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio-hero.webp",
+    "lat": 40.59065617411244,
+    "lon": 23.7861715046382,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Akrogiáli is one of Olympiada’s long-established seaside tavernas, with a history dating back to 1924 and continuing through three...",
+    "shortRo": "Akrogiáli este una dintre tavernele cu tradiție din Olympiada, cu o istorie care începe în 1924 și continuă de trei generații....",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

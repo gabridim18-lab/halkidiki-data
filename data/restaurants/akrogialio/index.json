@@ -1,0 +1,204 @@
+{
+  "id": "akrogialio",
+  "zone": "Olympiada",
+  "beachSlug": "olympiada-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Akrogiáli",
+  "titleRo": "Akrogiáli",
+  "displayAddress": "Μιχαήλ Γεωργιάδη, Olimpiada 570 14, Greece",
+  "gpsCoordinates": "40.59065617411244, 23.7861715046382",
+  "lat": 40.59065617411244,
+  "lon": 23.7861715046382,
+  "openingHoursRaw": "Tuesday\n\t\n\n    1–10:30 pm\n\n\t\nWednesday\n\t\n\n    1–10:30 pm\n\n\t\nThursday\n\t\n\n    1–10:30 pm\n\n\t\nFriday\n\t\n\n    1–10:30 pm\n\n\t\nSaturday\n\t\n\n    1 am–10:30 pm\n\n\t\nSunday\n\t\n\n    1–10:30 pm\n\n\t\nMonday\n\t\n\n    1–10:30 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "01:00",
+      "close": "22:30",
+      "labelEn": "01:00–22:30",
+      "labelRo": "01:00–22:30"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "13:00",
+      "close": "22:30",
+      "labelEn": "13:00–22:30",
+      "labelRo": "13:00–22:30"
+    }
+  ],
+  "hoursEn": "Monday: 13:00–22:30; Tuesday: 13:00–22:30; Wednesday: 13:00–22:30; Thursday: 13:00–22:30; Friday: 13:00–22:30; Saturday: 01:00–22:30; Sunday: 13:00–22:30",
+  "hoursRo": "Luni: 13:00–22:30; Marți: 13:00–22:30; Miercuri: 13:00–22:30; Joi: 13:00–22:30; Vineri: 13:00–22:30; Sâmbătă: 01:00–22:30; Duminică: 13:00–22:30",
+  "website": "http://www.restaurant-akroyiali.gr/",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+306971805089",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Akrogiáli is one of Olympiada’s long-established seaside tavernas, with a history dating back to 1924 and continuing through three generations of the same family. Its story began with flavours and recipes brought from Asia Minor, a culinary heritage that still influences the restaurant today. Set directly by the sea opposite Olympiada’s picturesque harbour, Akrogiáli offers waterfront dining during the summer, while an open kitchen allows guests to watch dishes being prepared.\n\nThe menu brings together traditional family recipes and creative fish and seafood dishes. Fresh fish supplied by local fishermen and the famous mussels of Olympiada play an important role, alongside calamari, prawns and octopus. Distinctive dishes include octopus with honey and figs, garlic octopus, seafood risotto, pasta with local mussels and kakavia, the traditional Greek fishermen’s soup. Seasonal and locally sourced ingredients are widely used, and homemade Greek desserts provide a fitting finish to the meal. Vegetarian dishes and options adapted to specific dietary requirements are also available.\n\nAkrogiáli is an excellent choice for visitors looking for more than a typical seaside meal: a restaurant with genuine history and local character, where fresh seafood, products from Olympiada and a peaceful waterfront atmosphere come together naturally.",
+  "descriptionRo": "Akrogiáli este una dintre tavernele cu tradiție din Olympiada, cu o istorie care începe în 1924 și continuă de trei generații. Povestea familiei își are rădăcinile în aromele și rețetele aduse din Asia Mică, iar astăzi restaurantul păstrează această moștenire într-o bucătărie grecească atent lucrată, servită chiar lângă mare, vizavi de micul port din Olympiada. Vara, mesele sunt așezate pe terasa de lângă apă, iar bucătăria deschisă permite oaspeților să urmărească pregătirea preparatelor.\n\nMeniul combină rețete tradiționale de familie cu preparate creative din pește și fructe de mare. Un rol important îl au peștele proaspăt adus de pescarii locali și renumitele midii din Olympiada, alături de calamari, creveți și caracatiță. Printre preparatele distinctive se numără caracatița cu miere și smochine, caracatița cu usturoi, risotto cu fructe de mare, paste cu midii locale și kakavia, tradiționala supă grecească de pește. Salatele și multe dintre ingredientele folosite sunt sezoniere și locale, iar masa poate fi încheiată cu deserturi grecești de casă. Sunt disponibile și preparate vegetariene sau adaptări pentru anumite cerințe alimentare.\n\nAkrogiáli este o alegere deosebită pentru cei care vor să descopere gastronomia locală într-un loc cu identitate și istorie, unde peștele proaspăt, produsele din Olympiada și atmosfera liniștită de la malul mării sunt parte din aceeași experiență.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio5.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/akrogialio5.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/menu5.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/menu6.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/akrogialio/images/menu7.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible car park\n    Wheelchair-accessible entrance\n    Wheelchair-accessible seating\n    Wheelchair-accessible toilet\n\n \n \nService options\n\n    Outdoor seating\n    Takeaway\n    Dine-in\n    Delivery\n\n \n \nHighlights\n\n    Great wine list\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n    Wi-Fi\n    Free Wi-Fi\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n    Romantic\n\n \n \nCrowd\n\n    Groups\n    LGBTQ+ friendly\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n    Credit cards\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed\n    Dogs allowed inside\n    Dogs allowed outside",
+  "accessibility": [
+    "Wheelchair-accessible car park",
+    "Wheelchair-accessible entrance",
+    "Wheelchair-accessible seating",
+    "Wheelchair-accessible toilet"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Takeaway",
+    "Dine-in",
+    "Delivery"
+  ],
+  "highlights": [
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet",
+    "Wi-Fi",
+    "Free Wi-Fi"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet",
+    "Romantic"
+  ],
+  "crowd": [
+    "Groups",
+    "LGBTQ+ friendly",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed",
+    "Dogs allowed inside",
+    "Dogs allowed outside"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
