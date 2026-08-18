@@ -1,0 +1,126 @@
+{
+  "id": "taverna",
+  "zone": "Olympiada",
+  "beachSlug": "stratoni-beach",
+  "type": "taverna",
+  "featured": true,
+  "titleEn": "Tavérna",
+  "titleRo": "Tavérna",
+  "displayAddress": "Stratoni 630 75, Greece",
+  "gpsCoordinates": "40.513890883545606, 23.82695018657593",
+  "lat": 40.513890883545606,
+  "lon": 23.82695018657593,
+  "openingHoursRaw": "Tuesday\n\t\n\n    Open 24 hours\n\n\t\nWednesday\n\t\n\n    Open 24 hours\n\n\t\nThursday\n\t\n\n    Open 24 hours\n\n\t\nFriday\n\t\n\n    Open 24 hours\n\n\t\nSaturday\n\t\n\n    Open 24 hours\n\n\t\nSunday\n\t\n\n    Open 24 hours\n\n\t\nMonday\n\t\n\n    Open 24 hours",
+  "openingHours": [],
+  "hoursEn": "",
+  "hoursRo": "",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302376022295",
+  "price": "$$",
+  "rating": 4.5,
+  "descriptionEn": "Tavérna is a traditional Greek taverna in Stratoni, ideal for visitors looking for local cuisine, fresh fish and seafood in a simple and relaxed setting. The menu focuses on classic Mediterranean flavours, with fresh fish, prawns, grilled octopus, meze, Greek salad and meat dishes, served in an informal style that reflects the character of an authentic Greek taverna.\n\nThe atmosphere is calm and welcoming, with outdoor seating making it a pleasant choice for an unhurried lunch or a relaxed evening meal during your stay. Reservations and takeaway are available, and the venue is also wheelchair accessible. Tavérna is well suited to families, couples and groups of friends looking to enjoy traditional Greek flavours in an uncomplicated local setting in Stratoni.",
+  "descriptionRo": "avérna este o tavernă grecească tradițională din Stratoni, potrivită pentru cei care caută bucătărie locală, pește și fructe de mare într-o atmosferă simplă și relaxată. Meniul pune accent pe preparate mediteraneene clasice, cu pește proaspăt, creveți, caracatiță la grătar, meze, salată grecească și preparate din carne, într-un stil fără formalități, apropiat de experiența unei taverne grecești autentice.\n\nAtmosfera este calmă și primitoare, iar mesele în aer liber fac locația potrivită pentru un prânz fără grabă sau o cină relaxată în timpul vacanței. Sunt disponibile rezervări și takeaway, iar accesul este adaptat și persoanelor cu mobilitate redusă. Tavérna este o alegere potrivită pentru familii, cupluri și grupuri de prieteni care vor să descopere gusturile grecești într-un local tradițional și nepretențios din Stratoni.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/menu4.webp"
+  ],
+  "googleBusinessRaw": "Accessibility\n\n    Wheelchair-accessible seating\n\n \n \nService options\n\n    Outdoor seating\n    Delivery\n    Takeaway\n    Dine-in\n\n \n \nPopular for\n\n    Lunch\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Late-night food\n    Private dining room\n    Quick bite\n    Small plates\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Lunch\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking\n\n \n \nPets\n\n    Dogs allowed",
+  "accessibility": [
+    "Wheelchair-accessible seating"
+  ],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Delivery",
+    "Takeaway",
+    "Dine-in"
+  ],
+  "highlights": [],
+  "popularFor": [
+    "Lunch",
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Late-night food",
+    "Private dining room",
+    "Quick bite",
+    "Small plates",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Lunch",
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [
+    "Dogs allowed"
+  ],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "restaurant",
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly",
+    "pet_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}

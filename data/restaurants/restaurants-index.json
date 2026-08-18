@@ -9395,5 +9395,35 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "taverna",
+    "zone": "Olympiada",
+    "beachSlug": "stratoni-beach",
+    "type": "taverna",
+    "featured": true,
+    "titleEn": "Tavérna",
+    "titleRo": "Tavérna",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/taverna/images/taverna-hero.webp",
+    "lat": 40.513890883545606,
+    "lon": 23.82695018657593,
+    "rating": 4.5,
+    "price": "$$",
+    "shortEn": "Tavérna is a traditional Greek taverna in Stratoni, ideal for visitors looking for local cuisine, fresh fish and seafood in a simple...",
+    "shortRo": "avérna este o tavernă grecească tradițională din Stratoni, potrivită pentru cei care caută bucătărie locală, pește și fructe de mare...",
+    "features": [
+      "restaurant",
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly",
+      "pet_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]
