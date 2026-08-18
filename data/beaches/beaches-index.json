@@ -3008,38 +3008,6 @@
     "suitableForChildren": true
   },
   {
-    "id": "stavros-beach",
-    "zone": "Olympiada",
-    "name": {
-      "en": "Stavros Beach",
-      "ro": "Plaja Stavros"
-    },
-    "previewImage": "stavros-beach.webp",
-    "coordinates": {
-      "lat": 40.67083588323015,
-      "lon": 23.693655709357177
-    },
-    "rating": 4.6,
-    "waterTemperature": 25,
-    "suitableForChildren": true
-  },
-  {
-    "id": "paralia-stavros",
-    "zone": "Olympiada",
-    "name": {
-      "en": "Paralia Stavros",
-      "ro": "Plaja Stavros"
-    },
-    "previewImage": "paralia-stavros.webp",
-    "coordinates": {
-      "lat": 40.66077892112816,
-      "lon": 23.72379070479856
-    },
-    "rating": 3.9,
-    "waterTemperature": 24,
-    "suitableForChildren": true
-  },
-  {
     "id": "milies-beach",
     "zone": "Olympiada",
     "name": {
@@ -3070,6 +3038,38 @@
     "rating": 4.7,
     "waterTemperature": 25,
     "suitableForChildren": false
+  },
+  {
+    "id": "stavros-beach",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Stavros Beach",
+      "ro": "Plaja Stavros"
+    },
+    "previewImage": "stavros-beach.webp",
+    "coordinates": {
+      "lat": 40.67083588323015,
+      "lon": 23.693655709357177
+    },
+    "rating": 4.6,
+    "waterTemperature": 25,
+    "suitableForChildren": true
+  },
+  {
+    "id": "paralia-stavros",
+    "zone": "Olympiada",
+    "name": {
+      "en": "Paralia Stavros",
+      "ro": "Plaja Stavros"
+    },
+    "previewImage": "paralia-stavros.webp",
+    "coordinates": {
+      "lat": 40.66077892112816,
+      "lon": 23.72379070479856
+    },
+    "rating": 3.9,
+    "waterTemperature": 24,
+    "suitableForChildren": true
   },
   {
     "id": "vrasna-beach",
