@@ -84,8 +84,8 @@
   "phone": "+306955689995",
   "price": "$$",
   "rating": 4.8,
-  "descriptionEn": "Sunvibe is a relaxed beach bar located directly on Polychrono Beach, offering an inviting setting for coffee, refreshing drinks and cocktails beside the sea. Its outdoor area and beachfront position make it a pleasant choice for couples, families and groups of friends looking to enjoy the easy-going atmosphere of a Halkidiki summer.\n\nCurrent listings show opening hours of approximately 8:30 AM to midnight, with reservations and private parking available. Booking may be helpful during weekends and the busiest summer months, while arriving at around 9:00–9:30 AM is a practical choice for easier parking and a better selection of beach spots. Opening hours and sunbed conditions should be reconfirmed seasonally.",
-  "descriptionRo": "Sunvibe este un beach bar relaxat situat pe plaja din Polychrono, potrivit pentru o zi petrecută lângă mare, cu cafea, băuturi răcoritoare și cocktailuri într-o atmosferă autentică de vacanță. Spațiul exterior și accesul direct la plajă îl fac o alegere plăcută atât pentru familii, cât și pentru cupluri sau grupuri de prieteni.\n\nProgramul este listat în prezent între 08:30 și 00:00, iar locația apare cu rezervări disponibile și parcare proprie. În weekend și în lunile aglomerate, rezervarea poate fi utilă, iar sosirea în jurul orei 09:00–09:30 oferă, în mod practic, șanse mai bune pentru parcare și alegerea unui loc convenabil pe plajă. Programul și condițiile șezlongurilor trebuie confirmate sezonier.",
+  "descriptionEn": "!!Reservations can be made only to 10:30 every day!! Sunvibe is a relaxed beach bar located directly on Polychrono Beach, offering an inviting setting for coffee, refreshing drinks and cocktails beside the sea. Its outdoor area and beachfront position make it a pleasant choice for couples, families and groups of friends looking to enjoy the easy-going atmosphere of a Halkidiki summer.\n\nCurrent listings show opening hours of approximately 8:30 AM to midnight, with reservations and private parking available. Booking may be helpful during weekends and the busiest summer months, while arriving at around 9:00–9:30 AM is a practical choice for easier parking and a better selection of beach spots. Opening hours and sunbed conditions should be reconfirmed seasonally.",
+  "descriptionRo": "!!Rezervari se pot face numai pana la ora 10:30!! Sunvibe este un beach bar relaxat situat pe plaja din Polychrono, potrivit pentru o zi petrecută lângă mare, cu cafea, băuturi răcoritoare și cocktailuri într-o atmosferă autentică de vacanță. Spațiul exterior și accesul direct la plajă îl fac o alegere plăcută atât pentru familii, cât și pentru cupluri sau grupuri de prieteni.\n\nProgramul este listat în prezent între 08:30 și 00:00, iar locația apare cu rezervări disponibile și parcare proprie. În weekend și în lunile aglomerate, rezervarea poate fi utilă, iar sosirea în jurul orei 09:00–09:30 oferă, în mod practic, șanse mai bune pentru parcare și alegerea unui loc convenabil pe plajă. Programul și condițiile șezlongurilor trebuie confirmate sezonier.",
   "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunvibe/images/sunvibe-hero.webp",
   "images": [
     "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/sunvibe/images/sunvibe-hero.webp",
@@ -179,7 +179,7 @@
   "pets": [
     "Dogs allowed"
   ],
-  "sunbedPrice": "40Euro/set",
+  "sunbedPrice": "20Euro/set",
   "sunbedConsumationIncluded": true,
   "musicStyles": [
     "chill",
