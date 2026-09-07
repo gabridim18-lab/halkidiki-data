@@ -9425,5 +9425,33 @@
       "greek",
       "mediterranean"
     ]
+  },
+  {
+    "id": "achinos-seaside",
+    "zone": "Thessaloniki",
+    "beachSlug": "sahara-beach",
+    "type": "restaurant",
+    "featured": true,
+    "titleEn": "Achinos Seaside",
+    "titleRo": "Achinos Seaside",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside-hero.webp",
+    "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside-hero.webp",
+    "lat": 40.34099877173415,
+    "lon": 23.016930574865054,
+    "rating": 4.7,
+    "price": "$$",
+    "shortEn": "Achinos Seaside Restaurant is a seafood-focused restaurant in Nea Irakleia, well suited to visitors looking for a relaxed meal close...",
+    "shortRo": "Achinos Seaside Restaurant Σερτσίδης este un restaurant cu profil pescăresc din Nea Irakleia, potrivit pentru cei care caută o masă...",
+    "features": [
+      "parking",
+      "sea_view",
+      "sunset_view",
+      "family_friendly"
+    ],
+    "cuisineTypes": [
+      "seafood",
+      "greek",
+      "mediterranean"
+    ]
   }
 ]

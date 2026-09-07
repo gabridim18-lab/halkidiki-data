@@ -1,0 +1,183 @@
+{
+  "id": "achinos-seaside",
+  "zone": "Thessaloniki",
+  "beachSlug": "sahara-beach",
+  "type": "restaurant",
+  "featured": true,
+  "titleEn": "Achinos Seaside",
+  "titleRo": "Achinos Seaside",
+  "displayAddress": "Νέα Ηράκλεια 630 80, Greece",
+  "gpsCoordinates": "40.34099877173415, 23.016930574865054",
+  "lat": 40.34099877173415,
+  "lon": 23.016930574865054,
+  "openingHoursRaw": "Monday\n\t\n\n    12–11 pm\n\n\t\nTuesday\n\t\n\n    12–11 pm\n\n\t\nWednesday\n\t\n\n    12–11 pm\n\n\t\nThursday\n\t\n\n    12–11 pm\n\n\t\nFriday\n\t\n\n    12–11 pm\n\n\t\nSaturday\n\t\n\n    12–11 pm\n\n\t\nSunday\n\t\n\n    12–11 pm",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "dayRo": "Luni",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Tuesday",
+      "dayRo": "Marți",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Wednesday",
+      "dayRo": "Miercuri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Thursday",
+      "dayRo": "Joi",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Friday",
+      "dayRo": "Vineri",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Saturday",
+      "dayRo": "Sâmbătă",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    },
+    {
+      "day": "Sunday",
+      "dayRo": "Duminică",
+      "closed": false,
+      "open": "12:00",
+      "close": "23:00",
+      "labelEn": "12:00–23:00",
+      "labelRo": "12:00–23:00"
+    }
+  ],
+  "hoursEn": "Monday: 12:00–23:00; Tuesday: 12:00–23:00; Wednesday: 12:00–23:00; Thursday: 12:00–23:00; Friday: 12:00–23:00; Saturday: 12:00–23:00; Sunday: 12:00–23:00",
+  "hoursRo": "Luni: 12:00–23:00; Marți: 12:00–23:00; Miercuri: 12:00–23:00; Joi: 12:00–23:00; Vineri: 12:00–23:00; Sâmbătă: 12:00–23:00; Duminică: 12:00–23:00",
+  "website": "",
+  "facebook": "",
+  "instagram": "",
+  "phone": "+302399061074",
+  "price": "$$",
+  "rating": 4.7,
+  "descriptionEn": "Achinos Seaside Restaurant is a seafood-focused restaurant in Nea Irakleia, well suited to visitors looking for a relaxed meal close to the sea with an emphasis on Greek flavours and seafood. Current local sources identify the venue as Achinos Seaside Restaurant in Nea Irakleia, while its dining profile is centred primarily around fish and seafood.\n\nIts seaside character makes it an inviting choice for both a leisurely lunch and an unhurried summer dinner. Fish and seafood are at the heart of the experience, complemented by dishes inspired by Greek and Mediterranean cuisine. Achinos is a pleasant option for couples, families and groups of friends looking for seafood and an easy-going coastal atmosphere during their stay in Halkidiki.",
+  "descriptionRo": "Achinos Seaside Restaurant Σερτσίδης este un restaurant cu profil pescăresc din Nea Irakleia, potrivit pentru cei care caută o masă relaxată aproape de mare, cu accent pe aromele Greciei și pe produsele marine. Locația este identificată în sursele locale actuale drept Achinos Seaside Restaurant din Nea Irakleia, iar profilul său gastronomic este orientat în principal spre pește și fructe de mare.\n\nAtmosfera de litoral îl face potrivit atât pentru un prânz liniștit, cât și pentru o cină de vară fără grabă. Peștele și fructele de mare sunt în centrul experienței, completate de preparate inspirate din bucătăria grecească și mediteraneană. Este o alegere potrivită pentru cupluri, familii și grupuri de prieteni care preferă un restaurant axat pe gusturile mării și atmosfera relaxată specifică unei vacanțe în Halkidiki.",
+  "heroImage": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside-hero.webp",
+  "images": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside-hero.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside4.webp"
+  ],
+  "galleryImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/achinos-seaside4.webp"
+  ],
+  "menuImages": [
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/menu1.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/menu2.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/menu3.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/menu4.webp",
+    "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/restaurants/achinos-seaside/images/menu5.webp"
+  ],
+  "googleBusinessRaw": "Service options\n\n    Outdoor seating\n    Dine-in\n\n \n \nHighlights\n\n    Great beer selection\n    Great coffee\n    Great wine list\n\n \n \nPopular for\n\n    Dinner\n    Solo dining\n\n \n \nOfferings\n\n    Alcohol\n    Beer\n    Coffee\n    Spirits\n    Wine\n\n \n \nDining options\n\n    Dinner\n    Dessert\n    Seating\n    Table service\n\n \n \nAmenities\n\n    Toilet\n\n \n \nAtmosphere\n\n    Casual\n    Cosy\n    Quiet\n\n \n \nCrowd\n\n    Groups\n    Tourists\n\n \n \nPlanning\n\n    Accepts reservations\n\n \n \nPayments\n\n    Credit cards\n    Debit cards\n    NFC mobile payments\n\n \n \nChildren\n\n    Good for kids\n    High chairs\n    Kids' menu\n\n \n \nParking\n\n    Free of charge street parking\n    Free parking lot\n    Plenty of parking",
+  "accessibility": [],
+  "serviceOptions": [
+    "Outdoor seating",
+    "Dine-in"
+  ],
+  "highlights": [
+    "Great beer selection",
+    "Great coffee",
+    "Great wine list"
+  ],
+  "popularFor": [
+    "Dinner",
+    "Solo dining"
+  ],
+  "offerings": [
+    "Alcohol",
+    "Beer",
+    "Coffee",
+    "Spirits",
+    "Wine"
+  ],
+  "diningOptions": [
+    "Dinner",
+    "Dessert",
+    "Seating",
+    "Table service"
+  ],
+  "amenities": [
+    "Toilet"
+  ],
+  "atmosphere": [
+    "Casual",
+    "Cosy",
+    "Quiet"
+  ],
+  "crowd": [
+    "Groups",
+    "Tourists"
+  ],
+  "planning": [
+    "Accepts reservations"
+  ],
+  "payments": [
+    "Credit cards",
+    "Debit cards",
+    "NFC mobile payments"
+  ],
+  "children": [
+    "Good for kids",
+    "High chairs",
+    "Kids' menu"
+  ],
+  "parking": [
+    "Free of charge street parking",
+    "Free parking lot",
+    "Plenty of parking"
+  ],
+  "pets": [],
+  "sunbedPrice": "",
+  "sunbedConsumationIncluded": false,
+  "musicStyles": [],
+  "features": [
+    "parking",
+    "sea_view",
+    "sunset_view",
+    "family_friendly"
+  ],
+  "cuisineTypes": [
+    "seafood",
+    "greek",
+    "mediterranean"
+  ]
+}
