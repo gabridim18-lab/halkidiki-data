@@ -1014,5 +1014,19 @@
     "guests": 12,
     "bedrooms": 2,
     "bathrooms": 1
+  },
+  {
+    "id": "almira_blue",
+    "zone": "Thessaloniki",
+    "beachSlug": "sahara-beach",
+    "titleEn": "Almira Blue",
+    "titleRo": "Almira Blue",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/almira_blue/images/almira_blue.webp",
+    "category": "family_friendly",
+    "rating": 9.5,
+    "featured": true,
+    "guests": 5,
+    "bedrooms": 2,
+    "bathrooms": 1
   }
 ]
