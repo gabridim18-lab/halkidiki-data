@@ -24,6 +24,7 @@
     "beaches": [
       "dionisiou-beach",
       "nea-moudania-beach",
+      "sahara-beach",
       "paralia-nea-moudania"
     ]
   },
@@ -35,6 +36,7 @@
     "beaches": [
       "dionisiou-beach",
       "nea-moudania-beach",
+      "sahara-beach",
       "paralia-nea-moudania"
     ],
     "lat": 40.24501665870489,
@@ -51,6 +53,7 @@
       "paralia-nea-moudania",
       "nea-moudania-beach",
       "dionisiou-beach",
+      "sahara-beach",
       "gremia-beach",
       "paralia-nea-potidea",
       "nea-potidea-beach"
@@ -127,6 +130,7 @@
     "beaches": [
       "beach-mykoniatika",
       "nea-plagia-beach",
+      "sahara-beach",
       "mykoniatika-secret-beach"
     ],
     "lat": 40.30010776455952,
