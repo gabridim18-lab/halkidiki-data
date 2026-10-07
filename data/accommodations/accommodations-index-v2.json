@@ -1028,5 +1028,19 @@
     "guests": 5,
     "bedrooms": 2,
     "bathrooms": 1
+  },
+  {
+    "id": "theasis_studio_4_in_neos_marmaras",
+    "zone": "Sithonia",
+    "beachSlug": "neos-marmaras-beach",
+    "titleEn": "Theasis Studio 4 in Neos Marmaras",
+    "titleRo": "Theasis Studio 4 in Neos Marmaras",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/theasis_studio_4_in_neos_marmaras/images/theasis_studio_4_in_neos_marmaras.webp",
+    "category": "family_friendly",
+    "rating": 9.5,
+    "featured": true,
+    "guests": 3,
+    "bedrooms": 1,
+    "bathrooms": 1
   }
 ]
