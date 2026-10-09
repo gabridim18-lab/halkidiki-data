@@ -1070,5 +1070,19 @@
     "guests": 4,
     "bedrooms": 1,
     "bathrooms": 1
+  },
+  {
+    "id": "sea_shore_apartment_in_perea",
+    "zone": "Thessaloniki",
+    "beachSlug": "perea-beach",
+    "titleEn": "Sea Shore Apartment in Perea",
+    "titleRo": "Sea Shore Apartment in Perea",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/sea_shore_apartment_in_perea/images/sea_shore_apartment_in_perea.webp",
+    "category": "family_friendly",
+    "rating": 9.5,
+    "featured": false,
+    "guests": 0,
+    "bedrooms": 2,
+    "bathrooms": 1
   }
 ]
