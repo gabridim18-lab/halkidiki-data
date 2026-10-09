@@ -1098,5 +1098,19 @@
     "guests": 5,
     "bedrooms": 2,
     "bathrooms": 1
+  },
+  {
+    "id": "sea_breeze_paradise",
+    "zone": "Kassandra",
+    "beachSlug": "agios-nikolaos-kanistro-beach",
+    "titleEn": "Sea Breeze Paradise",
+    "titleRo": "Sea Breeze Paradise",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/sea_breeze_paradise/images/sea_breeze_paradise.webp",
+    "category": "family_friendly",
+    "rating": 9.5,
+    "featured": false,
+    "guests": 5,
+    "bedrooms": 2,
+    "bathrooms": 2
   }
 ]
