@@ -1084,5 +1084,19 @@
     "guests": 0,
     "bedrooms": 2,
     "bathrooms": 1
+  },
+  {
+    "id": "villa_nefeli",
+    "zone": "Sithonia",
+    "beachSlug": "paralia-agios-nikolaos",
+    "titleEn": "Villa Nefeli",
+    "titleRo": "Villa Nefeli",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_nefeli/images/villa_nefeli.webp",
+    "category": "family_friendly",
+    "rating": 9.5,
+    "featured": false,
+    "guests": 5,
+    "bedrooms": 2,
+    "bathrooms": 1
   }
 ]
