@@ -1112,5 +1112,19 @@
     "guests": 5,
     "bedrooms": 2,
     "bathrooms": 2
+  },
+  {
+    "id": "mm_villas_vourvourou",
+    "zone": "Sithonia",
+    "beachSlug": "karydi-beach",
+    "titleEn": "M & M Villas Vourvourou",
+    "titleRo": "M & M Villas Vourvourou",
+    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/mm_villas_vourvourou/images/mm_villas_vourvourou.webp",
+    "category": "family_friendly",
+    "rating": 9.5,
+    "featured": false,
+    "guests": 12,
+    "bedrooms": 5,
+    "bathrooms": 4
   }
 ]
