@@ -442,19 +442,6 @@
     "bedrooms": 2
   },
   {
-    "id": "kastamoniti_suite_in_nikiti",
-    "zone": "Sithonia",
-    "beachSlug": "Nikiti Beach",
-    "titleEn": "Pine&Sea Kastamoniti beach in Nikiti",
-    "titleRo": "Pine&Sea Kastamoniti beach in Nikiti",
-    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/kastamoniti_suite_in_nikiti/images/kastamoniti_nikiti.webp",
-    "category": "family_friendly",
-    "rating": 10,
-    "featured": true,
-    "guests": 4,
-    "bedrooms": 1
-  },
-  {
     "id": "kate_app_perea",
     "zone": "Thessaloniki",
     "beachSlug": "Perea Beach",
@@ -533,19 +520,6 @@
     "bedrooms": 2
   },
   {
-    "id": "little_paradise_siviri",
-    "zone": "Kassandra",
-    "beachSlug": "Siviri Beach",
-    "titleEn": "Little Paradise in Siviri",
-    "titleRo": "Little Paradise in Siviri",
-    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/little_paradise_siviri/images/acc_paradise_siviri.webp",
-    "category": "escape_and_relax",
-    "rating": 9.8,
-    "featured": false,
-    "guests": 9,
-    "bedrooms": 3
-  },
-  {
     "id": "lutra_beach_triple_room",
     "zone": "Kassandra",
     "beachSlug": "Loutra Agias Paraskevis Beach",
@@ -609,19 +583,6 @@
     "featured": false,
     "guests": 6,
     "bedrooms": 2
-  },
-  {
-    "id": "on_the_rock_sky_view_suite",
-    "zone": "Kassandra",
-    "beachSlug": "Athytos Beach",
-    "titleEn": "On the Rock Sky View Suite",
-    "titleRo": "On the Rock Sky View Suite",
-    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/on_the_rock_sky_view_suite/images/on_the_rock_sky_view_suite.webp",
-    "category": "family_friendly",
-    "rating": 10.0,
-    "featured": true,
-    "guests": 4,
-    "bedrooms": 1
   },
   {
     "id": "polichrono_summer_escape",
@@ -896,72 +857,7 @@
     "guests": 14,
     "bedrooms": 5
   },
-  {
-    "id": "villa_ulyana_in_klimataria",
-    "zone": "Sithonia",
-    "beachSlug": "Prassou Beach",
-    "titleEn": "Villa Ulyana in Klimataria",
-    "titleRo": "Vila Ulyana in Klimataria",
-    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_ulyana_in_klimataria/images/villa_ulyana_in_klimataria.webp",
-    "category": "family_friendly",
-    "rating": 10.0,
-    "featured": false,
-    "guests": 4,
-    "bedrooms": 2
-  },
-  {
-    "id": "villa_ulyana_in_kriaritsi",
-    "zone": "Sithonia",
-    "beachSlug": "Kriaritsi Beach",
-    "titleEn": "Villa Ulyana in Kriaritsi",
-    "titleRo": "Vila Ulyana in Kriaritsi",
-    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_ulyana_in_kriaritsi/images/villa_ulyana_in_kriaritsi.webp",
-    "category": "family_friendly",
-    "rating": 10.0,
-    "featured": true,
-    "guests": 5,
-    "bedrooms": 2
-  },
-  {
-    "id": "villa_ulyana_in_sarti",
-    "zone": "Sithonia",
-    "beachSlug": "Sarti Beach",
-    "titleEn": "Villa Ulyana in Sarti",
-    "titleRo": "Vila Ulyana in Sarti",
-    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_ulyana_in_sarti/images/villa_ulyana_in_sarti.webp",
-    "category": "family_friendly",
-    "rating": 10.0,
-    "featured": true,
-    "guests": 4,
-    "bedrooms": 2
-  },
-  {
-    "id": "villa_veneti_probio_140m",
-    "zone": "Kassandra",
-    "beachSlug": "Paralia Nea Moudania",
-    "titleEn": "Villa Veneti Probio - Nea Moudania - 140m2",
-    "titleRo": "Villa Veneti Probio - Nea Moudania - 140m2",
-    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_probio_140m/images/acc_villa_ventibig.webp",
-    "category": "perfect_for_groups",
-    "rating": 9.3,
-    "featured": true,
-    "guests": 8,
-    "bedrooms": 3
-  },
-  {
-    "id": "villa_veneti_suite",
-    "zone": "Kassandra",
-    "beachSlug": "Nea Moudania Beach",
-    "titleEn": "Villa Veneti Suite - Nea Moudania - 80m2",
-    "titleRo": "Villa Veneti Suite - Nea Moudania - 80m2",
-    "image": "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-data/main/data/accommodations/villa_veneti_suite/images/acc_villa_venti.webp",
-    "category": "perfect_for_groups",
-    "rating": 9.3,
-    "featured": false,
-    "guests": 4,
-    "bedrooms": 2
-  },
-  {
+   {
     "id": "xenius_zeus_apartments_in_kriopigi",
     "zone": "Kassandra",
     "beachSlug": "Kryopigi Beach",
